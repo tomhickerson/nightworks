@@ -120,8 +120,8 @@ stand stand male 10000
 0 0 medium 0
 #5608
 bird aarakocra child lame~
-a lame aarakocra~
-A young aarakocra looks uncomfortable in his wing and arm cast.
+a lame aarakocran~
+A young aarakocran looks uncomfortable in his wing and arm cast.
 ~
 This young bird drank too much and tried to fly home, crashing into the side
 of a cliff.  He won't be able to fly until his arm bone has knitted back
@@ -200,9 +200,9 @@ the aarakocran revolutionary~
 A revolutionary plots the overthrow of his corrupt government.
 ~
 The bitter revolutionary is plotting to overthrow his corrupt government.  He
-has been secretly flying about building an organization against the corrupt
+has been secretly building an organization against the corrupt
 commanders of the southern stronghold.  He feels that most Aarakocrans were
-much better off before merchant outsiders corrupt Aarakocran ideals.  You
+much better off before merchant outsiders corrupted Aarakocran ideals.  You
 represent such a threat, and you can see his eyes smoldering with inner hatred.
 ~
 bird~
@@ -315,7 +315,7 @@ The vendor has no problems looking at you and carrying on a conversation as
 he sharpens two pairs of talon extenders simultaneously on a round sharpening
 wheel he is spinning with one of his feet.  The other foot is working a bellows
 for a large metal furnace.
-   He looks powerful enough to claw your face to shreds with a single swath.
+He looks powerful enough to claw your face to shreds with a single swath.
 ~
 bird~
 ABGN T 0 0
@@ -357,7 +357,7 @@ stand stand male 1000
 #5623
 bird aarakocra aarakocran sneaky guildmaster thief assassin~
 the sneaky aarakocran guildmaster~
-Your guildmaster is picking a *HUGE* (Glowing) Mithral lock.
+Your guildmaster is picking a *HUGE* (Glowing) Mithril lock.
 ~
 well, COUNT your money!
 ~
@@ -668,7 +668,7 @@ container 0 0
 #5622
 hand ashtray~
 an ashtray~
-An ashtray made out of the hand of a smurf lies on the floor.~
+An ashtray made out of the hand of an orc lies on the floor.~
 gut~
 furniture 0 AO
 0 0 0 0 0
@@ -759,7 +759,7 @@ A
 #5632
 canoe~
 a light weight canoe~
-A canoe is lies here unused.~
+A canoe lies here, unused.~
 wood~
 trash 0 A
 0 0 0 0 0
@@ -819,7 +819,7 @@ A
 #5638
 vest~
 an open-winged vest~
-You see an Aarakocran-manufacture open-winged vest here.~
+You see an Aarakocran-manufactured open-winged vest here.~
 steel~
 armor AO AD
 5 5 5 1 1
@@ -851,7 +851,7 @@ armor A AC
 #5641
 helmet~
 a full-view helmet~
-You see an Aarakocran-manufacture full-view helmet here.~
+You see an Aarakocran-manufactured full-view helmet here.~
 steel~
 armor AO AE
 5 1 1 1 1 
@@ -873,7 +873,7 @@ armor AO AF
 #5643
 boots~
 a pair of open-toe boots~
-You see a pair of Aarakocran-manufacture boots here.~
+You see a pair of Aarakocran-manufactured boots here.~
 snakeskin~
 armor A AG
 5 5 5 1 1
@@ -931,7 +931,7 @@ armor AO AM
 #5649
 vest~
 an open-winged vest~
-You see an Aarakocran-manufacture open-winged vest here.~
+You see an Aarakocran-manufactured open-winged vest here.~
 steel~
 armor B AD
 5 5 5 5 1
@@ -963,7 +963,7 @@ armor B AC
 #5652
 helmet~
 a full-view helmet~
-You see an Aarakocran-manufacture full-view helmet here.~
+You see an Aarakocran-manufactured full-view helmet here.~
 brass~
 armor BO AE
 5 3 4 1 1
@@ -1155,7 +1155,7 @@ drink without removing the helmet.
 #5670
 vest~
 an open-winged vest~
-You see an Aarakocran-manufacture open-winged vest here.~
+You see an Aarakocran-manufactured open-winged vest here.~
 snakeskin~
 armor 0 AD
 6 5 7 1 1
@@ -1169,7 +1169,7 @@ take it off without getting your feathers caught.
 #5671
 boots~
 a pair of open-toe boots~
-You see a pair of Aarakocran-mangufacture boots here.~
+You see a pair of Aarakocran-manufactured boots here.~
 brass~
 armor 0 AG
 5 6 7 1 1
@@ -1233,12 +1233,12 @@ treasure 0 A
 E
 rock~
 When you look at the rock, you think of a lonely kobold balling his eyes
-out in some dinghy back room.
+out in some dingy back room.
 ~
 #5677
 flying helmet~
 a leather flying helmet~
-You see an Aarakocran-manufacture leather flying helmet here.~
+You see an Aarakocran-manufactured leather flying helmet here.~
 steel~
 armor 0 AE
 5 6 7 3 1
@@ -1412,7 +1412,7 @@ S
 Shaman's private chambers~
 You stand in a holy room.  The walls are covered with astrological symbols,
 calendars, and star charts.
-   In the center of the room is a huge mosaic, made of thousands of bits of
+In the center of the room is a huge mosaic, made of thousands of bits of
 glass.
 ~
 0 DK 1
@@ -1431,8 +1431,7 @@ S
 #5608
 The Dump~
 Wait, this isn't the dump!  Behind all of this mess is a beaten up table.
-You see a lot of things, but nothing here is very pretty or very shiny, and you
-decide to leave.
+You see a lot of things, but nothing here is very pretty or very shiny.
 ~
 0 0 1
 D1
@@ -1622,7 +1621,7 @@ S
 #5618
 Bottom of Market Square~
 You are at the bottom of the market square.  Stalls continue to your East
-and West, while dwellings lie to the Down.  To the South, you see a (Glowing)
+and West, while dwellings lie below you.  To the South, you see a (Glowing)
 (Shimmering) (Pulsating) blue ball, about 10' across, hovering in the air.
 ~
 0 0 1
@@ -1675,8 +1674,8 @@ D4
 S
 #5620
 The Weaponsmith's stall~
-This stall looks like it has expended very rapidly, and has almost become a
-shop.  It doesn't look like the weaponsmith couldn't take down the stall very
+This stall looks like it has expanded very rapidly, and has almost become a
+shop.  It doesn't look like the weaponsmith could take down the stall very
 easily, as he has installed a blast furnace, a grinding wheel, and some forging
 equipment.
 ~
@@ -1760,7 +1759,7 @@ S
 #5625
 Town Square~
 You stand in the middle of the Town Square.  Stone dwellings lie to the East
-and West, and the Bazaar lies to the Up.  There is a path to the Down.  There
+and West, and the Bazaar is somewhere above you.  There is a path Down.  There
 is nothing to the South.
 ~
 0 0 5
@@ -1784,7 +1783,7 @@ D4
 0 -1 5618
 D5
 You feel that you can jump from rock to rock and scale on your belly long
-enough to get to some small huts you see to the DownEast.  You can clearly
+enough to get to some small huts you see to the East.  You can clearly
 see some wicked, jagged crags through a part in the clouds below.
 ~
 ~
@@ -1829,10 +1828,10 @@ S
 #5630
 On the north cliff face~
 It looks like you could slide back on your belly a bit to the East, but
-forget about going West, it's much to steep.  There is a little bit of level
+forget about going West, it's much too steep.  There is a little bit of level
 ground Down from here, but there is no way you could reach it.  You see the
 outside of a stone building built right into the cliff face above you, but the
-climb is too steep.
+climb is also very steep.
 ~
 0 0 5
 D1
@@ -1849,7 +1848,7 @@ S
 #5631
 The Shanty town~
 You are in an area of straw huts constructed by the less prosperous
-Aarakocrans in a vain attempt to emulate the stone buildings to the Up.  These
+Aarakocrans in a vain attempt to emulate the stone buildings above them.  These
 structures do not have the natural permanence of the well built buildings or
 the traditional nests, and the residents spend most of their time keeping them
 together.
@@ -2033,7 +2032,7 @@ S
 #5638
 The Shanty town~
 You are in an area of straw huts constructed by the less prosperous
-Aarakocrans in a vain attempt to emulate the stone buildings to the Up.  These
+Aarakocrans in a vain attempt to emulate the stone buildings above them.  These
 structures do not have the natural permanence of the well built buildings or
 the traditional nests, and the residents spend most of their time keeping them
 together.
@@ -2074,7 +2073,7 @@ S
 #5640
 The Shanty town~
 You are in an area of straw huts constructed by the less prosperous
-Aarakocrans in a vain attempt to emulate the stone buildings to the Up.  These
+Aarakocrans in a vain attempt to emulate the stone buildings above them.  These
 structures do not have the natural permanence of the well built buildings or
 the traditional nests, and the residents spend most of their time keeping them
 together.
@@ -2107,7 +2106,7 @@ S
 #5641
 The Shanty town~
 You are in an area of straw huts constructed by the less prosperous
-Aarakocrans in a vain attempt to emulate the stone buildings to the Up.  These
+Aarakocrans in a vain attempt to emulate the stone buildings above them.  These
 structures have neither the natural permanence of the well built buildings or
 the strength of traditional nests, and the residents spend most of their time
 keeping these huts together.
@@ -3204,7 +3203,6 @@ door~
 D1
 There are some heavy footprints leading to the west, so I would suggest
 avoiding this area and turning around right now.
-   You think you hear your mother calling you.
 ~
 ~
 0 -1 5684
@@ -3226,9 +3224,9 @@ D3
 S
 #5663
 Confusing Corridor~
-This corridor splits into two sections heading N and E, both sections look
+This corridor splits into two sections heading North and East, both sections look
 equally interesting and you have a hard time making up your mind.  It is
-obvious from your footprints that W leads out of this confusing area.
+obvious from your footprints that West leads out of this confusing area.
 ~
 0 D 1
 D0
@@ -3246,9 +3244,9 @@ D3
 S
 #5676
 Confusing Corridor~
-This corridor splits into two sections heading N and E, both sections look
+This corridor splits into two sections heading North and East, both sections look
 equally interesting and you have a hard time making up your mind.  It is
-obvious from your footprints that W leads out of this confusing area.
+obvious from your footprints that West leads out of this confusing area.
 ~
 0 D 1
 D0
@@ -3266,9 +3264,9 @@ D4
 S
 #5677
 Confusing Corridor~
-This corridor splits into two sections heading N and E, both sections look
+This corridor splits into two sections heading North and East, both sections look
 equally interesting and you have a hard time making up your mind.  It is
-obvious from your footprints that W leads out of this confusing area.
+obvious from your footprints that West leads out of this confusing area.
 ~
 0 D 1
 D0
@@ -3286,9 +3284,9 @@ D3
 S
 #5654
 Confusing Corridor~
-This corridor splits into two sections heading N and E, both sections look
+This corridor splits into two sections heading North and East, both sections look
 equally interesting and you have a hard time making up your mind.  It is
-obvious from your footprints that W leads out of this confusing area.
+obvious from your footprints that West leads out of this confusing area.
 ~
 0 D 1
 D0
@@ -3306,9 +3304,9 @@ D4
 S
 #5655
 Confusing Corridor~
-This corridor splits into two sections heading N and E, both sections look
+This corridor splits into two sections heading North and East, both sections look
 equally interesting and you have a hard time making up your mind.  It is
-obvious from your footprints that W leads out of this confusing area.
+obvious from your footprints that West leads out of this confusing area.
 ~
 0 D 1
 D0
@@ -3326,9 +3324,9 @@ D3
 S
 #5656
 Confusing Corridor~
-This corridor splits into two sections heading N and E, both sections look
+This corridor splits into two sections heading North and East, both sections look
 equally interesting and you have a hard time making up your mind.  It is
-obvious from your footprints that W leads out of this confusing area.
+obvious from your footprints that West leads out of this confusing area.
 ~
 0 D 1
 D0
@@ -3346,9 +3344,9 @@ D4
 S
 #5657
 Confusing Corridor~
-This corridor splits into two sections heading N and E, both sections look
+This corridor splits into two sections heading North and East, both sections look
 equally interesting and you have a hard time making up your mind.  It is
-obvious from your footprints that W leads out of this confusing area.
+obvious from your footprints that West leads out of this confusing area.
 ~
 0 D 1
 D3
@@ -3358,9 +3356,9 @@ D3
 S
 #5658
 Confusing Corridor~
-This corridor splits into two sections heading N and E, both sections look
+This corridor splits into two sections heading North and East, both sections look
 equally interesting and you have a hard time making up your mind.  It is
-obvious from your footprints that W leads out of this confusing area.
+obvious from your footprints that West leads out of this confusing area.
 ~
 0 D 1
 D4
@@ -3370,9 +3368,9 @@ D4
 S
 #5659
 Confusing Corridor~
-This corridor splits into two sections heading N and E, both sections look
+This corridor splits into two sections heading North and East, both sections look
 equally interesting and you have a hard time making up your mind.  It is
-obvious from your footprints that W leads out of this confusing area.
+obvious from your footprints that West leads out of this confusing area.
 ~
 0 D 1
 D3
@@ -3382,9 +3380,9 @@ D3
 S
 #5668
 Confusing Corridor~
-This corridor splits into two sections heading N and E, both sections look
+This corridor splits into two sections heading North and East, both sections look
 equally interesting and you have a hard time making up your mind.  It is
-obvious from your footprints that W leads out of this confusing area.
+obvious from your footprints that Work leads out of this confusing area.
 ~
 0 D 1
 D4
@@ -3394,9 +3392,9 @@ D4
 S
 #5669
 Confusing Corridor~
-This corridor splits into two sections heading N and E, both sections look
+This corridor splits into two sections heading North and East, both sections look
 equally interesting and you have a hard time making up your mind.  It is
-obvious from your footprints that W leads out of this confusing area.
+obvious from your footprints that West leads out of this confusing area.
 ~
 0 D 1
 D3
@@ -3406,9 +3404,9 @@ D3
 S
 #5670
 Confusing Corridor~
-This corridor splits into two sections heading N and E, both sections look
+This corridor splits into two sections heading North and East, both sections look
 equally interesting and you have a hard time making up your mind.  It is
-obvious from your footprints that W leads out of this confusing area.
+obvious from your footprints that West leads out of this confusing area.
 ~
 0 D 1
 D4
@@ -3418,9 +3416,9 @@ D4
 S
 #5683
 Confusing Corridor~
-This corridor splits into two sections heading N and E, both sections look
+This corridor splits into two sections heading North and East, both sections look
 equally interesting and you have a hard time making up your mind.  It is
-obvious from your footprints that W leads out of this confusing area.
+obvious from your footprints that West leads out of this confusing area.
 ~
 0 D 1
 D3
