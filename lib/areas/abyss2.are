@@ -75,7 +75,7 @@ mist daemon~
 A Mist Daemon~
 A mist daemon stands here, in a cloud of grey mist.
 ~
-A large demon like creature hovers abover you, in a cloud of grey mist.
+A large demon like creature hovers above you, in a cloud of grey mist.
 Its winged form stares down at you in utter hatred.
 ~
 human~
@@ -91,7 +91,7 @@ a Black Slayer~
 A huge, shadowy figure materializes from the shadows around you.
 ~
 The black slayer is a shadowy figure, about 7 feet in height. Garbed in
-a heavey, black cloak, in his right hand, he wields a wicked dagger.
+a heavy, black cloak, in his right hand, he wields a wicked dagger.
 ~
 human~
 ABCF DP -1000 0
@@ -120,7 +120,7 @@ a Storm Giant~
 A storm giant stands here, angered by your presence.
 ~
 This huge creature is approximatly 18 feet tall, He grasps a huge bolt
-of lightning it his right hand.... He doesnt look happy to see you.
+of lightning in his right hand.... He doesn't look happy to see you.
 ~
 giant~
 ABCF DP -1000 0
@@ -181,7 +181,7 @@ the kraken~
 A large squid-like creature erupts from the waters beneath you!
 ~
 This large creature is a close relative of the squid but a much larger
-size. its huge tentacles grasp something... though you can not make out
+size. Its huge tentacles grasp something... though you can not make out
 what the object is.
 ~
 water fowl~
@@ -290,7 +290,7 @@ the Gatekeeper~
 A huge warrior stands here guarding the portal beyond.
 ~
 He is a huge man, his strong, muscular body stands about 8 feet tall.
-He guards the portal beyond him angrily.
+He angrily guards the portal.
 ~
 human~
 ABFG DFHJ -1000 25036
@@ -360,7 +360,7 @@ king goblin~
 The goblin king~
 The goblin king is here.
 ~
-He looks like david bowie.
+He looks like David Bowie.
 ~
 goblin~
 A D -351 0
@@ -402,7 +402,7 @@ acid blob~
 An acid blob~
 An acid blob is here
 ~
-He looks like a big blob of acid
+He looks like a big blob of acid.
 ~
 human~
 AB 0 0 0
@@ -416,7 +416,7 @@ acid blob giant~
 A giant acid blob~
 A gaint acid blob is here
 ~
-He looks like a huge blob of acid
+He looks like a huge blob of acid.
 ~
 human~
 AB 0 0 0
@@ -486,7 +486,7 @@ demon marilith~
 Marilith~
 Marilith slithers here
 ~
-A woman with 6 arms and a snake's tail
+A woman with 6 arms and a snake's tail.
 ~
 elf~
 ACF DF -666 25034
@@ -500,7 +500,7 @@ demon balor~
 Balor~
 Balor stands here, surrounded by electrical fire
 ~
-He is very large, and looks rather deadly
+He is very large, and looks rather deadly.
 ~
 dwarf~
 ACF DF -666 0
@@ -556,7 +556,7 @@ A
 17 -10
 E
 dark blue~
-This cloak is dark blue, and looks like very effective armor
+This cloak is dark blue, and looks like very effective armor.
 ~
 #25002
 silver sleeves~
@@ -730,7 +730,7 @@ A
 #25015
 two handed sword flaming~
 a Flaming Two-Handed Sword~
-An finely crafted two handed sword lies here engulfed in flamed.~
+An finely crafted two handed sword lies here engulfed in flames.~
 fire~
 weapon GLO AN
 sword 5 11 blast AF
@@ -865,7 +865,7 @@ A
 12 88
 E
 silver~
-A small inscription says "I hated it when i lost concentration in battle"
+A small inscription says "I hated it when I lost concentration in battle"
 ~
 #25028
 portal~
@@ -978,7 +978,7 @@ key 0 AO
 #25060
 breast plate~
 The Silver Breast Plate~
-A silver breast plate lies here in the dirt~
+A silver breast plate lies here in the dirt.~
 silver~
 armor GJL AD
 16 17 16 3 0
@@ -998,7 +998,7 @@ A
 #25062
 pair boot boots~
 a Pair of Runed Covered Boots~
-A pair of runed covered boots stands neatly in the corner~
+A pair of runed covered boots stands neatly in the corner.~
 leather~
 armor GLO AG
 12 12 12 2 0
@@ -1014,7 +1014,7 @@ armor AGIOY AL
 #25081
 ring hero heroism~
 the Ring of Real Heroism~
-An enormous, RING lies here, filling the room with its power.~
+An enormous RING lies here, filling the room with its power.~
 energy~
 armor AGIOY AB
 12 12 12 9 1
@@ -1052,7 +1052,7 @@ The Mountain Path~
 You find yourself standing in a heavily wooded area, overgrown with brush,
 and gnarled trees. To the north, you see a neglected, twisted path,
 disappearing far into the mountains.
-     There is a small (Glowing) (Huming) tablet.
+     There is a small (Glowing) (Humming) tablet.
 ~
 0 C 5
 D0
@@ -1073,7 +1073,7 @@ small tablet~
 +                                                                    +
 +     PS. prepare to die - it is extremly hard {30 50} area          +
 +                          with aggro mobs                           +
-+                     only armed personel allowed                    +
++                     only armed personnel allowed                    +
 +                                                                    +
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ~
@@ -1081,7 +1081,7 @@ S
 #25001
 Lost in the Mountains~
 Numerous craggy mountains surround you. Twisted, deadened trees stare at
-you from all around. A neglected path, at your feet. You get an uneasy
+you from all around. A neglected path is at your feet. You get an uneasy
 feeling of deja-vu.
 ~
 0 0 5
@@ -1133,9 +1133,9 @@ S
 #25004
 Gateway to the Abyss~
 As you enter the jagged opening, you feel the coldness of the rock against 
-your skin. As you look into the darkness ahead, you are striken by 
+your skin. As you look into the darkness ahead, you are stricken by 
 an overwhelming sense of evil. You dread the thought of what lies ahead.
-     There is a small (Glowing) (Huming) tablet.
+     There is a small (Glowing) (Humming) tablet.
 ~
 0 AN 3
 D0
@@ -1160,7 +1160,7 @@ small tablet~
 +                                                                    +
 +     PS. prepare to die - it is extremly hard {30 50} area          +
 +                          with aggro mobs                           +
-+                     only armed personel allowed                    +
++                     only armed personnel allowed                    +
 +                                                                    +
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ~
@@ -1204,7 +1204,7 @@ D2
 S
 #25007
 Into the Caverns~
->From here, caverns branch off in all directions. You here
+From here, caverns branch off in all directions. You hear
 waves coming from a cavern to the east, while to the west
 the cavern has beed enveloped in a glowing mist.
 ~
@@ -1273,11 +1273,11 @@ S
 #25011
 The Gate~
 As you enter this room, your eyes become fixed upon a large
-black object, in the center of the room. After carefull obse-
-rvation, you find that it resembeles some sort of window.
-The sounds you have been hearing appear to be coming from inside
+black object, in the center of the room. After careful observation, 
+you find that it resembles some sort of window.
+The sounds you have been hearing appear to be coming from inside,
 you start to recall the crashing sounds of the waves...and
-suddenly you realize you have stumbled upon there source.
+suddenly you realize you have stumbled upon their source.
 ~
 0 ADN 3
 D0
@@ -1289,9 +1289,8 @@ S
 Realm of the Dead~
 This room appears to be a room of great riches. A large
 chest sits at the back of the room, you notice a pair of
-eyes staring at you from a dark corner of the room. You
-are suddenly overcome by an overwhelming feeling of un-
-easiness.
+beady eyes staring at you from a dark corner of the room. You
+are suddenly overcome by an overwhelming feeling of uneasiness.
 ~
 0 ADN 3
 D0
@@ -1307,7 +1306,7 @@ S
 The Other Side~
 As you step through the window, you are instantly transported
 to find yourself here. Just to the north is what appears to be
-the shore of a lareg ocean.
+the shore of a large ocean.
 ~
 0 ADN 3
 D0
@@ -1319,8 +1318,8 @@ S
 Ocean Shore~
 Here, though you are underground (or so you believe) there seems
 to be a sky of some sort, it is dark, and above you are black,
-constantly moveing clouds, as black as the waves of the ocean which
-flows before you.
+constantly moving and swirling clouds, as black as the waves of 
+the ocean which flows before you.
 ~
 0 ACN 3
 D0
@@ -1356,8 +1355,8 @@ S
 #25016
 On the Ocean of Despair~
 As you go farther and farther out into the see you lose sight of
-all land. The thing that was back toword the shore appears to be
-following you. You begin to wonder what lies ahead.
+all land. The thing that was swimming toward the shore now appears 
+to be following you. You begin to wonder what lies ahead.
 ~
 0 AN 7
 D1
@@ -1371,7 +1370,7 @@ D3
 S
 #25017
 On the Ocean of Despair~
-After you have been on the ocean for what seems like says....
+After you have been on the ocean for what seems like days....
 You notice what may be land to the north, at last land!
 ~
 0 AN 6
@@ -1396,7 +1395,7 @@ S
 On the Shore~
 The shore is covered with the dead remains of many strange
 creatures. Bones line the shore, hundreds of them, every wave
-seems to bring more of the eerie, decayed debris.
+seems to wash up more of the eerie, decayed debris.
 ~
 0 AN 4
 D3
@@ -1412,8 +1411,8 @@ S
 A Wooded Path~
 As you enter these woods you feel an ever growing sense
 of evil. The trees are twisted and bent, and you notice many plants
-that have long since died, there is a small path  branching off to
-east.
+that have long since died, there is a small path branching off to
+the east.
 ~
 0 AN 4
 D1
@@ -1428,10 +1427,10 @@ S
 #25020
 A Small Path in the Twisted Forest~
 This faint path appears to have been neglected. You get
-the feeling that this path has not been treaded uopn for quite
+the feeling that this path has not been treaded upon for quite
 some time. As you continue down the path a large, twisted tree
 blocks the northern path. After taking a closer look you are
-able to make out what appears to be a flat clear land to the south.
+able to make out what appears to be flat clear land to the south.
 ~
 0 AN 4
 D1
@@ -1447,7 +1446,7 @@ S
 The Abyssial Plains~
 Here the land is free of all trees. You actually see some
 plant life here. The plains are vast, and endless as far as the
-eye can see. Besides the woods from which you have just come
+eye can see. Besides the woods from which you have just come,
 there is nothing but flat land as far as the eye can see.
 ~
 0 AN 4
@@ -1498,7 +1497,7 @@ D3
 0 -1 25024
 S
 #25024
-The Smouldering Trail~
+The Smoldering Trail~
 As you continue down the trail, you notive parts of the
 trail are still burning. You appear to be catching up with
 whatever made this trail.
@@ -1514,8 +1513,8 @@ D3
 0 -1 25025
 S
 #25025
-The Smouldering Trail~
-Looking around you notice that you are no longer is
+The Smoldering Trail~
+Looking around you notice that you are no longer in
 sight of the forest from which you came. The trail continues
 to smolder at your feet.
 ~
@@ -1530,7 +1529,7 @@ D3
 0 -1 25026
 S
 #25026
-The Smouldering Trail~
+The Smoldering Trail~
 The sky seems to get darker and darker with every step.
 You start to wonder why you are hunting the creature which
 lies at the end of this flaming trail.
@@ -1546,7 +1545,7 @@ D3
 0 -1 25027
 S
 #25027
-The Smouldering Trail~
+The Smoldering Trail~
 It continues to grow darker, the only thing you can see are
 the flames lighting your way along the trail on which you now
 walk.
@@ -1562,7 +1561,7 @@ D3
 0 -1 25028
 S
 #25028
-The Smouldering Trail~
+The Smoldering Trail~
 You must be nearing the end of the trail, for here the
 heat gets more intense. Flames are all about the trail, you
 must be nearing your quarry also.
@@ -1578,10 +1577,10 @@ D3
 0 -1 25029
 S
 #25029
-The Smouldering Trail~
+The Smoldering Trail~
 Just ahead you see the end of the trail, the very end
-appears to be burning heavily. You can make out anything else
-ahead for the flames are too bright.
+appears to be burning heavily. You cannot make out anything else
+ahead, for the flames are too bright.
 ~
 0 AN 1
 D1
@@ -1674,7 +1673,7 @@ the walls, just as you start to take some of the weaponry you
 notice that is has long since rusted and is of no use to you.
 At the far end of the room you notice a small table, a closer
 look reveals the remains of what may have been a knight. The
-corpse, resting in a chair just behind the table appears to be
+corpse, resting in a chair just behind the table, appears to be
 grasping something. Moving closer to the corpse you notice a
 sword held tightly in the clutch on the skeletal figure, looking
 at the sword you realize it is unlike the rest of the decayed
@@ -1705,9 +1704,9 @@ S
 #25036
 Entrance to a Small Building~
 As you come to the top of the hill, you can see that
-that the shape you seen from below was a small building.
+that the shape you saw from below was a small building.
 The building appears empty, for the door lies open,
-revealing a stair well within.
+revealing a stairwell within.
 ~
 0 ADN 2
 D3
@@ -1721,9 +1720,9 @@ D5
 S
 #25037
 Top of the Stair Well~
-You step inside the building to find that you were
-correct, you find nothing within the small room. There is
-a stair well descending downward into the darkness below.
+You step inside the building to find nothing 
+within the small room. There is a stairwell 
+descending downward into the darkness below.
 ~
 0 ADN 4
 D1
@@ -1809,7 +1808,7 @@ D5
 S
 #25042
 In The Bottomless Pit~
-As you begin to climb down the side of the pit, you begin to
+As you begin to climb down the side of the pit, you
 lose your footing. Desperatly you try to regain any hold you can,
 but unfortunatly you can not find any and you begin to fall! After
 several minutes, you begin to wonder if there is any end to this
@@ -1831,8 +1830,8 @@ As you step inside the castle, you are overpowered by the
 darkness, the shadows seem to come alive at your presence. The
 whole castle is pitch black, as your light cuts through the darkness
 you notice a large banner hanging upon the wall. There are exits in
-nearly every direction, to the north a large staircase asecnds
-upwords into the darkness.
+nearly every direction, to the north a large staircase ascends
+upwards into the darkness.
 ~
 0 ADN 1
 D0
@@ -1905,7 +1904,7 @@ S
 The Top of the Spiral Staircase~
 You find the top floor of the castle is much cleaner than the
 previous level. The floor is richly carpeted, several pictures line
-the walls. The figure in the paintings is a skeletal, and dressed
+the walls. The figure in the paintings is skeletal, and dressed
 in a richly tailored robe.
 ~
 0 ADN 6
@@ -1919,7 +1918,7 @@ D5
 0 -1 25046
 S
 #25048
-A Coridoor~
+A Corridor~
 You step into a rather long hallway, there appears to be
 a door or two further down the hall. There seems to be a
 strange glow at the southern end of the hall.
@@ -1935,7 +1934,7 @@ D3
 0 -1 25047
 S
 #25049
-Southern End of Coridoor~
+Southern End of Corridor~
 At this end of the hall, you come to a huge door, made entirely of
 gold and silver. A small keyhole is set into the left side of the
 door. The air seems to crackle with magical energy, the door resists
@@ -1957,8 +1956,8 @@ S
 #25050
 Castle Throne Room~
 As you enter the room you notice several symbols and markings of unholy nature.
-The room is light enough to see, but rather dim. A huge pentacle is layed out 
-upon the floor, the dwemor of some evil magic is in the air. At the far back of
+The room is light enough to see, but rather dim. A huge pentacle is laid out 
+upon the floor, the hint of some evil magic is in the air. At the far back of
 the room, you see a brilliant throne of crystal, strange runes of gold are set 
 into the throne. Your heart stops for a moment as you notice the decayed, 
 skeletal form of a lich seated in the throne, the red glow of its eyes fixed 
@@ -1977,7 +1976,7 @@ S
 The Vault~
 You now stand within the lich's treasure vault, a huge treasure
 lies in the center of the room. The room is decorated with many marble
-columns, in the far corner you can make out a shimering portal........
+columns, in the far corner you can make out a shimmering portal........
 through which you can see a path along a vast mountain range.
 ~
 0 AD 2
@@ -1989,10 +1988,10 @@ door
 S
 #25052
 The Grand Hallway~
-You stand just to the east of the castke entrance. Many statues
-of gargoyles and other strange creatures line each side of the hall
- a little farther down the hall, you can make our a huge set of double
-doors, you hear a strange sound to the east.
+You stand just to the east of the castle entrance. Many statues
+of gargoyles and other strange creatures line each side of the hall.
+A little farther down the hall, you can make out a huge set of double
+doors. You hear a strange sound to the east.
 ~
 0 ADN 0
 D1
@@ -2008,7 +2007,7 @@ S
 The Grand Hallway~
 This part of the hall is lined with the same sort of statues.
 The statues in the part of the hall to the east look a little more
-life like...... they almost look real. A large statue of a wizard
+lifelike...... they almost look real. A large statue of a wizard
 of some sort stands at one side of the room, the statue is not like
 the others, it seems to be newly made. No dust or cracks are visible on the
 statue, it almost appears as if it were staring directly at you!
@@ -2042,10 +2041,10 @@ D3
 S
 #25055
 A Large Room~
-This rooms appears to be the room where the owner of the castle
-comes to dine. A large feast is layed out upon a table in the
-center of the room, a voice echoes through the room 'I have been
-expecting you' the voice says. You look all about the room for the
+This room appears to be the room where the owner of the castle
+comes to dine. A large feast is laid out upon a table in the
+center of the room, and a voice echoes through the room 'I have 
+been expecting you'. You look all about the room for the
 speaker, but fail to find one.
 ~
 0 ADN 0
@@ -2081,7 +2080,7 @@ S
 The Castle Store Room~
 The room is dark and very damp, dust covers the goods stored
 here. There are many boxes and crates here, however most are empty,
-but you manage to find an old noz with a few remaining goods stored
+but you manage to find an old box with a few remaining goods stored
 inside.
 ~
 0 ADN 6
@@ -2099,7 +2098,7 @@ Castle Barracks~
 Upon entering this room, you see several figures laying all about
 the room. Suddenly you realize you have entered the guards barracks!
 Just as you are about to leave the figures begin to move, angry that
-you have awakened them, they charge you!
+you have awakened them, and they charge you!
 ~
 0 ADN 8
 D0
@@ -2131,11 +2130,11 @@ S
 #25060
 Base of the Tower~
 This room appears to be the base of a large watch tower, stairs
-ascend upword twords the top of the tower.. Several strange runes are
+ascend upward towards the top of the tower.. Several strange runes are
 etched into each stair, the feeling of evil is strong in the air. You
 hear footsteps behind you as the door suddenly slams shut! The only
-exit, now that the door has been sealed are a set of stairs going up
-to the top of the tower and a set of stairs going downward into the
+exit, now that the door has been sealed, are a set of stairs going up
+to the top of the tower, and a set of stairs going downward into the
 darkness.
 ~
 0 ADN 4
@@ -2167,7 +2166,7 @@ S
 #25062
 The Tower Staircase~
 You have entered a small room near the top of the tower.
-Stairs continue upword to the top of the tower, the room is deathly
+Stairs continue upward to the top of the tower. The room is deathly
 quiet, you wander what could have made the strange sounds which
 you heard from below.
 ~
@@ -2184,8 +2183,8 @@ S
 #25063
 Top of the Tower~
 The top of the tower is lit by a large window, probably meant as
-a lookout incase of an attack. From the looks of the castle it appears
-that this tower obviously didnt help much.
+a lookout in case of an attack. From the looks of the castle it appears
+that this tower obviously didn't help much.
 ~
 0 ADN 5
 D5
@@ -2210,7 +2209,7 @@ The Central Chamber~
 You are in a large chamber, from the looks of the room, it
 appears that this is the place where the prisoners are executed.
 A large pit lies in the center of the room, huge flames erupt
-upwords from its firey depths.
+upwards from its firey depths.
 ~
 0 ADN 0
 D4
@@ -2259,7 +2258,7 @@ S
 Entrance to the Sanctuary~
 You stand in the doorway of some sort of sanctuary.
 A small altar lies in the center of the room, bloodstained
-from recent sacrafices that have been made upon it. The
+from recent sacrifices that have been made upon it. The
 only exits from the room are east and west.
 ~
 0 ADN 4
@@ -2308,7 +2307,7 @@ The Sanctuary~
 As you enter this room, you get a feeling of safety. A large,
 ornate door lies directly to the west of you, a feeling of great
 evil radiates from it. As you begin to look around the room, a
-strange red mist begins to seep from a crak beneath the door....
+strange red mist begins to seep from a crack beneath the door....
 ~
 0 ADN 2
 D1
@@ -2338,7 +2337,7 @@ S
 The Sanctuary~
 You are in a small chamber, upon entering the room you
 notice a lone knight clad in armor run through the door to
-the west, perhaps the same one you seen earlier. Suddenly,
+the west, perhaps the same one you saw earlier. Suddenly,
 without warning, you see two shadowy figures materialize
 before you!
 ~
@@ -2355,7 +2354,7 @@ S
 #25083
 The Sanctuary~
 You chase the knight into a small alcove. Upon seeing you,
-the knight quickly shifts the south wall, revealing a passage,
+the knight shifts the south wall, revealing a passage,
 and quickly runs through it. You hear an evil laugh.
 ~
 0 ADN 2
@@ -2370,9 +2369,9 @@ D2
 S
 #25084
 Sanctuary Guard Post~
-You have entered the guard post of the sanctuary, several
+You have entered the guard post of the sanctuary, and several
 guards snarl at you entry. The knight quickly orders them to
-dispose of the and takes off through the south door.
+dispose of the intruder, and takes off through the south door.
 ~
 0 ADN 4
 D0
@@ -2439,7 +2438,7 @@ End of a Narrow Passage~
 At this end of the passage, the mist gets very thick, and
 you can just barely make out the door to the west. You hear
 a faint, ghost like voice float through the air, but you
-cant make out the words that are spoken.
+can't make out the words that are spoken.
 ~
 0 ADN 2
 D1
@@ -2454,7 +2453,7 @@ S
 #25089
 The Mist~
 Upon entering this room, you are assaulted by a dense patch
-of mist. The mist seems to glow with an inner light, its almost
+of mist. The mist seems to glow with an inner light, it is almost
 as if it were alive. The ghostly voice grows louder, speaking in
 a language unknown to you.
 ~
@@ -2523,7 +2522,7 @@ Hall of Ancients~
 This room is amazingly beautiful, there is the throne made
 entirely of silver set against the south wall. A gruesome thing
 lies in the center of the room, some disgusting green liquid
-oozes from many small bubbles on the creatures flesh. The sight
+oozes from many small bubbles on the creatures' flesh. The sight
 of the horrible creature nearly makes you sick. The creature
 slowly begins to make its way toword you.......
 ~
@@ -2537,7 +2536,7 @@ S
 A Small Alcove~
 Upon entering this small alcove, you get a safe feeling
 within its walls. The room is clean and several tapestries
-hang upon the wall. The wall to the east appears to be moveable,
+hang upon the wall. The wall to the east appears to be movable,
 for there are marks on the floor where the wall may have
 scraped it.
 ~
@@ -2605,7 +2604,7 @@ S
 #25098
 A Small Portal~
 As you come to the end of the tunnel, you notice the
-light is coming from a somewhat small portal. The light coming
+light is coming from a small portal. The light coming
 from the portal is so intense that it nearly blinds you.
 ~
 0 ADN 2
@@ -2804,7 +2803,7 @@ M 1 25021 1 25097 1             * The Sultan of Fire
 O 1 25028 1 25098 1             * small portal (to healer)
 *
 * #25080, #25081 and #25082 it is special weapon and eq, not loaded into area
-* they are god's souvenirs for quest winers etc...
+* they are god's souvenirs for quest winners etc...
 
 S
 
