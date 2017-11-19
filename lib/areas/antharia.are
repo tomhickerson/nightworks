@@ -58,19 +58,19 @@ made Antharia one of the best places to live. It was these councils
 who made the discovery that would change the lives of every Antharian.
 	It was discovered that there was going to be a major upheaval
 of the world's outer crust, which would make the whole country of
-Antharia, which was actually a big island, in essense, sink into the ocean. 
+Antharia, which was actually a big island, sink into the ocean. 
 Fearing for the lives of their citizens, the councils worked quickly
 to come up with a solution to the disaster.  
 	After many months of searching, it was decided that there was
 only solution:  the wizards would have to combine their power to
-create a "Gem of Salvation".  This gem would, in essense, keep the
+create a "Gem of Salvation".  This gem would keep the
 whole city of Antharia with air, even underwater -- a dome, if you
 will.  However, this also forced the government to make the decisions
-of who would be able to live and who would die...the city could only
+of who would be able to live and who would die...as the city could only
 hold so many people.  
 	
 	The Antharians are very hesistant to talk about this time in
-their history.  Understandbly, it was very hard to make those
+their history.  Understandably, it was very hard to make those
 decisions; therefore, much of the next few decades are lost to us.
 However, there was to be an even more dramatic change in the lives of
 the Antharians.
@@ -80,7 +80,7 @@ city, the council of wizards made another discovery which almost cost
 us the culture of Antharia forever.  The gem was working, but getting
 weaker with every day.  Not anticipating this, the wizards again
 started looking for solutions to this problem.  With the help of the
-priests of Anthar the wizards came up with the solution that created
+priests of Anthar, the wizards came up with the solution that created
 the Antharian people that we know today.
 	They had decided that the only way of saving their people was
 to transform themselves into Creatures that could breathe water.
@@ -93,7 +93,7 @@ loving memory.
 
 	We are lucky that these wizards took time to teach their
 students the way to take care of the Gem.  It was altered to simply
-provide stable gravity and protection from preditors and falling
+provide stable gravity and protection from predators and falling
 debris.  The gem is still functioning to this day.
 ~
 
@@ -107,7 +107,7 @@ an Antharian Peace Guard~
 An Antharian Peace guard is watching you here.
 ~
 A tall Antharian is standing before you.  You have no doubt that this
-being can keep the peace...his presence is enough in itself.
+being can keep the peace...his stalwart presence is enough in itself.
 ~
 human~
 AGT 0 800 0
@@ -140,7 +140,7 @@ Ertuvia is here, a master of the Antharian weapons of war.
 You see a tall, strong Antharian, with a presence that even seems
 heavy compared to the other Antharians.  In this society, weaponsmiths
 are artists of war, and he looks like he could paint a very clear
-portrait of death.
+portrait of death.  Wet on wet, if you will.
 ~
 human~
 ABT 0 800 0
@@ -157,7 +157,7 @@ Heaustf, the maker of fine Antharian armor, is here.
 Here stands an Antharian who seems to know more than you could ever
 dream.  In Antharian society, the art of making fine armor has been
 passed from generation to generation.  The secret is well kept, and
-rightly so -- for their's is the best.
+rightly so -- for theirs is the best.
 ~
 human~
 2|524288 0 500 0
@@ -224,7 +224,7 @@ A High Guard of Antharia is here.
 ~
 Having been promoted to High Guard, these guards are even more
 powerful and impressive than the Peace Guards.  These guards are here
-to make sure that law and order is maintained, and so it shall.
+to make sure that law and order is maintained, and so it shall be.
 ~
 human~
 1|64 8 250 0
@@ -1014,7 +1014,7 @@ Main road of Antharia.
 S
 #12335
 Main Road at Eatery~
-Standing here, you can smell the fantastic foods that is being
+Standing here, you can smell the fantastic foods that are being
 prepared and sold inside the shop to the east.  Sometimes it's hard to
 find a smiling Antharian; however, every one that comes out of this
 shop has a very big smile on..and usually something in their hand that
@@ -1044,7 +1044,7 @@ Irghum's Antharian Eatery~
 Heaven.  Every type of Antharian food can be found here, from
 simple breads to complex meals.  Irghum is standing behind the counter
 fixing something as you stand there.  Working as a master craftsman,
-he produces a product that would make any chef red with envy.  Looking
+he produces a product that would make any chef green with envy.  Looking
 around, it is obvious that Irghum is not hurting for business.  It is
 said that every Antharian visits Irghum at least once a month, and on
 special occasions.  Antharians love their food and love Irghum.
@@ -1107,7 +1107,7 @@ S
 #12332
 Main Road of Antharia~
 Walking along this road is never boring.  Even though it is very
-symetrical in form, the houses and people that you pass never leave
+symmetrical in form, the houses and people that you pass never leave
 you with nothing to study.  Just the fact that this city could have
 survived at all under these conditions is amazing in itself, but for
 their artwork and architecture to survive is a miracle.
@@ -1197,7 +1197,7 @@ Main Road of Antharia~
 Standing here are two Antharians guarding the portal into the ruins of
 grand Antharia.   Not that anyone could enter without the key -- the
 portal is magically locked by a very powerful wizard.  Right now, only
-Zaertses owns a copy of this key, and it's secret is guarded with
+Zaertses owns a copy of this key, and its secret is guarded with
 incredible zeal.  One day it is hoped that anyone can apply for
 admission into the ruins, but not now.
 ~
@@ -1294,7 +1294,7 @@ S
 #12320
 Main Road of Antharia~
 Walking along this road is never boring.  Even though it is very
-symetrical in form, the houses and people that you pass never leave
+symmetrical in form, the houses and people that you pass never leave
 you with nothing to study.  Just the fact that this city could have
 survived at all under these conditions is amazing in itself, but for
 their artwork and architecture to survive is a miracle.
@@ -1617,11 +1617,8 @@ E
 sign~
 Ertuvia the weaponsmith........north
 Hearstf the armorer............east
-
 Kaer's bridge..................south
-
 Temple of Anthar...............south
-
 Street of Guilds...............west
 
 ~
@@ -1740,12 +1737,12 @@ Zoo Gate~
 You are standing at the gate of the zoo of Antharia.  Looking
 through the gate, you get a glimpse of known and unknown animals
 contained therein.  According to the Antharians, the zoo was built
-before the catastophy -- as hard as that might be to believe.  It is
+before the catastrophy -- as hard as that might be to believe.  It is
 said that the Council of Clerics at that time insisted that the zoo be
 one of the protected areas.  They wished to preserve the endangered and
 unusual animals that they had aquired through the generations.  Now,
 this is the most extensive and important zoo in the world, as it
-contains animals that is found nowhere else.
+contains animals that are found nowhere else.
     As with many of aspects of the Antharian culture, this zoo is not
 currently opened to non-Antharians.  Hopefully, the other races can
 convince the Antharians to allow other races to explore and
@@ -1998,13 +1995,13 @@ S
 #12363
 Antharian Guild~
 You are standing in the building that houses the Antharian guild.
-This building is a little less bare than the other guilds, being
+This building is much nicer than the other guilds, being
 financed directly by the Antharian government.  The Antharian
 representative is here helping his fellow Antharians in dealing with
 the other races, and with dealing with YOU.  This Antharian is
 important in the diplomatic relationship between Antharia and the
 other races of the world.
-   The exit directly to the north leads back to guild street.
+   The exit directly to the north leads back to Guild street.
 ~
 0 0 11
 D0

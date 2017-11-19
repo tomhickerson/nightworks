@@ -10,7 +10,7 @@ the young spider~
 The young spider is ballooning by you.
 ~
 He looks freshly hatched and sprightly.  His young fangs are just
-growing in as of late.
+growing in.
 ~
 human~
 ACG D 0 0
@@ -123,7 +123,7 @@ oldstyle quasit~
 the quasit~
 The quasit blinks in and out, grinning at you.
 ~
-Demoniac in nature, but more mischievous.  He twiddles his thumbs
+Demonic in nature, but more mischievous.  He twiddles his thumbs
 and creates a magical treasure!
 ~
 human~
@@ -167,7 +167,7 @@ oldstyle donjonkeeper~
 the Donjonkeeper~
 The Donjonkeeper eyes you and wonders how pure your soul is.
 ~
-He delves deeper into you as you stare at him.
+He delves deeper into you as he stares at you.
 ~
 human~
 ABC D 1000 0
@@ -255,7 +255,7 @@ oldstyle spider poisonous~
 the huge, poisonous spider~
 A huge, poisonous spider is here.
 ~
-This disgusting creature is at the size of a human crawling on all four.  It
+This disgusting creature is the size of a human, if it were crawling.  It
 has eight hairy legs that gives it a tremendous speed on almost any surface and
 sharp poisonous fangs to paralyze or kill its prey.
 ~
@@ -449,7 +449,7 @@ S
 #6303
 Wasp Hive~
 Drones scuttle about in this room.  The cells on the walls
-are honeycomb in shape and many of the maggots and wasps you see
+are honeycombed in shape and many of the maggots and wasps you see
 have fang-marks on there bodies.  You sense some order in their markings.
 ~
 0 0 2
