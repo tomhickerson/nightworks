@@ -668,7 +668,7 @@ S
 The Web Forest~
 The trees here take on a different appearance--they are not trees
 anymore, but disjointed make-shift silken made shafts, sticky to the touch,
-and webby in texture.  This is another world it would appear.
+and webby in texture.  This is another world, it would appear.
 ~
 0 0 2
 D0
@@ -745,7 +745,7 @@ D5
 S
 #6328
 The Entrance of the Ethereal Web~
-You are at the entrance to ethereal web.  Flickering in and out,
+You are at the entrance to the ethereal web.  Flickering in and out,
 in and out, each strand reveals a different hue from black to green
 to blue.
 ~
@@ -854,7 +854,7 @@ D3
 S
 #6336
 The Tenuous Strand~
-Very windy here since it goes up into the sky somewhat.
+Very windy here since it goes up into the sky.
 Still, it's safe enough to move around.
 ~
 0 0 2
@@ -873,7 +873,7 @@ D3
 S
 #6340
 The Elder Wormkin's Room~
-A more mature wormkin it seems resides here.  Various tomes of
+A more mature wormkin resides here.  Various tomes of
 arcane lore clutter the area, along with shards of armor and weaponry.
 ~
 0 0 2
@@ -885,7 +885,7 @@ S
 #6341
 Another Tree Limb~
 Once again the web crosses another tree limb.  To the side you
-see the possible entrance to another creatures lair.
+see the possible entrance to another creatures' lair.
 ~
 0 0 2
 D1
@@ -903,7 +903,7 @@ D3
 S
 #6342
 The Bird Spider's Lair~
-This is a big game hunter among most spiders.  Crush jewels
+This is a big game hunter among most spiders.  Crushed jewels
 and other weapons suggest the inhabitant must have powerful jaws.
 Beware!
 ~
@@ -954,7 +954,7 @@ S
 #6347
 On The Web~
 RRRRRRRRRRROOOOOOOOOOOOOAAAAAAAAAAAAAARR!  You hear the roar
-of a powerful beast.  Dragon, you think.  You shiver in your boots
+of a powerful beast.  You shiver in your boots
 as you tiptoe on this section of the web.
 ~
 0 0 2
@@ -982,7 +982,7 @@ S
 A Link in the Ethereal Web~
 This is another link in the ethereal web.  Various creatures
 seem to get caught (or hypnotized) by its sticky strands.  To
-the north you sense the heavy breathing of a fiery animal.
+the north you sense the heavy breathing of an animal.
 ~
 0 0 2
 D0
@@ -1002,7 +1002,7 @@ S
 Yevaud's Lair~
 Yevaud, the Usurper of Midgaard, resides here.  A voice cries
 out, "BEWARE, the Usurper of Midgaard lives here!  FLEE while you can!"
-But even Yevaud has his master...or so you deduce.
+But even Yevaud has his master...or so you think.
 ~
 0 0 2
 D1
@@ -1014,8 +1014,8 @@ S
 A Link in the Ethereal Web~
 This is another link in the ethereal web.  Various creatures
 seem to get caught (or hypnotized) by its sticky strands.  A single
-spider line lies to the north, while ghastly seemings are due
-southward.  The grim entrance of Arachnos' Lair is downward.
+spider line lies to the north, while something ghastly is due
+south.  The grim entrance of Arachnos' Lair is downward.
 ~
 0 0 2
 D0
@@ -1040,7 +1040,7 @@ Entrance to the Donjonkeep~
 A dark path at the end of the web strand, you see ahead
 a torch lit chamber where the souls of unavenged adventurers
 come and gnash their teeth.  The howls and screams of many echo
-through the hall ways.  You see one definite path ahead.
+through the hallways.  You see only one definite path ahead.
 ~
 0 0 2
 D1
@@ -1064,7 +1064,7 @@ D3
 0 -1 6366
 E
 chair~
-An ordinary chair, well used, glued to the ground by spiderweb.
+An ordinary chair, well used, glued to the ground by spiderwebs.
 ~
 S
 #6368
@@ -1105,7 +1105,7 @@ S
 The Donjonkeep~
 No souls have ever lived in this place.  The wails of slaves
 and the howls of wolves are the only way you can describe the sounds
-you hear.  The walls are thin and wispy.  The only light you receive
+you hear.  The walls are thin and wispy.  The only light you see
 is the shimmering from the strand of the ethereal web you used to get
 here.
 ~
@@ -1155,8 +1155,7 @@ S
 The Hermit's Corner~
 Here you see evidence of a vagrant's abode.  The shack is to the
 east, if you dare enter it.  You get the sneaking feeling you should
-go back now.  The skies above you darken and roar with the laughter
-of thunder.
+go back now.  The skies above you darken and roar with thunder.
 ~
 0 0 2
 D1
@@ -1230,7 +1229,7 @@ The Lair of Arachnos~
 This is the lair of the Empress Spider, Arachnos.  A lavishly
 adorned rainbow web, her lair allows her to move to any universe
 she wishes by using her magical strands to the Prime Material Plane.
-Coffers upon coffers of gold, magical jewels and gems await.  Unfor-
+Coffers upon coffers of gold, magical jewels and gems are here.  Unfor-
 tunately Arachnos is a baggy spider too, and webs all her treasures
 to her beautiful silken body.
 ~
