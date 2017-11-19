@@ -13,7 +13,7 @@ Oberon, King of the Seelie Court, stands here watching over his realm.
 ~
 Oberon appears as a tall, regal man with shoulder length, light blonde 
 hair, eyes of forest green and golden skin.  His every feature 
-exemplefies what it is to be nobility.  He is the embodyment of the 
+exemplifies what it is to be nobility.  He is the embodiment of the 
 Seelie way, light, love, celebration, honor and wisdom.
 ~
 elf~
@@ -28,7 +28,7 @@ titania queen~
 Queen Titania~
 Queen Titania of the Seelie Court is here dancing with her fairy maids.
 ~
-The Queen of the Seelie is a tall, fair-skinned, perfectly perportioned 
+The Queen of the Seelie is a tall, fair-skinned, perfectly proportioned 
 woman.  She radiates a soft golden glow, her laughter is like the 
 sparkling of water off of a stream and her smile is the dazzling radiance 
 of the sun.
@@ -78,7 +78,7 @@ Gwyn ap Nudd, soverign of the Unseelie Court stands before you.
 The King of night, the dead, winter and ice, Gwyn ap Nudd is the 
 complete opposite of his brother Oberon.  His hair is raven black, his 
 skin a pale white, his eyes an ice blue.  His stare fills your soul with 
-a chill and yet you get a strange feeling of exhillaration.  Gwyn 
+a chill and yet you get a strange feeling of exhilaration.  Gwyn 
 embodies not only the terror of death but the seductive beauty of night.
 ~
 elf~
@@ -95,7 +95,7 @@ The terrible Morrigan waits here ready to devour you.
 ~
 The Morrigan is the Queen of the Unseelie and the most destructive of all 
 the Fae.  She is the most feared of all the creatures of the night, for 
-while the Puck may be harmfull the Morrigan is deadly.
+while Puck may be harmful, the Morrigan is deadly.
 ~
 unique~
 ACFGOT CDEFZ -1000 0
@@ -140,8 +140,8 @@ a sidhe noble~
 A sidhe noble is here surveying his lands.
 ~
 This sidhe, like all others of his kind, is a study in perfection.  He
-radiates strength, beauty, and nobility. There is an air of pompus 
-superiority about him that makes you want to slit his throat.
+radiates strength, beauty, and nobility. There is an air of pompous 
+superiority about him though, that makes you want to slit his throat.
 ~
 elf~
 AGT J -800 0
@@ -186,7 +186,7 @@ sidhe guard~
 a sidhe guard~
 A sidhe guard captain stands here protecting what is his.
 ~
-This captain leads his men with a cunning and skill that is immpossible 
+This captain leads his men with a cunning and skill that is impossible 
 not to admire.
 ~
 elf~
@@ -201,7 +201,7 @@ sidhe knight~
 a noble sidhe knight~
 A noble sidhe knight of the Seelie court is here on a quest.
 ~
-This knight is the epitome of chivalry.  The embodyment of honor, 
+This knight is the epitome of chivalry.  The embodiment of honor, 
 loyalty, courage and skill in battle.
 ~
 elf~
@@ -216,7 +216,7 @@ sidhe knight~
 a noble sidhe knight~
 A noble sidhe knight of the Seelie court is here on a quest.
 ~
-This knight is the epitome of chivalry.  The embodyment of honor,
+This knight is the epitome of chivalry.  The embodiment of honor,
 loyalty, courage and skill in battle.
 ~
 elf~
@@ -231,7 +231,7 @@ sidhe knight~
 a noble sidhe knight~
 A noble sidhe knight of the Unseelie court is here on a quest.
 ~
-This knight is the epitome of chivalry.  The embodyment of power and 
+This knight is the epitome of chivalry.  The embodiment of power and 
 skill in battle.
 ~
 elf~
@@ -246,7 +246,7 @@ sidhe knight~
 a noble sidhe knight~
 A noble sidhe knight of the Unseelie court is here on a quest.
 ~
-This knight is the epitome of chivalry.  The embodyment of power and 
+This knight is the epitome of chivalry.  The embodiment of power and 
 skill in battle.
 ~
 elf~
@@ -261,7 +261,7 @@ sidhe knight~
 a noble sidhe knight~
 A noble sidhe knight stands here looking bored.
 ~
-This knight is the epitome of chivalry.  The embodyment of honor,
+This knight is the epitome of chivalry.  The embodiment of honor,
 loyalty, courage and skill in battle.
 ~
 elf~
@@ -276,7 +276,7 @@ sidhe knight~
 a noble sidhe knight~
 A sidhe knight is here embroiled within the affairs of the court.
 ~
-This knight is the epitome of chivalry.  The embodyment of power and 
+This knight is the epitome of chivalry.  The embodiment of power and 
 skill in battle.
 ~
 elf~
@@ -291,7 +291,7 @@ sidhe knight~
 a noble sidhe knight~
 A noble sidhe knight is attempting to win the favor of a beautiful patron.
 ~
-This knight is the epitome of chivalry.  The embodyment of power and 
+This knight is the epitome of chivalry.  The embodiment of power and 
 skill in battle. 
 ~
 elf~
@@ -307,8 +307,8 @@ a troll guard~
 A stoic troll guard stands here watching you.
 ~
 This troll stands about 9 feet tall and looks as if he was made of 
-stone.  Once the rulers of Arcadia trolls such as this one now serve the 
-sidhe as faithfull warriors.
+stone.  Once the rulers of Arcadia, trolls such as this one now serve the 
+sidhe as faithful warriors.
 ~
 giant~
 ABT Nbcd 1000 0
@@ -323,8 +323,8 @@ a troll guard~
 A stoic troll guard stands here watching you.
 ~
 This troll stands about 9 feet tall and looks as if he was made of
-stone.  Once the rulers of Arcadia trolls such as this one now serve the
-sidhe as faithfull warriors.
+stone.  Once the rulers of Arcadia, trolls such as this one now serve the
+sidhe as faithful warriors.
 ~
 troll~
 ABT Nbcd -1000 0
@@ -357,7 +357,7 @@ A pooka jester is here planning your fall.
 ~
 Dressed in a garishly bright, multi-colored, clashing, frilly lace
 jump-suit, it hurts just to look at him.  This pooka is a master of making
-fun of people.  You don't ever realy know if his jokes are truly just for 
+fun of people.  But you don't ever really know if his jokes are truly just for 
 fun....
 ~
 human~
@@ -373,7 +373,7 @@ a satyr drinker~
 A satyr is sitting here with a bottle on one side and a woman on the other.
 ~
 Half-man, half-goat satyrs are the party animals of the Fae.  Renowned 
-for their great stamina they can drink more than almost any other being.
+for their great stamina, they can drink more than almost any other being.
 ~
 satyr~
 ABS d -100 0
@@ -388,7 +388,7 @@ a satyr piper~
 A satyr piper is here playing a lively dancing jig.
 ~
 The piper seems to be almost lost in the music issuing from his pipes.  
-As you listen you too are drawn into the music.....
+As you listen, you too are drawn into the music.....
 ~
 satyr~
 AGR d 100 0
@@ -483,7 +483,7 @@ an eshu~
 An eshu sits here telling tales of his myriad adventures.
 ~
 This dark-skinned man in flowing purple robes is either telling the most
-outrageous lies you have ever heard or he is one hell of a lot more 
+outrageous lies you have ever heard, or he is one hell of a lot more 
 experienced than you will ever be.
 ~
 human~
@@ -513,7 +513,7 @@ a savage redcap~
 A redcap jumps out of a hole and starts chewing on your leg.
 ~
 This nasty little creature is a blood-stained mouth with sharp-clawed 
-appendages dressed in a brown tunic with a blood red hat.
+appendages, dressed in a brown tunic with a blood red hat.
 ~
 halfling~
 ACFGS JVb -850 0
@@ -555,9 +555,9 @@ AHMV ABCDEFGHIJK small 0
 #12035
 sluagh guardian~
 a sluagh guardian~
-A sluagh guardian sees you and moves to protect it's home.
+A sluagh guardian sees you and moves to protect its home.
 ~
-This dark fae is not willing to let you in on it's secrets, you had best 
+This dark fae is not willing to let you in on its secrets, you had best 
 leave now.
 ~
 beholder~
@@ -630,8 +630,8 @@ dryad~
 a playful dryad~
 A playful dryad runs among the trees.
 ~
-This beautiful brown skinned maiden with dark eyes, clothed in a few 
-leaves runs among the trees darting in and out of sight.
+This beautiful brown skinned maiden with dark eyes, clothed only in a few 
+leaves, runs among the trees darting in and out of sight.
 ~
 elf~
 AGHQ J 100 0
@@ -657,8 +657,8 @@ stand stand female 500
 0 0 medium 0
 #12042
 merman~
-an strange merman~
-An strange merman swims quickly around you.
+a strange merman~
+A strange merman swims quickly around you.
 ~
 This aquatic creature has a well formed upper human half and a strong
 finned tail.
@@ -750,7 +750,7 @@ A CatSidhe~
 A large white cat with red ears.
 ~
 This cat is all white with red ears.  In it's eyes you can see 
-inteligence.
+intelligence.
 ~
 cat~
 ARU DFPZ 0 0
@@ -766,7 +766,7 @@ A giant, black, raven like bird.
 ~
 This Sidhe bird is the messenger that travels between the world of the 
 living and the dead, both Seelie and Unseelie.  It looks like a raven 
-only its the size of a small child.
+only it's the size of a small child.
 ~
 bird~
 AIQU DEFTZe 0 0
@@ -807,7 +807,7 @@ staff 6 6 pierce 0
 #12003
 opal bracelet~
 an opal bracelet~
-A gleeming opal bracelet shines faintly from the floor.~
+A gleaming opal bracelet shines faintly from the floor.~
 silver~
 armor AG AM
 10 7 9 0 0
@@ -839,7 +839,7 @@ A
 #12006
 boots~
 A pair of grey boots~
-A pair boots made of some grey material you haven't seen before.~
+A pair of boots made of some grey material you haven't seen before.~
 leather~
 armor G AG
 10 11 8 8 0
@@ -1237,7 +1237,7 @@ A
 #12039
 oath ring~
 An oath ring~
-A brightly gleeming ring with a small inscription on the inside.~
+A brightly gleaming ring with a small inscription on the inside.~
 unknown~
 treasure G AB
 0 0 0 0 0
@@ -1249,7 +1249,7 @@ A
 #12040
 noble cape~
 A noble's cape~
-A long well made cape of some rich purple cloth.~
+A long, well-made cape of some rich purple cloth.~
 unknown~
 armor G AC
 22 22 22 16 0
@@ -1293,7 +1293,7 @@ armor G AF
 A
 14 50
 #12045
-sidhe braceers~
+sidhe bracers~
 An engraved sidhe bracer~
 A light metal bracer of intricate design.~
 unknown~
@@ -1387,7 +1387,7 @@ scroll G A
 #12053
 robe~
 A poet's robe~
-A heay blue poet's robe.~
+A heavy blue poet's robe.~
 unknown~
 armor G AK
 25 25 25 18 0
@@ -1453,7 +1453,7 @@ container G AO
 #12059
 orange~
 An orange~
-A small orange orange.~
+A small orange.~
 unknown~
 pill 0 A
 82 'curse' 'sleep' 'blindness' 'poison'
@@ -1552,9 +1552,9 @@ A
 #12001
 In a Field~
 You are standing out in a field of tall grass.  To the southeast 
-you can see a hill with it's top shrouded in mist.  Behind the mist you 
+you can see a hill with its top shrouded in mist.  Behind the mist you 
 catch faint glimpses of what looks to be a large castle.  To the east and 
-south is the hillside and to the west and north tangled brush prevents 
+south is the hillside, and to the west and north tangled brush prevents 
 any movement.
 ~
 0 0 2 
@@ -1572,7 +1572,7 @@ S
 #12002
 On the Hillside.~
 You are on the side of a gently sloping hill.  The mist still 
-obscures the top but you can no longer recapture the glimpses of the 
+obscures the top, but you can no longer recapture the glimpses of the 
 building through the mist.  You can head south up the hill, west to the 
 field or east around the hill.  To the north brambles block all movement.
 ~
@@ -1596,7 +1596,7 @@ S
 #12003
 On the Hillside.~
 You are on the side of a gently sloping hill.  The mist still
-obscures the top but you can no longer recapture the glimpses of the
+obscures the top, but you can no longer recapture the glimpses of the
 building through the mist.  You can head south up the hill, east to the
 field or west around the hill.  To the north brambles block all movement.
 ~
@@ -1620,9 +1620,9 @@ S
 #12004
 In a Field~
 You are standing out in a field of tall grass.  To the southeast
-you can see a hill with it's top shrouded in mist.  Behind the mist you
+you can see a hill with its top shrouded in mist.  Behind the mist you
 catch faint glimpses of what looks to be a large castle.  To the west and
-south is the hillside and to the east and north tangled brush prevents
+south is the hillside, and to the east and north tangled brush prevents
 any movement.
 ~
 0 0 2 
@@ -1664,7 +1664,7 @@ S
 #12006
 Further up the Hillside.~
 You are almost to the top of this hill.  Above you is the top of the 
-hill and in all other directions the hill extends.~
+hill and the hill extends in all other directions around you.~
 0 0 4
 D0
 On the Hillside.
@@ -1695,8 +1695,8 @@ S
 #12007
 Further up the Hillside.~
 You are almost to the top of this hill.  Above you is the top of the
-hill and in all other directions the hill extends. You could't find a
-path to the up.~
+hill and in all other directions the hill extends around you. You could't find a
+path upwards.~
 0 0 4 
 D0
 On the Hillside.
@@ -1770,8 +1770,8 @@ S
 #12010
 Further up the Hillside.~
 You are almost to the top of this hill.  Above you is the top of the
-hill and in all other directions the hill extends.You could't find a
-path to the up.
+hill, and in all other directions the hill extends around you.  You can't find a
+path upwards.
 ~
 0 0 4 
 D0
@@ -1798,8 +1798,8 @@ S
 #12011
 Further up the Hillside.~
 You are almost to the top of this hill.  Above you is the top of the
-hill and in all other directions the hill extends.You could't find a
-path to the up.
+hill and in all other directions the hill extends around you.  You can't find a
+path upwards.
 ~
 0 0 4 
 D0
@@ -1826,7 +1826,7 @@ S
 #12012
 On the Hillside.~
 You are on the side of a gently sloping hill.  The mist still
-obscures the top but you can no longer recapture the glimpses of the
+obscures the top, but you can no longer recapture the glimpses of the
 building through the mist.  You can head west up the hill, south to the
 field or north around the hill.  To the east brambles block all movement.
 ~
@@ -1845,9 +1845,9 @@ S
 #12013
 In a Field~
 You are standing out in a field of tall grass.  To the northeast
-you can see a hill with it's top shrouded in mist.  Behind the mist you
+you can see a hill with its top shrouded in mist.  Behind the mist you
 catch faint glimpses of what looks to be a large castle.  To the east and
-north is the hillside, to the south is more field and to the west tangled 
+north is the hillside, to the south is more field, and to the west tangled 
 brush prevents any movement.
 ~
 0 0 2
@@ -1948,9 +1948,9 @@ S
 #12017
 In a Field~
 You are standing out in a field of tall grass.  To the northwest
-you can see a hill with it's top shrouded in mist.  Behind the mist you
+you can see a hill with its top shrouded in mist.  Behind the mist you
 catch faint glimpses of what looks to be a large castle.  To the east and
-north is more field and to the west and south tangled brush prevents any
+north is more field, and to the west and south tangled brush prevents any
 movement.
 ~
 0 0 2
@@ -1970,7 +1970,7 @@ The Path's Beginning~
 You are in a field like almost any field.  To the east and west the field
 continues and to the north you see a path of grass that is noticeably
 darker than the rest which circles around the hill.  To the south are
-more plentiful trail.
+more plentiful trails.
 ~
 0 VW 2  
 D0
@@ -1997,7 +1997,7 @@ S
 #12019
 In a Field~
 You are standing out in a field of tall grass.  To the north
-you can see a hill with it's top shrouded in mist.  Behind the mist you
+you can see a hill with its top shrouded in mist.  Behind the mist you
 catch faint glimpses of what looks to be a large castle.  To the west and
 east is more field, to the north you can head up the hill and to the 
 south you see a path.
@@ -2022,7 +2022,7 @@ S
 #12020
 In a Field~
 You are standing out in a field of tall grass.  To the northwest
-you can see a hill with it's top shrouded in mist.  Behind the mist you
+you can see a hill with its top shrouded in mist.  Behind the mist you
 catch faint glimpses of what looks to be a large castle.  To the west and
 north is more field and to the east and south tangled brush prevents any
 movement.
@@ -2043,7 +2043,7 @@ At the Top of the Hill~
 You are standing on the top of the hill.  The structure you thought 
 you saw from the bottom must have just been something created by a 
 combination of the light, the mist and your imagination because there is 
-not castle here.  There is however a small standing stone with some worn 
+no castle here.  There is, however, a small standing stone with some worn 
 engravings on it.  The only exit is down.
 ~
 0 0 2 
@@ -2061,7 +2061,7 @@ S
 #12022
 Along the path~
 You are standing on the path of dark grass. The path continues to 
-the west and south but all other directions are hazy.
+the west and south, but all other directions are hazy.
 ~
 0 VW 2
 D2
@@ -2078,7 +2078,7 @@ S
 #12023
 Along the path~
 You are standing on the path of dark grass. The path continues to
-the north but all other directions are hazy.
+the north, but all other directions are hazy.
 ~
 0 VW 2 
 D0
@@ -2095,7 +2095,7 @@ S
 #12024
 Along the path~
 You are standing on the path of dark grass. The path continues to
-the north but all other directions are hazy.
+the north, but all other directions are hazy.
 ~
 0 VW 2
 D0
@@ -2117,7 +2117,7 @@ S
 #12025
 Along the path~
 You are standing on the path of dark grass. The path continues to
-the north but all other directions are hazy. To the east brambles 
+the north, but all other directions are hazy. To the east brambles 
 block all movement.
 ~
 0 VW 2 
@@ -2135,7 +2135,7 @@ S
 #12026
 Along the path~
 You are standing on the path of dark grass. The path continues to
-the north but all other directions are hazy.
+the north, but all other directions are hazy.
 ~
 0 VW 2 
 D0
@@ -2157,7 +2157,7 @@ S
 #12027
 Along the path~
 You are standing on the path of dark grass. The path continues to
-the east but all other directions are hazy.
+the east, but all other directions are hazy.
 ~
 0 VW 2
 D1
@@ -2174,7 +2174,7 @@ S
 #12028
 Along the path~
 You are standing on the path of dark grass. The path continues to
-the east but all other directions are hazy.
+the east, but all other directions are hazy.
 ~
 0 VW 2
 D1
@@ -2196,7 +2196,7 @@ S
 #12029
 Along the path~
 You are standing on the path of dark grass. The path continues to
-the east but all other directions are hazy.
+the east, but all other directions are hazy.
 ~
 0 VW 2 
 D1
@@ -2218,7 +2218,7 @@ S
 #12030
 Along the path~
 You are standing on the path of dark grass. The path continues to
-the south but all other directions are hazy.
+the south, but all other directions are hazy.
 ~
 0 VW 2 
 D2
@@ -2235,7 +2235,7 @@ S
 #12031
 Along the path~
 You are standing on the path of dark grass. The path continues to
-the south but all other directions are hazy. To the west brambles block 
+the south, but all other directions are hazy. To the west brambles block 
 all movement.
 ~
 0 VW 2 
@@ -2253,7 +2253,7 @@ S
 #12032
 Along the path~
 You are standing on the path of dark grass. The path continues to
-the south but all other directions are hazy.  To the east brambles block 
+the south, but all other directions are hazy.  To the east brambles block 
 all movement.
 ~
 0 VW 2  
@@ -2271,7 +2271,7 @@ S
 #12033
 Along the path~
 You are standing on the path of dark grass. The path continues to
-the west but all other directions are hazy.  To the south brambles block 
+the west, but all other directions are hazy.  To the south brambles block 
 all movement.
 ~
 0 VW 2 
@@ -2289,7 +2289,7 @@ S
 #12034
 Along the path~
 You are standing on the path of dark grass. The path continues to
-the west but all other directions are hazy.  To the south brambles block 
+the west, but all other directions are hazy.  To the south brambles block 
 all movement.
 ~
 0 VW 2 
@@ -2312,7 +2312,7 @@ S
 #12035
 Along the path~
 You are standing on the path of dark grass. The path continues to
-the north but all other directions are hazy. To the west and south 
+the north, but all other directions are hazy. To the west and south 
 brambles block all movement.
 ~
 0 VW 2  
@@ -2330,7 +2330,7 @@ S
 #12036
 Along the path~
 You are standing on the path of dark grass. The path continues to
-the north but all other directions are hazy. To the east and west brambles
+the north, but all other directions are hazy. To the east and west brambles
 block all movement.
 ~
 0 VW 2 
@@ -2348,7 +2348,7 @@ S
 #12037
 Along the path~
 You are standing on the path of dark grass. The path continues to
-the east but all other directions are hazy. To the west brambles block all
+the east, but all other directions are hazy. To the west brambles block all
 movement.
 ~
 0 VW 2 
@@ -2389,7 +2389,7 @@ S
 #12039
 Along the path~
 You are standing on the path of dark grass. The path continues to
-the west but all other directions are hazy.  To the east and south 
+the west, but all other directions are hazy.  To the east and south 
 brambles block all movement.
 ~
 0 VW 2  
@@ -2425,7 +2425,7 @@ S
 #12041
 The Deep end of the Lake~
 You are in the depths of a lake of crystal blue waters.  The cool 
-waters carress and soothe your aches.  The water seems so peaceful that 
+waters caress and soothe your aches.  The water seems so peaceful that 
 you don't ever want to leave.  The lake extends to the north and east 
 while a rock face borders it to the west and south.
 ~
@@ -2470,7 +2470,7 @@ An Enchanted Forest~
 All around you are massive trees with emerald leaves and silver 
 bark.  The forest floor is covered in flowers and soft mosses.  Sunlight 
 filters softly through the canopy above lighting the world with a soft 
-difused glow.
+diffused glow.
 ~
 0 0 3 
 D0
