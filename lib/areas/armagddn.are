@@ -11,8 +11,8 @@ locust~
 The giant locust~
 A giant locust is here, devouring sinners.
 ~
-The locust is man sized, with the face of man and
-the hair of a woman. It bears its lion teeth and beats
+The locust is man sized, with the face of a man and
+the hair of a woman. It bears its lion teeth, and beats
 his breastplate of iron with its wings. Its long body
 ends in a scorpion stinger.
 ~
@@ -213,7 +213,7 @@ The archangel Michael~
 Michael, Archangel of war is here, fighting the dragon.
 ~
 Michael towers some 18', and is dressed in the blinding
-white of heaven. His voice booms in a deep base laugh.
+white of heaven. His voice booms in a deep bass laugh.
 ~
 angel~
 ABT BDFNTVd 1000 0
@@ -328,7 +328,7 @@ AHMV ABCDEFGHIJKW medium 0
 #14021
 woman sun~
 The woman clothed with the sun~
-A woman clothed with the sun flys here.
+A woman clothed with the sun flies here.
 ~
 The woman is clothed with the sun, has
 the moon under her feet. She is beautiful
@@ -430,7 +430,7 @@ whoremonger man~
 The whoremonger~
 A man is here, buying the services of a prostitute.
 ~
-The whoremonger has chosen a paticularly sleezy 
+The whoremonger has chosen a paticularly sleazy 
 woman, who probably is infected.
 ~
 human~
@@ -445,7 +445,7 @@ murderer~
 The murderer~
 A murderer is here to slit your throat.
 ~
-You have evaded the murder's notice. He
+You have evaded the murderer's notice. He
 is dressed in rags and carries a bloody 
 knife.
 ~
@@ -495,7 +495,7 @@ The rich man~
 A rich man is here, fleeing divine wrath.
 ~
 The rich man is moving slowly, as he is
-carrying alot of gawdy babbles. He blames
+carrying a lot of gawdy baubles. He blames
 his sins on the greedy poor.
 ~
 human~
@@ -560,7 +560,7 @@ freeman~
 The freeman~
 A freeman is here, fleeing divine wrath.
 ~
-The freeman is empoverished. He blames
+The freeman is impoverished. He blames
 all of his sins on the guild.
 ~
 human~
@@ -1024,9 +1024,9 @@ wand GIKLS AO
 90 10 10 'cure blindness' 0
 80 100 25000 P
 #14028
-raiment white~
-White raiment~
-White raiment gleams brightly.~
+rainment white~
+White rainment~
+White rainment gleams brightly.~
 unknown~
 armor AGIKLS AC
 30 30 30 10 0
@@ -1108,7 +1108,7 @@ furniture AGKLSW 0
 92 500 18000 P
 E
 throne emerald rainbow~
-The throne flashes lightnings, and peals of thunder roll
+The throne flashes lightning, and peals of thunder roll
 from it.
 ~
 #14037
@@ -1183,7 +1183,7 @@ Lake of fire
 D3
 ~
 ~
-0 0 29236
+0 0 29236 *the only exit; 29236
 E
 vial~
 4th vial of wrath: fire for blasphemers.
@@ -1225,7 +1225,7 @@ Lake of fire
 S
 #14004
 The plagued lands~
-You walk through the wreteched, fetid wreak of the plagued lands.
+You walk through the wreteched, fetid wreck of the plagued lands.
 Once fine tall grass has withered into a lifeless desert. About you
 flies lay eggs in the rotting flesh of the plagued.
 ~
@@ -1243,7 +1243,7 @@ The plagued lands
 S
 #14005
 The plagued lands~
-You walk through the wreteched, fetid wreak of the plagued lands.
+You walk through the wreteched, fetid wreck of the plagued lands.
 Once fine tall grass has withered into a lifeless desert. About you
 flies lay eggs in the rotting flesh of the plagued.
 ~
@@ -1505,7 +1505,7 @@ Lake of fire
 S
 #14017
 The plagued lands~
-You walk through the wreteched, fetid wreak of the plagued lands.
+You walk through the wreteched, fetid wreck of the plagued lands.
 Once fine tall grass has withered into a lifeless desert. About you
 flies lay eggs in the rotting flesh of the plagued.
 ~
@@ -1528,7 +1528,7 @@ Lake of fire
 S
 #14018
 The plagued lands~
-You walk through the wreteched, fetid wreak of the plagued lands.
+You walk through the wreteched, fetid wreck of the plagued lands.
 Once fine tall grass has withered into a lifeless desert. About you
 flies lay eggs in the rotting flesh of the plagued.
 ~
@@ -1556,7 +1556,7 @@ The plagued lands
 S
 #14019
 The plagued lands~
-You walk through the wreteched, fetid wreak of the plagued lands.
+You walk through the wreteched, fetid wreck of the plagued lands.
 Once fine tall grass has withered into a lifeless desert. About you
 flies lay eggs in the rotting flesh of the plagued.
 ~
@@ -1822,7 +1822,7 @@ Lake of fire
 S
 #14030
 The plagued lands~
-You walk through the wreteched, fetid wreak of the plagued lands.
+You walk through the wreteched, fetid wreck of the plagued lands.
 Once fine tall grass has withered into a lifeless desert. About you
 flies lay eggs in the rotting flesh of the plagued.
 ~
@@ -1840,7 +1840,7 @@ The plagued lands
 S
 #14031
 The plagued lands~
-You walk through the wreteched, fetid wreak of the plagued lands.
+You walk through the wreteched, fetid wreck of the plagued lands.
 Once fine tall grass has withered into a lifeless desert. About you
 flies lay eggs in the rotting flesh of the plagued.
 ~
@@ -1868,7 +1868,7 @@ The plagued lands
 S
 #14032
 The plagued lands~
-You walk through the wreteched, fetid wreak of the plagued lands.
+You walk through the wreteched, fetid wreck of the plagued lands.
 Once fine tall grass has withered into a lifeless desert. About you
 flies lay eggs in the rotting flesh of the plagued.
 ~
@@ -1886,7 +1886,7 @@ The plagued lands
 S
 #14033
 The plagued lands~
-You walk through the wreteched, fetid wreak of the plagued lands.
+You walk through the wreteched, fetid wreck of the plagued lands.
 Once fine tall grass has withered into a lifeless desert. About you
 flies lay eggs in the rotting flesh of the plagued.
 ~
@@ -2109,7 +2109,7 @@ More blood
 S
 #14043
 The plagued lands~
-You walk through the wreteched, fetid wreak of the plagued lands.
+You walk through the wreteched, fetid wreck of the plagued lands.
 Once fine tall grass has withered into a lifeless desert. About you
 flies lay eggs in the rotting flesh of the plagued.
 ~
@@ -2127,7 +2127,7 @@ The plagued lands
 S
 #14044
 The plagued lands~
-You walk through the wreteched, fetid wreak of the plagued lands.
+You walk through the wreteched, fetid wreck of the plagued lands.
 Once fine tall grass has withered into a lifeless desert. About you
 flies lay eggs in the rotting flesh of the plagued.
 ~
@@ -2155,7 +2155,7 @@ The plagued lands
 S
 #14045
 The plagued lands~
-You walk through the wreteched, fetid wreak of the plagued lands.
+You walk through the wreteched, fetid wreck of the plagued lands.
 Once fine tall grass has withered into a lifeless desert. About you
 flies lay eggs in the rotting flesh of the plagued.
 ~
@@ -2441,7 +2441,7 @@ A cloud of steam
 S
 #14057
 The plagued lands~
-You walk through the wreteched, fetid wreak of the plagued lands.
+You walk through the wreteched, fetid wreck of the plagued lands.
 Once fine tall grass has withered into a lifeless desert. About you
 flies lay eggs in the rotting flesh of the plagued.
 ~
@@ -2459,7 +2459,7 @@ The plagued lands
 S
 #14058
 The plagued lands~
-You walk through the wreteched, fetid wreak of the plagued lands.
+You walk through the wreteched, fetid wreck of the plagued lands.
 Once fine tall grass has withered into a lifeless desert. About you
 flies lay eggs in the rotting flesh of the plagued.
 ~
@@ -2482,7 +2482,7 @@ The plagued lands
 S
 #14059
 The plagued lands~
-You walk through the wreteched, fetid wreak of the plagued lands.
+You walk through the wreteched, fetid wreck of the plagued lands.
 Once fine tall grass has withered into a lifeless desert. About you
 flies lay eggs in the rotting flesh of the plagued.
 ~
@@ -2493,7 +2493,7 @@ Wormwood
 ~
 0 0 14073
 D2
-The  plagued lands
+The plagued lands
 ~
 ~
 0 0 14045
