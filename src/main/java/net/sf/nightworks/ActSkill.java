@@ -394,6 +394,7 @@ class ActSkill {
 			}
 		} catch (java.lang.ArrayIndexOutOfBoundsException e) {
 			// TODO Auto-generated catch block, added to catch error
+			
 			// e.printStackTrace();
 			return -1;
 		}
