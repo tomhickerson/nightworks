@@ -386,11 +386,17 @@ class ActSkill {
     static int group_lookup(String name) {
         int gr;
 
-        for (gr = 0; prac_table[gr].sh_name != null; gr++) {
-            if (!str_prefix(name, prac_table[gr].sh_name)) {
-                return gr;
-            }
-        }
+        try {
+			for (gr = 0; prac_table[gr].sh_name != null; gr++) {
+			    if (!str_prefix(name, prac_table[gr].sh_name)) {
+			        return gr;
+			    }
+			}
+		} catch (java.lang.ArrayIndexOutOfBoundsException e) {
+			// TODO Auto-generated catch block, added to catch error
+			// e.printStackTrace();
+			return -1;
+		}
 
         return -1;
     }
