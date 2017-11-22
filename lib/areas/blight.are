@@ -1565,7 +1565,7 @@ crushed them in the room to the north.  You eye what was once an stout wooden
 door, reinforced with iron bars, smashed now into kindling.  To the east and
 west are two small doors, probably guard rooms, while to the south you see a
 massive iron portcullis, still intact, and rusted completely shut, it's opening
-mechanism either destroyed by the defenders of the tower, or possibly it's
+mechanism either destroyed by the defenders of the tower, or possibly its
 attackers...
 ~
 0 AD 0  
@@ -1689,8 +1689,8 @@ The air here is much more humid than in the borderland kingdom of Shienar
 to the south.  Each breath is a labor, taxing your strength as you move
 through the area.  Trees still grow here, corrupted and twisted by the
 Shadow that lays heavily across this cursed land.  Decay and disease
-surrounds you on all sides as you realize youa re far from the Light.  To
-the north you can see what remains Malkeri, swallowed by The Blight, its
+surrounds you on all sides as you realize you are far from the Light.  To
+the north you can see what remains of Malkeri, swallowed by The Blight, its
 Seven Towers broken by the hands of The Dark One.  
 ~
 0 0 2  
@@ -1736,8 +1736,7 @@ S
 #23002
 Entering the Blight~
 The corrupted tress of the Blight sway in the wind, leaves and branches
-seeming to grab at you as you pass by them.  Your nightmares seem like
-fanciful daydreams compared to the evil that has seized this land.  Only
+seeming to grab at you as you pass by them.  Only
 fools and highly-trained Warders enter this far into the Blight, and even
 the deadly skills of the Warders are sometimes not enough to keep them
 alive.  A little further to the north lie the Towers of Malkeri, surrounded
@@ -1788,14 +1787,14 @@ S
 Near the Seven Towers~
 You stand only a few miles from the Seven Towers of the once great
 Malkeri.  Lakes surround the entire area, their waters dark and cloudy, so
-dark they seem to swallow the light around them, seeming to reel and bubble
+dark they seem to swallow the light around them, seeming to reel and bubble,
 moving the shadowy water to small waves.  This far into the Blight live
 creatures that could easily kill a dozen heavily armed Bordermen, creatures
 created by the Dark One to watch over his land.  
 ~
 0 C 4  
 D0
-Directly to the north lay the Seven Towers, thier power broken.
+Directly to the north lay the Seven Towers, their powers broken.
 ~
 ~
 0 -1 23004
@@ -1836,10 +1835,10 @@ S
 #23004
 Among the Seven Towers~
 You now ride along the bases of the Seven Towers, once the kingdom of
-Malkeri held back the tides of Shadowspan relentlessly seeking to crush the
-lands to the south.  It's power now broken the Towers are in ruins, lying on
+Malkeri held back the tides of Shadowspawn, relentlessly seeking to crush the
+lands to the south.  Its power now broken, the Towers are in ruins, lying on
 top of the foothills leading to the Mountains of Dhoom, all but two are utterly
-destroyed, the two standing towers are to the east and west.  The taint of the
+destroyed, the two standing towers are to the east and west.  The influence of the
 Shadow is much heavier now, you feel the evil now living in Malkeri. All the
 trees and plants in this area are only barely holding on, decay taking them as
 quickly as they grow.  Waves roll along the Hundred Lakes, and hope is far
@@ -1852,7 +1851,7 @@ Over the hills to the north the Blight stretches on.
 ~
 0 -1 23005
 D1
-To the east is a breach in one of the Seven Towers walls.
+To the east is a breach in one of the Seven Towers' walls.
 ~
 ~
 0 -1 23061
@@ -1862,16 +1861,16 @@ The Blight continues on to the south.
 ~
 0 -1 23003
 D3
-To the west is a breach in one of the Seven Towers' wall.
+To the west is a breach in one of the Seven Towers' walls.
 ~
 ~
 0 -1 24012
 S
 #24029
 The Larder~
-This was the larder for the kitchen, you notice a human skeleton hanging
+This was the larder for the kitchen.  You notice a human skeleton hanging
 from one of the meat hooks that once held fleshly staughtered beef when the
-towers kitchens prepared food for it's inhabitants.  All the food has long
+towers kitchens prepared food for its inhabitants.  All the food has long
 since gone rotten in the larder, leaving nothing for the rats and other
 inhabitants of this once proud tower.
 ~
@@ -1884,7 +1883,7 @@ The tower's kitchen lies to the west.
 S
 #23005
 The Blight~
-This far north into the Blight shadows scurry everywhere, creatures of the
+This far north into the Blight, shadows scurry everywhere, creatures of the
 Dark One seeking blood.  The trees are now blackened as if dead, but still sway
 and shiver as you pass.  Your stomach curls at the stench of evil in everything
 here.  You wonder if the Dark One is truly bound far to the north in Shayol
@@ -1914,9 +1913,9 @@ The Blight continues on to the west.
 S
 #24030
 Dining Hall~
-This is where the soldiers and servants of the tower took thier meals. All
-the tables and chairs in the room are broken and scattered about the room, you
-have the feeling that the last meal in this room was it's usual patrons, eaten
+This is where the soldiers and servants of the tower took their meals. All
+the tables and chairs in the room are broken and scattered about the room, and you
+have the feeling that the last meal in this room was its usual patrons, eaten
 by the Trolloc armies that defeated the tower.
 ~
 0 AD 0  
@@ -1978,9 +1977,8 @@ S
 #23007
 Entering the Blight~
 The corrupted trees of the Blight sway in the wind, leaves and branches
-seeming to grab at you as you pass by them.  Your nightmares seem like fanciful
-daydreams compared to the evil that has seized this land.  Only fools and
-highly trained Warders enter this far into the Blight, and even the Warders
+seeming to grab at you as you pass by them.  Only fools and
+highly trained Warders enter this far into the Blight, and even the Warders'
 deadly skills are sometimes not enought to keep them alive.
 ~
 0 0 4  
@@ -2008,7 +2006,7 @@ S
 #24032
 The Hallway~
 You are now in a hallway on the third floor of the tower.  Faded banners
-and black streaks of dried blood line the walls.  On the northern wall a door
+and black streaks of dried blood line the walls.  On the northern wall, a door
 leads off into the tower.  A set of stairs can be seen off to the south leading
 down into the tower.  And, the hallway continues to the west.
 ~
@@ -2032,8 +2030,7 @@ S
 #23008
 The Blight~
 You are now miles into the Blight.  As you search the surrounding area you
-see the vegetation in this area is almost solid black now.  Suddenly you notice
-one of the trees is not only seeming to move, it _is_ moving - towards you!
+see the vegetation in this area is almost solid black now.
 ~
 0 0 4  
 D0
@@ -2085,8 +2082,7 @@ S
 #23009
 One of the Hundred Lakes~
 As you move through the thick oily waters of the lake you wonder what evil
-creatures live in this slime.  Movement stirs on all sides of you, and you come
-face to face with one of it's denizens...
+creatures live in this slime.  Movement stirs on all sides of you...
 ~
 0 0 6  
 E
@@ -2143,7 +2139,7 @@ The hallway continues to the west.
 S
 #23010
 The Blight~
-This far north into the Blight shadows scurry everywhere, creatures of the
+This far north into the Blight, shadows scurry everywhere, creatures of the
 Dark One seeking blood.  The trees are now blackened as if dead, but still sway
 and shiver as you pass.  Your stomach curls at the stench of evil in everything
 here.  You wonder if the Dark One is Truly Bound far to the north in Shayol
@@ -2242,9 +2238,8 @@ S
 #23012
 Entering the Blight~
 The corrupted trees of the Blight sway in the wind, leaves and branches
-seeming to grab at you as you pass by them.  Your nightmares seem like fanciful
-daydreams compared to the evil that has siezed this land.  Only fools and
-highly trained Warders enter this far into the Blight, and even the Warders
+seeming to grab at you as you pass by them.  Only fools and
+highly trained Warders enter this far into the Blight, and even the Warders'
 deadly skills are sometimes not enough to keep them alive.
 ~
 0 0 4  
@@ -2286,7 +2281,7 @@ A large door lies to the south.
 S
 #23013
 The Blight~
-This far north into the Blight shadows scurry everywhere, creatures of the
+This far north into the Blight, shadows scurry everywhere, creatures of the
 Dark One seeking blood.  The trees are now blackened as if dead, but still sway
 and shiver as you pass.  Your stomach curls at the stench of evil in everything
 here.  You wonder if the Dark One is truly bound far to the north in Sayol
@@ -2317,8 +2312,8 @@ S
 #24038
 Servant's Quarters~
 This room used to house the servants of the tower, now only a rat or two
-lives in thier places.  The room is bare except for rotting pallets bare of any
-padding, and the skeletons of the long dead servants themselves.
+lives in their places.  The room is bare except for rotting pallets, and 
+the skeletons of the long dead servants themselves.
 ~
 0 AD 0 
 D2
@@ -2329,7 +2324,7 @@ A small door lies to the south.
 S
 #23014
 The Blight~
-This far north into the Blight shadows scurry everywhere, creatures of the
+This far north into the Blight, shadows scurry everywhere, creatures of the
 Dark One seeking blood.  The trees are now blackened as if dead, but still sway
 and shiver as you pass.  Your stomach curls at the stench of evil in everything
 here.  You wonder if the Dark One is truly bound far to the north in Shayol
@@ -2360,7 +2355,7 @@ S
 #24039
 Officer's Quarters~
 This room is in amazingly good shape, appearantly these men were not in
-thier quarters when the final assault took place.  You can see that the room
+their quarters when the final assault took place.  You can see that the room
 held four men.  Bunks and lockers are in each corner of the room, disturbed,
 but not destroyed.
 ~
@@ -2404,8 +2399,8 @@ S
 #24040
 Captain's Quarters~
 This room has been almost destroyed.  Nothing remains that has not been
-broken apart or totally destroyed.  The Trollocs seem to have been searching
-this room, although for what, or if they found it is a mystery...
+broken apart.  The Trollocs seem to have been searching
+this room, although for what, or if they found it, is a mystery...
 ~
 0 AD 0 
 D0
@@ -2417,9 +2412,7 @@ S
 #23016
 Edge of the Blight~
 You have stumbled across a scouting party of Trollocs.  A small fire burns
-in the center of the camp.  They appear to be preparing to enjoy a Trolloc
-delicacy, your stomach wrenches as you realize what they are devouring.  They
-turn about sensing an intrusion of thier meal...
+in the center of the camp.
 ~
 0 0 2  
 D0
@@ -2446,7 +2439,7 @@ S
 #24041
 A Stairwell~
 Now well into the tower the light has faltered, as you weave your way
-through the oppressive darkness of the tower.  Here a stairway leads down into
+through the oppressive darkness.  Here a stairway leads down into
 the tower.  The walls are still streaked with blood, and the occasional Trolloc
 symbols written in the blood of the dead.
 ~
@@ -2465,9 +2458,8 @@ S
 #23017
 Entering the Blight~
 The corrupted tress of the Blight sway in the wind, leaves and branches
-seeming to grab at you as you pass by them.  Your nightmares seem like fanciful
-daydreams compared to the evil that has seized this land.  Only fools and
-highly trained Warders enter this far into the Blight, and even the Warders
+seeming to grab at you as you pass by them.  Only fools and
+highly trained Warders enter this far into the Blight, and even the Warders'
 deadly skills are sometimes not enough to keep them alive.
 ~
 0 0 4  
@@ -2547,7 +2539,7 @@ You are now in the center of the hallway on the main floor of the tower.
 You see the remains of Trollocs and men lying about this ruined tower.  Many
 died here trying to defend Malkeri, and many more died taking the tower.  To
 the north is a wide archway leading into darkness, to the south a large gilded
-door stands seemingly untouched by the towers fall, the hallway continues to
+door stands seemingly untouched by the towers' fall, the hallway continues to
 the east and west.
 ~
 0 AD 0 
@@ -2606,7 +2598,7 @@ S
 The Hallway~
 You are now in a hallway on the top floor of the tower.  Faded banners and
 black streaks of dried blood line the walls.  A set of stairs can be seen off
-to the south leading up yo the roof of the tower.  While the hallway continues
+to the south leading up to the roof of the tower.  The hallway continues
 back to the west.
 ~
 0 AD 0 
@@ -2654,7 +2646,7 @@ S
 #24045
 A Stairwell~
 Now well into the tower the light has faltered, as you weave your way
-through the oppressive darkness of the tower.  Here a stairway leads up onto
+through the oppressive darkness.  Here a stairway leads up onto
 the battlements of the tower.  The walls are still streaked with blood, and the
 occasional Trolloc symbols written in the blood of the dead.
 ~
@@ -2675,7 +2667,7 @@ Edge of the Blight~
 The air here is much more humid than in the borderland kingdom of Arafel to
 the south, each breath is a labor, taxing your strength as you move through the
 area.  Trees still grow here, corrupted and twisted by the Shadow that lays
-heavily across this cursed land.  Decay and disease surround ou on all sides as
+heavily across this cursed land.  Decay and disease surround you on all sides, as
 you realize you are far from the light.
 ~
 0 0 2  
@@ -2704,10 +2696,10 @@ S
 The Feast Hall~
 This room was meant to hold victory celebrations and welcome important
 guests, used by the Lord of the tower and soldiers alike.  It now lies in ruins
-as much of the rest of the tower.  Banners of depicting great battles and
-fanciful creatures and places once lined it's walls, now it walls are lined
-with dried blood and grey rags.  Once, this tower was one of the Seven Towers
-of Malkeri, now a ruin in the Blight.
+as much of the rest of the tower.  Banners depicting great battles and
+fanciful creatures and places once lined its walls, now in its place are lined
+dried blood and grey rags.  Once, this tower was one of the Seven Towers
+of Malkeri, now it is another ruin in the Blight.
 ~
 0 AD 0 
 D2
@@ -2718,10 +2710,9 @@ A hallway lies to the south.
 S
 #23022
 Entering the Blight~
-The corrupted tress of the Blight sway in the wind, leaves and branches
-seeming to grab at you as you pass by them.  Your nightmares seem like fanciful
-daydreams compared to the evil that has seized this land.  Only fools and
-highly trained Warders enter this far into the Blight, and even the Warders
+The corrupted trees of the Blight sway in the wind, leaves and branches
+seeming to grab at you as you pass by them.  Only fools and
+highly trained Warders enter this far into the Blight, and even the Warders'
 deadly skills are sometimes not enough to keep them alive.
 ~
 0 0 4  
@@ -2798,7 +2789,7 @@ You stand atop one of the Seven Towers of the lost kingdom of Malkeri.
 Once this tower overlooked farms and houses of the Malkerians, now it overlooks
 the desolation of the Blight, the Land of the Shadow.  The battlements
 themselves are blackened as if by huge gouts of fire, your heart sinks with
-desperation and a sense of loss for the broken kingdom, and it's brave people.
+desperation and a sense of loss for the broken kingdom, and its brave people.
 ~
 0 C 1  
 D5
@@ -2810,8 +2801,7 @@ S
 #23024
 The Blight~
 You are now miles into the Blight.  As you search the surrounding area you
-see the vegetation in this area is almost solid black now.  Suddenly you notice
-one of the trees is not only seeming to move, it _is_ moving - towards you!
+see the vegetation in this area is almost solid black now.
 ~
 0 0 4  
 D0
@@ -2838,7 +2828,7 @@ S
 #24049
 A Stairwell~
 Now well into the tower the light has faltered, as you weave your way
-through the oppressive darkness of the tower.  Here a stairway leads up into
+through the oppressive darkness.  Here a stairway leads up into
 the tower.  The walls are still streaked with blood, and the occasional Trolloc
 symbols written in the blood of the dead.
 ~
@@ -2941,11 +2931,11 @@ The Blight continues on to the west.
 S
 #24051
 The Hallway~
-You are now in the center of the hallway in the basment of the tower.  You
+You are now in the center of the hallway in the basement of the tower.  You
 see the remains of Trollocs and men lying about this ruined tower.  Many died
 here trying to defend Malkeri, and many more died taking the tower.  To the
 south you see a sturdy set of doors leading off to another section of the
-tower,  while the hallway continues to the east and west.
+tower, while the hallway continues to the east and west.
 ~
 0 AD 0 
 D1
@@ -2967,9 +2957,8 @@ S
 #23027
 Entering the Blight~
 The corrupted trees of the Blight sway in the wind, leaves and branches
-seeming to grab at you as you pass by them.  Your nightmares seem like fanciful
-daydreams compared to the evil that has seized this land.  Only fools and
-highly trained Warders enter this far into the Blight, and even the Warders
+seeming to grab at you as you pass by them.  Only fools and
+highly trained Warders enter this far into the Blight, and even the Warders'
 deadly skills are sometimes not enough to keep them alive.
 ~
 0 0 4  
@@ -3050,7 +3039,7 @@ S
 #24053
 A Stairwell~
 Now well into the tower the light has faltered, as you weave your way
-through the oppressive darkness of the tower.  Here a stairway leads down into
+through the oppressive darkness.  Here a stairway leads down into
 the tower.  The walls are still streaked with blood, and the occasional Trolloc
 symbols written in the blood of the dead.
 ~
@@ -3099,8 +3088,8 @@ S
 #24054
 Water Storage~
 Here is where the water for the tower was stored, appearantly gathered fro
-one of the Hundred Lakes.  The water in the tank is no fouled like the water in
-the lakes themselves.  A door leads back into the hallway to  the south, while
+one of the Hundred Lakes.  The water in the tank is not fouled like the water in
+the lakes themselves.  A door leads back into the hallway to the south, while
 to the west you see a small duct, possibly leading back outside to one of the
 lakes.
 ~
@@ -3151,8 +3140,7 @@ The Training Room~
 Long ago, the finest warriors in the borderlands practiced thier skills in
 this room, shattered remnants of weapons, and a few skeletons are all that
 remains.  Through the blood and wreckage of this room, a slogan is painted all
-across the northern wall, 'May peace favor your sword.'  A dream for these long
-dead warriors.  One that never came to be...
+across the northern wall, 'May peace favor your sword.'
 ~
 0 AD 0 
 D2
@@ -3193,9 +3181,9 @@ The Blight continues on to the west.
 S
 #24056
 The Armoury~
-Yoou have come across the towers armoury.  If you could repair what is left
+Yoou have come across the towers' armoury.  If you could repair what is left
 in this shattered room, you could equip a small army.  Unfourtunately, the
-Trolloc hordes that fell this mighty tower were very thorough in thier
+Trolloc hordes that fell upon this mighty tower were very thorough in their
 destruction.  All that is left is twisted metal and splintered wood among the
 rotting leather.
 ~
@@ -3209,9 +3197,8 @@ S
 #23032
 Entering the Blight~
 The corrupted trees of the Blight sway in the wind, leaves and branches
-seeming to grab at you as you pass by them.  Your nightmares seem like fanciful
-daydreams compared to the evil that has seized this land.  Only fools and
-highly trained Warders enter this far into the Blight, and even the Warders
+seeming to grab at you as you pass by them.  Only fools and
+highly trained Warders enter this far into the Blight, and even the Warders'
 deadly skills are sometimes not enough to keep them alive.
 ~
 0 0 4 
@@ -3239,7 +3226,7 @@ S
 #24057
 A Stairwell~
 Now well into the tower the light has faltered, as you weave your way
-through the oppressive darkness of the tower.  Here a stairway leads up into
+through the oppressive darkness.  Here a stairway leads up into
 the tower.  The walls are still streaked with blood, and the occasional Trolloc
 symbols written in the blood of the dead.
 ~
@@ -3287,10 +3274,10 @@ The Blight continues on to the west.
 S
 #24058
 The Hallway~
-You are now in the dungeons of the tower.  There are now banners here to
-adorn the walls.  This was no a place of honor or celebration in the tower, and
-dried blood is the only decorations to be seen on it's walls.  A stout door
-isset into northern wall. To the south lies a set of stairs, while the hallway
+You are now in the dungeons of the tower.  There are no banners here to
+adorn the walls.  This was not a place of honor or celebration in the tower, and
+dried blood is the only decorations to be seen on its walls.  A stout door
+is set into northern wall. To the south lies a set of stairs, while the hallway
 continues to the east.
 ~
 0 AD 0 
@@ -3343,8 +3330,8 @@ S
 #24059
 The Hallway~
 You are now in the dungeons of the tower.  There are no banners here to
-adorn the walls.  This was no a place of honor or celebration in the tower, and
-dried blood is the only decorations to be seen on it's walls.  A barred door is
+adorn the walls.  This was not a place of honor or celebration in the tower, and
+dried blood is the only decorations to be seen on its walls.  A barred door is
 set in the southern wall, the hallway continues to the west.
 ~
 0 AD 0 
@@ -3365,7 +3352,7 @@ A dark cloud blots out what little light reaches this stretch of land in
 the far north of the Blight.  You survey the surrounding countryside as you
 decide your next course of travel as the cloud moves closer to your location.
 The sound of a thousand wings fill your ears as your realize in horror that the
-cloud is actually a huge flock of raven.  The Eyes of the Dark One descend upon
+cloud is actually a huge flock of ravens.  The Eyes of the Dark One descend upon
 you to rend your flesh and spirit.
 ~
 0 A 4  
@@ -3392,8 +3379,8 @@ The Blight continues on to the west.
 S
 #24060
 Guard Room~
-The dungeon's guards once kept thier watch from this room.  There are no
-longer prisonners to watch, or guards to watch them however, and this room
+The dungeon's guards once kept their watch from this room.  There are no
+longer prisonners to watch, or guards to watch them, and this room
 holds nothing but wreckage and dust.  A small door is set in the eastern wall,
 while the hallway lies to the south.
 ~
@@ -3456,9 +3443,7 @@ S
 #23037
 Entering the Blight~
 You have stumbled across a scouting party of Trollocs.  A small fire burns
-in the center of the camp.  They appear to be preparing to enjoy a Trolloc
-delicacy, you stomach wrenches as you realize what they are devouring.  They
-turn about sensing an intrusion of thier meal...
+in the center of the camp.
 ~
 0 0 4  
 D0
@@ -3487,7 +3472,7 @@ The Cells~
 Although no one resides here any longer, you feel a sense of despair.  As
 you look around the area you notice that although the tower was taken, and that
 this area was surely checked, that none of the cells stand open.  Two of the
-cells hold skeletons hanging from rotting ropes appearantly made from rotting
+cells hold skeletons hanging from rotting ropes appearantly made from
 bedding.  Surely the Shadowspawn that took the tower would have freed thier
 fellows.  Wouldn't they?
 ~
@@ -3601,10 +3586,10 @@ S
 Foxes and Snakes~
 Your mind is still foggy, but a memory of a childhood game struggles to the
 surface.  Foxes and Snakes.  A childhood game more complex than, but not unlike
-hunting snipes, as you survey the scene you realize why.  You are suspeneded in
+hunting snipes, and as you survey the scene you realize why.  You are suspeneded in
 mid-air by some unseen force, all around you pale humanoids observe you
 grinning with canine maws.  They are too tall to be humans, and too thin.  You
-are glad that whatever force keeps you from moving on stops them from getting
+are glad that whatever force keeps you from moving on, stops them from getting
 to you also.
 ~
 0 ADN 0  
@@ -3652,7 +3637,7 @@ hunting snipes, as you survey the scene you realize why.  You are suspeneded in
 mid-air by some unseen force, all around you scaled humanoids are observing
 you.  They seem to have no bones as they sway like willows in the wind.  They
 seem to be in rapture at your presence, smiling absently.  You are glad that
-whatever force keeps you from moving on stops them from getting to you also.
+whatever force keeps you from moving on, stops them from getting to you also.
 ~
 0 ADN 0 
 D0
@@ -3697,8 +3682,8 @@ You have entered into a large comfortable room.  Still a bit disoriented,
 it takes you a moment to realize there is a man sitting at a desk by a warm
 looking fireplace.  You feel quite strange.  The man is oblivious to you, and
 you are unable to enter further into the room.  You have never seen the man
-before, but you sense he is a man great power.  The kind who contols other men
-and women fates with uncommon ease, sitting before a glowing screen, working
+before, but you sense he is a man of great power.  The kind who contols others' 
+fates with uncommon ease, sitting before a glowing screen, working
 some strange plate before him.
 ~
 0 ADN 0 
@@ -3711,9 +3696,8 @@ S
 #23042
 Entering the Blight~
 The corrupted trees of the Blight sway in the wind, leaves and branches
-seeming to grab at you as you pass by them.  Your nightmares seem like fanciful
-daydreams compared to the evil that has siezed this land.  Only fools and
-highly trained Warders enter this far into the Blight, and even the Warders
+seeming to grab at you as you pass by them.  Only fools and
+highly trained Warders enter this far into the Blight, and even the Warders'
 deadly skills are sometimes not enough to keep them alive.
 ~
 0 0 4  
@@ -3759,8 +3743,7 @@ S
 #23043
 The Blight~
 You are now miles into the Blight.  As you search the surrounding area you
-see the vegetation in this area is almost solid black now.  Suddenly you notice
-one of the trees is not only seeming to move, it _is_ moving - towards you!
+see the vegetation in this area is almost solid black now.
 ~
 0 0 4  
 D0
@@ -3906,7 +3889,7 @@ S
 #24070
 The Southeast Corner~
 You stand in the southeast corner of this strange yard.  The wall
-surrounding the yard looks like glass, but when you test it's strength you find
+surrounding the yard looks like glass, but when you test its strength you find
 it to be harder than steel.  People milling around outside sometimes notice
 you, sometimes not.  The other beings in the yard look as confused as you feel.
 ~
@@ -3955,7 +3938,7 @@ S
 #24071
 The Eastern Yard~
 You are in the middle of the eastern wall of this strange yard.  The wall
-appears to be made of glass, but when you test it's strength you find it harder
+appears to be made of glass, but when you test its strength you find it harder
 than steel.  The people outside sometimes look at you with a sense of wonder,
 sometimes disgust, and sometines not at all.  The other beings in the yard look
 as confused as you feel.
@@ -4010,7 +3993,7 @@ S
 #24072
 The Northeast Corner~
 You stand in the northeast corner of this strange yard.  The wall
-surrounding the yard looks like glass, but when you test it's strength you find
+surrounding the yard looks like glass, but when you test its strength you find
 it to be harder than steel.  People milling around outside sometimes notice
 you, sometimes not.  The other beings in the yard look as confused as you feel.
 ~
@@ -4059,7 +4042,7 @@ S
 #24073
 The Northern Yard~
 You are in the middle of the northern wall of this strange yard.  The wall
-appears to be made of glass, but when you test it's strength you find it harder
+appears to be made of glass, but when you test its strength you find it harder
 than steel.  The people outside sometimes look at you with a sense of wonder,
 sometimes disgust, and sometines not at all.  The other beings in the yard look
 as confused as you feel.
@@ -4114,7 +4097,7 @@ S
 #24074
 The Northwest Corner~
 You stand in the northwest corner of this strange yard.  The wall
-surrounding the yard looks like glass, but when you test it's strength you find
+surrounding the yard looks like glass, but when you test its strength you find
 it to be harder than steel.  People milling around outside sometimes notice
 you, sometimes not.  The other beings in the yard look as confused as you feel.
 ~
@@ -4163,7 +4146,7 @@ S
 #24075
 The Western Yard~
 You are in the middle of the western wall of this strange yard.  The wall
-appears to be made of glass, but when you test it's strength you find it harder
+appears to be made of glass, but when you test its strength you find it harder
 than steel.  The people outside sometimes look at you with a sense of wonder,
 sometimes disgust, and sometines not at all.  The other beings in the yard look
 as confused as you feel.
@@ -4188,9 +4171,7 @@ S
 #23051
 Edge of the Blight~
 You have stumbled across a scouting party of Trollocs.  A small fire burns
-in the center of the camp.  They appear to be preparing to enjoy a Trolloc
-delicacy, your stomach wrenches as you realize what they are devouring.  They
-turn about sensing an intrusion of thier meal...
+in the center of the camp.  
 ~
 0 0 2  
 D0
@@ -4217,7 +4198,7 @@ S
 #24076
 The Southwest Corner~
 You stand in the southwest corner of this strange yard.  The wall
-surrounding the yard looks like glass, but when you test it's strength you find
+surrounding the yard looks like glass, but when you test its strength you find
 it to be harder than steel.  People milling around outside sometimes notice
 you, sometimes not.  The other beings in the yard look as confused as you feel.
 ~
@@ -4236,9 +4217,8 @@ S
 #23052
 Entering the Blight~
 The corrupted trees of the Blight sway in the wind, leaves and branches
-seeming to grab at you as you pass by them.  Your nightmares seem like fanciful
-daydreams compared to the evil that has siezed this land.  Only fools and
-highly trained Warders enter this far into the Blight, and even the Warders
+seeming to grab at you as you pass by them.  Only fools and
+highly trained Warders enter this far into the Blight, and even the Warders'
 deadly skills are sometimes not enough to keep them alive.
 ~
 0 0 4  
@@ -4265,8 +4245,8 @@ The Blight continues on to the west.
 S
 #24077
 Near The Spine of the World~
-You have travelled east all the way to the Spine of the World.  It's
-mountains loom above you to the east leaving you no further path to the east.
+You have travelled east all the way to the Spine of the World.  Its
+mountains loom above you to the east, leaving you no further path.
 Legend has it that the mighty Aiel live on the other side of the Dragonwall,
 and you think maybe it's best that you cannot continue in that direction.  You
 still need to survive the Blight.
@@ -4294,7 +4274,7 @@ This far north into the Blight shadows scurry everywhere, creatures of the
 Dark One seeking blood.  The trees are now blackened as if dead, but still sway
 and shiver as you pass.  Your stomach curls at the stench of evil in everything
 here.  A large stone outcrop overlooks this stretch of the Blight, when you
-crawl to the top to get a better view, you notice large paw prints mark it's
+crawl to the top to get a better view, you notice large paw prints mark its
 surface.  Prints of Dark Hounds, you wonder who they are hunting...
 ~
 0 0 4  
@@ -4321,8 +4301,8 @@ The Blight continues on to the west.
 S
 #24078
 Near The Spine of the World~
-You have travelled east all the way to the Spine of the World.  It's
-mountains loom above you to the east leaving you no further path to the east.
+You have travelled east all the way to the Spine of the World.  Its
+mountains loom above you to the east, leaving you no further path.
 Legend has it that the mighty Aiel live on the other side of the Dragonwall,
 and you think maybe it's best that you cannot continue in that direction.  You
 still need to survive the Blight.
@@ -4347,8 +4327,7 @@ S
 #23054
 The Blight~
 You are now miles into the Blight.  As you search the surrounding area you
-see the vegetation in this area is almost solid black now.  Suddenly you notice
-one of the trees is not only seeming to move, it _is_ moving - towards you!
+see the vegetation in this area is almost solid black now.
 ~
 0 0 4  
 D0
@@ -4374,8 +4353,8 @@ The Blight continues on to the west.
 S
 #24079
 Near The Spine of the World~
-You have travelled east all the way to the Spine of the World.  It's
-mountains loom above you to the east leaving you no further path to the east.
+You have travelled east all the way to the Spine of the World.  Its
+mountains loom above you to the east, leaving you no further path.
 Legend has it that the mighty Aiel live on the other side of the Dragonwall,
 and you think maybe it's best that you cannot continue in that direction.  You
 still need to survive the Blight.
@@ -4429,8 +4408,8 @@ The Blight continues on to the west.
 S
 #24080
 Near The Spine of the World~
-You have travelled east all the way to the Spine of the World.  It's
-mountains loom above you to the east leaving you no further path to the east.
+You have travelled east all the way to the Spine of the World.  Its
+mountains loom above you to the east, leaving you no further path.
 Legend has it that the mighty Aiel live on the other side of the Dragonwall,
 and you think maybe it's best that you cannot continue in that direction.  You
 still need to survive the Blight.
@@ -4479,8 +4458,8 @@ The Blight continues on to the west.
 S
 #24081
 Near The Spine of the World~
-You have travelled east all the way to the Spine of the World.  It's
-mountains loom above you to the east leaving you no further path to the east.
+You have travelled east all the way to the Spine of the World.  Its
+mountains loom above you to the east, leaving you no further path that way.
 Legend has it that the mighty Aiel live on the other side of the Dragonwall,
 and you think maybe it's best that you cannot continue in that direction.  You
 still need to survive the Blight.
@@ -4507,7 +4486,7 @@ Entering the Blight~
 The corrupted trees of the Blight sway in the wind, leaves and branches
 seeming to grab at you as you pass by them.  Your nightmares seem like fanciful
 daydreams compared to the evil that has siezed this land.  Only fools and
-highly trained Warders enter this far into the Blight, and even the Warders
+highly trained Warders enter this far into the Blight, and even the Warders'
 deadly skills are sometimes not enough to keep them alive.
 ~
 0 0 4  
@@ -4536,8 +4515,8 @@ S
 Tarwin's Gap~
 You have reached the beginning of Tarwin's Gap.  The largest pass in the
 Mountains of Dhoom.  Many great battles have taken place in this gap.
-Traditionally the Malkerians defended this gap.  Once that that kingdom fell
-the duty fell to the borderland kingdom of Shienar.  You see more than a fist
+Traditionally the Malkerians defended this gap.  Once that kingdom fell,
+the duty fell to the borderland kingdom of Shienar.  You see more than a host
 of Trollocs camped in the gap.  Going further to the north would be suicide.
 With the Dragonwall to the east, and the Mountains of Dhoom to the north, you
 must turn back.
@@ -4589,7 +4568,7 @@ Near the Mountains of Dhoom~
 You stand at the base of the Mountains of Dhoom.  If things are this bad
 hundreds of miles from Shayol Ghul, you shiver at what the Blasted Lands to the
 north of the range must be like, fully in the embrace of Ba'alzamon.  You are
-not to disappointed to find no pass north into the range.
+not too disappointed to find no passage north into the range.
 ~
 0 0 5  
 D1
@@ -4643,7 +4622,7 @@ Near the Mountains of Dhoom~
 You stand at the base of the Mountains of Dhoom.  If things are this bad
 hundreds of miles from Shayol Ghul, you shiver at what the Blasted Lands to the
 north of the range must be like, fully in the embrace of Ba'alzamon.  You are
-not to disappointed to find no pass north into the range.
+not too disappointed to find no passage north into the range.
 ~
 0 0 5  
 D1
@@ -4667,8 +4646,7 @@ The Blight~
 This area of the Blight seems like all the others at first, death and
 disease reigning everywhere.  Then you notice a small outcrop of rock that
 seems out of place.  Upon closer inspection you realize it is man made,
-appearantly the top of a tower, now buried deep in the earth.  What lost
-kingdom must this have belonged to?
+apparantly the top of a tower, now buried deep in the earth.
 ~
 0 0 4  
 D0
@@ -4702,7 +4680,7 @@ Near the Mountains of Dhoom~
 You stand at the base of the Mountains of Dhoom.  If things are this bad
 hundreds of miles from Shayol Ghul, you shiver at what the Blasted Lands to the
 north of the range must be like, fully in the embrace of Ba'alzamon.  You are
-not to disappointed to find no pass north into the range.
+not too disappointed to find no passage north into the range.
 ~
 0 0 5  
 D1
@@ -4724,9 +4702,9 @@ S
 #23061
 Into the Breach~
 You have entered into a breach in the wall of one of the Seven Towers,
-Trolloc armies over ran this tower many years ago.  To the east lies a hallway
+Trolloc armies overran this tower many years ago.  To the east lies a hallway
 deeper into the tower.  The Blight is outside to the west.  You doubt the
-Trolloc armies, and any creatures here since left anything in the tower, except
+Trolloc armies, and any creatures here since, left anything in the tower, except
 the dead.
 ~
 0 D 0  
@@ -4746,7 +4724,7 @@ Near the Mountains of Dhoom~
 You stand at the base of the Mountains of Dhoom.  If things are this bad
 hundreds of miles from Shayol Ghul, you shiver at what the Blasted Lands to the
 north of the range must be like, fully in the embrace of Ba'alzamon.  You are
-not to disappointed to find no pass north into the range.
+not too disappointed to find no passage north into the range.
 ~
 0 0 5  
 D1
@@ -4794,7 +4772,7 @@ Near the Mountains of Dhoom~
 You stand at the base of the Mountains of Dhoom.  If things are this bad
 hundreds of miles from Shayol Ghul, you shiver at what the Blasted Lands to the
 north of the range must be like, fully in the embrace of Ba'alzamon.  You are
-not to disappointed to find no pass north into the range.
+not too disappointed to find no passage north into the range.
 ~
 0 0 5  
 D1
@@ -4848,7 +4826,7 @@ Near the Mountains of Dhoom~
 You stand at the base of the Mountains of Dhoom.  If things are this bad
 hundreds of miles from Shayol Ghul, you shiver at what the Blasted Lands to the
 north of the range must be like, fully in the embrace of Ba'alzamon.  You are
-not to disappointed to find no pass north into the range.
+not too disappointed to find no passage north into the range.
 ~
 0 0 5  
 D1
@@ -4890,8 +4868,7 @@ S
 Near the Mountains of Dhoom~
 You stand at the base of the Mountains of Dhoom.  If things are this bad
 hundreds of miles from Shayol Ghul, you shiver at what the Blasted Lands to the
-north of the range must be like, fully in the embrace of Ba'alzamon.  You are
-not to disappointed to find no pass north into the range.
+north of the range must be like, fully in the embrace of Ba'alzamon.
 ~
 0 0 5  
 D1
@@ -4913,7 +4890,7 @@ S
 #23065
 A Stairwell~
 Now well into the tower the light has faltered, as you weave your way
-through the oppressive darkness of the tower.  Here a stairway leads up into
+through the oppressive darkness.  Here a stairway leads up into
 the tower.  The walls are still streaked with blood, and the occasional Trolloc
 symbols written in the blood of the dead.
 ~
@@ -4933,8 +4910,7 @@ S
 Near the Mountains of Dhoom~
 You stand at the base of the Mountains of Dhoom.  If things are this bad
 hundreds of miles from Shayol Ghul, you shiver at what the Blasted Lands to the
-north of the range must be like, fully in the embrace of Ba'alzamon.  You are
-not to disappointed to find no pass north into the range.
+north of the range must be like, fully in the embrace of Ba'alzamon.
 ~
 0 0 5  
 D0
@@ -4961,7 +4937,7 @@ S
 #23066
 A Stairwell~
 Now well into the tower the light has faltered, as you weave your way
-through the oppressive darkness of the tower.  Here a stairway leads down into
+through the oppressive darkness.  Here a stairway leads down into
 the tower.  The walls are still streaked with blood, and the occasional Trolloc
 symbols written in the blood of the dead.
 ~
@@ -4981,8 +4957,7 @@ S
 Near the Mountains of Dhoom~
 You stand at the base of the Mountains of Dhoom.  If things are this bad
 hundreds of miles from Shayol Ghul, you shiver at what the Blasted Lands to the
-north of the range must be like, fully in the embrace of Ba'alzamon.  You are
-not to disappointed to find no pass north into the range.
+north of the range must be like, fully in the embrace of Ba'alzamon.
 ~
 0 0 5  
 D1
@@ -5007,7 +4982,7 @@ Although you can tell this was a stables at one time from the stalls and
 the rotted leather of old tack and harnesses, the smell here is not of horses,
 but of death, and dust.  No one has used this room as a stables for a very long
 time, all the stalls are empty, and whatever grain may have been stored here as
-feed has long since rotted away.  The only exit from this room is to the south,
+feed has long since rotted.  The only exit from this room is to the south,
 back into the hallway.
 ~
 0 AD 0 
@@ -5022,7 +4997,7 @@ Near the Mountains of Dhoom~
 You stand at the base of the Mountains of Dhoom.  If things are this bad
 hundreds of miles from Shayol Ghul, you shiver at what the Blasted Lands to the
 north of the range must be like, fully in the embrace of Ba'alzamon.  You are
-not to disappointed to find no pass north into the range.
+not too disappointed to find no passage north into the range.
 ~
 0 0 5  
 D1
@@ -5067,7 +5042,7 @@ Near the Mountains of Dhoom~
 You stand at the base of the Mountains of Dhoom.  If things are this bad
 hundreds of miles from Shayol Ghul, you shiver at what the Blasted Lands to the
 north of the range must be like, fully in the embrace of Ba'alzamon.  You are
-not to disappointed to find no pass north into the range.
+not too disappointed to find no passage north into the range.
 ~
 0 0 5 
 D1
@@ -5093,8 +5068,8 @@ back to this room when they had been weakened by the Trolloc hordes that
 crushed them in the room to the north.  You eye what was once an stout wooden
 door, reinforced with iron bars, smashed now into kindling.  To the east and
 west are two small doors, probably guard rooms, while to the south you see a
-massive iron portcullis, still intact, and rusted completely shut, it's opening
-mechanism either destroyed by the defenders of the tower, or possibly it's
+massive iron portcullis, still intact, and rusted completely shut, its opening
+mechanism either destroyed by the defenders of the tower, or possibly its
 attackers...
 ~
 0 AD 0 
@@ -5119,7 +5094,7 @@ Near the Mountains of Dhoom~
 You stand at the base of the Mountains of Dhoom.  If things are this bad
 hundreds of miles from Shayol Ghul, you shiver at what the Blasted Lands to the
 north of the range must be like, fully in the embrace of Ba'alzamon.  You are
-not to disappointed to find no pass north into the range.
+not too disappointed to find no passage north into the range.
 ~
 0 0 5 
 D1
@@ -5156,11 +5131,11 @@ S
 #24095
 The Moutains and the Sea~
 A grotesque and disturbing site meets you eyes here.  The Blight continues
-on to the south and east with all of it's death and decay strong in your mind.
+on to the south and east with all of its death and decay strong in your mind.
 To the north lay the Mountains of Dhoom, that few men have travelled north of,
 and even less have returned.  But, what lies to the west is perhaps the most
-disturbing of all.  You are standing on the shore of the Dead Sea.  It's black
-and lifeless waters are perfectly still like a huge mirror of pollished
+disturbing of all.  You are standing on the shore of the Dead Sea.  Its black
+and lifeless waters are perfectly still like a huge mirror of polished
 obsidian.  It's calm and lack of life chill you to the bone, surely one step
 into those evil waters would mean your death.
 ~
@@ -5196,8 +5171,8 @@ By the Shore~
 A grotesque and disturbing site meets you eyes here.  The Blight still
 surrounds you all of it's death and decay strong in your mind.  But, what lies
 to the west is perhaps the most disturbing of all.  You are standing on the
-shore of the Dead Sea.  It's black and lifeless waters are perfectly still like
-a huge mirror of pollished obsidian.  It's calm and lack of life chill you to
+shore of the Dead Sea.  Its black and lifeless waters are perfectly still like
+a huge mirror of polished obsidian.  Its evil calm and lack of life chill you to
 the bone, surely one step into those evil waters would mean your death.
 ~
 0 0 5  
@@ -5220,7 +5195,7 @@ S
 #23072
 A Stairwell~
 Now well into the tower the light has faltered, as you weave your way
-through the oppressive darkness of the tower.  Here a stairway leads down into
+through the oppressive darkness.  Here a stairway leads down into
 the tower.  The walls are still streaked with blood, and the occasional Trolloc
 symbols written in the blood of the dead.
 ~
@@ -5241,8 +5216,8 @@ By the Shore~
 A grotesque and disturbing site meets you eyes here.  The Blight still
 surrounds you all of it's death and decay strong in your mind.  But, what lies
 to the west is perhaps the most disturbing of all.  You are standing on the
-shore of the Dead Sea.  It's black and lifeless waters are perfectly still like
-a huge mirror of pollished obsidian.  It's calm and lack of life chill you to
+shore of the Dead Sea.  Its black and lifeless waters are perfectly still like
+a huge mirror of polished obsidian.  Its calm and lack of life chill you to
 the bone, surely one step into those evil waters would mean your death.
 ~
 0 0 5  
@@ -5283,11 +5258,11 @@ A set of stairs lies to the south.
 S
 #24098
 By the Shore~
-A grotesque and disturbing site meets you eyes here.  The Blight still
-surrounds you all of it's death and decay strong in your mind.  But, what lies
+A grotesque and disturbing site meets your eyes here.  The Blight still
+surrounds you all of its death and decay strong in your mind.  But, what lies
 to the west is perhaps the most disturbing of all.  You are standing on the
-shore of the Dead Sea.  It's black and lifeless waters are perfectly still like
-a huge mirror of pollished obsidian.  It's calm and lack of life chill you to
+shore of the Dead Sea.  Its black and lifeless waters are perfectly still like
+a huge mirror of polished obsidian.  It's calm and lack of life chill you to
 the bone, surely one step into those evil waters would mean your death.
 ~
 0 0 5  
@@ -5339,11 +5314,11 @@ The hallway continues to the west.
 S
 #24099
 By the Shore~
-A grotesque and disturbing site meets you eyes here.  The Blight still
-surrounds you all of it's death and decay strong in your mind.  But, what lies
+A grotesque and disturbing site meets your eyes here.  The Blight still
+surrounds you all of its death and decay strong in your mind.  But, what lies
 to the west is perhaps the most disturbing of all.  You are standing on the
-shore of the Dead Sea.  It's black and lifeless waters are perfectly still like
-a huge mirror of pollished obsidian.  It's calm and lack of life chill you to
+shore of the Dead Sea.  Its black and lifeless waters are perfectly still like
+a huge mirror of polished obsidian.  It's calm and lack of life chill you to
 the bone, surely one step into those evil waters would mean your death.
 ~
 0 0 5  
@@ -5385,7 +5360,7 @@ S
 #23076
 A Stairwell~
 Now well into the tower the light has faltered, as you weave your way
-through the oppressive darkness of the tower.  Here a stairway leads up into
+through the oppressive darkness.  Here a stairway leads up into
 the tower.  The walls are still streaked with blood, and the occasional Trolloc
 symbols written in the blood of the dead.
 ~
@@ -5421,11 +5396,11 @@ A hallway lies to the south.
 S
 #23078
 The Larder~
-This was the larder for the kitchen, you notice a human skeleton hanging
+This was the larder for the kitchen. You notice a human skeleton hanging
 from one of the meat hooks that once held fleshly staughtered beef when the
 towers kitchens prepared food for it's inhabitants.  All the food has long
 since gone rotten in the larder, leaving nothing for the rats and other
-inhabitants of this once proud tower.
+inhabitants of this place.
 ~
 0 AD 0 
 D3
@@ -5451,7 +5426,7 @@ S
 #23080
 A Stairwell~
 Now well into the tower the light has faltered, as you weave your way
-through the oppressive darkness of the tower.  Here a stairway leads down into
+through the oppressive darkness.  Here a stairway leads down into
 the tower.  The walls are still streaked with blood, and the occasional Trolloc
 symbols written in the blood of the dead.
 ~
@@ -5495,7 +5470,7 @@ S
 The Hallway~
 You are now in the center of the hallway on the main floor of the tower.
 You see the remains of Trollocs and men lying about this ruined tower.  Many
-died here trying to defend Malkeri, and many more died taking the tower.  To
+died here trying to defend Malkeri, and many more died taking it.  To
 the south a door leads off into the darkness, and the hallway continues to the
 east and west.
 ~
@@ -5520,7 +5495,7 @@ S
 The Hallway~
 You are now in the center of the hallway on the main floor of the tower.
 You see the remains of Trollocs and men lying about this ruined tower.  Many
-died here trying to defend Malkeri, and many more died taking the tower.  To
+died here trying to defend Malkeri, and many more died taking it.  To
 the north and south doorways lead off into the darkness, and the hallway
 continues to the east and west.
 ~
@@ -5568,7 +5543,7 @@ S
 #23085
 A Stairwell~
 Now well into the tower the light has faltered, as you weave your way
-through the oppressive darkness of the tower.  Here a stairway leads up into
+through the oppressive darkness.  Here a stairway leads up into
 the tower.  The walls are still streaked with blood, and the occasional Trolloc
 symbols written in the blood of the dead.
 ~
@@ -5586,7 +5561,7 @@ A set of stairs leads up into the tower.
 S
 #23086
 The Barracks~
-This is were the soldiers of the tower made thier home while in the service
+This is were the soldiers of the tower made their home while in the service
 of the Tower's Lord.  The floor is covered with the rubble of old furnishings
 and the occasional skeleton.  Looking more closely at a section of the northern
 wall you notice a small patch of writing that reads "Lies, lies - where is the
@@ -5602,8 +5577,8 @@ S
 #23087
 Servant's Quarters~
 This room used to house the servants of the tower, now only a rat or two
-lives in thier places.  The room is bare except for rotting pallets bare of any
-padding, and the skeletons of the long dead servants themselves.
+lives in their places.  The room is bare except for rotting pallets, and 
+the skeletons of the long dead servants themselves.
 ~
 0 AD 0 
 D2
@@ -5615,7 +5590,7 @@ S
 #23088
 Officer's Quarters~
 This room is in amazingly good shape, appearantly these men were not in
-thier quarters when the final assault took place.  You can see that the room
+their quarters when the final assault took place.  You can see that the room
 held four men.  Bunks and lockers are in each corner of the room, disturbed,
 but not destroyed.
 ~
@@ -5642,7 +5617,7 @@ S
 #23090
 A Stairwell~
 Now well into the tower the light has faltered, as you weave your way
-through the oppressive darkness of the tower.  Here a stairway leads down into
+through the oppressive darkness.  Here a stairway leads down into
 the tower.  The walls are still streaked with blood, and the occasional Trolloc
 symbols written in the blood of the dead.
 ~
@@ -5681,7 +5656,7 @@ S
 The Hallway~
 You are now in the center of the hallway on the main floor of the tower.
 You see the remains of Trollocs and men lying about this ruined tower.  Many
-died here trying to defend Malkeri, and many more died taking the tower.  To
+died here trying to defend Malkeri, and many more died taking it.  To
 the north is a wide archway leading into darkness, to the south a large gilded
 door stands seemingly untouched by the towers fall, the hallway continues to
 the east and west.
@@ -5730,7 +5705,7 @@ S
 #23094
 A Stairwell~
 Now well into the tower the light has faltered, as you weave your way
-through the oppressive darkness of the tower.  Here a stairway leads up onto
+through the oppressive darkness.  Here a stairway leads up onto
 the battlements of the tower.  The walls are still streaked with blood, and the
 occasional Trolloc symbols written in the blood of the dead.
 ~
@@ -5750,10 +5725,10 @@ S
 The Feast Hall~
 This room was meant to hold victory celebrations and welcome important
 guests, used by the Lord of the tower and soldiers alike.  It now lies in ruins
-as much of the rest of the tower.  Banners of depicting great battles and
-fanciful creatures and places once lined it's walls, now it walls are lined
+as much of the rest of the tower.  Banners depicting great battles and
+fanciful creatures and places once lined its walls, now its walls are lined
 with dried blood and grey rags.  Once, this tower was one of the Seven Towers
-of Malkeri, now a ruin in the Blight.
+of Malkeri, now just another ruin in the Blight.
 ~
 0 AD 0 
 D2
@@ -5784,7 +5759,7 @@ You stand atop one of the Seven Towers of the lost kingdom of Malkeri.
 Once this tower overlooked farms and houses of the Malkerians, now it overlooks
 the desolation of the Blight, the Land of the Shadow.  The battlements
 themselves are blackened as if by huge gouts of fire, your heart sinks with
-desperation and a sense of loss for the broken kingdom, and it's brave people.
+desperation and a sense of loss for the broken kingdom, and its brave people.
 ~
 0 C 1  
 D5
@@ -5796,7 +5771,7 @@ S
 #23098
 A Stairwell~
 Now well into the tower the light has faltered, as you weave your way
-through the oppressive darkness of the tower.  Here a stairway leads up into
+through the oppressive darkness.  Here a stairway leads up into
 the tower.  The walls are still streaked with blood, and the occasional Trolloc
 symbols written in the blood of the dead.
 ~

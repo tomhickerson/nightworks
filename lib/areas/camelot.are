@@ -242,11 +242,7 @@ beast questing~
 the Questing Beast~
 A long necked, lion pawed, spotted, creature is here knawing on a femur.
 ~
-The Questing Beast *** NUKES *** you!
-The Questing Beast === OBLITERATES *** you!
-The Questing Beast dodges your attack.
-You sure are BLEEDING!
-The Questing Beast is in perfect health.
+The Questing Beast looks at you and winks.
 ~
 human~
 2|32|128 8|32|32768|65536 -1000 0
@@ -291,7 +287,7 @@ charmed knight reknown~
 Charmed knight of reknown~
 A charmed knight of reknown woodenly attacks you!
 ~
-The knight is in rusty armor and bears a knotched sword. He has a disheveled 
+The knight is in rusty armor and bears a notched sword. He has a disheveled 
 look to him and his eyes stare vacantly at you!
 ~
 human~
@@ -307,7 +303,7 @@ Charmed knight of quality~
 A charmed knight of quality woodenly attacks you!
 ~
 A charmed knight of quality stands here in his rusted armor. His eyes are 
-vacant, his sword is knotched, and he is unkempt.
+vacant, his sword is notched, and he is unkempt.
 ~
 human~
 32|128 1024 -750 0
@@ -429,7 +425,7 @@ A damsel in distress~
 A damsel in distress is here, screaming for help!
 ~
 The damsel in distress has been badly roughed up by the ruffians. She is 
-tied with here hands behind her back. Her coartly gowns are soiled and 
+tied with here hands behind her back. Her courtly gowns are soiled and 
 tattered.
 ~
 human~
@@ -568,7 +564,7 @@ and you are seared by its hot breath. It is this demon which has been
 laughing at you in all your visions. Merlin has bound this demon here 
 to use its power in the fabrication of magic items, however his hold 
 has slipped a few times, enabling the demon to give out a few artifacts 
-to encourage the downfall of Camelot (Morgana, Pict leader).
+to encourage the downfall of Camelot.
 ~
 unique~
 ABKe 4|8|16|32|128|512|1024 -1000 0
