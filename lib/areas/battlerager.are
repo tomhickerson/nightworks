@@ -1,7 +1,7 @@
 #AREA	
 battlerager.are~
 Battlerager~
-{90 100} Chronos The Caven of Martial Arts~
+{90 100} Chronos The Cave of Martial Arts~
 540 549
 
 #MOBILES
@@ -12,7 +12,7 @@ The Powerman of martial arts is here.
 ~
 This old giant warrior has spent all his time on martial arts. He 
 never believed the power of magic. He never used potions, wands or 
-staffs. Even he had never used a magical item. Those shows how he
+staffs. He has never used a magical item. This shows how he
 hates magic.
 ~
 giant~
@@ -136,10 +136,10 @@ axe 6 6 cleave DF
 
 #ROOMS
 #540
-Front of the caven~
-  Beyond the water fall, you are in front of a caven. Things getting darker. 
-You seek for the light but you couldn't find. But the light coming from the
-water fall still can light the enterance of the caven.
+Front of the cave~
+  Beyond the water fall, you are in front of a cave. Things are getting darker. 
+You seek for the light but you can't find it. But the light coming from the
+water fall can still light the entrance of the cave.
 ~
 0 XY 1
 D1
@@ -153,11 +153,11 @@ D3
 S
 
 #541
-The entrance to the Caven of Battlerager~
+The entrance to the Cave of Battlerager~
   You see some sort of light coming thru the west, making the inside of
-the caven more noticable. You see lots of weapon and blood tracks on the
+the cave more noticable. You see lots of weapons, and blood tracks on the
 wall. There are several bones on the ground. You notice that the huge man
-looking over you before you moving on.
+is looking you over, before moving on.
 ~
 0 WXY 1
 D1
@@ -171,8 +171,8 @@ D3
 S
 
 #542
-Inside the Caven~
-  In spite of the low level light, you notice that the caven continues to
+Inside the Cave~
+  In spite of the low light, you notice that the cave continues to
 the west. You see lots of bones again on the ground. You observe that
 there seems no way from the west of the caven.
 ~
@@ -189,8 +189,8 @@ w
 S
 
 #543
-Deep in the caven~
-  You see that there are two openings more in the caven, one to the north
+Deep in the cave~
+  You see that there are two more openings in the cave, one to the north
 and one to the south. To the north you see a large white throne. To the
 south you see some clothes and weapons left on the ground. It seems that
 the south is something like a donation room.
@@ -212,12 +212,12 @@ S
 
 #544
 The donation room~
-  You find lots of weapons and clothings on the floor. You noticed the
+  You find lots of weapons and clothing on the floor. You noticed the
 writing on the floor.
       "Every battlerager is your brother."
 Then you change your mind, and want to put some good clothing and weapon
-here for all other cabal members to strengten themselves, and to destroy
-magicians.
+here for all other cabal members to strengthen themselves, and to destroy
+all magicians.
 ~
 0 WXY 1
 D0
@@ -227,10 +227,9 @@ D0
 S
 #545
 Battle Square~
-  You see lots of bones on the floor. You think that you are very near to
-the place where martial arts are practiced. There are four openings in
-all directions. To the east you see the continuing of bones on the floor,
-to the north you see the shrine of battleragers, to the west you see the a
+  You see lots of bones on the floor. There are four openings in
+all directions. To the east you see more bones on the floor,
+to the north you see the shrine of battleragers, to the west you see
 Gordall's weapon house, to the very south you see the donation room.
 ~
 0 WXY 1
@@ -268,9 +267,9 @@ S
 
 #547
 Gordall's Weapon House~
-  You see the metals hung up on the wall, shining brilliantly. Most
-probably they are the materials that Gordall use to produce his weapons.
-And to the higher portion of the wall you see the newly finished weapons,
+  You see pieces of metal hung on the wall, shining brilliantly. Most
+probably they are the materials that Gordall uses to produce his weapons.
+And on another part of the wall you see newly finished weapons,
 daggers, swords and axes.
 ~
 0 WXY 1
@@ -283,9 +282,9 @@ S
 #548
 The Shrine of Battleragers~
   You are in front of a large white throne made from bones. There are
-shelves line the walls, upon them there are many jars inside of which are
+shelves that line the walls here, upon them there are many jars, containing the 
 blood and heads of magicians. 
-  A stone tabled placed on the wall, here.
+  A stone tablet is also here, leaning against the wall.
 ~
 0 WXY 1
 D2
@@ -301,7 +300,7 @@ tablet~
  * 2) Members of Shalafi should be  *massacred*, whenever they are *
  *    seen.                                                        *
  * 3) Only clerics and paladins, which are not members of Shalafi, *
- *    can be tolerated, unless their magic is not casted on you.   *
+ *    can be tolerated, unless their magic is not cast on you.     *
  * 4) If one caster is beyond commandment 3, you should terminate  *
  *    that caster.                                                 *
  * 5) You should be afraid of any form of enemies. You ought to be *

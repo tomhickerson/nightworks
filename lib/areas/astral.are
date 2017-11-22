@@ -264,7 +264,7 @@ A ghost wanders here, intent on destroying all life.
 ~
 The ghost makes no sound.  It is a shadowy shell of its former self, cursed
 now to roam forever without rest.  The mind of this creature has been twisted
-and destroyed in this torment, and it now envys and intends to destroy all the
+and destroyed in this torment, and it now envies and intends to destroy all the
 true living beings it encounters, including you.
 ~
 human~
@@ -768,7 +768,7 @@ You can see the Temple of Midgaard below you.
 0 -1 1036
 E
 rainbow~
-The rainbow softly glows with beams of light, in colours that defie
+The rainbow softly glows with beams of light, in colours that defy
 description.
 ~
 S
@@ -791,7 +791,7 @@ The rainbow extends below you towards Midgaard.
 0 -1 7700
 E
 rainbow~
-The rainbow softly glows with beams of light, in colours that defie
+The rainbow softly glows with beams of light, in colours that defy
 description.
 ~
 S
@@ -815,7 +815,7 @@ The rainbow extends below you towards the land you once knew as home.
 E
 rainbow~
 The rainbow softly glows with beams of light, in colours that
-defie description.
+defy description.
 ~
 S
 #7703
@@ -837,7 +837,7 @@ The rainbow extends far below you, slowly fading into darkness.
 0 -1 7702
 E
 rainbow~
-The rainbow brightly glows with beams of light, in colours that defie any
+The rainbow brightly glows with beams of light, in colours that defy any
 description.
 ~
 S
@@ -990,7 +990,7 @@ The astral field leads off into infinity.
 0 -1 7712
 E
 gate~
->From here the pearly-coloured gate seems very small and insubstantial.  Through
+From here the pearly-coloured gate seems very small and insubstantial.  Through
 its bars you can see the Astral Guardian, protecting your world from the perils
 of this plane of existence.
 ~
@@ -3413,4 +3413,3 @@ M 7718 spec_cast_mage           * The enslaved red dragon
 M 7719 spec_breath_fire         * A massive blast of fire
 S
 #$
-
