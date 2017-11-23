@@ -51,7 +51,7 @@ oldstyle elemental guardian~
 the elemental guardian~
 The elemental guardian of the canyon.
 ~
-You can't tell which kind of elemental it is, maybe it's a bit o' all of them?
+You can't tell which kind of elemental it is, maybe it's a bit of all of them?
 ~
 human~
 AB 0 0 0
@@ -151,7 +151,7 @@ The Lightning Ruler~
 The Ruler of the lightning elementals.
 ~
 As you examine him there is a blinding flash of light and a deafening boom!
-You rub your eyes and look and the ruler is there grinning at you.
+You rub your eyes and look, and the ruler is there, grinning at you.
 ~
 human~
 ABKe H 0 0
@@ -166,7 +166,7 @@ The Water Ruler~
 The Ruler of the water elementals.
 ~
 As you look at him he changes to mist, which swirls around you.  Just
-as you get scared, it reforms in elemental form.
+as you get scared, he reforms in elemental form.
 ~
 water fowl~
 ABKe H 0 0
@@ -330,11 +330,11 @@ BEFJNU 0 0 0
 stand stand none 5
 0 0 medium 0
 #9225
-oldstyle eddie elemental~
+oldstyle eddy elemental~
 an eddie~
-A small eddie current swirls junk around here.
+A small eddy current swirls junk around here.
 ~
-The magical eddie current is a manifestation of an air elemental.
+The magical eddy current is a manifestation of an air elemental.
 ~
 human~
 AGS DF 0 0
@@ -389,7 +389,7 @@ stand stand none 1500
 #9229
 oldstyle rock monster~
 the Rock Monster~
-The Rock Monster considers you in stoney silence.
+The Rock Monster considers you in stony silence.
 ~
 A humanoid figure trapped in stone seems alive.
 ~
@@ -420,7 +420,7 @@ an elemental magician~
 An elemental magician seeks magical stones for a spell.
 ~
 The elemental magician has come here in search of the fabled
-Stone of Surrender which can be used to render opponents senseless.
+Stone of Surrender, which can be used to render opponents senseless.
 ~
 human~
 ABGR B -50 0
@@ -478,7 +478,7 @@ oldstyle baby rainbow dragon~
 a baby rainbow dragon~
 A baby rainbow dragon plays among the elements here.
 ~
-It's only a baby by dragon standards.
+It's only a baby, by dragon standards.
 ~
 human~
 ABG DF 0 0
@@ -492,7 +492,7 @@ oldstyle imp~
 a little imp~
 A little imp runs along being annoying.
 ~
-The little bugger steals stuff and is generally obnoxious.
+The little bugger steals stuff, and is generally obnoxious.
 ~
 human~
 ACGH PQ -500 0
@@ -532,10 +532,10 @@ stand stand male 0
 #9239
 the magician~
 The Combat Magician~
-A Magician seeks magical stones for some powerfull combat spells.
+A Magician seeks magical stones for some powerful combat spells.
 ~
 The elemental magician has come here in search of the fabled
-Stone of Surrender which can be used to render opponents senseless.
+Stone of Surrender, which can be used to render opponents senseless.
 ~
 human~
 ABGKRe D -50 0
@@ -559,8 +559,8 @@ A
 A
 3 1
 #9202
-breastplate stoney breast plate~
-a stoney breastplate~
+breastplate stoned breast plate~
+a stoned breastplate~
 A breastplate made of the stone from deep within the earth lies here.~
 stone~
 armor 0 AD
