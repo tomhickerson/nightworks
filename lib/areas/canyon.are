@@ -867,7 +867,7 @@ potion 0 AO
 A Mountain Path~
 You are on a mountain path which ascends a steep mountainside.  The trail
 curves around the mountain so that you cannot really see what lies ahead.
-You do sense great power though coming from the area behind the mountain.
+You do sense great power coming from the area behind the mountain.
 ~
 0 0 5
 D0
@@ -881,7 +881,7 @@ D4
 S
 #9202
 A Mountain Path~
-You are on a rocky mountain path leading up and around a steep mountainside.
+You are on a rocky mountain path, leading up and around a steep mountainside.
 You sense a glow from the area beyond the mountain, which you cannot see yet.
 ~
 0 0 5
@@ -928,8 +928,7 @@ here a lot.
 S
 #9204
 A Blind Curve on the Mountain Path.~
-This looks like a normal mountain path, but it is NOT!  This section of the
-path is habitated by a huge (and of course, man-eating) Cyclops.  The path
+This looks like a normal mountain path, but it is NOT!  The path
 makes its final ascent to an overlook.
 ~
 0 0 5
@@ -1392,7 +1391,7 @@ Darkest Caves~
 Your light doesn't even seem to work here.  Even magical light sources seem
 only to illuminate about a foot ahead of you.  You suddenly realize that the
 path has descended quite a bit but you didn't notice before because of the
-darkness.  You sense a great presence off to the east aways.
+darkness.  You sense a great presence off to the east.
 ~
 0 AD 3
 D0
