@@ -16,10 +16,10 @@ Special thanx to Serdar & Anatolia Consortium~
 #15000
 head guardian cell~
 Head of the cell guardians~
-Head of the guardians of this prison is here.
+The head of the guardians of this prison is here.
 ~
-    This man has been here for years , protecting his prison from being
-destroyed.The only one who is not affacted from that evil mage; stong ,
+    This man has been here for years, protecting his prison from being
+destroyed. He is the only one who is not affacted from the evil mage; stong,
 powerful and wise.
 ~
 human~
@@ -35,7 +35,7 @@ guardian cell~
 Guardian of the cell~
 The guardian of this prison is here.
 ~
-    A powerful looking guardian on duty.He has the sign of guardians on
+    A powerful looking guardian on duty. He has the emblem of guardians on
 his shoulder.
 ~
 human~
@@ -51,9 +51,9 @@ cleaner cell~
 Cleaner of the prison~
 One of the cleaners of this prison is here.
 ~
-     He is so sad actually crying,and singing you don't understand
-anything.Why is he crying and singing at the same time.Suddenly you
-understand; singing : now you die!
+     He is so sad, actually crying, and singing. You don't understand
+anything. Why is he crying and singing at the same time? Suddenly you
+understand his singing: now you will die!
 ~
 human~
 ACGT  DFJZ 0 0
@@ -68,9 +68,9 @@ criminal~
 The criminal~
 A criminal is here resting.
 ~
-    A simply criminal, looking with aboring eyes like a zombie!Not like 
-other creatures you've ever seen.You hear a week voice like wispering 
-but continues : "as you wished my master".
+    A simple criminal, looking with adoring eyes like a zombie!  Not like 
+other creatures you've ever seen. You hear a weak voice like wispering: 
+"as you wished my master".
 ~
 human~
 ACGT  DFJZ 0 0
@@ -85,10 +85,9 @@ kwal mage ancient~
 Kwal tha ancient mage~
 Kwal the ancient mage is here working on his plans.
 ~
-   As you look at this old woman, you see fear in her eyes.But this is
-not her fear.This is your fear, your end whaiting you,catching your eyes,
-calling your spirit!One a sudden you see hate and anger in these eyes, 
-you must have disturbed her; she screams "All of you will pay for this!!"
+   As you look at this old woman, you see fear in her eyes. But this is
+not her fear. This is your fear, your end waiting for you, catching your eyes,
+calling your spirit! 
 ~
 dark-elf~
 ABWeCFGT  DFHJVZ 0 0
@@ -104,7 +103,7 @@ disturbed demon~
 A disturbed demon~
 A disturbed demon is here looking for something.
 ~
-She is very angry !
+She is very angry!
 ~
 dark-elf~
 ABWeCFGT  DFHJVZ 0 0
@@ -133,7 +132,7 @@ fountain 0 0
 E
 dusty~
 It doesn't look nice; covered with dust, but probubly you can drink the
-water
+water.
 ~
 #15001
 potpie dirty~
@@ -244,9 +243,9 @@ A
 
 
 #15003
-rod ambrossia~
-the rod of ambrossia~
-The rod of ambrossia is here.
+rod ambrosia~
+the rod of ambrosia~
+The rod of ambrosia is here.
 ~
 wood~
 staff BEGH AO
@@ -290,7 +289,7 @@ A
 #15011
 cloak divine protection~
 Cloak of Divine Protection~
-An incredibly glowing cloak is lying on the floor.~
+An incredible glowing cloak is lying on the floor.~
 leather~
 armor ACY AC
 39 39 39 37 30
@@ -311,15 +310,15 @@ A
 
 #15001
 The cell numbered 001~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
 0 DN 0
 D2
-Long coridor.
+Long corridor.
 ~
 ~
 0 -1 15021
@@ -334,15 +333,15 @@ S
 
 #15002
 The cell numbered 002~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
 0 DN 0
 D2
-Long coridor.
+Long corridor.
 ~
 ~
 0 -1 15022
@@ -358,15 +357,15 @@ S
 
 #15003
 The cell numbered 003~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
 0 DN 0
 D2
-Long coridor.
+Long corridor.
 ~
 ~
 0 -1 15023
@@ -382,15 +381,15 @@ S
 
 #15004
 The cell numbered 004~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
 0 DN 0
 D2
-Long coridor.
+Long corridor.
 ~
 ~
 0 -1 15024
@@ -406,15 +405,15 @@ S
 
 #15005
 The cell numbered 005~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
 0 DN 0
 D2
-Long coridor.
+Long corridor.
 ~
 ~
 0 -1 15025
@@ -430,15 +429,15 @@ S
 
 #15006
 The cell numbered 006~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
 0 DN 0
 D2
-Long coridor.
+Long corridor.
 ~
 ~
 0 -1 15026
@@ -454,15 +453,15 @@ S
 
 #15007
 The cell numbered 007~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
 0 DN 0
 D2
-Long coridor.
+Long corridor.
 ~
 ~
 0 -1 15027
@@ -478,15 +477,15 @@ S
 
 #15008
 The cell numbered 008~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
 0 DN 0
 D2
-Long coridor.
+Long corridor.
 ~
 ~
 0 -1 15028
@@ -502,15 +501,15 @@ S
 
 #15009
 The cell numbered 009~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
 0 DN 0
 D2
-Long coridor.
+Long corridor.
 ~
 ~
 0 -1 15029
@@ -526,15 +525,15 @@ S
 
 #15010
 The cell numbered 010~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
 0 DN 0
 D2
-Long coridor.
+Long corridor.
 ~
 ~
 0 -1 15030
@@ -550,15 +549,15 @@ S
 
 #15011
 The cell numbered 011~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
 0 DN 0
 D2
-Long coridor.
+Long corridor.
 ~
 ~
 0 -1 15031
@@ -574,15 +573,15 @@ S
 
 #15012
 The cell numbered 012~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
 0 DN 0
 D2
-Long coridor.
+Long corridor.
 ~
 ~
 0 -1 15032
@@ -598,15 +597,15 @@ S
 
 #15013
 The cell numbered 013~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
 0 DN 0
 D2
-Long coridor.
+Long corridor.
 ~
 ~
 0 -1 15033
@@ -622,15 +621,15 @@ S
 
 #15014
 The cell numbered 014~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
 0 DN 0
 D2
-Long coridor.
+Long corridor.
 ~
 ~
 0 -1 15034
@@ -646,15 +645,15 @@ S
 
 #15015
 The cell numbered 015~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
 0 DN 0
 D2
-Long coridor.
+Long corridor.
 ~
 ~
 0 -1 15035
@@ -670,15 +669,15 @@ S
 
 #15016
 The cell numbered 016~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
 0 DN 0
 D2
-Long coridor.
+Long corridor.
 ~
 ~
 0 -1 15036
@@ -694,15 +693,15 @@ S
 
 #15017
 The cell numbered 017~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
 0 DN 0
 D2
-Long coridor.
+Long corridor.
 ~
 ~
 0 -1 15037
@@ -718,15 +717,15 @@ S
 
 #15018
 The cell numbered 018~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
 0 DN 0
 D2
-Long coridor.
+Long corridor.
 ~
 ~
 0 -1 15038
@@ -742,9 +741,9 @@ S
 
 #15019
 The cell numbered 019~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
@@ -761,15 +760,15 @@ S
 
 #15020
 The cell numbered 020~
-  This is a dirty and untidy cell.It is too small, you can see very 
-little here.There is a heavy smell in the air.At the corner of the 
-room is a toilet and a fountain.There is no exit here , close walls, 
+  This is a dirty and untidy cell. It is too small, you can see very 
+little here. There is a heavy smell in the air. At the corner of the 
+room is a toilet and a fountain. There is no exit here, the walls are close, 
 your mind clouds when you look at the walls.
      There is a small tablet on the wall.
 ~
 0 J 3
 D2
-Long coridor.
+Long corridor.
 ~ 
 ~
 0 -1 15040
@@ -784,9 +783,9 @@ small tablet~
 S
 
 #15021
-The long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 001, coridor leads east.
+The long corridor~
+   This is a dark and long corridor. North you see the entrance of cell
+number 001, and the corridor leads east.
 ~
 0 DN 0
 
@@ -797,7 +796,7 @@ North is the cell numbered 001.
 0 -1 15001
 
 D1
-East leads the long conridor.
+East leads the long corridor.
 ~
 ~
 0 -1 15022
@@ -812,9 +811,9 @@ S
 
 
 #15022
-The long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 002, coridor leads east.
+The long corridor~
+   This is a dark and long corridor. North you see the entrance of the cell
+number 002, and the corridor leads east.
 ~
 0 DN 0
 
@@ -825,13 +824,13 @@ North is the cell numbered 002.
 0 -1 15002
 
 D1
-East leads the long conridor.
+East leads the long corridor.
 ~
 ~
 0 -1 15023
 
 D3
-West is the long coridor.
+West is the long corridor.
 ~
 ~
 0 -1 15021
@@ -840,9 +839,9 @@ S
 
 
 #15023
-The long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 003, coridor leads east.
+The long corridor~
+   This is a dark and long corridor. North you see the entrance of the cell
+numbered 003, and the corridor leads east.
 ~
 0 DN 0
 
@@ -853,13 +852,13 @@ North is the cell numbered 003.
 0 -1 15003
 
 D1
-East leads the long conridor.
+East leads the long corridor.
 ~
 ~
 0 -1 15024
 
 D3
-West is the long coridor.
+West is the long corridor.
 ~
 ~
 0 -1 15022
@@ -868,9 +867,9 @@ S
 
 
 #15024
-The long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 004, coridor leads east.
+The long corridor~
+   This is a dark and long corridor. North you see the entrance of the cell
+numbered 004, and the corridor leads east.
 ~
 0 DNV 0
 
@@ -881,13 +880,13 @@ North is the cell numbered 004.
 0 -1 15004
 
 D1
-East leads the long conridor.
+East leads the long corridor.
 ~
 ~
 0 -1 15025
 
 D3
-West is the long coridor.
+West is the long corridor.
 ~
 ~
 0 -1 15023
@@ -896,9 +895,9 @@ S
 
 
 #15025
-The long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 005, coridor leads east.
+The long corridor~
+   This is a dark and long corridor. North you see the entrance of the cell
+numbered 005, and the corridor leads east.
 ~
 0 DNV 0
 
@@ -909,13 +908,13 @@ North is the cell numbered 005.
 0 -1 15005
 
 D1
-East leads the long conridor.
+East leads the long corridor.
 ~
 ~
 0 -1 15026
 
 D3
-West is the long coridor.
+West is the long corridor.
 ~
 ~
 0 -1 15024
@@ -924,9 +923,9 @@ S
 
 
 #15026
-The long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 006, coridor leads east.
+The long corridor~
+   This is a dark and long corridor. North you see the entrance of the cell
+numbered 006, and the corridor leads east.
 ~
 0 DNV 0
 
@@ -937,13 +936,13 @@ North is the cell numbered 006.
 0 -1 15006
 
 D1
-East leads the long conridor.
+East leads the long corridor.
 ~
 ~
 0 -1 15027
 
 D3
-West is the long coridor.
+West is the long corridor.
 ~
 ~
 0 -1 15025
@@ -952,9 +951,9 @@ S
 
 
 #15027
-The long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 007, coridor leads east.
+The long corridor~
+   This is a dark and long corridor. North you see the entrance of the cell
+numbered 007, and the corridor leads east.
 ~
 0 DNV 0
 
@@ -965,13 +964,13 @@ North is the cell numbered 007.
 0 -1 15007
 
 D1
-East leads the long conridor.
+East leads the long corridor.
 ~
 ~
 0 -1 15028
 
 D3
-West is the long coridor.
+West is the long corridor.
 ~
 ~
 0 -1 15026
@@ -980,9 +979,9 @@ S
 
 
 #15028
-The long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 008, coridor leads east.
+The long corridor~
+   This is a dark and long corridor. North you see the entrance of the cell
+numbered 008, and the corridor leads east.
 ~
 0 DNV 0
 
@@ -993,13 +992,13 @@ North is the cell numbered 008.
 0 -1 15008
 
 D1
-East leads the long conridor.
+East leads the long corridor.
 ~
 ~
 0 -1 15029
 
 D3
-West is the long coridor.
+West is the long corridor.
 ~
 ~
 0 -1 15027
@@ -1008,9 +1007,9 @@ S
 
 
 #15029
-The long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 009, coridor leads east.
+The long corridor~
+   This is a dark and long corridor. North you see the entrance of the cell
+numbered 009, and the corridor leads east.
 ~
 0 DNV 0
 
@@ -1021,13 +1020,13 @@ North is the cell numbered 009.
 0 -1 15009
 
 D1
-East leads the long conridor.
+East leads the long corridor.
 ~
 ~
 0 -1 15030
 
 D3
-West is the long coridor.
+West is the long corridor.
 ~
 ~
 0 -1 15028
@@ -1036,9 +1035,9 @@ S
 
 
 #15030
-The long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 010, coridor leads east.
+The long corridor~
+   This is a dark and long corridor. North you see the entrance of the cell
+numbered 010, and the corridor leads east.
 ~
 0 DNV 0
 
@@ -1049,13 +1048,13 @@ North is the cell numbered 010.
 0 -1 15010
 
 D1
-East leads the long conridor.
+East leads the long corridor.
 ~
 ~
 0 -1 15031
 
 D3
-West is the long coridor.
+West is the long corridor.
 ~
 ~
 0 -1 15029
@@ -1064,9 +1063,9 @@ S
 
 
 #15031
-The long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 011, coridor leads east.
+The long corridor~
+   This is a dark and long corridor. North you see the entrance of the cell
+numbered 011, and the corridor leads east.
 ~
 0 DNV 0
 
@@ -1077,13 +1076,13 @@ North is the cell numbered 011.
 0 -1 15011
 
 D1
-East leads the long conridor.
+East leads the long corridor.
 ~
 ~
 0 -1 15032
 
 D3
-West is the long coridor.
+West is the long corridor.
 ~
 ~
 0 -1 15030
@@ -1092,9 +1091,9 @@ S
 
 
 #15032
-The long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 012, coridor leads east.
+The long corridor~
+   This is a dark and long corridor. North you see the entrance of the cell
+numbered 012, and the corridor leads east.
 ~
 0 DNV 0
 
@@ -1105,13 +1104,13 @@ North is the cell numbered 012.
 0 -1 15012
 
 D1
-East leads the long conridor.
+East leads the long corridor.
 ~
 ~
 0 -1 15033
 
 D3
-West is the long coridor.
+West is the long corridor.
 ~
 ~
 0 -1 15031
@@ -1120,9 +1119,9 @@ S
 
 
 #15033
-The long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 013, coridor leads east.
+The long corridor~
+   This is a dark and long corridor. North you see the entrance of the cell
+numbered 013, and the corridor leads east.
 ~
 0 DNV 0
 
@@ -1133,13 +1132,13 @@ North is the cell numbered 003.
 0 -1 15013
 
 D1
-East leads the long conridor.
+East leads the long corridor.
 ~
 ~
 0 -1 15034
 
 D3
-West is the long coridor.
+West is the long corridor.
 ~
 ~
 0 -1 15032
@@ -1148,9 +1147,9 @@ S
 
 
 #15034
-The long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 014, coridor leads east.
+The long corridor~
+   This is a dark and long corridor. North you see the entrance of the cell
+numbered 014, and the corridor leads east.
 ~
 0 DNV 0
 
@@ -1161,13 +1160,13 @@ North is the cell numbered 014.
 0 -1 15014
 
 D1
-East leads the long conridor.
+East leads the long corridor.
 ~
 ~
 0 -1 15035
 
 D3
-West is the long coridor.
+West is the long corridor.
 ~
 ~
 0 -1 15033
@@ -1176,9 +1175,9 @@ S
 
 
 #15035
-The long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 015, coridor leads east.
+The long corridor~
+   This is a dark and long corridor. North you see the entrance of the cell
+numbered 015, and the corridor leads east.
 ~
 0 DNV 0
 
@@ -1189,13 +1188,13 @@ North is the cell numbered 015.
 0 -1 15015
 
 D1
-East leads the long conridor.
+East leads the long corridor.
 ~
 ~
 0 -1 15036
 
 D3
-West is the long coridor.
+West is the long corridor.
 ~
 ~
 0 -1 15034
@@ -1204,9 +1203,9 @@ S
 
 
 #15036
-The long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 016, coridor leads east.
+The long corridor~
+   This is a dark and long corridor. North you see the entrance of the cell
+numbered 016, and the corridor leads east.
 ~
 0 DNV 0
 
@@ -1217,19 +1216,19 @@ North is the cell numbered 016.
 0 -1 15016
 
 D1
-East leads the long conridor.
+East leads the long corridor.
 ~
 ~
 0 -1 15037
 
 D3
-West is the long coridor.
+West is the long corridor.
 ~
 ~
 0 -1 15035
 
 D2
-South is the old swear system
+South is the old sewer system
 ~
 ~
 0 -1 20000
@@ -1237,9 +1236,9 @@ S
 
 
 #15037
-The long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 017, coridor leads east.
+The long corridor~
+   This is a dark and long corridor. North you see the entrance of the cell
+numbered 017, and the corridor leads east.
 ~
 0 DNV 0
 
@@ -1250,13 +1249,13 @@ North is the cell numbered 017.
 0 -1 15017
 
 D1
-East leads the long conridor.
+East leads the long corridor.
 ~
 ~
 0 -1 15038
 
 D3
-West is the long coridor.
+West is the long corridor.
 ~
 ~
 0 -1 15036
@@ -1265,9 +1264,9 @@ S
 
 
 #15038
-The long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 018, coridor leads east.
+The long corridor~
+   This is a dark and long corridor. North you see the entrance of the cell
+numbered 018, and the corridor leads east.
 ~
 0 DNV 0
 
@@ -1278,13 +1277,13 @@ North is the cell numbered 018.
 0 -1 15018
 
 D1
-East leads the long conridor.
+East leads the long corridor.
 ~
 ~
 0 -1 15039
 
 D3
-West is the long coridor.
+West is the long corridor.
 ~
 ~
 0 -1 15037
@@ -1293,9 +1292,9 @@ S
 
 
 #15039
-The long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 019,no exit from this cell.Coridor leads east.
+The long corridor~
+   This is a dark and long corridor. North you see the entrance of the cell
+numbered 019, and the corridor leads east.
 ~
 0 0 3
 
@@ -1306,13 +1305,13 @@ North is the cell numbered 019.
 0 -1 15019
 
 D1
-East leads the long conridor.
+East leads the long corridor.
 ~
 ~
 0 -1 15040
 
 D3
-West is the long coridor.
+West is the long corridor.
 ~
 ~
 0 -1 15038
@@ -1321,9 +1320,9 @@ S
 
 
 #15040
-End of the long coridor~
-   This is a dark and long coridor.North you see the entrance of the cell
-numbered 020, coridor suddeny ends here.
+End of the long corridor~
+   This is a dark and long corridor.North you see the entrance of the cell
+numbered 020, and the corridor suddenly ends here.
 ~
 0 DN 3
 
@@ -1334,7 +1333,7 @@ North is the cell numbered 020.
 0 -1 15020
 
 D3
-West is the long coridor.
+West is the long corridor.
 ~
 ~
 0 -1 15039
@@ -1343,14 +1342,14 @@ S
 
 #15000
 Entrance of the prison~
-   You are in a dark and silent room, there are blood on the walls,
-and no escape from here.Only exits are east and west , along the long
-coridor cells are located to north.
+   You are in a dark and silent room, there is blood on the walls,
+and no escape from here. Only exits are east and west, and along the long
+corridor cells are all located to the north.
 ~
 0 0 1
 
 D1
-East is the long coridor.
+East is the long corridor.
 ~
 ~
 0 -1 15021
@@ -1369,9 +1368,7 @@ S
 
 #15099
 Prison road~
-   You are walking on the road to the prison.Take care your step, a
-mistake of yours may prepare your end.As you remember the tales you 
-afraid.
+   You are walking on the road to the prison.
 ~
 0 0 1
 
@@ -1398,9 +1395,7 @@ S
 
 #15098
 Prison road~
-   You are walking on the road to the prison.Take care your step, a
-mistake of yours may prepare your end.In the anciant times of thera
-thera thera was a powerful mage named Kwal.
+   You are walking on the road to the prison.
 ~
 0 0 1
 
@@ -1427,9 +1422,7 @@ S
 
 #15097
 Prison road~
-   You are walking on the road to the prison.Take care your step, a
-mistake of yours may prepare your end.As he chougt and put in this 
-prison everybody thought that everything has finished.
+   You are walking on the road to the prison.
 ~
 0 0 1
 
@@ -1456,9 +1449,7 @@ S
 
 #15096
 Prison road~
-   You are walking on the road to the prison.Take care your step, a
-mistake of yours may prepare your end.But he got the power to destroy 
-the land.
+   You are walking on the road to the prison.
 ~
 0 0 1
 
@@ -1486,9 +1477,7 @@ S
 
 #15095
 Prison road~
-   You are walking on the road to the prison.Take care your step, a
-mistake of yours may prepare your end.Gods have forshaken him after
-he had cursed this prison and people inside it.
+   You are walking on the road to the prison.
 ~
 0 0 1
 
@@ -1515,9 +1504,7 @@ S
 
 #15094
 Prison road~
-   You are walking on the road to the prison.Take care your step, a
-mistake of yours may prepare your end.Tales continued that he found the
-way to the realm of spirits and got help from evil ones of them.
+   You are walking on the road to the prison.
 ~
 0 0 1
 
@@ -1544,8 +1531,7 @@ S
 
 #15093
 Prison road~
-   You are walking on the road to the prison.Take care your step, a
-mistake of yours may prepare your end.
+   You are walking on the road to the prison. 
 ~
 0 0 1
 
@@ -1572,8 +1558,7 @@ S
 
 #15092
 Prison road~
-   You are walking on the road to the prison.Take care your step, a
-mistake of yours may prepare your end.
+   You are walking on the road to the prison.
 ~
 0 0 1
 
@@ -1600,8 +1585,7 @@ S
 
 #15091
 Prison road~
-   You are walking on the road to the prison.Take care your step, a
-mistake of yours may prepare your end.
+   You are walking on the road to the prison.
 ~
 0 0 1
 
@@ -1628,13 +1612,12 @@ S
 
 #15090
 Prison road~
-   You are walking on the road to the prison.Take care your step, a
-mistake of yours may prepare your end.
+   You are walking on the road to the prison.
 ~
 0 0 1
 
 D0
-Entrance to the long coridor.
+Entrance to the long corridor.
 ~
 ~
 0 -1 15000
@@ -1659,7 +1642,7 @@ S
 #RESETS 
 
 M 0 15000 1 15040 1  * Cell guardian
-E 0 15003 -1 17      * Rod of ambrossia
+E 0 15003 -1 17      * Rod of ambrosia
 E 0 15007 -1 18      * aura of light
 
 M 0 15003 4 15021 1  * head of the guardians

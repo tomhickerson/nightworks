@@ -71,8 +71,8 @@ oldstyle undead guardian vampire~
 The guardian vampire~
 A vampire is here hiding his face from your light source.
 ~
-The guardian vampire looks quite EVIL.  Just by looking at him the hair on your
-arms raises. He looks mighty tough to be just a minor minion.
+The guardian vampire looks quite EVIL.  He looks mighty tough to be 
+just a minor minion.
 ~
 human~
 ABF DF -1000 0
@@ -86,9 +86,9 @@ oldstyle priest~
 the priest~
 A priest of God stands here solemnly speaking words of praise.
 ~
-Obviously a goodly man, you feel closer to God just by gazing upon this man.
-Dressed in white, fine white hair, and a soft slightly wrinkled face ...
-this man has a sacred beauty.  You see a halo around his head.
+Obviously a godly man, you feel closer to God just by gazing upon this man.
+Dressed in white, fine white hair, and a soft, slightly wrinkled face ...
+this man has a sacred beauty.  You can almost see a halo around his head.
 ~
 human~
 ABQ DFH 1000 0
@@ -104,7 +104,7 @@ A Mi-Go is crawling here.
 ~
 Mi-Go, the Fungi from Yuggoth ... it is a pinkish being about five feet long;
 with a crustaceous body bearing a vast pair of membranous wings and several
-sets of articulate limbs, body a sort of convoluted ellipsoid, covered with
+sets of articulate limbs, its body a convoluted ellipsoid, covered with
 multitudes of very small antennae, where a head would ordinarily be.  These
 beings sometimes walk on all their legs and sometimes on the hind pair only.
 ~
@@ -237,7 +237,7 @@ oldstyle etcher~
 The mad etcher~
 The mad etcher is sitting here babbling to himself and working on the wall.
 ~
-Quite insane, the mad etcher has been here for two decades.  His hair is
+Quite insane, the mad etcher has been here for decades.  His hair is
 white; he babbles nonsense to himself; a layer of dust covers his out-of-date
 clothing; and he seems to be working on the same portion of the wall near
 the base ... oh and he seems quite blind.
@@ -277,7 +277,7 @@ oldstyle body~
 The half-decomposed body~
 A half-decomposed body is lying in the corner here.
 ~
-YUK! It's ugly, disgusting ... it smells ... it also moves a bit!
+YUCK! It's ugly, disgusting ... it smells ... it also moves a bit!
 ~
 human~
 ACF 0 -350 0
@@ -383,7 +383,7 @@ A
 14 10
 E
 black marble ring~
-It is pitch black and has beautiful swirls characteristic of marble all
+It is pitch black and has beautiful swirls, characteristic of marble, all
 through it.
 ~
 #3414
@@ -400,7 +400,7 @@ A
 2 2
 E
 thin rapier~
-It seems so thin that it would be useless but at the same time it looks deadly.
+It seems so thin that it would be useless, but at the same time it looks deadly.
 ~
 #3415
 sarcophagus coffin~
@@ -413,7 +413,7 @@ container 0 0
 E
 sarcophagus coffin~
 A well crafted, if dusty and ancient, home for the afterworld, it seems
-to be able to be opened but needs a key.
+to be able to be opened, but needs a key.
 ~
 #3416
 iron heavy key~
@@ -573,12 +573,12 @@ A
 E
 dark black cape~
 The cape is gently flows and pulls in the light so evenly and perfectly
-that the cape seems to be simply a void of blackness. It is quite beautiful
+that the cape seems to be simply a void of blackness. It is quite beautiful.
 ~
 #3428
 flaming black sword long longsword~
 the pitch-black flaming longsword~
-A pitch-black long swor here~
+A pitch-black long sword here~
 steel~
 weapon G AN
 sword 3 11 slash AC
@@ -591,7 +591,7 @@ E
 flaming sword long longsword~
 This sword is amazing! It almost wields itself! As you test it out, the
 flames seems to roar brighter as you go thru basic swordsman routines.
-it is obviously a great find!
+It is obviously a great find!
 ~
 #3429
 breast plate dented worn~
@@ -646,7 +646,7 @@ The windows must be meant to be dark.  At least they are completely clean.
 S
 #3408
 Stairwell into Darkness~
-You sense even more danger coming from below but are urged onward ...
+You sense danger coming from below, but are urged onward ...
 ~
 0 AD 0
 D3
@@ -788,7 +788,7 @@ S
 #3416
 Entrance to the Lower Chambers~
 You can tell that this area wasn't a part of the original construction.
-The walls have been hewn by a mighty force look as though they were CLAWED.
+The walls have been hewn by a mighty force, and look as though they were CLAWED.
 The passage slopes upward here and also continues to the north.
 ~
 0 ADN 0
@@ -847,7 +847,7 @@ and grave.  He holds up a parchment for you to read:
    Kings of old need your aid to free us and deliver us to peace
    once again.  I think that I alone have been able to appear and
    communicate with the mortal world.
-     Roch'tar, the reincarnate Vampire, now rules these tombs.
+     Roch'tar, the reincarnated Vampire, now rules these tombs.
    You must find and defeat him and his minions!
      May God bless you on your Quest!
 ~
@@ -855,7 +855,7 @@ E
 altar~
 It stands 2 feet high with the remnants of candle-wax on top.  There is
 an inscription on the side:  'Praise the almighty Cristis the bringer of
-good and justice to the world.  He who fought the evilest finally is at
+good and justice to the world.  He who fought the vile villians, finally is at
 peace.  May the Gods remember him forever ...'
 ~
 S
@@ -890,10 +890,10 @@ S
 #3421
 Entrance Chamber to the Grand Hall of Kings~
 Whoever built this place must have been very rich indeed!  Though you did
-enter through a rather small door this place has enough room to hold several
+enter through a rather small door, this place has enough room to hold several
 score of people.  The floor has a beautifully woven carpet, and the walls are
 covered in finely crafted tapestries. You can tell that these things must have
-been worth much but they have not lasted well throughout the ages.  Massive
+been worth much, but they have not lasted well throughout the ages.  Massive
 doors lead off to the south and a large stone staircase leads up.
 ~
 0 AD 0
