@@ -17,7 +17,7 @@ black pawn~
 the Pawn of the Black Court~
 You see a pawn standing here waiting for orders.
 ~
-The Black Pawn looks quite like a small knight without his powerful steed.
+The Black Pawn looks like a small knight without his powerful steed.
 His armor is shiny and black. He stands ready to give his life for the Crown.
 ~
 human~
@@ -32,7 +32,7 @@ white pawn~
 the Pawn of the White Court~
 You see a pawn standing here waiting for orders.
 ~
-The White Pawn looks quite like a small knight without his powerful steed.
+The White Pawn looks like a small knight without his powerful steed.
 His armor is spotless and white. He stands ready to give his life for the 
 Crown.
 ~
@@ -79,7 +79,7 @@ the Black Knight~
 Here stands a magnificent knight of the dark realm.
 ~
 The Black Knight is here, riding his ebony black war horse.  His eyes
-flash behind his visor in vengence.
+flash behind his visor in vengeance.
 ~
 human~
 AH 0 -400 0
@@ -200,8 +200,8 @@ caliph omar ghost~
 the Ghost of Caliph Omar~
 The Ghost of Caliph Omar is floating here.
 ~
-Caliph Omar was person who sanctions chess for islamic people. 
-His ghost is here small, and looks like made from smoke.
+Caliph Omar was the person who sanctioned chess for Islamic people. 
+His ghost is small, and looks to be made from smoke.
 ~
 human~
 AHT BDFHPQTUV 0 0
@@ -683,7 +683,7 @@ armor K AM
 #4260
 small chessboard~
 the Magic Chessboard~
-You see small chessboard floating here.~
+You see a small chessboard floating here.~
 wood~
 armor ABFJK AQ
 17 17 17 33 0
@@ -693,7 +693,7 @@ A 13 95 AT
 
 
 #4261
-shield black pawn~
+shield black knight~
 a Black Knight's Shield ~
 You see a Black Knight's shield here.~
 steel~
@@ -701,7 +701,7 @@ armor J AJ
 8 9 9 2 2
 18 90 2210 P
 #4262
-shield white pawn~
+shield white knight~
 a White Knight's Shield ~
 You see a White Knight's shield here.~
 steel~
@@ -710,7 +710,7 @@ armor K AJ
 18 90 2210 P
 
 #4263
-cloak black pawn~
+cloak black knight~
 a Black Knight's Cloak~
 You see a Black Knight's cloak here.~
 cloth~
@@ -718,7 +718,7 @@ armor J AC
 6 8 7 1 1
 18 70 2610 P
 #4264
-cloak white pawn~
+cloak white knight~
 a White Knight's Cloak~
 You see a White Knight's cloak here.~
 cloth~
@@ -727,7 +727,7 @@ armor K AC
 18 70 2610 P
 
 #4265
-helmet black pawn~
+helmet black knight~
 a Black Knight's Helmet~
 You see a Black Knight's helmet here.~
 leather~
@@ -735,7 +735,7 @@ armor J AE
 7 7 8 1 1
 18 70 1950 P
 #4266
-helmet white pawn~
+helmet white knight~
 a White Knight's Helmet~
 You see a White Knight's helmet here.~
 leather~
@@ -744,7 +744,7 @@ armor K AE
 18 70 1950 P
 
 #4267
-leggings black pawn~
+leggings black knight~
 a pair of Black Knight's Leggings~
 You see a pair of Black Knight's leggings here.~
 leather~
@@ -752,7 +752,7 @@ armor J AF
 7 7 7 1 1
 18 80 1350 P
 #4268
-leggings white pawn~
+leggings white knight~
 a pair of White Knight's Leggings~
 You see a pair of White Knight's leggings here.~
 leather~
@@ -761,7 +761,7 @@ armor K AF
 18 80 1350 P
 
 #4269
-boots black pawn~
+boots black knight~
 a pair of Black Knight's Boots~
 You see a pair of Black Knight's boots here.~
 leather~
@@ -769,7 +769,7 @@ armor J AG
 8 7 7 1 1
 18 110 2850 P
 #4270
-boots white pawn~
+boots white knight~
 a pair of White Knight's Boots~
 You see a pair of Black Knight's boots here.~
 leather~
@@ -778,7 +778,7 @@ armor K AG
 18 110 2850 P
 
 #4271
-gloves black pawn~
+gloves black knight~
 a pair of Black Knight's Gloves~
 You see a pair of Black Knight's Gloves here.~
 leather~
@@ -786,7 +786,7 @@ armor J AH
 6 7 6 1 1
 18 80 2250 P
 #4272
-gloves white pawn~
+gloves white knight~
 a pair of White Knight's Gloves~
 You see a pair of White Knight's Gloves here.~
 leather~
@@ -795,7 +795,7 @@ armor K AH
 18 80 2250 P
 
 #4273
-sleeves black pawn~
+sleeves black knight~
 a pair of Black Knight's Sleeves~
 You see a pair of Black Knight's Sleeves here.~
 leather~
@@ -803,7 +803,7 @@ armor J AI
 7 6 7 1 1
 18 100 2150 P
 #4274
-sleeves white pawn~
+sleeves white knight~
 a pair of White Knight's Sleeves~
 You see a pair of White Knight's Sleeves here.~
 leather~
@@ -812,7 +812,7 @@ armor K AI
 18 100 2150 P
 
 #4275
-cape black pawn~
+cape black knight~
 a Black Knight's Cape~
 You see a Black Knight's Cape here.~
 cloth~
@@ -820,7 +820,7 @@ armor J AK
 7 7 7 1 1
 18 70 1380 P
 #4276
-cape white pawn~
+cape white knight~
 a White Knight's Cape~
 You see a White Knight's Cape here.~
 cloth~
@@ -829,7 +829,7 @@ armor K AK
 18 70 1380 P
 
 #4277
-belt black pawn~
+belt black knight~
 a Black Knight's Belt~
 You see a Black Knight's Belt here.~
 bronze~
@@ -837,7 +837,7 @@ armor J AL
 6 6 6 1 1
 18 60 1990 P
 #4278
-belt white pawn~
+belt white knight~
 a White Knight's Belt~
 You see a White Knight's Belt here.~
 bronze~
@@ -846,7 +846,7 @@ armor K AL
 18 60 1990 P
 
 #4279
-bracer black pawn~
+bracer black knight~
 a Black Knight's Bracer~
 You see a Black Knight's Bracer here.~
 bronze~
@@ -854,7 +854,7 @@ armor J AM
 7 7 6 1 0
 18 40 2390 P
 #4280
-bracer white pawn~
+bracer white knight~
 a White Knight's Bracer~
 You see a White Knight's Bracer here.~
 bronze~
@@ -875,7 +875,7 @@ You stand in the archway of the Chessboard of Midgaard.  The giant
 wooden gate is rusted open.
    A narrow dirt path leads eastwards into the thick grass and the
 chessboard opens up to the west.
-     There is a small (Glowing) (Huming) tablet.
+     There is a small (Glowing) (Humming) tablet.
 ~
 0 C 1
 D1
@@ -2105,7 +2105,7 @@ S
 #4250
 A Black Square~
 You are standing on a black marble square.  This is usually the home
-of one of the White Queen's Pawns.
+of one of the Black Queen's Pawns.
 ~
 0 0 1
 D0
@@ -2159,7 +2159,7 @@ S
 #4252
 A Black Square~
 You are standing on a black marble square.  This is usually the home
-of one of the White Queen's Pawns.
+of one of the Black Queen's Pawns.
 ~
 0 0 1
 D0
@@ -2213,7 +2213,7 @@ S
 #4254
 A Black Square~
 You are standing on a black marble square.  This is usually the home
-of one of the White King's Pawns.
+of one of the Black King's Pawns.
 ~
 0 0 1
 D0
@@ -2267,7 +2267,7 @@ S
 #4256
 A Black Square~
 You are standing on a black marble square.  This is usually the home
-of one of the White King's Pawns.
+of one of the Black King's Pawns.
 ~
 0 0 1
 D0
@@ -2289,7 +2289,7 @@ S
 #4257
 A Black Square~
 You are standing on a black marble square.  This is usually the home
-of the White Queen's Rook.
+of the Black Queen's Rook.
 ~
 0 0 1
 D0
@@ -2328,7 +2328,7 @@ S
 #4259
 A Black Square~
 You are standing on a black marble square.  This is usually the home
-of the White Queen's Bishop.
+of the Black Queen's Bishop.
 ~
 0 0 1
 D0
@@ -2376,7 +2376,7 @@ S
 #4261
 A Black Square~
 You are standing on a black marble square.  This is usually the home
-of the White King.
+of the Black King.
 ~
 0 0 1
 D0
@@ -2420,7 +2420,7 @@ S
 #4263
 A Black Square~
 You are standing on a black marble square.  This is usually the home
-of the White King's Knight.
+of the Black King's Knight.
 ~
 0 0 1
 D0
