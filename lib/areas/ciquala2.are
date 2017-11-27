@@ -48,7 +48,7 @@ a warped creature from a nightmare~
 A warped creature as if from a nightmare is here.
 ~
 This creature may resemble some kind of serpent, but some parts of it are
-covered with scales, and others with hair.  It's head has 1 large bulbous eye,
+covered with scales, and others with hair.  Its head has 1 large bulbous eye,
 much like that of an insect.  Long talons reach out for you to shred you alive.
 ~
 human~
@@ -155,7 +155,7 @@ human automaton~
 the human automaton~
 A mindless automaton that used to be human is standing here.
 ~
-This mindless lump of flesh used to be human.  It's flesh has been converted
+This mindless lump of flesh used to be human.  Its flesh has been converted
 to a dull grey substance.  The automaton is very strong, and will be a fierce
 opponent.
 ~
@@ -171,7 +171,7 @@ human automaton~
 the human automaton~
 A mindless automaton that used to be human is standing here.
 ~
-This mindless lump of flesh used to be human.  It's flesh has been converted
+This mindless lump of flesh used to be human.  Its flesh has been converted
 to a dull grey substance.  The automaton is very strong, and will be a fierce
 opponent.
 ~
@@ -187,7 +187,7 @@ human automaton~
 the human automaton~
 A mindless automaton that used to be human is standing here.
 ~
-This mindless lump of flesh used to be human.  It's flesh has been converted
+This mindless lump of flesh used to be human.  Its flesh has been converted
 to a dull grey substance.  The automaton is very strong, and will be a fierce
 opponent.
 ~
@@ -203,7 +203,7 @@ human automaton~
 the human automaton~
 A mindless automaton that used to be human is standing here.
 ~
-This mindless lump of flesh used to be human.  It's flesh has been converted
+This mindless lump of flesh used to be human.  Its flesh has been converted
 to a dull grey substance.  The automaton is very strong, and will be a fierce
 opponent.
 ~
@@ -219,7 +219,7 @@ torturer lich~
 the torturer lich~
 A blackened creature stands here, ready to cause you excruciating pain.
 ~
-You'd better not look to close, he may charm you.
+You'd better not look too close, he may charm you.
 ~
 human~
 ABF HJ -1000 0
@@ -294,8 +294,8 @@ vampire assistant~
 the vampire lab assistant~
 A lab assistant turns toward you and bares her fangs!
 ~
-This lab assistant was chosen from amongst the undead for both his knowledge
-of magic, and his rather nasty disposition.  She revels in creating loathesome,
+This lab assistant was chosen from amongst the undead for both her knowledge
+of magic, and her rather nasty disposition.  She revels in creating loathesome,
 twisted, warped creatures to serve Ciquala.
 ~
 human~
@@ -425,7 +425,7 @@ potion 0 A
 gold liquid vial~
 a vial with gold liquid~
 A vial with a gold colored liquid sits on the floor.~
-glas~
+glass~
 potion 0 A
 24 'weaken' 'poison' 'teleport' 'curse'
 20 20 4300 P
@@ -580,7 +580,7 @@ small tablet~
 +    jaceks and after him by asena            , september 1996     +
 +                                                                  +
 +    PS. prepare to die - it is {40 62} area with aggro mobs       +
-+                   only armed personel allowed                    +
++                   only armed personnel allowed                   +
 +                                                                  +
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ~
@@ -767,7 +767,7 @@ S
 A seemingly empty tunnel~
 This empty tunnel has doors leading in all directions.  The roof of
 the tunnel seems abnormally low and shiny, almost as if it is not dirt.  This
-room is also as cold as all the others were.
+room is also as cold as all the others.
 ~
 0 AD 0
 D0
@@ -859,7 +859,7 @@ S
 Torture Chamber~
 This room is fitted with many instruments and tools designed to cause
 pain and fear in anyone who enters.  However, you don't pay as much attention
-to the racks and iron maidens as you would if were not for the lich in the
+to the racks and iron maidens as you would, because of the lich in the
 room.
 ~
 0 AD 0
@@ -870,8 +870,8 @@ door~
 S
 #13416
 Entrance to Ciquala's Throne Room~
-This does not look like any of the other rooms you have been in up till
-now.  The ceiling rises a full 40 feet in the air above you.  The walls are
+This does not look like any of the other rooms you have been in.  The 
+ceiling rises a full 40 feet in the air above you.  The walls are
 covered with murals proclaiming the might and majesty of Ciquala.  She does
 not look old and decayed as you would have pictured her.  Instead, she looks
 rather regal and stately, but undoubtedly evil.
@@ -907,7 +907,7 @@ S
 #13418
 Treasure Chamber of Ciquala~
 This room contains enough wealth to fund an army, perhaps a small
-kingdom.  Racks or weapons, and spellbooks, and potions, not to mention large
+kingdom.  Racks of weapons, and spellbooks, and potions are here, not to mention large
 piles of coins that cover the floor.  A large paving stone in this room seems
 slightly disturbed.
 ~
