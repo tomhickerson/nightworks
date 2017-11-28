@@ -592,7 +592,7 @@ At an Intersection in the Forest Murkmire~
 You have arrived at an intersection in the forest Murkmire. Here the 
 forest has been ruthlessly beaten back by loggers and you can once 
 again see the sky. There is a small outpost here, made of logs. There 
-is a sign staked into the road, pointing to the western road. The road 
+is a sign staked into the road, pointing to the west. The road 
 re-enters the dark forest to the north and south.
 ~
 0 0 3
@@ -615,16 +615,16 @@ leads west.
 ~
 E
 sign~
-*******************
+************************
 *  Dunkeldorf, Pop. 25 *
-*******************
+************************
 ~
 S
 #29124
 On a Road in the Forest Murkmire~
 You are on a broad road in the forest Murkmire. Here the road ends at 
-an eastern and western going logging trail. There is a huge rack of 
-de-limbed trees here. There is a large brush pile into created by years 
+a logging trail running east-west. There is a huge rack of 
+de-limbed trees here. There is a large brush pile created by years 
 of dumping. A broad road heads off to the south.
 ~
 0 1 3
@@ -676,7 +676,7 @@ The Murkmire~
 0 -1 29124
 E
 bird raven fly flies~
-The bird has flown off to the northeast, at least you think its 
+The bird has flown off to the northeast, at least you think it's 
 northeast.
 ~
 S
@@ -957,7 +957,7 @@ On a Logging Trail in the Forest Murkmire~
 You are on a high, dry, logging trail through the forest Murkmire. To 
 the west of you is an old cave, blocked by a pile of rubble. The 
 looming hardwood trees have blocked off all but the sky just above the 
-cave. Underbrush, so thick you cant see through it, presses from all 
+cave. Underbrush, so thick you can't see through it, presses from all 
 sides.
 ~
 0 0 3
@@ -987,7 +987,7 @@ S
 #29137
 On a Logging Trail in the Forest Murkmire~
 You are on a high, dry, logging trail through the forest Murkmire. The 
-towering hardwoods blot out the sky. Underbrush, so thick you cant see 
+towering hardwoods blot out the sky. Underbrush, so thick you can't see 
 through it, presses from all sides. There are piles of logs on either 
 side of the trail, shorn of all limbs. From deep within the darkness, 
 you hear a strange inhuman cry.
@@ -1047,7 +1047,7 @@ S
 Inside a Log House~
 You stand inside a log house. It is a simple one room house with a dirt 
 floor and mud thatch chinking. There are no windows. The house is 
-heated by stone fireplace. There are a few cots and a wash basin in 
+heated by a stone fireplace. There are a few cots and a wash basin in 
 addition to the various personal possessions of the occupants.
 ~
 0 0 0
@@ -1066,7 +1066,7 @@ S
 Inside a Log House~
 You stand inside a log house. It is a simple one room house with a dirt 
 floor and mud thatch chinking. There are no windows. The house is 
-heated by stone fireplace. There are a few cots and a wash basin in 
+heated by stone fireplaces. There are a few cots and a wash basin in 
 addition to the various personal possessions of the occupants. A little 
 girl is crying here.
 ~
@@ -1124,7 +1124,7 @@ S
 Inside a Log House~
 You stand inside a log house. It is a simple one room house with a dirt 
 floor and mud thatch chinking. There are no windows. The house is 
-heated by stone fireplace. There are a few cots and a wash basin in 
+heated by stone fireplaces. There are a few cots and a wash basin in 
 addition to the various personal possessions of the occupants. A woman 
 screams in terror at your entrance!
 ~
@@ -1150,7 +1150,7 @@ S
 Inside a Log House~
 You stand inside a log house. It is a simple one room house with a dirt 
 floor and mud thatch chinking. There are no windows. The house is 
-heated by stone fireplace. There are a few cots and a wash basin in 
+heated by a stone fireplace. There are a few cots and a wash basin in 
 addition to the various personal possessions of the occupants. A little 
 girl is crying here.
 ~
@@ -1206,12 +1206,12 @@ technique and chinked with some kind of mud compound.
 ~
 E
 sign mug~
-*****
+********
 *       ***      THE
 *       *  *    DUNKELDORF
 *       * *         INN
 *       *                       (VACANCY)
-******
+*********
 ~
 S
 #29145
@@ -1231,9 +1231,9 @@ Main Street~
 0 -1 29144
 E
 sign~
-*******************
+************************
 *  Dunkeldorf, Pop. 15 *
-*******************
+************************
 ~
 S
 #29146
@@ -1450,7 +1450,7 @@ The mud looks exactly like the mud on your boots.
 S
 #29155
 The Village Smithy~
-You are in the way at the village smithy. The towns only smith is busy 
+You are in the way at the village smithy. The town's only smith is busy 
 working a single anvil and the bellows. About him are a variety of 
 ordinary items in various states of repair. There is a sign here.
 ~
@@ -1461,7 +1461,7 @@ Main Street~
 0 -1 29152
 E
 sign~
-The sign says type list to see what I have today.
+The sign says type LIST to see what I have today.
 ~
 S
 #29156
@@ -1486,7 +1486,7 @@ The air shaft is too small to climb through for you.
 ~
 E
 rocks cylindrical~
-The rocks upon closer examination are human bones.
+The rocks, upon closer examination, are human bones.
 ~
 E
 walls regular wall~
@@ -1514,7 +1514,7 @@ The dark cave~
 1 -1 29156
 E
 rocks cylindrical~
-The rocks upon closer examination are human bones.
+The rocks, upon closer examination, are human bones.
 ~
 E
 walls regular wall~
@@ -1538,7 +1538,7 @@ The dark cave~
 1 -1 29157
 E
 rocks cylindrical~
-The rocks upon closer examination are human bones.
+The rocks, upon closer examination, are human bones.
 ~
 E
 walls regular wall~
@@ -1598,7 +1598,7 @@ You have squeezed from the narrow southern cave into a bright green
 meadow amid a beautiful open young forest. You walk in the grass 
 towards a white marble chapel, made of seven pillars and open to the 
 sky. As you enter the chapel, a feeling of peace comes over you. You 
-feel the worlds wind whistle through the columns, making a strange 
+feel the world's wind whistle through the columns, making a strange 
 keening sound.
 ~
 0 8192 2
@@ -1640,7 +1640,7 @@ connect them to form a star.
 ~
 E
 dirt silvery sheen~
-The metal tastes like silver
+The metal tastes like silver.
 ~
 E
 fire~
@@ -1648,10 +1648,9 @@ You stare hypnotically into the dancing flames. Images form in the
 fires. Images of enemies. Dead evil enemies you have killed. Their 
 faces twist in horror as their bodies burn, regenerate, and burn again, 
 in a never-ending painful cycle. You feel drawn towards them, and start 
-
 to walk toward them, when something wet hits you in the eye. You look 
-up and see a white dove pin wheeling higher into the sky, through the 
-treetops. Gratefully you wipe the guano from you eye.
+up and see a white dove pinwheeling higher into the sky, through the 
+treetops. Greatfully, you wipe the guano from your eye.
 ~
 S
 #29163
@@ -1683,7 +1682,7 @@ connect them to form a star.
 ~
 E
 dirt silvery sheen~
-The metal tastes like silver
+The metal tastes like silver.
 ~
 E
 fire~
@@ -1692,8 +1691,8 @@ fires. Images of enemies. Dead evil enemies you have killed. Their
 faces twist in horror as their bodies burn, regenerate, and burn again, 
 in a never-ending painful cycle. You feel drawn towards them, and start 
 to walk toward them, when something wet hits you in the eye. You look 
-up and see a white dove pin wheeling higher into the sky, through the 
-treetops. Gratefully you wipe the guano from you eye.
+up and see a white dove pinwheeling higher into the sky, through the 
+treetops. Greatfully, you wipe the guano from your eye.
 ~
 S
 #29164
@@ -1725,7 +1724,7 @@ connect them to form a star.
 ~
 E
 dirt silvery sheen~
-The metal tastes like silver
+The metal tastes like silver.
 
 ~
 E
@@ -1735,8 +1734,8 @@ fires. Images of enemies. Dead evil enemies you have killed. Their
 faces twist in horror as their bodies burn, regenerate, and burn again, 
 in a never-ending painful cycle. You feel drawn towards them, and start 
 to walk toward them, when something wet hits you in the eye. You look 
-up and see a white dove pin wheeling higher into the sky, through the 
-treetops. Gratefully you wipe the guano from you eye.
+up and see a white dove pinwheeling higher into the sky, through the 
+treetops. Greatfully, you wipe the guano from your eye.
 ~
 S
 #29165
@@ -1768,7 +1767,7 @@ connect them to form a star.
 ~
 E
 dirt silvery sheen~
-The metal tastes like silver
+The metal tastes like silver.
 ~
 E
 fire~
@@ -1777,8 +1776,8 @@ fires. Images of enemies. Dead evil enemies you have killed. Their
 faces twist in horror as their bodies burn, regenerate, and burn again, 
 in a never-ending painful cycle. You feel drawn towards them, and start 
 to walk toward them, when something wet hits you in the eye. You look 
-up and see a white dove pin wheeling higher into the sky, through the 
-treetops. Gratefully you wipe the guano from you eye.
+up and see a white dove pinwheeling higher into the sky, through the 
+treetops. Greatfully, you wipe the guano from your eye.
 ~
 S
 #29166
@@ -1824,8 +1823,8 @@ fires. Images of enemies. Dead evil enemies you have killed. Their
 faces twist in horror as their bodies burn, regenerate, and burn again, 
 in a never-ending painful cycle. You feel drawn towards them, and start 
 to walk toward them, when something wet hits you in the eye. You look 
-up and see a white dove pin wheeling higher into the sky, through the 
-treetops. Gratefully you wipe the guano from you eye.
+up and see a white dove pinwheeling higher into the sky, through the 
+treetops. Greatfully, you wipe the guano from your eye.
 ~
 S
 #29167
@@ -1871,8 +1870,8 @@ fires. Images of enemies. Dead evil enemies you have killed. Their
 faces twist in horror as their bodies burn, regenerate, and burn again, 
 in a never-ending painful cycle. You feel drawn towards them, and start 
 to walk toward them, when something wet hits you in the eye. You look 
-up and see a white dove pin wheeling higher into the sky, through the 
-treetops. Gratefully you wipe the guano from you eye.
+up and see a white dove pinwheeling higher into the sky, through the 
+treetops. Greatfully, you wipe the guano from your eye.
 ~
 S
 #29168
@@ -1904,7 +1903,7 @@ connect them to form a star.
 ~
 E
 dirt silvery sheen~
-The metal tastes like silver
+The metal tastes like silver.
 ~
 E
 fire~
@@ -1913,8 +1912,8 @@ fires. Images of enemies. Dead evil enemies you have killed. Their
 faces twist in horror as their bodies burn, regenerate, and burn again, 
 in a never-ending painful cycle. You feel drawn towards them, and start 
 to walk toward them, when something wet hits you in the eye. You look 
-up and see a white dove pin wheeling higher into the sky, through the 
-treetops. Gratefully you wipe the guano from you eye.
+up and see a white dove pinwheeling higher into the sky, through the 
+treetops. Greatfully, you wipe the guano from your eye.
 ~
 S
 #29169
@@ -1964,8 +1963,8 @@ fires. Images of enemies. Dead evil enemies you have killed. Their
 faces twist in horror as their bodies burn, regenerate, and burn again, 
 in a never-ending painful cycle. You feel drawn towards them, and start 
 to walk toward them, when something wet hits you in the eye. You look 
-up and see a white dove pin wheeling higher into the sky, through the 
-treetops. Gratefully you wipe the guano from you eye.
+up and see a white dove pinwheeling higher into the sky, through the 
+treetops. Greatfully, you wipe the guano from your eye.
 ~
 S
 #29170
@@ -2011,8 +2010,8 @@ fires. Images of enemies. Dead evil enemies you have killed. Their
 faces twist in horror as their bodies burn, regenerate, and burn again, 
 in a never-ending painful cycle. You feel drawn towards them, and start 
 to walk toward them, when something wet hits you in the eye. You look 
-up and see a white dove pin wheeling higher into the sky, through the 
-treetops. Gratefully you wipe the guano from you eye.
+up and see a white dove pinwheeling higher into the sky, through the 
+treetops. Greatfully, you wipe the guano from your eye.
 ~
 S
 #29171
@@ -2044,7 +2043,7 @@ connect them to form a star.
 ~
 E
 dirt silvery sheen~
-The metal tastes like silver
+The metal tastes like silver.
 ~
 E
 fire~
@@ -2053,8 +2052,8 @@ fires. Images of enemies. Dead evil enemies you have killed. Their
 faces twist in horror as their bodies burn, regenerate, and burn again, 
 in a never-ending painful cycle. You feel drawn towards them, and start 
 to walk toward them, when something wet hits you in the eye. You look 
-up and see a white dove pin wheeling higher into the sky, through the 
-treetops. Gratefully you wipe the guano from you eye.
+up and see a white dove pinwheeling higher into the sky, through the 
+treetops. Greatfully, you wipe the guano from your eye.
 ~
 S
 #29172
@@ -2086,7 +2085,7 @@ connect them to form a star.
 ~
 E
 dirt silvery sheen~
-The metal tastes like silver
+The metal tastes like silver.
 ~
 E
 fire~
@@ -2095,8 +2094,8 @@ fires. Images of enemies. Dead evil enemies you have killed. Their
 faces twist in horror as their bodies burn, regenerate, and burn again, 
 in a never-ending painful cycle. You feel drawn towards them, and start 
 to walk toward them, when something wet hits you in the eye. You look 
-up and see a white dove pin wheeling higher into the sky, through the 
-treetops. Gratefully you wipe the guano from you eye.
+up and see a white dove pinwheeling higher into the sky, through the 
+treetops. Greatfully, you wipe the guano from your eye.
 ~
 S
 #29173
@@ -2128,7 +2127,7 @@ connect them to form a star.
 ~
 E
 dirt silvery sheen~
-The metal tastes like silver
+The metal tastes like silver.
 ~
 E
 fire~
@@ -2186,10 +2185,7 @@ fire~
 You stare hypnotically into the dancing flames. Images form in the 
 fires. Images of enemies. Dead evil enemies you have killed. Their 
 faces twist in horror as their bodies burn, regenerate, and burn again, 
-in a never-ending painful cycle. You feel drawn towards them, and start 
-to walk toward them, when something wet hits you in the eye. You look 
-up and see a white dove pin wheeling higher into the sky, through the 
-treetops. Gratefully you wipe the guano from you eye.
+in a never-ending painful cycle.
 ~
 S
 #29176
@@ -2220,10 +2216,7 @@ fire~
 You stare hypnotically into the dancing flames. Images form in the 
 fires. Images of enemies. Dead evil enemies you have killed. Their 
 faces twist in horror as their bodies burn, regenerate, and burn again, 
-in a never-ending painful cycle. You feel drawn towards them, and start 
-to walk toward them, when something wet hits you in the eye. You look 
-up and see a white dove pin wheeling higher into the sky, through the 
-treetops. Gratefully you wipe the guano from you eye.
+in a never-ending painful cycle.
 ~
 S
 #29177
@@ -2254,10 +2247,7 @@ fire~
 You stare hypnotically into the dancing flames. Images form in the 
 fires. Images of enemies. Dead evil enemies you have killed. Their 
 faces twist in horror as their bodies burn, regenerate, and burn again, 
-in a never-ending painful cycle. You feel drawn towards them, and start 
-to walk toward them, when something wet hits you in the eye. You look 
-up and see a white dove pin wheeling higher into the sky, through the 
-treetops. Gratefully you wipe the guano from you eye.
+in a never-ending painful cycle.
 ~
 S
 #29178
@@ -2288,10 +2278,7 @@ fire~
 You stare hypnotically into the dancing flames. Images form in the 
 fires. Images of enemies. Dead evil enemies you have killed. Their 
 faces twist in horror as their bodies burn, regenerate, and burn again, 
-in a never-ending painful cycle. You feel drawn towards them, and start 
-to walk toward them, when something wet hits you in the eye. You look 
-up and see a white dove pin wheeling higher into the sky, through the 
-treetops. Gratefully you wipe the guano from you eye.
+in a never-ending painful cycle.
 ~
 S
 #0

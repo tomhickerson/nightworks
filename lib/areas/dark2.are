@@ -105,10 +105,10 @@ AHMV ABCDEFGHIJ medium 0
 #14507
 soldier bearded~
 the Bearded Soldier~
-The Bearded Soldier stand alert.
+The Bearded Soldier stands alert.
 ~
 This soldier has an alert look about him.  With his pointed beard and
-sharp sword the security he provides comes mostly from his presence.
+sharp sword, the security he provides comes mostly from his presence.
 ~
 human~
 ABT 0 1000 3000
@@ -151,7 +151,7 @@ Watcher~
 the Watcher~
 The Watcher is looking for evil.
 ~
-This female Watcher is one of those cultist who protect the rest of the
+This female Watcher is one of those cultists who protects the rest of the
 world from those they determine are evil.
 ~
 human~
@@ -166,7 +166,7 @@ pig fat~
 the fat pig~
 A fat pig is rooting around for food.
 ~
-This fat pig is very hungry. He eats just about ANYTHING.
+This fat pig is very hungry. He eats just about ANYTHING. Goes through bones like butter!
 ~
 pig~
 ACGH Gb 500 0
@@ -196,7 +196,6 @@ the chicken~
 A scrawny chicken is scratching for something.
 ~
 This chicken is so skinny it WOULDN'T provide enough meat for a soup.
-        ************ IT ESCAPE FROM KFC BAR !!! *************
 ~
 bird~
 CG NOT 0 0
@@ -297,7 +296,7 @@ the Goblin Warrior~
 The Goblin Warrior raises his hand to strike you.
 ~
 This goblin must be a shock troop.  He is HUGE. Standing 6' tall and weighing
-about 250 pounds his bite will be worse than you would think. He is lightly
+about 250 pounds, his bite will be worse than you would think. He is lightly
 armed and armored, doesn't wear boots, and has claws and talons with which
 to fight.
 ~
