@@ -695,9 +695,9 @@ A
 #ROOMS
 #14501
 Land Ho!!~
-At long last....land hoooo!  To the south, the pinacle of a large
+At long last, land ho!  To the south, the pinacle of a large
 mountain has attracted your attention.  A sandy beach awaits your
-landing...trees wave in the wind and birds of many colors fly
+landing.  Trees wave in the wind and birds of many colors fly
 high above the land beyond the beach.
      There is a small (Glowing) (Humming) tablet.
 ~
@@ -764,7 +764,7 @@ S
 The beach~
 You are standing on a sandy beach complete with seashells,
 palm trees and sand crabs.  To the south you see a line of
-palm trees standing next to and before two huge mountains.
+palm trees standing before two huge mountains.
 ~
 0 0 10
 D0
@@ -996,7 +996,7 @@ S
 #14518
 Steep trail~
 Climbing high into the mountains you approach a clearing, encircled
-by bushes your avenues of retreat are limited.  Either go forward
+by bushes.  Your avenues of retreat are limited.  Either go forward
 or back down the mountain.
 ~
 0 C 5
@@ -1012,7 +1012,7 @@ S
 #14519
 Mountain clearing~
 The trail has led you to a mountain clearing.  Circled by bushes
-and a few shrubs this grassy clearing shows several signs of
+and a few shrubs, this grassy clearing shows several signs of
 recent travel by a great number of people.
 ~
 0 0 5
@@ -1031,7 +1031,7 @@ D5
 S
 #14520
 Clearing~
-The grassy mountain clearing is open to the sun and is full of
+The grassy mountain clearing is open to the sun, and is full of
 the smells of a high mountain meadow.  A large swath of purple
 flowers carpets this side of the clearing.
 ~
@@ -1082,7 +1082,7 @@ D3
 S
 #14523
 Clearing's Center~
-The mountain clearing is all about you.  You are standing in
+The mountain clearing is all around you.  You are standing in
 the middle of a mountain meadow surrounded by snow capped
 mountain peaks.  Flowers of every color brighten the area.
 ~
@@ -1107,7 +1107,7 @@ S
 #14524
 Flowers everywhere~
 The mountain clearing is carpeted with flowers of every color.
-Some of the flowers are extremely rare, however, all of them
+Some of the flowers are extremely rare, but all of them
 are beautiful and would make a wonderful addition to any home.
 ~
 0 0 5
@@ -1198,7 +1198,7 @@ S
 #14529
 Down trail~
 This trail is cutting between several mountains and is very steep.
-A few shrubs line the trail as well as some beautiful flowers.
+A few shrubs line the trail, together with some beautiful flowers.
 ~
 0 C 5
 D4
@@ -1229,7 +1229,7 @@ S
 #14531
 Village view~
 To the west is a small village composed of six or seven buildings
-and to the south of the village you see a garden, however, it's the
+and to the south of the village you see a garden.  However, it's the
 river which attracts your attention.  You'll have to get a better
 view down the trail.
 ~
@@ -1276,7 +1276,7 @@ D3
 S
 #14534
 The Wilderness~
-The wilderness is so disorganized.  Trails are rough and rocky,
+The wilderness is very disorganized.  Trails are rough and rocky,
 bushes with thorns crowd the trail and even the flowers are not
 as soft and lovely as the ones along the main trail.
 ~
@@ -1314,7 +1314,7 @@ closer to the heavens than you'll ever get.  The view from here
 reveals much about the valley far below.  Below you a river can
 be seen bisecting the valley floor.  A small valley and garden
 as well as the bridge crossing the river are completely surrounded
-by a ten or twelve foot high wall.  Two towers protect the valley
+by a ten foot high wall.  Two towers protect the valley
 entrance to the enclosure.
 ~
 0 0 5
@@ -1349,7 +1349,7 @@ S
 Malo Village~
 You are standing at the entrance to Malo Village.  A small
 valley community of Humans, Dwarves, and Elves living together
-in wilderness harmony.  The village is alive with movement,
+in harmony.  The village is alive with movement,
 everyone going about their business while the farm animals do
 what comes natural.
 ~
@@ -1366,8 +1366,8 @@ S
 #14539
 Malo Main~
 Malo Main goes down the middle of the village.  It is covered
-with native stones and although short, it has the makings of
-a Better Streets entry.  The stone buildings on each side of the
+with native stones and although short, it is very well-built 
+and charming.  The stone buildings on each side of the
 street are warm and toasty..with smoke pouring from the smoke
 stacks and yellow light coming from the shuttered windows.
 ~
@@ -1407,7 +1407,7 @@ S
 #14541
 Gray Stone house~
 A loving hand has created this home.  Fine detail has been given
-to all wooden items and the furniture was made by a master.
+to all wooden items, and the furniture was made by a master.
 ~
 0 DS 0
 D0
@@ -1419,7 +1419,7 @@ S
 #14542
 Malo main~
 The stones you are walking on were gathered from local sites
-about the village.  Laid by Dwarves, the stones are almost
+around the village.  Laid by Dwarves, the stones are almost
 seamless.  The air is very cool here between the houses.
 ~
 0 0 1
@@ -1662,10 +1662,10 @@ S
 Red stained road~
 Several large red stains appear along this area of the ancient
 roadway.  Upon closer examination you are able to determine that
-the stains are old blood.  Surely a battle has been fought here!
-To your right and left short squat towers flank the road.  Small
-doors, low to the ground, provide entrance to the towers.  The
-tower construction is as ancient as the road.
+the stains are old blood.  To your right and left, short squat 
+towers flank the road.  Small doors, low to the ground, provide 
+entrance to the towers.  The tower construction is as ancient 
+as the road.
 ~
 0 0 1
 D0
@@ -1688,8 +1688,8 @@ S
 #14558
 Before the West Tower~
 The West Tower is a dark gray color.  Several gargoyles are
-crouching along the rim of the tower..protecting the residents
-from danger.  Stooping down you can see into the tower and out
+crouching along the rim of the tower, protecting the residents
+from danger.  Stooping down, you can see into the tower and out
 the other side.
 ~
 0 0 2
@@ -1707,7 +1707,7 @@ West Tower~
 This tower is rather small and has a dark, ominous feel about it.
 The roof has caved in, allowing the fresh mountain air to
 penetrate into every secret corner.  The entrance is to the east.
-The west wall has a large gaping hole in it's center.
+The west wall has a large gaping hole in its center.
 ~
 0 DS 0
 D1
@@ -1740,8 +1740,8 @@ S
 Before East Tower~
 You are standing before the slim East Tower.  Unlike the West
 Tower this tower has been whitewashed.  Painted every three feet
-are red stylized crosses.  Again, unlike the West Tower this
-tower does not have gargoyles about it's rim.
+are red stylized crosses.  Also, unlike the West Tower, this
+tower does not have gargoyles about its rim.
 ~
 0 0 2
 D1
@@ -1789,7 +1789,7 @@ S
 #14564
 Ancient road~
 Near the twin towers you have a really good view of the city
-wall and it's southern gate.  The wall is approximately 12 feet
+wall and its southern gate.  The wall is approximately 12 feet
 tall.  The gate is made of metal and has large spears protruding
 from the top to stop "wild animals" from climbing the barrier.
 ~
@@ -1815,7 +1815,7 @@ D0
 ~
 0 -1 14564
 D2
-This massive steel gate has spears along it's top.~
+This massive steel gate has spears along its top.~
 gate~
 1 -1 14566
 E
@@ -1827,13 +1827,13 @@ S
 Other side of the gate~
 You are standing on the south side of the gate leading to
 Malo Village.  The ancient road continues to the south but is
-blocked by a rough wall of ill placed boulders.  On each side of
+blocked by a rough wall of ill-placed boulders.  On each side of
 the road are sharpened stakes driven at an angle into the ground.
 The stakes are obviously meant to keep travellers on the road.
 ~
 0 0 1
 D0
-This massive steel gate has sharpened spears along it's summit.~
+This massive steel gate has sharpened spears along its summit.~
 gate~
 1 -1 14565
 D2
@@ -1896,7 +1896,7 @@ S
 A path~
 The path comes to an abrupt halt.  The boulders curve inward,
 towards the city, and with the aid of the sharpened stakes all
-about you travel in this direction has been effectively cut off.
+about you, travel in this direction has been effectively cut off.
 ~
 0 0 2
 D1
@@ -1907,7 +1907,7 @@ S
 #14571
 A small path~
 This small path leads you away from the ancient road, along
-the boulders and into the sharpened stakes set to keep you on
+the boulders and into the sharpened stakes meant to keep you on
 the road.
 ~
 0 0 2
@@ -1935,7 +1935,7 @@ S
 Path's end~
 You are approaching the end of the palm path.  Several buildings
 to the north of you appear to be both warehouses and living
-quarters.  The smell of drying fish is evident and a small fishing
+quarters.  The smell of drying fish hangs in the air, and a small fishing
 boat has been drydocked for repair.
 ~
 0 0 2
@@ -2012,7 +2012,7 @@ D3
 S
 #14577
 Oceanview Home~
-This lovely wooden home stands so near the water that it's
+This lovely wooden home stands so near the water that its
 occupants have the most beautiful view you've ever seen.  Several
 crabs have made their home outside the seaward window.
 ~
@@ -2109,7 +2109,7 @@ Garden along the river~
 The garden continues to parallel the mountain river.  While walking
 through the carrots you glance south into the river and see the
 remains of a wooden bridge washed ashore.  The bridge is flimsy
-and ill made and obviously was not meant to be permanent.
+and ill made, obviously was not meant to be permanent.
 ~
 0 0 2
 D1
@@ -2138,7 +2138,7 @@ D3
 S
 #14586
 Behind the buildings~
-You are walking behind the homes and quite by accident have
+You are walking behind the homes, and quite by accident have
 discovered a child's toy.  The toy is a wooden doll, complete
 with dress and straw hair.  It is lying in the mud and appears
 to have been trampled.
