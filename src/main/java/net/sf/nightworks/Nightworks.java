@@ -1,5 +1,6 @@
 package net.sf.nightworks;
 
+import net.sf.nightworks.util.Password;
 import net.sf.nightworks.util.TextBuffer;
 import org.jetbrains.annotations.Nullable;
 
@@ -2641,6 +2642,10 @@ final class Nightworks {
             return s1;
         }
         return s1 + s2.hashCode();
+    }
+    
+    static String newCrypt(String s1) {
+    	return Password.hashPassword(s1.trim());
     }
 
 }

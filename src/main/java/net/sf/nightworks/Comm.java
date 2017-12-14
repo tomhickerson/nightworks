@@ -1,5 +1,6 @@
 package net.sf.nightworks;
 
+import net.sf.nightworks.util.Password;
 import net.sf.nightworks.util.TextBuffer;
 
 import java.io.File;
@@ -165,6 +166,7 @@ import static net.sf.nightworks.Nightworks.WIZ_SPAM;
 import static net.sf.nightworks.Nightworks.area_first;
 import static net.sf.nightworks.Nightworks.char_list;
 import static net.sf.nightworks.Nightworks.crypt;
+import static net.sf.nightworks.Nightworks.newCrypt;
 import static net.sf.nightworks.Nightworks.currentTimeSeconds;
 import static net.sf.nightworks.Nightworks.current_time;
 import static net.sf.nightworks.Nightworks.descriptor_list;
@@ -1054,7 +1056,8 @@ class Comm {
             case CON_GET_OLD_PASSWORD:
                 write_to_buffer(d, "\n");
 
-                if (!crypt(argument, ch.name).equals(ch.pcdata.pwd)) {
+                // backwards compat
+                if (!crypt(argument, ch.name).equals(ch.pcdata.pwd) && !Password.checkPassword(argument, ch.pcdata.pwd)) { 
                     write_to_buffer(d, "Wrong password.\n");
                     log_string("Wrong password by " + ch.name + "@" + d.host);
                     if (ch.endur == 2) {
@@ -1206,7 +1209,7 @@ class Comm {
                     return;
                 }
 
-                String pwdnew = crypt(argument, ch.name);
+                String pwdnew = newCrypt(argument);
                 if (pwdnew.indexOf('~') != -1) {
                     write_to_buffer(d, "New password not acceptable, try again.\nPassword: ");
                     return;
@@ -1220,7 +1223,7 @@ class Comm {
             case CON_CONFIRM_NEW_PASSWORD:
                 write_to_buffer(d, "\n");
 
-                if (!crypt(argument, ch.name).equals(ch.pcdata.pwd)) {
+                if (!Password.checkPassword(argument, ch.pcdata.pwd)) {
                     write_to_buffer(d, "Passwords don't match.\nRetype password: ");
                     d.connected = CON_GET_NEW_PASSWORD;
                     return;

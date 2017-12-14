@@ -1,5 +1,6 @@
 package net.sf.nightworks;
 
+import net.sf.nightworks.util.Password;
 import net.sf.nightworks.util.TextBuffer;
 
 import java.util.Date;
@@ -283,6 +284,7 @@ import static net.sf.nightworks.Nightworks.atoi;
 import static net.sf.nightworks.Nightworks.boot_time;
 import static net.sf.nightworks.Nightworks.char_list;
 import static net.sf.nightworks.Nightworks.crypt;
+import static net.sf.nightworks.Nightworks.newCrypt;
 import static net.sf.nightworks.Nightworks.current_time;
 import static net.sf.nightworks.Nightworks.descriptor_list;
 import static net.sf.nightworks.Nightworks.get_carry_weight;
@@ -2754,7 +2756,8 @@ class ActInfo {
             return;
         }
 
-        if (!crypt(arg1, ch.name).equals(ch.pcdata.pwd)) {
+        // backwards compat for the old player records
+        if (!crypt(arg1, ch.name).equals(ch.pcdata.pwd) && !Password.checkPassword(arg1, ch.pcdata.pwd)) {
             WAIT_STATE(ch, 40);
             send_to_char("Wrong password.  Wait 10 seconds.\n", ch);
             return;
@@ -2768,7 +2771,7 @@ class ActInfo {
         /*
          * No tilde allowed because of player file format.
          */
-        String pwdnew = crypt(arg2, ch.name);
+        String pwdnew = newCrypt(arg2);
         if (pwdnew.contains("~")) {
             send_to_char("New password not acceptable, try again.\n", ch);
             return;
