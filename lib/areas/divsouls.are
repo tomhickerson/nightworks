@@ -1918,7 +1918,7 @@ zdreni drow armoursmith smith~
 the drow armoursmith~
 A drow stands here, hammering.
 ~
-Taught muscles bulge against the dark elven skin as the armoursmith
+Taut muscles bulge against the dark elven skin as the armoursmith
 strikes the metal before him.
 ~
 elf~
@@ -2057,7 +2057,7 @@ portal 0 0
 0 0 0 P
 E
 dark pool water~
-Streamers of light flicker within the still, dark waters.  As you watch, 
+Streams of light flicker within the still, dark waters.  As you watch, 
 they appear to wrap around your reflection, dissolving it for a moment
 into glitters of light.  Something about the pool is both frightening
 and appealing..
@@ -2112,7 +2112,7 @@ furniture B 0
 0 0 0 P
 E
 bloody black obsidian altar~
-Streamers of wet blood spatter the obsidian altar.  The blood seems to
+Streams of wet blood spatter the obsidian altar.  The blood seems to
 blend in with the black stone, giving it the appearance of some twisted
 form of red-streaked marble.
 ~
@@ -3100,7 +3100,7 @@ A
 #11674
 cloak shadows~
 cloak of shadows~
-A cloak of formed of shifting shadows is here.~
+A cloak formed of shifting shadows is here.~
 shadow~
 container BCF AC
 200 0 0 20 50
@@ -3884,9 +3884,9 @@ A
 A
 19 4
 #11730
-smokey brown insignia cloak~
-a dark cloak embroidered with a smokey brown insignia~
-A dark cloak is embroidered with the smokey brown form of two crossed daggers.~
+smoky brown insignia cloak~
+a dark cloak embroidered with a smoky brown insignia~
+A dark cloak is embroidered with the smoky brown form of two crossed daggers.~
 leather~
 armor C AC
 19 19 19 17 0
@@ -3904,7 +3904,7 @@ A
 #11731
 white long lance~
 a long white lance~
-There is a huge white lance sits towards the wall.~
+There is a huge white lance that sits towards the wall.~
 gold~
 weapon A AN
 lance 9 8 crush 0
@@ -3914,7 +3914,7 @@ A
 #11732
 dark long lance~
 a long dark lance~
-There is a huge dark lance sits towards the wall.~
+There is a huge dark lance that sits towards the wall.~
 iron~
 weapon BJ AN
 lance 9 8 crush 0
@@ -3924,7 +3924,7 @@ A
 #11733
 ancient bow~
 an ancient bow~
-A old iron bow sits towards to wall.~
+A old iron bow sits towards the wall.~
 iron~
 weapon B AN
 bow 10 9 pierce 0
@@ -3936,7 +3936,7 @@ A
 #11734
 sharp arrow~
 a very sharp arrow~
-A shiny arrow sits towards to wall.~
+A shiny arrow sits towards the wall.~
 silver~
 weapon B AN
 arrow 9 10 blast D
@@ -4263,7 +4263,7 @@ A dirt path winds around a white gazebo to the west.
 ~
 0 -1 11604
 D5
-A dirt path winds around a white gazebo to the down.
+A dirt path winds around a white gazebo and down.
 ~
 ~
 0 -1 11613
@@ -4348,8 +4348,8 @@ S
 #11617
 Redwood Platform~
 A pentagonal redwood platform rises from the multicolored clusters of flowers 
-and shrubbery.  An granite tome is mounted in the center of the pentagon.
-Two low marbles pedestals, grey and white, stand on either side of the tome.
+and shrubbery.  A granite tome is mounted in the center of the pentagon.
+Two low marble pedestals, grey and white, stand on either side of the tome.
 ~
 0 0 1
 D2
@@ -4510,7 +4510,7 @@ A wooden ladder leads to the edge of the well above.
 E
 skeleton~
 It looks as though something (someone?) has fallen into the well.  The bones
-are strangely clean and gleam a coldly in the light.
+are strangely clean and gleam coldly in the light.
 ~
 S
 #11624
@@ -4587,7 +4587,7 @@ S
 #11627
 Mossy Cave~
 A small natural cave is set into the grey-white rocks of the lake here.  
-Patches of phosphorescent green blue moss dot the slick cave walls, glowing
+Patches of phosphorescent green-blue moss dot the slick cave walls, glowing
 eerily in the mist.  A clump of large bushes to the east shields the cave
 from the rest of the lake.
 ~
@@ -4888,8 +4888,8 @@ S
 #11642
 Dark corridor~
 The corridor branches north and west here.  A humanoid skeleton has been
-entombed in the corridor ceiling.  The bones gleam whitely against the 
-dark stone, and the hollow eyesockets seem to glare accusingly at you.
+entombed in the corridor ceiling.  The bones gleam white against the 
+dark stone, and the hollow eyesockets glare accusingly at you.
 ~
 0 ADN 0
 D0
@@ -4998,7 +4998,7 @@ S
 Beneath the churning void~
 You hang suspended on a heavy rope halfway up a narrow stone chute.
 The rope disappears into the center of what appears to be a churning
-multicolored void.  Who know where it may lead..
+multicolored void.  Who knows where it may lead..
 ~
 0 ADN 0
 D4
@@ -5150,7 +5150,7 @@ anymore about the contents..
 ~
 0 ADN 0
 D4
-A slimy stairwell leasd up into darkness.  A faint light is visible farther
+A slimy stairwell leads up into darkness.  A faint light is visible farther
 up.
 ~
 ~
@@ -5607,7 +5607,7 @@ Meeting Chamber~
 A huge chamber has been carved from the packed clay here.  A semicircular
 stone table dominates the center of the floor.  Along the inner edge of
 the table stands a grey oak chair flanked by two chairs of white and black
-oak.  Plainer redwood chairs line the outer edge.  A narrow tunnel exits
+oak.  Plain redwood chairs line the outer edge.  A narrow tunnel exits
 the chamber to the west.
 ~
 0 AD 0
@@ -5803,7 +5803,7 @@ S
 #11687
 Entrance to the Funny Farm~
 Brilliant purple fences wall off rows of animal pens.  Aside from the
-barking cats and flying pigs, this could be a cosey little farm..
+barking cats and flying pigs, this could be a cozy little farm..
 A purple farmhouse is visible in the distance.
 ~
 0 0 1
@@ -5852,7 +5852,7 @@ S
 #11690
 Another Intersection..~
 Oh god.. not another intersection.  The road loops around itself so many
-times that it's amazing it ever goes anywhere.  As you watch, the intersection
+times, that it's amazing it ever goes anywhere.  As you watch, the intersection
 rearranges itself again, nearly taking your lunch with it.  The bricks at one
 edge of the road have been torn out, revealing a dark hole leading down.
 ~
@@ -6193,7 +6193,7 @@ The torch is mounted in a small, unadorned brass sconce.
 ~
 E
 furnishings bunks basin bookshelf shelf desk~
-The furnishings are well plain, but well made.
+The furnishings are plain, but well made.
 ~
 S
 #11709
@@ -6606,7 +6606,7 @@ door oak~
 1 -1 11725
 E
 furnishings~
-The furnishings are finely crafted, if simply adorned.
+The furnishings are finely crafted, and simply adorned.
 ~
 S
 #11727
@@ -6669,7 +6669,7 @@ S
 Forge~
 A shimmering haze of heat permeates the huge circular chamber, almost
 unbearably hot despite several vents to the surface.  Rods and plates
-of dark blue black metal lie stacked in bins against the walls.  A forge
+of dark blue-black metal lie stacked in bins against the walls.  A forge
 and several anvils are spaced about the remainder of the room.  To the
 west, a thick steel door exits the room.
 ~
@@ -6801,7 +6801,7 @@ It appears to be made of some sort of dark woven wool.
 S
 #11737
 Quiet Corridor~
-The dark stone walls gleam sinisterly in the silence.  To the east,
+The dark stone walls gleam sinister in the silence.  To the east,
 the corridor terminates at a dark redwood door.  A black oak door
 is set into the south wall.  You notice an inscription above the
 handle of the eastern door.
@@ -6890,7 +6890,7 @@ shadow.
 ~
 E
 circular stone table~
-Inlayed in ivory in the dark marble table top is the depiction of two
+Inlaid in ivory in the dark marble table top is the depiction of two
 crossed daggers.
 ~
 E
