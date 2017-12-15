@@ -1078,7 +1078,7 @@ coffin~
 1 0 2232
 E
 coffin~
-A coffin lies a against the east wall.  It is closed.
+A coffin lies against the east wall.  It is closed.
 ~
 S
 #2223
@@ -1133,7 +1133,7 @@ You see the great hall.
 0 -1 2224
 S
 #2226
-Lair~
+The Lair~
 You have entered a large lair with bones strewn about the ground.  You
 notice the source of these as you come face to face with a rather large red
 dragon.  You notice a trap door in the floor.
@@ -1285,7 +1285,7 @@ S
 A cave opening~
 You stand at the opening of a giant cave.  There are many bones strewn across
 the room.  Some human, some indistinguishable.  It smells very bad in here.
-You can hear movement in the cave to the north.  The tunnel goes back to the
+You can hear movement in the cave to the north.  The tunnel extends to the
 south.
 ~
 0 AI 2
@@ -1325,7 +1325,7 @@ trapdoor
 S
 #2237
 The Bridge~
-You are walking along an old wooden bridge.  Its not that secure.  You 
+You are walking along an old wooden bridge.  It's not that secure.  You 
 might want to hurry along.  To the south, on the other side of the bridge,
 lies a small opening.
 ~
@@ -1419,7 +1419,7 @@ clearing
 S
 #2241
 A cave opening~
-You stand before a huge cave opening.  You hearing heavy breathing from
+You stand before a huge cave opening.  You hear heavy breathing from
 within the cave.  There are a few skeletons lying about.  The cave lies to 
 the south.  The path is back to the east.
 ~
@@ -1438,7 +1438,6 @@ S
 #2242
 The path continues~
 The path continues up the mountain to the top.  The path also goes down.
-Thats it, nothing more to see.
 ~
 0 0 2
 D4
@@ -1457,10 +1456,8 @@ The top of the mountain~
 You are standing at the top of the mountain.  It feels more like the top of
 the world.  To your north lies a huge platinum door.  You hear very pronounced
 grumbling from behind the doors.  It sounds like something huge and hungry.
-But if you don't have the key you don't have to worry because you can't get in.
-If you do have the key I would suggest not going in.  Some believe the Five
-Headed dragon Tiamat was imprisoned here by the gods.  But who believes in 
-fairy tales.  Well, if you're scared, you can always go down the mountain.
+Some believe the Five Headed dragon Tiamat was imprisoned here by the gods.  
+But who believes in fairy tales.
 ~
 0 0 2
 D0
