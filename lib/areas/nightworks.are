@@ -12,17 +12,17 @@
         |::XXXX|                                            |::XXXX|
         |X::XXX|                Creators [99]               |X::XXX|
         |XX::XX|                *************               |XX::XX|
-        |XXXX::|                                    |XXXX::|
+        |XXXX::|                                   		    |XXXX::|
         |::XXXX|                                            |::XXXX|
 /<<>>\/<<>>\/<<>>\/<<>>\                            /<<>>\/<<>>\/<<>>\/<<>>\
 \<<>>/\<<>>/\<<>>/\<<>>/      Supremacies [98]      \<<>>/\<<>>/\<<>>/\<<>>/
        |.  /  . |             ****************             |.  /  . |
-       | .//\.  |                                      | .//\.  |
-       |.  /  . |                                      |.  /  . |
+       | .//\.  |                                          | .//\.  |
+       |.  /  . |                                          |.  /  . |
        | .//\.  |                                          | .//\.  |
        |.  /  . |               Deities [97]               |.  /  . |
        | .//\.  |               ************               | .//\.  |
-       |.  /  . |                                      |.  /  . |
+       |.  /  . |                                          |.  /  . |
        | .//\.  |                                          | .//\.  |
        | .//\.  |                Gods [96]                 | .//\.  |
        |.  /  . |                *********                 |.  /  . |
@@ -30,21 +30,21 @@
        | .//\.  |                                          | .//\.  |
        |.  /\ . |              Immortals [95]              |.  /  . |
        | .//\.  |              **************              | .//\.  |
-       |.  /  . |                                      |.  /  . |
+       |.  /  . |                                          |.  /  . |
        | .//\.  |                                          | .//\.  |
        |.  /  . |               DemiGods [94]              |.  /  . |
        | .//\.  |               *************              | .//\.  |
-       |.  /\ . |                                  |.  /  . |
+       |.  /\ . |                                          |.  /  . |
        |.  /  . |                                          |.  /  . |
        | .//\.  |               Angels [93]                | .//\.  |
        |.  /  . |               ***********                |.  /  . |
-       | .//\.  |                                      | .//\.  |
-       | .//\.  |                                      | .//\.  |
+       | .//\.  |                                          | .//\.  |
+       | .//\.  |                                          | .//\.  |
        | .//\.  |                                          | .//\.  |
        |.  /  . |               Avatars [92]               |.  /  . |
        | .//\.  |               ************               | .//\.  |
-       |.  /  . |                                  |.  /  . |
-       |.  /  . |                                      |.  /  . |
+       |.  /  . |                                          |.  /  . |
+       |.  /  . |                                          |.  /  . |
         \ //\. /                 Heros [91]                 \ //\. /
          \ /. /                 ************                 \ /. /
           \ //                                                \ //
@@ -259,7 +259,8 @@ Thanks to Ezra for drawing the originals of several maps on ROM.
                  .  .    . *.   . .                                    
     .                   :.  .           .                              
                  .   .    .    .                                       
-             .  .  .    .  {WNightworks MUD server 1.0{w
+             .  .  .    .  {WFAR FETCHED WORLD, built on
+			:	.		*	 Nightworks MUD server 1.0{w
                              by Mike Fursov (mike.fursov@gmail.com) 2006.
             .  .. :.    .  Based on:                                 
      .   ... .              ANATOLIA 3.1 by 1997-1999 Serdar BULUT, Ibrahim .                
@@ -275,16 +276,16 @@ Thanks to Ezra for drawing the originals of several maps on ROM.
 By which name do you wish to be known? ~ 
 
 -1 MOTD~ 
-* This is a Roleplaying, PlayerKilling and Adventure MUD.
+* This is a light-Roleplaying, PlayerKilling and Adventure MUD.
 * You are responsible for knowing the rules (type 'rules').  Ignorance of 
   the rules is no excuse.
 * Important commands: help, commands, news, notes.
-* Read all helps. So many things are changed relatively before.
+* Read all helps, as this MUD is in active development, and things can change.
 * Read helps of WHATSNEW(ROM2ANATOLIA), FROM20TO21, FROM21TO22, FROM22TO30,
   FROM30TO31 and ALIGNORCABAL.
 
 
-                    Last modified: December 04, 2003
+                    Last modified: December 2017
 [Hit Return to continue]
 ~ 
  
@@ -310,7 +311,7 @@ doing. It is not complete yet.
 ANGELS (92-94):
 
     Angels and higher level gods may not assist mortals directly in any way.
-An angels' main job is controling the roleplaying of the game. Mostly each angle
+An angels' main job is controlling the roleplaying of the game. Mostly each angel
 is responsible for one cabal. Responsibility means here that making sure that
 the cabal members are acting according to the roleplaying theme. But an angel
 cannot induct a player to his/her cabal, unless there is no mortal cabal leader
@@ -337,8 +338,8 @@ GODS (97-99):
 too. However, the main role of a God is keeping the peace and enforcing the 
 the roleplaying, using the various NOTELL-class commands, as well as deny,
 purge, freeze, and ban (but be careful with these commands!)  Gods are expected
-to help make the mud run more smoothly, power trips are strictly verbotten.
-Not fufilling the roles of your office can result in demotion or deletion. Gods
+to help make the mud run more smoothly, power trips are strictly verboten.
+Not fulfilling the roles of your office can result in demotion or deletion. Gods
 cannot have mortal characters.
 ~
 
@@ -355,25 +356,25 @@ cannot have mortal characters.
     and softening up or altering mobs.
  
 3)  Do not transfer or summon mobs to mortals or mortals to mobs.
-    They have legs, if they want to kill a mob, they can easilly
+    They have legs, if they want to kill a mob, they can easily
     go there themselves.
  
 4)  DO NOT kill the shopkeepers for any reason at ALL.
  
-5)  DO NOT use reboot.  <--- Note, simple English.
+5)  DO NOT use reboot.
  
 6)  Do not give out free equipment.  You don't need to win brownie
-    points with the mortals.  Quest are fine but handing out items
+    points with the mortals.  Quests are fine, but handing out items
     isn't.
  
 7)  A note on quests: Quests are a good thing, more or less, BUT 
     do not give out overly extravagant prizes.  Exercise some 
-    common sense here folks.  Do not load items more than 4 levels
+    common sense here, folks.  Do not load items more than 4 levels
     below their normal level (i.e. no level 5 ogre gauntlets).
  
 8)  Do not undermine the authority of a higher level god.  If you 
     see that someone has been frozen or nochannelled do not restore
-    their priveleges.  They are being punished for a reason.
+    their privileges.  They are being punished for a reason.
  
 9)  Do not try to overrule each other.  
  
@@ -419,7 +420,7 @@ Syntax:
 
 The clone command duplicates an object or mobile.  The level of item or mobile
 that may be cloned depends on your level.  The target object or mob must be in
-the same room as you, or in your posession.  Strung and set information is
+the same room as you, or in your possession.  Strung and set information is
 preserved by clone, as well as any spell effects and container contents or
 mobile inventory, except for items which are too high for you to clone.  
 Strung extended descriptions on objects are not kept, however.
@@ -451,7 +452,7 @@ gold and sacrificing corpses.  The commands are as follows:
 autolist  : list all automatic actions
 autoloot  : take all equipment from dead mobiles
 autogold  : take all gold from dead mobiles
-autosac   : sacrifice dead monsters (if autoloot is on, only empty corpes)
+autosac   : sacrifice dead monsters (if autoloot is on, only empty corpses)
 autoexit  : display room exits upon entering a room
 autosplit : split up spoils from combat among your group members
 autoassit : makes you help group members in combat
@@ -472,7 +473,7 @@ it is higher.
     The gate spell is a powerful transportation magic that opens up a portal
 between your character and another person or creature somewhere else in the
 world.  This portal will transport you and any pet you might have, but not
-other members of your group.  Monsters recieve a save against gate, and
+other members of your group.  Monsters receive a save against gate, and
 monster or players more than 3 levels higher than you can not be gated to at 
 all.  God rooms, private rooms, and no recall rooms cannot be gated to, and
 no recall rooms cannot be gated out of.  Finally, any god or hero is also 
@@ -483,7 +484,7 @@ immune to gate, as well as in player who has no summon set.
     The astral walk spell is a powerful transportation magic that opens up a 
 portal between your character and another person or creature somewhere
 else in the world. This portal will transport you and any pet you might
-have, but not other members of your group.  Monsters recieve a save
+have, but not other members of your group.  Monsters receive a save
 against astral walk, and monster or players more than 3 levels higher than
 you can not be astral walked to at all.  God rooms, private rooms, and no
 recall rooms cannot be astral walked to, and no recall rooms cannot be
@@ -495,7 +496,7 @@ well as in player who has no summon set.
     The mist walk spell is a powerful transportation magic that opens up a 
 portal between your character and another person or creature somewhere
 else in the world.  This portal will transport only you, but not
-your pet or other members of your group.  Monsters recieve a save
+your pet or other members of your group.  Monsters receive a save
 against mist walk, and monster or players more than 5 levels lower than
 you can not be mist walked to at all.  God rooms, private rooms, and no
 recall rooms cannot be mist walked to, and no recall rooms cannot be mist
@@ -507,12 +508,12 @@ well as in player who has no summon set.
     The solar flight spell is a powerful transportation magic that opens up a 
 portal between your character and another person or creature somewhere
 else in the world.  This portal will transport only you, but not
-your pet or other members of your group.  Monsters recieve a save
+your pet or other members of your group.  Monsters receive a save
 against solar flight, and monster or players more than 1 levels higher
 than you can not be solar flighted to at all.  God rooms, private rooms,
 and no recall rooms cannot be solar flighted to, and no recall rooms
 cannot be solar flighted out of.  Finally, any god or hero is also immune
-to solar flight, as well as in player who has no summon set. And ofcourse
+to solar flight, as well as in player who has no summon set. And of course
 you need the sun light to cast this spell effectively.
 ~
 
@@ -522,7 +523,7 @@ you need the sun light to cast this spell effectively.
 * PlayerKilling and Stealing is permitted for all levels, within
   restrictions of course.
 * 7 Cabals are implemented with special skills and spells.
-* If one cabal is raided and its item is taken and put to anothers cabal
+* If one cabal is raided and its item is taken and put to another's cabal
   shrine, the raided cabal cannot use their cabal powers.
 * New 8 classes are added with full features.
 * New 14 races are added with full features.
@@ -531,7 +532,7 @@ you need the sun light to cast this spell effectively.
 * New auction channel introduced.
 * Over 200 new skills and spells are introduced.
 * New practicing type is introduced.
-* Damagable and repairable equipments are introduced.
+* Damageable and repairable equipments are introduced.
 * Bank is implemented.
 * Color code is inserted.
 * Mobiles started to track last foughts.
@@ -545,12 +546,12 @@ you need the sun light to cast this spell effectively.
 * New score command is introduced.( One can use old one with nscore command)
 * In who command, one can restrict the cabals, races or PKs.
 * Players can pray the gods by pray channel.
-* Automaticaly generated quest is introduced.
+* Automatically generated quest is introduced.
 * Hero players can teach their 100% skills or spells to other players.
 * Tailed mobile can now attack with their tails.
 * When you look a mob, you can see its race.
 * Hometowns and ethos are implemented.
-* Religions and their related tattos are implemented
+* Religions and their related tattoos are implemented
 * Special quest kassandra (please read the referred books in melancholy).
 
 Also check FROM20TO21
@@ -619,7 +620,7 @@ Also check FROM21TO22
 * strangle, blackjack and vampiric touch have certain delay now.
 * parry has been rearranged
 * added special cabal guardian progs
-* now katana cannot be either purged or sacrified
+* now katana cannot be either purged or sacrificed
 * now all cabal areas are no gate and no summon
 * removing tattoos and religions are allowed by questor
 * cancellation spell can be cast thru only group members and cancel enabled ones
@@ -696,18 +697,18 @@ hunted by all rulers.
 
 -1 INVADER 'CABAL INVADER' 'INVADER CABAL'~
 .
-   Four hundred years ago, after the attack of the Knights orriginating from
+   Four hundred years ago, after the attack of the Knights originating from
 the town of Gerilghem, the forces of evil had to retreat to Underdark, one
 of the deepest and most evil places on this realm. It is said that the
 darkness in the area soon started to become deeper and stronger. No one
 knows what went on in the depths of the Underdark, but soon an army of
-pure evil emerged, travelled to the lands cleaned by the Knights, slaying
+pure evil emerged, traveled to the lands cleaned by the Knights, slaying
 all that it found on its way. The dark army spared no life, bringing
 nothing but death to those who stood in its path. Inside the swamps west
 of Midgaard, an army of Knights confronted them. The Knights were
 numerous, outnumbering the dark army who called themselves Invaders, and
 it seemed to be a doom for the dark army. That was when the great dark
-cloud decended on the two armies. Although the events which took place
+cloud descended on the two armies. Although the events which took place
 inside that dark cloud is not known, there is something that is written
 down in the Chronicals of Anatolia. No man left the cloud alive, but the
 only corpses to be found were the Knights'. 
@@ -719,9 +720,9 @@ only corpses to be found were the Knights'.
 us, it is all that everything originates from. Those who have seen the
 power in chaos have come together. To found a unique force among the
 chaos, they came together secretly and built themselves a fortress. They
-are plaqued by the lawful works of the Rulers, constantly battle them
+are plagued by the lawful works of the Rulers, constantly battle them
 to rid them of their powers. They see the laws as chains that turn them
-into slaves. So they fight for their freedom. It is an honour for a Chaos
+into slaves. So they fight for their freedom. It is an honor for a Chaos
 member to be made wanted by the Rulers, it shows their respect for
 freedom. When a Chaos member is flagged as criminal, his mood and his
 powers increase, due to the new flow of chaotic powers.
@@ -731,7 +732,7 @@ powers increase, due to the new flow of chaotic powers.
 .
 When the evil stormed the plains of our realm, killed the innocent
 children of poor villagers, a great hate started to rise against the dark
-souls that plaqued the land. The followers of the dark path was strong,
+souls that plagued the land. The followers of the dark path was strong,
 but the hate against them grew with each corpse they left on the ground.
 In time, people who wished to fight against this evil gathered in the city
 of Gerilghem, and started to build a large castle in the city. Training 
@@ -757,7 +758,7 @@ These group of merchants have one weakness that is known: Some of them
 tend to sell out their friends for money. They are not cheap at all to
 hire, costing perhaps hundreds of thousands of gold for the hardest tasks.
 Their trade center is located at the city of New Thalos, and also serves
-as their headquarters. The Hunters are a constanly changing cabal, that is
+as their headquarters. The Hunters are a constantly changing cabal, that is
 the most profitable way of earning more. Always change, and have someone
 else pay for it!  
 ~
