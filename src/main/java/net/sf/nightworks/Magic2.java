@@ -371,6 +371,8 @@ import static net.sf.nightworks.Skill.lookupSkill;
 import static net.sf.nightworks.util.TextUtils.one_argument;
 import static net.sf.nightworks.util.TextUtils.str_cmp;
 
+import net.sf.nightworks.enums.PlayerMessage;
+
 class Magic2 {
 
     static ROOM_INDEX_DATA check_place(CHAR_DATA ch, String argument) {
@@ -531,7 +533,7 @@ class Magic2 {
         act("$N's thin light ray {r###DISINTEGRATES###{x you!", victim, null, ch, TO_CHAR, POS_RESTING);
         act("$n's thin light ray {r###DISINTEGRATES###{x $N!", ch, null, victim, TO_NOTVICT, POS_RESTING);
         act("Your thin light ray {r###DISINTEGRATES###{x $N!", ch, null, victim, TO_CHAR, POS_RESTING);
-        send_to_char("You have been KILLED!\n", victim);
+        send_to_char(PlayerMessage.YOU_HAVE_BEEN_KILLED.getMessage(), victim);
 
         act("$N does not exist anymore!\n", ch, null, victim, TO_CHAR);
         act("$N does not exist anymore!\n", ch, null, victim, TO_ROOM);
@@ -3641,7 +3643,7 @@ class Magic2 {
             return;
         }
 
-        send_to_char("You have been KILLED!\n", victim);
+        send_to_char(PlayerMessage.YOU_HAVE_BEEN_KILLED.getMessage(), victim);
 
         act("$N has been killed!\n", ch, null, victim, TO_CHAR);
         act("$N has been killed!\n", ch, null, victim, TO_ROOM);

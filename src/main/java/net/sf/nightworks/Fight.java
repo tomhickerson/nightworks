@@ -1,5 +1,6 @@
 package net.sf.nightworks;
 
+import net.sf.nightworks.enums.PlayerMessage;
 import net.sf.nightworks.util.TextBuffer;
 import org.jetbrains.annotations.NotNull;
 
@@ -1182,7 +1183,7 @@ class Fight {
                 act("Your cleave chops $N {rIN HALF!{x", ch, null, victim, TO_CHAR, POS_RESTING);
                 act("$n's cleave chops you {rIN HALF!{x", ch, null, victim, TO_VICT, POS_RESTING);
                 act("$n's cleave chops $N {rIN HALF!{x", ch, null, victim, TO_NOTVICT, POS_RESTING);
-                send_to_char("You have been KILLED!\n", victim);
+                send_to_char(PlayerMessage.YOU_HAVE_BEEN_KILLED.getMessage(), victim);
                 act("$n is DEAD!", victim, null, null, TO_ROOM);
                 WAIT_STATE(ch, 2);
                 raw_kill(victim);
@@ -1219,7 +1220,7 @@ class Fight {
                 act("$n {r+++ASSASSINATES+++{x $N!", ch, null, victim, TO_NOTVICT, POS_RESTING);
                 act("$N is DEAD!", ch, null, victim, TO_NOTVICT);
                 act("$n {r+++ASSASSINATES+++{x you!", ch, null, victim, TO_VICT, POS_DEAD);
-                send_to_char("You have been KILLED!\n", victim);
+                send_to_char(PlayerMessage.YOU_HAVE_BEEN_KILLED.getMessage(), victim);
                 check_improve(ch, gsn_assassinate, true, 1);
                 raw_kill(victim);
                 if (!IS_NPC(ch) && IS_NPC(victim)) {
@@ -1631,7 +1632,7 @@ class Fight {
                 act("$n is mortally wounded, and will die soon, if not aided.",
                         victim, null, null, TO_ROOM);
                 send_to_char(
-                        "You are mortally wounded, and will die soon, if not aided.\n",
+                        "{mYou are mortally wounded, and will die soon, if not aided.{x\n",
                         victim);
                 break;
 
@@ -1658,7 +1659,7 @@ class Fight {
 
             case POS_DEAD:
                 act("$n is DEAD!!", victim, 0, 0, TO_ROOM);
-                send_to_char("You have been KILLED!!\r\n\n", victim);
+                send_to_char(PlayerMessage.YOU_HAVE_BEEN_KILLED.getMessage(), victim);
                 break;
 
             default:
@@ -1666,10 +1667,10 @@ class Fight {
                     break;
                 }
                 if (dam > victim.max_hit / 4) {
-                    send_to_char("That really did HURT!\n", victim);
+                    send_to_char("That really did {yHURT!{x\n", victim);
                 }
                 if (victim.hit < victim.max_hit / 4) {
-                    send_to_char("You sure are BLEEDING!\n", victim);
+                    send_to_char("You sure are {RBLEEDING!{x\n", victim);
                 }
                 break;
         }

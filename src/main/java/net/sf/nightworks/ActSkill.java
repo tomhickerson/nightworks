@@ -366,7 +366,7 @@ class ActSkill {
         /* return results */
 
         if (!found) {
-            send_to_char("That class know no skills.\n", ch);
+            send_to_char("That class knows no skills.\n", ch);
             return;
         }
 

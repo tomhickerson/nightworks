@@ -879,7 +879,7 @@ class ActInfo {
             if (can_see(ch, rch)) {
                 show_char_to_char_0(rch, ch);
             } else if (room_is_dark(ch) && IS_AFFECTED(rch, AFF_INFRARED)) {
-                send_to_char("You see glowing red eyes watching YOU!\n", ch);
+                send_to_char("You see {rglowing red eyes{x watching YOU!\n", ch);
                 if (!IS_IMMORTAL(rch)) {
                     life_count++;
                 }

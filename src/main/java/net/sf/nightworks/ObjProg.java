@@ -1,6 +1,7 @@
 package net.sf.nightworks;
 
 
+import net.sf.nightworks.enums.PlayerMessage;
 import net.sf.nightworks.util.TextBuffer;
 
 import java.lang.reflect.Method;
@@ -498,13 +499,13 @@ class ObjProg {
     static void fight_prog_sub_weapon(OBJ_DATA obj, CHAR_DATA ch) {
         if (is_wielded_char(ch, obj) && number_percent() < 30) {
             if (((float) ch.hit) / ((float) ch.max_hit) > 0.9) {
-                send_to_char("Your weapon whispers, 'You're doing great!'\n", ch);
+                send_to_char(PlayerMessage.WEAPON_DOING_GREAT.getMessage(), ch);
             } else if (((float) ch.hit) / ((float) ch.max_hit) > 0.6) {
-                send_to_char("Your weapon whispers, 'Keep up the good work!'\n", ch);
+                send_to_char(PlayerMessage.WEAPON_GOOD_WORK.getMessage(), ch);
             } else if (((float) ch.hit) / ((float) ch.max_hit) > 0.4) {
-                send_to_char("Your weapon whispers, 'You can do it!'\n", ch);
+                send_to_char(PlayerMessage.WEAPON_CAN_DO_IT.getMessage(), ch);
             } else {
-                send_to_char("Your weapon whispers, 'Run away! Run away!'\n", ch);
+                send_to_char(PlayerMessage.WEAPON_RUN_AWAY.getMessage(), ch);
             }
         }
     }
@@ -521,13 +522,13 @@ class ObjProg {
 
         if (obj.extra_descr.description.contains(ch.name)) {
             if (IS_AFFECTED(ch, AFF_POISON) && (dice(1, 5) == 1)) {
-                send_to_char("Your weapon glows blue.", ch);
+                send_to_char(PlayerMessage.WEAPON_GLOWS_BLUE.getMessage(), ch);
                 act("$n's weapon glows blue.", ch, null, null, TO_ROOM);
                 spell_cure_poison(30, ch, ch);
                 return;
             }
             if (IS_AFFECTED(ch, AFF_CURSE) && (dice(1, 5) == 1)) {
-                send_to_char("Your weapon glows blue.", ch);
+                send_to_char(PlayerMessage.WEAPON_GLOWS_BLUE.getMessage(), ch);
                 act("$n's weapon glows blue.", ch, null, null, TO_ROOM);
                 spell_remove_curse(30, ch, ch, TARGET_CHAR);
                 return;
@@ -569,13 +570,13 @@ class ObjProg {
 
         if (obj.extra_descr.description.contains(ch.name)) {
             if (IS_AFFECTED(ch, AFF_POISON) && (dice(1, 5) == 1)) {
-                send_to_char("Your weapon glows blue.", ch);
+                send_to_char(PlayerMessage.WEAPON_GLOWS_BLUE.getMessage(), ch);
                 act("$n's weapon glows blue.", ch, null, null, TO_ROOM);
                 spell_cure_poison(30, ch, ch);
                 return;
             }
             if (IS_AFFECTED(ch, AFF_CURSE) && (dice(1, 5) == 1)) {
-                send_to_char("Your weapon glows blue.", ch);
+                send_to_char(PlayerMessage.WEAPON_GLOWS_BLUE.getMessage(), ch);
                 act("$n's weapon glows blue.", ch, null, null, TO_ROOM);
                 spell_remove_curse(30, ch, ch, TARGET_CHAR);
                 return;
@@ -619,8 +620,8 @@ class ObjProg {
         OBJ_DATA container;
         int i;
 
-        act("The gods are infuriated!", ch, null, null, TO_CHAR);
-        act("The gods are infuriated!", ch, null, null, TO_ROOM);
+        act(PlayerMessage.GODS_ARE_FURI.getMessage(), ch, null, null, TO_CHAR);
+        act(PlayerMessage.GODS_ARE_FURI.getMessage(), ch, null, null, TO_ROOM);
         damage(ch, ch, ch.hit / 10, gsn_x_hit, DAM_HOLY, true);
         ch.gold = 0;
 
@@ -725,11 +726,11 @@ class ObjProg {
             switch (number_bits(6)) {
                 case 0:
                 case 1:
-                    act("{cThe tattoo on your shoulder glows blue.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_BLUE.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_cure_serious, ch.level, ch, ch, obj);
                     break;
                 case 2:
-                    act("{rThe tattoo on your shoulder glows red.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_RED.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     do_yell(ch, "Ever dance with good....");
                     spell_holy_word(Skill.gsn_holy_word, ch.level, ch);
                     break;
@@ -744,11 +745,11 @@ class ObjProg {
                 case 0:
                 case 1:
                 case 2:
-                    act("{cThe tattoo on your shoulder glows blue.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_BLUE.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_cure_critical, ch.level, ch, ch, obj);
                     break;
                 case 3:
-                    act("{cThe tattoo on your shoulder glows blue.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_BLUE.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     if (IS_AFFECTED(ch, AFF_PLAGUE)) {
                         spell_cure_disease(100, ch, ch);
                     }
@@ -764,11 +765,11 @@ class ObjProg {
         if (get_eq_char(ch, WEAR_TATTOO) == obj) {
             switch (number_bits(6)) {
                 case 0:
-                    act("{cThe tattoo on your shoulder glows blue.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_BLUE.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_cure_serious, ch.level, ch, ch, obj);
                     break;
                 case 1:
-                    act("{rThe tattoo on your shoulder glows red.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_RED.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     spell_bluefire(gsn_dispel_good, ch.level, ch, ch.fighting);
                     break;
             }
@@ -783,7 +784,7 @@ class ObjProg {
                     obj_cast_spell(gsn_cure_serious, ch.level, ch, ch, obj);
                     break;
                 case 1:
-                    act("{rThe tattoo on your shoulder glows red.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_RED.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_demonfire, ch.level, ch, ch.fighting, obj);
                     break;
             }
@@ -795,11 +796,11 @@ class ObjProg {
             switch (number_bits(6)) {
                 case 0:
                 case 1:
-                    act("{cThe tattoo on your shoulder glows blue.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_BLUE.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_cure_serious, ch.level, ch, ch, obj);
                     break;
                 case 2:
-                    act("{rThe tattoo on your shoulder glows red.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_RED.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     do_yell(ch, "And justice for all!....");
                     spell_scream(gsn_scream, ch.level, ch);
                     break;
@@ -811,15 +812,15 @@ class ObjProg {
         if (get_eq_char(ch, WEAR_TATTOO) == obj) {
             switch (number_bits(6)) {
                 case 0:
-                    act("{rThe tattoo on your shoulder glows red.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_RED.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_cure_light, ch.level, ch, ch.fighting, obj);
                     break;
                 case 1:
-                    act("{cThe tattoo on your shoulder glows blue.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_BLUE.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_cure_serious, ch.level, ch, ch, obj);
                     break;
                 case 2:
-                    act("{rThe tattoo on your shoulder glows red.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_RED.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     spell_dispel_evil(gsn_dispel_evil, ch.level, ch, ch.fighting);
                     break;
             }
@@ -832,15 +833,15 @@ class ObjProg {
                 case 0:
                 case 1:
                 case 2:
-                    act("{cThe tattoo on your shoulder glows blue.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_BLUE.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_cure_light, ch.level, ch, ch, obj);
                     break;
                 case 3:
-                    act("{rThe tattoo on your shoulder glows red.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_RED.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_plague, ch.level, ch, ch.fighting, obj);
                     break;
                 case 4:
-                    act("{cThe tattoo on your shoulder glows blue.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_BLUE.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_bless, ch.level, ch, ch, obj);
                     break;
             }
@@ -855,7 +856,7 @@ class ObjProg {
                     obj_cast_spell(gsn_dragon_strength, ch.level, ch, ch, obj);
                     break;
                 case 1:
-                    act("{rThe tattoo on your shoulder glows RED.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_RED.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_dragon_breath, ch.level, ch, ch.fighting, obj);
                     break;
             }
@@ -867,11 +868,11 @@ class ObjProg {
         if (get_eq_char(ch, WEAR_TATTOO) == obj) {
             switch (number_bits(5)) {
                 case 0:
-                    act("{cThe tattoo on your shoulder glows blue.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_BLUE.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_cure_critical, ch.level, ch, ch, obj);
                     break;
                 case 1:
-                    act("{rThe tattoo on your shoulder glows red.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_RED.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_faerie_fire, ch.level, ch, ch.fighting, obj);
                     break;
             }
@@ -882,11 +883,11 @@ class ObjProg {
         if (get_eq_char(ch, WEAR_TATTOO) == obj) {
             switch (number_bits(6)) {
                 case 0:
-                    act("{cThe tattoo on your shoulder glows blue.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_BLUE.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_cure_serious, ch.level, ch, ch, obj);
                     break;
                 case 1:
-                    act("{rThe tattoo on your shoulder glows red.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_RED.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(Skill.gsn_colour_spray, ch.level, ch, ch.fighting, obj);
                     break;
             }
@@ -948,7 +949,7 @@ class ObjProg {
                         ch.hit += ch.level * 2;
                         ch.hit = UMIN(ch.hit, ch.max_hit);
 
-                        send_to_char("Your pulse races as you are consumned by rage!\n",
+                        send_to_char(PlayerMessage.CONSUMNED_BY_RAGE.getMessage(),
                                 ch);
                         act("$n gets a wild look in $s eyes.", ch, null, null, TO_ROOM);
 
@@ -981,17 +982,17 @@ class ObjProg {
         if (get_eq_char(ch, WEAR_TATTOO) == obj) {
             switch (number_bits(5)) {
                 case 0:
-                    act("{rThe tattoo on your shoulder glows red.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_RED.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_plague, ch.level, ch, ch.fighting, obj);
                     break;
                 case 1:
-                    act("{rThe tattoo on your shoulder glows red.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_RED.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_poison, ch.level, ch, ch.fighting, obj);
                 case 2:
-                    act("{rThe tattoo on your shoulder glows red.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_RED.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_weaken, ch.level, ch, ch.fighting, obj);
                 case 3:
-                    act("{rThe tattoo on your shoulder glows red.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_RED.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_slow, ch.level, ch, ch.fighting, obj);
                     break;
             }
@@ -1005,11 +1006,11 @@ class ObjProg {
             switch (number_bits(6)) {
                 case 0:
                 case 1:
-                    act("{cThe tattoo on your shoulder glows blue.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_BLUE.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_cure_serious, ch.level, ch, ch, obj);
                     break;
                 case 2:
-                    act("{rThe tattoo on your shoulder glows red.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_RED.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     sn = Skill.gsn_web;
                     spell_web(sn, ch.level, ch, ch.fighting);
                     break;
@@ -1027,14 +1028,14 @@ class ObjProg {
                     if ((sn = Skill.gsn_heal) == null) {
                         break;
                     }
-                    act("{cThe tattoo on your shoulder glows blue.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_BLUE.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(sn, ch.level, ch, ch, obj);
                     break;
                 case 2:
                     if ((sn = Skill.gsn_mass_healing) == null) {
                         break;
                     }
-                    act("{cThe tattoo on your shoulder glows blue.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_BLUE.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(sn, ch.level, ch, ch, obj);
                     break;
             }
@@ -1106,7 +1107,7 @@ class ObjProg {
         if (get_eq_char(ch, WEAR_TATTOO) == obj) {
             switch (number_bits(5)) {
                 case 0:
-                    act("{cThe tattoo on your shoulder glows blue.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_BLUE.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_cure_critical, ch.level, ch, ch, obj);
                     break;
                 case 1:
@@ -1299,7 +1300,7 @@ class ObjProg {
                 act("$n is DEAD!!", victim, null, null, TO_ROOM);
                 act("$n is DEAD!!", victim, null, null, TO_CHAR);
                 raw_kill_org(victim, 3);
-                send_to_char("You have been KILLED!!\n", victim);
+                send_to_char(PlayerMessage.YOU_HAVE_BEEN_KILLED.getMessage(), victim);
             }
         }
     }
