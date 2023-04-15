@@ -289,7 +289,7 @@ class Comm {
                 Iterator<SelectionKey> it;
                 int nKeys = selector.selectNow();
                 if (nKeys > 0) {
-                    System.out.println("Selector returned " + nKeys + " ready for IO operations");
+                    // System.out.println("Selector returned " + nKeys + " ready for IO operations");
                     readyKeys = selector.selectedKeys();
 
                     // accept new connections
