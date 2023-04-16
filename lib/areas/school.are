@@ -112,7 +112,7 @@ stand stand none 25
 0 0 medium 0
 #3707
 adept cleric~
-the adept of ~
+the adept of Satin~
 An adept of the mighty goddess Satin is here, contemplating your progress.
 ~
 He is big and bad.  Don't mess with him.
@@ -816,7 +816,7 @@ S
 A Room in Mud School~
 You are in a square white room.  The walls are all blank, with no windows.
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
-sign on the wall.  The only exit is east.
+{Ysign{w on the wall.  The only exit is east.
 ~
 0 CDR 0
 D1
@@ -833,7 +833,7 @@ S
 A Room in Mud School~
 You are in a square white room.  The walls are all blank, with no windows.
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
-sign on the wall.  The only exit is north.
+{Ysign{w on the wall.  The only exit is north.
 ~
 0 CDR 0
 D0
@@ -850,7 +850,7 @@ S
 A Room in Mud School~
 You are in a square white room.  The walls are all blank, with no windows.
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
-sign on the wall.  The only exit is up.
+{Ysign{w on the wall.  The only exit is up.
 ~
 0 CDR 0
 D4
@@ -867,7 +867,7 @@ S
 A Room in Mud School~
 You are in a square white room.  The walls are all blank, with no windows.
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
-sign on the wall.  The only exit is down.
+{Ysign{w on the wall.  The only exit is down.
 ~
 0 CDR 0
 D5
@@ -884,7 +884,7 @@ S
 A Room in Mud School~
 You are in a square white room.  The walls are all blank, with no windows.
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
-sign on the wall.  Exits reach west and down.
+{Ysign{w on the wall.  Exits reach west and down.
 ~
 0 CDR 0
 D3
@@ -920,7 +920,7 @@ S
 #3710
 The Blob Cage~
 You are in a smelly cage.  Strangely, the walls are still clean!
-You see a sign here.  The only exit is up.
+You see a {Ysign{w here.  The only exit is up.
 ~
 0 DR 0
 D4
@@ -938,7 +938,7 @@ S
 A Room in Mud School~
 You are in a square white room.  The walls are all blank, with no windows.
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
-sign on the wall.
+{Ysign{w on the wall.
 ~
 0 CDR 0
 D1
@@ -961,7 +961,7 @@ S
 #3712
 The Cage Room~
 You are in the cage room.  All around are 4 cages.  Light fluoresces off the
-ceiling in soft white tones.  Of course, there is a big sign on the wall.
+ceiling in soft white tones.  Of course, there is a big {Ysign{w on the wall.
 Exits lead into the cardinal directions plus down.
 ~
 0 CDR 0
@@ -1012,7 +1012,7 @@ S
 #3713
 A Cage~
 You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
-in the upkeep here!  There is a sign on the wall.  The only exit is south.
+in the upkeep here!  There is a {Ysign{w on the wall.  The only exit is south.
 ~
 0 DR 0
 D2
@@ -1029,7 +1029,7 @@ S
 #3714
 A Cage~
 You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
-in the upkeep here!  There is a sign on the wall.  The only exit is east.
+in the upkeep here!  There is a {Ysign{w on the wall.  The only exit is east.
 ~
 0 DR 0
 D1
@@ -1046,7 +1046,7 @@ S
 #3715
 A Cage~
 You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
-in the upkeep here!  There is a sign on the wall.  The only exit is north.
+in the upkeep here!  There is a {Ysign{w on the wall.  The only exit is north.
 ~
 0 DR 0
 D0
@@ -1063,7 +1063,7 @@ S
 #3716
 A Cage~
 You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
-in the upkeep here!  There is a sign on the wall.  The only exit is west.
+in the upkeep here!  There is a {Ysign{w on the wall.  The only exit is west.
 ~
 0 DR 0
 D3
@@ -1081,7 +1081,7 @@ S
 A Room in Mud School~
 You are in a square white room.  The walls are all blank, with no windows.
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
-sign on the wall.  Find your own exit here.
+{Ysign{w on the wall.  Find your own exit here.
 ~
 0 CDR 0
 D1
@@ -1116,7 +1116,7 @@ S
 The Store in Mud School~
 You are in a cramped room.  Stacked neatly on shelves everywhere are items
 and packages.  Light fluoresces off the ceiling in soft white tones.  Of
-course, there is a sign on the wall.  The only exit is north.
+course, there is a {Ysign{w on the wall.  The only exit is north.
 ~
 0 DR 0
 D0
@@ -1139,7 +1139,7 @@ S
 A Room in Mud School~
 You are in a square white room.  The walls are all blank, with no windows.
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
-sign on the wall.  The exits are north and west, with a door to the east.
+{Ysign{w on the wall.  The exits are north and west, with a door to the east.
 ~
 0 CDR 0
 D0
@@ -1184,7 +1184,7 @@ S
 The End of Mud School!~
 This is a very bright room, with a marble pedestal in the center.  Behind
 the pedestal stands a person cloaked in Silver.  Tapestries flow from every
-wall, and you feel very happy to be here right now.  There is a big sign here.
+wall, and you feel very happy to be here right now.  There is a big {Ysign{w here.
 The only exit is on the other side of the gate north of you.
 ~
 0 DR 0
@@ -1522,7 +1522,7 @@ S
 Center of Arena~
 You are in the Arena.  Remember, if you wish to get out of this Arena, just
 go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
-being watched by some divine being.  There is a BIG SIGN here.
+being watched by some divine being.  There is a {YBIG SIGN{w here.
 ~
 0 D 0
 D0
@@ -2061,7 +2061,7 @@ A Room in Mud School~
 You are in a room in Mud School.  Paintings of the heroic graduates of mud
 school adorn the walls. To the west is Furey's Training Room, and to the east
 is Zump's Guild Room.  North of you is the next Station of Mud School.
-There is a sign on the wall (type '[1;32mLOOK SIGN[0;37m' to read it).
+There is a {Ysign{w on the wall (type '[1;32mLOOK SIGN[0;37m' to read it).
 ~
 0 CDR 1
 D0
@@ -2099,7 +2099,7 @@ S
 Furey's Training Room~
 You are in Furey's Training Room.  Around you are all sorts of physical
 and mental training tools.  The whole room is filled with magic, holiness, 
-and sweat.  There is a sign on the wall.
+and sweat.  There is a {Ysign{w on the wall.
 ~
 0 CDR 1
 D1
@@ -2120,7 +2120,7 @@ S
 Zump's Guild Room~
 You are in a room filled with weapons, books, and many combat dummies, some
 cut and stabbed many times, others burnt to a crisp.  The room is filled with
-sweat and an aura of magic.  There is a sign on the wall.
+sweat and an aura of magic.  There is a {Ysign{w on the wall.
 ~
 0 CDR 1
 D3
