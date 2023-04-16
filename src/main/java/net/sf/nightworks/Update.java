@@ -289,7 +289,7 @@ public class Update {
                 (ch.played + (int) (current_time - ch.logon)) / 3600;
 
         if (ch.pcdata.title.contains(ch.clazz.getTitle(ch.level - 1, ch.sex)) || CANT_CHANGE_TITLE(ch)) {
-            set_title(ch, "the" + ch.clazz.getTitle(ch.level, ch.sex));
+            set_title(ch, ch.clazz.getTitle(ch.level, ch.sex));
         }
 
         add_hp = (con_app[get_curr_stat(ch, STAT_CON)].hitp + number_range(1, 5)) - 3;
