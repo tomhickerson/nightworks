@@ -1652,7 +1652,7 @@ class Comm {
                 ch.practice += 5;
                 ch.pcdata.death = 0;
 
-                set_title(ch, "the " + ch.clazz.getTitle(ch.level, ch.sex));
+                set_title(ch, ch.clazz.getTitle(ch.level, ch.sex));
 
                 obj_to_char(create_object(get_obj_index(OBJ_VNUM_MAP), 0), ch);
                 obj_to_char(create_object(get_obj_index(OBJ_VNUM_NMAP1), 0), ch);

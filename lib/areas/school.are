@@ -700,7 +700,7 @@ S
 A Room in Mud School~
 You are in a square white room.  The walls are all blank, with no windows.
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
-sign on the wall.  The exits are west and south.  A small plaque is on the
+{Ysign{w on the wall.  The exits are west and south.  A {Ysmall plaque{w is on the
 wall.
 ~
 0 CDR 0
@@ -740,7 +740,7 @@ S
 The Center Room~
 You are in a square white room.  The walls are all blank, with no windows.
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
-sign on the wall.  Exits lead in ALL directions.
+{Ysign{w on the wall.  Exits lead in ALL directions.
 ~
 0 CDR 0
 D0
@@ -792,7 +792,7 @@ S
 A Room in Mud School~
 You are in a square white room.  The walls are all blank, with no windows.
 Light fluoresces off the ceiling in soft white tones.  Of course, there is a
-sign on the wall.  Exits lead north and south.
+{Ysign{w on the wall.  Exits lead north and south.
 ~
 0 CDR 0
 D0
