@@ -2964,7 +2964,7 @@ S
 East Main Street~
 You are on East Main Street.  To the North is the beginning of
 Guildsman's Row.  To the South is a dark alley.  The road also
-continues to the East. There is a small sign on a wire hanging
+continues to the East. There is a small {Ysign{w on a wire hanging
 across the junction.
 ~
 0 0 1
@@ -3261,7 +3261,7 @@ East Ishtar Drive~
 The sound of squawking gulls and the smell of rotting fish gives you a hint
 of your location. The Ishtar River flows south of you, but looks crystal
 clear, so it cannot be the source of this putrid smell. Looking north you
-notice a small sign hanging over the dump.
+notice a small {Ysign{w hanging over the dump.
 ~
 0 0 1
 D0
@@ -4542,7 +4542,7 @@ S
 #9614
 Ahkeem's Stuff~
 You step into a shop swirling with smoke.  Ahkeem seems to have a liking for
-things not of this world...very strange stuff indeed.  There is a large sign on
+things not of this world...very strange stuff indeed.  There is a large {Ysign{w on
 the wall.
 ~
 0 DEFG 0
@@ -4691,7 +4691,7 @@ This shop has the aroma of freshly slaughterd beasts.  You feel right at home.
 You see a fairly simple set up.  The corpses..er...selections hang on hooks,
 still bleeding into catch pans that drain into a single underground vat.
 You wonder where that leads....  Taped to the counter, almost obscured by
-blood, there is a barely readable sign.
+blood, there is a barely readable {Ysign{w.
 ~
 0 DEFG 0
 D3
@@ -4717,7 +4717,7 @@ The first thing you notice as you walk into this spacious shop is the
 hundreds of candles that line the shelves. The swirling mist that surrounds
 your feet makes it seem that you have stepped into a gateway to another
 plane. A tall brunette stands behind her cluttered table unaware of
-your entrance.  An ornately lettered sign floats above your head.
+your entrance.  An ornately lettered {Ysign{w floats above your head.
 ~
 0 DEFG 0
 D2
@@ -4737,7 +4737,7 @@ S
 Braheem's Magic Shop~
 You enter a shop crowded with bookshelves and clutterd with scrolls. The
 owner seems to be hard at work on his latest magical creation. You see a
-small sign on the wall.
+small {Ysign{w on the wall.
 ~
 0 DEFG 0
 D2
@@ -4968,7 +4968,7 @@ Smuggler's Inn~
 You are inside a filthy inn, that seemingly hasn't  been cleaned in decades.
 Poker tables line the walls and everyone stares at you as you walk in.
 You don't feel very welcome. The bar has numerous knife holes in it
-and the bartender leans over waiting for your order.  A large sign, pinned
+and the bartender leans over waiting for your order.  A large {Ysign{w, pinned
 to the wall by a knife, awaits your inspection.
 ~
 0 D 0
@@ -5656,7 +5656,7 @@ You have entered the Sultan's private gardens. A light sweat breaks out
 on your skin from the humidity here. All around you are thousands of
 exotic plants and flowers. The sweet smell of jasmine and honeysuckle
 reminds you of happier days at home. Off to the north, through the palm
-trees, you see a delicate white gazebo. To your right stands a gold sign.
+trees, you see a delicate white gazebo. To your right stands a gold {Ysign{w.
 A path leads out into the hallway and west towards the gazebo.
 ~
 0 0 2

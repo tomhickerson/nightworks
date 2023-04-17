@@ -559,7 +559,7 @@ class ActInfo {
         if (!IS_NPC(ch) && IS_NPC(victim)
                 && ch.pcdata.questmob > 0
                 && victim.pIndexData.vnum == ch.pcdata.questmob) {
-            buf.append("[TARGET] ");
+            buf.append("[{RTARGET{w] ");
         }
 /*
     sprintf(message,"(%s) ",race_table[RACE(victim)].name);
@@ -592,7 +592,7 @@ class ActInfo {
         }
         if (IS_AFFECTED(victim, AFF_CHARM)
                 && victim.master == ch) {
-            buf.append("(Charmed) ");
+            buf.append("({BCharmed{w) ");
         }
         if (IS_AFFECTED(victim, AFF_PASS_DOOR)) {
             buf.append("(Translucent) ");
@@ -601,19 +601,19 @@ class ActInfo {
             buf.append("(Pink Aura) ");
         }
         if (IS_NPC(victim) && IS_SET(victim.act, ACT_UNDEAD) && IS_AFFECTED(ch, AFF_DETECT_UNDEAD)) {
-            buf.append("(Undead) ");
+            buf.append("({GUndead{w) ");
         }
         if (IS_EVIL(victim) && IS_AFFECTED(ch, AFF_DETECT_EVIL)) {
-            buf.append("(Red Aura) ");
+            buf.append("({rRed Aura{w) ");
         }
         if (IS_GOOD(victim) && IS_AFFECTED(ch, AFF_DETECT_GOOD)) {
-            buf.append("(Golden Aura) ");
+            buf.append("({yGolden Aura{w) ");
         }
         if (IS_AFFECTED(victim, AFF_SANCTUARY)) {
-            buf.append("(White Aura) ");
+            buf.append("({WWhite Aura{w) ");
         }
         if (!IS_NPC(victim) && IS_SET(victim.act, PLR_WANTED)) {
-            buf.append("(CRIMINAL) ");
+            buf.append("({RCRIMINAL{w) ");
         }
 
         if (victim.position == victim.start_pos && victim.long_descr.length() != 0) {
