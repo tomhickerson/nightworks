@@ -4025,7 +4025,7 @@ S
 #3003
 Cleric's Bar~
 The bar is one of the finest in the land, lucky it is members only.  Fine
-furniture is set all around the room.  A small sign is hanging on the wall.
+furniture is set all around the room.  A small {Ysign{w is hanging on the wall.
 ~
 0 CDSX 0
 D2
@@ -4129,7 +4129,7 @@ You are standing in the bar.  The bar is set against the northern wall, old
 archaic writing, carvings and symbols cover its top.  A fireplace is built into
 the western wall, and through the southeastern windows you can see the temple
 square.  This place makes you feel like home.
-A small sign with big letters is fastened to the bar.
+A small {Ysign{w with big letters is fastened to the bar.
 ~
 0 D 0
 D2
@@ -4174,7 +4174,7 @@ The Bakery~
 You are standing inside the small bakery.  A sweet scent of Danish and
 fine bread fills the room.  The bread and Danish are arranged in fine order
 on the shelves, and seem to be of the finest quality.
-A small sign is on the counter.
+A small {Ysign{w is on the counter.
 ~
 0 S 0
 D2
@@ -4702,7 +4702,7 @@ S
 #3031
 The Pet Shop~
 The Pet Shop is a small crowded store, full of cages and animals of
-various sorts and sizes.  There is a sign on the wall.
+various sorts and sizes.  There is a {Ysign{w on the wall.
 ~
 0 DM 0
 D2
@@ -4765,7 +4765,7 @@ The Jeweller's Shop~
 You are in a small, beautifully furnished room.  The warm light emanating
 from the small oil lamps on the walls is reflected in the hard, polished
 surface of the big mahogany desk that stands in the centre of the room.
-A small sign with golden letters stands on the desk.
+A small {Ysign{w with golden letters stands on the desk.
 ~
 0 D 0
 D0
@@ -4798,7 +4798,7 @@ An acrid smell fills this large room.  Along the walls are numerous
 shelves containing all sorts of animal hide and in the crackling fireplace
 hangs a big iron pot with boiling water.  In the middle of the room is a
 large oak table.
-A wooden sign is hanging above the fireplace.
+A wooden {Ysign{w is hanging above the fireplace.
 ~
 0 D 0
 D2
@@ -5938,7 +5938,7 @@ S
 #3111
 Park Road~
 The road continues north and south.  A building is just west of here, you
-notice a sign on the door.  The park entrance is to the east.
+notice a {Ysign{w on the door.  The park entrance is to the east.
 ~
 0 0 1
 D0
@@ -6126,7 +6126,7 @@ You are in the middle of the road cross.  Roads lead in all directions.
 A huge black iron chain as thick as a tree trunk is fastened into the ground
 at the centre of the road cross.  Its other end leads directly upwards towards
 the sky.
-A road sign is here.
+A road {Ysign{w is here.
 ~
 0 0 1
 D0
@@ -6220,7 +6220,7 @@ S
 #3124
 Elm Street~
 You near the end of Elm Street.  An old elm tree grows here.  A heavy
-iron grating is south, surrounding the city's graveyard.  You can see a sign
+iron grating is south, surrounding the city's graveyard.  You can see a {Ysign{w
 hanging on the grate.  The concourse joins Elm Street to the east, and the
 street ends to the north near a run-down neighborhood.
 ~
@@ -6259,7 +6259,7 @@ The sign says :-
 ~
 E
 grate grating~
-Looks heavy.  A small sign is hanging on it.
+Looks heavy.  A small {Ysign{w is hanging on it.
 ~
 S
 #3125
@@ -7432,7 +7432,7 @@ absence of any windows.  The room is surprisingly well appointed with
 tapestries hanging on the walls.  You'd wager your life the moneylender's
 guards are behind them, as there are none here.  The moneylender himself
 works from behind a large desk, no doubt holding a fortune in gold and silver.
-A smallish sign hangs on the wall, lettered in common.
+A smallish {Ysign{w hangs on the wall, lettered in common.
 ~
 0 D 0
 D0
@@ -7541,7 +7541,7 @@ of the lower shelves.  A large cask rests on a table behind the bar.  A
 strong but friendly-looking bartender stands next to the cask polishing
 glasses.  A couple of the bar maids stand in a corner and throw the most
 inviting glances your way.
-A sign is on the wall.
+A {Ysign{w is on the wall.
 ~
 0 D 0
 D0
@@ -7551,7 +7551,7 @@ The pub proper is to the north.
 0 -1 3355
 E
 sign~
-The sign says: Don't forget our dinner menu.
+The {Ysign{w says: Don't forget our dinner menu.
 ~
 S
 #3358
