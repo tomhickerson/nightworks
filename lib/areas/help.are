@@ -2555,7 +2555,7 @@ taking the direct approach, even when another method might be called for.
 ~
 
 -1 SAMURAI SAMURAIS~
-	More powerful honour warriors. But after level 10 they cannot flee 
+	More powerful honorable warriors. But after level 10 they cannot flee 
 because their honor doesn't let them. But under some circumtances, they may
 dishonor themselves.
 ~
@@ -2571,8 +2571,9 @@ To change form to a vampire,	type: vampire
 To change form back to human	type: human
 
 ~
--1 NECROMENCER NECROMENCERS~
- Powerful mage.But powerful in necromentic spells. 
+-1 NECROMENCER NECROMENCERS NECROMANCER NECROMANCERS~
+ Powerful mage dealing with death and the undead. But powerful in 
+ necromantic spells. 
 
 ~
  -1 
