@@ -51,9 +51,20 @@
            \/                                                  \/
 
 ~
+-1 SPELLBOUND~
+.
+    Spellbound is a fork of Nightworks 1.0, which is to be released 
+sometime in October 2023.  This version 1.1 only contains bug fixes 
+and minor improvements to the Nightworks Java code base.
+	Additionally, many of the areas have been edited and several 
+new areas/races/classes have been added.
+
+Main contributor to Spellbound --
+	Tom Hickerson
+~
 -1 NIGHTWORKS~
 .
-      NIGHTWORKS is a complete port of Anatolia 3.1 code to Java.
+    NIGHTWORKS is a complete port of Anatolia 3.1 code to Java.
 The initial version of Nightworks (Nightworks 1.0) released in July 2006 
 contains only only minor improvements to Anatolia code.
 
@@ -259,7 +270,7 @@ Thanks to Ezra for drawing the originals of several maps on ROM.
                  .  .    . *.   . .                                    
     .                   :.  .           .                              
                  .   .    .    .                                       
-             .  .  .    .  {WFAR FETCHED WORLD, built on
+             .  .  .    .  {WSPELLBOUND, built on
 			:	.		*	 Nightworks MUD server 1.0{w
                              by Mike Fursov (mike.fursov@gmail.com) 2006.
             .  .. :.    .  Based on:                                 
@@ -272,6 +283,90 @@ Thanks to Ezra for drawing the originals of several maps on ROM.
    .  *.          .          
  . .    .               .             *.                 .       *     
                                                                        {x
+                                                                       
+By which name do you wish to be known? ~ 
+
+-1 GREETING2~
+{w
+  _________             .__  .__ ___.                            .___    
+ /   _____/_____   ____ |  | |  |\_ |__   ____  __ __  ____    __| _/ /\ 
+ \_____  \\____ \_/ __ \|  | |  | | __ \ /  _ \|  |  \/    \  / __ |  \/ 
+ /        \  |_> >  ___/|  |_|  |_| \_\ (  <_> )  |  /   |  \/ /_/ |  /\ 
+/_______  /   __/ \___  >____/____/___  /\____/|____/|___|  /\____ |  \/ 
+        \/|__|        \/              \/                  \/      \/     
+  ________       .__                                                     
+ /  _____/  ____ |  |   ____   _____   ______                            
+/   \  ___ /  _ \|  | _/ __ \ /     \ /  ___/                            
+\    \_\  (  <_> )  |_\  ___/|  Y Y  \\___ \                             
+ \______  /\____/|____/\___  >__|_|  /____  > /\                         
+        \/                 \/      \/     \/  )/                         
+  ________                                                               
+ /  _____/  ____ _____ _______  ______                                   
+/   \  ____/ __ \\__  \\_  __ \/  ___/                                   
+\    \_\  \  ___/ / __ \|  | \/\___ \                                    
+ \______  /\___  >____  /__|  /____  > /\                                
+        \/     \/     \/           \/  )/                                
+  ________                                  .__                          
+ /  _____/_____ _______  ____   ____ ___.__.|  |   ____   ______         
+/   \  ___\__  \\_  __ \/ ___\ /  _ <   |  ||  | _/ __ \ /  ___/         
+\    \_\  \/ __ \|  | \/ /_/  >  <_> )___  ||  |_\  ___/ \___ \          
+ \______  (____  /__|  \___  / \____// ____||____/\___  >____  >         
+        \/     \/     /_____/        \/               \/     \/   
+
+ 
+{WSPELLBOUND, built on
+	Nightworks MUD server 1.0{w
+    by Mike Fursov, 2006.
+Based on:                                 
+    {RANATOLIA{w 3.1 by 1997-1999 Serdar BULUT, Ibrahim 
+    CANPUNAR, Murat BICER, Devrim Baris ACAR
+    {gROM{w  2.4 copyright (c) 1993-1995 Russ Taylor
+    {yMERC{w 2.1 code by Hatchet, Furey and Kahn
+    {mDikuMUD{w by Hans Staerfeldt, Katja Nyboe,
+    Tom Madsen, Michael Seifert and Sebastian Hammer
+{x
+                                                                       
+By which name do you wish to be known? ~ 
+
+-1 GREETING3~
+{w
+     _____                                                                                
+  __|___  |__  _____  ______  ____    ____    ______  _____  __   _  ____   _  _____   _  
+ |   ___|    ||     ||   ___||    |  |    |  |      >/     \|  | | ||    \ | ||     \ |_| 
+  `-.`-.     ||    _||   ___||    |_ |    |_ |     < |     ||  |_| ||     \| ||      \ _  
+ |______|  __||___|  |______||______||______||______>\_____/|______||__/\____||______/|_| 
+    |_____|                                                                               
+     _____                                                                                
+  __|___  |__  _____  ____    ______  ____    __  ______                                  
+ |   ___|    |/     \|    |  |   ___||    \  /  ||   ___|                                 
+ |   |  |    ||     ||    |_ |   ___||     \/   | `-.`-.  __                              
+ |______|  __|\_____/|______||______||__/\__/|__||______|/_/                              
+    |_____|                                                                               
+     _____                                                                                
+  __|___  |__  ______  ____    _____   ______                                             
+ |   ___|    ||   ___||    \  |     | |   ___|                                            
+ |   |  |    ||   ___||     \ |     \  `-.`-.  __                                         
+ |______|  __||______||__|\__\|__|\__\|______|/_/                                         
+    |_____|                                                                               
+     _____                                                                                
+  __|___  |__  ____    _____   ______  _____ __    _ ____    ______  ______               
+ |   ___|    ||    \  |     | |   ___|/     \\ \  //|    |  |   ___||   ___|              
+ |   |  |    ||     \ |     \ |   |  ||     | \ \// |    |_ |   ___| `-.`-.               
+ |______|  __||__|\__\|__|\__\|______|\_____/ /__/  |______||______||______|              
+    |_____|                                                                               
+                                                                                          
+ 
+{WSPELLBOUND, built on
+	Nightworks MUD server 1.0{w
+    by Mike Fursov, 2006.
+Based on:                                 
+    {RANATOLIA{w 3.1 by 1997-1999 Serdar BULUT, Ibrahim 
+    CANPUNAR, Murat BICER, Devrim Baris ACAR
+    {gROM{w  2.4 copyright (c) 1993-1995 Russ Taylor
+    {yMERC{w 2.1 code by Hatchet, Furey and Kahn
+    {mDikuMUD{w by Hans Staerfeldt, Katja Nyboe,
+    Tom Madsen, Michael Seifert and Sebastian Hammer
+{x
                                                                        
 By which name do you wish to be known? ~ 
 
