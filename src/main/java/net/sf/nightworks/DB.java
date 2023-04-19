@@ -282,6 +282,8 @@ class DB {
         private static CHAR_DATA    char_list;
     */
     static String help_greeting;
+    static String help_greeting2;
+    static String help_greeting3;
 /*
     private static AUCTION_DATA     auction;
     private static ROOM_INDEX_DATA  top_affected_room;
@@ -921,6 +923,12 @@ class DB {
             }
             if (!str_cmp(pHelp.keyword, "greeting")) {
                 help_greeting = pHelp.text;
+            }
+            if (!str_cmp(pHelp.keyword, "greeting2")) {
+                help_greeting2 = pHelp.text;
+            }
+            if (!str_cmp(pHelp.keyword, "greeting3")) {
+                help_greeting3 = pHelp.text;
             }
             if (help_first == null) {
                 help_first = pHelp;
