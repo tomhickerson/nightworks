@@ -31,17 +31,7 @@ import static net.sf.nightworks.ActWiz.do_outfit;
 import static net.sf.nightworks.ActWiz.wiznet;
 import static net.sf.nightworks.Ban.check_ban;
 import static net.sf.nightworks.Const.hometown_table;
-import static net.sf.nightworks.DB.boot_db;
-import static net.sf.nightworks.DB.bug;
-import static net.sf.nightworks.DB.create_object;
-import static net.sf.nightworks.DB.get_obj_index;
-import static net.sf.nightworks.DB.get_room_index;
-import static net.sf.nightworks.DB.help_greeting;
-import static net.sf.nightworks.DB.log_string;
-import static net.sf.nightworks.DB.mob_index_hash;
-import static net.sf.nightworks.DB.number_range;
-import static net.sf.nightworks.DB.time_info;
-import static net.sf.nightworks.DB.upfirst;
+import static net.sf.nightworks.DB.*;
 import static net.sf.nightworks.Handler.can_see;
 import static net.sf.nightworks.Handler.can_see_obj;
 import static net.sf.nightworks.Handler.can_see_room;
@@ -274,7 +264,15 @@ class Comm {
 
 
     static void send_help_greeting(DESCRIPTOR_DATA d) {
-        write_to_buffer(d, help_greeting);
+        // pick one of three
+        int pick = number_range(1, 3);
+        if (pick == 1) {
+            write_to_buffer(d, help_greeting);
+        } else if (pick == 2) {
+            write_to_buffer(d, help_greeting2);
+        } else {
+            write_to_buffer(d, help_greeting3);
+        }
     }
 
 
