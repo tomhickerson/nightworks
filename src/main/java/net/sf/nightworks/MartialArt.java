@@ -340,7 +340,7 @@ act( "$C$N wields his second weapon as first!{x",  ch, null, victim,
             ch.hit += ch.level * 2;
             ch.hit = UMIN(ch.hit, ch.max_hit);
 
-            send_to_char("Your pulse races as you are consumned by rage!\n", ch);
+            send_to_char("Your pulse races as you are consumed by rage!\n", ch);
             act("{r$n gets a wild look in $s eyes.{x", ch, null, null, TO_ROOM, POS_FIGHTING);
             check_improve(ch, gsn_berserk, true, 2);
             AFFECT_DATA af = new AFFECT_DATA();
