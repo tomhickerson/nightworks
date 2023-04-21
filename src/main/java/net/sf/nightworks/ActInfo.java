@@ -546,6 +546,7 @@ class ActInfo {
             }
             send_to_char("Nothing.\n", ch);
         }
+        // trying to highlight items in areas here
         page_to_char(output.toString(), ch);
 
     }
@@ -553,13 +554,15 @@ class ActInfo {
 
     static void show_char_to_char_0(CHAR_DATA victim, CHAR_DATA ch) {
         StringBuilder buf = new StringBuilder();
+        buf.append("{c");
+        // making all mobs cyan?
         /*
         * Quest staff
         */
         if (!IS_NPC(ch) && IS_NPC(victim)
                 && ch.pcdata.questmob > 0
                 && victim.pIndexData.vnum == ch.pcdata.questmob) {
-            buf.append("[{RTARGET{w] ");
+            buf.append("[{RTARGET{c] ");
         }
 /*
     sprintf(message,"(%s) ",race_table[RACE(victim)].name);
@@ -592,7 +595,7 @@ class ActInfo {
         }
         if (IS_AFFECTED(victim, AFF_CHARM)
                 && victim.master == ch) {
-            buf.append("({BCharmed{w) ");
+            buf.append("({BCharmed{c) ");
         }
         if (IS_AFFECTED(victim, AFF_PASS_DOOR)) {
             buf.append("(Translucent) ");
@@ -601,23 +604,26 @@ class ActInfo {
             buf.append("(Pink Aura) ");
         }
         if (IS_NPC(victim) && IS_SET(victim.act, ACT_UNDEAD) && IS_AFFECTED(ch, AFF_DETECT_UNDEAD)) {
-            buf.append("({GUndead{w) ");
+            buf.append("({GUndead{c) ");
         }
         if (IS_EVIL(victim) && IS_AFFECTED(ch, AFF_DETECT_EVIL)) {
-            buf.append("({rRed Aura{w) ");
+            buf.append("({rRed Aura{c) ");
         }
         if (IS_GOOD(victim) && IS_AFFECTED(ch, AFF_DETECT_GOOD)) {
-            buf.append("({yGolden Aura{w) ");
+            buf.append("({yGolden Aura{c) ");
         }
         if (IS_AFFECTED(victim, AFF_SANCTUARY)) {
-            buf.append("({WWhite Aura{w) ");
+            buf.append("({WWhite Aura{c) ");
         }
         if (!IS_NPC(victim) && IS_SET(victim.act, PLR_WANTED)) {
-            buf.append("({RCRIMINAL{w) ");
+            buf.append("({RCRIMINAL{c) ");
         }
+
+
 
         if (victim.position == victim.start_pos && victim.long_descr.length() != 0) {
             buf.append(victim.long_descr);
+            buf.append("{w");
             send_to_char(buf, ch);
             return;
         }
@@ -631,12 +637,14 @@ class ActInfo {
         if (is_affected(victim, gsn_doppelganger) &&
                 victim.doppel.long_descr.length() != 0) {
             buf.append(victim.doppel.long_descr);
+            buf.append("{w");
             send_to_char(buf, ch);
             return;
         }
 
         if (victim.long_descr.length() != 0 && !is_affected(victim, gsn_doppelganger)) {
             buf.append(victim.long_descr);
+            buf.append("{w");
             send_to_char(buf, ch);
             return;
         }
@@ -645,12 +653,14 @@ class ActInfo {
             buf.append(PERS(victim.doppel, ch));
             if (!IS_NPC(victim.doppel) && !IS_SET(ch.comm, COMM_BRIEF)) {
                 buf.append(victim.doppel.pcdata.title);
+                buf.append("{w");
             }
         } else {
             buf.append(PERS(victim, ch));
             if (!IS_NPC(victim) && !IS_SET(ch.comm, COMM_BRIEF)
                     && victim.position == POS_STANDING && ch.on == null) {
                 buf.append(victim.pcdata.title);
+                buf.append("{w");
             }
         }
 
@@ -749,7 +759,7 @@ class ActInfo {
                     buf.append(PERS(victim.fighting, ch));
                     buf.append(".");
                 } else {
-                    buf.append("somone who left??");
+                    buf.append("someone who left?");
                 }
                 break;
         }
