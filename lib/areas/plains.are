@@ -635,7 +635,7 @@ T-intersection in the southern direction.
 ~
 0 0 2
 D0
-You notice a sign saying : Stranger we welcome you to the
+You notice a {Ysign{w saying : Stranger we welcome you to the
                            peaceful city of Ofcol.
 ~
 ~
@@ -650,7 +650,7 @@ S
 Gallow hill~
 You walk in the grassy plains. On this little hill you can see
 two gallows, with rotting human tissue hanging from the ropes.
-There is a sign here.
+There is a {Ysign{w here.
 ~
 0 0 4
 D0
