@@ -809,7 +809,7 @@ public class Update {
                     continue;
                 } else {
                     if (number_percent() < 30) {
-                        send_to_char("You cannot breath!", ch);
+                        send_to_char("{BYou cannot breathe!{w", ch);
                     }
                 }
             }
@@ -1616,11 +1616,11 @@ public class Update {
                             (obj.item_type == ITEM_CORPSE_PC) ||
                             (obj.item_type == ITEM_CONTAINER)) &&
                             fChar) {
-                        act("$p sinks down the water releasing some bubbles behind.", ch, obj, null, TO_CHAR);
-                        act("$p sinks down the water releasing some bubbles behind.", ch, obj, null, TO_ROOM);
+                        act("$p sinks down into the water releasing some bubbles behind.", ch, obj, null, TO_CHAR);
+                        act("$p sinks down into the water releasing some bubbles behind.", ch, obj, null, TO_ROOM);
                     } else if (fChar) {
-                        act("$p sinks down the water.", ch, obj, null, TO_CHAR);
-                        act("$p sinks down the water.", ch, obj, null, TO_ROOM);
+                        act("$p sinks down into the water.", ch, obj, null, TO_CHAR);
+                        act("$p sinks down into the water.", ch, obj, null, TO_ROOM);
                     }
                     extract_obj(obj);
                 }
@@ -2123,7 +2123,7 @@ public class Update {
             if (dam_light == 1) {
                 send_to_char("The light in the room disturbs you.\n", ch);
             } else {
-                send_to_char("Sun light disturbs you.\n", ch);
+                send_to_char("Sunlight disturbs you.\n", ch);
             }
 
             dam_light = (ch.max_hit * 4) / 100;
