@@ -533,7 +533,7 @@ class ObjProg {
                 spell_remove_curse(30, ch, ch, TARGET_CHAR);
                 return;
             }
-            send_to_char("Your weapon's humming gets lauder.\n", ch);
+            send_to_char("Your weapon's humming gets louder.\n", ch);
             return;
         }
         act("You are zapped by $p and drop it.", ch, obj, null, TO_CHAR);
@@ -780,7 +780,7 @@ class ObjProg {
         if (get_eq_char(ch, WEAR_TATTOO) == obj) {
             switch (number_bits(6)) {
                 case 0:
-                    act("{bThe tattoo on your shoulder glows blue.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_BLUE.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_cure_serious, ch.level, ch, ch, obj);
                     break;
                 case 1:
@@ -852,7 +852,7 @@ class ObjProg {
         if (get_eq_char(ch, WEAR_TATTOO) == obj) {
             switch (number_bits(5)) {
                 case 0:
-                    act("{bThe tattoo on your shoulder glows blue.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_BLUE.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     obj_cast_spell(gsn_dragon_strength, ch.level, ch, ch, obj);
                     break;
                 case 1:
@@ -1112,7 +1112,7 @@ class ObjProg {
                     break;
                 case 1:
                 case 2:
-                    act("{cThe tattoo on your shoulder glows red.{x", ch, null, null, TO_CHAR, POS_DEAD);
+                    act(PlayerMessage.TATOO_GLOWS_RED.getMessage(), ch, null, null, TO_CHAR, POS_DEAD);
                     if (IS_EVIL(ch.fighting)) {
                         spell_dispel_evil(gsn_dispel_evil, (int) (1.2 * ch.level), ch, ch.fighting);
                     } else if (IS_GOOD(ch.fighting)) {
@@ -1584,7 +1584,7 @@ class ObjProg {
 
         if (obj.extra_descr.description.contains("cold")) {
             if (!is_affected(ch, gsn_fire_shield)) {
-                send_to_char("As you wear shield, you become resistive to cold.\n", ch);
+                send_to_char("As you hold the shield, you become resistive to cold.\n", ch);
 
                 AFFECT_DATA af = new AFFECT_DATA();
                 af.where = TO_RESIST;
@@ -1598,7 +1598,7 @@ class ObjProg {
             }
         } else {
             if (!is_affected(ch, gsn_fire_shield)) {
-                send_to_char("As you wear shield, you become resistive to fire.\n", ch);
+                send_to_char("As you hold the shield, you become resistive to fire.\n", ch);
                 AFFECT_DATA af = new AFFECT_DATA();
                 af.where = TO_RESIST;
                 af.type = gsn_fire_shield;
@@ -1707,9 +1707,9 @@ class ObjProg {
             fire_effect(ch.fighting, obj.level / 2, dam, TARGET_CHAR);
             damage(ch, ch.fighting, dam, gsn_fire_breath, DAM_FIRE, true);
         } else if (chance < 10) {
-            act("Your shield shines with a bright red aura!", ch, null, ch.fighting, TO_CHAR);
-            act("$n's shield shine with a bright red aura!", ch, null, ch.fighting, TO_VICT);
-            act("$n's shield shines with a bright red aura!", ch, null, ch.fighting, TO_NOTVICT);
+            act("Your shield shines with a {Rbright red{w aura!", ch, null, ch.fighting, TO_CHAR);
+            act("$n's shield shine with a {Rbright red{w aura!", ch, null, ch.fighting, TO_VICT);
+            act("$n's shield shines with a {Rbright red{w aura!", ch, null, ch.fighting, TO_NOTVICT);
             obj_cast_spell(gsn_blindness, ch.level + 5, ch, ch.fighting, obj);
             obj_cast_spell(gsn_slow, ch.level + 5, ch, ch.fighting, obj);
         }
