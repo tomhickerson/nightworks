@@ -153,6 +153,21 @@ class Telnet {
                 color = "\033[38;5;135m";
                 break;
 
+            case 'o':
+                // peach orange
+                color = "\033[38;5;166m";
+                break;
+
+            case 'a':
+                // very light green, change to olive green
+                color = "\033[38;5;106m";
+                break;
+
+            case 'v':
+                // very light blue
+                color = "\033[38;5;39m";
+                break;
+
             default:
                 //todo: warn
                 color = "";
