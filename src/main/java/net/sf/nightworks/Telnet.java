@@ -148,6 +148,11 @@ class Telnet {
                 color = "\007";
                 break;
 
+                // trying some 256 colors here - i for indigo-violet-ish
+            case 'i':
+                color = "\033[38;5;135m";
+                break;
+
             default:
                 //todo: warn
                 color = "";
