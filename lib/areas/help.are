@@ -2474,9 +2474,7 @@ AntiPaladin  A-P      STR	 ANY	300	warrior/mage
 Paladin      Pal      STR	 ANY	400	warrior/cleric     
 Samurai      Sam      STR        ANY    500  	masters of ancient battlearts 
 Vampire      Vam      INT	 ANY	300	simply vampire
-Invoker      Inv      INT        ANY     0      magician
-Transmuter   Tra      INT        ANY     0      magician
-Elementalist Elm      INT        ANY     0      elemental ruler magician
+Warlock      WrK      INT        ANY     0      magician
 Necromancer  Nec      INT	 ANY	200	simply necromancer
 
 ~
@@ -2574,6 +2572,16 @@ To change form back to human	type: human
 -1 NECROMENCER NECROMENCERS NECROMANCER NECROMANCERS~
  Powerful mage dealing with death and the undead. But powerful in 
  necromantic spells. 
+
+~
+-1 WARLOCK WARLOCKS~
+ Wizards able to deal powerful battle magicks in combat.  Often evil but 
+not restricted to that alignment. 
+
+~
+-1 WITCH WITCHES~
+ Covens of magical sisterhoods devoted to dark sorcery and nature.  Often evil
+but can be of any alignment. 
 
 ~
  -1 
