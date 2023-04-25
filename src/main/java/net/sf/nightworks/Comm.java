@@ -1616,7 +1616,7 @@ class Comm {
 
             case CON_READ_MOTD:
                 write_to_buffer(d,
-                        "\nWelcome to Multi User Dungeon of Nightworks. Enjoy!!...\n"
+                        "\nWelcome to Multi User Dungeon of Spellbound. Enjoy!!...\n"
                 );
                 ch.next = char_list;
                 char_list = ch;

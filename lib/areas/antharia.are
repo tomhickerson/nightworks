@@ -854,7 +854,7 @@ humming power radiating from the Gem of Salvation mounted upon the
 Temple.  
     From here you can walk around the temple to the east or west...or
 you can return to the Sea by going south.  There is also a Magical
-sign posted here, put up by the councils of Antharia after the initial
+{Ysign{w posted here, put up by the councils of Antharia after the initial
 contact with Anon.
 ~
 0 0 11
@@ -1077,7 +1077,7 @@ S
 East Intersection -- Main and Center~
 This is the east intersection of the city of Antharia.  The road
 continues to the north and south, and Center Street goes to the west.
-    There is a road sign posted here.
+    There is a road {Ysign{w posted here.
 ~
 0 0 11
 D0
@@ -1133,7 +1133,7 @@ S
 #12326
 Small Intersection~
 Here the main bends to the west, with a less traveled road going to
-the east.  There is a small sign here.
+the east.  There is a small {Ysign{w here.
 ~
 0 0 11
 D1
@@ -1322,7 +1322,7 @@ East Intersection -- Main and Center~
 This is the busy east intersection of Antharia.  From here one and
 go north, south, east or west.  This seems to be a very busy section
 of town.
-     There is a small street sign posted here.
+     There is a small street {Ysign{w posted here.
 ~
 0 0 11
 D0
@@ -1414,7 +1414,7 @@ S
 #12310
 Main Street Before Zaertses'~
 Here the main street of Antharia goes past the shop of Zaertses.
-Just south of here is a building, simple and rustic -- with a sign
+Just south of here is a building, simple and rustic -- with a {Ysign{w
 hanging on it stating: Zaertses House of Relics.
       The street continues east and west.
 ~
@@ -1590,7 +1590,7 @@ across town.
 Weaponsmith.  Instead of the clanging of metal that is usually
 associated with weaponsmiths, there is only the sound of talking
 coming from the building.
-    There is a small street sign here.
+    There is a small street {Ysign{w here.
 ~
 0 0 11
 D0
