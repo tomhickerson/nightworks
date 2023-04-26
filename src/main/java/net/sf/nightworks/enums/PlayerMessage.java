@@ -11,7 +11,10 @@ public enum PlayerMessage {
 	GODS_ARE_FURI(7, "The gods are infuriated!"),
 	CONSUMNED_BY_RAGE(8, "Your pulse races as you are consumned by rage!\n"),
 	TATOO_GLOWS_RED(9, "{rThe tattoo on your shoulder glows red.{x"),
-	TATOO_GLOWS_BLUE(10, "{cThe tattoo on your shoulder glows blue.{x");
+	TATOO_GLOWS_BLUE(10, "{cThe tattoo on your shoulder glows blue.{x"),
+	WELCOME_TO_SPELLBOUND(11, "\nWelcome to Multi User Dungeon of Spellbound. Enjoy!!...\n"),
+	HIT_RETURN_TO_CONT(12, "[Hit Return to Continue]\n"),
+	GODS_FROWN(13, "The gods frown upon your actions.\n");
 
 	PlayerMessage(int id, String message) {
 		this.id = id;
