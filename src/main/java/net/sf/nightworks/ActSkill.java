@@ -134,7 +134,7 @@ class ActSkill {
                     f.format("%-18s  n/a      ", sn.name);
                 } else {
                     int mana = UMAX(sn.min_mana, 100 / (2 + ch.level - lev));
-                    f.format("%-18s  %3d mana  ", sn.name, mana);
+                    f.format("%-18s  %3d%% %3d mana  ", sn.name, ch.pcdata.learned[sn.ordinal()], mana);
                 }
                 StringBuilder sb = spell_list[lev];
                 if (sb == null) {
@@ -155,7 +155,7 @@ class ActSkill {
 
         /* return results */
         if (!found) {
-            send_to_char("You know no spells.\n", ch);
+            send_to_char("{WYou know no spells.{x\n", ch);
             return;
         }
 
