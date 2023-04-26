@@ -1,5 +1,6 @@
 package net.sf.nightworks;
 
+import net.sf.nightworks.enums.PlayerMessage;
 import net.sf.nightworks.util.Password;
 import net.sf.nightworks.util.TextBuffer;
 
@@ -236,7 +237,7 @@ class Comm {
             init_server_socket(nw_config.port_num);
             try {
                 boot_db();
-                log_string("Nightworks has launched on port " + nw_config.port_num + ".");
+                log_string("Spellbound has launched on port " + nw_config.port_num + ".");
                 nightworks_engine();
             } finally {
                 serverChannel.close();
@@ -612,7 +613,7 @@ class Comm {
     static boolean process_output(DESCRIPTOR_DATA d, boolean fPrompt) {
         // Bust a prompt.
         if (!nw_down && d.showstr_point != 0) {
-            write_to_buffer(d, "\r[Hit Return to continue]\n");
+            write_to_buffer(d, PlayerMessage.HIT_RETURN_TO_CONT.getMessage());
         } else if (fPrompt && !nw_down && d.connected == CON_PLAYING) {
             CHAR_DATA ch;
             CHAR_DATA victim;
@@ -1129,7 +1130,7 @@ class Comm {
                 */
                 if (obj_count != obj_count2) {
                     log_string(ch.name + "@" + d.host + " tried to use the clone cheat.");
-                    send_to_char("The gods frown upon your actions.\n", ch);
+                    send_to_char(PlayerMessage.GODS_FROWN.getMessage(), ch);
                 }
                 break;
 /* RT code for breaking link */
@@ -1228,7 +1229,7 @@ class Comm {
                 }
 
                 write_to_buffer(d, echo_on_telnet_command);
-                write_to_buffer(d, "The Nightworks MUD is home to " + (Race.getNumberOfPCRaces() - 1) + " different races with brief descriptions below:\n");
+                write_to_buffer(d, "The Spellbound MUD is home to " + (Race.getNumberOfPCRaces() - 1) + " different races with brief descriptions below:\n");
                 do_help(ch, "RACETABLE");
                 d.connected = CON_GET_NEW_RACE;
                 break;
@@ -1236,7 +1237,7 @@ class Comm {
             case CON_REMORTING:
                 ch.act = SET_BIT(ch.act, PLR_CANREMORT);
                 ch.act = SET_BIT(ch.act, PLR_REMORTED);
-                write_to_buffer(d, "As you know, the Nightworks MUD is home to " + (Race.getNumberOfPCRaces() - 1) + " different races...\n");
+                write_to_buffer(d, "As you know, the Spellbound MUD is home to " + (Race.getNumberOfPCRaces() - 1) + " different races...\n");
                 do_help(ch, "RACETABLE");
                 d.connected = CON_GET_NEW_RACE;
                 break;
@@ -1249,7 +1250,9 @@ class Comm {
                     arg.setLength(0);
                     argument = one_argument(argument, arg);
                     if (argument.length() == 0) {
-                        write_to_buffer(d, "The Nightworks MUD is home to " + (Race.getNumberOfPCRaces() - 1) + " different races with brief descriptions below:\n");
+                        write_to_buffer(d, "The Spellbound MUD is home to " +
+                                (Race.getNumberOfPCRaces() - 1) +
+                                " different races with brief descriptions below:\n");
                         do_help(ch, "RACETABLE");
                         break;
                     } else {
@@ -1432,7 +1435,7 @@ class Comm {
                             write_to_buffer(d, "Which alignment (G/N/E)? ");
                             d.connected = CON_GET_ALIGNMENT;
                         } else {
-                            write_to_buffer(d, "[Hit Return to Continue]\n");
+                            write_to_buffer(d, PlayerMessage.HIT_RETURN_TO_CONT.getMessage());
                             ch.endur = 100;
                             d.connected = CON_PICK_HOMETOWN;
                         }
@@ -1488,7 +1491,7 @@ class Comm {
                         write_to_buffer(d, "Which alignment (G/N/E)? ");
                         return;
                 }
-                write_to_buffer(d, "\n[Hit Return to Continue]\n");
+                write_to_buffer(d, PlayerMessage.HIT_RETURN_TO_CONT.getMessage());
                 ch.endur = 100;
                 d.connected = CON_PICK_HOMETOWN;
                 break;
@@ -1503,7 +1506,7 @@ class Comm {
                         d.connected = CON_PICK_HOMETOWN;
                         return;
                     } else {
-                        write_to_buffer(d, "[Hit Return to Continue]\n");
+                        write_to_buffer(d, PlayerMessage.HIT_RETURN_TO_CONT.getMessage());
                         ch.endur = 100;
                         d.connected = CON_GET_ETHOS;
                     }
@@ -1543,7 +1546,7 @@ class Comm {
                         return;
                 }
                 ch.endur = 100;
-                write_to_buffer(d, "\n[Hit Return to Continue]\n");
+                write_to_buffer(d, PlayerMessage.HIT_RETURN_TO_CONT.getMessage());
                 d.connected = CON_GET_ETHOS;
                 break;
 
@@ -1590,7 +1593,7 @@ class Comm {
                         return;
                     }
                 }
-                write_to_buffer(d, "\n[Hit Return to Continue]\n");
+                write_to_buffer(d, PlayerMessage.HIT_RETURN_TO_CONT.getMessage());
                 d.connected = CON_CREATE_DONE;
                 break;
 
@@ -1600,7 +1603,7 @@ class Comm {
                 ch.pcdata.learned[gsn_recall.ordinal()] = 75;
                 write_to_buffer(d, "\n");
                 do_help(ch, "GENERAL");
-                write_to_buffer(d, "[Hit Return to Continue]\n");
+                write_to_buffer(d, PlayerMessage.HIT_RETURN_TO_CONT.getMessage());
                 d.connected = CON_READ_NEWBIE;
                 return;
             case CON_READ_NEWBIE:
@@ -1616,7 +1619,7 @@ class Comm {
 
             case CON_READ_MOTD:
                 write_to_buffer(d,
-                        "\nWelcome to Multi User Dungeon of Spellbound. Enjoy!!...\n"
+                        PlayerMessage.WELCOME_TO_SPELLBOUND.getMessage()
                 );
                 ch.next = char_list;
                 char_list = ch;
