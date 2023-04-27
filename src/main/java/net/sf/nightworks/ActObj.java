@@ -416,8 +416,8 @@ class ActObj {
                     act("$n gets $p from $P.", ch, obj, container, TO_ROOM);
                 }
                 obj_from_obj(obj);
-                act("$p fades to black, then dissapears!", ch, container, null, TO_ROOM);
-                act("$p fades to black, then dissapears!", ch, container, null, TO_CHAR);
+                act("$p fades to black, then disappears!", ch, container, null, TO_ROOM);
+                act("$p fades to black, then disappears!", ch, container, null, TO_CHAR);
                 extract_obj(container);
                 obj_to_char(obj, ch);
 
@@ -1072,9 +1072,9 @@ class ActObj {
             if (IS_WATER(ch.in_room)) {
                 extract_obj(obj);
                 if (!IS_AFFECTED(ch, AFF_SNEAK)) {
-                    act("The coins sink down, and disapear in the water.", ch, null, null, TO_ROOM);
+                    act("The coins sink down, and disappear in the water.", ch, null, null, TO_ROOM);
                 }
-                act("The coins sink down, and disapear in the water.", ch, null, null, TO_CHAR);
+                act("The coins sink down, and disappear in the water.", ch, null, null, TO_CHAR);
             }
             return;
         }
@@ -1103,8 +1103,8 @@ class ActObj {
                         !IS_SET(ch.in_room.sector_type, SECT_DESERT) &&
                         !IS_SET(ch.in_room.sector_type, SECT_AIR) &&
                         !IS_WATER(ch.in_room)) {
-                    act("$p cracks and shaters into tiny pieces.", ch, obj, null, TO_ROOM);
-                    act("$p cracks and shaters into tiny pieces.", ch, obj, null, TO_CHAR);
+                    act("$p cracks and shatters into tiny pieces.", ch, obj, null, TO_ROOM);
+                    act("$p cracks and shatters into tiny pieces.", ch, obj, null, TO_CHAR);
                     extract_obj(obj);
                     return;
                 }
@@ -1152,9 +1152,9 @@ class ActObj {
 
                         {
                             if (!IS_AFFECTED(ch, AFF_SNEAK)) {
-                                act("$p cracks and shaters into tiny pieces.", ch, obj, null, TO_ROOM);
+                                act("$p cracks and shatters into tiny pieces.", ch, obj, null, TO_ROOM);
                             }
-                            act("$p cracks and shaters into tiny pieces.", ch, obj, null, TO_CHAR);
+                            act("$p cracks and shatters into tiny pieces.", ch, obj, null, TO_CHAR);
                             extract_obj(obj);
                             continue;
                         }
@@ -1166,9 +1166,9 @@ class ActObj {
 
                     if (!may_float(obj) && cant_float(obj) && IS_WATER(ch.in_room)) {
                         if (!IS_AFFECTED(ch, AFF_SNEAK)) {
-                            act("$p sinks down the water.", ch, obj, null, TO_ROOM);
+                            act("$p sinks down into the water.", ch, obj, null, TO_ROOM);
                         }
-                        act("$p sinks down the water.", ch, obj, null, TO_CHAR);
+                        act("$p sinks down into the water.", ch, obj, null, TO_CHAR);
                         extract_obj(obj);
                     } else if (IS_OBJ_STAT(obj, ITEM_MELT_DROP)) {
                         if (!IS_AFFECTED(ch, AFF_SNEAK)) {
@@ -1535,7 +1535,7 @@ class ActObj {
         }
 
         if ((shovel = get_weapon_char(ch, WEAPON_MACE)) == null || !is_name("shovel", shovel.name)) {
-            send_to_char("You don't have shovel do dig!\n", ch);
+            send_to_char("You don't have a shovel to dig!\n", ch);
             return;
         }
 
@@ -1633,7 +1633,7 @@ class ActObj {
 
         if ((shovel = get_weapon_char(ch, WEAPON_MACE)) == null
                 || !is_name("shovel", shovel.name)) {
-            send_to_char("You don't have shovel do dig!\n", ch);
+            send_to_char("You don't have a shovel to dig!\n", ch);
             return;
         }
 
@@ -1657,7 +1657,7 @@ class ActObj {
         ch.move -= move;
 
         act("You start digging $p...", ch, obj, null, TO_CHAR);
-        act("$n starts diggin $p...", ch, obj, null, TO_ROOM);
+        act("$n starts digging $p...", ch, obj, null, TO_ROOM);
 
         WAIT_STATE(ch, 4 * PULSE_VIOLENCE);
 
