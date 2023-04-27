@@ -505,7 +505,7 @@ class ActSkill {
         }
 
         if (IS_NPC(mob) || mob.level != HERO) {
-            send_to_char("You must find a hero , not an ordinary one.\n", ch);
+            send_to_char("You must find a hero, not an ordinary one.\n", ch);
             return;
         }
 
