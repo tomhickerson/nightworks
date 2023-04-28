@@ -1,5 +1,6 @@
 package net.sf.nightworks;
 
+import net.sf.nightworks.enums.ObjectMessage;
 import net.sf.nightworks.util.TextBuffer;
 
 import static net.sf.nightworks.ActComm.add_follower;
@@ -2399,7 +2400,7 @@ class ActObj {
             } else if (remove_obj_loc(ch, WEAR_RIGHT, fReplace)) {
                 hold_a_shield(ch, obj, WEAR_RIGHT);
             } else {
-                send_to_char("You can't hold a shield right now.\n", ch);
+                send_to_char(ObjectMessage.CANT_HOLD_SHIELD.getMessage(), ch);
             }
             return;
         }
@@ -2424,7 +2425,7 @@ class ActObj {
             } else if (remove_obj_loc(ch, WEAR_RIGHT, fReplace)) {
                 hold_a_thing(ch, obj, WEAR_RIGHT);
             } else {
-                send_to_char("You can't hold a thing right now.\n", ch);
+                send_to_char(ObjectMessage.CANT_HOLD_THING.getMessage(), ch);
             }
             return;
         }
@@ -2446,7 +2447,7 @@ class ActObj {
         }
 
         if (fReplace) {
-            send_to_char("You can't wear, wield, or hold that.\n", ch);
+            send_to_char(ObjectMessage.CANT_WEAR_WIELD_HOLD.getMessage(), ch);
         }
 
     }
@@ -2474,7 +2475,7 @@ class ActObj {
             }
         } else {
             if ((obj = get_obj_carry(ch, arg.toString())) == null) {
-                send_to_char("You do not have that item.\n", ch);
+                send_to_char(ObjectMessage.YOU_DO_NOT_HAVE.getMessage(), ch);
                 return;
             }
 
@@ -2508,7 +2509,7 @@ class ActObj {
         }
 
         if ((obj = get_obj_wear(ch, arg.toString())) == null) {
-            send_to_char("You do not have that item.\n", ch);
+            send_to_char(ObjectMessage.YOU_DO_NOT_HAVE.getMessage(), ch);
             return;
         }
 
@@ -2971,7 +2972,7 @@ class ActObj {
 
         if (IS_NPC(ch) && IS_SET(ch.affected_by, AFF_CHARM)
                 && (ch.master != null)) {
-            send_to_char("You are to dazed to steal anything.\n", ch);
+            send_to_char("You are too dazed to steal anything.\n", ch);
             return;
         }
 
