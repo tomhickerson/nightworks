@@ -3365,7 +3365,7 @@ class ActObj {
             }
             if (pRoomIndexNext == null) {
                 bug("Do_buy: bad pet shop at vnum %d.", ch.in_room.vnum);
-                send_to_char("Sorry, you can't buy that here.\n", ch);
+                send_to_char(ObjectMessage.YOU_CANT_BUY_THAT.getMessage(), ch);
                 return;
             }
 
@@ -3375,7 +3375,7 @@ class ActObj {
             ch.in_room = in_room;
 
             if (pet == null || !IS_SET(pet.act, ACT_PET) || !IS_NPC(pet)) {
-                send_to_char("Sorry, you can't buy that here.\n", ch);
+                send_to_char(ObjectMessage.YOU_CANT_BUY_THAT.getMessage(), ch);
                 return;
             }
 
@@ -3385,7 +3385,7 @@ class ActObj {
                 cost = 10 * pet.level * pet.level;
 
                 if ((ch.silver + 100 * ch.gold) < cost) {
-                    send_to_char("You can't afford it.\n", ch);
+                    send_to_char(ObjectMessage.YOU_CANT_AFFORD_IT.getMessage(), ch);
                     return;
                 }
 
@@ -3414,7 +3414,7 @@ class ActObj {
             cost = 10 * pet.level * pet.level;
 
             if ((ch.silver + 100 * ch.gold) < cost) {
-                send_to_char("You can't afford it.\n", ch);
+                send_to_char(ObjectMessage.YOU_CANT_AFFORD_IT.getMessage(), ch);
                 return;
             }
 
@@ -3537,7 +3537,7 @@ class ActObj {
             }
 
             if (ch.carry_number + number * get_obj_number(obj) > can_carry_n(ch)) {
-                send_to_char("You can't carry that many items.\n", ch);
+                send_to_char(ObjectMessage.YOU_CANT_CARRY_THAT_MANY.getMessage(), ch);
                 return;
             }
 
