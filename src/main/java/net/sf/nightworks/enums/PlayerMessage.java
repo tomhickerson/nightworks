@@ -14,7 +14,11 @@ public enum PlayerMessage {
 	TATOO_GLOWS_BLUE(10, "{cThe tattoo on your shoulder glows blue.{x"),
 	WELCOME_TO_SPELLBOUND(11, "\nWelcome to Multi User Dungeon of Spellbound. Enjoy!!...\n"),
 	HIT_RETURN_TO_CONT(12, "[Hit Return to Continue]\n"),
-	GODS_FROWN(13, "The gods frown upon your actions.\n");
+	GODS_FROWN(13, "The gods frown upon your actions.\n"),
+	SMB_BEGINS_WHITE(14, "$p begins to shine a bright white."),
+	SMB_GLOWS_BLUE(15, "$p starts to glow with a blue aura."),
+	EXCAL_ACID_SPRAY(16, "Acid sprays from the blade of Excalibur.\n");
+
 
 	PlayerMessage(int id, String message) {
 		this.id = id;

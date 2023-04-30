@@ -411,8 +411,8 @@ class ObjProg {
 
 
     static void wear_prog_excalibur(OBJ_DATA obj, CHAR_DATA ch) {
-        act("$p begins to shine a bright white.", ch, obj, null, TO_CHAR);
-        act("$p begins to shine a bright white.", ch, obj, null, TO_ROOM);
+        act(PlayerMessage.SMB_BEGINS_WHITE.getMessage(), ch, obj, null, TO_CHAR);
+        act(PlayerMessage.SMB_BEGINS_WHITE.getMessage(), ch, obj, null, TO_ROOM);
         if (ch.level > 20 && ch.level <= 30) {
             obj.value[2] = 4;
         } else if (ch.level > 30 && ch.level <= 40) {
@@ -461,8 +461,8 @@ class ObjProg {
     }
 
     boolean death_prog_excalibur(OBJ_DATA obj, CHAR_DATA ch) {
-        act("$p starts to glow with a blue aura.", ch, obj, null, TO_CHAR, POS_DEAD);
-        act("$p starts to glow with a blue aura,", ch, obj, null, TO_ROOM);
+        act(PlayerMessage.SMB_GLOWS_BLUE.getMessage(), ch, obj, null, TO_CHAR, POS_DEAD);
+        act(PlayerMessage.SMB_GLOWS_BLUE.getMessage(), ch, obj, null, TO_ROOM);
         ch.hit = ch.max_hit;
         send_to_char("You feel much better.", ch);
         act("$n looks much better.", ch, null, null, TO_ROOM);
@@ -472,16 +472,16 @@ class ObjProg {
     static void speech_prog_excalibur(OBJ_DATA obj, CHAR_DATA ch, String speech) {
 
         if (!str_cmp(speech, "sword of acid") && (ch.fighting != null) && is_wielded_char(ch, obj)) {
-            send_to_char("Acid sprays from the blade of Excalibur.\n", ch);
-            act("Acid sprays from the blade of Excalibur.", ch, null, null, TO_ROOM);
+            send_to_char(PlayerMessage.EXCAL_ACID_SPRAY.getMessage(), ch);
+            act(PlayerMessage.EXCAL_ACID_SPRAY.getMessage(), ch, null, null, TO_ROOM);
             obj_cast_spell(gsn_acid_blast, ch.level, ch, ch.fighting, null);
             WAIT_STATE(ch, 2 * PULSE_VIOLENCE);
         }
     }
 
     boolean sac_prog_excalibur(OBJ_DATA obj, CHAR_DATA ch) {
-        act("The gods are infuriated!", ch, null, null, TO_CHAR);
-        act("The gods are infuriated!", ch, null, null, TO_ROOM);
+        act(PlayerMessage.GODS_ARE_FURI.getMessage(), ch, null, null, TO_CHAR);
+        act(PlayerMessage.GODS_ARE_FURI.getMessage(), ch, null, null, TO_ROOM);
         damage(ch, ch, (ch.hit - 1) > 1000 ? 1000 : (ch.hit - 1), gsn_x_hit, DAM_HOLY, true);
         ch.gold = 0;
         return true;
