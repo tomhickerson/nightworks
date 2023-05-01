@@ -168,6 +168,43 @@ class Telnet {
                 color = "\033[38;5;39m";
                 break;
 
+            case '1':
+                // darkest gray, good for disappearing
+                color = "\033[38;5;239m";
+                break;
+
+            case '2':
+                color = "\033[38;5;241m";
+                break;
+
+            case '3':
+                color = "\033[38;5;243m";
+                break;
+
+            case '4':
+                color = "\033[38;5;245m";
+                break;
+
+            case '5':
+                color = "\033[38;5;246m";
+                break;
+
+            case '6':
+                color = "\033[38;5;247m";
+                break;
+
+            case '7':
+                color = "\033[38;5;248m";
+                break;
+
+            case '8':
+                color = "\033[38;5;250m";
+                break;
+
+            case '9':
+                color = "\033[38;5;252m";
+                break;
+
             default:
                 //todo: warn
                 color = "";

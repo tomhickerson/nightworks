@@ -123,22 +123,22 @@ class Effects {
                 case ITEM_CONTAINER:
                 case ITEM_CORPSE_PC:
                 case ITEM_CORPSE_NPC:
-                    msg = "$p fumes and dissolves.";
+                    msg = "{o$p fumes and dissolves.{x";
                     break;
                 case ITEM_ARMOR:
-                    msg = "$p is pitted and etched.";
+                    msg = "{o$p is pitted and etched.{x";
                     break;
                 case ITEM_CLOTHING:
-                    msg = "$p is corroded into scrap.";
+                    msg = "{o$p is corroded into scrap.{x";
                     break;
                 case ITEM_STAFF:
                 case ITEM_WAND:
                     chance -= 10;
-                    msg = "$p corrodes and breaks.";
+                    msg = "{o$p corrodes and breaks.{x";
                     break;
                 case ITEM_SCROLL:
                     chance += 10;
-                    msg = "$p is burned into waste.";
+                    msg = "{o$p is burned into waste.{x";
                     break;
             }
 
@@ -236,8 +236,8 @@ class Effects {
             if (!saves_spell(level / 4 + dam / 20, victim, DAM_COLD)) {
                 AFFECT_DATA af = new AFFECT_DATA();
 
-                act("$n turns blue and shivers.", victim, null, null, TO_ROOM);
-                act("A chill sinks deep into your bones.", victim, null, null, TO_CHAR);
+                act("{v$n turns blue and shivers.{x", victim, null, null, TO_ROOM);
+                act("{vA chill sinks deep into your bones.{x", victim, null, null, TO_CHAR);
                 af.where = TO_AFFECTS;
                 af.type = Skill.gsn_chill_touch;
                 af.level = level;
@@ -292,11 +292,11 @@ class Effects {
                 default:
                     return;
                 case ITEM_POTION:
-                    msg = "$p freezes and shatters!";
+                    msg = "{v$p freezes and shatters!{x";
                     chance += 25;
                     break;
                 case ITEM_DRINK_CON:
-                    msg = "$p freezes and shatters!";
+                    msg = "{v$p freezes and shatters!{x";
                     chance += 5;
                     break;
             }
@@ -338,8 +338,8 @@ class Effects {
             if (!IS_AFFECTED(victim, AFF_BLIND)
                     && !saves_spell(level / 4 + dam / 20, victim, DAM_FIRE)) {
                 AFFECT_DATA af = new AFFECT_DATA();
-                act("$n is blinded by smoke!", victim, null, null, TO_ROOM);
-                act("Your eyes tear up from smoke...you can't see a thing!",
+                act("{5$n is blinded by smoke!{x", victim, null, null, TO_ROOM);
+                act("{5Your eyes tear up from smoke...you can't see a thing!{x",
                         victim, null, null, TO_CHAR);
 
                 af.where = TO_AFFECTS;
@@ -396,34 +396,34 @@ class Effects {
             String msg;
             if (check_material(obj, "ice")) {
                 chance += 30;
-                msg = "$p melts and evaporates!";
+                msg = "{i$p melts and evaporates!{x";
             } else {
                 switch (obj.item_type) {
                     default:
                         return;
                     case ITEM_CONTAINER:
-                        msg = "$p ignites and burns!";
+                        msg = "{i$p ignites and burns!{x";
                         break;
                     case ITEM_POTION:
                         chance += 25;
-                        msg = "$p bubbles and boils!";
+                        msg = "{i$p bubbles and boils!{x";
                         break;
                     case ITEM_SCROLL:
                         chance += 50;
-                        msg = "$p crackles and burns!";
+                        msg = "{i$p crackles and burns!{x";
                         break;
                     case ITEM_STAFF:
                         chance += 10;
-                        msg = "$p smokes and chars!";
+                        msg = "{i$p smokes and chars!{x";
                         break;
                     case ITEM_WAND:
-                        msg = "$p sparks and sputters!";
+                        msg = "{i$p sparks and sputters!{x";
                         break;
                     case ITEM_FOOD:
-                        msg = "$p blackens and crisps!";
+                        msg = "{i$p blackens and crisps!{x";
                         break;
                     case ITEM_PILL:
-                        msg = "$p melts and drips!";
+                        msg = "{i$p melts and drips!{x";
                         break;
                 }
             }
@@ -482,8 +482,8 @@ class Effects {
             if (!saves_spell(level / 4 + dam / 20, victim, DAM_POISON)) {
                 AFFECT_DATA af = new AFFECT_DATA();
 
-                send_to_char("You feel poison coursing through your veins.\n", victim);
-                act("$n looks very ill.", victim, null, null, TO_ROOM);
+                send_to_char("{aYou feel poison coursing through your veins.\n{x", victim);
+                act("{a$n looks very ill.{x", victim, null, null, TO_ROOM);
 
                 af.where = TO_AFFECTS;
                 af.type = gsn_poison;
@@ -566,7 +566,7 @@ class Effects {
 
             /* daze and confused? */
             if (!saves_spell(level / 4 + dam / 20, victim, DAM_LIGHTNING)) {
-                send_to_char("Your muscles stop responding.\n", victim);
+                send_to_char("{YYour muscles stop responding.\n{x", victim);
                 DAZE_STATE(victim, UMAX(12, level / 4 + dam / 20));
             }
 
@@ -653,8 +653,8 @@ class Effects {
             if (!IS_AFFECTED(victim, AFF_BLIND)
                     && !saves_spell(level / 4 + dam / 20, victim, DAM_COLD)) {
                 AFFECT_DATA af = new AFFECT_DATA();
-                act("$n is blinded by flying sands!", victim, null, null, TO_ROOM);
-                act("Your eyes tear up from sands...you can't see a thing!",
+                act("{Y$n is blinded by flying sands!{x", victim, null, null, TO_ROOM);
+                act("{YYour eyes tear up from sands...you can't see a thing!{x",
                         victim, null, null, TO_CHAR);
 
                 af.where = TO_AFFECTS;
@@ -711,26 +711,26 @@ class Effects {
                 case ITEM_CORPSE_PC:
                 case ITEM_CORPSE_NPC:
                     chance += 50;
-                    msg = "$p is filled with sand and evaporates.";
+                    msg = "{Y$p is filled with sand and evaporates.{x";
                     break;
                 case ITEM_ARMOR:
                     chance -= 10;
-                    msg = "$p is etched by sand";
+                    msg = "{Y$p is etched by sand.{x";
                     break;
                 case ITEM_CLOTHING:
-                    msg = "$p is corroded by sands.";
+                    msg = "{Y$p is corroded by sands.{x";
                     break;
                 case ITEM_WAND:
                     chance = 50;
-                    msg = "$p mixes with crashing sands.";
+                    msg = "{Y$p mixes with crashing sands.{x";
                     break;
                 case ITEM_SCROLL:
                     chance += 20;
-                    msg = "$p is surrouned by sand.";
+                    msg = "{Y$p is surrounded by sand.{x";
                     break;
                 case ITEM_POTION:
                     chance += 10;
-                    msg = "$p is broken into peace by crashing sands.";
+                    msg = "{Y$p is broken into pieces by crushing sands.{x";
                     break;
             }
 
@@ -886,28 +886,28 @@ class Effects {
             String msg;
             if (check_material(obj, "ice")) {
                 chance += 30;
-                msg = "$p breaks and evaporates!";
+                msg = "{v$p breaks and evaporates!{x";
             } else if (check_material(obj, "glass")) {
                 chance += 30;
-                msg = "$p breaks into tiny small peaces";
+                msg = "{v$p breaks into tiny small pieces.{x";
             } else {
                 switch (obj.item_type) {
                     default:
                         return;
                     case ITEM_POTION:
                         chance += 25;
-                        msg = "Vial of $p breaks and liquid spoils!";
+                        msg = "{vA vial of $p breaks and the liquid spoils!{x";
                         break;
                     case ITEM_SCROLL:
                         chance += 50;
-                        msg = "$p breaks into tiny peaces!";
+                        msg = "{v$p breaks into tiny pieces!{x";
                         break;
                     case ITEM_DRINK_CON:
-                        msg = "$p breaks and liquid spoils!";
+                        msg = "{v$p breaks and liquid spoils!{x";
                         chance += 5;
                         break;
                     case ITEM_PILL:
-                        msg = "$p breaks into peaces!";
+                        msg = "{v$p breaks into pieces!{x";
                         break;
                 }
             }
