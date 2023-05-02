@@ -1657,7 +1657,7 @@ class ActComm {
             return;
         }
         TextBuffer buf = new TextBuffer();
-        buf.sprintf("%s's ethos is %s and aligment is %s.\n",
+        buf.sprintf("%s's ethos is %s and alignment is %s.\n",
                 victim.name,
                 upfirst(ethos_table[victim.ethos].name),
                 IS_GOOD(victim) ? "Good" : IS_EVIL(victim) ? "Evil" : "Neutral");
