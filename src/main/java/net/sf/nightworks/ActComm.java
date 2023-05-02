@@ -194,6 +194,13 @@ class ActComm {
             send_to_char("OFF\n", ch);
         }
 
+        send_to_char("racechat       ", ch);
+        if (!IS_SET(ch.comm, COMM_DEAF)) {
+            send_to_char("ON\n", ch);
+        } else {
+            send_to_char("OFF\n", ch);
+        }
+
         send_to_char("quiet mode     ", ch);
         if (IS_SET(ch.comm, COMM_QUIET)) {
             send_to_char("ON\n", ch);
@@ -404,6 +411,41 @@ class ActComm {
             }
         }
     }
+
+    static void do_racechat(CHAR_DATA ch, String argument) {
+        DESCRIPTOR_DATA d;
+
+        if (argument.length() == 0) {
+            send_to_char("Racechat what?.\n", ch);
+            return;
+        }
+        String buf;
+        if (is_affected(ch, gsn_garble)) {
+            StringBuilder buff = new StringBuilder();
+            garble(buff, argument);
+            buf = buff.toString();
+        } else {
+            buf = argument;
+        }
+
+        if (!is_affected(ch, gsn_deafen)) {
+            act("You racechat '{G$T{x'", ch, null, buf, TO_CHAR, POS_DEAD);
+        }
+
+        for (d = descriptor_list; d != null; d = d.next) {
+
+
+            if (d.connected == CON_PLAYING &&
+                    d.character != ch &&
+                    d.character.race.name.equals(ch.race.name) &&
+                    !is_affected(d.character, gsn_deafen)) {
+                String trans = translate(ch, d.character, buf);
+                act("$n racechats '{G$t{x'", ch, trans, d.character, TO_VICT, POS_DEAD);
+            }
+        }
+    }
+
+    // todo: class chat
 
 
     static void do_tell(CHAR_DATA ch, String argument) {

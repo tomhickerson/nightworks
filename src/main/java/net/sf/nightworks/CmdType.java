@@ -154,6 +154,7 @@ public enum CmdType {
     do_replay("replay", ActComm::do_replay, POS_SLEEPING, 0, Interp.LOG_NORMAL, CMD_GHOST),
     do_say(arr("say", "'"), ActComm::do_say, POS_RESTING, 0, Interp.LOG_NORMAL, CMD_GHOST),
     do_shout("shout", ActComm::do_shout, POS_RESTING, 3, Interp.LOG_NORMAL, CMD_GHOST),
+    do_racechat("racechat", ActComm::do_racechat, POS_RESTING, 3, Interp.LOG_NORMAL, CMD_GHOST),
     do_warcry("warcry", MartialArt::do_warcry, POS_FIGHTING, 0, Interp.LOG_NORMAL, 0),
     do_unread("unread", Note::do_unread, POS_SLEEPING, 0, Interp.LOG_NORMAL, CMD_KEEP_HIDE | CMD_GHOST),
     do_yell("yell", ActComm::do_yell, POS_RESTING, 0, Interp.LOG_NORMAL, CMD_GHOST),
