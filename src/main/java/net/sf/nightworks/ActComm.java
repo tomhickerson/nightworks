@@ -201,6 +201,13 @@ class ActComm {
             send_to_char("OFF\n", ch);
         }
 
+        send_to_char("alignchat      ", ch);
+        if (!IS_SET(ch.comm, COMM_DEAF)) {
+            send_to_char("ON\n", ch);
+        } else {
+            send_to_char("OFF\n", ch);
+        }
+
         send_to_char("quiet mode     ", ch);
         if (IS_SET(ch.comm, COMM_QUIET)) {
             send_to_char("ON\n", ch);
@@ -445,8 +452,39 @@ class ActComm {
         }
     }
 
-    // todo: class chat
+    // todo: class chat, or maybe align chat?
+    static void do_alignchat(CHAR_DATA ch, String argument) {
+        DESCRIPTOR_DATA d;
 
+        if (argument.length() == 0) {
+            send_to_char("Alignchat what?.\n", ch);
+            return;
+        }
+        String buf;
+        if (is_affected(ch, gsn_garble)) {
+            StringBuilder buff = new StringBuilder();
+            garble(buff, argument);
+            buf = buff.toString();
+        } else {
+            buf = argument;
+        }
+
+        if (!is_affected(ch, gsn_deafen)) {
+            act("You alignchat '{v$T{x'", ch, null, buf, TO_CHAR, POS_DEAD);
+        }
+
+        for (d = descriptor_list; d != null; d = d.next) {
+
+
+            if (d.connected == CON_PLAYING &&
+                    d.character != ch &&
+                    d.character.alignment == ch.alignment &&
+                    !is_affected(d.character, gsn_deafen)) {
+                String trans = translate(ch, d.character, buf);
+                act("$n alignchats '{v$t{x'", ch, trans, d.character, TO_VICT, POS_DEAD);
+            }
+        }
+    }
 
     static void do_tell(CHAR_DATA ch, String argument) {
 
