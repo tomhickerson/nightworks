@@ -486,16 +486,22 @@ idea read 5 will read idea #5.  Posting to the news and changes boards is
 restricted. The 'unread' command can be used to show your unread notes on
 all the note spools.
 ~
-0 SHOUT YELL~
+0 SHOUT YELL RACECHAT ALIGNCHAT~
 Syntax: shout   <message>
 Syntax: yell    <message>
+Syntax: racechat <message>
+Syntax: alignchat <message>
 
 SHOUT sends a message to all awake players in the world.  To curb excessive
 shouting, SHOUT imposes a three-second delay on the shouter.
 
 YELL sends a message to all awake players within your area.
 
-Type a channel name by itself to turn it off.
+RACECHAT sends a message to all awake players in the world who have your same race.
+
+ALIGNCHAT sends a message to all awake players in the world who have your same alignment.
+
+Type a channel name by itself to turn it off.  This only applies to SHOUT and YELL.
 ~
 
 0 EMOTE PMOTE POSE SOCIAL~
