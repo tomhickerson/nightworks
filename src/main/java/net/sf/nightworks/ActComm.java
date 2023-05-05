@@ -864,7 +864,7 @@ class ActComm {
         }
 
         if (!remort) {
-            send_to_char("Alas, all good things must come to an end.\n", ch);
+            send_to_char("Alas, all good things must {9c{8o{7m{6e {5t{4o {3a{2n {1end.\n", ch);
             act("{g$n has left the game.{x", ch, null, null, TO_ROOM, POS_DEAD);
             log_string(ch.name + " has quit.");
             wiznet("$N rejoins the real world.", ch, null, WIZ_LOGINS, 0, get_trust(ch));
