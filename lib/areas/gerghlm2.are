@@ -2512,7 +2512,7 @@ S
 #7549
 Very clean Sewers.~
    You are standing at the start of a section of sewers that are VERY
-clean...  There is a sign here.
+clean...  There is a {Ysign{x here.
 ~
 76 A 0
 D1
@@ -2608,7 +2608,7 @@ You see the clean sewers.
 S
 #7554
 Very clean Sewers.~
-    You are in some EXTREEMLY clean sewers!  There is a sign here.
+    You are in some EXTREMELY clean sewers!  There is a {Ysign{x here.
 ~
 76 A 1
 D0
@@ -2641,7 +2641,7 @@ S
 #7555
 Old library in the very clean Sewers.~
     You are in the VERY clean sewers.  There are some benches here, as well
-as some old books that are aged bye time..  You are afraid to touch them,
+as some old books that are aged and yellowed by time..  You are afraid to touch them,
 unless they may crumble to dust with your touch.  One of the books is open.
 ~
 76 AC 2
@@ -2660,7 +2660,7 @@ and asked why the people were suffering.  He was told by the minstrel,
 I am unhappy.'.
 
 He asked a passing child, 'Why are you suffering?'.
-The child replyed, 'I have no "role-models"  I am told.  In the old days,
+The child replied, 'I have no "role-models"  I am told.  In the old days,
 there were many brave warriors, priests, wizards, and rouges.  BUt now any-
 more...'.
 
@@ -2795,7 +2795,7 @@ Gate of Gerighelm~
     You are standing inside the Gate of Gerighelm.  There is only one,
 because the town is surrounded by mountains.  Of course, there is a lot
 of traffic here.
-     There is a small (Glowing) (Humming) tablet.
+     There is a small (Glowing) (Humming) {Ytablet{x.
 ~
 0 0 1
 D0
@@ -2852,12 +2852,12 @@ to the park is still to the east.
 ~
 0 0 1
 D1
-You see peter ave.
+You see Peter Ave.
 ~
 ~
 0 -1 7566
 D3
-You see west-street.
+You see West-Street.
 ~
 ~
 0 -1 7564
@@ -2868,7 +2868,7 @@ Peter Ave~
 ~
 0 0 1
 D1
-You see peter ave.
+You see Peter Ave.
 ~
 ~
 0 -1 7567
@@ -2878,23 +2878,23 @@ You see the park.
 ~
 0 -1 7500
 D3
-You see peter ave.
+You see Peter Ave.
 ~
 ~
 0 -1 7565
 S
 #7567
 Peter Ave~
-  You are on Peter ave. The the west, you see the entrance to the park.
+  You are on Peter Ave. The the west, you see the entrance to the park.
 ~
 0 0 1
 D2
-You see peter ave.
+You see Peter Ave.
 ~
 ~
 0 -1 7568
 D3
-You see peter ave.
+You see Peter Ave.
 ~
 ~
 0 -1 7566
@@ -2906,12 +2906,12 @@ is not in sight.
 ~
 0 0 1
 D0
-You see peter ave.
+You see Peter Ave.
 ~
 ~
 0 -1 7567
 D2
-You see merchant way.
+You see Merchant Way.
 ~
 ~
 0 -1 7569
@@ -2923,12 +2923,12 @@ could possibly need.
 ~
 0 0 1
 D0
-You see peter ave.
+You see Peter Ave.
 ~
 ~
 0 -1 7568
 D1
-You see merchant way.
+You see Merchant Way.
 ~
 ~
 0 -1 7571
