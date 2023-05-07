@@ -12,7 +12,7 @@ public enum PlayerMessage {
 	CONSUMNED_BY_RAGE(8, "Your pulse races as you are consumned by rage!\n"),
 	TATOO_GLOWS_RED(9, "{rThe tattoo on your shoulder glows red.{x"),
 	TATOO_GLOWS_BLUE(10, "{cThe tattoo on your shoulder glows blue.{x"),
-	WELCOME_TO_SPELLBOUND(11, "\nWelcome to Multi User Dungeon of Spellbound. Enjoy!!...\n"),
+	WELCOME_TO_SPELLBOUND(11, "\nWelcome to Multi User Dungeon of {RS{rp{oe{Yl{yl{Gb{go{vu{in{cd{x. Enjoy!!...\n"),
 	HIT_RETURN_TO_CONT(12, "[Hit Return to Continue]\n"),
 	GODS_FROWN(13, "The gods frown upon your actions.\n"),
 	SMB_BEGINS_WHITE(14, "$p begins to shine a bright white."),
