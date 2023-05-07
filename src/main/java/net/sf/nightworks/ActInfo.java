@@ -1791,7 +1791,7 @@ class ActInfo {
         } else if (IS_IMMORTAL(ch)) {
             buf.sprintf("Obvious exits from room %d:\n", ch.in_room.vnum);
         } else {
-            buf.sprintf("Obvious exits:\n");
+            buf.sprintf("{eObvious exits:{h\n");
         }
 
         found = false;

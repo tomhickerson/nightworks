@@ -110,6 +110,21 @@ class Telnet {
                 color = "\033[0;37m";
                 break;
 
+            case 'e':
+                // dark blue background
+                color = "\033[0;44m";
+                break;
+
+            case 'f':
+                // dark cyan background
+                color = "\033[0;46m";
+                break;
+
+            case 'h':
+                // return background to default
+                color = "\033[0;49m";
+                break;
+
             // brighter
             case 'D':
                 color = "\033[1;30m";
