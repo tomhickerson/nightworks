@@ -946,7 +946,7 @@ class Quest {
 
             if (IS_GOOD(ch)) {
                 do_tell_quest(ch, questman, "Rune's most heinous criminal, {w" + victim.short_descr + "{x,	has escaped from the dungeon!");
-                do_tell_quest(ch, questman, "Since the escape, " + victim.short_descr + " has murdered " + number_range(2, 20) + " civillians!");
+                do_tell_quest(ch, questman, "Since the escape, " + victim.short_descr + " has murdered " + number_range(2, 20) + " civilians!");
                 do_tell_quest(ch, questman, "The penalty for this crime is death, and you are to deliver the sentence!");
             } else {
                 do_tell_quest(ch, questman, "An enemy of mine, {x" + victim.short_descr + "{x, is making vile threats against the crown.");
@@ -981,12 +981,12 @@ class Quest {
                 ch.pcdata.nextquest--;
 
                 if (ch.pcdata.nextquest == 0) {
-                    send_to_char("You may now quest again.\n", ch);
+                    send_to_char("{eYou may now quest again.{h\n", ch);
                 }
             } else if (IS_SET(ch.act, PLR_QUESTOR)) {
                 if (--ch.pcdata.countdown <= 0) {
                     ch.pcdata.nextquest = 0;
-                    send_to_char("You have run out of time for your quest!\nYou may now quest again.\n", ch);
+                    send_to_char("{eYou have run out of time for your quest!\nYou may now quest again.{h\n", ch);
                     ch.act = REMOVE_BIT(ch.act, PLR_QUESTOR);
                     ch.pcdata.questgiver = 0;
                     ch.pcdata.countdown = 0;
@@ -994,7 +994,7 @@ class Quest {
                     ch.pcdata.questobj = 0;
                 }
                 if (ch.pcdata.countdown > 0 && ch.pcdata.countdown < 6) {
-                    send_to_char("Better hurry, you're almost out of time for your quest!\n", ch);
+                    send_to_char("{eBetter hurry, you're almost out of time for your quest!{h\n", ch);
                 }
             }
         }
