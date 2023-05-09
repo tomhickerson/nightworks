@@ -19,6 +19,7 @@ final class Nightworks {
 
     static final int MAX_ALIAS = 50;
     static final int MAX_TIME_LOG = 30;
+    static final int MAX_ACHIEVEMENTS = 52; // a-zA-Z
     static final int MAX_TIME_LIMIT = 43200;    /* 720 Hours */
 
     static final String DEFAULT_PROMPT = "<{c%n{x: %h/%Hhp %m/%Mm %v/%Vmv tnl:%X {c%e{x Opp:%o> ";
@@ -885,7 +886,6 @@ final class Nightworks {
     static final int ACT_UPDATE_ALWAYS = BIT_28;
     static final int ACT_IS_CHANGER = BIT_29;
     static final int ACT_NOTRACK = BIT_30;
-    ;
 
     /* damage classes */
     static final int DAM_NONE = 0;
@@ -2079,6 +2079,8 @@ final class Nightworks {
         boolean confirm_remort;
         final String[] alias = new String[MAX_ALIAS];
         final String[] alias_sub = new String[MAX_ALIAS];
+        String[] achievements = new String[MAX_ACHIEVEMENTS];
+        String lineAchievement; // contains all the achievements in one line, can then use 'contains'
         int bank_s;
         int bank_g;
         int death;
