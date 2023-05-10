@@ -62,6 +62,34 @@ new areas/races/classes have been added.
 Main contributor to Spellbound --
 	Tom Hickerson
 ~
+-1 VIRTUES~
+.
+    The seven Virtues are:
+	{RFortitude{x,
+	{oSacrifice{x,
+	{YJustice{x,
+	{GHope{x,
+	{BCompassion{x,
+	{iHumility{x, and 
+	{MFaith{x.
+	
+	The Shrines to the Seven Virtues are located in many different places through the lands.
+	See also: HELP VICES
+~
+-1 VICES~
+.
+    The seven Vices are:
+	{RAnger{x,
+	{oGluttony{x,
+	{YAvarice{x,
+	{GEnvy{x,
+	{BSloth{x,
+	{iPride{x, and
+	{MLust{x.
+	
+	The Shrines to the Seven Vices are located in many different places through the lands.
+	See also: HELP VIRTUES
+~
 -1 NIGHTWORKS~
 .
     NIGHTWORKS is a complete port of Anatolia 3.1 code to Java.
