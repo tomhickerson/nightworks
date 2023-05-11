@@ -14,7 +14,7 @@ import static net.sf.nightworks.Handler.get_curr_stat;
 import static net.sf.nightworks.Handler.get_trust;
 import static net.sf.nightworks.Skill.MAX_SKILLS;
 
-final class Nightworks {
+public final class Nightworks {
 
 
     static final int MAX_ALIAS = 50;
@@ -1945,7 +1945,7 @@ final class Nightworks {
 * One character (PC or NPC). *CHAR_DATA*
 */
 
-    static final class CHAR_DATA {
+    public static final class CHAR_DATA {
         CHAR_DATA next;
         CHAR_DATA next_in_room;
         CHAR_DATA master;
