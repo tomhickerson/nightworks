@@ -2,31 +2,41 @@ package net.sf.nightworks.quests;
 
 import net.sf.nightworks.Nightworks;
 
-public class KillQuest extends Quest {
+public class SimpleKillQuest extends SimpleQuest {
 
-    private int vnumToKill;
+    private int vnumToKill = -1;
+    private int questPoints = 0;
 
-    public KillQuest(String name) {
+    public SimpleKillQuest(String name) {
         super(name);
     }
 
-    public KillQuest(int id, String name) {
+    public SimpleKillQuest(int id, String name) {
         super(id, name);
     }
 
     @Override
     public boolean doesQualify(Nightworks.CHAR_DATA ch) {
-        return false;
+        return true;
     }
 
     @Override
     public boolean canRunAgain() {
-        return false;
+        return true;
     }
 
     @Override
     public Object deliverReward(Nightworks.CHAR_DATA ch) {
-        return null;
+        ch.pcdata.questpoints += questPoints;
+        return ch;
+    }
+
+    public int getQuestPoints() {
+        return questPoints;
+    }
+
+    public void setQuestPoints(int questPoints) {
+        this.questPoints = questPoints;
     }
 
     public int getVnumToKill() {

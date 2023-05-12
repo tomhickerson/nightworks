@@ -1970,7 +1970,7 @@ public final class Nightworks {
         ROOM_INDEX_DATA in_room;
         ROOM_INDEX_DATA was_in_room;
         AREA_DATA zone;
-        PC_DATA pcdata;
+        public PC_DATA pcdata;
         boolean valid;
         String name;
         int id;
@@ -2054,7 +2054,7 @@ public final class Nightworks {
 * Data which only PC's have.
 */
 
-    static final class PC_DATA {
+    public static final class PC_DATA {
         PC_DATA next;
         StringBuilder buffer = new StringBuilder();
         boolean valid;
@@ -2088,7 +2088,7 @@ public final class Nightworks {
         int anti_killed;
         int has_killed;
         int questgiver; /* quest */
-        int questpoints;    /* quest */
+        public int questpoints;    /* quest */
         int nextquest;  /* quest */
         int countdown;  /* quest */
         int questobj;   /* quest */
