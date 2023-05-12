@@ -2,7 +2,7 @@ package net.sf.nightworks.quests;
 
 import net.sf.nightworks.Nightworks;
 
-public abstract class Quest {
+public abstract class SimpleQuest {
 
     private int id;
     private String name;
@@ -72,11 +72,11 @@ public abstract class Quest {
         this.duration = duration;
     }
 
-    public Quest(String name) {
+    public SimpleQuest(String name) {
         this.name = name;
     }
 
-    public Quest(int id, String name) {
+    public SimpleQuest(int id, String name) {
         this.id = id;
         this.name = name;
     }
@@ -86,5 +86,5 @@ public abstract class Quest {
     public abstract boolean canRunAgain();
 
     public abstract Object deliverReward(Nightworks.CHAR_DATA ch);
-    // to be replaced with a reward class, probably not
+    // to be replaced with a reward class, or the character data class
 }
