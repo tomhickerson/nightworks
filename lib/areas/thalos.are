@@ -182,7 +182,7 @@ A
 #5204
 boots mithril~
 a pair of mithril boots~
-A pair of mithril boots stands has been left here.~
+A pair of mithril boots have been left here.~
 mithril~
 armor GK AG
 8 8 8 2 0
@@ -528,7 +528,7 @@ portal AO 0
 #ROOMS
 #5200
 The Grand Gate of Thalos~
-You stand in the archway of a gigantic stone archway. The two
+You stand in the center of a gigantic stone archway. The two
 steel gates have been forced open and have rusted in place. A hollow
 gust of wind blows by you into the deserted, and seemingly destroyed,
 city.
@@ -638,7 +638,7 @@ A Garden Path~
 A circular path surrounds a magnificent domed temple in the center of
 the city. Flowers have withered away and the once lush trees are bare.
 Vines and ivy snake up the sides of the temple and entangle themselves
-around your feet. A sudden volley of howls pierces the air.
+around your feet. 
 ~
 0 0 1
 D0
@@ -662,7 +662,7 @@ A Garden Path~
 A circular path surrounds a magnificent domed temple in the center of
 the city. Flowers have withered away and the once lush trees are bare.
 Vines and ivy snake up the sides of the temple and entangle themselves
-around your feet. A sudden volley of howls pierces the air.
+around your feet. The grass here is brown and dying.
 ~
 0 0 1
 D1
@@ -682,7 +682,8 @@ A Garden Path~
 A circular path surrounds a magnificent domed temple in the center of
 the city. Flowers have withered away and the once lush trees are bare.
 Vines and ivy snake up the sides of the temple and entangle themselves
-around your feet. A sudden volley of howls pierces the air.
+around your feet. The path here is especially dusty, and puffs of dust
+rise with every step you take.
 ~
 0 0 1
 D0
@@ -746,7 +747,7 @@ It lies totally bare.
 S
 #5209
 A Side Street~
-This small side street leads east and west into back alleys while
+This small side street leads east and west into maze-like back alleys while
 to the south you see the temple. The incessant howling tears at your mind.
 ~
 0 0 1
@@ -768,7 +769,7 @@ A Side Street~
 You are in the common section of the city. Ruined buildings made of
 clay and stone is all the view has to offer. Most of these homes are
 nothing but piles of rubble, but some look almost safe enough to venture
-into. The street continues north and south and buildings line the street.
+into. The street continues north and south.
 ~
 0 0 1
 D0
@@ -1572,7 +1573,7 @@ The south-east watchtower~
 You stand atop one of the city watchtowers. The view is magnificent
 from here and you can see all the way to the western mountains. To the
 south the desert stretches to the horizon. No wonder this place stood
-for so long.  There is a small plaque on the stones.
+for so long.  There is a small {Wplaque{x on the stones.
 ~
 0 0 1
 D5
@@ -1867,7 +1868,7 @@ S
 A small ugly cave~
 You are in a small ugly cave.  More skeletons lie around.  It is obvious
 that the owner doesn't want you here.  The exit north is still visible.
-Some writings are on this wall.
+Some {Wwritings{x are on this wall.
 ~
 0 A 3
 D0

@@ -2226,6 +2226,8 @@ M 3719 group_weaponsmaster	*priest of circe
 M 3719 group_combat
 M 3719 group_protective
 M 3719 group_defense
+M 3719 group_benedictions
+M 3719 group_detection
 M 3719 group_defensive
 M 3719 group_healing
 M 3719 group_fightmaster
