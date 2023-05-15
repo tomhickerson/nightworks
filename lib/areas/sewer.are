@@ -963,10 +963,10 @@ the smell is absolutely OVERWHELMING.
 S
 #7008
 A muddy intersection~
-You have both your feet safely stuck in mud. It isn't the mud that's wrong
+You have both your feet squarely stuck in mud. It isn't the mud that's wrong
 it's the smell, the sounds, the total darkness that surrounds you. Everything
 here is so depressing. The pipe leads on with a trail of thick mud to the
-north, east and south.
+north, east and south. You hear squelching, gross sounds in all directions.
 ~
 0 AD 4
 D0
@@ -1055,7 +1055,7 @@ S
 #7011
 The muddy sewer pipe~
 You have entered a kind of tube intersection that leads south, west and east.
-Your legs are covered in mud up to the knees. REAL yucky! 
+Your legs are covered in mud up to the knees. 
 ~
 0 AD 5
 D1
@@ -1199,7 +1199,8 @@ S
 #7016
 The ordinary bend~
 You are in the middle of a bend in the pipe system of the sewer system, 
-WHAT a place!!! The pipe leads to the south and the east.
+you hear all sorts of gurgling and squelching sounds here.
+The pipe leads to the south and the east.
 ~
 0 AD 1
 D1
@@ -1239,7 +1240,8 @@ S
 #7018
 The ordinary junction~
 This looks like an ordinary junction, actually it seems very quiet
-here. The pipelines lead west, east and north.
+here. The floor is covered in dirt and crust, dried up mud.
+The pipelines lead west, east and north.
 ~
 0 ACD 1
 D0
@@ -1262,7 +1264,8 @@ S
 #7021
 A quiet pipe junction~
 This is the kind of place to rest, though the smell could be a LOT better
-than this. The sewer goes east, north and west from here.
+than this. The floor is at least dry. The sewer goes east, north and west 
+from here.
 ~
 0 ACD 1
 D0
@@ -1325,9 +1328,9 @@ leading south and west.
 0 -1 7011
 S
 #7025
-Another intersection~
-You have never seen anything so BORING...This is an intersection with pipes
-leading north, south and east.
+Another Intersection~
+The floor here is unusually dry and dusty, perhaps dried out by a heating pipe.
+This is an intersection with pipes leading north, south and east.
 ~
 0 AD 1
 D0
@@ -1401,7 +1404,7 @@ S
 #7029
 The Triple Junction~
 You stand in the middle of a huge junction of concrete sewer pipes. The 
-pipes lead into three different directions : east, south and west.
+pipes lead in three different directions : east, south and west.
 ~
 0 AD 1
 D1
@@ -1488,7 +1491,8 @@ West. You can just make out a triple junction leading north and west.
 S
 #7034
 A bend in the sewer pipe~
-You can look in two directions where the pipe leads : south and west.
+You are in a narrow and dark corridor, and you can look in two directions 
+where the pipe leads: south and west.
 ~
 0 AD 2
 D2
@@ -1575,8 +1579,9 @@ West. You see another junction similar to this one leading north and south.
 S
 #7039
 The Sewer Store Room~
-You stand in a small room lit by a single torch set in the wall. The only 
-way out of here is to the north.
+You stand in a small room lit by a single torch set in the wall. The floors 
+are swept clean, with piles of dust and hay in the corner.  The only way out 
+of here is to the north.
 ~
 0 D 1
 D0
@@ -1630,7 +1635,8 @@ S
 #7044
 The junction going three ways~
 You are in a passageway in the pipes of the sewer system leading north, east
-and west.
+and west.  The ceiling is lower here and you can hear dripping in the distance 
+somewhere.
 ~
 0 AD 1
 D0
@@ -1676,8 +1682,8 @@ S
 The Sewer room~
 This is a Room with walls that glitters like gold though not quite like it.
 This is strange as it looks as if the glitter lights the whole room. It
-looks very bright. To the south the floor is covered with yucky water. The
-North leads to sort of a Guard Room.
+looks very bright. To the south the floor is covered with a thin film of 
+brackish water. The north leads to sort of a Guard Room.
 ~
 0 D 1
 D0
@@ -1744,7 +1750,7 @@ and west.
 S
 #7050
 The small room~
-The only thing in this room of interest is a chair, and that's tight to the 
+The only thing in this room of interest is a chair, and that's embedded into the 
 rock floor. A doorway leads south and another leads east into darkness.
 ~
 0 AD 1
@@ -1766,8 +1772,9 @@ floor makes you think twice about taking it along with you.
 S
 #7051
 The Sewer pipe~
-You are in what reminds you of a foul sewer, as if you liked being here! 
-You can see two exits leading either north or south.
+You are in one of the larger pipes of this foul sewer, with a thin film of dirty 
+water covering the floor. 
+You can see two exits, leading north and south.
 ~
 0 D 1
 D0
@@ -1945,8 +1952,8 @@ It looks dark and murky, and emanates a foul stench.
 S
 #7061
 The Watery Sewer Bend~
-You can't see anything but the water you're in up to your hips. The sewer
-seems to bend and lead south and west.
+You can't see anything but the water you're already in up to your hips. 
+The sewer seems to bend and lead south and west.
 ~
 0 AD 5
 D2
@@ -1969,7 +1976,7 @@ S
 #7062
 The Watery sewer~
 You can't see anything but the water you're in up to your hips. The sewer
-seems to lead south and north.
+seems to lead south and north. You thikn you hear a splashing in the distance.
 ~
 0 AD 5
 D0
@@ -2015,7 +2022,8 @@ S
 #7064
 The Watery Sewer Junction~
 You can't see anything but the water you're in up to your hips. The sewer
-seems to lead into a junction going south, north and east.
+seems to lead into a junction going south, north and east. Water drips from 
+the ceiling here, ice cold to the touch.
 ~
 0 AD 5
 D0
@@ -2043,8 +2051,9 @@ It looks dark and murky, and emanates a foul stench.
 S
 #7065
 The Watery sewer~
-You can't see anything but the water you're in up to your hips. The sewer
-seems to lead south and north.
+You can't see hardly anything but the water you're in up to your hips. 
+The sewer seems to lead south and north. A thin layer of scum coats 
+the walls and ceiling here. 
 ~
 0 AD 5
 D0
@@ -2118,8 +2127,9 @@ It looks dark and murky, and emanates a foul stench.
 S
 #7068
 The Watery sewer bend~
-You can't see anything but the water you're in up to your hips. The sewer
-seems to bend and lead west and north.
+You can't hardly see anything but the water you're in up to your hips. 
+The sewer seems to bend and lead west and north. Ice cold water drips 
+from the pipes here.
 ~
 0 AD 5
 D0
@@ -2143,7 +2153,7 @@ S
 A ledge by the dark pool~
 You can't see much here but the echo tells you that there's quite a drop
 down. You can just make out a huge dark pool out there in the darkness, 
-mostly because of the trickling of water. The water from the sewer actually
+mostly because of the trickling of water. The water from the sewer 
 washes over this ledge and makes it quite slippery. From here it drops, 
 like a waterfall, into the pool far down.
 ~
@@ -2196,7 +2206,7 @@ S
 The fissure under the ledge~
 This is a small fissure in the solid rock. Under you lies the deep dark pool.
 The water trickles quietly down from the ledge above you. The water smells 
-like the water in a sewer.
+foul and fetid, like the water in a sewer.
 ~
 0 ACD 5
 D4
@@ -2230,8 +2240,8 @@ You never saw such disgusting matter before, it nearly makes you puke.
 S
 #7102
 Under the Dark Pit~
-Nice place you found yourself. You stand in the middle of a room with only
-two exits, Up and East. A tall ladder is left here so that you can climb
+You stand in the middle of a dark, circular room with only two exits, 
+Up and East. A tall ladder is left here so that you can climb
 up through the Pit without the use of a rope.
 ~
 0 AD 1
@@ -2283,7 +2293,8 @@ S
 #7104
 A junction in the sewer pipes~
 You stand in the middle of what looks like a triple junction of pipes
-going east, west and north.
+going east, west and north.  The mud on the floor here is dried and 
+cracked.
 ~
 0 AD 1
 D0
@@ -2334,7 +2345,7 @@ S
 The northwestern corner of the ledge~
 You stand, swaying out from the ledge, with only a couple of inches of safe, 
 solid ledge under your feet. The ledge continues to the east but not back
-south. It seems that the ledge is too narrow to turn on so you'll have to
+south. It seems that the ledge is too narrow to turn on, so you'll have to
 continue forward.
 ~
 0 ACD 5
@@ -2378,7 +2389,7 @@ S
 The narrow ledge~
 You are in the progress of walking all the way around the ledge since there's
 no way of turning around on this all too narrow path. There IS another exit
-from here but that leads right into mid-air and with high probability of a
+from here, but that leads right into mid-air and with high probability of a
 free fall session afterwards.
 ~
 0 ACD 5
@@ -2403,7 +2414,7 @@ S
 The narrow ledge~
 You are in the progress of walking all the way around the ledge since there's
 no way of turning around on this all too narrow path. There IS another exit
-from here but that leads right into mid-air and with high probability of a
+from here, but that leads right into mid-air and with high probability of a
 free fall session afterwards.
 ~
 0 ACD 5
@@ -2428,7 +2439,7 @@ S
 The narrow ledge~
 You are in the progress of walking all the way around the ledge since there's
 no way of turning around on this all too narrow path. There IS another exit
-from here but that leads right into mid-air and with high probability of a
+from here, but that leads right into mid-air and with high probability of a
 free fall session afterwards.
 ~
 0 ACD 5
@@ -2519,7 +2530,7 @@ S
 The narrow ledge going east to west~
 You are in the process of walking all the way around the ledge since there's
 no way of turning around on this all too narrow path. There IS another exit
-from here but that leads right into mid-air and with high probability of a
+from here, but that leads right into mid-air and with high probability of a
 free fall session afterwards.
 ~
 0 ACD 5
@@ -2542,14 +2553,16 @@ The ledge leads further west.
 S
 #7114
 Mid-air~
-You've just stepped into the most unlucky position in the whole of Merc Mud.
-The result of such a foolish act should be punished with death, you know.
-With an acceleration of approximately 9.82 metres per second per second, you
-are now descending the Abyss. What awaits you at the bottom will continue to
-be a mystery. Bye Cruel World.
-You've fallen, and you can't get up!!!
+You step out into empty space, fully expecting a rapid descent into 
+darkness, but ... you find you are falling much slower than expected,
+slowly sinking to the bottom of this abyss.
 ~
-0 CD 0
+0 CDN 0
+D5 
+You can now only sink slower into the depths of the dark pit.
+~
+~
+0 -1 7191
 S
 #7115
 The Broad ledge~
@@ -2579,7 +2592,7 @@ S
 #7116
 The northeastern corner of the ledge~
 You stand, swaying out from the ledge, with only a couple of inches of safe,
-solid ledge under your feet. The ledge continues to the west and leads south
+solid ledge under your feet. The {Wledge{x continues to the west and leads south
 from here into darkness.
 ~
 0 ACD 5
@@ -2605,7 +2618,7 @@ into the seemingly solid rock face of the ledge.
 E
 ground ledge rock~
 The ground here seems a little different from all the other ledges along the
-Abyss. There's a kind of soft soil on this ledge, maybe you should look 
+Abyss. There's a kind of soft {Wsoil{x on this ledge, maybe you should look 
 carefully at this. It seems to be of some interest.
 ~
 S
@@ -2613,7 +2626,7 @@ S
 The narrow eastern ledge~
 You are in the progress of walking all the way around the ledge since there's
 no way of turning around on this all too narrow path. There IS another exit
-from here but that leads right into mid-air and with high probability of a
+from here, but that leads right into mid-air and with high probability of a
 free fall session afterwards. And THAT is west of here so watch your step.
 ~
 0 ACD 5
@@ -2633,7 +2646,7 @@ S
 The narrow eastern ledge~
 You are in the progress of walking all the way around the ledge since there's
 no way of turning around on this all too narrow path. There IS another exit
-from here but that leads right into mid-air and with high probability of a
+from here, but that leads right into mid-air and with high probability of a
 free fall session afterwards. And THAT is west of here so watch your step.
 ~
 0 ACD 5
@@ -2653,7 +2666,7 @@ S
 The narrow eastern ledge~
 You are in the progress of walking all the way around the ledge since there's
 no way of turning around on this all too narrow path. There IS another exit
-from here but that leads right into mid-air and with high probability of a
+from here, but that leads right into mid-air and with high probability of a
 free fall session afterwards. And THAT is west of here so watch your step.
 ~
 0 ACD 5
@@ -2673,7 +2686,7 @@ S
 The narrow eastern ledge~
 You are in the progress of walking all the way around the ledge since there's
 no way of turning around on this all too narrow path. There IS another exit
-from here but that leads right into mid-air and with high probability of a
+from here, but that leads right into mid-air and with high probability of a
 free fall session afterwards. And THAT is west of here so watch your step.
 You also see a small opening to the east.
 ~
@@ -2715,13 +2728,13 @@ The ledge leads further west.
 S
 #7122
 Under the pit~
-You stand in a completely dark cavern leading west. The wall looks weird here.
+You stand in a completely dark cavern leading west. The {Wwall{x looks weird here.
 ~
 0 AD 0
 D1
 ~
 crack wall rock~
-0 -1 -1
+0 -1 -1 
 D3
 ~
 ~
@@ -2775,15 +2788,74 @@ a sewer drain, and north the drain continues.
 S
 #7190
 Mid-air~
-You've just stepped into the most unlucky position in the whole of DikuMUD.
-The result of such a foolish act should be punished with death, you know.
-With an acceleration of approximately 9.82 metres per second per second, you
-are now descending the Abyss. What awaits you at the bottom will continue to
-be a mystery. Bye Cruel World.
-You've fallen, and you can't get up!!!
+You step out into empty space, fully expecting a rapid descent into 
+darkness, but ... you find you are falling much slower than expected,
+slowly sinking to the bottom of this abyss.
 ~
-0 CD 0
+0 CDN 0
+D5 
+You can now only sink slower into the depths of the dark pit.
+~
+~
+0 -1 7191
+S 
+#7191
+A Sandy Bottom~
+You float to the bottom of the pit. Your feet touch down on soft, damp sand,
+and nearby you see a shallow pond of what looks to be fresh water.  The walls
+here are rough-hewn, and there is a cave opening to the south.
+~
+0 CDN 0
+D2 
+You see an cavernous passage to the south.
+~
+~
+0 -1 7192
 S
+#7192
+A Dark Passage~
+You silently tread through a large cavernous passage, its floor still 
+covered in the same sandy covering which masks sound, but holds together
+firmly enough. To the south you hear some sounds.
+~
+0 CDN 0
+D0 
+You see a passage back to the bottom of the Abyss.
+~
+~
+0 -1 7193
+D2
+There seems to be some noise coming from there.
+~
+~
+0 -1 7194
+S 
+#7193
+A Sandy Bottom~
+You are at the bottom of the pit, covered in soft, damp sand, and nearby 
+you see a shallow pond of what looks to be fresh water.  The walls
+here are rough-hewn, and there is a cave opening to the south.
+~
+0 CDN 0
+D2 
+You see an cavernous passage to the south.
+~
+~
+0 -1 7192
+S
+#7194
+A Star Chamber~
+You are in a rough chamber, odd-shaped, with corners forming the shape
+of a five-pointed star.  There is a stone dias rising in the center of the 
+chamber, with the sandy floor from the north passage surrounding it.
+~
+0 N 0
+D0 
+You see the cavernous passage to the north.
+~
+~
+0 -1 7912
+S 
 #7199
 The Edge of the Water~
 The pool side is dimly lit up by your light. You can see absolutely nothing
@@ -2837,9 +2909,9 @@ door stone~
 S
 #7202
 The Lair~
-On the floor you see a lot of human decay, like bones and skulls. You also
-see a lot of slime. On the wall is a torch sitting in its sconce. To the north 
-are a wooden door.
+On the floor you see piles of human decay, bones and skulls and other bits. 
+You also see a lot of slime. On the wall is a torch sitting in its sconce. 
+To the north is a wooden door.
 ~
 0 D 1
 D0
@@ -2863,7 +2935,7 @@ The torch is bolted to the sconce and the sconce to the wall.
 ~
 E
 slime~
-The slime is slimy and uninteresting.
+The slime is slimy, gross and uninteresting.
 ~
 E
 skull skulls bones decay~
@@ -2873,8 +2945,8 @@ forehead. All the bones are broken and old.
 S
 #7203
 The Lair~
-On the floor you see a lot of human decay, like bones and skulls. You also
-see a lot of slime. On the wall is a torch sitting in its sconce.
+On the floor you see much human decay, like bones and skulls. You also
+see a lot of putrid-smelling slime. On the wall is a torch sitting in its sconce.
 ~
 0 D 1
 D0
@@ -2908,7 +2980,7 @@ forehead. All the bones are broken and old.
 S
 #7204
 The Lair~
-On the floor you see a lot of human decay, like bones and skulls. You also
+On the floor you see piles of human decay, like bones and skulls. You also
 see a lot of slime. On the wall is a torch sitting in its sconce.
 ~
 0 D 1
