@@ -3178,7 +3178,7 @@ You are in a collapsed sewer drain, which now is more like a small cave.
 ~
 0 AD 3
 D2
-You look back into the four-way junction.
+You look into the four-way junction.
 ~
 ~
 0 -1 7210
@@ -3364,7 +3364,7 @@ You can see a sewer line.
 S
 #7222
 The sewer drain.~
-You are in a drain, with some slimy water on the floor.
+You are in a drain, with some slimy water covering the floor.
 ~
 0 AD 3
 D1
@@ -3384,7 +3384,7 @@ The water floats to the east from here.
 S
 #7223
 The sewer bend.~
-You find yourself in an ordinary sewer bend, which bend from west to north.
+You find yourself in an ordinary sewer bend, which bends from west to north.
 ~
 0 AD 3
 D0
@@ -3401,7 +3401,7 @@ S
 #7224
 The sewer junction~
 You stand in a junction of three sewer drains. You see some odd scratches on
-the pipe wall, as from a gigantic rat.North and south the sewer continues 
+the pipe wall, as from a gigantic rat. North and south the sewer continues 
 as usual, but west it looks a little strange.
 ~
 0 AD 3
@@ -3488,13 +3488,13 @@ You see another sewer.
 0 -1 7232
 E
 debris~
-You see a lot of organic decay on the floor.
+You see a lot of organic decay on the floor. Is that a piece of bone?
 ~
 S
 #7232
 The sewer~
 You are in a sewer with more scratches on the walls. And of course a whole lot
-of decay. The drain runs east and north.
+of decay, it smells like rot in here. The drain runs east and north.
 ~
 0 AD 3
 D0
@@ -3573,18 +3573,21 @@ secret door~
 E
 triangle~
 The triangle is filled with small symbols in a language you have
-never seen before.
+never seen before.  They are of a pearly white stone, embedded into
+the altar.
 ~
 E
 altar~
-This altar are very special. Faces are smiling from it. There
-is a triangle in top of it.
+This altar radiates an eerie aura. Faces carved into the side are 
+smiling and laughing, they seem to peer directly at you. There is 
+a triangle engraved into the top of it.
 ~
 S
 #7281
 The corridor.~
-The corridor is glowing oppressively in a red hue. You can hear wailing
-through an open black hole to the east. To the south there is a round door.
+The walls of this corridor is glowing oppressively in a red hue. You 
+can hear wailing through an open black hole to the east. To the south 
+there is a round door.
 ~
 0 D 1
 D1
@@ -3634,10 +3637,12 @@ The shadow looks like a man in great pain.
 ~
 S
 #7283
-The T-crossing~
-You are in a small hallway. There are doors to the east and to
-the west. To the south there are a black hole. There is writing
-in the wall. Wails can be heard from the south.
+The Small Hall~
+You are in a small hallway. The walls are of brick stone and 
+there is a carpet on the floor. There are doors to the east 
+and to the west. To the south there is a black hole, hanging 
+in space. There is writing on the wall. Wails can be heard 
+from the south.
 ~
 0 ACD 1
 D1
@@ -3663,20 +3668,28 @@ To the west you will surely END your quest!'.
 ~
 S
 #7284
-The firedeath~
-This room is very hot. There are flames surrounding you.  You can
-see no exits at all!  Skeletons are lying all over the floor.
+The furnace~
+This room is very hot. There are flames surrounding you.  A dark iron
+furnace is here, with its door open, and the flames from within it are
+shooting out of the opening into this room.
+Skeletons are lying all over the floor.
 ~
 0 CD 1
+D3
+You see an exit to a small hallway.
+~
+~
+0 -1 7283
 E
 writing wall~
-The writing says 'A pray to the GODS will not be heard, though
-the only exit is death..... Mother, I love you'.
+The writing says 'A prayer to the GODS will not be heard, though
+the only exit is death....'.
 ~
 E
 skeletons~
-The skeletons looks like they had suffered the death of hunger.
-One of them looks like he has written something at the wall.
+The skeletons are curled up in a fetal position and clutching 
+their stomachs. One of them looks like he has written something 
+on the wall.
 ~
 S
 #7285
@@ -3761,13 +3774,14 @@ S
 On the walls of the Abyss~
 You are clutching the steps on the wall so that you don't fall to the ground
 down below.
-A large sign says : I haven't gotten any further ... Yet. But  I'm pushing
-                    to get finished with this sewer. 
-                                           Greetings and Good Health :)
-                                                     Redferne The Gentle
-This stops your journey down, the only exit is up.
+This stops your journey down, the only exit is up, unless you want to fall into 
+the Abyss.
 ~
 0 AD 5
+D0
+~
+~
+0 -1 7114
 D4
 ~
 ~
@@ -3776,7 +3790,7 @@ S
 #7400
 Cave entrance~
 You are standing in the cave entrance. It is very dark
-down here. There is writing at the wall. There is an exit
+down here. There is {Wwriting at the wall{x. There is an exit
 to the north. A stairway leads up.
 ~
 0 AD 1
@@ -3792,7 +3806,7 @@ You can see the stairs going up into darkness.
 0 -1 7102
 E
 writing wall~
-The writing says 'BEWARE adventurer!'
+The writing says '{RBEWARE{x adventurer!'
 ~
 S
 #7401
@@ -3815,11 +3829,11 @@ S
 #7402
 Cave room~
 You are standing in a room. It's much cooler now.
-The walls are glowing.
+The walls are glowing with an eerie hue.
 ~
 0 D 1
 D1
-To the east you see the tunnel going downwards.
+To the east you see the tunnel sloping downwards.
 ~
 ~
 0 -1 7403
@@ -3835,7 +3849,7 @@ D3
 S
 #7403
 Cave T-cross~
-You are standing in a mud-like substance. The smell here is
+You are standing in some mud-like substance. The smell here is
 awful, it is rotten. To the west you can see some light.
 ~
 0 AD 2
@@ -3865,10 +3879,9 @@ around.
 S
 #7404
 Cave turning-point~
-The mud are getting deeper. You are wondering, 'Would
-it be an idea to leave, before I disappear?'. To the
-south you notice a flat round stone are blocking the
-way. To the west you can see mud.
+The mud is getting deep here. To the south you notice a 
+flat round stone are blocking the way. To the west you 
+can see more mud.
 ~
 0 AD 2
 D2
@@ -3957,7 +3970,7 @@ S
 The long tunnel~
 Here There is almost no mud, as you stand at the top
 of a small rock. Just beside you there are a sign which
-says 'WARNING! The worms are dangerous!'.
+says '{RWARNING!{x The worms are dangerous!'.
 ~
 0 AD 1
 D0
@@ -3973,9 +3986,9 @@ The tunnel goes a little downwards.
 S
 #7409
 The hot room~
-You are very surprised, as this room for a change are
+You are very surprised, as this room for a change is
 hot instead of cold. To the north it goes downwards into
-some mud. There are also an exit to the west.
+some mud. There is also an exit to the west.
 ~
 0 AD 1
 D0
@@ -4014,7 +4027,7 @@ S
 #7411
 The stalagmite cave~
 You are standing in a stalagmite cave. Water is dripping
-from the walls. It is very cold in here.
+from the walls. It is very cold and damp in here.
 ~
 0 AD 2
 D0
@@ -4038,7 +4051,7 @@ S
 #7412
 The stalagmite tunnel~
 You have entered a small tunnel. Here it is quite dry.
-Maybe it would be an idea to rest here.
+Maybe it would be a good idea to rest here.
 ~
 0 AD 1
 D0
@@ -4053,7 +4066,7 @@ D3
 S
 #7413
 The spongy room~
-You definitely NOT like this area. It is very dank, and most
+You definitely do NOT like this area. It is very dank, and in most
 of the places it is wet.
 ~
 0 CD 3
@@ -4069,7 +4082,7 @@ S
 #7414
 The stalagmite T-cross~
 You are standing in a cross. To the north you can see
-some light. Otherwise it is dark.
+some light. Darkness is everywhere else.
 ~
 0 CD 1
 D0
@@ -4110,14 +4123,14 @@ of the picture.
 S
 #7416
 The treasure room~
-This room is rich ornamented. The walls has carves showing
+This room is rich ornamented. The walls display carvings showing
 persons dancing around a sun which is drawn at the floor. It
 looks very old, and it is very dusty. To the south you see a
 secret door.
 ~
 0 AD 1
 D2
-you can see a picture with some persons crawling around a
+You can see a picture with some persons crawling around a
 huge moon.
 ~
 door picture sun moon~
@@ -4126,7 +4139,7 @@ S
 #7417
 The square lair~
 You are standing in the south-east part of the lair. You can
-see a skeleton lying at the wall.
+see a skeleton lying against the wall.
 ~
 0 D 1
 D0
@@ -4146,27 +4159,27 @@ Another part of the lair
 E
 skeleton~
 It looks like a adventurer who wasn't lucky. You better
-watch out-
+watch out...
 ~
 S
 #7418
 The square lair~
 You are standing in the north-east part of the lair. You see
-a sign at the wall
+a sign on the wall.
 ~
 0 AD 1
 D1
-You see a wooden door
+You see a wooden door.
 ~
 wooden door~
 1 -1 7421
 D2
-another part of the lair.
+Another part of the lair.
 ~
 ~
 0 -1 7417
 D3
-another part of the lair.
+Another part of the lair.
 ~
 ~
 0 -1 7419
@@ -4189,12 +4202,12 @@ You see a small tunnel leading north.
 ~
 0 -1 7422
 D1
-another part of the lair.
+Another part of the lair.
 ~
 ~
 0 -1 7418
 D2
-another part of the lair.
+Another part of the lair.
 ~
 ~
 0 -1 7420
@@ -4208,23 +4221,23 @@ S
 #7420
 The lair end~
 You can see a table in front of you. It's very dusty.
-Around the table five skeletons are siting. Exits are
+Around the table are sitting five skeletons. Exits are
 north and east.
 ~
 0 AD 1
 D0
-the northern part of the lair.
+The northern part of the lair.
 ~
 ~
 0 -1 7419
 D1
-the eastern part of the lair.
+The eastern part of the lair.
 ~
 ~
 0 -1 7417
 E
 dragon statue~
-it looks like a silver dragon. It is nailed onto the table.
+It looks like a silver dragon. It is nailed onto the table.
 The dragon sits on a red dragon that looks dead. But the
 eyes of the red dragon is glowing pulsating red. You feel
 drained.
@@ -4296,35 +4309,35 @@ S
 #7424
 The Circular hall.~
 You are standing in round hall. To the north, east and south you
-can see a stone head hanging on the walls.
+can see stone dragon heads hanging on the walls.
 ~
 0 AD 1
 D1
-you see nothing special.
+You see nothing special.
 ~
 green head dragon sculpture face~
 1 -1 7425
 D3
-you see a room far away.
+You see a room far away.
 ~
 ~
 0 -1 7423
 E
 blue~
-This looks like a good dragon
+This looks like a good dragon.
 ~
 E
 red~
-This looks like a neutral dragon
+This looks like a neutral dragon.
 ~
 E
 green~
-This looks like a evil dragon
+This looks like a evil dragon.
 ~
 E
 head heads~
-When you study the faces of the heads you see that it
-is faces of dragons. The face to the north is red, the
+When you study the faces of the heads, you see that they
+are faces of dragons. The face to the north is red, the
 face to the east is green and the face to the south is
 blue.
 ~
@@ -4344,8 +4357,7 @@ dark.
 ~
 0 -1 7426
 D3
-You can see the outline of a door. Just like in the
-description!
+You can see the outline of a door.
 ~
 door~
 1 -1 7424
