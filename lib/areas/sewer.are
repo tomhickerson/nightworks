@@ -4407,15 +4407,15 @@ a long dark tunnel.
 0 -1 7428
 E
 sign~
-The sign says 'DANGER!!'.
+The sign says '{RDANGER!!{x'.
 ~
 S
 #7428
 Dragons lair~
 You can see burned walls, the floorstones are fiery red.  All kinds of bones
 are scattered all over the floor.  On the walls you can see some burned
-shapes.  You smell burned flesh.  Two creatures are melted into the floor.
-You're next.
+shapes.  You smell burned flesh.  Two creatures are melted into the floor 
+like wax.  Are you next?
 ~
 0 AD 2
 D0
@@ -4446,13 +4446,13 @@ D3
 0 -1 7430
 E
 writing~
-The writing says 'DANGER!!!'
+The writing says '{RDANGER!!!{x'
 ~
 S
 #7430
 The wind tunnel~
 You are standing in a tunnel. Above you, you can feel
-a breeze.
+a slight breeze.
 ~
 0 AD 1
 D1
