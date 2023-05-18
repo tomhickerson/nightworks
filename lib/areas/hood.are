@@ -362,10 +362,10 @@ It appears to be a broken wine bottle, but what do you know about brewing?
 A Dark Alleyway~
 The walls of the alleyway have been spray-painted over many times
 over the years.  One section of graffiti actually looks legible,
-it says:    This section has been designed for levels 5 through 10
+it says:    {YThis section has been designed for levels 5 through 10
             If you are above level 15 please don't expect much fun.
-            If you are below level 5 enter at your own risk.
-Another section of graffiti says "Raff Rules!"
+            If you are below level 5 enter at your own risk.{x
+Another section of graffiti says "{WRaff Rules!{x"
 There is a boulevard to the east and Emerald Avenue is visible to the west.
 ~
 0 AC 1
@@ -1459,10 +1459,10 @@ S
 A wide alleyway~
 The sides of the alleyway have been vandalized many times.
 One patch of graffiti actually looks readable:
-            This section has been designed for levels 5 through 10
+            {YThis section has been designed for levels 5 through 10
             If you are above level 10 please don't expect much.
-            If you are below level 5 enter at your own risk.
-In another spot it says "now entering Ogre territory..."
+            If you are below level 5 enter at your own risk.{x
+In another spot it says "{Wnow entering Ogre territory...{x"
 A street lies to the west and a major road to the east.
 ~
 0 AC 1
