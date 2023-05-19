@@ -1,5 +1,7 @@
 package net.sf.nightworks;
 
+import net.sf.nightworks.player.Vices;
+import net.sf.nightworks.player.Virtues;
 import net.sf.nightworks.util.Password;
 import net.sf.nightworks.util.TextBuffer;
 import org.jetbrains.annotations.Nullable;
@@ -19,7 +21,7 @@ public final class Nightworks {
 
     static final int MAX_ALIAS = 50;
     static final int MAX_TIME_LOG = 30;
-    static final int MAX_ACHIEVEMENTS = 52; // a-zA-Z
+    static final int MAX_ACHIEVEMENTS = 100; // csv list, so we can make it large, 100 for now
     static final int MAX_TIME_LIMIT = 43200;    /* 720 Hours */
 
     static final String DEFAULT_PROMPT = "<{c%n{x: %h/%Hhp %m/%Mm %v/%Vmv tnl:%X {c%e{x Opp:%o> ";
@@ -2080,7 +2082,10 @@ public final class Nightworks {
         final String[] alias = new String[MAX_ALIAS];
         final String[] alias_sub = new String[MAX_ALIAS];
         String[] achievements = new String[MAX_ACHIEVEMENTS];
-        String lineAchievement; // contains all the achievements in one line, can then use 'contains'
+        String lineAchievement; // contains all the achievements in one CSV line,
+        // can then use 'contains'
+        Virtues virtues = new Virtues();
+        Vices vices = new Vices();
         int bank_s;
         int bank_g;
         int death;
