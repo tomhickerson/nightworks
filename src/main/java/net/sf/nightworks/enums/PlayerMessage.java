@@ -9,7 +9,7 @@ public enum PlayerMessage {
 	WEAPON_RUN_AWAY(5, "Your weapon whispers, '{rRun away! Run away!{x'\n"),
 	WEAPON_GLOWS_BLUE(6, "Your weapon glows {cblue.{x"),
 	GODS_ARE_FURI(7, "The gods are infuriated!"),
-	CONSUMNED_BY_RAGE(8, "Your pulse races as you are consumned by rage!\n"),
+	CONSUMNED_BY_RAGE(8, "Your pulse races as you are consumed by rage!\n"),
 	TATOO_GLOWS_RED(9, "{rThe tattoo on your shoulder glows red.{x"),
 	TATOO_GLOWS_BLUE(10, "{cThe tattoo on your shoulder glows blue.{x"),
 	WELCOME_TO_SPELLBOUND(11, "\nWelcome to Multi User Dungeon of {RS{rp{oe{Yl{yl{Gb{go{vu{in{cd{x. Enjoy!!...\n"),
@@ -25,8 +25,8 @@ public enum PlayerMessage {
 		this.message = message;
 	}
 	
-	private int id;
-	private String message;
+	private final int id;
+	private final String message;
 	
 	public int getId() {
 		return id;
