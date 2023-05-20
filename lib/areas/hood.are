@@ -1209,7 +1209,7 @@ D3
 S
 #2146
 Hector Street~
-The street is full of garbage here.  An odd building lies to the west,
+The street is full of garbage here.  An odd {Wbuilding{x lies to the west,
 but you don't seem to be able to find a way into it.  The street
 runs north and south here.
 ~
@@ -1222,6 +1222,21 @@ D2
 ~
 ~
 0 -1 2150
+D3
+~
+panel panels~
+1 -1 2171
+E
+building~
+It's a large house, boarded up like the others, but the carvings and 
+woodwork done on the exterior walls and windowsills are quite ornate.
+You think you see some writing on one of the panels.
+~
+E 
+writing~
+The words seem to dance in front of you for a bit, but then read '{YOpen
+me for a surprise{x'.
+~
 S
 #2147
 Achilles Avenue~
@@ -1346,7 +1361,7 @@ S
 #2154
 Ajax street at Weaponshop (or whats left of it)~
 The street goes north and south.  The stables used to be to the
-east, but I bet all the horses are dead or gone.
+east, but all the horses are dead or gone.
 ~
 0 0 1
 D0
@@ -1364,8 +1379,8 @@ D3
 S
 #2155
 Khan Park~
-Not really a "park" as you and i would think of it but
-it seems queerly peaceful here in comparison to the rest of
+Not really a "park" as you and I would think of it, but
+it seems oddly peaceful here in comparison to the rest of
 the area.  There seems to be some kind of memorial to the
 great Mongol warrior Khan being crudely constructed here.
 There is a street to the east and another to the south.
@@ -1401,9 +1416,9 @@ D3
 S
 #2157
 A bend in Ajax~
-The roads bends south and east here.  You barely notice
+The road bends south and east here.  You barely notice
 a small alley leading north.  Some kind of tunnel entrance
-is to the west but it has been crushed under its own weight.
+is to the west, but it has been crushed under its own weight.
 ~
 0 0 1
 D0
@@ -1423,8 +1438,8 @@ S
 Ajax street~
 A once prideful guildhouse was on the northeast corner of
 this intersection.  Most of the walls and ceiling have long since
-been demolished.  An inn/pub is to the south.  The street bends
-to the east or west.
+been demolished.  An Inn is to the south.  The street leads
+to the east and west.
 ~
 0 0 1
 D1
@@ -1443,7 +1458,8 @@ S
 #2159
 Curve in the road~
 The street goes north or west from here.  A narrow street once
-headed southeast from here.
+headed southeast from here, but is now blocked by wreckage, 
+pulled from buildings.
 ~
 0 0 1
 D0
@@ -1478,7 +1494,7 @@ You see the end of Elm street. Looks much safer.
 S
 #2161
 Alexander Road~
-You see many gang members walking around looking for
+You see many gang members strolling about, looking for
 fights to pick and things to break.  It seems as if all of the
 other citizens have been run out of town.  All the former
 homes are boarded up and uninhabitable.  The road continues
@@ -1496,8 +1512,8 @@ D3
 S
 #2162
 Alexander Street at park entrance~
-A park-looking area lies to the north and a passage between
-two buildings leads to another street to the south.
+A park-looking area lies to the north, and a passage between
+two decrepit buildings leads to another street to the south.
 ~
 0 0 1
 D0
@@ -1515,8 +1531,9 @@ D3
 S
 #2163
 Achilles Avenue~
-The Avenue Runs north and south.  You sense you are deep within
-Ogre gang territory, and a chill goes up your spine.
+The Avenue Runs north and south, all hard cobblestones and 
+deserted buildings.  You sense you are deep within Ogre gang 
+territory, and a chill goes up your spine.
 ~
 0 0 1
 D0
@@ -1546,9 +1563,8 @@ S
 #2165
 The inn/pub~
 The inn actually looks fairly functional despite its lack
-of repair.  The boys come here to hoot it up and drink them selves
-into oblivion sometimes.  It looks as if the beer is still on tap!!!
-A hallway leads south and you spy a street through the doorway
+of repair.  It looks as if the beer is still on tap!!!
+A hallway leads south and you see a street through the doorway
 to the north.
 ~
 0 D 0
@@ -1564,7 +1580,7 @@ S
 #2166
 Solomon Street~
 This street forms the southern boundary of Ogre territory.  The
-street extends far to the east.  There is also a pathway between
+street extends far to the east.  There is also a narrow alley between
 buildings which leads to another street to the north.
 ~
 0 0 1
@@ -1600,8 +1616,8 @@ S
 Solomon Street~
 A wrought-iron fence blocks off what used to be an entrance to the
 cemetery here to the north.  The evil just seems too strong to
-to consider entering.  You feel you should stick with the "lesser"
-evils along the road to the east and west.
+to consider entering.  The road leads east and west here, through
+town.
 ~
 0 0 1
 D1
@@ -1616,7 +1632,7 @@ S
 #2169
 Intersection of Ajax and Solomon~
 The two roads meet at a corner here.  Ajax runs north and
-Solomon heads west.  An inn/pub is through a back doorway
+Solomon heads west.  An inn/pub can be seen through a back doorway
 to the east.
 ~
 0 0 1
@@ -1649,6 +1665,18 @@ D3
 ~
 ~
 0 -1 2169
+S
+#2171
+A small room~
+You are in a small, dark chamber inside a wooden house. The
+floor is actually clean and everything seems very well kept.
+~
+0 AD 0
+D1
+An exit out to Hector Street.
+~
+~
+0 -1 2146
 S
 #0
 #RESETS

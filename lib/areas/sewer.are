@@ -4324,15 +4324,15 @@ You see a room far away.
 0 -1 7423
 E
 blue~
-This looks like a good dragon.
+This looks like a good dragon, with a hopeful smile.
 ~
 E
 red~
-This looks like a neutral dragon.
+This looks like a neutral dragon, with a bored expression.
 ~
 E
 green~
-This looks like a evil dragon.
+This looks like a evil dragon, with a greedy snarl.
 ~
 E
 head heads~
@@ -4393,7 +4393,7 @@ S
 #7427
 The L-shaped room~
 You are standing in a L-shaped room. You can hear noises from the long
-tunnel to the east. You can feel fear! A sign is hanging on the wall.
+tunnel to the east. You can feel fear! A {Wsign{x is hanging on the wall.
 ~
 0 AD 2
 D0
