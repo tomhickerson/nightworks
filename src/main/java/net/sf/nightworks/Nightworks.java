@@ -22,6 +22,7 @@ public final class Nightworks {
     static final int MAX_ALIAS = 50;
     static final int MAX_TIME_LOG = 30;
     static final int MAX_ACHIEVEMENTS = 100; // csv list, so we can make it large, 100 for now
+    static final int MAX_VIRT_VICE = 7; // how many virtues and vices, they're both 7
     static final int MAX_TIME_LIMIT = 43200;    /* 720 Hours */
 
     static final String DEFAULT_PROMPT = "<{c%n{x: %h/%Hhp %m/%Mm %v/%Vmv tnl:%X {c%e{x Opp:%o> ";

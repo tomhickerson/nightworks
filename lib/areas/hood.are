@@ -1668,8 +1668,11 @@ D3
 S
 #2171
 A small room~
-You are in a small, dark chamber inside a wooden house. The
-floor is actually clean and everything seems very well kept.
+You are in a small, gloomy chamber inside a wooden house. The
+floor is actually clean and everything seems very well kept,
+but a little dusty.  All the windows are boarded up and the 
+air in this room is musty and thick.  You see the exit east, and a 
+corridor leading deeper into the house to the west.
 ~
 0 AD 0
 D1
@@ -1677,6 +1680,24 @@ An exit out to Hector Street.
 ~
 ~
 0 -1 2146
+D3
+A paneled corridor leading into the house.
+~
+~
+0 -1 2172
+S
+#2172
+A small passage~
+You are in a low corridor running east and west, with floors 
+of dark wood.  Several portraits hang on the walls here, 
+framed in metal.
+~
+0 AD 0
+D1 
+The corridor leads into a small room.
+~
+~
+0 -1 2171
 S
 #0
 #RESETS
