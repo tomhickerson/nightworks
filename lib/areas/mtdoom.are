@@ -2722,10 +2722,10 @@ D5
 S
 #14751
 The Cell Block~
-Here the prisoner of Krogthar are kept. There are not many cells, as the
+Here the prisoners of Krogthar are kept. There are not many cells, as the
 Lord Korgthar is not fond of taking prisoners (hassles, hassles...). If
 you think security is a little lax, think of what lurks outside to deter
-potentianl escapees...
+potential escapees...
 ~
 0 1|8 0
 D0
@@ -2769,10 +2769,10 @@ D0
 S
 #14754
 The Cell Block~
-Here the prisoner of Krogthar are kept. There are not many cells, as the
+Here the prisoners of Krogthar are kept. There are not many cells, as the
 Lord Korgthar is not fond of taking prisoners (hassles, hassles...). If
 you think security is a little lax, think of what lurks outside to deter
-potentianl escapees...
+potential escapees...
 ~
 0 1|8 0
 D0
@@ -3199,7 +3199,7 @@ S
 #14781
 A Junction~
 You may head through doors to the north or south from here, or back east
-to the outer fortress. There is a sign on the south door, and a plaque on
+to the outer fortress. There is a {Wsign{x on the south door, and a {Wplaque{x on
 the northern.
 ~
 0 8 0
@@ -3219,20 +3219,20 @@ E
 sign~
 The sign reads-
 
-        The Quarters of the Archmage. Please do not enter. Important
+        {YThe Quarters of the Archmage. Please do not enter. Important
         experiment in progress. Leave messages with the guards.
 
-        - Axtraxes.
+        - Axtraxes.{x
 ~
 E
 plaque~
 The plaque reads-
 
-       "T H E   E L E M E N T A L   L A B O R A T O R I E S "
+       {R"T H E   E L E M E N T A L   L A B O R A T O R I E S "
 
        Keep out!
 
-       - Axtraxes.
+       - Axtraxes.{x
 ~
 S
 #14782
