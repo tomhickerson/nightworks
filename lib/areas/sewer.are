@@ -2849,7 +2849,7 @@ You are in a rough chamber, odd-shaped, with corners forming the shape
 of a five-pointed star.  There is a stone dias rising in the center of the 
 chamber, with the sandy floor from the north passage surrounding it.
 ~
-0 N 0
+0 DN 0
 D0 
 You see the cavernous passage to the north.
 ~
@@ -3185,7 +3185,7 @@ You look into the four-way junction.
 S
 #7212
 The sewer drain.~
-You are in a dry sewer drain which bends to the north.
+You are in a dusty, dry sewer drain which bends to the north.
 ~
 0 AD 3
 D0
