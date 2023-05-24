@@ -1031,7 +1031,7 @@ S
 The Front of the Inn~
 You are standing on a well-worn path which opens into a clearing.
 An old, wooden building is here with smoke billowing from its
-chimney. A painted sign is visible on the porch to the west. You
+chimney. A painted {Wsign{x is visible on the porch to the west. You
 could go north or south around the building or leave this place and
 return to the forest.
 ~
@@ -1068,7 +1068,7 @@ credits credit author~
 E
 sign~
 The sign reads:
-   The Woodsman
+   {YThe Woodsman{x
 ~
 S
 #3571
@@ -1205,7 +1205,7 @@ You see the main floor of the Inn to the east.
 S
 #3578
 Garbage dump~
-You stand knee deep in garbage.  YECCH!!! It smells terrible and who knows
+You stand knee deep in garbage.  It smells terrible and who knows
 what vermin live in these piles of filth ...
 ~
 0 0 3
@@ -1234,7 +1234,7 @@ the soft ground that show the horsemen fled to the west.
 ~
 0 0 3
 D1
-Back to ambush point.
+To the ambush point.
 ~
 ~
 0 0 3575
