@@ -254,6 +254,14 @@ class Save {
                 ch.pcdata.virtues.justice,
                 ch.pcdata.virtues.sacrifice,
                 ch.pcdata.virtues.fortitude);
+        fp.sprintf(false, "Vice %d %d %d %d %d %d %d\n",
+                ch.pcdata.vices.lust,
+                ch.pcdata.vices.envy,
+                ch.pcdata.vices.sloth,
+                ch.pcdata.vices.pride,
+                ch.pcdata.vices.avarice,
+                ch.pcdata.vices.gluttony,
+                ch.pcdata.vices.anger);
 
 /*
     fprintf (fp, "AMod %d %d %d %d %d %d\n",
@@ -1187,18 +1195,24 @@ class Save {
                     }
                     if (!str_cmp(word, "Virt")) {
                         ch.pcdata.virtues.faith = fp.fread_number();
-
                         ch.pcdata.virtues.hope = fp.fread_number();
-
                         ch.pcdata.virtues.compassion = fp.fread_number();
-
                         ch.pcdata.virtues.humility = fp.fread_number();
-
                         ch.pcdata.virtues.justice = fp.fread_number();
-
                         ch.pcdata.virtues.sacrifice = fp.fread_number();
-
                         ch.pcdata.virtues.fortitude = fp.fread_number();
+
+                        fp.fMatch = true;
+                        break;
+                    }
+                    if (!str_cmp(word, "Vice")) {
+                        ch.pcdata.vices.lust = fp.fread_number();
+                        ch.pcdata.vices.envy = fp.fread_number();
+                        ch.pcdata.vices.sloth = fp.fread_number();
+                        ch.pcdata.vices.pride = fp.fread_number();
+                        ch.pcdata.vices.avarice = fp.fread_number();
+                        ch.pcdata.vices.gluttony = fp.fread_number();
+                        ch.pcdata.vices.anger = fp.fread_number();
 
                         fp.fMatch = true;
                         break;
