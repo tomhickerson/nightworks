@@ -323,6 +323,18 @@ public class Update {
         send_to_char(f.toString(), ch);
     }
 
+    public static int addVirtVice(int currentValue) {
+        int ret = 0;
+        if (currentValue < 50) {
+            ret = 1;
+        } else if (currentValue < 75) {
+            ret = number_range(1, 3) == 2 ? 1 : 0;
+        } else if (currentValue < 100) {
+            ret = number_range(1, 10) == 5 ? 1 : 0;
+        }
+        return ret;
+    }
+
 
     static void gain_exp(CHAR_DATA ch, int gain) {
 
@@ -701,7 +713,7 @@ public class Update {
                     break;
 
                 case COND_THIRST:
-                    send_to_char("You are dying of thrist!\n", ch);
+                    send_to_char("You are dying of thirst!\n", ch);
                     act("$n is dying of thirst!", ch, null, null, TO_ROOM);
                     damage_hunger = ch.max_hit * number_range(2, 4) / 100;
                     if (damage_hunger == 0) {
@@ -715,7 +727,7 @@ public class Update {
 
                 case COND_BLOODLUST:
                     boolean fdone = false;
-                    send_to_char("You are suffering from thrist of blood!\n", ch);
+                    send_to_char("You are suffering from thirst of blood!\n", ch);
                     act("$n is suffering from thirst of blood!", ch, null, null, TO_ROOM);
                     if (ch.in_room != null && ch.in_room.people != null && ch.fighting != null) {
                         if (!IS_AWAKE(ch)) {
@@ -727,6 +739,7 @@ public class Update {
                             if (ch != vch && can_see(ch, vch) && !is_safe_nomessage(ch, vch)) {
                                 do_yell(ch, "BLOOD! I NEED BLOOD!");
                                 do_murder(ch, vch.name);
+                                ch.pcdata.vices.anger += addVirtVice(ch.pcdata.vices.anger);
                                 fdone = true;
                                 break;
                             }
@@ -746,7 +759,7 @@ public class Update {
                     break;
 
                 case COND_DESIRE:
-                    send_to_char("You want to go your home!\n", ch);
+                    send_to_char("You want to go to your home!\n", ch);
                     act("$n desires for $s home!", ch, null, null, TO_ROOM);
                     if (ch.position >= POS_STANDING) {
                         move_char(ch, number_door());
