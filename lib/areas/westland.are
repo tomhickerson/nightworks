@@ -1584,7 +1584,7 @@ The path through the narrows.
 ~
 0 0 10028
 D3
-Back to the bone woman's for a cup of tea.
+Back to the bone woman's hut.
 ~
 ~
 0 0 10025
@@ -1605,7 +1605,7 @@ The center of the Narrows.
 ~
 0 0 10029
 D3
-Back to the enterance of the Narrows.
+Back to the entrance of the Narrows.
 ~
 ~
 0 0 10027
@@ -1616,8 +1616,7 @@ You approach the center of the Narrows when you spot it. A
 shadow person. They have a poisonous touch and are the
 undertakers of the dead. You try to get past it without making
 him attack. The sky is getting dark and you still have a little
-ways to go. The exits are in an east-west direction, west being
-the way you want to go.
+ways to go. The exits are in an east-west direction.
 ~
 0 0 10  
 D1
@@ -1674,10 +1673,9 @@ The Narrows.
 S
 #10032
 The Azrith Plains.~
-Welcome to D'Hara! You have successfully passed through the
-narrows and are standing infront of the Azrith Plains. The plains
-are quite massive and reach as far as your eyes can see. In the
-distance, you see the home of Darken Rahl, the Peoples Palace.
+Welcome to D'Hara! You are standing in front of the Azrith Plains. 
+The plains are quite massive and reach as far as your eyes can see. 
+In the distance, you see the home of Darken Rahl, the Peoples Palace.
 You have to cross the Azrith Plains in order to get to Darken
 Rahl in his massive palace.
 The exits are north and east.
@@ -1699,11 +1697,8 @@ The Path Through the Plains.~
 You have found a path that is quite long but leads to Darken
 Rahl's Palace. The path is covered with stones and there is an
 occassional tree here and there. The sky is bright and clear and
-it is a hot day. You start to be thirsty and you feel sort of
-tired. Your only choice is to go ahead onto the Peoples Palace
-and stop Darken Ralh then steel a drink and a bite to eat. The
-way back through the Narrows doesn't seem appealing. The exits
-are north and south.
+it is a hot day. The way through the Narrows doesn't seem appealing. 
+The exits are north and south.
 ~
 0 0 2 
 D0
@@ -1712,7 +1707,7 @@ The Azrith Plains.
 ~
 0 0 10034
 D2
-The path back where you came from.
+The path where you came from.
 ~
 ~
 0 0 10032
@@ -1720,11 +1715,10 @@ S
 #10034
 The Azrith Plains.~
 You notice that you have traveled quite far and are almost
-at the Palace. You feel a sudden urge to stop and go back but
-then it passes. You see ahead of you a giant Dragon blocking your
+at the Palace. You see ahead of you a giant Dragon blocking your
 trail. Maybe she will listen to you and move out of the way.
-Maybe she will eat you up for breakfast... Hmmmmmm...Breakfast
-sure would be nice. The exits are north and south.
+Maybe she will eat you up for breakfast... 
+The exits are north and south.
 ~
 0 0 2 
 D0
@@ -1733,7 +1727,7 @@ To the BIG scary DRaGoN.
 ~
 0 0 10035
 D2
-Back through the boring old plains.
+Back through the plains.
 ~
 ~
 0 0 10033
@@ -1743,10 +1737,8 @@ At the BIG scary DRaGoN!~
 You approach the dragon and notice that she is the biggest
 most frightening beast you have ever seen. The dragon hardly
 notices you as you try to get by. Maybe you should TRY to kill it
-so you wont have to fight it on the way back...Maye you should
-just turn around and go back to mommy for some cookies...mmmm
-cookies. STOP THINKING ABOUT FOOD! You must go on and kill Darken
-Rahl. The exits are North and South ass usual.
+so you wont have to fight it on the way back...
+The exits are North and South.
 ~
 0 0 2  
 D0
@@ -1785,10 +1777,10 @@ S
 The Long Hallway.~
 You enter the Palace and head down a long hallway. There are
 many people wandering about this castle and others are praying or
-chanting about Darken Ralh. You pass one Devotion Room afilled
+chanting about Darken Ralh. You pass one Devotion Room filled
 with these people. You decide not to stop and keep on going. The
 exits are to the north, south and to the east there is a room
-filled with devoters.
+filled with devotees.
 ~
 0 0 0 
 D0
@@ -1813,7 +1805,7 @@ This room is filled with people, heads bowed to the floor
 chanting a harmonic tune. There is a giant pool in the center of
 the room filled with water. The place looks like an indoor
 garden. You get shivers up your spine just at the sight of all
-these people devoted to Darken Rahl. The exits are north and back
+these people devoted to Darken Rahl. The exits are north and 
 west.
 ~
 0 0 0  
@@ -1999,6 +1991,12 @@ M 0 10029 2 10040 1*Load A Evil Mord-Sith
 M 0 10030 2 10041 1*Load A Devoter of Darken Rahl
 M 0 10031 1 10042 1*Load The Evil Darken Rahl
 E 0 10024 0 14 The bracer of power is loaded on the left wrist of The Evil Darken Rahl
+*
+* Westland 
+* 
+* connects to Valley of Titans
+* last updated 5/28/2023 TBH
+* need to change all the monsters, link to other areas
 S
 
 
