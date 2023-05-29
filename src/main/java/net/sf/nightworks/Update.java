@@ -1,5 +1,7 @@
 package net.sf.nightworks;
 
+import net.sf.nightworks.enums.PlayerMessage;
+
 import java.util.Formatter;
 
 import static net.sf.nightworks.ActComm.do_quit;
@@ -739,7 +741,11 @@ public class Update {
                             if (ch != vch && can_see(ch, vch) && !is_safe_nomessage(ch, vch)) {
                                 do_yell(ch, "BLOOD! I NEED BLOOD!");
                                 do_murder(ch, vch.name);
-                                ch.pcdata.vices.anger += addVirtVice(ch.pcdata.vices.anger);
+                                int anger = addVirtVice(ch.pcdata.vices.anger);
+                                if (anger > 0) {
+                                    ch.pcdata.vices.anger++;
+                                    send_to_char(PlayerMessage.CONSUMED_BY_ANGER.getMessage(), ch);
+                                }
                                 fdone = true;
                                 break;
                             }

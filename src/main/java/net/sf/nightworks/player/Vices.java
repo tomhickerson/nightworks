@@ -2,6 +2,7 @@ package net.sf.nightworks.player;
 
 /**
  * Holder class for the Seven Vices.  More to come.
+ * maybe put the update functions in here as well?
  */
 public class Vices {
 

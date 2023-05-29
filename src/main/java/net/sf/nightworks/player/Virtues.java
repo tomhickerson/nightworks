@@ -3,6 +3,7 @@ package net.sf.nightworks.player;
 /**
  * Holder class for the Seven Virtues.  Note there are no getters/setters, this is intentional,
  * something we are trying out with the new questing system
+ * thinking about where to update, possibly just in the code
  */
 public class Virtues {
     public Virtues() {

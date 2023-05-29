@@ -17,7 +17,22 @@ public enum PlayerMessage {
 	GODS_FROWN(13, "The gods frown upon your actions.\n"),
 	SMB_BEGINS_WHITE(14, "$p begins to shine a bright white."),
 	SMB_GLOWS_BLUE(15, "$p starts to glow with a blue aura."),
-	EXCAL_ACID_SPRAY(16, "Acid sprays from the blade of Excalibur.\n");
+	EXCAL_ACID_SPRAY(16, "Acid sprays from the blade of Excalibur.\n"),
+	CONSUMED_BY_ANGER(17, "You are consumed by feelings of Anger!"),
+	CONSUMED_BY_LUST(18, "You are consumed by feelings of Lust!"),
+	CONSUMED_BY_ENVY(19, "You are consumed by feelings of Envy!"),
+	FEEL_BY_SLOTH(20, "You are overcome with feelings of Sloth!"),
+	SWELL_BY_PRIDE(21, "You swell with feelings of Pride!"),
+	CONSUMED_BY_AVARICE(22, "You are overcome with feelings of Avarice!"),
+	CONSUMED_BY_GLUTTONY(23, "You are overcome with feelings of Gluttony!"),
+	FEEL_BY_FAITH(24,"You feel the virtue of Faith flow through you..."),
+	FEEL_BY_HOPE(25, "You feel the virtue of Hope flow through you..."),
+	FEEL_BY_COMPASSION(26, "You feel the virtue of Compassion flow through you..."),
+	FEEL_BY_HUMILITY(27, "You feel the virtue of Humility flow through you..."),
+	FEEL_BY_JUSTICE(28, "You feel the virtue of Justice flow through you..."),
+	FEEL_BY_SACRIFICE(29, "You feel the virtue of Sacrifice flow through you..."),
+	FEEL_BY_FORTITUDE(30, "You feel the virtue of Fortitude flow through you...");
+
 
 
 	PlayerMessage(int id, String message) {
