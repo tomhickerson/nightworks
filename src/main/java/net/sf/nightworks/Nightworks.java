@@ -1817,6 +1817,26 @@ public final class Nightworks {
     static final int WIZ_PREFIX = (S);
     static final int WIZ_SPAM = (T);
 
+    /*
+    virtues and vices
+     */
+    static final int VICE_LUST = 0;
+    static final int VICE_ENVY = 1;
+    static final int VICE_SLOTH = 2;
+    static final int VICE_PRIDE = 3;
+    static final int VICE_AVARICE = 4;
+    static final int VICE_GLUTTONY = 5;
+    static final int VICE_ANGER = 6;
+
+    static final int VIRTUE_FAITH = 0;
+    static final int VIRTUE_HOPE = 1;
+    static final int VIRTUE_COMPASSION = 2;
+    static final int VIRTUE_HUMILITY = 3;
+    // justice, sacrifice, fortitude
+    static final int VIRTUE_JUSTICE = 4;
+    static final int VIRTUE_SACRIFICE = 5;
+    static final int VIRTUE_FORTITUDE = 6;
+
 /*
  * language staff
  */

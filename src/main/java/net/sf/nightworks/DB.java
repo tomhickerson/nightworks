@@ -257,7 +257,7 @@ import static net.sf.nightworks.util.TextUtils.one_argument;
 import static net.sf.nightworks.util.TextUtils.str_cmp;
 import static net.sf.nightworks.util.TextUtils.str_prefix;
 
-class DB {
+public class DB {
     /**
      * macro for flag swapping
      */
@@ -2948,7 +2948,7 @@ class DB {
 * Generate a random number.
 */
 
-    static int number_range(int from, int to) {
+    public static int number_range(int from, int to) {
 
         if (from == 0 && to == 0) {
             return 0;
