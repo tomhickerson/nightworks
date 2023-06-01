@@ -1345,13 +1345,14 @@ class ActObj {
             silver = str_cmp(arg2, "gold");
 
             one_argument(argument, arg2b);
+            // maybe not necessary?
             if (arg2b.length() == 0) {
                 send_to_char("Give what to whom?\n", ch);
                 return;
             }
 
             arg2 = arg2b.toString();
-            if ((victim = get_char_room(ch, arg2)) == null) {
+            if ((victim = get_char_room(ch, argument)) == null) {
                 send_to_char("They aren't here.\n", ch);
                 return;
             }

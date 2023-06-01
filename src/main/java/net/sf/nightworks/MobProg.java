@@ -1,5 +1,6 @@
 package net.sf.nightworks;
 
+import net.sf.nightworks.enums.PlayerMessage;
 import net.sf.nightworks.util.TextBuffer;
 
 import java.lang.reflect.Method;
@@ -20,6 +21,7 @@ import static net.sf.nightworks.ActObj.do_give;
 import static net.sf.nightworks.ActWiz.do_load;
 import static net.sf.nightworks.ActWiz.do_smite;
 import static net.sf.nightworks.Comm.act;
+import static net.sf.nightworks.Comm.send_to_char;
 import static net.sf.nightworks.Const.hometown_table;
 import static net.sf.nightworks.Const.religion_table;
 import static net.sf.nightworks.DB.bug;
@@ -40,73 +42,7 @@ import static net.sf.nightworks.Healer.heal_battle;
 import static net.sf.nightworks.Interp.interpret;
 import static net.sf.nightworks.Magic.say_spell;
 import static net.sf.nightworks.MartialArt.do_rescue;
-import static net.sf.nightworks.Nightworks.CABAL_BATTLE;
-import static net.sf.nightworks.Nightworks.CABAL_CHAOS;
-import static net.sf.nightworks.Nightworks.CABAL_HUNTER;
-import static net.sf.nightworks.Nightworks.CABAL_INVADER;
-import static net.sf.nightworks.Nightworks.CABAL_KNIGHT;
-import static net.sf.nightworks.Nightworks.CABAL_LIONS;
-import static net.sf.nightworks.Nightworks.CABAL_RULER;
-import static net.sf.nightworks.Nightworks.CABAL_SHALAFI;
-import static net.sf.nightworks.Nightworks.CHAR_DATA;
-import static net.sf.nightworks.Nightworks.DICE_BONUS;
-import static net.sf.nightworks.Nightworks.DICE_NUMBER;
-import static net.sf.nightworks.Nightworks.DICE_TYPE;
-import static net.sf.nightworks.Nightworks.ETHOS_CHAOTIC;
-import static net.sf.nightworks.Nightworks.ETHOS_LAWFUL;
-import static net.sf.nightworks.Nightworks.ETHOS_NEUTRAL;
-import static net.sf.nightworks.Nightworks.EXTRA_DESCR_DATA;
-import static net.sf.nightworks.Nightworks.IS_EVIL;
-import static net.sf.nightworks.Nightworks.IS_GOOD;
-import static net.sf.nightworks.Nightworks.IS_IMMORTAL;
-import static net.sf.nightworks.Nightworks.IS_NEUTRAL;
-import static net.sf.nightworks.Nightworks.IS_NPC;
-import static net.sf.nightworks.Nightworks.IS_SET;
-import static net.sf.nightworks.Nightworks.MAX_RELIGION;
-import static net.sf.nightworks.Nightworks.MAX_STATS;
-import static net.sf.nightworks.Nightworks.MOB_INDEX_DATA;
-import static net.sf.nightworks.Nightworks.MPROG_AREA;
-import static net.sf.nightworks.Nightworks.MPROG_BRIBE;
-import static net.sf.nightworks.Nightworks.MPROG_DEATH;
-import static net.sf.nightworks.Nightworks.MPROG_ENTRY;
-import static net.sf.nightworks.Nightworks.MPROG_FIGHT;
-import static net.sf.nightworks.Nightworks.MPROG_FUN_AREA;
-import static net.sf.nightworks.Nightworks.MPROG_FUN_BRIBE;
-import static net.sf.nightworks.Nightworks.MPROG_FUN_DEATH;
-import static net.sf.nightworks.Nightworks.MPROG_FUN_ENTRY;
-import static net.sf.nightworks.Nightworks.MPROG_FUN_FIGHT;
-import static net.sf.nightworks.Nightworks.MPROG_FUN_GIVE;
-import static net.sf.nightworks.Nightworks.MPROG_FUN_GREET;
-import static net.sf.nightworks.Nightworks.MPROG_FUN_SPEECH;
-import static net.sf.nightworks.Nightworks.MPROG_GIVE;
-import static net.sf.nightworks.Nightworks.MPROG_GREET;
-import static net.sf.nightworks.Nightworks.MPROG_SPEECH;
-import static net.sf.nightworks.Nightworks.OBJ_DATA;
-import static net.sf.nightworks.Nightworks.OBJ_VNUM_EYED_SWORD;
-import static net.sf.nightworks.Nightworks.OFF_AREA_ATTACK;
-import static net.sf.nightworks.Nightworks.PERS;
-import static net.sf.nightworks.Nightworks.POS_SLEEPING;
-import static net.sf.nightworks.Nightworks.QUEST_EYE;
-import static net.sf.nightworks.Nightworks.RELIGION_AHRUMAZDA;
-import static net.sf.nightworks.Nightworks.RELIGION_APOLLON;
-import static net.sf.nightworks.Nightworks.RELIGION_DEIMOS;
-import static net.sf.nightworks.Nightworks.RELIGION_EHRUMEN;
-import static net.sf.nightworks.Nightworks.RELIGION_MARS;
-import static net.sf.nightworks.Nightworks.RELIGION_ODIN;
-import static net.sf.nightworks.Nightworks.RELIGION_PHOBOS;
-import static net.sf.nightworks.Nightworks.RELIGION_SIEBELE;
-import static net.sf.nightworks.Nightworks.RELIGION_ZEUS;
-import static net.sf.nightworks.Nightworks.SET_BIT;
-import static net.sf.nightworks.Nightworks.TARGET_CHAR;
-import static net.sf.nightworks.Nightworks.TO_CHAR;
-import static net.sf.nightworks.Nightworks.TO_NOTVICT;
-import static net.sf.nightworks.Nightworks.TO_ROOM;
-import static net.sf.nightworks.Nightworks.TO_VICT;
-import static net.sf.nightworks.Nightworks.char_list;
-import static net.sf.nightworks.Nightworks.current_time;
-import static net.sf.nightworks.Nightworks.exit;
-import static net.sf.nightworks.Nightworks.object_list;
-import static net.sf.nightworks.Nightworks.sprintf;
+import static net.sf.nightworks.Nightworks.*;
 import static net.sf.nightworks.Skill.lookupSkill;
 import static net.sf.nightworks.util.TextUtils.one_argument;
 import static net.sf.nightworks.util.TextUtils.str_cmp;
@@ -281,6 +217,11 @@ class MobProg {
         } else if (amount >= 5000) {
             interpret(mob, "smile", false);
             do_sleep(mob, "");
+            int sloth = ch.pcdata.vices.updateVice(VICE_SLOTH);
+            if (sloth > 0) {
+                ch.pcdata.vices.sloth++;
+                send_to_char(PlayerMessage.FEEL_BY_SLOTH.getMessage(), ch);
+            }
         } else {
             do_say(mob, "Trying to bribe me, eh? It'll cost ya more than that.");
         }
@@ -1010,24 +951,44 @@ class MobProg {
 
 
     static void bribe_prog_beggar(CHAR_DATA mob, CHAR_DATA ch, Integer _amount) {
+        boolean comp = false;
+        boolean sac = false;
         if (_amount < 10) {
             TextBuffer buf = new TextBuffer();
             buf.sprintf("thank %s",
                     str_cmp(mob.in_room.area.name, hometown_table[ch.hometown].name) ? "traveler" : ch.name);
             interpret(mob, buf.toString(), false);
+            comp = true;
         } else if (_amount < 100) {
             do_say(mob, "Wow! Thank you! Thank you!");
+            comp = true;
         } else if (_amount < 500) {
             TextBuffer buf = new TextBuffer();
             do_say(mob, "Oh my God! Thank you! Thank you!");
             buf.sprintf("french %s", ch.name);
             interpret(mob, buf.toString(), false);
+            sac = true;
         } else {
             TextBuffer buf = new TextBuffer();
             buf.sprintf("dance %s", ch.name);
             interpret(mob, buf.toString(), false);
             buf.sprintf("french %s", ch.name);
             interpret(mob, buf.toString(), false);
+            sac = true;
+        }
+        if (comp) {
+            int compassion = ch.pcdata.virtues.updateVirtue(VIRTUE_COMPASSION);
+            if (compassion > 0) {
+                ch.pcdata.virtues.compassion++;
+                send_to_char(PlayerMessage.FEEL_BY_COMPASSION.getMessage(), ch);
+            }
+        }
+        if (sac) {
+            int sacrifice = ch.pcdata.virtues.updateVirtue(VIRTUE_SACRIFICE);
+            if (sacrifice > 0) {
+                ch.pcdata.virtues.sacrifice++;
+                send_to_char(PlayerMessage.FEEL_BY_SACRIFICE.getMessage(), ch);
+            }
         }
     }
 
