@@ -3597,7 +3597,7 @@ S
 Wyrm street~
 This part of the city is rarely travelled.  Wyrm street continues along the
 cavern wall.  You hear the muffled shouts of the merchants and screams of
-slaves.
+slaves echoing from another part of the city.
 
 Wyrm streets continues to the east and west.
 ~
@@ -3639,7 +3639,7 @@ This part of the city is rarely travelled.  Wyrm street continues along the
 cavern wall.  You hear the muffled shouts of the merchants and screams of
 slaves.
 
-Wyrm streets continues to the east and west.
+Wyrm street continues to the east and west.
 ~
 0 1|8|8192 1
 D1
@@ -3659,7 +3659,7 @@ This part of the city is rarely travelled.  Wyrm street continues along the
 cavern wall.  You hear the muffled shouts of the merchants and screams of
 slaves.  The floating orbs at this section of the road flicker on and off.
 
-Wyrm streets continues to the east and west.
+Wyrm street continues to the east and west.
 ~
 0 1|8 1
 D1
@@ -3677,11 +3677,10 @@ S
 North east corner on Wrym and Sunrise~
 You stand in the north east corner of the city.  There is an eerie calm here,
 muffled echoes bounce off the cavern walls and into your ear.  You can
-hear the screams of the slave, the talking of adventurers.  The cavern walls
+hear the screams of the slaves, the talking of adventurers.  The cavern walls
 loom up to the east and north of you.  You light doesn't even illuminate up
 to the ceiling.  Darkness surrounds you.  The ground is hard and grey.  The
-walls are grey, and glint with wetness.  You wish you could recall to
-Midgaard, but alas, that is impossible.
+walls are grey, and glint with wetness. 
 
 Wyrm street goes to the west and Sunrise lies to the south.
 ~
@@ -3698,7 +3697,7 @@ Wyrm street stretches to the west end of the city
 0 -1 16019
 S
 #16021
-Moonlight ave~
+Moonlight avenue~
 You stand on Moonlight avenue, thinking the name is a cruel joke on
 surface dwellers for you wish you could see the moon, not the continuous
 darkness that lives in this city.  Everywhere darkness creeps, even with the
@@ -3731,14 +3730,14 @@ little scratch marks near the bottom of the door.  You bend down and look,
 seeing that there is a vague outline of a small door in the large door.~
 S
 #16022
-North end of sunset~
+North end of Sunset~
 You stand almost in the very north west corner of the city.  The streets up
 here are not as used as those towards the centre of the city.  To the south
 you see some of the dwellings of the creatures that inhabit this gloomy
 city.  There is nothing of note that you can see here, but then again it could
 just be the darkness that lies just beyond your insignificant circle of light.
 
-To the north is the corner of the city, to the south sunset continues 
+To the north is the corner of the city, to the south Sunset continues. 
 ~ 
 0 1|8|8192 1
 D0
@@ -3762,7 +3761,7 @@ You eyes hurt from trying to pierce the darkness that lies everywhere.  The
 ground is rough through your boots.  The air is cool, and the cavern wall to
 your west glints with wetness.
 
-Sunset continues north and south
+Sunset continues north and south.
 ~
 0 1|8|8192 1
 D0
@@ -3778,13 +3777,13 @@ Sunset continues
 S
 #16024
 Sunset~
-You stand on sunset.  There is little that you can see here, your light just
+You stand on Sunset.  There is little that you can see here, your light just
 fades into darkness without illuminating anything.  For some reason this
-section of the city is very quiet.  The silence here in fact is over powering,
-you can barely stand it after all the noises of the city.  The single floating
+section of the city is very quiet.  The silence here, in fact, is over powering,
+you can barely stand it after all the noises of the city.  A single floating
 orb flickers on and off.
 
-Sunset goes on to the north and south
+Sunset goes on to the north and south.
 ~
 0 1|8 1
 D0
@@ -3800,12 +3799,12 @@ Sunset continues
 S
 #16025
 Before a huge dwelling~
-You stand before of what seems to be a house.  It seems to be made up of a
+You stand before a house.  It seems to be made up of a
 dark blue rock.  The house, if that is what it is, seems to be very dark with
 no windows.  The house stretches to the east and west.  The walls are very
 smooth and glint in your light.  The entrance is to the north. 
 
-To the north is a door, to the south is sunset
+To the north is a door, to the south is Sunset.
 ~
 0 1|8|8192 1
 D0
@@ -3827,11 +3826,11 @@ that the door is unlocked.
 S
 #16026
 Ruby Street~
-You stand on ruby street, probably named so because of the faint reddish
+You stand on Ruby street, probably named so because of the faint reddish
 tinge of the street itself.  You look around you trying to see anything, but
 the only thing that greets your gaze is pitch black.
 
-To the north is Wyrm street, to the south ruby street
+To the north is Wyrm street, to the south Ruby street.
 ~
 0 1|8|8192 1
 D0
@@ -3847,12 +3846,12 @@ Ruby street
 S
 #16027
 Ruby Street~
-This is ruby street, where the shadows seem to come alive.  Everything
+This is Ruby street, where the shadows seem to come alive.  Everything
 seems to crawl and move in the darkness that your light does not pierce. 
 The glow of your light attracts the attention of everything around you, you
-feel as if things are watching you, sizing you, seeing if you are weak.
+feel as if things are watching you, sizing you up, seeing if you are weak.
 
-Ruby street continues north and south
+Ruby street continues north and south.
 ~
 0 1|8|8192 1
 D0
@@ -3870,12 +3869,11 @@ S
 Ruby Street~
 You stand on Ruby street, one of the streets of gems.  You heard a voice
 while walking through the Underdark that these streets were named so
-because they were once veins of gems.  The were hollowed out after years
-of struggle leaving tunnels all over this area, a mage cast a very powerful
-spell and created this section of the cavern.  The air is stuffy and moist
+because they were once veins of gemstones.  The were hollowed out after years
+of struggle leaving tunnels all over this area.  The air is stuffy and moist
 here.
 
-Ruby street goes on north and south, east is Sapphire street
+Ruby street goes on north and south, to the east is Sapphire street.
 ~
 0 1|8|8192 1
 D0
@@ -3898,7 +3896,7 @@ S
 Sapphire Street~
 Sapphire street is a very short street.  The ground here is greenish in your
 light.  The darkness seems to fade some here.  To the east you see a light
-burning on a building.
+burning in a building.
 
 Ruby street is to the west, Sapphire continues east.
 ~
@@ -3916,13 +3914,13 @@ Ruby street
 S
 #16030
 Sapphire street before the tavern~
-You stand on sapphire street just before a tavern.  A ball of light floats out
+You stand on Sapphire street just before a tavern.  A ball of light floats out
 of your reach above you.  It illuminates a sign that says 'The Gemstone.' 
 The door has been painted many different colours, you figure they were
 trying to catch the colours of all the gems.  From behind the door you can
 make out bits and pieces of conversation.
 
-To the east is Moonlight Avenues, to the west Sapphire
+To the east is Moonlight Avenues, to the west is Sapphire.
 ~
 0 1|8|8192 1
 D0
@@ -3948,13 +3946,13 @@ shaped into what seems to be a miner's pick. ~
 S
 #16031
 Moonlight Avenue~
-You stand on moonlight avenue... and you realise the name given to this
+You stand on Moonlight avenue... and you realise the name given to this
 street is totally wrong.  There is nothing of beauty on this street.  The
 ground is a bleak grey.  The only redeeming feature of this street is the fact
 that there are little glowing balls of light above your head illuminating the
 street somewhat.
 
-To the north is Wyrm street, moonlight stretches south
+To the north is Wyrm street, Moonlight stretches south.
 ~
 0 1|8|8192 1
 D0
@@ -3974,7 +3972,7 @@ Small balls of light illuminate a grey street.  There is really nothing of note
 on this street.  The ground seems to be slightly wet, but then the air is also
 moist and cool.
 
-Moonlight continues north and south. Sapphire street is west 
+Moonlight continues north and south. Sapphire street is west. 
 ~
 0 1|8|8192 1
 D0
@@ -4020,7 +4018,7 @@ You stand on sunrise, the eastern most street in the Underdark.  The east
 wall is actually the cavern wall.  Every ten feet or so a small ball of light
 floats in the air above your head.
 
-Sunrise continues to the north and south
+Sunrise continues to the north and south.
 ~
 0 1|8|8192 1
 D0
@@ -4040,7 +4038,7 @@ You stand on sunrise, the eastern most street in the Underdark.  The east
 wall is actually the cavern wall.  Every ten feet or so a small ball of light
 floats in the air above your head.
 
-Sunrise continues to the north and south
+Sunrise continues to the north and south.
 ~
 0 1|8|8192 1
 D0
@@ -4088,9 +4086,9 @@ S
 Sunset~
 You stand along Sunset at part of the residential area of the city.  A little
 glowing orb hovers above your head.  The floor is flat and nondescript.  To
-the south lies one of the residential homes 
+the south lies one of the residential homes. 
 
-Sunset goes on to the east and west.  To the south is a door 
+Sunset goes on to the east and west.  To the south is a door.
 ~
 0 1|8|8192 1
 D1
@@ -4117,7 +4115,7 @@ door has nothing of interest on it.  A rather boring door it is.~ S
 Sunset~
 You stand along Sunset at part of the residential area of the city.  A little
 glowing orb hovers above your head.  The floor is flat and nondescript.  To
-the south lies one of the residential homes 
+the south lies one of the residential homes.
 
 Sunset goes on to the east and west.  To the south is a door 
 ~
@@ -4144,7 +4142,7 @@ door has nothing of interest on it.  A rather boring door it is.~
 S
 #16039
 Sunset~
-You stand on sunset, named so for the simple fact that it is on the western
+You stand on Sunset, named so for the simple fact that it is on the western
 side of the city.  To the north is a large house, much like a mansion.  An
 entrance to a home is to the south.
 
@@ -4202,9 +4200,9 @@ Sunset~
 S
 #16041
 Ruby Street~
-You stand on Ruby street.  An orb lights the way as it floats above you
+You stand on Ruby street.  An orb lights the way as it floats above your
 head.  The ground is reddish and well travelled.  Shadows lie on either side
-of you and they seem to breath with their own life.
+of you and they seem to move with their own life.
 
 Ruby continues to the east, to the west is Sunset
 ~
@@ -4222,9 +4220,9 @@ Sunset
 S
 #16042
 Ruby Street~
-You stand on Ruby street.  An orb lights the way as it floats above you
+You stand on Ruby street.  An orb lights the way as it floats above your
 head.  The ground is reddish and well travelled.  Shadows lie on either side
-of you and they seem to breath with their own life.
+of you and they seem to breathe with their own life.
 
 Ruby continues to the east, to the west is Sunset
 ~
@@ -4242,7 +4240,7 @@ Sunset
 S
 #16043
 Ruby Street~
-Ruby street goes on.  The red on the ground is beginning to annoy you. 
+Ruby street goes on here.  The red on the ground is annoying. 
 Shadows dance all around you as your light and the floating orbs pierce the
 blackness.  The air is cold and damp here.
 
@@ -4262,7 +4260,7 @@ Ruby street
 S
 #16044
 Moonlight Avenue~
-Moonlight avenue is a really boring street.  Nothing of interest lies
+Moonlight avenue is a really dull street.  Nothing of interest lies
 anywhere in your view.  Of course, the dark prevents you from seeing far
 anyways.  Little orbs of light float above your head.
 
@@ -4285,7 +4283,7 @@ Moonlight Avenue~
 Moonlight avenue is a boring street.  Nothing exciting happens here, you
 wonder if it is the name.  The street is clean and well travelled.  You seem
 oddly at ease on this street.  The shadows seem less dangerous here.  The
-light of the floating orbs is unsure and insecure, they seem to flicker in and
+light of the floating orbs is unsure, they seem to flicker in and
 out.
 
 Moonlight Avenues goes north and south, to the east is Diamond street 
@@ -4350,7 +4348,7 @@ Diamond street
 S
 #16048
 Diamond Street~
-Diamond street is wide here.  For what reason, that lies beyond your grasp. 
+Diamond street is wide here.  For what reason, that is unknown to you. 
 There are little bits of stone and wood that lie scattered across your path. 
 Only a few glowing orbs shine here.
 
@@ -4370,7 +4368,7 @@ Diamond street
 S
 #16049
 Diamond Street~
-The ground shines in your light.  Only a single glowing orb casts it's eerie
+The ground shines in your light.  Only a single glowing orb casts its eerie
 light to make the shadows fade.
 
 Diamond street lies east, south and west
@@ -4394,7 +4392,7 @@ Diamond street
 S
 #16050
 Diamond Street~
-The ground shines in your light.  Only a single glowing orb casts it's eerie
+The ground shines in your light.  Only a single glowing orb casts its pale, eerie
 light to make the shadows fade.
 
 Diamond street lies east, south and west
@@ -4545,7 +4543,7 @@ Diamond street
 S
 #16056
 Diamond Street~
-You stand on diamond street.  The glowing orbs that frequent the city are
+You stand on Diamond street.  The glowing orbs that frequent the city are
 visibly reduced here.  The shadows are more apparent and the darkness
 that you know fills the whole cavern seems to press down on you.  The
 street sparkles in the vague light.
@@ -4611,8 +4609,8 @@ S
 Junction of Sunrise and Diamond~
 You stand where Diamond street meets Sunrise.  You look down Diamond
 street and see very few glowing orbs to illuminate the street.  Shadowy
-figures walk down the road doing their thing.  The sounds of the city are
-quite audible here bouncing off the cavern wall into your ear. 
+figures walk down the road.  The sounds of the city are
+quite audible here, bouncing off the cavern wall into your ear. 
 
 Sunrise goes north and south, Diamond goes west
 ~
@@ -4719,11 +4717,11 @@ Slaver's and Sunset
 S
 #16065
 Moonlight Avenue~
-You stand on Moonlight Avenue.  A clean basically well lit street.  Orbs
+You stand on Moonlight Avenue.  A clean and basically well-lit street.  Orbs
 float closer together here than on most street and they seem just to be a bit
 brighter.  It's almost as if you are walking in moonlight here.  You look up
-just to see what you can see, and notice that you can't see anything, just a
-barrier of black.
+just to see what you can see, and notice that you can't see anything above 
+the orbs, just a barrier of black.
 
 Moonlight lies to the north and south.
 ~
@@ -4744,7 +4742,7 @@ Moonlight Avenue~
 You stand on a clean street.  Although screams reach your ears they don't
 seem to be as bad.  This street almost seems to be a happy place.  The
 shadows are few, and the lighting is good.  Although you still can't see
-what it above you, you can see quit well in your immediate surroundings.    
+what it above you, you can see quite well in your immediate surroundings.    
 
 
 Moonlight avenue continues north and south
@@ -4786,7 +4784,7 @@ S
 Emerald Street~
 You stand on Emerald street, a quiet street.  Glowing orbs float in the air
 every 15 feet or so.  Shadows form anywhere they can.  The ground on this
-street is greenish.
+street is a greenish hue.
 
 To the north is Diamond street, Emerald continues south
 ~
@@ -4828,7 +4826,7 @@ You stand on emerald street, a small shadowy street.  Shadows obscure
 everything that is even remotely far away.  Flickering glowing orbs light
 the way every fifteen feet.  Darkness forms at the edge of the circles of
 light formed by these orbs.  It's almost as if the darkness down here has
-form.  This street is rarely used, 'cept by those fleeing. 
+a form.  This street is rarely used, 'cept by those fleeing. 
 
 Emerald street continues north, the Slaver's Route is south 
 ~
@@ -4846,8 +4844,8 @@ Slaver's Route
 S
 #16071
 Sunrise~
-You wander Sunrise, see that is stretches far off in both directions.  Small
-glowing orbs cast light a flickering light in circles every ten feet.  To the
+You wander on Sunrise, and see that is stretches far off in both directions.  Small
+glowing orbs cast a flickering light in circles every ten feet.  To the
 east side of the street is the cavern wall, to the west the city stretches out.
 
 Sunrise continues north and south
@@ -4867,8 +4865,8 @@ S
 #16072
 Sunrise~
 Sunrise hugs the cavern wall here.  The cavern wall sparkles with little
-droplets of water that cling to it.  Muffled shouts and screams bounce of
-the wall surround you.  Darkness hovers above your head seeming ready to
+droplets of water that cling to it.  Muffled shouts and screams bounce off
+the walls and surround you.  Darkness hovers above your head seeming ready to
 snuff out the little orbs that glow every ten feet.
 
 Sunrise continues north and south
@@ -4911,7 +4909,7 @@ S
 Slaver's Route~
 You stand at the end of the Slaver's route.  This is part of the residential
 area of the Underdark.  For some reason the screams of the slaves do not
-reach you ears.  The road is well lit with the little floating orbs.
+reach your ears.  The road is well lit with the little floating orbs.
 
 Residential homes lie north and south.  The route stretches west 
 ~
