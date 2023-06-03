@@ -2033,7 +2033,7 @@ stand stand male 0
 #16127
 eye of fear and flame~
 An eye of fear and flame~
-A weird hooded human stares at your a large glowing red eye
+A weird hooded human stares at you with a large glowing red eye
 ~
 The eye of fear and flame is a hooded man-sized figure.  You can't see the
 face since the interior of the hood is an opaque black screen.  You can
@@ -3286,10 +3286,10 @@ Corner of Wyrm Street and Sunset~
 You stand in the north western corner of the Underdark.  The bustling
 streets sound distant and the hum of people moving and talking barely
 reaches your ears.  The only light in this section of the city comes from
-your light source.  You stands against the huge cavern's walls.  Water
+your light source.  You stand up against the huge cavern's walls.  Water
 glints in the light on the walls.
 
-Worm Street goes east, and Sunset goes south
+Wyrm Street goes east, and Sunset goes south
 ~
 0 1|8|8192 1
 D1
@@ -3309,7 +3309,7 @@ This part of the city is rarely travelled.  Wyrm street continues along the
 cavern wall.  You hear the muffled shouts of the merchants and screams of
 slaves.
 
-Wyrm streets continues to the east and west.
+Wyrm street continues to the east and west.
 ~
 0 1|8|8192 1
 D1
@@ -3329,7 +3329,7 @@ This part of the city is rarely travelled.  Wyrm street continues along the
 cavern wall.  You hear the muffled shouts of the merchants and screams of
 slaves.
 
-Wyrm streets continues to the east and west.
+Wyrm street continues to the east and west.
 ~
 0 1|8|8192 1
 D1
@@ -3349,7 +3349,7 @@ This part of the city is rarely travelled.  Wyrm street continues along the
 cavern wall.  You hear the muffled shouts of the merchants and screams of
 slaves.
 
-Wyrm streets continues to the east and west.
+Wyrm street continues to the east and west.
 ~
 0 1|8|8192 1
 D1
@@ -3367,9 +3367,9 @@ S
 Wyrm street~
 This part of the city is rarely travelled.  Wyrm street continues along the
 cavern wall.  You hear the muffled shouts of the merchants and screams of
-slaves.
+slaves.  The street seems empty of life.
 
-Wyrm streets continues to the east and west.
+Wyrm street continues to the east and west.
 ~
 0 1|8|8192 1
 D1
@@ -3387,9 +3387,9 @@ S
 Wyrm street~
 This part of the city is rarely travelled.  Wyrm street continues along the
 cavern wall.  You hear the muffled shouts of the merchants and screams of
-slaves.
+slaves, coming from far away.
 
-Wyrm streets continues to the east and west.
+Wyrm street continues to the east and west.
 ~
 0 1|8|8192 1
 D1
@@ -3407,9 +3407,9 @@ S
 Wyrm street~
 This part of the city is rarely travelled.  Wyrm street continues along the
 cavern wall.  You hear the muffled shouts of the merchants and screams of
-slaves.
+slaves.  Wetness glistens on the paving stones, which are grey and smooth.
 
-Wyrm streets continues to the east and west.
+Wyrm street continues to the east and west.
 ~
 0 1|8|8192 1
 D1
@@ -3429,7 +3429,7 @@ This part of the city is rarely travelled.  Wyrm street continues along the
 cavern wall.  You hear the muffled shouts of the merchants and screams of
 slaves.  The floating orbs flicker on and off creating a chaotic lighting.
 
-Wyrm streets goes east and west. Ruby Avenue lies to the south 
+Wyrm street goes east and west. Ruby Avenue lies to the south. 
 ~
 0 1|8 1
 D1
@@ -3452,9 +3452,9 @@ S
 Wyrm street~
 This part of the city is rarely travelled.  Wyrm street continues along the
 cavern wall.  You hear the muffled shouts of the merchants and screams of
-slaves.
+slaves, while above you is only darkness.
 
-Wyrm streets continues to the east and west.
+Wyrm street continues to the east and west.
 ~
 0 1|8|8192 1
 D1
@@ -3472,9 +3472,9 @@ S
 Wyrm street~
 This part of the city is rarely travelled.  Wyrm street continues along the
 cavern wall.  You hear the muffled shouts of the merchants and screams of
-slaves.
+slaves, echoing from far off somewhere.
 
-Wyrm streets continues to the east and west.
+Wyrm street continues to the east and west.
 ~
 0 1|8|8192 1
 D1
@@ -3492,9 +3492,9 @@ S
 Wyrm street~
 This part of the city is rarely travelled.  Wyrm street continues along the
 cavern wall.  You hear the muffled shouts of the merchants and screams of
-slaves.  The orbs flicker on and off chaoticly.
+slaves.  The orbs flicker on and off erratically.
 
-Wyrm streets continues to the east and west.
+Wyrm street continues to the east and west.
 ~
 0 1|8 1
 D1
@@ -3517,9 +3517,9 @@ S
 Wyrm street~
 This part of the city is rarely travelled.  Wyrm street continues along the
 cavern wall.  You hear the muffled shouts of the merchants and screams of
-slaves.
+slaves.  The street is grey and somewhat empty.
 
-Wyrm streets continues to the east and west.
+Wyrm street continues to the east and west.
 ~
 0 1|8|8192 1
 D1
@@ -3537,9 +3537,9 @@ S
 Wyrm street~
 This part of the city is rarely travelled.  Wyrm street continues along the
 cavern wall.  You hear the muffled shouts of the merchants and screams of
-slaves.
+slaves echoing around you from other streets.
 
-Wyrm streets continues to the east and west.
+Wyrm street continues to the east and west.
 ~
 0 1|8|8192 1
 D1
@@ -3557,9 +3557,9 @@ S
 Wyrm street~
 This part of the city is rarely travelled.  Wyrm street continues along the
 cavern wall.  You hear the muffled shouts of the merchants and screams of
-slaves.
+slaves echoing from a few blocks over.
 
-Wyrm streets continues to the east and west.
+Wyrm street continues to the east and west.
 ~
 0 1|8|8192 1
 D1
@@ -3579,7 +3579,7 @@ This part of the city is rarely travelled.  Wyrm street continues along the
 cavern wall.  You hear the muffled shouts of the merchants and screams of
 slaves.
 
-Wyrm streets continues to the east and west.
+Wyrm street continues to the east and west.
 ~
 0 1|8|8192 1
 D1
@@ -3599,7 +3599,7 @@ This part of the city is rarely travelled.  Wyrm street continues along the
 cavern wall.  You hear the muffled shouts of the merchants and screams of
 slaves echoing from another part of the city.
 
-Wyrm streets continues to the east and west.
+Wyrm street continues to the east and west.
 ~
 0 1|8|8192 1
 D1
@@ -3619,7 +3619,7 @@ This part of the city is rarely travelled.  Wyrm street continues along the
 cavern wall.  You hear the muffled shouts of the merchants and screams of
 slaves.
 
-Wyrm streets continues to the east and west.
+Wyrm street continues to the east and west.
 ~
 0 1|8|8192 1
 D1
@@ -4761,10 +4761,10 @@ Moonlight Avenue
 S
 #16067
 Moonlight Avenue~
-You stand between two large buildings.  To the east you know is the whore
-house and to your west is a large residence.  You are close to the market
-area, very close.  You see people walking to your south through the
-Slaver's Square inspecting the goods.
+You stand between two large buildings.  To the east you know is the 
+house of ill repute and to your west is a large residence.  You are 
+close to the market area, very close.  You see people walking to your 
+south through the Slaver's Square, inspecting the goods.
 
 Moonlight avenue continues north, to the south is the Slaver's Route 
 ~
@@ -4803,8 +4803,8 @@ S
 #16069
 Emerald Street~
 Emerald street is a short street compared to the other streets in this city. 
-There is little of note on this street, it just passes between the whore house
-and the inn.  The ground is greenish and sparkles gently in the light.
+There is little of note on this street, it just passes between the house of ill
+repute and the inn.  The ground is greenish and sparkles gently in the light.
 
 Emerald street continues north and south
 ~
@@ -5231,7 +5231,7 @@ Slaver's route
 0 -1 16083
 S
 #16085
-Slaver's route, before the Whore House~
+Slaver's route, before the House of Ill Repute~
 The slaver's route, almost everyone in the Underdark has walked along
 these famous stones.  It was along this road that the city was made. 
 Without the slave trade, the city would not have expanded as fast as it did
@@ -5239,11 +5239,11 @@ when the city was first built.  The Underdark has since become a trade
 centre where those who dwell beneath the ground and those above can
 interact in relative safety.
 
-To the north is the whore house, east and west the Slaver's route 
+To the north is the house of ill repute, east and west the Slaver's route 
 ~
 0 1|8|8192 1
 D0
-A door blocks your way to the whore house
+A door blocks your way to the house of ill repute
 ~
 ~
 1 -1 16299
@@ -10608,7 +10608,7 @@ hits it.  On the arm rests are written many arcane symbols in gold.  The
 throne seems exude an aura of power and evil.~
 S
 #16299
-Entrance to the Whore House~
+Entrance to the House of Ill Repute~
 You stand just before the entrance door.  You can clearly smell incense
 that makes you just a little bit dizzy.  The place is lit by a few candles that
 have been placed in holders that stand off against the walls. 
