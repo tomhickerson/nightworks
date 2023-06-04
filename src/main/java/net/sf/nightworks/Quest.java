@@ -150,19 +150,19 @@ class Quest {
             return;
         }
         if (!str_prefix(arg1Str, "points")) {
-            send_to_char("You have " + ch.pcdata.questpoints + " quest points.\n", ch);
+            send_to_char("You have {Y" + ch.pcdata.questpoints + "{x quest points.\n", ch);
             return;
         }
         if (!str_prefix(arg1Str, "time")) {
             if (!IS_SET(ch.act, PLR_QUESTOR)) {
                 send_to_char("You aren't currently on a quest.\n", ch);
                 if (ch.pcdata.nextquest > 1) {
-                    send_to_char("There are " + ch.pcdata.nextquest + " minutes remaining until you can go on another quest.\n", ch);
+                    send_to_char("There are {c" + ch.pcdata.nextquest + "{x minutes remaining until you can go on another quest.\n", ch);
                 } else if (ch.pcdata.nextquest == 1) {
                     send_to_char("There is less than a minute remaining until you can go on another quest.\n", ch);
                 }
             } else if (ch.pcdata.countdown > 0) {
-                send_to_char("Time left for current quest: " + ch.pcdata.countdown + "\n", ch);
+                send_to_char("Time left for current quest: {c" + ch.pcdata.countdown + "{x\n", ch);
             }
             return;
         }
@@ -450,7 +450,7 @@ class Quest {
                 }
                 tattoo = get_eq_char(ch, WEAR_TATTOO);
                 if (tattoo != null) {
-                    send_to_char("But you have already your tattoo!.\n", ch);
+                    send_to_char("But you already have your tattoo!.\n", ch);
                     return;
                 }
 
@@ -473,7 +473,7 @@ class Quest {
                     ch.pcdata.questpoints -= 500;
                     ch.gold += 350000;
                     act("$N gives 350,000 gold pieces to $n.", ch, null, questman, TO_ROOM);
-                    act("$N has 350,000 in gold transfered from $s Swiss account to your balance.", ch, null, questman, TO_CHAR);
+                    act("$N has 350,000 in gold transferred from $s Swiss account to your balance.", ch, null, questman, TO_CHAR);
                     return;
                 } else {
                     do_tell_quest(ch, questman, "Sorry, " + ch.name + ", but you don't have enough quest points for that.");
