@@ -1286,7 +1286,7 @@ class Save {
                         AFFECT_DATA paf = new AFFECT_DATA();
                         Skill sn = lookupSkill(fp.fread_word());
                         if (sn == null) {
-                            bug("Fread_char: unknown skill.");
+                            bug("Fread_pet: unknown skill.");
                         } else {
                             paf.type = sn;
                         }
@@ -1309,7 +1309,7 @@ class Save {
 
                         Skill sn = lookupSkill(fp.fread_word());
                         if (sn == null) {
-                            bug("Fread_char: unknown skill.");
+                            bug("Fread_pet: unknown skill.");
                         } else {
                             paf.type = sn;
                         }
