@@ -3153,10 +3153,11 @@ public class DB {
                             String word = fp.fread_word();
 
                             if (!str_cmp(word, "evl") || !str_cmp(word, "ev") || !str_cmp(word, "evel")) {
-                                i = fp.fread_number();
+                                int j = fp.fread_number();
+                                // log_string("just found " + j + " in " + file.getName() + " compared to " + i);
                                 fReadLevel = true;
-                                total_levels += UMAX(0, i - 5);
-                                log_string("[" + file.getName() + "]'s file +:" + UMAX(0, i - 5));
+                                total_levels += UMAX(0, j - 5);
+                                log_string("[" + file.getName() + "]'s file +:" + UMAX(0, j - 5));
                             }
                         }
                     } else if (letter == 'P') {
@@ -3185,6 +3186,7 @@ public class DB {
                         String word = fp.fread_word();
                         if (!str_cmp(word, "O") || !str_cmp(word, "OBJECT")) {
                             if (tplayed < nw_config.min_time_limit) {
+                                // log_string("found tplayed: " + tplayed + " against " + nw_config.min_time_limit + " for player " + file.getName());
                                 log_string("Discarding the player " + file.getName() + "'s limited equipments.");
                                 break;
                             }
@@ -3193,6 +3195,7 @@ public class DB {
                             fBootDb = false;
                             int vnum = fp.fread_number();
                             if (get_obj_index(vnum) != null) {
+                                // log_string("Found Vnum: for above player " + vnum);
                                 get_obj_index(vnum).count++;
                             }
                             fBootDb = true;
