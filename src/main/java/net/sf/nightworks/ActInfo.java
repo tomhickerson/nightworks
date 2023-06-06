@@ -424,7 +424,8 @@ class ActInfo {
         if (IS_OBJ_STAT(obj, ITEM_HUM)) {
             buf.append("{y(Humming) ");
         }
-        buf.append("{x");
+        buf.append("{Y");
+        // change the item color
         if (fShort) {
             if (obj.short_descr != null) {
                 buf.append(obj.short_descr);
@@ -454,7 +455,7 @@ class ActInfo {
                 }
             }
         }
-
+        buf.append("{x");
         return buf.toString();
     }
 
@@ -1789,7 +1790,7 @@ class ActInfo {
             buf.append("{B[Exits:");
 
         } else if (IS_IMMORTAL(ch)) {
-            buf.sprintf("Obvious exits from room %d:\n", ch.in_room.vnum);
+            buf.sprintf("{eObvious exits from room %d:{h\n", ch.in_room.vnum);
         } else {
             buf.sprintf("{eObvious exits:{h\n");
         }
@@ -1810,7 +1811,7 @@ class ActInfo {
                             : pexit.to_room.name
                     );
                     if (IS_IMMORTAL(ch)) {
-                        buf.sprintf(false, " (room %d)\n", pexit.to_room.vnum);
+                        buf.sprintf(false, " {W(room %d){x\n", pexit.to_room.vnum);
                     } else {
                         buf.append("\n");
                     }
