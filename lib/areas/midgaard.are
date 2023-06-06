@@ -2295,7 +2295,7 @@ Tower                       \   |/      |            |       |    \Catacombs
   |    Dragon Tower          Plains-----+        |   Day-Care
   |   /                         |       |            | Mirkwood    Void---Old
 Shadow -Galaxy   Titan      Northern  Stones of      |  \Nirvana    |   Thalos
- Grove        |         Midgaard   G'harne       |         `--\Holy
+ Grove            |         Midgaard   G'harne       |         `--\Holy
   |  Ciquala      |                     |     Realms |    Smurf   Grove
    \  \  Arachnos | Shire  Asgard | In the Air   of \|    Village    |
      \  \ |       |   |         \ | /         Mirror |       |       |    Check
@@ -3146,28 +3146,28 @@ map west anatolia~
                          * * * Western Anatolia  * * *
                          = = ================== = =
         Mage 
-Dragon  Tower                       Plains
+Dragon  Tower                       		Plains
 Tower    |              Ciquala's Lair        /|
  |       |  Galaxy    Titans    /           /  |
  --- Shadow-/       |___ _/                        |   |
      Grove   Yggdrasil  |                      | Northern   Realms
-      |     /   |   Greater       Shire    |   Midg.  - Asgard
+      |     /   |   		Greater       Shire    |   Midg.  - Asgard
       \      Arachnos   |   Gerighelm       |    Moria  |   / 
         \        \  |        /      |      |    | / 
-      Forest Of Haon Dor-------/----+--------------------Midgaard--------Cross
-        /    |      |        Chessboard -/|\| |      Roads
+	Forest Of Haon Dor-------/----+--------------------Midgaard--------Cross
+        /    |      |        Chessboard -/|\| |      					Roads
        /     |      |       Mob-Factory  -| |\|
-    Old    Troll Den    |                /| | | \
-        Marsh           |           Sewer | | |  Goblin Str.hold
+    Old    Troll Den|                /| | | \
+    Marsh           |           Sewer | | |  Goblin Str.hold
               Drakyri Isle       Prison --| | \
                                 |   \   Cage & A
                 Redferne's-----Chain----Southern  \     /
-                 /  Residence       Midgaard    Midgaard 
-               /       |            /  /|\       River
-              Divided      |          Gang Land  /  |  Graveyard   /
+                 /  Residence       	Midgaard    Midgaard 
+				/       |            /  /|\       River
+              Divided   |          Gang Land  /  |  Graveyard   /
               Souls Clouds            Zoo   |     |      /
-                   (Harpie)         Miden'nir |  Sands of
-                            (Goblins) |   Sorrow
+                   (Harpie)     	    Miden'nir |  Sands of
+										(Goblins) |   Sorrow
                                          /      \
                                     Church   Mega-City
                                    Catacombs    One
