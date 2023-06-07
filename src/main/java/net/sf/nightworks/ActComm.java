@@ -1649,7 +1649,7 @@ class ActComm {
                 || ch.language == LANG_COMMON
                 || ch.language == ORG_RACE(victim).pcRace.language) {
             if (IS_IMMORTAL(victim)) {
-                trans.sprintf("{%s} %s", language_table[ch == null ? victim.language : ch.language].name, argument);
+                trans.sprintf("(%s) %s", language_table[ch == null ? victim.language : ch.language].name, argument);
             } else {
                 trans.append(argument);
             }
