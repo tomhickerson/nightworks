@@ -2197,7 +2197,7 @@ Southeast Guardpost and Watchtower.~
 This is the Southeast guardpost and guardpost of Solace.
 It is used as a watch station and coffee break area for the town guards.
 There are some stairs in the corner leading up to the watchtower.
-There is a sign above the stairway.
+There is a {Wsign{x above the stairway.
 ~
 102 8 1
 D0
@@ -2220,7 +2220,7 @@ sign~
 
 ** WARNING **
 
-This area is RESTRICTED.
+This area is {RRESTRICTED{x.
 
 Authorized Personnel Only!
 Violators will be jailed or killed.
@@ -2339,7 +2339,7 @@ Southwest Guardpost and Watchtower.~
 This is the Southwest guardpost and guardpost of Solace.
 It is used as a watch station and coffee break area for the town guards.
 There are some stairs in the corner leading up to the watchtower.
-There is a sign above the stairway.
+There is a {Wsign{x above the stairway.
 ~
 102 8 1
 D0
@@ -2362,7 +2362,7 @@ sign~
 
 ** WARNING **
 
-This area is RESTRICTED.
+This area is {RRESTRICTED{x.
 
 Authorized Personnel Only!
 Violators will be jailed or killed.
@@ -2373,7 +2373,7 @@ S
 #10221
 Harvest Road.~
 You are walking down Harvest Road.
-It is quiet and peacefull here. The smell of baked goods and other foods
+It is quiet and peaceful here. The smell of baked goods and other foods
 fill the air.
 ~
 102 0 1
@@ -2396,7 +2396,8 @@ S
 #10222
 Harvest Road.~
 You are walking down Harvest Road.
-It is quiet and peacefull here. The smell of baked goods and other foods
+It is quiet and peaceful here, with small brick buildings lining a street 
+paved in grey flagstone. The smell of baked goods and other foods
 fill the air.
 ~
 102 0 1
@@ -2419,7 +2420,8 @@ S
 #10223
 Harvest Road.~
 You are walking down Harvest Road.
-It is quiet and peacefull here. The smell of baked goods and other foods
+It is quiet and peaceful here, the grey flagstones of the street look 
+incredibly clean and proper. The smell of baked goods and other foods
 fill the air.
 ~
 102 0 1
@@ -2455,7 +2457,7 @@ S
 #10225
 West Gullen Way~
 This is the road called West Gullen Way. It is lined with small houses and
-shops.
+shops, made of red brick and dark wood roofs and awnings.
 ~
 102 0 1
 D1
@@ -2477,7 +2479,7 @@ S
 #10226
 West Gullen Way~
 This is the road called West Gullen Way. It is lined with small houses and
-shops.
+shops, all made of the same red brick and neatly arranged.
 ~
 102 0 1
 D1
@@ -2499,7 +2501,7 @@ S
 #10227
 West Gullen Way~
 This is the road called West Gullen Way. It is lined with small houses and
-shops.
+shops, very neat and clean.
 ~
 102 0 1
 D1
@@ -2521,7 +2523,7 @@ S
 #10228
 Main Road~
 This is the main road in Solace. Down the street you can see various
-shops and houses.
+shops and houses, all made of brick, with wooden roofs made of some dark oak.
 ~
 102 0 1
 D0
@@ -2570,7 +2572,7 @@ Marketplace.~
 This is the Marketplace of Solace. Where the farmers come to sell their
 crops. The smell of vegetables and fruit fill the air. There are a couple
 other vendors selling trinkets and other items.
-There is a sign at the entrance to the market.
+There is a {Wsign{x at the entrance to the market.
 ~
 102 0 1
 D0
@@ -2598,8 +2600,8 @@ sign~
 
 **NOTICE**
 
-Stealing will NOT be tolerated.
-Any sort of shady actions will be punishable by death.
+Stealing will {YNOT{x be tolerated.
+Any sort of shady actions will be punishable by {5death{x.
 
 
 -Captain of the Guard-
@@ -2691,7 +2693,7 @@ Jhen's Vegetable Cart.~
 This is where Jhen the farmer comes to sell his crops. His wooden vegtable
 cart stands here filled with all sorts of vegetables. All his vegtables are 
 unusually large. What kind of plant food does he use anyway...?
-There is a small sign nailed to the cart.
+There is a small {Wsign{x nailed to the cart.
 ~
 102 8 1
 D0
@@ -2715,7 +2717,7 @@ Krista's Fruit Stand.~
 This is where Krista peddles her fruits. Every year she travels from her
 orchards in the mountains to Solace to sell her fruit. Everything seems
 to have an unusually small size. I wonder if she shrinks heads too...
-There is a small sign hanging above the fruit stand.
+There is a small {Wsign{x hanging above the fruit stand.
 ~
 102 8 1
 D0
@@ -2739,7 +2741,7 @@ Janni's Souvenirs.~
 This is Janni's Souvenir shop. He makes trinkets year round that he peddles
 here in the market. You wouldn't want to leave Solace without a souvenir
 would you?
-there is a sign behind the glass case.
+there is a {Wsign{x behind the glass case.
 ~
 102 8 1
 D0
@@ -2764,7 +2766,7 @@ This is one of the oddest venders in the marketplace. Nisi claims to have
 various fresh frozen types of vegetables. They are frozen all right. In 
 fact they are hard enough to stop an axe swing...go figure..
 And just how does she keep them from melting... 
-There is a small sign on the wall in the back of the shop.
+There is a small {Wsign{x on the wall in the back of the shop.
 ~
 102 8 1
 D0
@@ -2788,7 +2790,7 @@ Molin's Mulburry Extracts.~
 This is the shop of the famous mulburry extract. Known throughout the
 valley to quech the thirst of even the thirstiest traveller. What else it does
 is just rumor. That person recovered in a month anyway...
-There is a small sign on the wall.
+There is a small {Wsign{x on the wall.
 ~
 102 8 1
 D2
@@ -2813,7 +2815,7 @@ This is one shop to stay away from. Rashan's rutabagas have been know
 to do strange things to people. And true to its reputation the shop is
 very very empty. I'm sure Rashan would be more than willing to sell
 you one. Business obviously has been very slow....
-There is a small sign hanging next to you.
+There is a small {Wsign{x hanging next to you.
 ~
 102 8 1
 D2
@@ -2841,7 +2843,7 @@ scuba though. Something about a revoked teaching credential due to too
 many students dying or something. This does seem to be an odd place to have
 a scuba shop considering the sea is miles away. But I guess you could
 always go diving in the lake. But why?....
-There is a small sign here.
+There is a small {Wsign{x here.
 ~
 102 8 1
 D2
@@ -2866,7 +2868,7 @@ This is the catch all, hold all, container shop. Croben sell all sorts.
 Just take your pick. And no he doesn't know how much each one holds.
 What...you think he has nothing better to do than fill each container
 just to see how much it holds? Get a life....
-There is a small sign here.
+There is a small {Wsign{x here.
 ~
 102 8 1
 D2
@@ -2890,7 +2892,7 @@ Matt's Brewery.~
 Matt could never find enough to drink. So to solve this he started his own
 brewery. "You can never drink enough" is Matt's logo and offers plenty
 to drink.
-There is a small sign here.
+There is a small {Wsign{x here.
 ~
 102 8 1
 D0
@@ -2984,7 +2986,7 @@ The McBakery~
 and fine McBread fills the room.  The McBread and McDanish are arranged
 in fine order on the McShelves, and seem to be of the finest McQuality. You
 remember seeing a place like this somewhere before. Maybe its a McChain?
-A small McSign is on the McCounter.
+A small {WMcSign{x is on the McCounter.
 ~
 102 8 1
 D3
@@ -3059,7 +3061,7 @@ right after the bird factory.
 S
 #10254
 Storage Building~
-   This is an abandon storage building. Its empty walls used to house large
+   This is an abandoned storage building. Its empty walls used to house large
 amounts of surplus equipment for the market and various vendors. Sales
 have been good lately and all surplus has been sold. It seems supply has
 yet to catch up to demand.
@@ -3077,7 +3079,7 @@ Jander's~
 another it is now empty. Dust and cobwebs cover everything. It looks as if
 nobody has tread here in years. The bar is hidden beneath broken bottles
 and shattered glasses. Tables and chairs are scattered all over the floor.
-There is a sign on the wall.
+There is a {Wsign{x on the wall.
 There is a door to Ketra Road to the east.
 ~
 102 8 1
@@ -3108,7 +3110,7 @@ Jander's Poolhall~
 another it is now empty. Dust and cobwebs cover everything. It looks as if
 nobody has tread here in years. The bar is to the east. The pooltables are
 broken in half and lie in a heap on the floor. 
-There is a sign on the door to Jander's office.
+There is a {Wsign{x on the door to Jander's office.
 A backdoor to the alley is to the south.
 ~
 102 8 1
@@ -3170,7 +3172,7 @@ The walls are covered with twisted faces of a countless tortured
 souls crying out in agony. The floor is made of black marble as is the 
 ceiling. The air smells of brimstone and makes your lungs burn with
 every breath. 
-There is a sign floating in front of you.
+There is a {Wsign{x floating in front of you.
 ~
 102 8 1
 E
@@ -3206,7 +3208,7 @@ Inside Southeast Watchtower.~
 You are inside the Southeast Watchtower.
 From up here you can see above the trees and most of the valley.
 There is a beautiful view of Crystalmir lake.
-Well actually the Southwest watchtower is blocking some of your view.
+The Southwest watchtower is blocking some of your view.
 You are however not suppose to be up here. If the guards catch you up
 here you are likely to be in BIG trouble...
 ~
