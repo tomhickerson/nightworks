@@ -555,7 +555,7 @@ class ActInfo {
 
     static void show_char_to_char_0(CHAR_DATA victim, CHAR_DATA ch) {
         StringBuilder buf = new StringBuilder();
-        buf.append("{m");
+        buf.append("{M");
         // making all mobs magenta?
         /*
         * Quest staff
@@ -563,7 +563,7 @@ class ActInfo {
         if (!IS_NPC(ch) && IS_NPC(victim)
                 && ch.pcdata.questmob > 0
                 && victim.pIndexData.vnum == ch.pcdata.questmob) {
-            buf.append("[{RTARGET{m] ");
+            buf.append("[{RTARGET{M] ");
         }
 /*
     sprintf(message,"(%s) ",race_table[RACE(victim)].name);
@@ -574,7 +574,7 @@ class ActInfo {
             buf.append("(Ridden) ");
         }
         if (IS_AFFECTED(victim, AFF_INVISIBLE)) {
-            buf.append("(Invis) ");
+            buf.append("({5Invis{M) ");
         }
         if (IS_AFFECTED(victim, AFF_IMP_INVIS)) {
             buf.append("(Improved) ");
@@ -583,20 +583,20 @@ class ActInfo {
             buf.append("(Wizi) ");
         }
         if (IS_AFFECTED(victim, AFF_HIDE)) {
-            buf.append("(Hide) ");
+            buf.append("({6Hide{M) ");
         }
         if (IS_AFFECTED(victim, AFF_FADE)) {
-            buf.append("(Fade) ");
+            buf.append("({7Fade{M) ");
         }
         if (IS_AFFECTED(victim, AFF_CAMOUFLAGE)) {
-            buf.append("(Camf) ");
+            buf.append("({7Camf{M) ");
         }
         if (IS_AFFECTED(victim, AFF_EARTHFADE)) {
-            buf.append("(Earth) ");
+            buf.append("({6Earth{M) ");
         }
         if (IS_AFFECTED(victim, AFF_CHARM)
                 && victim.master == ch) {
-            buf.append("({BCharmed{m) ");
+            buf.append("({BCharmed{M) ");
         }
         if (IS_AFFECTED(victim, AFF_PASS_DOOR)) {
             buf.append("(Translucent) ");
@@ -605,19 +605,19 @@ class ActInfo {
             buf.append("(Pink Aura) ");
         }
         if (IS_NPC(victim) && IS_SET(victim.act, ACT_UNDEAD) && IS_AFFECTED(ch, AFF_DETECT_UNDEAD)) {
-            buf.append("({GUndead{m) ");
+            buf.append("({GUndead{M) ");
         }
         if (IS_EVIL(victim) && IS_AFFECTED(ch, AFF_DETECT_EVIL)) {
-            buf.append("({rRed Aura{m) ");
+            buf.append("({rRed Aura{M) ");
         }
         if (IS_GOOD(victim) && IS_AFFECTED(ch, AFF_DETECT_GOOD)) {
-            buf.append("({yGolden Aura{m) ");
+            buf.append("({yGolden Aura{M) ");
         }
         if (IS_AFFECTED(victim, AFF_SANCTUARY)) {
-            buf.append("({WWhite Aura{m) ");
+            buf.append("({WWhite Aura{M) ");
         }
         if (!IS_NPC(victim) && IS_SET(victim.act, PLR_WANTED)) {
-            buf.append("({RCRIMINAL{m) ");
+            buf.append("({RCRIMINAL{M) ");
         }
 
 
@@ -630,9 +630,9 @@ class ActInfo {
         }
 
         if (IS_SET(ch.act, PLR_HOLYLIGHT) && is_affected(victim, gsn_doppelganger)) {
-            buf.append("{");
+            buf.append("(");
             buf.append(PERS(victim, ch));
-            buf.append("} ");
+            buf.append(") ");
         }
 
         if (is_affected(victim, gsn_doppelganger) &&

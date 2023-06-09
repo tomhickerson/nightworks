@@ -4649,7 +4649,7 @@ class ActWiz {
             if (area.count >= 5000000) {
                 buf.sprintf(false, "%-20s overflow       ", area.name);
             } else {
-                buf.sprintf(false, "%-20s %-8lu       ", area.name, area.count);
+                buf.sprintf(false, "%-20s %02d       ", area.name, area.count);
             }
             if (i % 2 == 0) {
                 buf.append("\n");
