@@ -4057,10 +4057,8 @@ class ActWiz {
             send_to_char("    str int wis dex con cha sex class level\n", ch);
             send_to_char("    race gold hp mana move practice align\n", ch);
             send_to_char("    train thirst drunk full hometown ethos\n", ch);
-
-            /*** Added By KIO ***/
             send_to_char("    questp questt relig bloodlust desire\n", ch);
-            /*** Added By KIO ***/
+
             return;
         }
 
