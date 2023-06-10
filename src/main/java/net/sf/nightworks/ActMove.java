@@ -389,7 +389,7 @@ class ActMove {
                 return;
             }
             if (!mount_success(ch, mount, false)) {
-                send_to_char("Your mount subbornly refuses to go that way.\n", ch);
+                send_to_char("Your mount stubbornly refuses to go that way.\n", ch);
                 return;
             }
         }
@@ -1963,8 +1963,8 @@ class ActMove {
             return;
         }
 
-        if (ch.level >= 11 && !IS_IMMORTAL(ch)) {
-            send_to_char("Recall is for only levels below 10.\n", ch);
+        if (ch.level >= 21 && !IS_IMMORTAL(ch)) {
+            send_to_char("Recall is for only levels 20 and below.\n", ch);
             return;
         }
 /*
@@ -2255,7 +2255,7 @@ class ActMove {
         int level, duration;
 
         if (skill_failure_check(ch, gsn_vampire, false, 0,
-                "You try to show yourself even more uggly.\n")) {
+                "You try to show yourself even more ugly.\n")) {
             return;
         }
 
@@ -2270,14 +2270,14 @@ class ActMove {
         }
 
         if (is_affected(ch, gsn_vampire)) {
-            send_to_char("If you wan't to be more vampire go and kill a player.\n", ch);
+            send_to_char("If you want to be more vampire go and kill a player.\n", ch);
             return;
         }
 
         if (weather_info.sunlight == SUN_LIGHT
                 || weather_info.sunlight == SUN_RISE) {
             send_to_char(
-                    "You should have waited the evening or night to tranform to a vampire.\n", ch);
+                    "You should have waited the evening or night to transform to a vampire.\n", ch);
         }
 
         level = ch.level;
@@ -2403,13 +2403,13 @@ class ActMove {
 
         if (victim.hit < (0.8 * victim.max_hit) &&
                 (IS_AWAKE(victim))) {
-            act("$N is hurt and suspicious ... doesn't worth up.",
+            act("$N is hurt and suspicious ... not worth it.",
                     ch, null, victim, TO_CHAR);
             return;
         }
 
         if (current_time - victim.last_fight_time < 300 && IS_AWAKE(victim)) {
-            act("$N is suspicious ... it doesn't worth to do.",
+            act("$N is suspicious ... it's not worth it.",
                     ch, null, victim, TO_CHAR);
             return;
         }
@@ -2526,7 +2526,7 @@ class ActMove {
                 pexit.exit_info = REMOVE_BIT(pexit.exit_info, EX_CLOSED);
                 act("$n bashes the the $d and breaks the lock.", ch, null,
                         pexit.keyword, TO_ROOM);
-                send_to_char("You successed to open the door.\n", ch);
+                send_to_char("You succeeded to open the door!\n", ch);
 
                 /* open the other side */
                 if ((to_room = pexit.to_room) != null
@@ -2731,7 +2731,7 @@ class ActMove {
         }
 
         if (is_affected(victim, gsn_blackguard)) {
-            act("$N's doesn't let you to go that much close.", ch, null, victim, TO_CHAR);
+            act("$N's doesn't let you to get that close.", ch, null, victim, TO_CHAR);
             return;
         }
 
@@ -2750,11 +2750,11 @@ class ActMove {
 
         if (IS_NPC(ch) ||
                 number_percent() < 0.85 * get_skill(ch, gsn_vampiric_touch)) {
-            act("You deadly touch  $N's neck and put $M to nightmares.",
+            act("You deadly touch  $N's neck and put $M into nightmares.",
                     ch, null, victim, TO_CHAR);
-            act("$n's deadly touch your neck and puts you to nightmares.",
+            act("$n's deadly touch your neck and puts you into nightmares.",
                     ch, null, victim, TO_VICT);
-            act("$n's deadly touch $N's neck and puts $M to nightmares.",
+            act("$n's deadly touch $N's neck and puts $M into nightmares.",
                     ch, null, victim, TO_NOTVICT);
             check_improve(ch, gsn_vampiric_touch, true, 1);
 
@@ -2816,7 +2816,7 @@ class ActMove {
                 ch.act = REMOVE_BIT(ch.act, PLR_CHANGED_AFF);
                 send_to_char("You start to fly.\n", ch);
             } else {
-                send_to_char("To fly , find a potion or wings.\n", ch);
+                send_to_char("To fly, find a potion or wings.\n", ch);
             }
         } else if (!str_cmp(arg.toString(), "down")) {
             if (IS_AFFECTED(ch, AFF_FLYING)) {
@@ -2853,7 +2853,7 @@ class ActMove {
         one_argument(argument, arg2);
 
         if (arg1.length() == 0 || arg2.length() == 0) {
-            send_to_char("Push whom to what diretion?\n", ch);
+            send_to_char("Push whom to what direction?\n", ch);
             return;
         }
 
@@ -2904,7 +2904,7 @@ class ActMove {
 
             if (IS_AFFECTED(ch, AFF_WEB)) {
                 send_to_char("You're webbed, and want to do WHAT?!?\n", ch);
-                act("$n stupidly tries to push $N while webbed.", ch, null, victim, TO_ROOM);
+                act("$n tries to push $N while webbed.", ch, null, victim, TO_ROOM);
                 return;
             }
 
@@ -2986,7 +2986,7 @@ class ActMove {
             point = ROOM_VNUM_BATTLE;
         }
 
-        act("$n prays upper lord of Battleragers for transportation!", ch, 0, 0, TO_ROOM);
+        act("$n prays to the upper lord of Battleragers for transportation!", ch, 0, 0, TO_ROOM);
 
         if ((location = get_room_index(point)) == null) {
             send_to_char("You are completely lost.\n", ch);
@@ -3061,7 +3061,7 @@ class ActMove {
         one_argument(argument, arg);
 
         if (arg.length() == 0) {
-            send_to_char("Escape to what diretion?\n", ch);
+            send_to_char("Escape to what direction?\n", ch);
             return;
         }
 
@@ -3082,7 +3082,7 @@ class ActMove {
                     || (IS_SET(pexit.exit_info, EX_NOFLEE))
                     || (IS_NPC(ch)
                     && IS_SET(pexit.to_room.room_flags, ROOM_NO_MOB))) {
-                send_to_char("Something prevents you to escape that direction.\n", ch);
+                send_to_char("Something prevents you to escape in that direction.\n", ch);
                 return;
             }
 
@@ -3463,7 +3463,7 @@ class ActMove {
         one_argument(argument, arg2);
 
         if (arg1.length() == 0 || arg2.length() == 0) {
-            send_to_char("Shoot what diretion and whom?\n", ch);
+            send_to_char("Shoot what direction and whom?\n", ch);
             return;
         }
 
@@ -3605,7 +3605,7 @@ class ActMove {
         one_argument(argument, arg2);
 
         if (arg1.length() == 0 || arg2.length() == 0) {
-            send_to_char("Throw spear what diretion and whom?\n", ch);
+            send_to_char("Throw spear what direction and whom?\n", ch);
             return;
         }
 
