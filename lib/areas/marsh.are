@@ -324,6 +324,25 @@ sword 4 8 cleave F
 #0
 
 #ROOMS
+#8300
+An Oozing Bog~
+You continue on the oozing bog and see many large swarms of mosquitoes
+flying about.  Some mosquitoes are as large as a human's head.  They seem to
+be attaching themselves to whatever is moving, draining blood out of them. 
+To the north, the swarm density increases.  
+~
+0 0 2
+D0
+Northward is a thick bog of ooze with lots of mosquitoes.
+~
+~
+0 0 8321
+D2
+Southward is a thick bog of ooze.
+~
+~
+0 0 8306
+S
 #8301
 Muddy Path~
 This section of the path is slowly being drowned by the nearby swamp to the
@@ -451,6 +470,16 @@ The ground here is soft and oozing.  You feel slimy water seeping into your
 boots.  Better stop and check for leeches when you get out of here.
 ~
 0 A 5
+D0
+Northward is a thick bog of ooze with lots of mosquitoes.
+~
+~
+0 0 8300
+D2
+Southward is a thick bog of ooze.
+~
+~
+0 0 8341
 D3
 You see a large tree limb that looks easily moved.
 ~
@@ -467,6 +496,11 @@ A horrible swamp thing resides here.  Mutilated corpses suffuse the air with
 the overwhelming stench of putrid flesh.
 ~
 0 A 6
+D1
+Foliage is heavy to the east.
+~
+~
+0 0 8344
 D3
 A pool of quick sand lies to the west.
 ~
@@ -605,6 +639,16 @@ Eastward is a large, black stone monolith.
 ~
 ~
 0 -1 8313
+D2
+Foliage is heavy to the south.
+~
+~
+0 0 8343
+D3
+Foliage is heavy to the west.
+~
+~
+0 0 8342
 E
 plant plants~
 They look rather violent, and snap at you when you come near.
@@ -696,11 +740,21 @@ Northern lake side.
 ~
 ~
 0 -1 8315
+D2
+There is a murky trail leading south.
+~
+~
+0 0 8319
 D3
 To the west is a beach where your boat can land.
 ~
 ~
 0 -1 8317
+D5
+Down leads to the bottom of the lake.
+~
+~
+0 0 8329
 E
 north~
 The way to the north seems to be impassable, due to the rough water and
@@ -732,7 +786,7 @@ S
 Before the Great Gates.~
 You stand before the gates of a huge fortress.  The drawbridge is up, the
 gates closed, and the portcullis down.  This place looks very dangerous,
-and you decide not to continue onward.
+making you consider whether or not to continue onward.
 ~
 0 A 3
 D1
@@ -744,6 +798,512 @@ D2
 ~
 ~
 1 -1 -1
+S
+#8319
+Murky Trail~
+The ground is mucky and wet here.  There is a break in the trees to the
+north, and you can hear water lapping against a shore.  The trail continues
+south into the darkness.  
+~
+0 A 3
+D0
+~
+~
+0 0 8316
+D2
+~
+~
+0 0 8320
+S
+#8320
+Darkened Clearing~
+The thicket of swamp oaks, vines, and tall, heavy leafed magnolias clears
+into a rough circle here.  Overhead, the vegetation is thick enough to block
+out the sky completely.  Tiny phosphorescent insects flit and blink all
+around you, lighting the clearing in an emerald hue.  
+~
+0 A 3
+D0
+~
+~
+0 0 8319
+M 150 H 150
+S
+#8321
+An Oozing Bog~
+This part of the bog is so saturated with water it seems like quicksand. 
+It's still strong enough to support weight, and the thousands of mosquitoes.
+The source of the mosquitoes seems to be coming from a lake to the east.  
+~
+0 A 3
+D1
+To the east is a shallow lake swarming with mosquitoes.
+~
+~
+0 0 8322
+D2
+Southward is a thick bog of ooze with lots of mosquitoes.
+~
+~
+0 0 8300
+S
+#8322
+A Mosquito-Infested Lake~
+Tens of thousands of mosquitoes swarm above the water's surface, making
+it seem like one huge living entity.  Larvae of the mosquitoes squiggle
+around in the water, looking like a miniature, lively worm.  The lake
+continues east and south.  
+~
+0 A 6
+D1
+You see the east part of a shallow lake swarming with mosquitoes.
+~
+~
+0 0 8323
+D2
+You see the south part of a shallow lake swarming with mosquitoes.
+~
+~
+0 0 8324
+D3
+You see a thick bog of ooze swarming with mosquitoes.
+~
+~
+0 0 8321
+S
+#8323
+A Mosquito-Infested Lake~
+Huge mosquitoes seem to be numerous at this lake, as a few accidentally
+bump into you onto their way towards the west.  You see some skimming the
+surface of the water many times, performing their mating rituals.  Beneath
+the surface of the water you can see some marine life, weird-looking and
+dangerous.  
+~
+0 A 7
+D2
+You see the south part of a shallow lake swarming with mosquitoes.
+~
+~
+0 0 8325
+D3
+You see the west part of a shallow lake swarming with mosquitoes.
+~
+~
+0 0 8322
+D5
+You see tons of mosquito larvae and eggs swimming around in the water.
+~
+~
+0 0 8327
+S
+#8324
+A Mosquito-Infested Lake~
+The lake is densely packed with mosquitoes on the surface and eggs and
+larvae in the water.  The mosquitoes seem to be more concerned with the
+water than your presence, but some still pester you.  
+~
+0 A 7
+D0
+You see the north part of a shallow lake swarming with mosquitoes.
+~
+~
+0 0 8322
+D1
+You see the east part of a shallow lake swarming with mosquitoes.
+~
+~
+0 0 8325
+S
+#8325
+A Mosquito-Infested Lake~
+Some blades of grass seem to peak out of the water, being almost covered
+with mosquitoes and other insects.  Green stuff covers most of the lake in
+this region, and where it does not, mosquitoes take its place.  You see some
+wreckage of a boat east of here.  To the west and north the lake continues. 
+~
+0 A 6
+D0
+You see the north part of a shallow lake swarming with mosquitoes.
+~
+~
+0 0 8323
+D1
+You see the remains of a wrecked canoe.
+~
+~
+0 0 8326
+D3
+You see the west part of a shallow lake swarming with mosquitoes.
+~
+~
+0 0 8324
+S
+#8326
+Wreckage of a Canoe~
+You enter the wreckage of the large canoe.  The insides are teeming with
+all sorts of insects and plant life.  All of the wood has rotted, but still
+stands in place.  It is impossible to tell how long its been here, or whose
+it is.  
+~
+0 0 2
+D3
+You see a lake swarming with mosquitoes.
+~
+~
+0 0 8325
+S
+#8327
+In the Mosquito-Infested Lake~
+Many eggs and larvae occupy the water, making it hard to see, along with
+a few plants and the very murky water.  You can swim deeper into the lake or
+surface to the mosquitoes.  
+~
+0 A 6
+D4
+You see the surface of the lake, swarming with mosquitoes.
+~
+~
+0 0 8323
+D5
+You see the bottom of the lake, along with some fish, but no mosquitoes.
+~
+~
+0 0 8328
+S
+#8328
+At the Bottom of the Lake~
+The water down here seems to clear up, since no eggs or larvae have made
+it this deep.  The bottom of the lake is covered by very dark grass-like
+vegetation.  Swimming around are weird-looking fish that do not seem to have
+an interest in you.  
+~
+0 A 6
+D3
+The space narrows westward.
+~
+~
+0 0 8337
+D4
+You see water filled with mosquito larvae and eggs.
+~
+~
+0 0 8327
+S
+#8329
+Deep in the Southern Lake Side~
+You can hear the splashing of the swamp creatures going through the water
+above, and also feel the thuds of the swamp trolls and giants stomping in
+the water, but none of them go down here.  You can surface back to the lake
+or head east, deeper into the lake.  
+~
+0 A 6
+D1
+You see the water become very cloudy and dark.
+~
+~
+0 0 8330
+D4
+Up leads to the surface of the lake.
+~
+~
+0 0 8316
+S
+#8330
+Murky Water~
+The water here is very dark and cloudy, making visibility poor.  The
+local marine life consists of very dark, grass-like plants protruding from
+the bottom of the swamp, to weird-looking fish that seem to kick up the dirt
+as they pass by you.  You see a small entryway at the bottom, while west
+leads directly beneath the southern side of the lake.  
+~
+0 A 6
+D3
+West leads to the bottom of the southern lake of the marsh.
+~
+~
+0 0 8329
+D5
+You see murky water.
+~
+~
+0 0 8331
+S
+#8331
+Murky Water~
+The water here seems to clear up a bit, but still you can only see a few
+feet in front of you.  The plants tickle your underside as you pass by them,
+and the occasional fish swims close by you, oblivious of your presence.  
+~
+0 A 6
+D0
+You see murky water.
+~
+~
+0 0 8332
+D4
+You see murky water.
+~
+~
+0 0 8330
+S
+#8332
+Murky Waters~
+The dark plants seem to be more dense in this area, as well as the
+weird-looking fish swimming between them.  The place looks very bland and
+uninteresting.  To the west is a water-filled tunnel, probably dug by one of
+the water's inhabitants.  
+~
+0 A 6
+D2
+You see murky water.
+~
+~
+0 0 8331
+D3
+West leads to a water-filled tunnel.
+~
+~
+0 0 8333
+S
+#8333
+A Water-Filled Tunnel~
+This tunnel is filled with many nooks and crannies that are too small for
+you to enter, but you see lots of small plants and fish nests inside.  Lots
+of very small fish swim around, unphased by your presence.  
+~
+0 A 6
+D0
+You see a water-filled tunnel.
+~
+~
+0 0 8334
+D1
+The tunnel widens to lead to murky waters.
+~
+~
+0 0 8332
+S
+#8334
+A Water-Filled Tunnel~
+You spot a small fish nest dead in the middle of this tunnel.  It looks a
+bit beaten up.  The tunnel seems to widen a bit to the south, and to the
+north the tunnel continues.  
+~
+0 A 6
+D0
+You see a water-filled tunnel.
+~
+~
+0 0 8335
+D2
+You see a water-filled tunnel.
+~
+~
+0 0 8333
+S
+#8335
+A Water-Filled Tunnel~
+It is a tight squeeze down here.  From the looks of the area, this looks
+like a small tunnel, dug by some marine animal.  There are many branches
+that are too narrow for you to enter, but you see fish nests in them.  The
+tunnel continues south.  To the north the tunnel opens up.  
+~
+0 A 6
+D0
+North leads directly below the bogs.
+~
+~
+0 0 8336
+D2
+You see a water-filled tunnel.
+~
+~
+0 0 8334
+S
+#8336
+Beneath the Swamp~
+You notice only a few marine animals down here - weird-looking fish,
+eels, and more weird-looking fish.  They seem to scatter when eels get too
+close, hinting that the eels might be the predators down here.  There isn't
+much room to maneuver down here.  You can swim east or south.  
+~
+0 A 6
+D1
+You see the bottom of the lake.
+~
+~
+0 0 8337
+D2
+You see a small, water-filled tunnel.
+~
+~
+0 0 8335
+S
+#8337
+At the Bottom of the Lake~
+The space down here is cramped.  It is also very dark now, making
+visibility very poor, as you can only see a few feet in front of you.  The
+grass-like plants guide your way.  
+~
+0 A 6
+D1
+You see more of the bottom of the lake.
+~
+~
+0 0 8328
+D3
+West leads directly below the bogs.
+~
+~
+0 0 8336
+S
+#8338
+A Caved-In Building~
+Not much remains intact inside this building.  All of the valuables have
+been looted.  Furniture has been crushed, and pottery lay in pieces all over
+the floor.  Most of the building is covered with moss.  East leads back to
+the swamp.  
+~
+0 A 0
+D1
+A muddy path is to the east.
+~
+~
+0 0 8301
+S
+#8339
+Marshy Forest~
+This place is sparsely populated by trees, most of which are saplings.  A
+large puddle is between two trees, and you see it shiver as the inhabitants
+of this swamp heavily stomp on the ground.  To the east, the ground becomes
+very soft.  The marshy forest continues north.  
+~
+0 A 3
+D0
+A sparse, marshy forest lies south.
+~
+~
+0 0 8303
+D1
+Eastward is a thick bog of ooze.
+~
+~
+0 0 8340
+S
+#8340
+An Oozing Bog~
+The earth here has suddenly become very soft, almost oozing with water. 
+There are many impressions on the ground, mostly footprints that range from
+very large to tiny feet.  The oozing bog continues east and north.  To the
+west the ground becomes more solid, and you see a few trees.  
+~
+0 A 3
+D0
+Northward is a thick bog of ooze.
+~
+~
+0 0 8305
+D1
+Eastward is a thick bog of ooze.
+~
+~
+0 0 8341
+D3
+To the west you see a sparse marsh forest.
+~
+~
+0 0 8339
+S
+#8341
+An Oozing Bog~
+All around you, you hear squishy, suction sounds made by the swamp's
+inhabitants.  You also hear faint buzzing noises in the distant north.  The
+oozing bog continues north and west.  
+~
+0 A 3
+D0
+~
+~
+0 0 8306
+D3
+~
+~
+0 0 8340
+S
+#8342
+Dense Foliage~
+The foliage becomes too thick to travel west and north.  Some odd plants
+seem to move away when you get near them.  Some other plants seem to ooze a
+bright green liquid on their leaves.  The ground here seems to be more solid
+than the rest of the marsh.  You can continue east and south.  
+~
+0 A 3
+D1
+Foliage is heavy to the east.
+~
+~
+0 0 8312
+D2
+Foliage is heavy to the south.
+~
+~
+0 0 8344
+S
+#8343
+Dense Foliage~
+There are many plants here, native to the swamp, along with the insects
+and small creatures that make their habitat in or around them.  The leaves
+of some of the plants rustle as you pass.  Shadows casted by the large
+plants and the thickness of some make this a good hiding place.  
+~
+0 A 3
+D0
+Foliage is heavy to the north.
+~
+~
+0 0 8312
+D3
+Foliage is heavy to the west.
+~
+~
+0 0 8344
+S
+#8344
+Dense Foliage~
+The plants on the ground seem to be somewhat crushed by a heavy weight or
+creature.  The crushed trail leads west.  The dense foliage continues east
+and north.  
+~
+0 A 3
+D0
+Foliage is heavy to the north.
+~
+~
+0 0 8342
+D1
+Foliage is heavy to the east.
+~
+~
+0 0 8343
+D3
+You see a lair of a marsh creature.
+~
+~
+0 0 8307
+S
+#8345
+A Caved-In Building~
+Most of this building has collapsed.  Green vegetation, mostly moss,
+occupy most of the space.  Anything of value that used to be in this
+building is either missing or buried in the mess.  The only exit is to the
+west.  
+~
+0 A 0
+D3
+A muddy path is to the west.
+~
+~
+0 0 8301
 S
 #0
 #RESETS
