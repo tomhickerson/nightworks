@@ -2237,7 +2237,7 @@ S
 #5762
 Outside Three Doors~
 You are standing in a north-south running corridor between two doors. The
-one to the east has a small sign upon it, while the one to the west is
+one to the east has a small {Ysign{x upon it, while the one to the west is
 blank. You can here a gentle humming noise, as if of someone singing to
 themself, behind the east door. There is another, pitch-black portal to 
 the north. It looks ominous...
@@ -2466,7 +2466,7 @@ river sports its own particular little nasties like all the other parts of
 the dungeon have so far.
 A rickety bridge allows you to cross to the other side if you wish, or you
 may wish to go boating using a nearby punt.
-A sign says- "Don't Pay the Ferryman...till he gets you to the other side..."
+A {Wsign{x says- "Don't Pay the Ferryman...till he gets you to the other side..."
 ~
 0 AD 0
 D0
