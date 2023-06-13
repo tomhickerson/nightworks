@@ -1,5 +1,6 @@
 package net.sf.nightworks;
 
+import net.sf.nightworks.enums.PlayerAchievement;
 import net.sf.nightworks.util.DikuTextFile;
 import net.sf.nightworks.util.TextBuffer;
 
@@ -279,6 +280,10 @@ class Save {
         }
         if (ch.pcdata.bamfout.length() != 0) {
             fp.sprintf(false, "Bout %s~\n", ch.pcdata.bamfout);
+        }
+        if (ch.pcdata.achievements.length > 0) {
+            // need a CSV here
+            fp.sprintf("Achv %s~", Arrays.stream(ch.pcdata.achievements).toString());
         }
         fp.sprintf(false, "Titl %s~\n", ch.pcdata.title);
         fp.sprintf(false, "Pnts %d\n", ch.pcdata.points);
@@ -910,6 +915,18 @@ class Save {
                             ch.perm_stat[stat] = fp.fread_number();
                         }
                         fp.fMatch = true;
+                        break;
+                    }
+                    // scanning achievements
+                    if (!str_cmp(word, "Achv")) {
+                        String achCsv = fp.fread_string_eol();
+                        String[] achieves = achCsv.split(",");
+                        ch.pcdata.achievements = achieves;
+                        for (int j = 0; j < achieves.length; j++) {
+                            int achievedId = Integer.parseInt(achieves[j]);
+                            PlayerAchievement pa = PlayerAchievement.achieveMap.get(new Integer(achievedId));
+                            // add it here
+                        }
                         break;
                     }
                     break;

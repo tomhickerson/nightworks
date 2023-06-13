@@ -38,7 +38,7 @@ public enum PlayerAchievement {
 
     private static final PlayerAchievement[] achievements = PlayerAchievement.values();
 
-    private static final Map<Integer, PlayerAchievement> achieveMap = new HashMap<>();
+    public static final Map<Integer, PlayerAchievement> achieveMap = new HashMap<>();
 
     static {
         for (PlayerAchievement pa : achievements) {
@@ -60,7 +60,6 @@ public enum PlayerAchievement {
     }
 
     public PlayerAchievement lookupAchievement(Integer id) {
-        PlayerAchievement pa = achieveMap.get(id);
-        return pa;
+        return achieveMap.get(id);
     }
 }
