@@ -1,5 +1,6 @@
 package net.sf.nightworks;
 
+import net.sf.nightworks.enums.PlayerAchievement;
 import net.sf.nightworks.enums.PlayerMessage;
 import net.sf.nightworks.util.TextBuffer;
 
@@ -18,8 +19,7 @@ import static net.sf.nightworks.ActMove.move_char;
 import static net.sf.nightworks.ActObj.do_drop;
 import static net.sf.nightworks.ActObj.do_get;
 import static net.sf.nightworks.ActObj.do_give;
-import static net.sf.nightworks.ActWiz.do_load;
-import static net.sf.nightworks.ActWiz.do_smite;
+import static net.sf.nightworks.ActWiz.*;
 import static net.sf.nightworks.Comm.act;
 import static net.sf.nightworks.Comm.send_to_char;
 import static net.sf.nightworks.Const.hometown_table;
@@ -225,6 +225,24 @@ class MobProg {
         } else {
             do_say(mob, "Trying to bribe me, eh? It'll cost ya more than that.");
         }
+    }
+
+    static void greet_prog_sewer_gargoyle(CHAR_DATA mob, CHAR_DATA ch) {
+        if (IS_NPC(ch)) {
+            return;
+        }
+        if (ch.pcdata.achievements.size() > 0) {
+            if (ch.pcdata.achievements.contains(PlayerAchievement.TALK_TO_SEWER_GARGOYLE)) {
+                do_say(mob, "Back for more, eh?  Tell me a code, I'll send you someplace fun...");
+                return;
+            }
+
+        }
+        do_say(mob, "Looks like you are here for the first time, " + ch.name + ".");
+        do_say(mob, "You can't usually leave a place like this, but if you give me \na four-number code, I can teleport you to a safer location.");
+        do_say(mob, "Give it a try and see!");
+        ch.pcdata.lineAchievement += "," + PlayerAchievement.TALK_TO_SEWER_GARGOYLE.getId();
+        ch.pcdata.achievements.add(PlayerAchievement.TALK_TO_SEWER_GARGOYLE);
     }
 
     static void greet_prog_shalafi(CHAR_DATA mob, CHAR_DATA ch) {
@@ -1071,6 +1089,15 @@ class MobProg {
     static void area_prog_grocer(CHAR_DATA mob) {
         if (number_percent() < 5) {
             do_say(mob, "Can I interest you in a lantern today?");
+        }
+    }
+
+    static void speech_prog_sewer_gargoyle(CHAR_DATA mob, CHAR_DATA ch, String speech) {
+        if (!str_cmp(speech, "1234")) {
+            do_say(mob, "Ok, a simple code but it works for me!");
+            do_goto(ch, String.valueOf(ROOM_VNUM_ALTAR));
+        } else {
+            do_say(mob, "Come on, try another code!  Something like 4321, or something like that.");
         }
     }
 

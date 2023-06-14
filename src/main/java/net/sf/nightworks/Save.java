@@ -281,9 +281,18 @@ class Save {
         if (ch.pcdata.bamfout.length() != 0) {
             fp.sprintf(false, "Bout %s~\n", ch.pcdata.bamfout);
         }
-        if (ch.pcdata.achievements.length > 0) {
+        if (ch.pcdata.achievements.size() > 0) {
             // need a CSV here
-            fp.sprintf("Achv %s~", Arrays.stream(ch.pcdata.achievements).toString());
+
+            String achvs = "";
+            for (PlayerAchievement pa : ch.pcdata.achievements) {
+                achvs += pa.getId() + ",";
+            }
+            fp.sprintf(false, "Achv %s~\n", achvs);
+            ch.pcdata.lineAchievement = achvs;
+            // System.out.println(" ### saved achvs " + achvs);
+            // might have to fix this later to read the arraylists
+            // fp.sprintf("Achv %s~\n", Arrays.stream(ch.pcdata.achievements).toString());
         }
         fp.sprintf(false, "Titl %s~\n", ch.pcdata.title);
         fp.sprintf(false, "Pnts %d\n", ch.pcdata.points);
@@ -919,16 +928,27 @@ class Save {
                     }
                     // scanning achievements
                     if (!str_cmp(word, "Achv")) {
-                        String achCsv = fp.fread_string_eol();
-                        String[] achieves = achCsv.split(",");
-                        ch.pcdata.achievements = achieves;
+                        ch.pcdata.lineAchievement = fp.fread_word();
+                        // System.out.println(" ### found achievement " + ch.pcdata.lineAchievement);
+                        String[] achieves = ch.pcdata.lineAchievement.split(",");
                         for (int j = 0; j < achieves.length; j++) {
-                            int achievedId = Integer.parseInt(achieves[j]);
+                            int achievedId = 0;
+                            try {
+                                achievedId = Integer.parseInt(achieves[j]);
+                            } catch (NumberFormatException nfe) {
+                                bug("fread_char: found bad Achv " + achieves[j]);
+                            }
                             PlayerAchievement pa = PlayerAchievement.achieveMap.get(new Integer(achievedId));
-                            // add it here
+                            // System.out.println(" ### Looking in a hashmap of " + PlayerAchievement.achieveMap.size() +
+                               //     " and looking for " + achievedId);
+                            if (pa != null) {
+                                ch.pcdata.achievements.add(pa);
+                                // System.out.println(" ### Adding " + pa.getId());
+                            }
                         }
                         break;
                     }
+
                     break;
 
                 case 'B':

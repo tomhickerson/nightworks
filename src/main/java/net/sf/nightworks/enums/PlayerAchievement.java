@@ -62,4 +62,11 @@ public enum PlayerAchievement {
     public PlayerAchievement lookupAchievement(Integer id) {
         return achieveMap.get(id);
     }
+
+    public boolean equals(PlayerAchievement pa) {
+        if (this.getId() == pa.getId()) {
+            return true;
+        }
+        return false;
+    }
 }

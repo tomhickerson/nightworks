@@ -370,6 +370,22 @@ ABF J -800 0
 EFNU 0 0 0
 sleep stand male 125
 0 0 medium 0
+#7205
+gargoyle~
+the sewer gargoyle~
+The Sewer Gargoyle is here, looking at you with an amused gaze.
+~
+The gargoyle, long a denizen of the sewers and darkness, is encrusted in
+moss and barnacles.  It has stunted wings, obviously disused.  It almost 
+looks as if it hurts for him to move.
+~
+human~
+AB J -800 0
+12 0 2d10+150 6d9+100 1d10+3 smash
+0 0 0 8
+EFMNO ABC 0 0
+stand stand male 125
+0 0 medium 0
 #0
 
 #OBJECTS
@@ -4879,6 +4895,7 @@ M 0 7013   3 7412  3	* the horrifying mudmonster
 M 0 7011   3 7423  3	* the shadowy morkoth
 M 0 7007   3 7422  3	* the evil wanderer
 M 0 7008   4 7401  4	* the homonculus
+M 0 7205   1 7194  1    * the sewer gargoyle in the star chamber
 S
 
 #SHOPS
@@ -4897,6 +4914,8 @@ M 7204 spec_poison         	* the gigantic rat
 S
 
 #OMPROGS
+M 7205 greet_prog greet_prog_sewer_gargoyle
+M 7205 speech_prog speech_prog_sewer_gargoyle
 O 7221 fight_prog fight_prog_rose_shield
 S
 

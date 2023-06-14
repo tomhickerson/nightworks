@@ -1,5 +1,6 @@
 package net.sf.nightworks;
 
+import net.sf.nightworks.enums.PlayerAchievement;
 import net.sf.nightworks.player.Vices;
 import net.sf.nightworks.player.Virtues;
 import net.sf.nightworks.util.Password;
@@ -2102,9 +2103,10 @@ public final class Nightworks {
         boolean confirm_remort;
         final String[] alias = new String[MAX_ALIAS];
         final String[] alias_sub = new String[MAX_ALIAS];
-        String[] achievements = new String[MAX_ACHIEVEMENTS];
-        String lineAchievement; // contains all the achievements in one CSV line,
-        // can then use 'contains'
+        // String[] achievements = new String[MAX_ACHIEVEMENTS];
+        String lineAchievement = "0"; // contains all the achievements in one CSV line,
+        // can then use 'contains'? maybe not
+        ArrayList<PlayerAchievement> achievements = new ArrayList();
         Virtues virtues = new Virtues();
         Vices vices = new Vices();
         int bank_s;
