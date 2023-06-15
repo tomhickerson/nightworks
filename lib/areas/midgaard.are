@@ -5020,11 +5020,6 @@ The alley leads west.
 ~
 ~
 0 -1 3043
-D4
-The Entry to the Goblin Stronghold.
-~
-~
-0 -1 29001
 S
 #3045
 Alley at Levee~
@@ -5087,7 +5082,7 @@ Wall Road~
 You are standing on the road next to the western city wall which
 continues north.  South of here is a bridge across the river.  To the east,
 you see an odd looking building painted bright orange with purple trim...
-it must be the Mob Factory!
+it must be the Golem Factory!
 ~
 0 0 1
 D0
@@ -5096,7 +5091,7 @@ You see the road.
 ~
 0 -1 3043
 D1
-You see the purple-and-orange Mob Factory.  Someone has no taste.
+You see the purple-and-orange Golem Factory.  Someone has no taste.
 ~
 ~
 0 -1 9400
@@ -5114,7 +5109,7 @@ S
 #3048
 Grubby Inn~
 You are inside the old Grubby Inn.  This place has not been cleaned for
-several decades, vile smells make you dizzy.
+several decades, its vile smells make you dizzy.
 ~
 0 D 0
 D0
@@ -5166,7 +5161,7 @@ You see machine dreams and taste violet phosphor.
 S
 #3051
 On the Bridge~
-You are standing on the stone bridge crosses the river.  The bridge is
+You are standing on the stone bridge crossing the river.  The bridge is
 built out from the western city wall and the river flows west through an
 opening in the wall ten feet below the bridge.
 ~
@@ -5347,10 +5342,10 @@ Back down on the earth where you should be!
 S
 #3060
 Enterance to Anti-Paladin's guild~
-  You are standing at the enterance, west of the practice yard. The place 
+  You are standing at the entrance, west of the practice yard. The place 
 is gloomy lit, and no windows can be noticed. The bothering silence makes 
 you think that this place was abondoned long time ago.  Two young man 
-bareing longswords guard the doorway to the east.
+bearing longswords guard the doorway to the east.
 ~
 0 D 0
 D0
@@ -5383,8 +5378,8 @@ S
 #3062
 Underground Chamber~
   You are standing in a large chamber, lit by only the openings of the 
-air channels to the surface.  The walls look solid rock, and strong mud 
-sometimes.  The floor is compleately covered with wood, naked.  You can 
+air channels to the surface.  The walls look to be solid rock, and strong mud 
+in places.  The floor is compleately covered with wood, naked.  You can 
 see some tools hung on the walls and some others carelessly thrown 
 around.
 ~
@@ -5398,11 +5393,11 @@ S
 #3063
 Holy Temple~
   You are standing at the middle of an huge hall.  The ceiling is very 
-high over your head, but you can see the perfect carvings on it.  Near 
+high over your head, but you can see the detailed carvings on it.  Near 
 the walls, round marble blocks rise up to the ceiling.  On the north wall 
-is a big picture of an old priest.  Two body armors stand like guarding 
-the picture. There is a doorway, guarded by  two knights at the  
-enterance, to the east, seems leading to a large room.
+is a big picture of an old priest.  Two suits of armor stand to its sides, 
+like they are guarding the picture. There is a doorway, guarded by two 
+knights at the entrance, to the east, that lead to a large room.
 ~
 0 DXS 0
 D1
@@ -5420,12 +5415,12 @@ S
 Knight's Shrine~
   You are at the place, where the paladins and knights practice their 
 skills.  The walls are decorated with large, valuable tapestries.  
-Two bright, (probably polised every day) body armors are standing near 
-the opposite walls.  Big swords and silvery shields are hanging on the wall.
+Two bright, (probably polished every day) suits of armor are standing near 
+the opposite wall.  Big swords and silvery shields are hanging on the wall.
 ~
 0 DSX 0
 D3
-To the west you see the big hall of temple.
+To the west you see the big hall of the temple.
 ~
 ~
 0 -1 3063
