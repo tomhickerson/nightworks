@@ -669,7 +669,7 @@ The road continues.
 0 0 1602
 S
 #1604
-West Side of Moat~
+West Side of the Moat~
 You stand on the west side of a moat that encircles two towers, each
 over 50 feet high. You will need a boat to go east across the moat. A
 rugged path heads west, and another one heads north to a cluster of low 
@@ -687,7 +687,7 @@ The Towers loom directly over you, just beyond the moat.
 ~
 0 0 1620
 D3
-An old ill-kept roads leads away to the west.
+An old ill-kept road leads away to the west.
 ~
 ~
 0 0 1603
@@ -1729,5 +1729,10 @@ M 1614 spec_breath_acid    	* the black pudding
 M 1616 spec_breath_any     	* the ancient wyvern
 M 1617 spec_cast_undead    	* the spectre
 M 1716 spec_cast_undead    	* the centaur chief
+*
+*
+* Wyvern's Tower 
+* Currently not connected to any areas, also there is a gap in the area numbering
+* Could do well at the south end, we'll patch it in shortly 
 S
 #$
