@@ -5426,7 +5426,7 @@ To the west you see the big hall of the temple.
 0 -1 3063
 S
 #3065
-High road~
+High Road~
   You are at the norhtern part of the High Road, closer to the Market Square.
 The large square is cleary seen no the north, while much quite part of 
 the town lies to the south.  To the east is the Butchers', where the
@@ -5503,7 +5503,7 @@ noticeable to south east.
 0 D 0
 H 150 M 150
 D1
-The stairs lead to temple square.
+The stairs lead to a temple square.
 ~
 ~
 0 -1 3069
@@ -5512,8 +5512,8 @@ S
 #3069
 Temple Square~
   You are standing in the middle of the large temple square.  In two 
-directions, stairs lead up, at south to the priestess's chamber, and at 
-west to the temple chamber. This square connect to the park road, at the 
+directions, stairs lead up, south to the priestess's chamber, and to the 
+west to the temple chamber. This square connects to the Park Road, to the 
 north.
 ~
 0 0 1
@@ -5528,20 +5528,19 @@ The stairs lead up to the Nacya's chamber of altar.
 ~
 0 -1 3070
 D3
-The resting chambers of Temple of Sun is at the end of stairs.
+The resting chambers of the Temple of Sun is at the end of the stairs.
 ~
 ~
 0 -1 3068
 S
 #3070
 Altar~
-  You are at a beautiful chamber, which makes you relax.  You can feel 
+  You are in a beautiful chamber, which makes you relax.  You can feel 
 the peace in thie holy room.  A very relaxing music from a harp is heard 
-from the back rooms.  You notice a large, altar made of a light green 
+from the back rooms.  You notice a large altar, made of a light green 
 stone, at the center of the chamber.  The walls are all decorated with 
 beautiful paintings and tapestries, while very nice, silk curtains 
-decorate the windows.  You really feel like staying here the rest of your 
-life.
+decorate the windows.
 ~
 0 D 0
 D0
@@ -5552,25 +5551,24 @@ You can see the stairs leading down to the temple square.
 E
 tapestry~
 You take a closer look to one of the tapestries.  It's an hand made one, 
-in all color you have seen in your life.  The material looks like silk, 
-and cotton someplaces.  You decide not to touch it, the temple guards 
-will probably arrest you as a thief.
+in all the colors you have seen in your life.  The material looks like silk, 
+and cotton in places.  You decide not to touch it, the temple guards 
+would probably arrest you as a thief.
 ~
 E
 painting~
 Getting a closer look to one of the paintings, you decided that you know 
 the woman on the picture. It's surely Nacya the Healer's portrait hanging 
-on the wall.  A signiture on the bottom corner freezes your blood, as it 
-reads...   ???.
+on the wall.
 ~
 S
 #3071
 Dark Temple~
   This large, cold temple temple seems to sit over your head with a 
 brooding silence. Hideus statues line the walls, some looking very 
-life-like with expressions of horror on theis faces. At the eastern end 
-of temple, the torches around the altar seems as though they can barely 
-penetrate the darkness. You can escape out in to the somewhat fresh air 
+life-like with expressions of horror on their faces. At the eastern end 
+of the temple, the torches around the altar seems as though they can barely 
+penetrate the darkness. You can exit out to the somewhat fresh air 
 of the park road to the west.
 ~
 0 DSX 0
@@ -5590,7 +5588,7 @@ S
 By the Temple Altar~
   A huge chunk of black obsidian stone has been fashioned into a death 
 bed for the sacrifices the Dark God demands.  Torches hang on the walls 
-to cast a fitful light over the dark enterprise.
+to cast a fitful light over the whole dark enterprise.
 ~
 0 D 0
 D3
@@ -5600,16 +5598,16 @@ D3
 S
 #3073
 Warlock's Bar~
-    The bar of warlocks smell very bad.But the mystic air relaxes you.
+    The bar of warlocks smells very bad.  But the mystic air relaxes you.
 ~
 0 CDSX 0
 D0
-You see the laboratories of males..
+You see the laboratories.
 ~
 ~
 0 -1 3074
 D3
-Tavern in midgaard..
+Tavern in midgaard.
 ~
 ~
 0 -1 3352
@@ -5638,18 +5636,18 @@ impossible to climb back up.
 0 -1 7017
 S
 #3075
-Bar of Samurai's~
-    The bar of Samurai's' doors shines.But you can't see a waiter, because
+Bar of Samurai~
+    The bar of Samurai's doors shines.  But you can't see a waiter, because
 they don't drink drinks with alcohol.
 ~
 0 CDSX 0
 D0
-You see the guarting board..
+You see the guard room
 ~
 ~
 0 -1 3007
 D3
-You see the practice yard of samruais..
+You see the practice yard of samurai 
 ~
 ~
 0 -1 3076
@@ -5658,12 +5656,12 @@ S
 Samurai's Shrine~
   You are at the place, where the samurais and knights practice their 
 skills.  The walls are decorated with large, valuable tapestries.  
-Two bright, (probably polised every day) body armors are standing near 
+Two bright, (probably polished every day) suits of armor are standing near 
 the opposite walls.  Short swords and light shields are hanging on the 
 wall. ~
 0 CDSX 0
 D1
-To the east you see the bar..
+To the east you see the bar.
 ~
 ~
 0 -1 3075
