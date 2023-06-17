@@ -2768,7 +2768,7 @@ public class DB {
             pArea2 = pArea2.next;
         }
         StringBuilder bufpage = new StringBuilder(1024);
-        bufpage.append("Current areas of Nightworks MUD: \n");
+        bufpage.append("Current areas of Spellbound MUD: \n");
         Formatter f = new Formatter(bufpage);
         for (iArea = 0; iArea < iAreaHalf; iArea++) {
             String buf1 = formatAreaDetails(ch, pArea1);

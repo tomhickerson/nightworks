@@ -983,7 +983,7 @@ class ActComm {
             return;
         }
         save_char_obj(ch);
-        send_to_char("Saving. Remember that Nightworks MUD has automatic saving.\n", ch);
+        send_to_char("Saving. Remember that Spellbound MUD has automatic saving.\n", ch);
         WAIT_STATE(ch, PULSE_VIOLENCE);
     }
 
