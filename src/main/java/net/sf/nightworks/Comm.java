@@ -2178,9 +2178,9 @@ class Comm {
         if (where == STAT_STR) {
             istat = get_curr_stat(ch, STAT_STR);
             if (istat > 22) {
-                stat = "Titantic";
+                stat = "Titanic";
             } else if (istat >= 20) {
-                stat = "Herculian";
+                stat = "Herculean";
             } else if (istat >= 18) {
                 stat = "Strong";
             } else if (istat >= 14) {
@@ -2218,7 +2218,7 @@ class Comm {
             } else if (istat >= 20) {
                 stat = "Hearty";
             } else if (istat >= 18) {
-                stat = "Healty";
+                stat = "Healthy";
             } else if (istat >= 14) {
                 stat = "Average";
             } else if (istat >= 10) {
@@ -2232,7 +2232,7 @@ class Comm {
         if (where == STAT_INT) {
             istat = get_curr_stat(ch, STAT_INT);
             if (istat > 22) {
-                stat = "Genious";
+                stat = "Genius";
             } else if (istat >= 20) {
                 stat = "Clever";
             } else if (istat >= 18) {
@@ -2254,7 +2254,7 @@ class Comm {
             } else if (istat >= 20) {
                 stat = "Quick";
             } else if (istat >= 18) {
-                stat = "Dextrous";
+                stat = "Dexterous";
             } else if (istat >= 14) {
                 stat = "Average";
             } else if (istat >= 10) {
@@ -2270,7 +2270,7 @@ class Comm {
             if (istat > 22) {
                 stat = "Charismatic";
             } else if (istat >= 20) {
-                stat = "Familier";
+                stat = "Familiar";
             } else if (istat >= 18) {
                 stat = "Good";
             } else if (istat >= 14) {
