@@ -5736,7 +5736,7 @@ S
 Promenade~
 The river gently flows west just north of here.  The promenade continues
 both east and west.  A rickety bridge crosses the river to the north, towards
-the city dump (fortunately, the wind is blowing towards the dump today). 
+the city dump. 
 South of here you see the entrance to the park, and a small building seems
 to be just west of the entrance.  Austral Square, home of Kate's Diner, lies
 to your east.
@@ -5797,9 +5797,9 @@ S
 #3104
 Northeast end of Concourse~
 You are at the Concourse.  The city wall is just east and Austral Square,
-home of Kate's Diner, is west.  Looking across the river you see an old  
+home of Kate's Diner, is to the west.  Looking across the river, you see an old  
 warehouse.  A strong stone bridge crosses the river to the north, where the
-concourse becomes wall road.  The Concourse continues south along the wall.
+concourse becomes Wall Road.  The Concourse continues south along the wall.
 ~
 0 0 1
 D0
@@ -5813,7 +5813,7 @@ The Concourse continues south, towards an intersection with Penny Lane.
 ~
 0 -1 3272
 D3
-You Austral Square.
+You see Austral Square.
 ~
 ~
 0 -1 3103
@@ -5827,7 +5827,7 @@ S
 Park Entrance~
 You are standing just inside the small park of Midgaard.  To the north is
 the promenade and a small path leads south into the park.  To your east is
-the famous Park Cafe.
+the notorius Park Cafe.
 ~
 0 C 1
 D0
@@ -5848,9 +5848,9 @@ You see the park.
 S
 #3106
 Park Cafe~
-You are inside Park Cafe, a very well lighted, cosy place. The cafe
+You are inside Park Cafe, a very well lit, cosy place. The cafe
 is built from large logs. Through the windows in the northern wall you
-see the river, and through the southern window you see many vigorous
+see the river, and through the southern window you see many lively and
 colorful plants.
 ~
 0 D 0
@@ -5862,8 +5862,8 @@ You see the park entrance.
 S
 #3107
 Small path through the park~
-You are walking along a small path through the park.  The path continues
-south and east.
+You are walking along a small path through the park, lined with white gravel.  
+The path continues south and east.
 ~
 0 S 1
 D1
@@ -5956,7 +5956,7 @@ E
 building door sign~
 The sign on the door says:-
 
-                 Cityguard Head Quarters
+                 {YCityguard Head Quarters{x
 ~
 S
 #3112
@@ -6158,7 +6158,7 @@ The sign points in all directions:
 
 Someone has added the following with red paint:
 
-   Up    - Redferne's Flying Citadel.
+   Up    - {RRedferne's Flying Citadel.{x
 ~
 S
 #3121
@@ -6245,7 +6245,7 @@ E
 sign~
 The sign says :-
  
-                          Graveyard of Midgaard
+                          {WGraveyard of Midgaard{x
  
     Many brave adventurers have found their final resting place here.
           Please show respect and do not desecrate their tombs.
@@ -6380,7 +6380,8 @@ S
 #3132
 Emerald Avenue~
 You are standing on the north end of Emerald Avenue.  To the north is 
-Austral Square and Kate's Diner, to the east is the small street Penny Lane.
+Austral Square and Kate's Diner, to the east is the small street called 
+Penny Lane.
 ~
 0 0 1
 D0
@@ -6442,14 +6443,14 @@ D1
 ~
 0 -1 3120
 D2
-The white temple of sun, is located at the south.
+The white temple of the sun, is located to the south.
 ~
 ~
 0 -1 3069
 S
 #3136
 Park Road~
-You are at a bend on Park Road.  To the south the road goes on and to the
+You are at a bend on Park Road.  To the south the road leads on and to the
 west is the Road Crossing.
 ~
 0 0 1
@@ -6464,7 +6465,7 @@ D3
 S
 #3137
 The Waiting Room~
-You are standing in the waiting room at the town hall.  Wooden chairs stand
+You are standing in the waiting room at the Town Hall.  Wooden chairs stand
 along the walls and a long desk is placed in the middle of the room.
 ~
 0 D 0
@@ -6501,7 +6502,7 @@ S
 #3139
 Penny Lane~
 You are on Penny Lane.  Emerald Avenue is to the west and Penny Lane
-continues in eastward direction.
+continues in an eastward direction.
 ~
 0 0 1
 D1
@@ -6516,7 +6517,7 @@ S
 #3140
 Penny Lane~
 You are on Penny Lane.  The narrow road continues north and west, and
-the concourse intersects this street to the east.
+the concourse intersects with this street to the east.
 ~
 0 0 1
 D0
@@ -6561,7 +6562,7 @@ door~
 1 3137 3143
 E
 arms~
-Although a bit dusty the Coat of Arms is an excellent piece of work.
+Although a bit dusty, the Coat of Arms is an excellent piece of work.
 ~
 S
 #3143
@@ -6601,19 +6602,19 @@ Elm street continues towards a graveyard.
 S
 #3150
 Kate's Diner~
-  The smells of baking bread and simmering stew lead you dancing through
+  The smells of baking bread and simmering stew lead you through
 the doorway of the diner.  No greasy spoons to be seen here-- the
 booth walls are covered in casual paisleys; the chairs are carved wood,
 rescued from garage sales.  Most tables have chess or backgammon boards
 carved and painted on their fingertip-smooth tops.  The refrain of some
-musical or other from the 1930's blends with the dusty golden light and the
-wonderful smells to put you completely at ease.  A huge picture window
+ethereal music playing somewhere blends with the dusty golden light, and the
+wonderful smells put you completely at ease.  A huge picture window
 looks out over the Midgaard River, and a doorway leads north onto the dock
 and the South Bank river landing, while the main entrance to the south
 returns you to Austral Square.
 On most days you will find Kate here, testing a batch of stew or brewing
-a special pot of cinnamon coffee, eerily just in time for your arrival
-Pull up a chair, perhaps play a game, and take time out to talk.
+a special pot of cinnamon coffee, eerily just in time for your arrival.
+Pull up a chair, perhaps play a game, and take time out to talk and relax.
 ~
 0 DK 0
 D0
@@ -6643,7 +6644,7 @@ S
 #3160
 Melancholy's Maps~
 As you walk in, a sudden gust of wind enters the shop and sends several
-scraps of paper fly around the room.  You blink as the dust you've stirred 
+scraps of paper flying around the room.  You blink as the dust you've stirred 
 up stings your eyes, and take a look around the shop.  This shop is cluttered 
 with old pieces of parchment, stacks of books, and odd scraps.  A desk with 
 slightly less clutter than the rest of the shop is in front of you.  A scroll 
@@ -6698,13 +6699,11 @@ reckoning.
 ~
 S
 #3170
-Temple Of Stupid~
+Abandoned Warehouse~
 As you enter the abandoned warehouse your eyes blink violently to
 adjust to the almost total darkness.  You wonder where the windows are
 as you step into a mud puddle in the middle of the floor.  As your eyes
-adjust, you realize that there are mud puddles all around the room, and
-this is some weird version of windows.  In a flash of revelation, you
-realize that you've entered the Temple of Stupid.
+adjust, you realize that there are mud puddles all around the room.
 ~
 0 D 0
 H 200 M 50
@@ -6869,7 +6868,7 @@ Wall road continues to the south, towards a bridge over the Midgaard river.
 ~
 0 -1 3252
 D3
-A dirty, unlight alley lies to the west...it looks like a perfect spot for a
+A dirty, unlit alley lies to the west...it looks like a perfect spot for a
 mugging.
 ~
 ~
@@ -6943,7 +6942,7 @@ S
 Inside the South Gate of Midgaard~
 Two strong stone towers surround a heavy wooden gate set into the city wall,
 to guard against the goblins that lurk in the southern forests.  You can exit
-the city to the south, if you dare, or walk down the concourse to the east
+the city to the south, if you dare, or walk along the concourse to the east
 or west.
 ~
 0 S 1

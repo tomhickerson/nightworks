@@ -2647,7 +2647,7 @@ The Northwestern Market Square~
 This corner of the market contains some of the most civilized folk in
 New Thalos. To the north lies the humble store of the merchant Ahkeem, his
 weavings known to be the best in the city. West of here is the entrance
-to Bank.
+to the Bank.
 ~
 0 0 1
 D0
@@ -4677,13 +4677,20 @@ S
 #9621
 The Bank~
   You are in a large hall, nicely lit by big chandeliers hanging from the 
-ceilings.  A long counter lies through the room.
+ceilings.  A long counter lies through the room.  There is a {Ysign{x above
+one of the counters.
 ~
 0 UDKS 0
 D1
 ~
 ~
 0 -1 9514
+E
+note sign~
+Welcome to the Bank of New Thalos
+DEPOSIT : Deposits a number of coins into your account here.
+WITHDRAW : Takes a number of coins from your account, if you have any funds here.
+~
 S
 #9622
 The Butchary~
