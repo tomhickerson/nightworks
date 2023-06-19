@@ -4838,7 +4838,7 @@ east and Wall Road leads both north and south from here.
 ~
 0 S 1
 D0
-Wall road runs along the inner city wall to the north.
+Wall Road runs along the inner city wall to the north.
 ~
 ~
 0 -1 3257
@@ -4884,12 +4884,12 @@ S
 Inside the East Gate of Midgaard~
 You are by two small towers that have been built into the city wall and
 connected with a footbridge across the heavy wooden gate.  Main Street leads
-west from here.  Wall road crosses the street, heading north and south along
+west from here.  Wall Road crosses the street, heading north and south along
 the city wall.
 ~
 0 S 1
 D0
-Wall road heads north along the city wall.
+Wall Road heads north along the city wall.
 ~
 ~
 0 -1 3267
@@ -4899,7 +4899,7 @@ You see the city gate.
 gate~
 1 3379 3053
 D2
-Wall road heads south towards the poor section of town.
+Wall Road heads south towards the poor section of town.
 ~
 ~
 0 0 3250
@@ -5051,7 +5051,7 @@ S
 #3046
 Eastern end of Alley~
 You are standing at the eastern end of the alley,  near the city walls.  
-Wall road loops around the city to your east, and you can see an old 
+Wall Road loops around the city to your east, and you can see an old 
 three-story warehouse to the south.  The Fountain of Youth Apothecary is 
 north.
 ~
@@ -5062,7 +5062,7 @@ You see a pricey-looking potion shop.
 ~
 0 0 3056
 D1
-You see wall road, running a north-south loop around the city.
+You see Wall Road, running a north-south loop around the city.
 ~
 ~
 0 -1 3251
@@ -6833,7 +6833,7 @@ D3
 S
 #3250
 Wall Road~
-Wall road extends north and south along the eastern walls of the city.
+Wall Road extends north and south along the eastern walls of the city.
 The east gate is north of you, south is an intersection with a dark alley. You
 check to make sure you still have your wallet.
 ~
@@ -6858,12 +6858,12 @@ be in a place this foul...
 ~
 0 0 1
 D0
-Wall road continues to the north, heading towards the gate.
+Wall Road continues to the north, heading towards the gate.
 ~
 ~
 0 -1 3250
 D2
-Wall road continues to the south, towards a bridge over the Midgaard river.
+Wall Road continues to the south, towards a bridge over the Midgaard river.
 ~
 ~
 0 -1 3252
@@ -6878,7 +6878,7 @@ S
 Wall Road~
 The walls of Midgaard tower above you to the east, keeping the city safe
 from its enemies...you hope.  An intersection with a dark alley lies north,
-and a bridge over the Midgaard river is south.  Beyond the bridge wall road 
+and a bridge over the Midgaard river is south.  Beyond the bridge Wall Road 
 turns in the concourse.
 ~
 0 0 1
@@ -6897,12 +6897,12 @@ S
 On the Bridge~
 You are crossing a strong stone bridge, which spans the Midgaard river.
 Below you, the river flows into an opening in the city wall, sealed with
-strong metal bars.  North of you is wall road, south of here the concourse
+strong metal bars.  North of you is Wall Road, south of here the concourse
 loops around the inside of the city walls.
 ~
 0 0 1
 D0
-Wall road continues to the north.
+Wall Road continues to the north.
 ~
 ~
 0 -1 3252
@@ -6968,7 +6968,7 @@ You are standing outside the strong wooden gate on the southern walls of
 Midgaard.  Guards eye you suspiciously from the two towers on either side of
 the gate, as they stand watch to protect the city from the goblins of this
 forest.  The trees and goblins of the Miden'nir are south, the gate back to 
-Migaard lies north.
+Midgaard lies north.
 ~
 0 0 3
 D0
@@ -6984,13 +6984,13 @@ The green forests of the Miden'nir are south, hiding countless goblin warriors.
 S
 #3257
 Wall Road~
-You are walking along wall road, just north of the west gate of Midgaard.  
+You are walking along Wall Road, just north of the west gate of Midgaard.  
 The road continues along the western wall to the north, towards an intersection
 with a busy Clan street.
 ~
 0 0 1
 D0
-You see an intersection between wall road and a busy Clan street.
+You see an intersection between Wall Road and a busy Clan street.
 ~
 ~
 0 -1 3258
@@ -7002,13 +7002,13 @@ The west gate of the city lies south.
 S
 #3258
 Wall Road~
-Wall road intersects with a crowded Clan Road here, filled with shops and
+Wall Road intersects with a crowded Clan Road here, filled with shops and
 artisans.  The street stretches off to the east, towards the far wall of the
-city.  Wall road continues to the north and south.
+city.  Wall Road continues to the north and south.
 ~
 0 0 1
 D0
-Wall road continues to the north, towards the northwestern corner of the wall.
+Wall Road continues to the north, towards the northwestern corner of the wall.
 ~
 ~
 0 -1 3259
@@ -7018,14 +7018,14 @@ You see the shops and clan halls of Clan Road.
 ~
 0 -1 3301
 D2
-Wall road continues alongside the western wall, heading towards the west gate.
+Wall Road continues alongside the western wall, heading towards the west gate.
 ~
 ~
 0 -1 3257
 S
 #3259
 Wall Road~
-You are walking along wall road, which extends along the inside of the western
+You are walking along Wall Road, which extends along the inside of the western
 wall of Midgaard.  To the south, you can see an intersection with a crowded
 Clan street.  The northwestern corner of the city wall lies ahead to the
 north.
@@ -7037,7 +7037,7 @@ You see the northwestern corner of the city wall.
 ~
 0 -1 3260
 D2
-To the south, wall road intersects with a crowded Clan street.
+To the south, Wall Road intersects with a crowded Clan street.
 ~
 ~
 0 -1 3258
@@ -7045,29 +7045,29 @@ S
 #3260
 The Northwest Corner~
 You are standing beneath the northwestern corner of the city wall, on a turn
-in wall road.  You can head south, towards the west gate, or east, to the 
+in Wall Road.  You can head south, towards the west gate, or east, to the 
 north gate.
 ~
 0 0 1
 D1
-Wall road continues along the northern wall of the city.
+Wall Road continues along the northern wall of the city.
 ~
 ~
 0 -1 3261
 D2
-Wall road continues along the western wall of the city.
+Wall Road continues along the western wall of the city.
 ~
 ~
 0 -1 3259
 S
 #3261
 Wall Road~
-The city walls tower over you as walk down wall road, between the northwestern
+The city walls tower over you as walk down Wall Road, between the northwestern
 corner of the wall to the west, and the northern gate of Midgaard to the east.
 ~
 0 0 1
 D1
-Wall road continues to the east, towards the northern gate of Midgaard.
+Wall Road continues to the east, towards the northern gate of Midgaard.
 ~
 ~
 0 -1 3262
@@ -7081,8 +7081,8 @@ S
 Inside the North Gate of Midgaard~
 Two small towers surround a strong wooden gate, connected by a small stone
 bridge set with murder holes.  This gate is not as heavily guarded as the 
-others, as the plains outside are safe to travel.  You can leave midgaard to
-the north, or continues along wall road to the west and east.  A teeming clan
+others, as the plains outside are safe to travel.  You can leave Midgaard to
+the north, or continues along Wall Road to the west and east.  A teeming clan
 street is visible to the south, and beyond that the graceful spires of the
 Temple of Midgaard, but there is no way to reach them from here.
 ~
@@ -7093,19 +7093,19 @@ The northern plains are visible through the gate.
 ~
 1 3133 3268
 D1
-Wall road continues to the east, alongside the northern wall.
+Wall Road continues to the east, alongside the northern wall.
 ~
 ~
 0 -1 3263
 D3
-Wall road continues to the west, alongside the northern wall.
+Wall Road continues to the west, alongside the northern wall.
 ~
 ~
 0 -1 3261
 S
 #3263
 Wall Road~
-You are walking along wall road, between the northern gate of the city and the
+You are walking along Wall Road, between the northern gate of the city and the
 northeastern corner of the city walls.  You can see bloodstains on the road...
 better be on guard for thieves.
 ~
@@ -7123,18 +7123,18 @@ The northern gate of the city lies east.
 S
 #3264
 The Northeast Corner~
-Wall road turns the corner here, as you pass by the northeastern edge of the
+Wall Road turns the corner here, as you pass by the northeastern edge of the
 city wall.  The north gate lies to your west, and the road south leads to the
 eastern gate of Midgaard.
 ~
 0 0 1
 D2
-Wall road continues to the south, along the eastern wall of the city.
+Wall Road continues to the south, along the eastern wall of the city.
 ~
 ~
 0 -1 3265
 D3
-Wall road continues to the west, along the northern wall of the city.
+Wall Road continues to the west, along the northern wall of the city.
 ~
 ~
 0 -1 3263
@@ -7159,19 +7159,19 @@ You see an intersection with a crowded street.
 S
 #3266
 Wall Road~
-Here, wall road meets up with a busy clan street heading off towards the 
+Here, Wall Road meets up with a busy clan street heading off towards the 
 west, and the far wall of the city.  You can smell spices, perfume, freshly
 cured hide, and other strange scents, all mingle together in one heady aroma.
-Wall road continues to the north and south.
+Wall Road continues to the north and south.
 ~
 0 0 1
 D0
-Wall road continues to the north, along the eastern wall of the city.
+Wall Road continues to the north, along the eastern wall of the city.
 ~
 ~
 0 -1 3265
 D2
-Wall road continues to the south, towards the east gate of Midgaard.
+Wall Road continues to the south, towards the east gate of Midgaard.
 ~
 ~
 0 -1 3267
@@ -7183,7 +7183,7 @@ You see a mass of people heading down Clan Road.
 S
 #3267
 Wall Road~
-You are near the center of wall road, just north of the east gate of the city.
+You are near the center of Wall Road, just north of the east gate of the city.
 To the north, you can see an intersection with a crowded clan street.
 The guards at the gate eye you suspiciously from afar.
 ~
@@ -7202,7 +7202,7 @@ S
 #3268
 Outside the North Gate of Midgaard~
 You stand outside the north gate of the walled city of Midgaard.  A dusty 
-trail is visibile to the north, it stretches around the walls of the city.  
+trail is visible to the north, it stretches around the walls of the city.  
 Further north are the wide expanses of the northern plains, leading to the 
 village of Ofcol.  You can return to Midgaard to the south.
 ~
