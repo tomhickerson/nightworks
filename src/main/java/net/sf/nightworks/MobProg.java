@@ -1095,6 +1095,7 @@ class MobProg {
     static void speech_prog_sewer_gargoyle(CHAR_DATA mob, CHAR_DATA ch, String speech) {
         if (!str_cmp(speech, "1234")) {
             do_say(mob, "Ok, a simple code but it works for me!");
+            interpret(mob, "emote waves its hands and you fade from view...", false);
             do_goto(ch, String.valueOf(ROOM_VNUM_ALTAR));
         } else {
             do_say(mob, "Come on, try another code!  Something like 4321, or something like that.");
