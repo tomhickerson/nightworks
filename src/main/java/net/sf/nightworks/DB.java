@@ -2755,10 +2755,16 @@ public class DB {
         AREA_DATA pArea2;
         int iArea;
         int iAreaHalf;
+        boolean levelsOnly = true;
 
         if (argument != null && argument.length() > 0) {
-            send_to_char("No argument is used with this command.\n", ch);
-            return;
+            // if 'area all' show all areas - otherwise just for your level
+            if ("all".equals(argument)) {
+                levelsOnly = false;
+            } else {
+                send_to_char("Incorrect argument is used with this command: please type AREAS ALL or just AREAS\n", ch);
+                return;
+            }
         }
 
         iAreaHalf = (top_area + 1) / 2;

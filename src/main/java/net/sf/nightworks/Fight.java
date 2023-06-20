@@ -1,5 +1,6 @@
 package net.sf.nightworks;
 
+import net.sf.nightworks.enums.PlayerAchievement;
 import net.sf.nightworks.enums.PlayerMessage;
 import net.sf.nightworks.util.TextBuffer;
 import org.jetbrains.annotations.NotNull;
@@ -2901,6 +2902,11 @@ class Fight {
                     gch.perm_stat[STAT_CHA] += 1;
                 }
             }
+        }
+
+        if (gch.pcdata.has_killed >= 50 && !gch.pcdata.achievements.contains(PlayerAchievement.KILL_50_MOBS)) {
+            gch.pcdata.achievements.add(PlayerAchievement.KILL_50_MOBS);
+            send_to_char("Congratulations, you have achieved the first goal: {YKill 50 Monsters!{x\n", gch);
         }
         return xp;
     }
