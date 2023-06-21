@@ -1640,7 +1640,7 @@ S
 #4036
 The plains~
 To the west see the border of the Shienar Kingdom, you may follow this 
-path to reach the kingdom. Jagged mountain far to the north.
+path to reach the kingdom. Jagged mountains are far to the north.
 ~
 0 0 2
 D0
@@ -2548,9 +2548,8 @@ S
 The dark hole~
 You are standing at a hole, a small passage leads south. You see
 some inscriptions on the wall, most of 'em the usual stuff, like:
-'Super Snude was here' and 'Why does the mayor likes secretaries with
-small hands?' - But one inscription gets your attention, it says:
-The Balrog is ALIVE ...
+'Super Snude was here' - But one inscription gets your attention, 
+it says: The Balrog is ALIVE ...
 ~
 0 ACD 3
 D2
@@ -2861,7 +2860,7 @@ D3
 S
 #4168
 The end of the tunnel~
-The tunnel suddenly stops here, only exit is to the west.
+The tunnel suddenly stops here, the only exit is to the west.
 The air is damp here.
 ~
 0 AD 3
@@ -2890,7 +2889,7 @@ D1
 S
 #4170
 In the water~
-You are standing in the water, it continues east and west.
+You are standing in the water, the tunnel continues east and west.
 ~
 0 AD 6
 D0
