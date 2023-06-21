@@ -1698,6 +1698,11 @@ The corridor leads into a small room.
 ~
 ~
 0 -1 2171
+D3 
+The corridor goes into the center of the house.
+~
+~
+0 -1 -1 
 E
 painting portrait picture portraits pictures paintings~
 The portraits on the walls are of a General, a Knight, a Lady,
@@ -1706,8 +1711,9 @@ and a Fool.
 E
 general~
 This painting is of a General with many medals on his chest, dressed 
-in a sharp, navy-blue uniform.  He is a human, older than most, and around
-his neck is a five-pointed star, with a {Rruby{x in the center.
+in a sharp, navy-blue uniform.  He is a human, older than most, with a 
+short gray beard, and around his neck is a five-pointed star, with 
+a {Rruby{x in the center.
 The frame at the bottom reads GENERAL HAMMERSMITH.
 ~
 E

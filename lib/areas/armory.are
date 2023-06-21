@@ -1,0 +1,4288 @@
+#AREA	
+armory.are~
+Armory~
+{ 5 100} Starhunter    Armory of Spellbound~
+26000 26899
+#MOBILES
+#0
+#OBJECTS
+#26000
+bent iron battle axe~
+a bent iron battle axe~
+A bent iron battle axe has been left here.~
+iron~
+weapon 0 AN
+axe 1 1 cleave 0
+1 2 200 G
+A
+18 1
+E
+axe~
+You see an axe of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#26001
+even copper battle axe~
+an even copper battle axe~
+AN even copper battle axe has been left here.~
+copper~
+weapon 0 AN
+axe 1 1 cleave 0
+1 2 200 G
+#26002
+fragile steel battle axe~
+a fragile steel battle axe~
+A fragile steel battle axe has been left here.~
+steel~
+weapon 0 AN
+axe 1 1 cleave 0
+1 2 200 G
+#26003
+shabby tin battle axe~
+a shabby tin battle axe~
+A shabby tin battle axe has been left here.~
+tin~
+weapon 0 AN
+axe 1 1 cleave 0
+1 2 200 G
+#26004
+shabby copper battle axe~
+a shabby copper battle axe~
+A shabby copper battle axe has been left here.~
+copper~
+weapon 0 AN
+axe 1 1 cleave 0
+1 2 200 G
+#26005
+slender tin battle axe~
+a slender tin battle axe~
+A slender tin battle axe has been left here.~
+tin~
+weapon 0 AN
+axe 1 1 cleave 0
+1 2 200 G
+#26006
+slender mithril battle axe~
+a slender mithril battle axe~
+A slender mithril battle axe has been left here.~
+mithril~
+weapon 0 AN
+axe 1 1 cleave 0
+1 2 200 G
+#26007
+slender adamantite battle axe~
+a slender adamantite battle axe~
+A slender adamantite battle axe has been left here.~
+adamantite~
+weapon 0 AN
+axe 1 1 cleave 0
+1 2 200 G
+#26008
+slender bronze battle axe~
+a slender bronze battle axe~
+A slender bronze battle axe has been left here.~
+bronze~
+weapon 0 AN
+axe 1 1 cleave 0
+1 2 200 G
+#26009
+twisted nickel battle axe~
+a twisted nickel battle axe~
+A twisted nickel battle axe has been left here.~
+nickel~
+weapon 0 AN
+axe 1 1 cleave 0
+1 2 200 G
+#26010
+unrefined steel battle axe~
+an unrefined steel battle axe~
+AN unrefined steel battle axe has been left here.~
+steel~
+weapon 0 AN
+axe 1 1 cleave 0
+1 2 200 G
+#26011
+remarkable copper hand axe~
+a remarkable copper hand axe~
+A remarkable copper hand axe has been left here.~
+copper~
+weapon 0 AN
+axe 1 1 cleave 0
+1 2 200 G
+#26012
+remarkable titanium hand axe~
+a remarkable titanium hand axe~
+A remarkable titanium hand axe has been left here.~
+titanium~
+weapon 0 AN
+axe 1 1 cleave 0
+1 2 200 G
+#26013
+suitable iron hand axe~
+a suitable iron hand axe~
+A suitable iron hand axe has been left here.~
+iron~
+weapon 0 AN
+axe 1 1 cleave 0
+1 2 200 G
+#26014
+dependable steel fauchard-fork~
+a dependable steel fauchard-fork~
+A dependable steel fauchard-fork has been left here.~
+steel~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26015
+dependable mithril fauchard-fork~
+a dependable mithril fauchard-fork~
+A dependable mithril fauchard-fork has been left here.~
+mithril~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26016
+dependable brass fauchard-fork~
+a dependable brass fauchard-fork~
+A dependable brass fauchard-fork has been left here.~
+brass~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26017
+dirty aluminum fauchard-fork~
+a dirty aluminum fauchard-fork~
+A dirty aluminum fauchard-fork has been left here.~
+aluminum~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26018
+dirty bronze fauchard-fork~
+a dirty bronze fauchard-fork~
+A dirty bronze fauchard-fork has been left here.~
+bronze~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26019
+impermeable nickel fauchard-fork~
+an impermeable nickel fauchard-fork~
+AN impermeable nickel fauchard-fork has been left here.~
+nickel~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26020
+impermeable mithril fauchard-fork~
+an impermeable mithril fauchard-fork~
+AN impermeable mithril fauchard-fork has been left here.~
+mithril~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26021
+shiny nickel fauchard-fork~
+a shiny nickel fauchard-fork~
+A shiny nickel fauchard-fork has been left here.~
+nickel~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26022
+shiny titanium fauchard-fork~
+a shiny titanium fauchard-fork~
+A shiny titanium fauchard-fork has been left here.~
+titanium~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26023
+sturdy nickel fauchard-fork~
+a sturdy nickel fauchard-fork~
+A sturdy nickel fauchard-fork has been left here.~
+nickel~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26024
+suitable steel fauchard-fork~
+a suitable steel fauchard-fork~
+A suitable steel fauchard-fork has been left here.~
+steel~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26025
+suitable bronze fauchard-fork~
+a suitable bronze fauchard-fork~
+A suitable bronze fauchard-fork has been left here.~
+bronze~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26026
+thick brass fauchard-fork~
+a thick brass fauchard-fork~
+A thick brass fauchard-fork has been left here.~
+brass~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26027
+unrefined tin fauchard-fork~
+an unrefined tin fauchard-fork~
+AN unrefined tin fauchard-fork has been left here.~
+tin~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26028
+unsharpened aluminum fauchard-fork~
+an unsharpened aluminum fauchard-fork~
+AN unsharpened aluminum fauchard-fork has been left here.~
+aluminum~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26029
+unstable iron fauchard-fork~
+an unstable iron fauchard-fork~
+AN unstable iron fauchard-fork has been left here.~
+iron~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26030
+aged brass lucern hammer~
+an aged brass lucern hammer~
+AN aged brass lucern hammer has been left here.~
+brass~
+weapon 0 AN
+mace 1 1 smash 0
+1 2 200 G
+#26031
+muddy aluminum lucern hammer~
+a muddy aluminum lucern hammer~
+A muddy aluminum lucern hammer has been left here.~
+aluminum~
+weapon 0 AN
+mace 1 1 smash 0
+1 2 200 G
+#26032
+primitive aluminum lucern hammer~
+a primitive aluminum lucern hammer~
+A primitive aluminum lucern hammer has been left here.~
+aluminum~
+weapon 0 AN
+mace 1 1 smash 0
+1 2 200 G
+#26033
+primitive titanium lucern hammer~
+a primitive titanium lucern hammer~
+A primitive titanium lucern hammer has been left here.~
+titanium~
+weapon 0 AN
+mace 1 1 smash 0
+1 2 200 G
+#26034
+scorched aluminum lucern hammer~
+a scorched aluminum lucern hammer~
+A scorched aluminum lucern hammer has been left here.~
+aluminum~
+weapon 0 AN
+mace 1 1 smash 0
+1 2 200 G
+#26035
+antique iron heavy lance~
+an antique iron heavy lance~
+AN antique iron heavy lance has been left here.~
+iron~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26036
+antique aluminum heavy lance~
+an antique aluminum heavy lance~
+AN antique aluminum heavy lance has been left here.~
+aluminum~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26037
+decaying bronze heavy lance~
+a decaying bronze heavy lance~
+A decaying bronze heavy lance has been left here.~
+bronze~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26038
+filthy nickel heavy lance~
+a filthy nickel heavy lance~
+A filthy nickel heavy lance has been left here.~
+nickel~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26039
+filthy copper heavy lance~
+a filthy copper heavy lance~
+A filthy copper heavy lance has been left here.~
+copper~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26040
+remarkable nickel heavy lance~
+a remarkable nickel heavy lance~
+A remarkable nickel heavy lance has been left here.~
+nickel~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26041
+remarkable mithril heavy lance~
+a remarkable mithril heavy lance~
+A remarkable mithril heavy lance has been left here.~
+mithril~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26042
+rusty brass heavy lance~
+a rusty brass heavy lance~
+A rusty brass heavy lance has been left here.~
+brass~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26043
+singed iron heavy lance~
+a singed iron heavy lance~
+A singed iron heavy lance has been left here.~
+iron~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26044
+singed nickel heavy lance~
+a singed nickel heavy lance~
+A singed nickel heavy lance has been left here.~
+nickel~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26045
+soiled aluminum heavy lance~
+a soiled aluminum heavy lance~
+A soiled aluminum heavy lance has been left here.~
+aluminum~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26046
+substantial titanium heavy lance~
+a substantial titanium heavy lance~
+A substantial titanium heavy lance has been left here.~
+titanium~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26047
+tarnished titanium heavy lance~
+a tarnished titanium heavy lance~
+A tarnished titanium heavy lance has been left here.~
+titanium~
+weapon 0 AN
+exotic 1 1 thrust 0
+1 2 200 G
+#26048
+archaic iron partisan~
+an archaic iron partisan~
+AN archaic iron partisan has been left here.~
+iron~
+weapon 0 AN
+polearm 1 1 thrust 0
+1 2 200 G
+#26049
+archaic aluminum partisan~
+an archaic aluminum partisan~
+AN archaic aluminum partisan has been left here.~
+aluminum~
+weapon 0 AN
+polearm 1 1 thrust 0
+1 2 200 G
+#26050
+fragile bronze partisan~
+a fragile bronze partisan~
+A fragile bronze partisan has been left here.~
+bronze~
+weapon 0 AN
+polearm 1 1 thrust 0
+1 2 200 G
+#26051
+imperfect titanium partisan~
+an imperfect titanium partisan~
+AN imperfect titanium partisan has been left here.~
+titanium~
+weapon 0 AN
+polearm 1 1 thrust 0
+1 2 200 G
+#26052
+resistant titanium partisan~
+a resistant titanium partisan~
+A resistant titanium partisan has been left here.~
+titanium~
+weapon 0 AN
+polearm 1 1 thrust 0
+1 2 200 G
+#26053
+substantial nickel partisan~
+a substantial nickel partisan~
+A substantial nickel partisan has been left here.~
+nickel~
+weapon 0 AN
+polearm 1 1 thrust 0
+1 2 200 G
+#26054
+tough steel partisan~
+a tough steel partisan~
+A tough steel partisan has been left here.~
+steel~
+weapon 0 AN
+polearm 1 1 thrust 0
+1 2 200 G
+#26055
+unsharpened steel partisan~
+an unsharpened steel partisan~
+AN unsharpened steel partisan has been left here.~
+steel~
+weapon 0 AN
+polearm 1 1 thrust 0
+1 2 200 G
+#26056
+unsharpened nickel partisan~
+an unsharpened nickel partisan~
+AN unsharpened nickel partisan has been left here.~
+nickel~
+weapon 0 AN
+polearm 1 1 thrust 0
+1 2 200 G
+#26057
+unsharpened adamantite partisan~
+an unsharpened adamantite partisan~
+AN unsharpened adamantite partisan has been left here.~
+adamantite~
+weapon 0 AN
+polearm 1 1 thrust 0
+1 2 200 G
+#26058
+shabby nickel sword~
+a shabby nickel sword~
+A shabby nickel sword has been left here.~
+nickel~
+weapon 0 AN
+sword 1 1 slash 0
+8 16 200 G
+#26059
+shabby titanium sword~
+a shabby titanium sword~
+A shabby titanium sword has been left here.~
+titanium~
+weapon 0 AN
+sword 1 1 slash 0
+8 16 200 G
+#26060
+blunt brass short spear~
+a blunt brass short spear~
+A blunt brass short spear has been left here.~
+brass~
+weapon 0 AN
+exotic 1 1 stab 0
+8 16 200 G
+#26061
+dependable iron short spear~
+a dependable iron short spear~
+A dependable iron short spear has been left here.~
+iron~
+weapon 0 AN
+exotic 1 1 stab 0
+8 16 200 G
+#26062
+dependable brass short spear~
+a dependable brass short spear~
+A dependable brass short spear has been left here.~
+brass~
+weapon 0 AN
+exotic 1 1 stab 0
+8 16 200 G
+#26063
+dirty bronze short spear~
+a dirty bronze short spear~
+A dirty bronze short spear has been left here.~
+bronze~
+weapon 0 AN
+exotic 1 1 stab 0
+8 16 200 G
+#26064
+light nickel short spear~
+a light nickel short spear~
+A light nickel short spear has been left here.~
+nickel~
+weapon 0 AN
+exotic 1 1 stab 0
+8 16 200 G
+#26065
+light mithril short spear~
+a light mithril short spear~
+A light mithril short spear has been left here.~
+mithril~
+weapon 0 AN
+exotic 1 1 stab 0
+8 16 200 G
+#26066
+rusty mithril short spear~
+a rusty mithril short spear~
+A rusty mithril short spear has been left here.~
+mithril~
+weapon 0 AN
+exotic 1 1 stab 0
+8 16 200 G
+#26067
+rusty adamantite short spear~
+a rusty adamantite short spear~
+A rusty adamantite short spear has been left here.~
+adamantite~
+weapon 0 AN
+exotic 1 1 stab 0
+8 16 200 G
+#26068
+tempered copper short spear~
+a tempered copper short spear~
+A tempered copper short spear has been left here.~
+copper~
+weapon 0 AN
+exotic 1 1 stab 0
+8 16 200 G
+#26069
+tempered adamantite short spear~
+a tempered adamantite short spear~
+A tempered adamantite short spear has been left here.~
+adamantite~
+weapon 0 AN
+exotic 1 1 stab 0
+8 16 200 G
+#26070
+worn aluminum short spear~
+a worn aluminum short spear~
+A worn aluminum short spear has been left here.~
+aluminum~
+weapon 0 AN
+exotic 1 1 stab 0
+8 16 200 G
+#26071
+antique mithril guisarme~
+an antique mithril guisarme~
+AN antique mithril guisarme has been left here.~
+mithril~
+weapon 0 AN
+polearm 1 1 chop 0
+8 16 200 G
+#26072
+contorted steel guisarme~
+a contorted steel guisarme~
+A contorted steel guisarme has been left here.~
+steel~
+weapon 0 AN
+polearm 1 1 chop 0
+8 16 200 G
+#26073
+old brass guisarme~
+an old brass guisarme~
+AN old brass guisarme has been left here.~
+brass~
+weapon 0 AN
+polearm 1 1 chop 0
+8 16 200 G
+#26074
+soiled aluminum guisarme~
+a soiled aluminum guisarme~
+A soiled aluminum guisarme has been left here.~
+aluminum~
+weapon 0 AN
+polearm 1 1 chop 0
+8 16 200 G
+#26075
+tough mithril guisarme~
+a tough mithril guisarme~
+A tough mithril guisarme has been left here.~
+mithril~
+weapon 0 AN
+polearm 1 1 chop 0
+8 16 200 G
+#26076
+brittle nickel guisarme-voulge~
+a brittle nickel guisarme-voulge~
+A brittle nickel guisarme-voulge has been left here.~
+nickel~
+weapon 0 AN
+polearm 1 1 chop 0
+8 16 200 G
+#26077
+dependable adamantite guisarme-voulge~
+a dependable adamantite guisarme-voulge~
+A dependable adamantite guisarme-voulge has been left here.~
+adamantite~
+weapon 0 AN
+polearm 1 1 chop 0
+8 16 200 G
+#26078
+dependable titanium guisarme-voulge~
+a dependable titanium guisarme-voulge~
+A dependable titanium guisarme-voulge has been left here.~
+titanium~
+weapon 0 AN
+polearm 1 1 chop 0
+8 16 200 G
+#26079
+even titanium guisarme-voulge~
+an even titanium guisarme-voulge~
+AN even titanium guisarme-voulge has been left here.~
+titanium~
+weapon 0 AN
+polearm 1 1 chop 0
+8 16 200 G
+#26080
+resistant iron guisarme-voulge~
+a resistant iron guisarme-voulge~
+A resistant iron guisarme-voulge has been left here.~
+iron~
+weapon 0 AN
+polearm 1 1 chop 0
+8 16 200 G
+#26081
+resistant adamantite guisarme-voulge~
+a resistant adamantite guisarme-voulge~
+A resistant adamantite guisarme-voulge has been left here.~
+adamantite~
+weapon 0 AN
+polearm 1 1 chop 0
+8 16 200 G
+#26082
+thin iron guisarme-voulge~
+a thin iron guisarme-voulge~
+A thin iron guisarme-voulge has been left here.~
+iron~
+weapon 0 AN
+polearm 1 1 chop 0
+8 16 200 G
+#26083
+splendid iron hammer~
+a splendid iron hammer~
+A splendid iron hammer has been left here.~
+iron~
+weapon 0 AN
+mace 1 1 smash 0
+8 16 200 G
+#26084
+superb nickel hammer~
+a superb nickel hammer~
+A superb nickel hammer has been left here.~
+nickel~
+weapon 0 AN
+mace 1 1 smash 0
+8 16 200 G
+#26085
+unequaled steel hammer~
+an unequaled steel hammer~
+AN unequaled steel hammer has been left here.~
+steel~
+weapon 0 AN
+mace 1 1 smash 0
+8 16 200 G
+#26086
+unequaled tin hammer~
+an unequaled tin hammer~
+AN unequaled tin hammer has been left here.~
+tin~
+weapon 0 AN
+mace 1 1 smash 0
+8 16 200 G
+#26087
+unpointed tin hammer~
+an unpointed tin hammer~
+AN unpointed tin hammer has been left here.~
+tin~
+weapon 0 AN
+mace 1 1 smash 0
+8 16 200 G
+#26088
+worn iron hammer~
+a worn iron hammer~
+A worn iron hammer has been left here.~
+iron~
+weapon 0 AN
+mace 1 1 smash 0
+8 16 200 G
+#26089
+worn mithril hammer~
+a worn mithril hammer~
+A worn mithril hammer has been left here.~
+mithril~
+weapon 0 AN
+mace 1 1 smash 0
+8 16 200 G
+#26090
+contorted iron jo stick~
+a contorted iron jo stick~
+A contorted iron jo stick has been left here.~
+iron~
+weapon 0 AN
+polearm 1 1 thrust 0
+8 16 200 G
+#26091
+decaying nickel jo stick~
+a decaying nickel jo stick~
+A decaying nickel jo stick has been left here.~
+nickel~
+weapon 0 AN
+polearm 1 1 thrust 0
+8 16 200 G
+#26092
+decaying tin jo stick~
+a decaying tin jo stick~
+A decaying tin jo stick has been left here.~
+tin~
+weapon 0 AN
+polearm 1 1 thrust 0
+8 16 200 G
+#26093
+primitive tin jo stick~
+a primitive tin jo stick~
+A primitive tin jo stick has been left here.~
+tin~
+weapon 0 AN
+polearm 1 1 thrust 0
+8 16 200 G
+#26094
+shabby steel jo stick~
+a shabby steel jo stick~
+A shabby steel jo stick has been left here.~
+steel~
+weapon 0 AN
+polearm 1 1 thrust 0
+8 16 200 G
+#26095
+sharpened nickel jo stick~
+a sharpened nickel jo stick~
+A sharpened nickel jo stick has been left here.~
+nickel~
+weapon 0 AN
+polearm 1 1 thrust 0
+8 16 200 G
+#26096
+sharpened tin jo stick~
+a sharpened tin jo stick~
+A sharpened tin jo stick has been left here.~
+tin~
+weapon 0 AN
+polearm 1 1 thrust 0
+8 16 200 G
+#26097
+spent iron jo stick~
+a spent iron jo stick~
+A spent iron jo stick has been left here.~
+iron~
+weapon 0 AN
+polearm 1 1 thrust 0
+8 16 200 G
+#26098
+spent titanium jo stick~
+a spent titanium jo stick~
+A spent titanium jo stick has been left here.~
+titanium~
+weapon 0 AN
+polearm 1 1 thrust 0
+8 16 200 G
+#26099
+undefiled titanium jo stick~
+an undefiled titanium jo stick~
+AN undefiled titanium jo stick has been left here.~
+titanium~
+weapon 0 AN
+polearm 1 1 thrust 0
+8 16 200 G
+#26100
+worn steel jo stick~
+a worn steel jo stick~
+A worn steel jo stick has been left here.~
+steel~
+weapon 0 AN
+polearm 1 1 thrust 0
+8 16 200 G
+#26101
+worn iron jo stick~
+a worn iron jo stick~
+A worn iron jo stick has been left here.~
+iron~
+weapon 0 AN
+polearm 1 1 thrust 0
+8 16 200 G
+#26102
+worn mithril jo stick~
+a worn mithril jo stick~
+A worn mithril jo stick has been left here.~
+mithril~
+weapon 0 AN
+polearm 1 1 thrust 0
+8 16 200 G
+#26103
+aged aluminum footman's mace~
+an aged aluminum footman's mace~
+AN aged aluminum footman's mace has been left here.~
+aluminum~
+weapon 0 AN
+mace 1 1 crush 0
+8 16 200 G
+#26104
+reliable iron footman's mace~
+a reliable iron footman's mace~
+A reliable iron footman's mace has been left here.~
+iron~
+weapon 0 AN
+mace 1 1 crush 0
+8 16 200 G
+#26105
+reliable copper footman's mace~
+a reliable copper footman's mace~
+A reliable copper footman's mace has been left here.~
+copper~
+weapon 0 AN
+mace 1 1 crush 0
+8 16 200 G
+#26106
+reliable titanium footman's mace~
+a reliable titanium footman's mace~
+A reliable titanium footman's mace has been left here.~
+titanium~
+weapon 0 AN
+mace 1 1 crush 0
+8 16 200 G
+#26107
+brittle tin sword~
+a brittle tin sword~
+A brittle tin sword has been left here.~
+tin~
+weapon 0 AN
+sword 1 2 slash 0
+15 30 200 G
+#26108
+filthy tin sword~
+a filthy tin sword~
+A filthy tin sword has been left here.~
+tin~
+weapon 0 AN
+sword 1 2 slash 0
+15 30 200 G
+#26109
+filthy aluminum sword~
+a filthy aluminum sword~
+A filthy aluminum sword has been left here.~
+aluminum~
+weapon 0 AN
+sword 2 2 slash 0
+15 30 200 G
+#26110
+polished steel sword~
+a polished steel sword~
+A polished steel sword has been left here.~
+steel~
+weapon 0 AN
+sword 1 2 slash 0
+15 30 200 G
+#26111
+singed titanium sword~
+a singed titanium sword~
+A singed titanium sword has been left here.~
+titanium~
+weapon 0 AN
+sword 2 2 slash 0
+15 30 200 G
+#26112
+substantial nickel sword~
+a substantial nickel sword~
+A substantial nickel sword has been left here.~
+nickel~
+weapon 0 AN
+sword 1 2 slash 0
+15 30 200 G
+#26113
+substantial bronze sword~
+a substantial bronze sword~
+A substantial bronze sword has been left here.~
+bronze~
+weapon 0 AN
+sword 2 2 slash 0
+15 30 200 G
+#26114
+blunt steel whip~
+a blunt steel whip~
+A blunt steel whip has been left here.~
+steel~
+weapon 0 AN
+whip 1 2 whip 0
+15 30 200 G
+#26115
+dependable tin whip~
+a dependable tin whip~
+A dependable tin whip has been left here.~
+tin~
+weapon 0 AN
+whip 1 2 whip 0
+15 30 200 G
+#26116
+dependable brass whip~
+a dependable brass whip~
+A dependable brass whip has been left here.~
+brass~
+weapon 0 AN
+whip 2 2 whip 0
+15 30 200 G
+#26117
+muddy copper whip~
+a muddy copper whip~
+A muddy copper whip has been left here.~
+copper~
+weapon 0 AN
+whip 2 2 whip 0
+15 30 200 G
+#26118
+rugged mithril whip~
+a rugged mithril whip~
+A rugged mithril whip has been left here.~
+mithril~
+weapon 0 AN
+whip 1 2 whip 0
+15 30 200 G
+#26119
+unpointed aluminum whip~
+an unpointed aluminum whip~
+AN unpointed aluminum whip has been left here.~
+aluminum~
+weapon 0 AN
+whip 2 2 whip 0
+15 30 200 G
+#26120
+unpointed adamantite whip~
+an unpointed adamantite whip~
+AN unpointed adamantite whip has been left here.~
+adamantite~
+weapon 0 AN
+whip 2 2 whip 0
+15 30 200 G
+#26121
+unpointed bronze whip~
+an unpointed bronze whip~
+AN unpointed bronze whip has been left here.~
+bronze~
+weapon 0 AN
+whip 2 2 whip 0
+15 30 200 G
+#26122
+coarse aluminum kris~
+a coarse aluminum kris~
+A coarse aluminum kris has been left here.~
+aluminum~
+weapon 0 AN
+dagger 1 2 stab 0
+15 30 200 G
+#26123
+decaying iron kris~
+a decaying iron kris~
+A decaying iron kris has been left here.~
+iron~
+weapon 0 AN
+dagger 2 2 stab 0
+15 30 200 G
+#26124
+decaying tin kris~
+a decaying tin kris~
+A decaying tin kris has been left here.~
+tin~
+weapon 0 AN
+dagger 2 2 stab 0
+15 30 200 G
+#26125
+decaying aluminum kris~
+a decaying aluminum kris~
+A decaying aluminum kris has been left here.~
+aluminum~
+weapon 0 AN
+dagger 2 2 stab 0
+15 30 200 G
+#26126
+decaying adamantite kris~
+a decaying adamantite kris~
+A decaying adamantite kris has been left here.~
+adamantite~
+weapon 0 AN
+dagger 2 2 stab 0
+15 30 200 G
+#26127
+ordinary iron kris~
+an ordinary iron kris~
+AN ordinary iron kris has been left here.~
+iron~
+weapon 0 AN
+dagger 2 2 stab 0
+15 30 200 G
+#26128
+singed steel kris~
+a singed steel kris~
+A singed steel kris has been left here.~
+steel~
+weapon 0 AN
+dagger 2 2 stab 0
+15 30 200 G
+#26129
+singed aluminum kris~
+a singed aluminum kris~
+A singed aluminum kris has been left here.~
+aluminum~
+weapon 0 AN
+dagger 2 2 stab 0
+15 30 200 G
+#26130
+sterlized aluminum kris~
+a sterlized aluminum kris~
+A sterlized aluminum kris has been left here.~
+aluminum~
+weapon 0 AN
+dagger 1 2 stab 0
+15 30 200 G
+#26131
+thick tin kris~
+a thick tin kris~
+A thick tin kris has been left here.~
+tin~
+weapon 0 AN
+dagger 2 2 stab 0
+15 30 200 G
+#26132
+thick adamantite kris~
+a thick adamantite kris~
+A thick adamantite kris has been left here.~
+adamantite~
+weapon 0 AN
+dagger 2 2 stab 0
+15 30 200 G
+#26133
+archaic mithril great axe~
+an archaic mithril great axe~
+AN archaic mithril great axe has been left here.~
+mithril~
+weapon 0 AN
+axe 2 2 cleave 0
+15 30 200 G
+#26134
+clean bronze great axe~
+a clean bronze great axe~
+A clean bronze great axe has been left here.~
+bronze~
+weapon 0 AN
+axe 2 2 cleave 0
+15 30 200 G
+#26135
+dense mithril great axe~
+a dense mithril great axe~
+A dense mithril great axe has been left here.~
+mithril~
+weapon 0 AN
+axe 2 2 cleave 0
+15 30 200 G
+#26136
+dense adamantite great axe~
+a dense adamantite great axe~
+A dense adamantite great axe has been left here.~
+adamantite~
+weapon 0 AN
+axe 1 2 cleave 0
+15 30 200 G
+#26137
+knotted mithril great axe~
+a knotted mithril great axe~
+A knotted mithril great axe has been left here.~
+mithril~
+weapon 0 AN
+axe 2 2 cleave 0
+15 30 200 G
+#26138
+reliable nickel great axe~
+a reliable nickel great axe~
+A reliable nickel great axe has been left here.~
+nickel~
+weapon 0 AN
+axe 2 2 cleave 0
+15 30 200 G
+#26139
+sturdy steel great axe~
+a sturdy steel great axe~
+A sturdy steel great axe has been left here.~
+steel~
+weapon 0 AN
+axe 1 2 cleave 0
+15 30 200 G
+#26140
+sturdy iron great axe~
+a sturdy iron great axe~
+A sturdy iron great axe has been left here.~
+iron~
+weapon 0 AN
+axe 2 2 cleave 0
+15 30 200 G
+#26141
+sturdy adamantite great axe~
+a sturdy adamantite great axe~
+A sturdy adamantite great axe has been left here.~
+adamantite~
+weapon 0 AN
+axe 2 2 cleave 0
+15 30 200 G
+#26142
+unpointed titanium great axe~
+an unpointed titanium great axe~
+AN unpointed titanium great axe has been left here.~
+titanium~
+weapon 0 AN
+axe 2 2 cleave 0
+15 30 200 G
+#26143
+unrefined steel great axe~
+an unrefined steel great axe~
+AN unrefined steel great axe has been left here.~
+steel~
+weapon 0 AN
+axe 2 2 cleave 0
+15 30 200 G
+#26144
+blunt copper hand axe~
+a blunt copper hand axe~
+A blunt copper hand axe has been left here.~
+copper~
+weapon 0 AN
+axe 2 2 cleave 0
+15 30 200 G
+#26145
+even bronze hand axe~
+an even bronze hand axe~
+AN even bronze hand axe has been left here.~
+bronze~
+weapon 0 AN
+axe 2 2 cleave 0
+15 30 200 G
+#26146
+flat tin hand axe~
+a flat tin hand axe~
+A flat tin hand axe has been left here.~
+tin~
+weapon 0 AN
+axe 2 2 cleave 0
+15 30 200 G
+#26147
+flat aluminum hand axe~
+a flat aluminum hand axe~
+A flat aluminum hand axe has been left here.~
+aluminum~
+weapon 0 AN
+axe 2 2 cleave 0
+15 30 200 G
+#26148
+rugged tin hand axe~
+a rugged tin hand axe~
+A rugged tin hand axe has been left here.~
+tin~
+weapon 0 AN
+axe 2 2 cleave 0
+15 30 200 G
+#26149
+staunch nickel hand axe~
+a staunch nickel hand axe~
+A staunch nickel hand axe has been left here.~
+nickel~
+weapon 0 AN
+axe 2 2 cleave 0
+15 30 200 G
+#26150
+staunch mithril hand axe~
+a staunch mithril hand axe~
+A staunch mithril hand axe has been left here.~
+mithril~
+weapon 0 AN
+axe 2 2 cleave 0
+15 30 200 G
+#26151
+superior copper hand axe~
+a superior copper hand axe~
+A superior copper hand axe has been left here.~
+copper~
+weapon 0 AN
+axe 2 2 cleave 0
+15 30 200 G
+#26152
+superior titanium hand axe~
+a superior titanium hand axe~
+A superior titanium hand axe has been left here.~
+titanium~
+weapon 0 AN
+axe 2 2 cleave 0
+15 30 200 G
+#26153
+worn steel hand axe~
+a worn steel hand axe~
+A worn steel hand axe has been left here.~
+steel~
+weapon 0 AN
+axe 1 2 cleave 0
+15 30 200 G
+#26154
+bent copper bardiche~
+a bent copper bardiche~
+A bent copper bardiche has been left here.~
+copper~
+weapon 0 AN
+polearm 2 2 cleave 0
+15 30 200 G
+#26155
+bent titanium bardiche~
+a bent titanium bardiche~
+A bent titanium bardiche has been left here.~
+titanium~
+weapon 0 AN
+polearm 1 2 cleave 0
+15 30 200 G
+#26156
+blunt aluminum bardiche~
+a blunt aluminum bardiche~
+A blunt aluminum bardiche has been left here.~
+aluminum~
+weapon 0 AN
+polearm 2 2 cleave 0
+15 30 200 G
+#26157
+blunt titanium bardiche~
+a blunt titanium bardiche~
+A blunt titanium bardiche has been left here.~
+titanium~
+weapon 0 AN
+polearm 2 2 cleave 0
+15 30 200 G
+#26158
+crude tin fauchard~
+a crude tin fauchard~
+A crude tin fauchard has been left here.~
+tin~
+weapon 0 AN
+exotic 2 2 thrust 0
+15 30 200 G
+#26159
+dependable brass fauchard~
+a dependable brass fauchard~
+A dependable brass fauchard has been left here.~
+brass~
+weapon 0 AN
+exotic 2 2 thrust 0
+15 30 200 G
+#26160
+refined aluminum fauchard~
+a refined aluminum fauchard~
+A refined aluminum fauchard has been left here.~
+aluminum~
+weapon 0 AN
+exotic 1 2 thrust 0
+15 30 200 G
+#26161
+spotless titanium fauchard~
+a spotless titanium fauchard~
+A spotless titanium fauchard has been left here.~
+titanium~
+weapon 0 AN
+exotic 2 2 thrust 0
+15 30 200 G
+#26162
+faded titanium military fork~
+a faded titanium military fork~
+A faded titanium military fork has been left here.~
+titanium~
+weapon 0 AN
+exotic 2 2 none 0
+15 30 200 G
+#26163
+hardened steel military fork~
+a hardened steel military fork~
+A hardened steel military fork has been left here.~
+steel~
+weapon 0 AN
+exotic 2 2 none 0
+15 30 200 G
+#26164
+hardened titanium military fork~
+a hardened titanium military fork~
+A hardened titanium military fork has been left here.~
+titanium~
+weapon 0 AN
+exotic 2 2 none 0
+15 30 200 G
+#26165
+scorched mithril military fork~
+a scorched mithril military fork~
+A scorched mithril military fork has been left here.~
+mithril~
+weapon 0 AN
+exotic 2 2 none 0
+15 30 200 G
+#26166
+scorched titanium military fork~
+a scorched titanium military fork~
+A scorched titanium military fork has been left here.~
+titanium~
+weapon 0 AN
+exotic 1 2 none 0
+15 30 200 G
+#26167
+twisted brass military fork~
+a twisted brass military fork~
+A twisted brass military fork has been left here.~
+brass~
+weapon 0 AN
+exotic 2 2 none 0
+15 30 200 G
+#26168
+dependable bronze guisarme-voulge~
+a dependable bronze guisarme-voulge~
+A dependable bronze guisarme-voulge has been left here.~
+bronze~
+weapon 0 AN
+polearm 2 2 chop 0
+15 30 200 G
+#26169
+filthy iron guisarme-voulge~
+a filthy iron guisarme-voulge~
+A filthy iron guisarme-voulge has been left here.~
+iron~
+weapon 0 AN
+polearm 1 2 chop 0
+15 30 200 G
+#26170
+filthy bronze guisarme-voulge~
+a filthy bronze guisarme-voulge~
+A filthy bronze guisarme-voulge has been left here.~
+bronze~
+weapon 0 AN
+polearm 2 2 chop 0
+15 30 200 G
+#26171
+splendid aluminum guisarme-voulge~
+a splendid aluminum guisarme-voulge~
+A splendid aluminum guisarme-voulge has been left here.~
+aluminum~
+weapon 0 AN
+polearm 2 2 chop 0
+15 30 200 G
+#26172
+splendid adamantite guisarme-voulge~
+a splendid adamantite guisarme-voulge~
+A splendid adamantite guisarme-voulge has been left here.~
+adamantite~
+weapon 0 AN
+polearm 2 2 chop 0
+15 30 200 G
+#26173
+suitable steel guisarme-voulge~
+a suitable steel guisarme-voulge~
+A suitable steel guisarme-voulge has been left here.~
+steel~
+weapon 0 AN
+polearm 1 2 chop 0
+15 30 200 G
+#26174
+ancient tin hammer~
+an ancient tin hammer~
+AN ancient tin hammer has been left here.~
+tin~
+weapon 0 AN
+mace 2 2 smash 0
+15 30 200 G
+#26175
+contorted aluminum hammer~
+a contorted aluminum hammer~
+A contorted aluminum hammer has been left here.~
+aluminum~
+weapon 0 AN
+mace 2 2 smash 0
+15 30 200 G
+#26176
+grimy aluminum hammer~
+a grimy aluminum hammer~
+A grimy aluminum hammer has been left here.~
+aluminum~
+weapon 0 AN
+mace 2 2 smash 0
+15 30 200 G
+#26177
+light nickel hammer~
+a light nickel hammer~
+A light nickel hammer has been left here.~
+nickel~
+weapon 0 AN
+mace 2 2 smash 0
+15 30 200 G
+#26178
+sharpened brass hammer~
+a sharpened brass hammer~
+A sharpened brass hammer has been left here.~
+brass~
+weapon 0 AN
+mace 2 2 smash 0
+15 30 200 G
+#26179
+gnarled steel jo stick~
+a gnarled steel jo stick~
+A gnarled steel jo stick has been left here.~
+steel~
+weapon 0 AN
+polearm 2 2 thrust 0
+15 30 200 G
+#26180
+gnarled mithril jo stick~
+a gnarled mithril jo stick~
+A gnarled mithril jo stick has been left here.~
+mithril~
+weapon 0 AN
+polearm 2 2 thrust 0
+15 30 200 G
+#26181
+contorted aluminum short sword~
+a contorted aluminum short sword~
+A contorted aluminum short sword has been left here.~
+aluminum~
+weapon 0 AN
+sword 2 2 slash 0
+22 44 200 G
+#26182
+faulty titanium short sword~
+a faulty titanium short sword~
+A faulty titanium short sword has been left here.~
+titanium~
+weapon 0 AN
+sword 2 2 slash 0
+22 44 200 G
+#26183
+grimy nickel short sword~
+a grimy nickel short sword~
+A grimy nickel short sword has been left here.~
+nickel~
+weapon 0 AN
+sword 2 3 slash 0
+22 44 200 G
+#26184
+grimy mithril short sword~
+a grimy mithril short sword~
+A grimy mithril short sword has been left here.~
+mithril~
+weapon 0 AN
+sword 2 3 slash 0
+22 44 200 G
+#26185
+rotting copper short sword~
+a rotting copper short sword~
+A rotting copper short sword has been left here.~
+copper~
+weapon 0 AN
+sword 2 2 slash 0
+22 44 200 G
+#26186
+tempered adamantite short sword~
+a tempered adamantite short sword~
+A tempered adamantite short sword has been left here.~
+adamantite~
+weapon 0 AN
+sword 2 2 slash 0
+22 44 200 G
+#26187
+contorted brass long spear~
+a contorted brass long spear~
+A contorted brass long spear has been left here.~
+brass~
+weapon 0 AN
+exotic 2 3 stab 0
+22 44 200 G
+#26188
+suitable adamantite long spear~
+a suitable adamantite long spear~
+A suitable adamantite long spear has been left here.~
+adamantite~
+weapon 0 AN
+exotic 3 3 stab 0
+22 44 200 G
+#26189
+superb iron long spear~
+a superb iron long spear~
+A superb iron long spear has been left here.~
+iron~
+weapon 0 AN
+exotic 2 3 stab 0
+22 44 200 G
+#26190
+superb tin long spear~
+a superb tin long spear~
+A superb tin long spear has been left here.~
+tin~
+weapon 0 AN
+exotic 2 2 stab 0
+22 44 200 G
+#26191
+superb mithril long spear~
+a superb mithril long spear~
+A superb mithril long spear has been left here.~
+mithril~
+weapon 0 AN
+exotic 2 3 stab 0
+22 44 200 G
+#26192
+tarnished nickel long spear~
+a tarnished nickel long spear~
+A tarnished nickel long spear has been left here.~
+nickel~
+weapon 0 AN
+exotic 2 3 stab 0
+22 44 200 G
+#26193
+tarnished titanium long spear~
+a tarnished titanium long spear~
+A tarnished titanium long spear has been left here.~
+titanium~
+weapon 0 AN
+exotic 2 3 stab 0
+22 44 200 G
+#26194
+contorted aluminum polearm~
+a contorted aluminum polearm~
+A contorted aluminum polearm has been left here.~
+aluminum~
+weapon 0 AN
+polearm 2 2 chop 0
+22 44 200 G
+#26195
+dependable nickel polearm~
+a dependable nickel polearm~
+A dependable nickel polearm has been left here.~
+nickel~
+weapon 0 AN
+polearm 2 2 chop 0
+22 44 200 G
+#26196
+grimy adamantite polearm~
+a grimy adamantite polearm~
+A grimy adamantite polearm has been left here.~
+adamantite~
+weapon 0 AN
+polearm 2 3 chop 0
+22 44 200 G
+#26197
+light tin polearm~
+a light tin polearm~
+A light tin polearm has been left here.~
+tin~
+weapon 0 AN
+polearm 2 2 chop 0
+22 44 200 G
+#26198
+light aluminum polearm~
+a light aluminum polearm~
+A light aluminum polearm has been left here.~
+aluminum~
+weapon 0 AN
+polearm 2 3 chop 0
+22 44 200 G
+#26199
+light brass polearm~
+a light brass polearm~
+A light brass polearm has been left here.~
+brass~
+weapon 0 AN
+polearm 2 2 chop 0
+22 44 200 G
+#26200
+twisted brass polearm~
+a twisted brass polearm~
+A twisted brass polearm has been left here.~
+brass~
+weapon 0 AN
+polearm 3 3 chop 0
+22 44 200 G
+#26201
+wide adamantite polearm~
+a wide adamantite polearm~
+A wide adamantite polearm has been left here.~
+adamantite~
+weapon 0 AN
+polearm 2 2 chop 0
+22 44 200 G
+#26202
+wide titanium polearm~
+a wide titanium polearm~
+A wide titanium polearm has been left here.~
+titanium~
+weapon 0 AN
+polearm 2 3 chop 0
+22 44 200 G
+#26203
+coarse bronze morning star~
+a coarse bronze morning star~
+A coarse bronze morning star has been left here.~
+bronze~
+weapon 0 AN
+flail 3 2 smash 0
+22 44 200 G
+#26204
+fragile nickel morning star~
+a fragile nickel morning star~
+A fragile nickel morning star has been left here.~
+nickel~
+weapon 0 AN
+flail 3 3 smash 0
+22 44 200 G
+#26205
+fragile titanium morning star~
+a fragile titanium morning star~
+A fragile titanium morning star has been left here.~
+titanium~
+weapon 0 AN
+flail 2 2 smash 0
+22 44 200 G
+#26206
+poisoned iron morning star~
+a poisoned iron morning star~
+A poisoned iron morning star has been left here.~
+iron~
+weapon 0 AN
+flail 2 3 smash 0
+22 44 200 G
+#26207
+poisoned aluminum morning star~
+a poisoned aluminum morning star~
+A poisoned aluminum morning star has been left here.~
+aluminum~
+weapon 0 AN
+flail 2 3 smash 0
+22 44 200 G
+#26208
+superb copper morning star~
+a superb copper morning star~
+A superb copper morning star has been left here.~
+copper~
+weapon 0 AN
+flail 2 3 smash 0
+22 44 200 G
+#26209
+superb bronze morning star~
+a superb bronze morning star~
+A superb bronze morning star has been left here.~
+bronze~
+weapon 0 AN
+flail 2 2 smash 0
+22 44 200 G
+#26210
+ordinary copper chain knife~
+an ordinary copper chain knife~
+AN ordinary copper chain knife has been left here.~
+copper~
+weapon 0 AN
+whip 2 2 whip 0
+22 44 200 G
+#26211
+round iron chain knife~
+a round iron chain knife~
+A round iron chain knife has been left here.~
+iron~
+weapon 0 AN
+whip 2 2 whip 0
+22 44 200 G
+#26212
+round nickel chain knife~
+a round nickel chain knife~
+A round nickel chain knife has been left here.~
+nickel~
+weapon 0 AN
+whip 2 2 whip 0
+22 44 200 G
+#26213
+round mithril chain knife~
+a round mithril chain knife~
+A round mithril chain knife has been left here.~
+mithril~
+weapon 0 AN
+whip 2 2 whip 0
+22 44 200 G
+#26214
+round brass chain knife~
+a round brass chain knife~
+A round brass chain knife has been left here.~
+brass~
+weapon 0 AN
+whip 3 3 whip 0
+22 44 200 G
+#26215
+rugged tin chain knife~
+a rugged tin chain knife~
+A rugged tin chain knife has been left here.~
+tin~
+weapon 0 AN
+whip 2 2 whip 0
+22 44 200 G
+#26216
+rugged bronze chain knife~
+a rugged bronze chain knife~
+A rugged bronze chain knife has been left here.~
+bronze~
+weapon 0 AN
+whip 2 2 whip 0
+22 44 200 G
+#26217
+staunch mithril chain knife~
+a staunch mithril chain knife~
+A staunch mithril chain knife has been left here.~
+mithril~
+weapon 0 AN
+whip 2 2 whip 0
+22 44 200 G
+#26218
+unrivaled nickel chain knife~
+an unrivaled nickel chain knife~
+AN unrivaled nickel chain knife has been left here.~
+nickel~
+weapon 0 AN
+whip 2 2 whip 0
+22 44 200 G
+#26219
+unstable iron chain knife~
+an unstable iron chain knife~
+AN unstable iron chain knife has been left here.~
+iron~
+weapon 0 AN
+whip 2 3 whip 0
+22 44 200 G
+#26220
+unstable aluminum chain knife~
+an unstable aluminum chain knife~
+AN unstable aluminum chain knife has been left here.~
+aluminum~
+weapon 0 AN
+whip 2 3 whip 0
+22 44 200 G
+#26221
+coarse aluminum dagger~
+a coarse aluminum dagger~
+A coarse aluminum dagger has been left here.~
+aluminum~
+weapon 0 AN
+dagger 3 3 stab 0
+22 44 200 G
+#26222
+coarse mithril dagger~
+a coarse mithril dagger~
+A coarse mithril dagger has been left here.~
+mithril~
+weapon 0 AN
+dagger 2 2 stab 0
+22 44 200 G
+#26223
+forked nickel dagger~
+a forked nickel dagger~
+A forked nickel dagger has been left here.~
+nickel~
+weapon 0 AN
+dagger 3 2 stab 0
+22 44 200 G
+#26224
+forked bronze dagger~
+a forked bronze dagger~
+A forked bronze dagger has been left here.~
+bronze~
+weapon 0 AN
+dagger 3 2 stab 0
+22 44 200 G
+#26225
+rigid aluminum dagger~
+a rigid aluminum dagger~
+A rigid aluminum dagger has been left here.~
+aluminum~
+weapon 0 AN
+dagger 2 3 stab 0
+22 44 200 G
+#26226
+rigid copper dagger~
+a rigid copper dagger~
+A rigid copper dagger has been left here.~
+copper~
+weapon 0 AN
+dagger 2 3 stab 0
+22 44 200 G
+#26227
+slender steel dagger~
+a slender steel dagger~
+A slender steel dagger has been left here.~
+steel~
+weapon 0 AN
+dagger 2 2 stab 0
+22 44 200 G
+#26228
+slender bronze dagger~
+a slender bronze dagger~
+A slender bronze dagger has been left here.~
+bronze~
+weapon 0 AN
+dagger 2 2 stab 0
+22 44 200 G
+#26229
+thick tin dagger~
+a thick tin dagger~
+A thick tin dagger has been left here.~
+tin~
+weapon 0 AN
+dagger 2 2 stab 0
+22 44 200 G
+#26230
+thick copper dagger~
+a thick copper dagger~
+A thick copper dagger has been left here.~
+copper~
+weapon 0 AN
+dagger 2 3 stab 0
+22 44 200 G
+#26231
+thick titanium dagger~
+a thick titanium dagger~
+A thick titanium dagger has been left here.~
+titanium~
+weapon 0 AN
+dagger 2 3 stab 0
+22 44 200 G
+#26232
+unrivaled titanium dagger~
+an unrivaled titanium dagger~
+AN unrivaled titanium dagger has been left here.~
+titanium~
+weapon 0 AN
+dagger 2 2 stab 0
+22 44 200 G
+#26233
+bent adamantite axe~
+a bent adamantite axe~
+A bent adamantite axe has been left here.~
+adamantite~
+weapon 0 AN
+axe 2 3 cleave 0
+22 44 200 G
+#26234
+charred brass axe~
+a charred brass axe~
+A charred brass axe has been left here.~
+brass~
+weapon 0 AN
+axe 2 2 cleave 0
+22 44 200 G
+#26235
+filthy iron axe~
+a filthy iron axe~
+A filthy iron axe has been left here.~
+iron~
+weapon 0 AN
+axe 2 2 cleave 0
+22 44 200 G
+#26236
+rotting copper axe~
+a rotting copper axe~
+A rotting copper axe has been left here.~
+copper~
+weapon 0 AN
+axe 2 2 cleave 0
+22 44 200 G
+#26237
+rotting titanium axe~
+a rotting titanium axe~
+A rotting titanium axe has been left here.~
+titanium~
+weapon 0 AN
+axe 2 3 cleave 0
+22 44 200 G
+#26238
+faultless copper hand axe~
+a faultless copper hand axe~
+A faultless copper hand axe has been left here.~
+copper~
+weapon 0 AN
+axe 3 2 cleave 0
+22 44 200 G
+#26239
+faultless titanium hand axe~
+a faultless titanium hand axe~
+A faultless titanium hand axe has been left here.~
+titanium~
+weapon 0 AN
+axe 2 2 cleave 0
+22 44 200 G
+#26240
+scorched copper hand axe~
+a scorched copper hand axe~
+A scorched copper hand axe has been left here.~
+copper~
+weapon 0 AN
+axe 2 2 cleave 0
+22 44 200 G
+#26241
+suitable titanium hand axe~
+a suitable titanium hand axe~
+A suitable titanium hand axe has been left here.~
+titanium~
+weapon 0 AN
+axe 2 3 cleave 0
+22 44 200 G
+#26242
+twisted tin hand axe~
+a twisted tin hand axe~
+A twisted tin hand axe has been left here.~
+tin~
+weapon 0 AN
+axe 3 2 cleave 0
+22 44 200 G
+#26243
+unequaled nickel hand axe~
+an unequaled nickel hand axe~
+AN unequaled nickel hand axe has been left here.~
+nickel~
+weapon 0 AN
+axe 2 2 cleave 0
+22 44 200 G
+#26244
+cracked steel fauchard~
+a cracked steel fauchard~
+A cracked steel fauchard has been left here.~
+steel~
+weapon 0 AN
+exotic 2 3 thrust 0
+22 44 200 G
+#26245
+faded aluminum fauchard~
+a faded aluminum fauchard~
+A faded aluminum fauchard has been left here.~
+aluminum~
+weapon 0 AN
+exotic 3 2 thrust 0
+22 44 200 G
+#26246
+faultless steel fauchard~
+a faultless steel fauchard~
+A faultless steel fauchard has been left here.~
+steel~
+weapon 0 AN
+exotic 2 3 thrust 0
+22 44 200 G
+#26247
+tarnished iron fauchard~
+a tarnished iron fauchard~
+A tarnished iron fauchard has been left here.~
+iron~
+weapon 0 AN
+exotic 2 2 thrust 0
+22 44 200 G
+#26248
+undefiled steel fauchard~
+an undefiled steel fauchard~
+AN undefiled steel fauchard has been left here.~
+steel~
+weapon 0 AN
+exotic 2 2 thrust 0
+22 44 200 G
+#26249
+undefiled aluminum fauchard~
+an undefiled aluminum fauchard~
+AN undefiled aluminum fauchard has been left here.~
+aluminum~
+weapon 0 AN
+exotic 3 2 thrust 0
+22 44 200 G
+#26250
+undefiled adamantite fauchard~
+an undefiled adamantite fauchard~
+AN undefiled adamantite fauchard has been left here.~
+adamantite~
+weapon 0 AN
+exotic 2 2 thrust 0
+22 44 200 G
+#26251
+unreliable copper fauchard~
+an unreliable copper fauchard~
+AN unreliable copper fauchard has been left here.~
+copper~
+weapon 0 AN
+exotic 2 3 thrust 0
+22 44 200 G
+#26252
+unreliable adamantite fauchard~
+an unreliable adamantite fauchard~
+AN unreliable adamantite fauchard has been left here.~
+adamantite~
+weapon 0 AN
+exotic 2 2 thrust 0
+22 44 200 G
+#26253
+unreliable bronze fauchard~
+an unreliable bronze fauchard~
+AN unreliable bronze fauchard has been left here.~
+bronze~
+weapon 0 AN
+exotic 2 3 thrust 0
+22 44 200 G
+#26254
+antique aluminum footman's flail~
+an antique aluminum footman's flail~
+AN antique aluminum footman's flail has been left here.~
+aluminum~
+weapon 0 AN
+flail 3 3 smash 0
+22 44 200 G
+#26255
+crooked mithril footman's flail~
+a crooked mithril footman's flail~
+A crooked mithril footman's flail has been left here.~
+mithril~
+weapon 0 AN
+flail 2 3 smash 0
+22 44 200 G
+#26256
+fragile iron footman's flail~
+a fragile iron footman's flail~
+A fragile iron footman's flail has been left here.~
+iron~
+weapon 0 AN
+flail 2 2 smash 0
+22 44 200 G
+#26257
+bent bronze guisarme-voulge~
+a bent bronze guisarme-voulge~
+A bent bronze guisarme-voulge has been left here.~
+bronze~
+weapon 0 AN
+polearm 2 3 chop 0
+22 44 200 G
+#26258
+burnt aluminum guisarme-voulge~
+a burnt aluminum guisarme-voulge~
+A burnt aluminum guisarme-voulge has been left here.~
+aluminum~
+weapon 0 AN
+polearm 2 3 chop 0
+22 44 200 G
+#26259
+gnarled titanium guisarme-voulge~
+a gnarled titanium guisarme-voulge~
+A gnarled titanium guisarme-voulge has been left here.~
+titanium~
+weapon 0 AN
+polearm 2 3 chop 0
+22 44 200 G
+#26260
+impermeable iron guisarme-voulge~
+an impermeable iron guisarme-voulge~
+AN impermeable iron guisarme-voulge has been left here.~
+iron~
+weapon 0 AN
+polearm 2 2 chop 0
+22 44 200 G
+#26261
+impermeable copper guisarme-voulge~
+an impermeable copper guisarme-voulge~
+AN impermeable copper guisarme-voulge has been left here.~
+copper~
+weapon 0 AN
+polearm 2 3 chop 0
+22 44 200 G
+#26262
+impermeable adamantite guisarme-voulge~
+an impermeable adamantite guisarme-voulge~
+AN impermeable adamantite guisarme-voulge has been left here.~
+adamantite~
+weapon 0 AN
+polearm 2 3 chop 0
+22 44 200 G
+#26263
+rugged mithril guisarme-voulge~
+a rugged mithril guisarme-voulge~
+A rugged mithril guisarme-voulge has been left here.~
+mithril~
+weapon 0 AN
+polearm 2 2 chop 0
+22 44 200 G
+#26264
+superb nickel guisarme-voulge~
+a superb nickel guisarme-voulge~
+A superb nickel guisarme-voulge has been left here.~
+nickel~
+weapon 0 AN
+polearm 2 2 chop 0
+22 44 200 G
+#26265
+tempered titanium guisarme-voulge~
+a tempered titanium guisarme-voulge~
+A tempered titanium guisarme-voulge has been left here.~
+titanium~
+weapon 0 AN
+polearm 2 2 chop 0
+22 44 200 G
+#26266
+faulty tin pick~
+a faulty tin pick~
+A faulty tin pick has been left here.~
+tin~
+weapon 0 AN
+mace 2 3 stab 0
+22 44 200 G
+#26267
+primitive nickel pick~
+a primitive nickel pick~
+A primitive nickel pick has been left here.~
+nickel~
+weapon 0 AN
+mace 2 2 stab 0
+22 44 200 G
+#26268
+primitive adamantite pick~
+a primitive adamantite pick~
+A primitive adamantite pick has been left here.~
+adamantite~
+weapon 0 AN
+mace 2 3 stab 0
+22 44 200 G
+#26269
+refined iron pick~
+a refined iron pick~
+A refined iron pick has been left here.~
+iron~
+weapon 0 AN
+mace 2 3 stab 0
+22 44 200 G
+#26270
+thick aluminum pick~
+a thick aluminum pick~
+A thick aluminum pick has been left here.~
+aluminum~
+weapon 0 AN
+mace 2 3 stab 0
+22 44 200 G
+#26271
+tough mithril pick~
+a tough mithril pick~
+A tough mithril pick has been left here.~
+mithril~
+weapon 0 AN
+mace 2 2 stab 0
+22 44 200 G
+#26272
+rigid iron long sword~
+a rigid iron long sword~
+A rigid iron long sword has been left here.~
+iron~
+weapon 0 AN
+sword 3 2 slice 0
+22 44 200 G
+#26273
+rigid tin long sword~
+a rigid tin long sword~
+A rigid tin long sword has been left here.~
+tin~
+weapon 0 AN
+sword 2 2 slice 0
+22 44 200 G
+#26274
+dependable adamantite short sword~
+a dependable adamantite short sword~
+A dependable adamantite short sword has been left here.~
+adamantite~
+weapon 0 AN
+sword 2 3 slash 0
+29 58 200 G
+#26275
+dependable brass short sword~
+a dependable brass short sword~
+A dependable brass short sword has been left here.~
+brass~
+weapon 0 AN
+sword 2 3 slash 0
+29 58 200 G
+#26276
+dull copper short sword~
+a dull copper short sword~
+A dull copper short sword has been left here.~
+copper~
+weapon 0 AN
+sword 3 3 slash 0
+29 58 200 G
+#26277
+dull bronze short sword~
+a dull bronze short sword~
+A dull bronze short sword has been left here.~
+bronze~
+weapon 0 AN
+sword 3 4 slash 0
+29 58 200 G
+#26278
+old iron short sword~
+an old iron short sword~
+AN old iron short sword has been left here.~
+iron~
+weapon 0 AN
+sword 2 3 slash 0
+29 58 200 G
+#26279
+old copper short sword~
+an old copper short sword~
+AN old copper short sword has been left here.~
+copper~
+weapon 0 AN
+sword 3 3 slash 0
+29 58 200 G
+#26280
+old brass short sword~
+an old brass short sword~
+AN old brass short sword has been left here.~
+brass~
+weapon 0 AN
+sword 3 3 slash 0
+29 58 200 G
+#26281
+singed nickel short sword~
+a singed nickel short sword~
+A singed nickel short sword has been left here.~
+nickel~
+weapon 0 AN
+sword 2 3 slash 0
+29 58 200 G
+#26282
+tough steel short sword~
+a tough steel short sword~
+A tough steel short sword has been left here.~
+steel~
+weapon 0 AN
+sword 3 3 slash 0
+29 58 200 G
+#26283
+tough aluminum short sword~
+a tough aluminum short sword~
+A tough aluminum short sword has been left here.~
+aluminum~
+weapon 0 AN
+sword 3 4 slash 0
+29 58 200 G
+#26284
+unsharpened aluminum short sword~
+an unsharpened aluminum short sword~
+AN unsharpened aluminum short sword has been left here.~
+aluminum~
+weapon 0 AN
+sword 3 3 slash 0
+29 58 200 G
+#26285
+unsharpened brass short sword~
+an unsharpened brass short sword~
+AN unsharpened brass short sword has been left here.~
+brass~
+weapon 0 AN
+sword 3 3 slash 0
+29 58 200 G
+#26286
+finely balanced mithril vulge~
+a finely balanced mithril vulge~
+A finely balanced mithril vulge has been left here.~
+mithril~
+weapon 0 AN
+polearm 3 3 chop 0
+29 58 200 G
+#26287
+finely balanced adamantite vulge~
+a finely balanced adamantite vulge~
+A finely balanced adamantite vulge has been left here.~
+adamantite~
+weapon 0 AN
+polearm 2 3 chop 0
+29 58 200 G
+#26288
+hardened steel vulge~
+a hardened steel vulge~
+A hardened steel vulge has been left here.~
+steel~
+weapon 0 AN
+polearm 3 3 chop 0
+29 58 200 G
+#26289
+hardened nickel vulge~
+a hardened nickel vulge~
+A hardened nickel vulge has been left here.~
+nickel~
+weapon 0 AN
+polearm 2 4 chop 0
+29 58 200 G
+#26290
+hardened adamantite vulge~
+a hardened adamantite vulge~
+A hardened adamantite vulge has been left here.~
+adamantite~
+weapon 0 AN
+polearm 3 3 chop 0
+29 58 200 G
+#26291
+neglected brass vulge~
+a neglected brass vulge~
+A neglected brass vulge has been left here.~
+brass~
+weapon 0 AN
+polearm 3 3 chop 0
+29 58 200 G
+#26292
+ordinary copper vulge~
+an ordinary copper vulge~
+AN ordinary copper vulge has been left here.~
+copper~
+weapon 0 AN
+polearm 3 3 chop 0
+29 58 200 G
+#26293
+warped iron vulge~
+a warped iron vulge~
+A warped iron vulge has been left here.~
+iron~
+weapon 0 AN
+polearm 3 3 chop 0
+29 58 200 G
+#26294
+warped mithril vulge~
+a warped mithril vulge~
+A warped mithril vulge has been left here.~
+mithril~
+weapon 0 AN
+polearm 2 3 chop 0
+29 58 200 G
+#26295
+warped bronze vulge~
+a warped bronze vulge~
+A warped bronze vulge has been left here.~
+bronze~
+weapon 0 AN
+polearm 2 3 chop 0
+29 58 200 G
+#26296
+weak aluminum vulge~
+a weak aluminum vulge~
+A weak aluminum vulge has been left here.~
+aluminum~
+weapon 0 AN
+polearm 3 3 chop 0
+29 58 200 G
+#26297
+clean adamantite bec de corbin~
+a clean adamantite bec de corbin~
+A clean adamantite bec de corbin has been left here.~
+adamantite~
+weapon 0 AN
+polearm 3 3 cleave 0
+29 58 200 G
+#26298
+clean brass bec de corbin~
+a clean brass bec de corbin~
+A clean brass bec de corbin has been left here.~
+brass~
+weapon 0 AN
+polearm 2 3 cleave 0
+29 58 200 G
+#26299
+faulty aluminum bec de corbin~
+a faulty aluminum bec de corbin~
+A faulty aluminum bec de corbin has been left here.~
+aluminum~
+weapon 0 AN
+polearm 2 3 cleave 0
+29 58 200 G
+#26300
+flat tin bec de corbin~
+a flat tin bec de corbin~
+A flat tin bec de corbin has been left here.~
+tin~
+weapon 0 AN
+polearm 3 3 cleave 0
+29 58 200 G
+#26301
+flat bronze bec de corbin~
+a flat bronze bec de corbin~
+A flat bronze bec de corbin has been left here.~
+bronze~
+weapon 0 AN
+polearm 3 3 cleave 0
+29 58 200 G
+#26302
+rigid aluminum bec de corbin~
+a rigid aluminum bec de corbin~
+A rigid aluminum bec de corbin has been left here.~
+aluminum~
+weapon 0 AN
+polearm 2 3 cleave 0
+29 58 200 G
+#26303
+rigid mithril bec de corbin~
+a rigid mithril bec de corbin~
+A rigid mithril bec de corbin has been left here.~
+mithril~
+weapon 0 AN
+polearm 3 3 cleave 0
+29 58 200 G
+#26304
+rotting tin bec de corbin~
+a rotting tin bec de corbin~
+A rotting tin bec de corbin has been left here.~
+tin~
+weapon 0 AN
+polearm 2 3 cleave 0
+29 58 200 G
+#26305
+rotting adamantite bec de corbin~
+a rotting adamantite bec de corbin~
+A rotting adamantite bec de corbin has been left here.~
+adamantite~
+weapon 0 AN
+polearm 3 3 cleave 0
+29 58 200 G
+#26306
+venerable aluminum bec de corbin~
+a venerable aluminum bec de corbin~
+A venerable aluminum bec de corbin has been left here.~
+aluminum~
+weapon 0 AN
+polearm 3 3 cleave 0
+29 58 200 G
+#26307
+venerable brass bec de corbin~
+a venerable brass bec de corbin~
+A venerable brass bec de corbin has been left here.~
+brass~
+weapon 0 AN
+polearm 3 3 cleave 0
+29 58 200 G
+#26308
+coarse aluminum fauchard~
+a coarse aluminum fauchard~
+A coarse aluminum fauchard has been left here.~
+aluminum~
+weapon 0 AN
+exotic 3 3 thrust 0
+29 58 200 G
+#26309
+faultless iron fauchard~
+a faultless iron fauchard~
+A faultless iron fauchard has been left here.~
+iron~
+weapon 0 AN
+exotic 3 3 thrust 0
+29 58 200 G
+#26310
+filthy mithril fauchard~
+a filthy mithril fauchard~
+A filthy mithril fauchard has been left here.~
+mithril~
+weapon 0 AN
+exotic 3 3 thrust 0
+29 58 200 G
+#26311
+filthy brass fauchard~
+a filthy brass fauchard~
+A filthy brass fauchard has been left here.~
+brass~
+weapon 0 AN
+exotic 2 3 thrust 0
+29 58 200 G
+#26312
+ordinary steel fauchard~
+an ordinary steel fauchard~
+AN ordinary steel fauchard has been left here.~
+steel~
+weapon 0 AN
+exotic 2 4 thrust 0
+29 58 200 G
+#26313
+ordinary brass fauchard~
+an ordinary brass fauchard~
+AN ordinary brass fauchard has been left here.~
+brass~
+weapon 0 AN
+exotic 2 3 thrust 0
+29 58 200 G
+#26314
+substantial nickel fauchard~
+a substantial nickel fauchard~
+A substantial nickel fauchard has been left here.~
+nickel~
+weapon 0 AN
+exotic 3 3 thrust 0
+29 58 200 G
+#26315
+venerable mithril fauchard~
+a venerable mithril fauchard~
+A venerable mithril fauchard has been left here.~
+mithril~
+weapon 0 AN
+exotic 3 3 thrust 0
+29 58 200 G
+#26316
+brittle tin fauchard-fork~
+a brittle tin fauchard-fork~
+A brittle tin fauchard-fork has been left here.~
+tin~
+weapon 0 AN
+exotic 3 3 thrust 0
+29 58 200 G
+#26317
+forked adamantite fauchard-fork~
+a forked adamantite fauchard-fork~
+A forked adamantite fauchard-fork has been left here.~
+adamantite~
+weapon 0 AN
+exotic 3 3 thrust 0
+29 58 200 G
+#26318
+venerable steel fauchard-fork~
+a venerable steel fauchard-fork~
+A venerable steel fauchard-fork has been left here.~
+steel~
+weapon 0 AN
+exotic 2 3 thrust 0
+29 58 200 G
+#26319
+faded brass glaive~
+a faded brass glaive~
+A faded brass glaive has been left here.~
+brass~
+weapon 0 AN
+polearm 2 3 chop 0
+29 58 200 G
+#26320
+impermeable steel glaive~
+an impermeable steel glaive~
+AN impermeable steel glaive has been left here.~
+steel~
+weapon 0 AN
+polearm 3 3 chop 0
+29 58 200 G
+#26321
+jagged copper glaive~
+a jagged copper glaive~
+A jagged copper glaive has been left here.~
+copper~
+weapon 0 AN
+polearm 3 4 chop 0
+29 58 200 G
+#26322
+jagged titanium glaive~
+a jagged titanium glaive~
+A jagged titanium glaive has been left here.~
+titanium~
+weapon 0 AN
+polearm 3 3 chop 0
+29 58 200 G
+#26323
+reliable aluminum glaive~
+a reliable aluminum glaive~
+A reliable aluminum glaive has been left here.~
+aluminum~
+weapon 0 AN
+polearm 3 3 chop 0
+29 58 200 G
+#26324
+sharpened titanium glaive~
+a sharpened titanium glaive~
+A sharpened titanium glaive has been left here.~
+titanium~
+weapon 0 AN
+polearm 2 3 chop 0
+29 58 200 G
+#26325
+staunch iron glaive~
+a staunch iron glaive~
+A staunch iron glaive has been left here.~
+iron~
+weapon 0 AN
+polearm 2 3 chop 0
+29 58 200 G
+#26326
+staunch tin glaive~
+a staunch tin glaive~
+A staunch tin glaive has been left here.~
+tin~
+weapon 0 AN
+polearm 3 3 chop 0
+29 58 200 G
+#26327
+tarnished aluminum glaive~
+a tarnished aluminum glaive~
+A tarnished aluminum glaive has been left here.~
+aluminum~
+weapon 0 AN
+polearm 2 3 chop 0
+29 58 200 G
+#26328
+tarnished mithril glaive~
+a tarnished mithril glaive~
+A tarnished mithril glaive has been left here.~
+mithril~
+weapon 0 AN
+polearm 3 3 chop 0
+29 58 200 G
+#26329
+finely balanced steel glaive-guisarme~
+a finely balanced steel glaive-guisarme~
+A finely balanced steel glaive-guisarme has been left here.~
+steel~
+weapon 0 AN
+polearm 2 3 chop 0
+29 58 200 G
+#26330
+sterlized brass glaive-guisarme~
+a sterlized brass glaive-guisarme~
+A sterlized brass glaive-guisarme has been left here.~
+brass~
+weapon 0 AN
+polearm 3 3 chop 0
+29 58 200 G
+#26331
+sterlized titanium glaive-guisarme~
+a sterlized titanium glaive-guisarme~
+A sterlized titanium glaive-guisarme has been left here.~
+titanium~
+weapon 0 AN
+polearm 2 3 chop 0
+29 58 200 G
+#26332
+superb nickel glaive-guisarme~
+a superb nickel glaive-guisarme~
+A superb nickel glaive-guisarme has been left here.~
+nickel~
+weapon 0 AN
+polearm 3 3 chop 0
+29 58 200 G
+#26333
+tarnished tin glaive-guisarme~
+a tarnished tin glaive-guisarme~
+A tarnished tin glaive-guisarme has been left here.~
+tin~
+weapon 0 AN
+polearm 3 3 chop 0
+29 58 200 G
+#26334
+tarnished bronze glaive-guisarme~
+a tarnished bronze glaive-guisarme~
+A tarnished bronze glaive-guisarme has been left here.~
+bronze~
+weapon 0 AN
+polearm 3 3 chop 0
+29 58 200 G
+#26335
+tarnished titanium glaive-guisarme~
+a tarnished titanium glaive-guisarme~
+A tarnished titanium glaive-guisarme has been left here.~
+titanium~
+weapon 0 AN
+polearm 3 4 chop 0
+29 58 200 G
+#26336
+dependable nickel long sword~
+a dependable nickel long sword~
+A dependable nickel long sword has been left here.~
+nickel~
+weapon 0 AN
+sword 2 3 slice 0
+29 58 200 G
+#26337
+fragile adamantite long sword~
+a fragile adamantite long sword~
+A fragile adamantite long sword has been left here.~
+adamantite~
+weapon 0 AN
+sword 2 3 slice 0
+29 58 200 G
+#26338
+spent tin long sword~
+a spent tin long sword~
+A spent tin long sword has been left here.~
+tin~
+weapon 0 AN
+sword 3 4 slice 0
+29 58 200 G
+#26339
+spent mithril long sword~
+a spent mithril long sword~
+A spent mithril long sword has been left here.~
+mithril~
+weapon 0 AN
+sword 3 3 slice 0
+29 58 200 G
+#26340
+venerable titanium long sword~
+a venerable titanium long sword~
+A venerable titanium long sword has been left here.~
+titanium~
+weapon 0 AN
+sword 3 4 slice 0
+29 58 200 G
+#26341
+clean titanium flail~
+a clean titanium flail~
+A clean titanium flail has been left here.~
+titanium~
+weapon 0 AN
+flail 4 4 smash 0
+36 72 200 G
+#26342
+staunch copper flail~
+a staunch copper flail~
+A staunch copper flail has been left here.~
+copper~
+weapon 0 AN
+flail 3 4 smash 0
+36 72 200 G
+#26343
+staunch brass flail~
+a staunch brass flail~
+A staunch brass flail has been left here.~
+brass~
+weapon 0 AN
+flail 3 4 smash 0
+36 72 200 G
+#26344
+twisted copper flail~
+a twisted copper flail~
+A twisted copper flail has been left here.~
+copper~
+weapon 0 AN
+flail 4 3 smash 0
+36 72 200 G
+#26345
+defective mithril kris~
+a defective mithril kris~
+A defective mithril kris has been left here.~
+mithril~
+weapon 0 AN
+dagger 3 3 stab 0
+36 72 200 G
+#26346
+defective titanium kris~
+a defective titanium kris~
+A defective titanium kris has been left here.~
+titanium~
+weapon 0 AN
+dagger 3 3 stab 0
+36 72 200 G
+#26347
+dirty tin kris~
+a dirty tin kris~
+A dirty tin kris has been left here.~
+tin~
+weapon 0 AN
+dagger 3 5 stab 0
+36 72 200 G
+#26348
+hardened bronze kris~
+a hardened bronze kris~
+A hardened bronze kris has been left here.~
+bronze~
+weapon 0 AN
+dagger 3 4 stab 0
+36 72 200 G
+#26349
+knotted steel kris~
+a knotted steel kris~
+A knotted steel kris has been left here.~
+steel~
+weapon 0 AN
+dagger 4 3 stab 0
+36 72 200 G
+#26350
+knotted bronze kris~
+a knotted bronze kris~
+A knotted bronze kris has been left here.~
+bronze~
+weapon 0 AN
+dagger 4 4 stab 0
+36 72 200 G
+#26351
+poisoned steel kris~
+a poisoned steel kris~
+A poisoned steel kris has been left here.~
+steel~
+weapon 0 AN
+dagger 4 4 stab 0
+36 72 200 G
+#26352
+poisoned nickel kris~
+a poisoned nickel kris~
+A poisoned nickel kris has been left here.~
+nickel~
+weapon 0 AN
+dagger 4 4 stab 0
+36 72 200 G
+#26353
+poisoned adamantite kris~
+a poisoned adamantite kris~
+A poisoned adamantite kris has been left here.~
+adamantite~
+weapon 0 AN
+dagger 4 4 stab 0
+36 72 200 G
+#26354
+slender steel kris~
+a slender steel kris~
+A slender steel kris has been left here.~
+steel~
+weapon 0 AN
+dagger 3 3 stab 0
+36 72 200 G
+#26355
+slender copper kris~
+a slender copper kris~
+A slender copper kris has been left here.~
+copper~
+weapon 0 AN
+dagger 3 3 stab 0
+36 72 200 G
+#26356
+slender mithril kris~
+a slender mithril kris~
+A slender mithril kris has been left here.~
+mithril~
+weapon 0 AN
+dagger 4 3 stab 0
+36 72 200 G
+#26357
+burnt aluminum club~
+a burnt aluminum club~
+A burnt aluminum club has been left here.~
+aluminum~
+weapon 0 AN
+mace 3 4 crush 0
+36 72 200 G
+#26358
+burnt adamantite club~
+a burnt adamantite club~
+A burnt adamantite club has been left here.~
+adamantite~
+weapon 0 AN
+mace 4 4 crush 0
+36 72 200 G
+#26359
+faultless steel club~
+a faultless steel club~
+A faultless steel club has been left here.~
+steel~
+weapon 0 AN
+mace 3 3 crush 0
+36 72 200 G
+#26360
+scorched iron club~
+a scorched iron club~
+A scorched iron club has been left here.~
+iron~
+weapon 0 AN
+mace 3 4 crush 0
+36 72 200 G
+#26361
+scorched copper club~
+a scorched copper club~
+A scorched copper club has been left here.~
+copper~
+weapon 0 AN
+mace 3 5 crush 0
+36 72 200 G
+#26362
+thick tin bo stick~
+a thick tin bo stick~
+A thick tin bo stick has been left here.~
+tin~
+weapon 0 AN
+polearm 3 4 cleave 0
+36 72 200 G
+#26363
+unequaled iron bo stick~
+an unequaled iron bo stick~
+AN unequaled iron bo stick has been left here.~
+iron~
+weapon 0 AN
+polearm 3 4 cleave 0
+36 72 200 G
+#26364
+unequaled aluminum bo stick~
+an unequaled aluminum bo stick~
+AN unequaled aluminum bo stick has been left here.~
+aluminum~
+weapon 0 AN
+polearm 4 4 cleave 0
+36 72 200 G
+#26365
+warped iron bo stick~
+a warped iron bo stick~
+A warped iron bo stick has been left here.~
+iron~
+weapon 0 AN
+polearm 3 3 cleave 0
+36 72 200 G
+#26366
+warped adamantite bo stick~
+a warped adamantite bo stick~
+A warped adamantite bo stick has been left here.~
+adamantite~
+weapon 0 AN
+polearm 3 3 cleave 0
+36 72 200 G
+#26367
+even steel military fork~
+an even steel military fork~
+AN even steel military fork has been left here.~
+steel~
+weapon 0 AN
+exotic 3 4 none 0
+36 72 200 G
+#26368
+exquisite mithril military fork~
+an exquisite mithril military fork~
+AN exquisite mithril military fork has been left here.~
+mithril~
+weapon 0 AN
+exotic 3 4 none 0
+36 72 200 G
+#26369
+exquisite bronze military fork~
+an exquisite bronze military fork~
+AN exquisite bronze military fork has been left here.~
+bronze~
+weapon 0 AN
+exotic 4 4 none 0
+36 72 200 G
+#26370
+refined bronze military fork~
+a refined bronze military fork~
+A refined bronze military fork has been left here.~
+bronze~
+weapon 0 AN
+exotic 4 5 none 0
+36 72 200 G
+#26371
+shiny copper military fork~
+a shiny copper military fork~
+A shiny copper military fork has been left here.~
+copper~
+weapon 0 AN
+exotic 3 3 none 0
+36 72 200 G
+#26372
+shiny adamantite military fork~
+a shiny adamantite military fork~
+A shiny adamantite military fork has been left here.~
+adamantite~
+weapon 0 AN
+exotic 3 4 none 0
+36 72 200 G
+#26373
+singed steel military fork~
+a singed steel military fork~
+A singed steel military fork has been left here.~
+steel~
+weapon 0 AN
+exotic 4 5 none 0
+36 72 200 G
+#26374
+singed bronze military fork~
+a singed bronze military fork~
+A singed bronze military fork has been left here.~
+bronze~
+weapon 0 AN
+exotic 3 4 none 0
+36 72 200 G
+#26375
+superb titanium military fork~
+a superb titanium military fork~
+A superb titanium military fork has been left here.~
+titanium~
+weapon 0 AN
+exotic 4 4 none 0
+36 72 200 G
+#26376
+unpointed tin military fork~
+an unpointed tin military fork~
+AN unpointed tin military fork has been left here.~
+tin~
+weapon 0 AN
+exotic 3 4 none 0
+36 72 200 G
+#26377
+unpointed adamantite military fork~
+an unpointed adamantite military fork~
+AN unpointed adamantite military fork has been left here.~
+adamantite~
+weapon 0 AN
+exotic 4 3 none 0
+36 72 200 G
+#26378
+unrivaled bronze military fork~
+an unrivaled bronze military fork~
+AN unrivaled bronze military fork has been left here.~
+bronze~
+weapon 0 AN
+exotic 3 4 none 0
+36 72 200 G
+#26379
+charred steel glaive-guisarme~
+a charred steel glaive-guisarme~
+A charred steel glaive-guisarme has been left here.~
+steel~
+weapon 0 AN
+polearm 4 4 chop 0
+36 72 200 G
+#26380
+charred nickel glaive-guisarme~
+a charred nickel glaive-guisarme~
+A charred nickel glaive-guisarme has been left here.~
+nickel~
+weapon 0 AN
+polearm 4 5 chop 0
+36 72 200 G
+#26381
+charred adamantite glaive-guisarme~
+a charred adamantite glaive-guisarme~
+A charred adamantite glaive-guisarme has been left here.~
+adamantite~
+weapon 0 AN
+polearm 3 3 chop 0
+36 72 200 G
+#26382
+crude copper glaive-guisarme~
+a crude copper glaive-guisarme~
+A crude copper glaive-guisarme has been left here.~
+copper~
+weapon 0 AN
+polearm 4 3 chop 0
+36 72 200 G
+#26383
+impermeable bronze glaive-guisarme~
+an impermeable bronze glaive-guisarme~
+AN impermeable bronze glaive-guisarme has been left here.~
+bronze~
+weapon 0 AN
+polearm 4 4 chop 0
+36 72 200 G
+#26384
+staunch aluminum glaive-guisarme~
+a staunch aluminum glaive-guisarme~
+A staunch aluminum glaive-guisarme has been left here.~
+aluminum~
+weapon 0 AN
+polearm 3 5 chop 0
+36 72 200 G
+#26385
+suitable tin glaive-guisarme~
+a suitable tin glaive-guisarme~
+A suitable tin glaive-guisarme has been left here.~
+tin~
+weapon 0 AN
+polearm 3 4 chop 0
+36 72 200 G
+#26386
+tainted tin glaive-guisarme~
+a tainted tin glaive-guisarme~
+A tainted tin glaive-guisarme has been left here.~
+tin~
+weapon 0 AN
+polearm 3 4 chop 0
+36 72 200 G
+#26387
+singed iron halberd~
+a singed iron halberd~
+A singed iron halberd has been left here.~
+iron~
+weapon 0 AN
+polearm 4 3 chop 0
+36 72 200 G
+#26388
+singed tin halberd~
+a singed tin halberd~
+A singed tin halberd has been left here.~
+tin~
+weapon 0 AN
+polearm 3 3 chop 0
+36 72 200 G
+#26389
+splendid steel halberd~
+a splendid steel halberd~
+A splendid steel halberd has been left here.~
+steel~
+weapon 0 AN
+polearm 4 4 chop 0
+36 72 200 G
+#26390
+clean iron lucern hammer~
+a clean iron lucern hammer~
+A clean iron lucern hammer has been left here.~
+iron~
+weapon 0 AN
+mace 3 3 smash 0
+36 72 200 G
+#26391
+clean brass lucern hammer~
+a clean brass lucern hammer~
+A clean brass lucern hammer has been left here.~
+brass~
+weapon 0 AN
+mace 4 5 smash 0
+36 72 200 G
+#26392
+tough iron lucern hammer~
+a tough iron lucern hammer~
+A tough iron lucern hammer has been left here.~
+iron~
+weapon 0 AN
+mace 3 3 smash 0
+36 72 200 G
+#26393
+unequaled bronze lucern hammer~
+an unequaled bronze lucern hammer~
+AN unequaled bronze lucern hammer has been left here.~
+bronze~
+weapon 0 AN
+mace 3 4 smash 0
+36 72 200 G
+#26394
+coarse titanium jo stick~
+a coarse titanium jo stick~
+A coarse titanium jo stick has been left here.~
+titanium~
+weapon 0 AN
+polearm 4 4 thrust 0
+36 72 200 G
+#26395
+dense nickel jo stick~
+a dense nickel jo stick~
+A dense nickel jo stick has been left here.~
+nickel~
+weapon 0 AN
+polearm 3 4 thrust 0
+36 72 200 G
+#26396
+dense aluminum jo stick~
+a dense aluminum jo stick~
+A dense aluminum jo stick has been left here.~
+aluminum~
+weapon 0 AN
+polearm 3 4 thrust 0
+36 72 200 G
+#26397
+dense brass jo stick~
+a dense brass jo stick~
+A dense brass jo stick has been left here.~
+brass~
+weapon 0 AN
+polearm 3 4 thrust 0
+36 72 200 G
+#26398
+even nickel jo stick~
+an even nickel jo stick~
+AN even nickel jo stick has been left here.~
+nickel~
+weapon 0 AN
+polearm 4 3 thrust 0
+36 72 200 G
+#26399
+rugged adamantite jo stick~
+a rugged adamantite jo stick~
+A rugged adamantite jo stick has been left here.~
+adamantite~
+weapon 0 AN
+polearm 3 3 thrust 0
+36 72 200 G
+#26400
+soiled steel jo stick~
+a soiled steel jo stick~
+A soiled steel jo stick has been left here.~
+steel~
+weapon 0 AN
+polearm 3 4 thrust 0
+36 72 200 G
+#26401
+soiled mithril jo stick~
+a soiled mithril jo stick~
+A soiled mithril jo stick has been left here.~
+mithril~
+weapon 0 AN
+polearm 4 3 thrust 0
+36 72 200 G
+#26402
+unstable adamantite jo stick~
+an unstable adamantite jo stick~
+AN unstable adamantite jo stick has been left here.~
+adamantite~
+weapon 0 AN
+polearm 3 4 thrust 0
+36 72 200 G
+#26403
+sharp titanium heavy lance~
+a sharp titanium heavy lance~
+A sharp titanium heavy lance has been left here.~
+titanium~
+weapon 0 AN
+exotic 3 4 thrust 0
+36 72 200 G
+#26404
+tainted steel heavy lance~
+a tainted steel heavy lance~
+A tainted steel heavy lance has been left here.~
+steel~
+weapon 0 AN
+exotic 3 4 thrust 0
+36 72 200 G
+#26405
+tainted tin heavy lance~
+a tainted tin heavy lance~
+A tainted tin heavy lance has been left here.~
+tin~
+weapon 0 AN
+exotic 3 4 thrust 0
+36 72 200 G
+#26406
+dull steel footman's mace~
+a dull steel footman's mace~
+A dull steel footman's mace has been left here.~
+steel~
+weapon 0 AN
+mace 3 5 crush 0
+36 72 200 G
+#26407
+dull bronze footman's mace~
+a dull bronze footman's mace~
+A dull bronze footman's mace has been left here.~
+bronze~
+weapon 0 AN
+mace 3 4 crush 0
+36 72 200 G
+#26408
+faded adamantite footman's mace~
+a faded adamantite footman's mace~
+A faded adamantite footman's mace has been left here.~
+adamantite~
+weapon 0 AN
+mace 3 3 crush 0
+36 72 200 G
+#26409
+gnarled mithril footman's mace~
+a gnarled mithril footman's mace~
+A gnarled mithril footman's mace has been left here.~
+mithril~
+weapon 0 AN
+mace 4 3 crush 0
+36 72 200 G
+#26410
+sharp iron footman's mace~
+a sharp iron footman's mace~
+A sharp iron footman's mace has been left here.~
+iron~
+weapon 0 AN
+mace 3 3 crush 0
+36 72 200 G
+#26411
+sharpened steel footman's mace~
+a sharpened steel footman's mace~
+A sharpened steel footman's mace has been left here.~
+steel~
+weapon 0 AN
+mace 3 3 crush 0
+36 72 200 G
+#26412
+sharpened brass footman's mace~
+a sharpened brass footman's mace~
+A sharpened brass footman's mace has been left here.~
+brass~
+weapon 0 AN
+mace 3 3 crush 0
+36 72 200 G
+#26413
+spotless aluminum footman's mace~
+a spotless aluminum footman's mace~
+A spotless aluminum footman's mace has been left here.~
+aluminum~
+weapon 0 AN
+mace 4 4 crush 0
+36 72 200 G
+#26414
+spotless bronze footman's mace~
+a spotless bronze footman's mace~
+A spotless bronze footman's mace has been left here.~
+bronze~
+weapon 0 AN
+mace 3 5 crush 0
+36 72 200 G
+#26415
+tempered brass footman's mace~
+a tempered brass footman's mace~
+A tempered brass footman's mace has been left here.~
+brass~
+weapon 0 AN
+mace 3 4 crush 0
+36 72 200 G
+#26416
+tempered bronze footman's mace~
+a tempered bronze footman's mace~
+A tempered bronze footman's mace has been left here.~
+bronze~
+weapon 0 AN
+mace 4 3 crush 0
+36 72 200 G
+#26417
+warped nickel footman's mace~
+a warped nickel footman's mace~
+A warped nickel footman's mace has been left here.~
+nickel~
+weapon 0 AN
+mace 3 4 crush 0
+36 72 200 G
+#26418
+flat titanium ranseur~
+a flat titanium ranseur~
+A flat titanium ranseur has been left here.~
+titanium~
+weapon 0 AN
+polearm 3 4 stab 0
+36 72 200 G
+#26419
+suitable steel ranseur~
+a suitable steel ranseur~
+A suitable steel ranseur has been left here.~
+steel~
+weapon 0 AN
+polearm 3 4 stab 0
+36 72 200 G
+#26420
+tainted iron ranseur~
+a tainted iron ranseur~
+A tainted iron ranseur has been left here.~
+iron~
+weapon 0 AN
+polearm 3 3 stab 0
+36 72 200 G
+#26421
+unpointed aluminum ranseur~
+an unpointed aluminum ranseur~
+AN unpointed aluminum ranseur has been left here.~
+aluminum~
+weapon 0 AN
+polearm 3 3 stab 0
+36 72 200 G
+#26422
+faded brass dagger~
+a faded brass dagger~
+A faded brass dagger has been left here.~
+brass~
+weapon 0 AN
+dagger 4 4 stab 0
+43 86 200 G
+#26423
+jagged iron dagger~
+a jagged iron dagger~
+A jagged iron dagger has been left here.~
+iron~
+weapon 0 AN
+dagger 4 5 stab 0
+43 86 200 G
+#26424
+jagged aluminum dagger~
+a jagged aluminum dagger~
+A jagged aluminum dagger has been left here.~
+aluminum~
+weapon 0 AN
+dagger 4 4 stab 0
+43 86 200 G
+#26425
+jagged mithril dagger~
+a jagged mithril dagger~
+A jagged mithril dagger has been left here.~
+mithril~
+weapon 0 AN
+dagger 4 4 stab 0
+43 86 200 G
+#26426
+soiled mithril dagger~
+a soiled mithril dagger~
+A soiled mithril dagger has been left here.~
+mithril~
+weapon 0 AN
+dagger 4 5 stab 0
+43 86 200 G
+#26427
+wide copper dagger~
+a wide copper dagger~
+A wide copper dagger has been left here.~
+copper~
+weapon 0 AN
+dagger 4 4 stab 0
+43 86 200 G
+#26428
+coarse tin club~
+a coarse tin club~
+A coarse tin club has been left here.~
+tin~
+weapon 0 AN
+mace 4 4 crush 0
+43 86 200 G
+#26429
+finely balanced iron club~
+a finely balanced iron club~
+A finely balanced iron club has been left here.~
+iron~
+weapon 0 AN
+mace 4 5 crush 0
+43 86 200 G
+#26430
+warped copper club~
+a warped copper club~
+A warped copper club has been left here.~
+copper~
+weapon 0 AN
+mace 3 5 crush 0
+43 86 200 G
+#26431
+worn brass club~
+a worn brass club~
+A worn brass club has been left here.~
+brass~
+weapon 0 AN
+mace 4 5 crush 0
+43 86 200 G
+#26432
+bowed steel axe~
+a bowed steel axe~
+A bowed steel axe has been left here.~
+steel~
+weapon 0 AN
+axe 4 5 cleave 0
+43 86 200 G
+#26433
+bowed mithril axe~
+a bowed mithril axe~
+A bowed mithril axe has been left here.~
+mithril~
+weapon 0 AN
+axe 4 4 cleave 0
+43 86 200 G
+#26434
+bowed adamantite axe~
+a bowed adamantite axe~
+A bowed adamantite axe has been left here.~
+adamantite~
+weapon 0 AN
+axe 3 4 cleave 0
+43 86 200 G
+#26435
+filthy bronze axe~
+a filthy bronze axe~
+A filthy bronze axe has been left here.~
+bronze~
+weapon 0 AN
+axe 4 4 cleave 0
+43 86 200 G
+#26436
+forked steel axe~
+a forked steel axe~
+A forked steel axe has been left here.~
+steel~
+weapon 0 AN
+axe 3 4 cleave 0
+43 86 200 G
+#26437
+forked nickel axe~
+a forked nickel axe~
+A forked nickel axe has been left here.~
+nickel~
+weapon 0 AN
+axe 4 4 cleave 0
+43 86 200 G
+#26438
+forked aluminum axe~
+a forked aluminum axe~
+A forked aluminum axe has been left here.~
+aluminum~
+weapon 0 AN
+axe 4 4 cleave 0
+43 86 200 G
+#26439
+neglected adamantite axe~
+a neglected adamantite axe~
+A neglected adamantite axe has been left here.~
+adamantite~
+weapon 0 AN
+axe 4 5 cleave 0
+43 86 200 G
+#26440
+resistant mithril axe~
+a resistant mithril axe~
+A resistant mithril axe has been left here.~
+mithril~
+weapon 0 AN
+axe 4 4 cleave 0
+43 86 200 G
+#26441
+ancient aluminum great axe~
+an ancient aluminum great axe~
+AN ancient aluminum great axe has been left here.~
+aluminum~
+weapon 0 AN
+axe 4 4 cleave 0
+43 86 200 G
+#26442
+ancient titanium great axe~
+an ancient titanium great axe~
+AN ancient titanium great axe has been left here.~
+titanium~
+weapon 0 AN
+axe 3 4 cleave 0
+43 86 200 G
+#26443
+old nickel great axe~
+an old nickel great axe~
+AN old nickel great axe has been left here.~
+nickel~
+weapon 0 AN
+axe 4 4 cleave 0
+43 86 200 G
+#26444
+soiled nickel great axe~
+a soiled nickel great axe~
+A soiled nickel great axe has been left here.~
+nickel~
+weapon 0 AN
+axe 4 5 cleave 0
+43 86 200 G
+#26445
+soiled brass great axe~
+a soiled brass great axe~
+A soiled brass great axe has been left here.~
+brass~
+weapon 0 AN
+axe 4 4 cleave 0
+43 86 200 G
+#26446
+soiled bronze great axe~
+a soiled bronze great axe~
+A soiled bronze great axe has been left here.~
+bronze~
+weapon 0 AN
+axe 3 4 cleave 0
+43 86 200 G
+#26447
+spotless steel great axe~
+a spotless steel great axe~
+A spotless steel great axe has been left here.~
+steel~
+weapon 0 AN
+axe 3 4 cleave 0
+43 86 200 G
+#26448
+twisted tin great axe~
+a twisted tin great axe~
+A twisted tin great axe has been left here.~
+tin~
+weapon 0 AN
+axe 4 4 cleave 0
+43 86 200 G
+#26449
+finely balanced titanium glaive~
+a finely balanced titanium glaive~
+A finely balanced titanium glaive has been left here.~
+titanium~
+weapon 0 AN
+polearm 4 4 chop 0
+43 86 200 G
+#26450
+neglected iron glaive~
+a neglected iron glaive~
+A neglected iron glaive has been left here.~
+iron~
+weapon 0 AN
+polearm 3 4 chop 0
+43 86 200 G
+#26451
+rotting bronze glaive~
+a rotting bronze glaive~
+A rotting bronze glaive has been left here.~
+bronze~
+weapon 0 AN
+polearm 3 4 chop 0
+43 86 200 G
+#26452
+soiled adamantite glaive~
+a soiled adamantite glaive~
+A soiled adamantite glaive has been left here.~
+adamantite~
+weapon 0 AN
+polearm 3 4 chop 0
+43 86 200 G
+#26453
+soiled bronze glaive~
+a soiled bronze glaive~
+A soiled bronze glaive has been left here.~
+bronze~
+weapon 0 AN
+polearm 3 4 chop 0
+43 86 200 G
+#26454
+imperfect brass halberd~
+an imperfect brass halberd~
+AN imperfect brass halberd has been left here.~
+brass~
+weapon 0 AN
+polearm 3 5 chop 0
+43 86 200 G
+#26455
+muddy iron halberd~
+a muddy iron halberd~
+A muddy iron halberd has been left here.~
+iron~
+weapon 0 AN
+polearm 4 4 chop 0
+43 86 200 G
+#26456
+suitable aluminum halberd~
+a suitable aluminum halberd~
+A suitable aluminum halberd has been left here.~
+aluminum~
+weapon 0 AN
+polearm 4 5 chop 0
+43 86 200 G
+#26457
+superb nickel halberd~
+a superb nickel halberd~
+A superb nickel halberd has been left here.~
+nickel~
+weapon 0 AN
+polearm 4 4 chop 0
+43 86 200 G
+#26458
+tempered nickel halberd~
+a tempered nickel halberd~
+A tempered nickel halberd has been left here.~
+nickel~
+weapon 0 AN
+polearm 4 4 chop 0
+43 86 200 G
+#26459
+filthy nickel partisan~
+a filthy nickel partisan~
+A filthy nickel partisan has been left here.~
+nickel~
+weapon 0 AN
+polearm 4 5 thrust 0
+43 86 200 G
+#26460
+light mithril partisan~
+a light mithril partisan~
+A light mithril partisan has been left here.~
+mithril~
+weapon 0 AN
+polearm 4 4 thrust 0
+43 86 200 G
+#26461
+staunch tin partisan~
+a staunch tin partisan~
+A staunch tin partisan has been left here.~
+tin~
+weapon 0 AN
+polearm 4 5 thrust 0
+43 86 200 G
+#26462
+staunch bronze partisan~
+a staunch bronze partisan~
+A staunch bronze partisan has been left here.~
+bronze~
+weapon 0 AN
+polearm 4 4 thrust 0
+43 86 200 G
+#26463
+sterlized bronze partisan~
+a sterlized bronze partisan~
+A sterlized bronze partisan has been left here.~
+bronze~
+weapon 0 AN
+polearm 4 4 thrust 0
+43 86 200 G
+#26464
+tainted steel partisan~
+a tainted steel partisan~
+A tainted steel partisan has been left here.~
+steel~
+weapon 0 AN
+polearm 4 4 thrust 0
+43 86 200 G
+#26465
+tainted aluminum partisan~
+a tainted aluminum partisan~
+A tainted aluminum partisan has been left here.~
+aluminum~
+weapon 0 AN
+polearm 4 4 thrust 0
+43 86 200 G
+#26466
+fragile mithril ranseur~
+a fragile mithril ranseur~
+A fragile mithril ranseur has been left here.~
+mithril~
+weapon 0 AN
+polearm 4 4 stab 0
+43 86 200 G
+#26467
+singed mithril ranseur~
+a singed mithril ranseur~
+A singed mithril ranseur has been left here.~
+mithril~
+weapon 0 AN
+polearm 4 4 stab 0
+43 86 200 G
+#26468
+tarnished steel ranseur~
+a tarnished steel ranseur~
+A tarnished steel ranseur has been left here.~
+steel~
+weapon 0 AN
+polearm 4 5 stab 0
+43 86 200 G
+#26469
+clean nickel quarterstaff~
+a clean nickel quarterstaff~
+A clean nickel quarterstaff has been left here.~
+nickel~
+weapon 0 AN
+polearm 3 5 none 0
+43 86 200 G
+#26470
+tainted brass quarterstaff~
+a tainted brass quarterstaff~
+A tainted brass quarterstaff has been left here.~
+brass~
+weapon 0 AN
+polearm 3 4 none 0
+43 86 200 G
+#26471
+unequaled bronze quarterstaff~
+an unequaled bronze quarterstaff~
+AN unequaled bronze quarterstaff has been left here.~
+bronze~
+weapon 0 AN
+polearm 4 5 none 0
+43 86 200 G
+#26472
+charred brass long sword~
+a charred brass long sword~
+A charred brass long sword has been left here.~
+brass~
+weapon 0 AN
+sword 3 4 slice 0
+43 86 200 G
+#26473
+unsharpened tin long sword~
+an unsharpened tin long sword~
+AN unsharpened tin long sword has been left here.~
+tin~
+weapon 0 AN
+sword 4 4 slice 0
+43 86 200 G
+#26474
+unsharpened mithril long sword~
+an unsharpened mithril long sword~
+AN unsharpened mithril long sword has been left here.~
+mithril~
+weapon 0 AN
+sword 3 4 slice 0
+43 86 200 G
+#26475
+unsharpened adamantite long sword~
+an unsharpened adamantite long sword~
+AN unsharpened adamantite long sword has been left here.~
+adamantite~
+weapon 0 AN
+sword 4 5 slice 0
+43 86 200 G
+#26476
+exquisite mithril short sword~
+an exquisite mithril short sword~
+AN exquisite mithril short sword has been left here.~
+mithril~
+weapon 0 AN
+sword 4 5 slash 0
+50 86 200 G
+#26477
+exquisite adamantite short sword~
+an exquisite adamantite short sword~
+AN exquisite adamantite short sword has been left here.~
+adamantite~
+weapon 0 AN
+sword 4 4 slash 0
+50 86 200 G
+#26478
+fragile nickel short sword~
+a fragile nickel short sword~
+A fragile nickel short sword has been left here.~
+nickel~
+weapon 0 AN
+sword 5 4 slash 0
+50 86 200 G
+#26479
+grimy adamantite short sword~
+a grimy adamantite short sword~
+A grimy adamantite short sword has been left here.~
+adamantite~
+weapon 0 AN
+sword 4 5 slash 0
+50 86 200 G
+#26480
+poisoned aluminum short sword~
+a poisoned aluminum short sword~
+A poisoned aluminum short sword has been left here.~
+aluminum~
+weapon 0 AN
+sword 4 6 slash 0
+50 86 200 G
+#26481
+poisoned adamantite short sword~
+a poisoned adamantite short sword~
+A poisoned adamantite short sword has been left here.~
+adamantite~
+weapon 0 AN
+sword 4 4 slash 0
+50 86 200 G
+#26482
+shiny copper short sword~
+a shiny copper short sword~
+A shiny copper short sword has been left here.~
+copper~
+weapon 0 AN
+sword 4 4 slash 0
+50 86 200 G
+#26483
+slender steel short sword~
+a slender steel short sword~
+A slender steel short sword has been left here.~
+steel~
+weapon 0 AN
+sword 4 6 slash 0
+50 86 200 G
+#26484
+slender nickel short sword~
+a slender nickel short sword~
+A slender nickel short sword has been left here.~
+nickel~
+weapon 0 AN
+sword 4 5 slash 0
+50 86 200 G
+#26485
+slender bronze short sword~
+a slender bronze short sword~
+A slender bronze short sword has been left here.~
+bronze~
+weapon 0 AN
+sword 5 6 slash 0
+50 86 200 G
+#26486
+sturdy aluminum short sword~
+a sturdy aluminum short sword~
+A sturdy aluminum short sword has been left here.~
+aluminum~
+weapon 0 AN
+sword 5 6 slash 0
+50 86 200 G
+#26487
+exact adamantite bill guisarme~
+an exact adamantite bill guisarme~
+AN exact adamantite bill guisarme has been left here.~
+adamantite~
+weapon 0 AN
+polearm 5 5 cleave 0
+50 86 200 G
+#26488
+unrefined mithril bill guisarme~
+an unrefined mithril bill guisarme~
+AN unrefined mithril bill guisarme has been left here.~
+mithril~
+weapon 0 AN
+polearm 4 5 cleave 0
+50 86 200 G
+#26489
+dull brass fauchard~
+a dull brass fauchard~
+A dull brass fauchard has been left here.~
+brass~
+weapon 0 AN
+exotic 5 4 thrust 0
+50 86 200 G
+#26490
+round copper fauchard~
+a round copper fauchard~
+A round copper fauchard has been left here.~
+copper~
+weapon 0 AN
+exotic 4 5 thrust 0
+50 86 200 G
+#26491
+worn brass fauchard~
+a worn brass fauchard~
+A worn brass fauchard has been left here.~
+brass~
+weapon 0 AN
+exotic 4 4 thrust 0
+50 86 200 G
+#26492
+dull titanium fauchard-fork~
+a dull titanium fauchard-fork~
+A dull titanium fauchard-fork has been left here.~
+titanium~
+weapon 0 AN
+exotic 5 5 thrust 0
+50 86 200 G
+#26493
+faultless brass fauchard-fork~
+a faultless brass fauchard-fork~
+A faultless brass fauchard-fork has been left here.~
+brass~
+weapon 0 AN
+exotic 5 5 thrust 0
+50 86 200 G
+#26494
+archaic iron guisarme~
+an archaic iron guisarme~
+AN archaic iron guisarme has been left here.~
+iron~
+weapon 0 AN
+polearm 4 4 chop 0
+50 86 200 G
+#26495
+archaic brass guisarme~
+an archaic brass guisarme~
+AN archaic brass guisarme has been left here.~
+brass~
+weapon 0 AN
+polearm 4 6 chop 0
+50 86 200 G
+#26496
+contorted steel guisarme~
+a contorted steel guisarme~
+A contorted steel guisarme has been left here.~
+steel~
+weapon 0 AN
+polearm 5 5 chop 0
+50 86 200 G
+#26497
+rusty nickel guisarme~
+a rusty nickel guisarme~
+A rusty nickel guisarme has been left here.~
+nickel~
+weapon 0 AN
+polearm 4 4 chop 0
+50 86 200 G
+#26498
+sharp mithril guisarme~
+a sharp mithril guisarme~
+A sharp mithril guisarme has been left here.~
+mithril~
+weapon 0 AN
+polearm 4 4 chop 0
+50 86 200 G
+#26499
+tainted tin guisarme~
+a tainted tin guisarme~
+A tainted tin guisarme has been left here.~
+tin~
+weapon 0 AN
+polearm 4 4 chop 0
+50 86 200 G
+#26500
+unrivaled copper guisarme~
+an unrivaled copper guisarme~
+AN unrivaled copper guisarme has been left here.~
+copper~
+weapon 0 AN
+polearm 4 5 chop 0
+50 86 200 G
+#26501
+unrivaled bronze guisarme~
+an unrivaled bronze guisarme~
+AN unrivaled bronze guisarme has been left here.~
+bronze~
+weapon 0 AN
+polearm 4 5 chop 0
+50 86 200 G
+#26502
+wide nickel guisarme~
+a wide nickel guisarme~
+A wide nickel guisarme has been left here.~
+nickel~
+weapon 0 AN
+polearm 4 5 chop 0
+50 86 200 G
+#26503
+wide aluminum guisarme~
+a wide aluminum guisarme~
+A wide aluminum guisarme has been left here.~
+aluminum~
+weapon 0 AN
+polearm 4 4 chop 0
+50 86 200 G
+#26504
+muddy nickel guisarme-voulge~
+a muddy nickel guisarme-voulge~
+A muddy nickel guisarme-voulge has been left here.~
+nickel~
+weapon 0 AN
+polearm 4 6 chop 0
+50 86 200 G
+#26505
+primitive steel guisarme-voulge~
+a primitive steel guisarme-voulge~
+A primitive steel guisarme-voulge has been left here.~
+steel~
+weapon 0 AN
+polearm 5 5 chop 0
+50 86 200 G
+#26506
+primitive nickel guisarme-voulge~
+a primitive nickel guisarme-voulge~
+A primitive nickel guisarme-voulge has been left here.~
+nickel~
+weapon 0 AN
+polearm 4 5 chop 0
+50 86 200 G
+#26507
+rusty steel guisarme-voulge~
+a rusty steel guisarme-voulge~
+A rusty steel guisarme-voulge has been left here.~
+steel~
+weapon 0 AN
+polearm 4 4 chop 0
+50 86 200 G
+#26508
+rusty bronze guisarme-voulge~
+a rusty bronze guisarme-voulge~
+A rusty bronze guisarme-voulge has been left here.~
+bronze~
+weapon 0 AN
+polearm 5 4 chop 0
+50 86 200 G
+#26509
+short steel guisarme-voulge~
+a short steel guisarme-voulge~
+A short steel guisarme-voulge has been left here.~
+steel~
+weapon 0 AN
+polearm 4 6 chop 0
+50 86 200 G
+#26510
+short iron guisarme-voulge~
+a short iron guisarme-voulge~
+A short iron guisarme-voulge has been left here.~
+iron~
+weapon 0 AN
+polearm 5 6 chop 0
+50 86 200 G
+#26511
+charred steel jo stick~
+a charred steel jo stick~
+A charred steel jo stick has been left here.~
+steel~
+weapon 0 AN
+polearm 4 4 thrust 0
+50 86 200 G
+#26512
+charred tin jo stick~
+a charred tin jo stick~
+A charred tin jo stick has been left here.~
+tin~
+weapon 0 AN
+polearm 4 6 thrust 0
+50 86 200 G
+#26513
+charred bronze jo stick~
+a charred bronze jo stick~
+A charred bronze jo stick has been left here.~
+bronze~
+weapon 0 AN
+polearm 4 4 thrust 0
+50 86 200 G
+#26514
+coarse copper jo stick~
+a coarse copper jo stick~
+A coarse copper jo stick has been left here.~
+copper~
+weapon 0 AN
+polearm 5 4 thrust 0
+50 86 200 G
+#26515
+jagged steel jo stick~
+a jagged steel jo stick~
+A jagged steel jo stick has been left here.~
+steel~
+weapon 0 AN
+polearm 4 5 thrust 0
+50 86 200 G
+#26516
+jagged nickel jo stick~
+a jagged nickel jo stick~
+A jagged nickel jo stick has been left here.~
+nickel~
+weapon 0 AN
+polearm 4 6 thrust 0
+50 86 200 G
+#26517
+jagged aluminum jo stick~
+a jagged aluminum jo stick~
+A jagged aluminum jo stick has been left here.~
+aluminum~
+weapon 0 AN
+polearm 4 4 thrust 0
+50 86 200 G
+#26518
+sturdy tin jo stick~
+a sturdy tin jo stick~
+A sturdy tin jo stick has been left here.~
+tin~
+weapon 0 AN
+polearm 4 5 thrust 0
+50 86 200 G
+#26519
+clean steel heavy lance~
+a clean steel heavy lance~
+A clean steel heavy lance has been left here.~
+steel~
+weapon 0 AN
+exotic 4 6 thrust 0
+50 86 200 G
+#26520
+cracked iron heavy lance~
+a cracked iron heavy lance~
+A cracked iron heavy lance has been left here.~
+iron~
+weapon 0 AN
+exotic 5 5 thrust 0
+50 86 200 G
+#26521
+dull copper heavy lance~
+a dull copper heavy lance~
+A dull copper heavy lance has been left here.~
+copper~
+weapon 0 AN
+exotic 5 5 thrust 0
+50 86 200 G
+#26522
+faulty iron heavy lance~
+a faulty iron heavy lance~
+A faulty iron heavy lance has been left here.~
+iron~
+weapon 0 AN
+exotic 4 4 thrust 0
+50 86 200 G
+#26523
+faulty aluminum heavy lance~
+a faulty aluminum heavy lance~
+A faulty aluminum heavy lance has been left here.~
+aluminum~
+weapon 0 AN
+exotic 5 6 thrust 0
+50 86 200 G
+#26524
+faulty mithril heavy lance~
+a faulty mithril heavy lance~
+A faulty mithril heavy lance has been left here.~
+mithril~
+weapon 0 AN
+exotic 4 5 thrust 0
+50 86 200 G
+#26525
+faulty adamantite heavy lance~
+a faulty adamantite heavy lance~
+A faulty adamantite heavy lance has been left here.~
+adamantite~
+weapon 0 AN
+exotic 4 6 thrust 0
+50 86 200 G
+#26526
+poisoned steel heavy lance~
+a poisoned steel heavy lance~
+A poisoned steel heavy lance has been left here.~
+steel~
+weapon 0 AN
+exotic 4 5 thrust 0
+50 86 200 G
+#26527
+singed adamantite heavy lance~
+a singed adamantite heavy lance~
+A singed adamantite heavy lance has been left here.~
+adamantite~
+weapon 0 AN
+exotic 4 6 thrust 0
+50 86 200 G
+#26528
+unreliable tin heavy lance~
+an unreliable tin heavy lance~
+AN unreliable tin heavy lance has been left here.~
+tin~
+weapon 0 AN
+exotic 5 4 thrust 0
+50 86 200 G
+#26529
+unreliable adamantite heavy lance~
+an unreliable adamantite heavy lance~
+AN unreliable adamantite heavy lance has been left here.~
+adamantite~
+weapon 0 AN
+exotic 4 4 thrust 0
+50 86 200 G
+#26530
+unreliable brass heavy lance~
+an unreliable brass heavy lance~
+AN unreliable brass heavy lance has been left here.~
+brass~
+weapon 0 AN
+exotic 4 6 thrust 0
+50 86 200 G
+#0
+
+
+
+#ROOMS
+#0
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#SPECIALS
+S
+
+
+
+#$
