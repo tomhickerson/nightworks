@@ -2,18 +2,20 @@ package net.sf.nightworks.quests;
 
 import net.sf.nightworks.Nightworks;
 
-public class SimpleGetQuest extends SimpleQuest {
+public class SimpleCollectQuest extends SimpleQuest {
 
-    private int vnumToGet = -1;
+    // private int[] vnumsToGet = new int[];
+
     private int questPoints = 0;
 
-    public SimpleGetQuest(String name) {
+    public SimpleCollectQuest(String name) {
         super(name);
     }
 
-    public SimpleGetQuest(int id, String name) {
+    public SimpleCollectQuest(int id, String name) {
         super(id, name);
     }
+
 
     @Override
     public boolean doesQualify(Nightworks.CHAR_DATA ch) {
@@ -33,21 +35,5 @@ public class SimpleGetQuest extends SimpleQuest {
     @Override
     public Object deliverReward(Nightworks.CHAR_DATA ch) {
         return null;
-    }
-
-    public int getVnumToGet() {
-        return vnumToGet;
-    }
-
-    public void setVnumToGet(int vnumToGet) {
-        this.vnumToGet = vnumToGet;
-    }
-
-    public int getQuestPoints() {
-        return questPoints;
-    }
-
-    public void setQuestPoints(int questPoints) {
-        this.questPoints = questPoints;
     }
 }

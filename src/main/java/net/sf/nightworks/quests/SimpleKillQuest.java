@@ -26,6 +26,11 @@ public class SimpleKillQuest extends SimpleQuest {
     }
 
     @Override
+    public boolean isStandalone() {
+        return false;
+    }
+
+    @Override
     public Object deliverReward(Nightworks.CHAR_DATA ch) {
         ch.pcdata.questpoints += questPoints;
         return ch;
