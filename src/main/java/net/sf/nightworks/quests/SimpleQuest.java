@@ -85,6 +85,8 @@ public abstract class SimpleQuest {
 
     public abstract boolean canRunAgain();
 
+    public abstract boolean isStandalone();
+
     public abstract Object deliverReward(Nightworks.CHAR_DATA ch);
     // to be replaced with a reward class, or the character data class
 }
