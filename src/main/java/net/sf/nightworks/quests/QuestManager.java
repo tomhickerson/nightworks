@@ -1,5 +1,8 @@
 package net.sf.nightworks.quests;
 
+import net.sf.nightworks.quests.plains.PlainQuests;
+
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.HashMap;
 
@@ -15,7 +18,9 @@ public class QuestManager {
      * should either have a list of sequential quests or several unconnected quests.
      */
     public HashMap<Integer, ArrayList<SimpleQuest>> getQuests() {
-
+        ArrayList<SimpleQuest> questArray = new ArrayList<>();
+        questArray.add(PlainQuests.returnDruidQuest());
+        quests.put(VNUM_DRUID_PLAINS, questArray);
         return quests;
     }
 }

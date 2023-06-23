@@ -4,7 +4,6 @@ import net.sf.nightworks.Nightworks;
 
 public abstract class SimpleQuest {
 
-    private int id;
     private String name;
 
     private String description;
@@ -15,6 +14,7 @@ public abstract class SimpleQuest {
     private String alreadyRunMessage;
     private int achievement; // link to an enum to be developed later
     private int duration;
+    private qualify qualifier;
 
     public String getDescription() {
         return description;
@@ -77,11 +77,18 @@ public abstract class SimpleQuest {
     }
 
     public SimpleQuest(int id, String name) {
-        this.id = id;
         this.name = name;
     }
 
-    public abstract boolean doesQualify(Nightworks.CHAR_DATA ch);
+    //public abstract boolean doesQualify(Nightworks.CHAR_DATA ch);
+
+    public interface qualify {
+        boolean doesQualify(Nightworks.CHAR_DATA ch);
+    }
+
+    public void setQualify(qualify q) {
+        this.qualifier = q;
+    }
 
     public abstract boolean canRunAgain();
 

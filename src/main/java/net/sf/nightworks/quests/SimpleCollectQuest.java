@@ -17,10 +17,10 @@ public class SimpleCollectQuest extends SimpleQuest {
     }
 
 
-    @Override
+    /**@Override
     public boolean doesQualify(Nightworks.CHAR_DATA ch) {
         return false;
-    }
+    }*/
 
     @Override
     public boolean canRunAgain() {
