@@ -2010,7 +2010,7 @@ public final class Nightworks {
         int cabal;
         int hometown;
         int ethos;
-        int level;
+        public int level;
         int trust;
         int played;
         int lines;  /* for the pager */
@@ -2173,7 +2173,7 @@ public final class Nightworks {
         int item_type;
         int extra_flags;
         int wear_flags;
-        int level;
+        public int level;
         int condition;
         int count;
         int weight;
@@ -2395,7 +2395,7 @@ public final class Nightworks {
  * Character macros.
  */
 
-    static boolean IS_NPC(CHAR_DATA ch) {
+    public static boolean IS_NPC(CHAR_DATA ch) {
         return IS_SET(ch.act, ACT_IS_NPC);
     }
 
@@ -2439,7 +2439,7 @@ public final class Nightworks {
         return (int) (17 + (ch.played + current_time - ch.logon) / 72000);
     }
 
-    static boolean IS_GOOD(CHAR_DATA ch) {
+    public static boolean IS_GOOD(CHAR_DATA ch) {
         return ch.alignment >= 350;
     }
 

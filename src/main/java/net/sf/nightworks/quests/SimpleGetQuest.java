@@ -15,10 +15,10 @@ public class SimpleGetQuest extends SimpleQuest {
         super(id, name);
     }
 
-    @Override
+    /**@Override
     public boolean doesQualify(Nightworks.CHAR_DATA ch) {
         return false;
-    }
+    }*/
 
     @Override
     public boolean canRunAgain() {
