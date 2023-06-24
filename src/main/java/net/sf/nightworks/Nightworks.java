@@ -3,12 +3,14 @@ package net.sf.nightworks;
 import net.sf.nightworks.enums.PlayerAchievement;
 import net.sf.nightworks.player.Vices;
 import net.sf.nightworks.player.Virtues;
+import net.sf.nightworks.quests.SimpleQuest;
 import net.sf.nightworks.util.Password;
 import net.sf.nightworks.util.TextBuffer;
 import org.jetbrains.annotations.Nullable;
 
 import java.nio.channels.SocketChannel;
 import java.util.ArrayList;
+import java.util.HashMap;
 
 import static net.sf.nightworks.Const.dex_app;
 import static net.sf.nightworks.Const.str_app;
@@ -2612,6 +2614,8 @@ public final class Nightworks {
     * Global constants.
     */
     static final ArrayList<social_type> social_table = new ArrayList<social_type>(MAX_SOCIALS);
+
+    static HashMap<Integer, ArrayList<SimpleQuest>> quest_table = new HashMap<>();
 
     /*
     * Global variables.

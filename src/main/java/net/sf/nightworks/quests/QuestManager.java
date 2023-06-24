@@ -9,7 +9,7 @@ import java.util.HashMap;
 public class QuestManager {
 
     private static final int VNUM_DRUID_PLAINS = 300;
-    HashMap<Integer, ArrayList<SimpleQuest>> quests = new HashMap<>();
+    private static HashMap<Integer, ArrayList<SimpleQuest>> quests = new HashMap<>();
 
     /**
      * Quest Manager returns a hashmap which is run once during server startup
@@ -17,7 +17,7 @@ public class QuestManager {
      * generated in order, if they are sequential and not standalone.  Ideally, a mob
      * should either have a list of sequential quests or several unconnected quests.
      */
-    public HashMap<Integer, ArrayList<SimpleQuest>> getQuests() {
+    public static HashMap<Integer, ArrayList<SimpleQuest>> getQuests() {
         ArrayList<SimpleQuest> questArray = new ArrayList<>();
         questArray.add(PlainQuests.returnDruidQuest());
         quests.put(VNUM_DRUID_PLAINS, questArray);
