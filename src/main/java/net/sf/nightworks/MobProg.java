@@ -2,9 +2,14 @@ package net.sf.nightworks;
 
 import net.sf.nightworks.enums.PlayerAchievement;
 import net.sf.nightworks.enums.PlayerMessage;
+import net.sf.nightworks.quests.SimpleCollectQuest;
+import net.sf.nightworks.quests.SimpleGetQuest;
+import net.sf.nightworks.quests.SimpleQuest;
 import net.sf.nightworks.util.TextBuffer;
 
+import java.lang.reflect.Array;
 import java.lang.reflect.Method;
+import java.util.ArrayList;
 
 import static net.sf.nightworks.ActComm.do_cb;
 import static net.sf.nightworks.ActComm.do_say;
@@ -245,6 +250,23 @@ class MobProg {
         ch.pcdata.achievements.add(PlayerAchievement.TALK_TO_SEWER_GARGOYLE);
     }
 
+    static void greet_prog_generic_questmob(CHAR_DATA mob, CHAR_DATA ch) {
+        if (IS_NPC(ch)) {
+            return;
+        }
+        ArrayList<SimpleQuest> quests = quest_table.get(mob.id);
+        if (quests != null) {
+            for (SimpleQuest q : quests) {
+                if (q.getQualifier(ch)) { // and you haven't taken the quest before?
+                    do_say(mob, q.getPreamble());
+                    return;
+                }
+            }
+        }
+        // what if we are already on a quest for said mob? handle it here
+        // what if we finished the quest by killing or collecting?
+    }
+
     static void greet_prog_shalafi(CHAR_DATA mob, CHAR_DATA ch) {
         if (IS_NPC(ch)) {
             return;
@@ -433,6 +455,24 @@ class MobProg {
         }
     }
 
+    static void speech_prog_generic_questmob(CHAR_DATA mob, CHAR_DATA ch, String speech) {
+        if (IS_NPC(ch)) {
+            return;
+        }
+        ArrayList<SimpleQuest> quests = quest_table.get(mob.id);
+        if (quests != null) { // and the character is not already on a quest?
+            for (SimpleQuest q : quests) {
+                if (q.getQualifier(ch) && !str_cmp(speech, "i accept")) {
+                    // assign the quest to the character
+                    // give the quest a specific accept word?
+                    return;
+                } else {
+                    // say something like 'didnt quite make that out?'
+                }
+            }
+        }
+    }
+
     static void greet_prog_fireflash(CHAR_DATA mob, CHAR_DATA ch) {
 
         if (!can_see(mob, ch) || IS_NPC(ch) || IS_IMMORTAL(ch)) {
@@ -454,6 +494,18 @@ class MobProg {
             do_give(mob, buf.toString());
             do_close(mob, "box");
             do_lock(mob, "box");
+        }
+    }
+
+    static void give_prog_generic_questmob(CHAR_DATA mob, CHAR_DATA ch, OBJ_DATA obj) {
+        ArrayList<SimpleQuest> quests = quest_table.get(mob.id);
+        if (quests != null) {
+            for (SimpleQuest q : quests) {
+                if (q instanceof SimpleGetQuest || q instanceof SimpleCollectQuest) {
+                    // if the character is currently on that quest
+                    // figure out if the quest is done or not
+                }
+            }
         }
     }
 
@@ -848,7 +900,7 @@ class MobProg {
                     bug("Couldn't find a path with -40");
                 } else {
                     if (number_percent() < 25) {
-                        do_yell(ach, " Keep on Diana!.I am coming.");
+                        do_yell(ach, "Keep on Diana!  I am on my way...");
                     } else {
                         do_say(ach, "I must go diana to help.");
                     }
@@ -888,7 +940,7 @@ class MobProg {
                     bug("Couldn't find a path with -40");
                 } else {
                     if (number_percent() < 25) {
-                        do_yell(ach, " Keep on Guard! I am coming.");
+                        do_yell(ach, "Keep on fighting Guard! I am coming.");
                     } else {
                         do_say(ach, "I must go the guard to help.");
                     }

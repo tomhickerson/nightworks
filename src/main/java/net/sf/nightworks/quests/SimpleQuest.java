@@ -90,6 +90,10 @@ public abstract class SimpleQuest {
         this.qualifier = q;
     }
 
+    public boolean getQualifier(Nightworks.CHAR_DATA ch) {
+        return this.qualifier.doesQualify(ch);
+    }
+
     public abstract boolean canRunAgain();
 
     public abstract boolean isStandalone();
