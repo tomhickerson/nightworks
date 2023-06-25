@@ -2584,28 +2584,39 @@ public class DB {
                 return;
             }
         }
-
-        iAreaHalf = (top_area + 1) / 2;
-        pArea1 = area_first;
-        pArea2 = area_first;
-        for (iArea = 0; iArea < iAreaHalf; iArea++) {
-            pArea2 = pArea2.next;
-        }
         StringBuilder bufpage = new StringBuilder(1024);
-        bufpage.append("Current areas of Spellbound MUD: \n");
-        Formatter f = new Formatter(bufpage);
-        for (iArea = 0; iArea < iAreaHalf; iArea++) {
-            String buf1 = formatAreaDetails(ch, pArea1);
-            String buf2 = (pArea2 != null) ? formatAreaDetails(ch, pArea2) : "\n";
-            if (IS_SET(ch.act, PLR_COLOR)) {
-                f.format("%-69s %s\n", buf1, buf2);
-            } else {
-                f.format("%-39s %s\n", buf1, buf2);
+        if (levelsOnly) {
+            AREA_DATA pArea;
+            // put a counter in there to limit the list to 10?  Someday
+            bufpage.append("You are currently in {Y" + ch.in_room.area.name + "{x.  Areas in your level range are:\n");
+            for (pArea = area_first; pArea != null; pArea = pArea.next) {
+                if (ch.level >= pArea.low_range && ch.level <= pArea.high_range) {
+                    bufpage.append(formatAreaDetails(ch, pArea) + "\n");
+                }
             }
-            assert (pArea1 != null);
-            pArea1 = pArea1.next;
-            if (pArea2 != null) {
+        } else {
+            iAreaHalf = (top_area + 1) / 2;
+            pArea1 = area_first;
+            pArea2 = area_first;
+            for (iArea = 0; iArea < iAreaHalf; iArea++) {
                 pArea2 = pArea2.next;
+            }
+
+            bufpage.append("Current areas of Spellbound MUD: \n");
+            Formatter f = new Formatter(bufpage);
+            for (iArea = 0; iArea < iAreaHalf; iArea++) {
+                String buf1 = formatAreaDetails(ch, pArea1);
+                String buf2 = (pArea2 != null) ? formatAreaDetails(ch, pArea2) : "\n";
+                if (IS_SET(ch.act, PLR_COLOR)) {
+                    f.format("%-69s %s\n", buf1, buf2);
+                } else {
+                    f.format("%-39s %s\n", buf1, buf2);
+                }
+                assert (pArea1 != null);
+                pArea1 = pArea1.next;
+                if (pArea2 != null) {
+                    pArea2 = pArea2.next;
+                }
             }
         }
         bufpage.append("\n");
@@ -2614,7 +2625,7 @@ public class DB {
 
     private static String formatAreaDetails(CHAR_DATA ch, AREA_DATA pArea) {
         Formatter f = new Formatter();
-        f.format("{W%2d %3d{x} {b%s {c%s{x", pArea.low_range, pArea.high_range, pArea.writer, pArea.credits);
+        f.format("{W(%2d %3d){x {B%s {C%s{x", pArea.low_range, pArea.high_range, pArea.writer, pArea.credits);
         return f.toString();
     }
 
@@ -2634,6 +2645,7 @@ public class DB {
         f.format("Resets  %5d\n", top_reset);
         f.format("Rooms   %5d\n", top_room);
         f.format("Shops   %5d\n", top_shop);
+        // add quest-table here someday
         send_to_char(f.toString(), ch);
 
     }
