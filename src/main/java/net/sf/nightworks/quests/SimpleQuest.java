@@ -15,6 +15,8 @@ public abstract class SimpleQuest {
     private int achievement; // link to an enum to be developed later
     private int duration;
     private qualify qualifier;
+    private reward reward;
+    private String acceptPhrase = "i accept"; // default
 
     public String getDescription() {
         return description;
@@ -46,6 +48,14 @@ public abstract class SimpleQuest {
 
     public void setAcceptMessage(String acceptMessage) {
         this.acceptMessage = acceptMessage;
+    }
+
+    public String getAcceptPhrase() {
+        return acceptPhrase;
+    }
+
+    public void setAcceptPhrase(String acceptPhrase) {
+        this.acceptPhrase = acceptPhrase;
     }
 
     public String getAlreadyRunMessage() {
@@ -98,6 +108,17 @@ public abstract class SimpleQuest {
 
     public abstract boolean isStandalone();
 
-    public abstract Object deliverReward(Nightworks.CHAR_DATA ch);
+    public interface reward {
+        void deliverReward(Nightworks.CHAR_DATA ch);
+    }
+
+    public void setReward(reward r) {
+        this.reward = r;
+    }
+
+    public reward getReward() {
+        return this.reward;
+    }
+    // public abstract Object deliverReward(Nightworks.CHAR_DATA ch);
     // to be replaced with a reward class, or the character data class
 }

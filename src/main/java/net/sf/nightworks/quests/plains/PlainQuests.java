@@ -1,6 +1,7 @@
 package net.sf.nightworks.quests.plains;
 
 import net.sf.nightworks.Nightworks;
+import net.sf.nightworks.enums.PlayerAchievement;
 import net.sf.nightworks.quests.SimpleGetQuest;
 import net.sf.nightworks.quests.SimpleQuest;
 
@@ -11,21 +12,30 @@ public class PlainQuests {
 
     public static SimpleGetQuest returnDruidQuest() {
         SimpleGetQuest sgq = new SimpleGetQuest(1,"Find the Fennel for the Druid");
-        sgq.setQuestPoints(10);
+        sgq.setQuestPoints(10); // do we need it any more?
         sgq.setVnumToGet(-1); // to be found
         sgq.setPreamble("Dear Adventurer, glad to see you!  Could you help me find some {Yfennel{x \nfor a stew I'm making?  Please say 'I accept' if so...");
         sgq.setDuration(30);
         sgq.setEpilogue("Thank you so much!  I'll really enjoy this stew!");
-        sgq.setAcceptMessage("So excellent!  Please stay on the plains and you should find it somewhere nearby!");
+        sgq.setAcceptMessage("So excellent!  Please stay on the plains and you should find it somewhere \nnearby!");
         // setting how to qualify here
-        sgq.setQualify(qualifies());
+        sgq.setQualify(qualifiesFennel());
+        sgq.setReward(deliverFennel());
+        sgq.setAchievement(PlayerAchievement.FIND_FENNEL_FOR_THE_DRUID.getId());
         return sgq;
     }
     
-    private static SimpleQuest.qualify qualifies() {
+    private static SimpleQuest.qualify qualifiesFennel() {
         return ch -> {
-            // set the quest bit here as well
-            return ch.level > 5 && IS_GOOD(ch) && !IS_NPC(ch);
+            return ch.level > 5 && IS_GOOD(ch) && !IS_NPC(ch) && !ch.pcdata.achievements.contains(PlayerAchievement.FIND_FENNEL_FOR_THE_DRUID);
+        };
+    }
+
+    private static SimpleQuest.reward deliverFennel() {
+        return ch -> {
+            ch.pcdata.questpoints += 10;
+            ch.silver += 10;
+            // maybe add some humility
         };
     }
 }

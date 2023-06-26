@@ -15,11 +15,6 @@ public class SimpleKillQuest extends SimpleQuest {
         super(id, name);
     }
 
-    // @Override
-    // public boolean doesQualify(Nightworks.CHAR_DATA ch) {
-       // return true;
-    //}
-
     @Override
     public boolean canRunAgain() {
         return true;
@@ -28,12 +23,6 @@ public class SimpleKillQuest extends SimpleQuest {
     @Override
     public boolean isStandalone() {
         return false;
-    }
-
-    @Override
-    public Object deliverReward(Nightworks.CHAR_DATA ch) {
-        ch.pcdata.questpoints += questPoints;
-        return ch;
     }
 
     public int getQuestPoints() {
