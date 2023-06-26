@@ -2026,8 +2026,8 @@ public final class Nightworks {
         int max_mana;
         int move;
         int max_move;
-        int gold;
-        int silver;
+        public int gold;
+        public int silver;
         int exp;
         long act;
         int comm;   /* RT added to pad the vector */
@@ -2108,7 +2108,7 @@ public final class Nightworks {
         // String[] achievements = new String[MAX_ACHIEVEMENTS];
         String lineAchievement = "0"; // contains all the achievements in one CSV line,
         // can then use 'contains'? maybe not
-        ArrayList<PlayerAchievement> achievements = new ArrayList();
+        public ArrayList<PlayerAchievement> achievements = new ArrayList<>();
         Virtues virtues = new Virtues();
         Vices vices = new Vices();
         int bank_s;

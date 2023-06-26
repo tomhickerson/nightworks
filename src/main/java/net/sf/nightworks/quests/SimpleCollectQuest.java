@@ -16,12 +16,6 @@ public class SimpleCollectQuest extends SimpleQuest {
         super(id, name);
     }
 
-
-    /**@Override
-    public boolean doesQualify(Nightworks.CHAR_DATA ch) {
-        return false;
-    }*/
-
     @Override
     public boolean canRunAgain() {
         return false;
@@ -30,10 +24,5 @@ public class SimpleCollectQuest extends SimpleQuest {
     @Override
     public boolean isStandalone() {
         return false;
-    }
-
-    @Override
-    public Object deliverReward(Nightworks.CHAR_DATA ch) {
-        return null;
     }
 }

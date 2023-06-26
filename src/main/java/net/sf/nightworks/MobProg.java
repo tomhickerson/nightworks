@@ -462,7 +462,7 @@ class MobProg {
         ArrayList<SimpleQuest> quests = quest_table.get(mob.id);
         if (quests != null) { // and the character is not already on a quest?
             for (SimpleQuest q : quests) {
-                if (q.getQualifier(ch) && !str_cmp(speech, "i accept")) {
+                if (q.getQualifier(ch) && !str_cmp(speech, q.getAcceptPhrase())) {
                     // assign the quest to the character
                     // give the quest a specific accept word?
                     return;
