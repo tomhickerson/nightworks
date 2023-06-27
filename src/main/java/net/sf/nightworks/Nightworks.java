@@ -1823,22 +1823,22 @@ public final class Nightworks {
     /*
     virtues and vices
      */
-    static final int VICE_LUST = 0;
-    static final int VICE_ENVY = 1;
-    static final int VICE_SLOTH = 2;
-    static final int VICE_PRIDE = 3;
-    static final int VICE_AVARICE = 4;
-    static final int VICE_GLUTTONY = 5;
-    static final int VICE_ANGER = 6;
+    public static final int VICE_LUST = 0;
+    public static final int VICE_ENVY = 1;
+    public static final int VICE_SLOTH = 2;
+    public static final int VICE_PRIDE = 3;
+    public static final int VICE_AVARICE = 4;
+    public static final int VICE_GLUTTONY = 5;
+    public static final int VICE_ANGER = 6;
 
-    static final int VIRTUE_FAITH = 0;
-    static final int VIRTUE_HOPE = 1;
-    static final int VIRTUE_COMPASSION = 2;
-    static final int VIRTUE_HUMILITY = 3;
+    public static final int VIRTUE_FAITH = 0;
+    public static final int VIRTUE_HOPE = 1;
+    public static final int VIRTUE_COMPASSION = 2;
+    public static final int VIRTUE_HUMILITY = 3;
     // justice, sacrifice, fortitude
-    static final int VIRTUE_JUSTICE = 4;
-    static final int VIRTUE_SACRIFICE = 5;
-    static final int VIRTUE_FORTITUDE = 6;
+    public static final int VIRTUE_JUSTICE = 4;
+    public static final int VIRTUE_SACRIFICE = 5;
+    public static final int VIRTUE_FORTITUDE = 6;
 
 /*
  * language staff
@@ -2109,7 +2109,7 @@ public final class Nightworks {
         String lineAchievement = "0"; // contains all the achievements in one CSV line,
         // can then use 'contains'? maybe not
         public ArrayList<PlayerAchievement> achievements = new ArrayList<>();
-        Virtues virtues = new Virtues();
+        public Virtues virtues = new Virtues();
         Vices vices = new Vices();
         int bank_s;
         int bank_g;
