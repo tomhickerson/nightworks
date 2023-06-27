@@ -204,7 +204,7 @@ import static net.sf.nightworks.util.TextUtils.str_suffix;
  * The OS-dependent functions are Read_from_descriptor and Write_to_descriptor.
  * -- Furey  26 Jan 1993
  */
-class Comm {
+public class Comm {
     private static final byte[] echo_off_telnet_command = new byte[]{IAC, WILL, TELOPT_ECHO};
     private static final byte[] echo_on_telnet_command = new byte[]{IAC, WONT, TELOPT_ECHO};
     private static final byte[] go_ahead_telnet_command = new byte[]{IAC, GA};
@@ -1908,7 +1908,7 @@ class Comm {
 */
 
 
-    static void send_to_char(CharSequence txt, CHAR_DATA ch) {
+    public static void send_to_char(CharSequence txt, CHAR_DATA ch) {
         if (txt != null && ch.desc != null) {
             write_to_buffer(ch.desc, txt);
         }

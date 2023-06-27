@@ -2,11 +2,12 @@ package net.sf.nightworks.quests.plains;
 
 import net.sf.nightworks.Nightworks;
 import net.sf.nightworks.enums.PlayerAchievement;
+import net.sf.nightworks.enums.PlayerMessage;
 import net.sf.nightworks.quests.SimpleGetQuest;
 import net.sf.nightworks.quests.SimpleQuest;
 
-import static net.sf.nightworks.Nightworks.IS_GOOD;
-import static net.sf.nightworks.Nightworks.IS_NPC;
+import static net.sf.nightworks.Comm.send_to_char;
+import static net.sf.nightworks.Nightworks.*;
 
 public class PlainQuests {
 
@@ -36,6 +37,11 @@ public class PlainQuests {
             ch.pcdata.questpoints += 10;
             ch.silver += 10;
             // maybe add some humility
+            int humility = ch.pcdata.virtues.updateVirtue(VIRTUE_HUMILITY);
+            if (humility > 0) {
+                ch.pcdata.virtues.humility++;
+                send_to_char(PlayerMessage.FEEL_BY_HUMILITY.getMessage(), ch);
+            }
         };
     }
 }

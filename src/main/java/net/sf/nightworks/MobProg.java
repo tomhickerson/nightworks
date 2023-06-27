@@ -4,6 +4,7 @@ import net.sf.nightworks.enums.PlayerAchievement;
 import net.sf.nightworks.enums.PlayerMessage;
 import net.sf.nightworks.quests.SimpleCollectQuest;
 import net.sf.nightworks.quests.SimpleGetQuest;
+import net.sf.nightworks.quests.SimpleKillQuest;
 import net.sf.nightworks.quests.SimpleQuest;
 import net.sf.nightworks.util.TextBuffer;
 
@@ -460,14 +461,28 @@ class MobProg {
             return;
         }
         ArrayList<SimpleQuest> quests = quest_table.get(mob.id);
-        if (quests != null) { // and the character is not already on a quest?
+        if (quests != null && !IS_SET(ch.act, PLR_QUESTOR)) {
             for (SimpleQuest q : quests) {
-                if (q.getQualifier(ch) && !str_cmp(speech, q.getAcceptPhrase())) {
+                if (q.getQualifier(ch) &&
+                        !str_cmp(speech, q.getAcceptPhrase())) {
                     // assign the quest to the character
-                    // give the quest a specific accept word?
+                    do_say(mob, q.getAcceptMessage());
+                    ch.act = SET_BIT(ch.act, PLR_QUESTOR);
+                    ch.pcdata.countdown = q.getDuration();
+                    ch.pcdata.questgiver = mob.id;
+                    if (q instanceof SimpleGetQuest) {
+                        ch.pcdata.questobj = ((SimpleGetQuest) q).getVnumToGet();
+                        // put the object on the map
+                    } else if (q instanceof SimpleKillQuest) {
+                        ch.pcdata.questmob = ((SimpleKillQuest) q).getVnumToKill();
+                        // put the mob on the map
+                    } // set collect multiple objs here, set kill multiples here?
+                    // add an id for the quest itself
                     return;
                 } else {
-                    // say something like 'didnt quite make that out?'
+                    do_say(mob, "Sorry, didn't quite make that out?");
+                    // maybe add several variants of the same prompt
+                    // or switch to the generic chat reaction, eventually
                 }
             }
         }
@@ -902,7 +917,7 @@ class MobProg {
                     if (number_percent() < 25) {
                         do_yell(ach, "Keep on Diana!  I am on my way...");
                     } else {
-                        do_say(ach, "I must go diana to help.");
+                        do_say(ach, "I must go Diana to help.");
                     }
                     move_char(ach, door);
                 }
@@ -918,7 +933,7 @@ class MobProg {
             return;
         }
         TextBuffer buf = new TextBuffer();
-        buf.sprintf("Help guards. %s is fighting with me.", ch.name);
+        buf.sprintf("Help guards! %s is fighting with me.", ch.name);
         do_yell(mob, buf.toString());
         for (ach = char_list; ach != null; ach = ach_next) {
             ach_next = ach.next;
@@ -930,7 +945,7 @@ class MobProg {
                     continue;
                 }
                 if (mob.in_room == ach.in_room) {
-                    buf.sprintf("Now %s , you will pay for attacking a guard.", ch.name);
+                    buf.sprintf("Now %s, you will pay for attacking a guard.", ch.name);
                     do_say(ach, buf.toString());
                     do_murder(ach, ch.name);
                     continue;
@@ -942,7 +957,7 @@ class MobProg {
                     if (number_percent() < 25) {
                         do_yell(ach, "Keep on fighting Guard! I am coming.");
                     } else {
-                        do_say(ach, "I must go the guard to help.");
+                        do_say(ach, "I must go the Guard to help.");
                     }
                     move_char(ach, door);
                 }
