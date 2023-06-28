@@ -476,8 +476,12 @@ class MobProg {
                     } else if (q instanceof SimpleKillQuest) {
                         ch.pcdata.questmob = ((SimpleKillQuest) q).getVnumToKill();
                         // put the mob on the map
-                    } // set collect multiple objs here, set kill multiples here?
-                    // add an id for the quest itself
+                    } else if (q instanceof SimpleCollectQuest) {
+                        ch.pcdata.questobj = ((SimpleCollectQuest) q).getVnumToCollect();
+                        // set the number here
+                    }
+                    // set kill multiples here?
+                    // add an id for the quest itself, get achievement
                     return;
                 } else {
                     do_say(mob, "Sorry, didn't quite make that out?");

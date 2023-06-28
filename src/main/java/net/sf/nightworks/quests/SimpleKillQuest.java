@@ -22,7 +22,7 @@ public class SimpleKillQuest extends SimpleQuest {
 
     @Override
     public boolean isStandalone() {
-        return false;
+        return true;
     }
 
     public int getQuestPoints() {
