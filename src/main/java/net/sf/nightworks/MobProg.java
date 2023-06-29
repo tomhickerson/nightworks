@@ -482,6 +482,7 @@ class MobProg {
                     }
                     // set kill multiples here?
                     // add an id for the quest itself, get achievement
+                    // maybe set the id when the mob greets the player
                     return;
                 } else {
                     do_say(mob, "Sorry, didn't quite make that out?");

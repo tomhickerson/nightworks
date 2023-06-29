@@ -2123,6 +2123,7 @@ public final class Nightworks {
         int countdown;  /* quest */
         int questobj;   /* quest */
         int questmob;       /* quest */
+        public int questid; // achievement id of quest
         Race race;       /* orginal race for polymorph */
         int time_flag;  /* time log problem */
         final int[] log_time = new int[MAX_TIME_LOG]; /* min.s of playing each day */
