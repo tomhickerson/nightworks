@@ -1943,7 +1943,7 @@ class ActWiz {
                                     victim.ethos == ETHOS_CHAOTIC ? "Cha-" : "none-");
             buf2.append(IS_GOOD(victim) ? "Good" : IS_NEUTRAL(victim) ? "Neut" : IS_EVIL(victim) ? "Evil" : "Other");
         }
-        buf.sprintf("It belives the religion of %s.\n",
+        buf.sprintf("They believe the religion of %s.\n",
                 IS_NPC(victim) ? "Chronos" : religion_table[victim.religion].leader);
         send_to_char(buf, ch);
         buf.sprintf(

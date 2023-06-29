@@ -1790,7 +1790,7 @@ class ActInfo {
             buf.append("{B[Exits:");
 
         } else if (IS_IMMORTAL(ch)) {
-            buf.sprintf("{eObvious exits from room %d:{h\n", ch.in_room.vnum);
+            buf.sprintf("{eObvious exits from room %d in area {Y%s{x:{h\n", ch.in_room.vnum, ch.in_room.area.name);
         } else {
             buf.sprintf("{eObvious exits:{h\n");
         }
@@ -1811,7 +1811,11 @@ class ActInfo {
                             : pexit.to_room.name
                     );
                     if (IS_IMMORTAL(ch)) {
-                        buf.sprintf(false, " {W(room %d){x\n", pexit.to_room.vnum);
+                        buf.sprintf(false, " {W(room %d){x", pexit.to_room.vnum);
+                        if (pexit.to_room.area.name != ch.in_room.area.name) {
+                            buf.sprintf(false, " (leads to {Y%s{x)", pexit.to_room.area.name);
+                        }
+                        buf.append("\n");
                     } else {
                         buf.append("\n");
                     }
