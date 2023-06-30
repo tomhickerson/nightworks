@@ -1188,6 +1188,58 @@ grass~
 The tall grass makes a nice hiding place for animals.
 ~
 S
+#6024
+In a webbed clearing~
+You are in a small clearing, surrounded by large, grey oaks covered in 
+dense, sticky webbing.  You hear the chittering of insects far above you 
+in the web-covered branches.  The only exits are to the east and a small 
+hole in the ground, at the base of the largest tree, to the north.
+~
+0 AD 3
+D0
+An entrance to a forgotten crypt.
+~
+~
+0 -1 13400
+D1
+The narrow trail exits the clearing.
+~
+~
+0 -1 6131
+S
+#6025
+Deeper part of the cave~
+You are clambering through a natural cavern, made of solid rock, leading 
+deep underneath the forest floor.  The roots of several trees are visible,
+spreading between the cavern's walls.  The passage burrows deep into the
+earth, and the smell gets more intense.
+~
+0 AD 0
+D2
+You hear a clanking and hissing in this direction.
+~
+~
+0 -1 6026
+D4
+You can climb out of the hole this way.
+~
+~
+0 -1 6143
+S
+#6026
+Grotto of the Green Dragon~ 
+You are in a large, natural cavern, with a domed ceiling, strewn with 
+carrion and remains of many corpses.  The smell hits you in a hot wave,
+making your eyes water for a moment.  Your light source then falls on 
+something that glitters, and something else, that moves...
+~
+0 ADN 0
+D0
+You can leave the grotto this way.
+~
+~
+0 -1 6025
+S
 #6100
 A narrow trail through the deep, dark forest~
 You are on a narrow trail winding its way between the enormous, grey trunks.
@@ -2147,19 +2199,20 @@ S
 #6131
 The spider web~
 You are walking along the narrow path, ducking under the sticky ropes as you
-advance...
->
-A huge, poisonous spider drops from above!
-A huge, poisonous spider drops from above!
-A huge, poisonous spider drops from above!
->
-The huge, poisonous spider stings you!  You resist the poison!
-The huge, poisonous spider stings you!  You are poisoned!
-The huge, poisonous spider stings you!  You are poisoned!
->
-You've fallen, and you can't get up!!!!!
+advance.  Webbing and trees meld together here, only allowing passage into a
+small clearing to the west.
 ~
 0 CD 3
+D1
+A path leading away from the webbing.
+~
+~
+0 -1 6130
+D3 
+A small clearing, surrounded by webs and trees.
+~
+~
+0 -1 6024
 S
 #6132
 Up in the tree~
@@ -2314,10 +2367,6 @@ The dusty trail leads east through the trees.
 ~
 ~
 0 -1 6136
-D2
-~
-~
-0 -1 8838
 E
 tree trees trunk trunks~
 The ancient grey giants seem to observe you silently.
@@ -2351,10 +2400,10 @@ been tearing at them in rage.
 ~
 S
 #6143
-The cave of the Green Dragon~
+The Cave of the Green Dragon~
 You are in a big natural cave.  The floor is littered with bones of all sorts
-and the stench is so massive that you could cut it with a knife.  The only exit
-is to the south.
+and the stench is so massive that you could cut it with a knife.  The safe exit
+is to the south.  There is a hole in the ground the leads deeper into the cave.
 ~
 0 AD 3
 D2
@@ -2362,6 +2411,11 @@ The exit leads out into the forest.
 ~
 ~
 0 -1 6142
+D5
+The hole looks to be deep and dark.
+~
+~
+0 -1 6025
 E
 bone bones floor~
 Most of the bones on the floor appear to be of human origin.
@@ -2453,7 +2507,7 @@ The tree door is carved beautifully.
 door~
 1 -1 6153
 D3
-the bend on the trail.
+The bend on the trail.
 ~
 ~
 1 -1 6151
@@ -2461,21 +2515,16 @@ S
 #6153
 Inside the great tree.~
 You have stepped inside of this hollowed tree.  From here steps lead down into
-darkness or you can exit the tree by going west.
+darkness or you can exit the tree by going through the door to the west.
 ~
 0 AD 3
-D0
-A large Knothole in a tree.
-~
-~
-0 -1 13400
 D3
-the door is carved beautifully.
+The door is carved beautifully.
 ~
 door~
 1 -1 6152
 D5
-The steps look appear like they will hold your weight.
+The steps look like they will hold your weight.
 ~
 ~
 0 -1 6154
@@ -2486,39 +2535,31 @@ This hallway is apparently one of the roots of the tree hollowed out.  The
 hall leads south to a room where you hear strange noises or you can go up
 the steps. ~
 0 AD 3
-D0
-~
-~
-0 -1 14700
 D2
-the hallway looks quite grand.
+The hallway looks quite grand.
 ~
 ~
 1 -1 6155
 D4
-the steps appear like they will hold your weight.
+The steps appear like they will hold your weight.
 ~
 ~
 1 -1 6153
 S
 #6155
 The cultist temple.~
-This temple is built to some god that you don't worship.  It is a nice place
-to visit but you feel very uncomfortable about spending much time here.
+This temple is built to some god that you don't worship.  The walls and 
+timbers are made of a polished wood, and icons and symbols of this god 
+decorate the area.  You feel very uncomfortable about spending much time here.
 The wooden altar seems almost to glow as you enter the room.  The only exit is
 the way you came in.
 ~
 0 AD 3
 D0
-the hallway looks quite grand.
+The hallway looks quite grand.
 ~
 ~
 1 -1 6154
-D2
-Gateway to abyss.
-~
-~
-0 -1 25004
 S
 #6156
 The Hidden Glade~
@@ -2569,7 +2610,7 @@ M 0 6103   4 6112  2	* the large, black wolf
 M 0 6103   4 6112  2	* the large, black wolf
 M 0 6103   4 6118  2	* the large, black wolf
 M 0 6103   4 6118  2	* the large, black wolf
-M 0 6112   1 6143  1	* the huge, green dragon
+M 0 6112   1 6026  1	* the huge, green dragon in a deeper cave
 G 1 6110  -1     	*   a yellow potion
 G 1 6112  10     	*   an iron crown
 G 1 6111  10     	*   a large round shield
