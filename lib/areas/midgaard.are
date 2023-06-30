@@ -7972,6 +7972,7 @@ M 0 3012   6 3072  1    * the healer in the dark temple
 O 0 3135    2 3135  * a fountain before the temple of sun
 O 0 3010    1 3069  * donation pit in the temple of sun
 O 0 3010    1 3072  * donation pit in the temple of dark
+P 0 26000 0 3237 0 * put a weapon into the donation pit 
 S
 
 #SHOPS

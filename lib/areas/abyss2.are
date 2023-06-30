@@ -1071,9 +1071,9 @@ small tablet~
 +               and adapted in rain, cold week, july'96              +
 +    by jaceks and errors has been modified by mandrake              +
 +                                                                    +
-+     PS. prepare to die - it is extremly hard {30 50} area          +
++     PS. prepare to die - it is extremly hard (30 50) area          +
 +                          with aggro mobs                           +
-+                     only armed personnel allowed                    +
++                     only armed personnel allowed                   +
 +                                                                    +
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ~
@@ -1141,7 +1141,7 @@ an overwhelming sense of evil. You dread the thought of what lies ahead.
 D0
 ~
 ~
-0 -1 6155
+0 -1 -1
 D4
 ~
 ~
@@ -1158,9 +1158,9 @@ small tablet~
 +               and adapted in rain, cold week, july'96              +
 +                             by jaceks                              +
 +                                                                    +
-+     PS. prepare to die - it is extremly hard {30 50} area          +
++     PS. prepare to die - it is extremly hard (30 50) area          +
 +                          with aggro mobs                           +
-+                     only armed personnel allowed                    +
++                     only armed personnel allowed                   +
 +                                                                    +
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ~
@@ -1171,7 +1171,7 @@ Here, the feeling of heat starts to engulf your soul. The intensity
 is almost unbearable. The walls around you have a glow of faint red.
 Thoughts of turning back start creeping into your mind. But, you feel
 a strange force pulling you... pulling you deeper and deeper into the
-pits of hell!
+pits of the Abyss!
 ~
 0 ADN 3
 D0
