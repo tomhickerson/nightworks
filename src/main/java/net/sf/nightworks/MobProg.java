@@ -260,12 +260,14 @@ class MobProg {
             for (SimpleQuest q : quests) {
                 if (q.getQualifier(ch)) { // and you haven't taken the quest before?
                     do_say(mob, q.getPreamble());
+                    // set the quest id here, so that we can 'spot' it later when the player accepts
+                    ch.pcdata.questid = q.getAchievement();
                     return;
                 }
             }
         }
         // what if we are already on a quest for said mob? handle it here
-        // what if we finished the quest by killing or collecting?
+        // what if we finished the quest by killing or collecting or following?
     }
 
     static void greet_prog_shalafi(CHAR_DATA mob, CHAR_DATA ch) {
@@ -464,7 +466,8 @@ class MobProg {
         if (quests != null && !IS_SET(ch.act, PLR_QUESTOR)) {
             for (SimpleQuest q : quests) {
                 if (q.getQualifier(ch) &&
-                        !str_cmp(speech, q.getAcceptPhrase())) {
+                        !str_cmp(speech, q.getAcceptPhrase()) &&
+                        q.getAchievement() == ch.pcdata.questid) {
                     // assign the quest to the character
                     do_say(mob, q.getAcceptMessage());
                     ch.act = SET_BIT(ch.act, PLR_QUESTOR);
