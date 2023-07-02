@@ -267,7 +267,7 @@ class MobProg {
             }
         }
         // what if we are already on a quest for said mob? handle it here
-        // what if we finished the quest by killing or collecting?
+        // what if we finished the quest by killing or collecting or following?
     }
 
     static void greet_prog_shalafi(CHAR_DATA mob, CHAR_DATA ch) {
