@@ -251,6 +251,16 @@ class MobProg {
         ch.pcdata.achievements.add(PlayerAchievement.TALK_TO_SEWER_GARGOYLE);
     }
 
+    static void clear_quest(CHAR_DATA ch) {
+        ch.act = REMOVE_BIT(ch.act, PLR_QUESTOR);
+        ch.pcdata.questgiver = 0;
+        ch.pcdata.countdown = 0;
+        ch.pcdata.questmob = 0;
+        ch.pcdata.questobj = 0;
+        ch.pcdata.questid = 0;
+        ch.pcdata.nextquest = 5;
+    }
+
     static void greet_prog_generic_questmob(CHAR_DATA mob, CHAR_DATA ch) {
         if (IS_NPC(ch)) {
             return;
@@ -258,7 +268,18 @@ class MobProg {
         ArrayList<SimpleQuest> quests = quest_table.get(mob.id);
         if (quests != null) {
             for (SimpleQuest q : quests) {
-                if (q.getQualifier(ch)) { // and you haven't taken the quest before?
+                if (IS_SET(ch.act, PLR_QUESTOR) && ch.pcdata.questid == q.getAchievement()) {
+                    // figure out if you have finished said quest
+                    if (q instanceof SimpleKillQuest) {
+                        if (ch.pcdata.questmob == -1) {
+                            do_say(mob, q.getEpilogue());
+                            clear_quest(ch);
+                            q.applyReward(ch);
+                            ch.pcdata.achievements.add(PlayerAchievement.achieveMap.get(q.getAchievement()));
+                        }
+                    }
+                    return;
+                } else if (q.getQualifier(ch)) { // and you haven't taken the quest before? set in qualifier
                     do_say(mob, q.getPreamble());
                     // set the quest id here, so that we can 'spot' it later when the player accepts
                     ch.pcdata.questid = q.getAchievement();

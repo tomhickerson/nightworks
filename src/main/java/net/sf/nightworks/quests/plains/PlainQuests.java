@@ -36,6 +36,7 @@ public class PlainQuests {
         return ch -> {
             ch.pcdata.questpoints += 10;
             ch.silver += 10;
+            send_to_char("You receive {W10{x quest points and {W10{x silver from the Druid.", ch);
             // maybe add some humility
             int humility = ch.pcdata.virtues.updateVirtue(VIRTUE_HUMILITY);
             if (humility > 0) {

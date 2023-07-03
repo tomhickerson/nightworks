@@ -119,6 +119,10 @@ public abstract class SimpleQuest {
     public reward getReward() {
         return this.reward;
     }
+
+    public void applyReward(Nightworks.CHAR_DATA ch) {
+        this.reward.deliverReward(ch);
+    }
     // public abstract Object deliverReward(Nightworks.CHAR_DATA ch);
     // to be replaced with a reward class, or the character data class
 }
