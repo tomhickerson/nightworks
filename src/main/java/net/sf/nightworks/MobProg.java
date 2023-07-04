@@ -272,12 +272,11 @@ class MobProg {
                     // figure out if you have finished said quest
                     if (q instanceof SimpleKillQuest) {
                         if (ch.pcdata.questmob == -1) {
-                            do_say(mob, q.getEpilogue());
-                            clear_quest(ch);
-                            q.applyReward(ch);
-                            ch.pcdata.achievements.add(PlayerAchievement.achieveMap.get(q.getAchievement()));
+                            finish_the_quest(ch, mob, q);
                         }
-                    }
+                    } else if (q instanceof SimpleCollectQuest || q instanceof SimpleGetQuest) {
+                        do_say(mob, "Maybe you have something for me...?");
+                    } // defend quest and hunt quest and follow quest?
                     return;
                 } else if (q.getQualifier(ch)) { // and you haven't taken the quest before? set in qualifier
                     do_say(mob, q.getPreamble());
@@ -317,16 +316,16 @@ class MobProg {
         do_say(mob, "You should never disturb my cabal!");
     }
 
-    static void greet_prog_invader(CHAR_DATA mob, CHAR_DATA ch) {
+    static void greet_prog_cabal_guard(CHAR_DATA mob, CHAR_DATA ch, int cabal, String greeting) {
         if (IS_NPC(ch)) {
             return;
         }
 
-        mob.cabal = CABAL_INVADER;
+        mob.cabal = cabal;
         mob.off_flags = SET_BIT(mob.off_flags, OFF_AREA_ATTACK);
 
-        if (ch.cabal == CABAL_INVADER) {
-            do_say(mob, "Greetings, dark one.");
+        if (ch.cabal == cabal) {
+            do_say(mob, greeting);
             return;
         }
         if (ch.last_death_time != -1 && current_time - ch.last_death_time < 600) {
@@ -343,6 +342,10 @@ class MobProg {
         if (!IS_NPC(ch)) {
             do_say(mob, "You should never disturb my cabal!");
         }
+    }
+
+    static void greet_prog_invader(CHAR_DATA mob, CHAR_DATA ch) {
+        greet_prog_cabal_guard(mob, ch, CABAL_INVADER, "Greetings, Dark one.");
     }
 
     static void greet_prog_ruler_pre(CHAR_DATA mob, CHAR_DATA ch) {
@@ -391,55 +394,11 @@ class MobProg {
     }
 
     static void greet_prog_chaos(CHAR_DATA mob, CHAR_DATA ch) {
-        if (IS_NPC(ch)) {
-            return;
-        }
-
-        mob.cabal = CABAL_CHAOS;
-        mob.off_flags = SET_BIT(mob.off_flags, OFF_AREA_ATTACK);
-
-        if (ch.cabal == CABAL_CHAOS) {
-            do_say(mob, "Greetings, chaotic one.");
-            return;
-        }
-        if (ch.last_death_time != -1 && current_time - ch.last_death_time < 600) {
-            do_say(mob, "Ghosts are not allowed in this place.");
-            do_slay(mob, ch.name);
-            return;
-        }
-
-        if (IS_IMMORTAL(ch)) {
-            return;
-        }
-
-        do_cb(mob, "Intruder! Intruder!");
-        do_say(mob, "You should never disturb my cabal!");
+        greet_prog_cabal_guard(mob, ch, CABAL_CHAOS, "Greetings, Chaotic one.");
     }
 
     static void greet_prog_battle(CHAR_DATA mob, CHAR_DATA ch) {
-        if (IS_NPC(ch)) {
-            return;
-        }
-
-        mob.cabal = CABAL_BATTLE;
-        mob.off_flags = SET_BIT(mob.off_flags, OFF_AREA_ATTACK);
-
-        if (ch.cabal == CABAL_BATTLE) {
-            do_say(mob, "Welcome, great warrior.");
-            return;
-        }
-        if (ch.last_death_time != -1 && current_time - ch.last_death_time < 600) {
-            do_say(mob, "Ghosts are not allowed in this place.");
-            do_slay(mob, ch.name);
-            return;
-        }
-
-        if (IS_IMMORTAL(ch)) {
-            return;
-        }
-
-        do_cb(mob, "Intruder! Intruder!");
-        do_say(mob, "You should never disturb my cabal!");
+        greet_prog_cabal_guard(mob, ch, CABAL_BATTLE, "Welcome, great warrior!");
     }
 
 
@@ -545,12 +504,28 @@ class MobProg {
         ArrayList<SimpleQuest> quests = quest_table.get(mob.id);
         if (quests != null) {
             for (SimpleQuest q : quests) {
-                if (q instanceof SimpleGetQuest || q instanceof SimpleCollectQuest) {
+                if (q instanceof SimpleGetQuest) {
                     // if the character is currently on that quest
+                    if (IS_SET(ch.act, PLR_QUESTOR) && ch.pcdata.questid == q.getAchievement()) {
+                        if (obj.pIndexData.vnum == ch.pcdata.questobj) {
+                            finish_the_quest(ch, mob, q);
+                        } else {
+                            do_say(mob, "I'm not sure what this is?");
+                            do_drop(mob, obj.name);
+                        }
+                        return;
+                    }
                     // figure out if the quest is done or not
-                }
+                } // figure out simple collect quest
             }
         }
+    }
+
+    static void finish_the_quest(CHAR_DATA ch, CHAR_DATA mob, SimpleQuest q) {
+        do_say(mob, q.getEpilogue());
+        clear_quest(ch);
+        q.applyReward(ch);
+        ch.pcdata.achievements.add(PlayerAchievement.achieveMap.get(q.getAchievement()));
     }
 
     static void give_prog_fireflash(CHAR_DATA mob, CHAR_DATA ch, OBJ_DATA obj) {
