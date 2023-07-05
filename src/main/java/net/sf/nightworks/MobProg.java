@@ -291,29 +291,7 @@ class MobProg {
     }
 
     static void greet_prog_shalafi(CHAR_DATA mob, CHAR_DATA ch) {
-        if (IS_NPC(ch)) {
-            return;
-        }
-
-        mob.cabal = CABAL_SHALAFI;
-        mob.off_flags = SET_BIT(mob.off_flags, OFF_AREA_ATTACK);
-
-        if (ch.cabal == CABAL_SHALAFI) {
-            do_say(mob, "Greetings, wise one.");
-            return;
-        }
-        if (ch.last_death_time != -1 && current_time - ch.last_death_time < 600) {
-            do_say(mob, "Ghosts are not allowed in this place.");
-            do_slay(mob, ch.name);
-            return;
-        }
-
-        if (IS_IMMORTAL(ch)) {
-            return;
-        }
-
-        do_cb(mob, "Intruder! Intruder!");
-        do_say(mob, "You should never disturb my cabal!");
+        greet_prog_cabal_guard(mob, ch, CABAL_SHALAFI, "Greetings, wise one.");
     }
 
     static void greet_prog_cabal_guard(CHAR_DATA mob, CHAR_DATA ch, int cabal, String greeting) {
@@ -591,29 +569,7 @@ class MobProg {
     }
 
     static void greet_prog_knight(CHAR_DATA mob, CHAR_DATA ch) {
-        if (IS_NPC(ch)) {
-            return;
-        }
-
-        mob.cabal = CABAL_KNIGHT;
-        mob.off_flags = SET_BIT(mob.off_flags, OFF_AREA_ATTACK);
-
-        if (ch.cabal == CABAL_KNIGHT) {
-            do_say(mob, "Welcome, honorable one.");
-            return;
-        }
-        if (ch.last_death_time != -1 && current_time - ch.last_death_time < 600) {
-            do_say(mob, "Ghosts are not allowed in this place.");
-            do_slay(mob, ch.name);
-            return;
-        }
-
-        if (IS_IMMORTAL(ch)) {
-            return;
-        }
-
-        do_cb(mob, "Intruder! Intruder!");
-        do_say(mob, "You should never disturb my cabal!");
+        greet_prog_cabal_guard(mob, ch, CABAL_KNIGHT, "Welcome, honorable one.");
     }
 
     static void give_prog_dressmaker(CHAR_DATA mob, CHAR_DATA ch, OBJ_DATA obj) {
@@ -752,55 +708,12 @@ class MobProg {
     }
 
     static void greet_prog_lions(CHAR_DATA mob, CHAR_DATA ch) {
-        if (IS_NPC(ch)) {
-            return;
-        }
-
-        mob.cabal = CABAL_LIONS;
-        mob.off_flags = SET_BIT(mob.off_flags, OFF_AREA_ATTACK);
-
-        if (ch.cabal == CABAL_LIONS) {
-            do_say(mob, "Welcome, my Lions.");
-            return;
-        }
-        if (ch.last_death_time != -1 && current_time - ch.last_death_time < 600) {
-            do_say(mob, "Ghosts are not allowed in this place.");
-            do_slay(mob, ch.name);
-            return;
-        }
-
-        if (IS_IMMORTAL(ch)) {
-            return;
-        }
-
-        do_cb(mob, "Intruder! Intruder!");
-        do_say(mob, "You should never disturb my cabal!");
+        greet_prog_cabal_guard(mob, ch, CABAL_LIONS, "Welcome, my Lions.");
     }
 
+    // deprecated?
     static void greet_prog_hunter_old(CHAR_DATA mob, CHAR_DATA ch) {
-        if (IS_NPC(ch)) {
-            return;
-        }
-
-        mob.cabal = CABAL_HUNTER;
-        mob.off_flags = SET_BIT(mob.off_flags, OFF_AREA_ATTACK);
-
-        if (ch.cabal == CABAL_HUNTER) {
-            do_say(mob, "Welcome, my dear hunter.");
-            return;
-        }
-        if (ch.last_death_time != -1 && current_time - ch.last_death_time < 600) {
-            do_say(mob, "Ghosts are not allowed in this place.");
-            do_slay(mob, ch.name);
-            return;
-        }
-
-        if (IS_IMMORTAL(ch)) {
-            return;
-        }
-
-        do_cb(mob, "Intruder! Intruder!");
-        do_say(mob, "You should never disturb my cabal!");
+        greet_prog_cabal_guard(mob, ch, CABAL_HUNTER, "Welcome, my dear hunter.");
     }
 
 
