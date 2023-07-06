@@ -13,8 +13,8 @@ public class PlainQuests {
 
     public static SimpleGetQuest returnDruidQuest() {
         SimpleGetQuest sgq = new SimpleGetQuest(1,"Find the Fennel for the Druid");
-        sgq.setQuestPoints(10); // do we need it any more?
-        sgq.setVnumToGet(-1); // to be found
+        sgq.setQuestPoints(10); // do we need it any more? or do we set it in the reward?
+        sgq.setVnumToGet(313);
         sgq.setPreamble("Dear Adventurer, glad to see you!  Could you help me find some {Yfennel{x \nfor a stew I'm making?  Please say 'I accept' if so...");
         sgq.setDuration(30);
         sgq.setEpilogue("Thank you so much!  I'll really enjoy this stew!");
