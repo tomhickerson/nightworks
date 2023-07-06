@@ -304,6 +304,18 @@ The scroll is titled 'jhyfrdow' and looks very old.
 As you examine it closer you notice primitive drawings of
 men doing some kind of a ritual.
 ~
+#313
+herbs herb fennel~
+a small twig of fennel herbs~
+Some fennel herbs are lying here, with small green leaves.~
+plant_organism~
+food 0 A
+1 1 0 0 0
+0 10 10 P
+E
+herbs herb fennel~
+This fennel smells great; maybe you should try it?
+~
 #0
 
 #ROOMS
@@ -715,7 +727,7 @@ The plains extend far to the east.
 ~
 0 -1 338
 D2
-Some VERY steep slopes prevent you from going this way, it might kill you.
+The plains here turn into a gentle slope.
 ~
 ~
 0 -1 345
@@ -1305,20 +1317,21 @@ You puke.
 S
 #345
 Steep slope~
-You try to climb down the slope.
->
-You slip!
-You fall and tumble.
-You hit your head HARD.
-You die.
-You've fallen, and you can't get up!
+You make your way along a grassy slope, surrounded by the tall green grass
+of the plains.  You hear the grass swishing in a slight breeze from the south.
 ~
 0 C 2
+D0 
+This slope leads onto the plains.
+~
+~
+0 -1 317
 S
 #0
 #RESETS
 O 0  300  10  327	* a small dusk of timian herbs
 O 0  301  10  319	* a small dusk of black gyvel
+O 0  313  10  345   * a small bit of fennel for the quest 
 O 0  304   3  316	* wild flowers
 O 0  304   3  323	* wild flowers
 O 0  304   3  338	* wild flowers
@@ -1344,4 +1357,10 @@ S
 #SPECIALS
 M 350 spec_cast_mage      	* the pet dragon
 S
+
+#OMPROGS
+M 300 greet_prog greet_prog_generic_questmob
+M 300 give_prog give_prog_generic_questmob
+M 300 speech_prog speech_prog_generic_questmob
+S 
 #$
