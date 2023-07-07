@@ -275,7 +275,7 @@ key 0 A
 
 #ROOMS
 #101
-Dimly Lit Path~
+Gravel Path~
 This path is made of crushed granite with curious blue streaks in it.
 The path continues north to a village, or south to the eastern road.
 ~
@@ -295,6 +295,7 @@ S
 Dimly Lit Path~
 This section of the road is badly worn and frequently traversed.  There is
 faint singing to the north.  The path back to the road lies to the south.
+Trees and brush rise on both sides of the path, blocking the sky.
 ~
 0 C 3
 D0
@@ -312,10 +313,11 @@ S
 Dimly Lit Path~
 This section of the road is badly worn and frequently traversed.  Singing is
 getting stronger to the north.  The path back to the road lies to the south.
+The trees reach far above you and block out most of the sky.
 ~
 0 0 3
 D0
-The entrance to smurf village.
+The entrance to a village.
 ~
 ~
 0 -1 104
@@ -326,15 +328,14 @@ The dimly lit path.
 0 -1 102
 S
 #104
-Entrance to Smurf Village~
-You stand at the entrance to a tiny village.  You can see across the whole
-village easily.  Little blue creatures with white hats and boots and little 
-fluffy tails scamper about.  They sing continuously.  The singing is getting
-on your nerves and you have the urge to squash them.
+Entrance to A Village~
+You stand at the entrance to a small village.  You can see across the whole
+village easily.  It looks to be deserted.  You thought you heard singing previously,
+but now it seems eerily silent.
 ~
 0 0 2
 D0
-Smurfy Road
+An old Road
 ~
 ~
 0 -1 105
@@ -345,11 +346,10 @@ Dimly Lit Path
 0 -1 103
 S
 #105
-Smurfy Road~
-You are way too big to be using this road.  But who cares.  Who's gonna stop
-you?  These little blue smurfs?  The singing is growing intense.  Your ears
-are starting to ring.  Smurfy Road continues to the north, west, and east.
-There is still time to turn back and go south.
+An old Road~
+You are on a road through a silent village.  Gray and brown grass sprout up
+between cracks in the paving stones here.  The buildings are of wood and brick,
+and you can see the white paint on them peeling and cracking. 
 ~
 0 0 1
 D0
