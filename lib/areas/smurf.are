@@ -1,7 +1,7 @@
 #AREA
 smurf.are~
-Smurfville~
-{ 1 10} Generic Smurf Village~
+Abandoned Village~
+{ 1 10} Generic Abandoned Village~
 100 199
 #MOBILES
 #101
@@ -349,82 +349,83 @@ S
 An old Road~
 You are on a road through a silent village.  Gray and brown grass sprout up
 between cracks in the paving stones here.  The buildings are of wood and brick,
-and you can see the white paint on them peeling and cracking. 
+and you can see the white paint on them peeling and cracking.  Fine layers of dust
+and cobwabs have collected on the darkened windows.
 ~
 0 0 1
 D0
-Smurfy Road
+An old Road
 ~
 ~
 0 -1 106
 D1
-Smurfy Road
+An old Road
 ~
 ~
 0 -1 110
 D2
-Entrance to smurf village
+Entrance to the village
 ~
 ~
 0 -1 104
 D3
-Smurfy Road
+An old Road
 ~
 ~
 0 -1 111
 S
 #106
-Smurfy Road~
-You continue to travel down Smurfy Road.  Isn't it just smurfy?  Smurfy road
-continues its smurfy path to the smurfy north, smurfy west, and smurfy south.
-A smurfy home lies to the smurfy east.
+An old Road~
+You continue to travel down an old road.  The grey and brown grasses are 
+thick here, bunching in corners where the pavement cracked and shook loose.  
+This road continues its way to the north, west, and south.
+An abandoned home lies to the east.
 ~
 0 0 1
 D0
-Smurfy Road
+An old Road
 ~
 ~
 0 -1 107
 D1
-Smurfy Home
+An empty Home
 ~
 ~
 0 -1 120
 D2
-Smurfy Road
+An old Road
 ~
 ~
 0 -1 105
 D3
-Smurfy Road
+An old Road
 ~
 ~
 0 -1 112
 S
 #107
 Smurfy Road~
-Oh boy, another smurfy road!  Smurfy Road goes north and south here.  There
-is a smurfy, mushroom home to the west.  A beautiful smurfberry patch is to
-the east.
+This old Road goes north and south here.  There is a large, empty home 
+to the west, falling into disrepair.  A garden patch is to the east.
 ~
 0 0 1
 D0
-Smurfy Road
+An old Road
 ~
 ~
 0 -1 108
 D1
-Smurfberry Patch
+The Garden Patch
 ~
 ~
 0 -1 116
 D2
-Smurfy Road
+An old Road
 ~
 ~
 0 -1 106
 D3
-A Smurfy Home
+An empty Home
 ~
 ~
 0 -1 129
