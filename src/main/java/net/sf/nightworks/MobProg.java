@@ -302,7 +302,12 @@ class MobProg {
         mob.cabal = cabal;
         mob.off_flags = SET_BIT(mob.off_flags, OFF_AREA_ATTACK);
 
-        if (ch.cabal == cabal) {
+        if (ch.cabal == CABAL_RULER) {
+            TextBuffer buf = new TextBuffer();
+            buf.sprintf("bow %s", ch.name);
+            interpret(mob, buf.toString(), false);
+            return;
+        } else if (ch.cabal == cabal) {
             do_say(mob, greeting);
             return;
         }
@@ -343,32 +348,7 @@ class MobProg {
     }
 
     static void greet_prog_ruler(CHAR_DATA mob, CHAR_DATA ch) {
-
-        if (IS_NPC(ch)) {
-            return;
-        }
-
-        mob.cabal = CABAL_RULER;
-        mob.off_flags = SET_BIT(mob.off_flags, OFF_AREA_ATTACK);
-
-        if (ch.cabal == CABAL_RULER) {
-            TextBuffer buf = new TextBuffer();
-            buf.sprintf("bow %s", ch.name);
-            interpret(mob, buf.toString(), false);
-            return;
-        }
-        if (ch.last_death_time != -1 && current_time - ch.last_death_time < 600) {
-            do_say(mob, "Ghosts are not allowed in this place.");
-            do_slay(mob, ch.name);
-            return;
-        }
-
-        if (IS_IMMORTAL(ch)) {
-            return;
-        }
-
-        do_cb(mob, "Intruder! Intruder!");
-        do_say(mob, "You should never disturb my cabal!");
+        greet_prog_cabal_guard(mob, ch, CABAL_RULER, "");
     }
 
     static void greet_prog_chaos(CHAR_DATA mob, CHAR_DATA ch) {
