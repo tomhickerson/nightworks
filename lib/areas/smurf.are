@@ -404,7 +404,7 @@ An old Road
 0 -1 112
 S
 #107
-Smurfy Road~
+The old Road~
 This old Road goes north and south here.  There is a large, empty home 
 to the west, falling into disrepair.  A garden patch is to the east.
 ~
@@ -431,24 +431,24 @@ An empty Home
 0 -1 129
 S
 #108
-Smurfy Road~
-Smurfy Road continues to smurf here.  It smurfs to the south and smurfs to
-an end to the north.  A smurfberry patch is to the east.  A stone path lies
-to the west.
+The old Road~
+This old road, nameless, continues onward here.  It goes to the south and to
+an end to the north.  A garden patch is to the east.  A tidy stone path lies
+to the west, lined with wood posts.
 ~
 0 0 1
 D0
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 109
 D1
-Smurfberry patch
+A garden patch
 ~
 ~
 0 -1 117
 D2
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 107
@@ -459,204 +459,207 @@ A stone path
 0 -1 113
 S
 #109
-Smurfy Road~
-A smurfy well lies here in the middle of Smurfy Road.  A fence separates
-the smurfs from harm to the north.  A berry patch is to the east.  Smurfy
+An old Road~
+A well stands here in the middle of this old Road.  A fence made of study
+wood posts stands to the north.  A berry patch is to the east.  The old
 Road continues to to the south and west.
 ~
 0 0 1
 D1
-Smurfberry Patch
+A berry Patch
 ~
 ~
 0 -1 118
 D2
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 108
 D3
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 114
 E
-smurfy well~
-A small well is here.  Just the right size if you're a smurf.  But big
-enough for you to get some water from.  I'm sure the smurfs wont mind.
+well~
+A small well is here.  Just the right size if you're a gnome or dwarf.  But big
+enough for you to get some water from.
 ~
 S
 #110
-Smurfy Road~
-A corner of smurfy road is where you stand.  A smurfy fence blocks passage
-to the east or south.  A smurfy home is to the north.  Smurfy Road goes back
+Corner of the old Road~
+A corner of the old road is where you stand.  Stout wooden fences block passage
+to the east or south.  A small home is to the north.  The old Road leads
 to the west.
 ~
 0 0 1
 D0
-Smurfy Home
+A small Home
 ~
 ~
 0 -1 119
 D3
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 105
 S
 #111
-Smurfy Road~
-Western corner of Smurfy Road.  You can continue to smurf down the road
-to the east and north.  You can also smurf into a smurfy home to the south.
+The old Road~
+This is the western corner of the Road.  You can continue down the road
+to the east and north.  There is an abandoned building to the south, paint
+peeling and covered in dust.
 ~
 0 0 1
 D0
-Smurfy Road
+An old Road
 ~
 ~
 0 -1 112
 D1
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 105
 D2
-Smurfy Home
+Abandoned building
 ~
 ~
 0 -1 121
 S
 #112
-Smurfy Road~
-There's no place like smurf.  There's no place like smurf.  Sorry wrong
-movie.  A smurfy home is to the west.  Papa Smurf's backyard is to the
-north but you can't go there.  Smurfy Road continues to the south and
-east.
+The old Road~
+You're on the old road, in a quiet town.  The silence is slightly unnerving.  
+A small home is to the west, unused and falling into disrepair.  The old Road 
+continues to the south and east.
 ~
 0 0 1
 D1
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 106
 D2
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 111
 D3
-Smurfy Home
+A small Home
 ~
 ~
 0 -1 122
 S
 #113
 Stone Path~
-You are walking along a cute little stone path.  To the south lies Papa
-Smurf's house.  A Smurfy house is to the west.  Smurfy road is to the east.
-Everything is so peaceful here.  You could stay forever.
+You are walking along a little stone path.  To the south is revealed a 
+small house, which looks occupied.  You hear noises and see a light in 
+the window there.  An abandoned house is to the west.  The old road is 
+to the east.  Everything seems very peaceful here.  
 ~
 0 0 1
 D1
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 108
 D2
-Papa Smurf's House
+A Small Occupied House
 ~
 door~
 1 107 125
 D3
-Smurfy House
+An abandoned House
 ~
 ~
 0 -1 123
 S
 #114
-Smurfy Road~
+The old Road~
 Yet another part of Smurfy Road.  Hey if you go west its the last
 section of Smurfy Road.  You can go back to the smurfy well to the east.
 ~
 0 0 1
 D1
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 109
 D3
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 115
 S
 #115
-Smurfy Road~
-The last piece of Smurfy Road.  You can go back to Smurfy Road to the east.
-A nice, beautiful, smurfy, mushroom home is to the south.  In the distance to
-the north you can see Gargamel's Castle.
+The old Road~
+You are at the end of the old road.  You can follow the old road to the east.
+A nice but old home is to the south.  In the distance to the north you can 
+see a grey tower.
 ~
 0 0 1
 D0
-Path to Gargamel's Castle
+Path to the grey tower
 ~
 ~
 0 -1 126
 D1
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 114
 D2
-Smurfy Home
+The Old Home
 ~
 ~
 0 -1 124
 S
 #116
-Smurfberry Patch~
-Delicious smurfberries grow here.  You could probably eat a year's worth of
-smurfberries in one sitting.  Smurfy Road is back to the west.  Another
-smurfberry patch is to the north.
+A Garden Patch~
+Delicious berries grow here.  This garden is very well taken care of, 
+despite the fact that the town has no denizens in it.  The smell of 
+berries is so intoxicating, you could probably eat a year's worth of
+them in one sitting.  The old Road is back to the west.  Another
+garden patch is to the north.
 ~
 0 0 1
 D0
-Smurfberry Patch
+Garden Patch
 ~
 ~
 0 -1 117
 D3
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 107
 S
 #117
-Smurfberry Patch~
-Another patch of smurfberries is growing here.  The smell is driving your
-nostrils crazy.  It almost, ALMOST, makes you forget all the singing going
-on.  Smurfy Road is to the west, while smurfberry patches are to the north
+A Garden Patch~
+You are in a berry garden in the town, which is very well taken care of, 
+even though the town is abandoned.  The silence is still all around you.
+The old Road is to the west, while garden patches are to the north
 and south.
 ~
 0 0 1
 D0
-Smurfberry Patch
+Garden Patch
 ~
 ~
 0 -1 118
 D2
-Smurfberry Patch
+Garden Patch
 ~
 ~
 0 -1 116
 D3
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 108
 S
 #118
-Smurfberry Patch~
+Garden Patch~
 The northernmost of the smurfberry patches grows here.  It looks just
 as scrumptious as all the rest.  Just take a few; they'll never know.  Smurfy
 Road is to the west.  A smurfberry patch is to the south.
