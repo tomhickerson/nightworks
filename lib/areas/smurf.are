@@ -660,18 +660,18 @@ The old Road
 S
 #118
 Garden Patch~
-The northernmost of the smurfberry patches grows here.  It looks just
-as scrumptious as all the rest.  Just take a few; they'll never know.  Smurfy
-Road is to the west.  A smurfberry patch is to the south.
+The northernmost of the berry patches grows here.  It looks just
+as scrumptious as all the rest.  Just take a few; they'll never know.  The old
+Road is to the west.  A garden patch leads to the south.
 ~
 0 0 1
 D2
-Smurfberry Patch
+Garden Patch
 ~
 ~
 0 -1 117
 D3
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 109
@@ -685,7 +685,7 @@ destroy his home?  Smurfy Road is back to the south.
 ~
 0 0 1
 D2
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 110
@@ -698,7 +698,7 @@ back to the west.
 ~
 0 0 1
 D3
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 106
@@ -711,7 +711,7 @@ a little mad at you.  Smurfy Road is back to the north.
 ~
 0 0 1
 D0
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 111
@@ -724,7 +724,7 @@ Smurfy Road to the east.
 ~
 0 0 1
 D1
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 112
@@ -737,7 +737,7 @@ gets mad.  Smurfy Road to the east is your only salvation.
 ~
 0 0 1
 D1
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 113
@@ -750,7 +750,7 @@ your face.  You better get even.  Smurfy Road is to the north.
 ~
 0 0 1
 D0
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 115
@@ -770,48 +770,48 @@ door~
 1 107 113
 S
 #126
-Path to Gargamel's Castle~
-You are walking along a path to Gargamel's Castle to the North.
-Smurfy Road lies to the south.
+Path to Grey Tower~
+You are walking along a path to the Grey Tower to the North.
+The old Road lies to the south.
 ~
 0 0 1
 D0
-Outside Gargamel's Castle
+Outside the Grey Tower
 ~
 ~
 0 -1 127
 D2
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 115
 S
 #127
-Outside Gargamel's Castle~
+Outside the Grey Tower~
 You are standing outside Gargamel's Castle.  You can hear him screaming at
 Azreal from inside.  You can also him cursing out those wretched smurfs.
-His Castle is to the north while Smurfy Road is to the south.
+His Castle is to the north while the old Road is to the south.
 ~
 0 0 1
 D0
-Gargamel's Castle
+Grey Tower
 ~
 door~
 1 109 128
 D2
-Path to Gargamel's Castle
+Path to Grey Tower
 ~
 ~
 0 -1 126
 S
 #128
-Gargamel's Castle~
+Grey Tower~
 This is Gargamel's Castle.  His big black kettle is in the middle of the room.
 Where else would he put it?  The place has only one room.
 ~
 0 0 1
 D2
-Outside Gargamel's Castle
+Outside the Grey Tower
 ~
 door~
 1 109 127
@@ -824,7 +824,7 @@ have little smurfs running around.  The only exit is to the east.
 ~
 0 0 1
 D1
-Smurfy Road
+The old Road
 ~
 ~
 0 -1 107
