@@ -3963,6 +3963,14 @@ leather~
 container 0 A
 50 32 0 5 75
 1 10 9 G
+#3398
+gilded pit~
+the gilded donation pit~
+A pit for sacrifices is in front of the altar, gilded in gold leaf.~
+~
+container O 0
+10000 0 0 1000 100
+0 0 0 P
 
 #0
 
@@ -7970,9 +7978,9 @@ M 0 3012   5 3054  1    * the healer in the center of Midgaard
 M 0 3166   1 3070  1    * Nacya, the Healer
 M 0 3012   6 3072  1    * the healer in the dark temple
 O 0 3135    2 3135  * a fountain before the temple of sun
-O 0 3010    1 3069  * donation pit in the temple of sun
+O 0 3398    1 3069  * special donation pit in the temple of sun
 O 0 3010    1 3072  * donation pit in the temple of dark
-P 0 26000 0 3237 0 * put a weapon into the donation pit 
+P 0 26000 0 3398 0 * put a weapon into the donation pit 
 S
 
 #SHOPS
