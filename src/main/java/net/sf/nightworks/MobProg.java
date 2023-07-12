@@ -71,6 +71,7 @@ class MobProg {
             } else if (!str_cmp(progtype, "greet_prog")) {
                 mobindex.mprogs.greet_prog = create_greet_prog(name);
                 mobindex.progtypes = SET_BIT(mobindex.progtypes, MPROG_GREET);
+                // System.out.println("set greet prog " + mobindex.vnum + " and " + name);
             } else if (!str_cmp(progtype, "fight_prog")) {
                 mobindex.mprogs.fight_prog = create_fight_prog(name);
                 mobindex.progtypes = SET_BIT(mobindex.progtypes, MPROG_FIGHT);
@@ -265,7 +266,7 @@ class MobProg {
         if (IS_NPC(ch)) {
             return;
         }
-        ArrayList<SimpleQuest> quests = quest_table.get(mob.id);
+        ArrayList<SimpleQuest> quests = quest_table.get(mob.pIndexData.vnum);
         if (quests != null) {
             for (SimpleQuest q : quests) {
                 if (IS_SET(ch.act, PLR_QUESTOR) && ch.pcdata.questid == q.getAchievement()) {
@@ -400,7 +401,7 @@ class MobProg {
         if (IS_NPC(ch)) {
             return;
         }
-        ArrayList<SimpleQuest> quests = quest_table.get(mob.id);
+        ArrayList<SimpleQuest> quests = quest_table.get(mob.pIndexData.vnum);
         if (quests != null && !IS_SET(ch.act, PLR_QUESTOR)) {
             for (SimpleQuest q : quests) {
                 if (q.getQualifier(ch) &&
@@ -459,7 +460,7 @@ class MobProg {
     }
 
     static void give_prog_generic_questmob(CHAR_DATA mob, CHAR_DATA ch, OBJ_DATA obj) {
-        ArrayList<SimpleQuest> quests = quest_table.get(mob.id);
+        ArrayList<SimpleQuest> quests = quest_table.get(mob.pIndexData.vnum);
         if (quests != null) {
             for (SimpleQuest q : quests) {
                 if (q instanceof SimpleGetQuest) {

@@ -15,7 +15,7 @@ public class PlainQuests {
         SimpleGetQuest sgq = new SimpleGetQuest(1,"Find the Fennel for the Druid");
         sgq.setQuestPoints(10); // do we need it any more? or do we set it in the reward?
         sgq.setVnumToGet(313);
-        sgq.setPreamble("Dear Adventurer, glad to see you!  Could you help me find some {Yfennel{x \nfor a stew I'm making?  Please say 'I accept' if so...");
+        sgq.setPreamble("{WDear Adventurer, glad to see you!  Could you help me find some {Yfennel{W \nfor a stew I'm making?  Please say '{YI accept{W' if so...{x");
         sgq.setDuration(30);
         sgq.setEpilogue("Thank you so much!  I'll really enjoy this stew!");
         sgq.setAcceptMessage("So excellent!  Please stay on the plains and you should find it somewhere \nnearby!");
@@ -28,7 +28,7 @@ public class PlainQuests {
     
     private static SimpleQuest.qualify qualifiesFennel() {
         return ch -> {
-            return ch.level > 5 && IS_GOOD(ch) && !IS_NPC(ch) && !ch.pcdata.achievements.contains(PlayerAchievement.FIND_FENNEL_FOR_THE_DRUID);
+            return ch.level >= 5 && (IS_GOOD(ch) || IS_NEUTRAL(ch)) && !IS_NPC(ch) && !ch.pcdata.achievements.contains(PlayerAchievement.FIND_FENNEL_FOR_THE_DRUID);
         };
     }
 
@@ -36,7 +36,7 @@ public class PlainQuests {
         return ch -> {
             ch.pcdata.questpoints += 10;
             ch.silver += 10;
-            send_to_char("You receive {W10{x quest points and {W10{x silver from the Druid.", ch);
+            send_to_char("You receive {W10{x quest points and {W10{x silver from the Druid.\n", ch);
             // maybe add some humility
             int humility = ch.pcdata.virtues.updateVirtue(VIRTUE_HUMILITY);
             if (humility > 0) {
