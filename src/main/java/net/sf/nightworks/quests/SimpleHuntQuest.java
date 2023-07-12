@@ -46,11 +46,6 @@ public class SimpleHuntQuest extends SimpleQuest {
     }
 
     @Override
-    public boolean canRunAgain() {
-        return false;
-    }
-
-    @Override
     public boolean isStandalone() {
         return false;
     }
