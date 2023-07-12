@@ -16,11 +16,6 @@ public class SimpleKillQuest extends SimpleQuest {
     }
 
     @Override
-    public boolean canRunAgain() {
-        return true;
-    }
-
-    @Override
     public boolean isStandalone() {
         return true;
     }

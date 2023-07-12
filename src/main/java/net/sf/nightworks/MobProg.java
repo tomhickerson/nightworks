@@ -280,7 +280,11 @@ class MobProg {
                     } // defend quest and hunt quest and follow quest?
                     return;
                 } else if (q.getQualifier(ch)) { // and you haven't taken the quest before? set in qualifier
-                    do_say(mob, q.getPreamble());
+                    if (q.getAdvancedPreamble() == null) {
+                        do_say(mob, q.getPreamble());
+                    } else {
+                        q.showAdvancedPreamble(ch, mob);
+                    }
                     // set the quest id here, so that we can 'spot' it later when the player accepts
                     ch.pcdata.questid = q.getAchievement();
                     return;

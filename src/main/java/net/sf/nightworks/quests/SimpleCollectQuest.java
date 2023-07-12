@@ -30,11 +30,6 @@ public class SimpleCollectQuest extends SimpleQuest {
     }
 
     @Override
-    public boolean canRunAgain() {
-        return false;
-    }
-
-    @Override
     public boolean isStandalone() {
         return false;
     }

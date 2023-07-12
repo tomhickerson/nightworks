@@ -15,6 +15,7 @@ public class PlainQuests {
         SimpleGetQuest sgq = new SimpleGetQuest(1,"Find the Fennel for the Druid");
         sgq.setQuestPoints(10); // do we need it any more? or do we set it in the reward?
         sgq.setVnumToGet(313);
+        sgq.setAdvancedPreamble(null);
         sgq.setPreamble("{WDear Adventurer, glad to see you!  Could you help me find some {Yfennel{W \nfor a stew I'm making?  Please say '{YI accept{W' if so...{x");
         sgq.setDuration(30);
         sgq.setEpilogue("Thank you so much!  I'll really enjoy this stew!");
@@ -27,9 +28,7 @@ public class PlainQuests {
     }
     
     private static SimpleQuest.qualify qualifiesFennel() {
-        return ch -> {
-            return ch.level >= 5 && (IS_GOOD(ch) || IS_NEUTRAL(ch)) && !IS_NPC(ch) && !ch.pcdata.achievements.contains(PlayerAchievement.FIND_FENNEL_FOR_THE_DRUID);
-        };
+        return ch -> ch.level >= 5 && (IS_GOOD(ch) || IS_NEUTRAL(ch)) && !IS_NPC(ch) && !ch.pcdata.achievements.contains(PlayerAchievement.FIND_FENNEL_FOR_THE_DRUID);
     }
 
     private static SimpleQuest.reward deliverFennel() {

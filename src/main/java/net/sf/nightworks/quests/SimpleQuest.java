@@ -15,6 +15,7 @@ public abstract class SimpleQuest {
     private int achievement; // link to an enum to be developed later
     private int duration;
     private qualify qualifier;
+    private advPreamble advancedPreamble;
     private reward reward;
     private String acceptPhrase = "i accept"; // default
 
@@ -90,8 +91,6 @@ public abstract class SimpleQuest {
         this.name = name;
     }
 
-    //public abstract boolean doesQualify(Nightworks.CHAR_DATA ch);
-
     public interface qualify {
         boolean doesQualify(Nightworks.CHAR_DATA ch);
     }
@@ -104,13 +103,21 @@ public abstract class SimpleQuest {
         return this.qualifier.doesQualify(ch);
     }
 
-    public abstract boolean canRunAgain();
-
     public abstract boolean isStandalone();
 
     public interface reward {
         void deliverReward(Nightworks.CHAR_DATA ch);
     }
+
+    public interface advPreamble {
+        void showPreamble(Nightworks.CHAR_DATA ch, Nightworks.CHAR_DATA mob);
+    }
+
+    public void setAdvancedPreamble(advPreamble ap) {
+        this.advancedPreamble = ap;
+    }
+
+    public advPreamble getAdvancedPreamble() { return this.advancedPreamble; }
 
     public void setReward(reward r) {
         this.reward = r;
@@ -122,6 +129,10 @@ public abstract class SimpleQuest {
 
     public void applyReward(Nightworks.CHAR_DATA ch) {
         this.reward.deliverReward(ch);
+    }
+
+    public void showAdvancedPreamble(Nightworks.CHAR_DATA ch, Nightworks.CHAR_DATA mob) {
+        this.advancedPreamble.showPreamble(ch, mob);
     }
     // public abstract Object deliverReward(Nightworks.CHAR_DATA ch);
     // to be replaced with a reward class, or the character data class
