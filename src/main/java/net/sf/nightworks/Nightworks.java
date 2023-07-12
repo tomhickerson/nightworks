@@ -2450,7 +2450,7 @@ public final class Nightworks {
         return ch.alignment <= -350;
     }
 
-    static boolean IS_NEUTRAL(CHAR_DATA ch) {
+    public static boolean IS_NEUTRAL(CHAR_DATA ch) {
         return !IS_GOOD(ch) && !IS_EVIL(ch);
     }
 
