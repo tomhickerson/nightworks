@@ -756,11 +756,11 @@ The old Road
 0 -1 115
 S
 #125
-Papa Smurf's Home~
-It's the home of the leader of the smurfs.  Papa Smurf has a nicely decorated
-home.  He takes pride in his work.  You could get to know him or just squash
-him.  If Papa Smurf is not here he is probably at Smurfette's putting the
-moves on her.  A stone path lies to the north.
+The Inn of the Lonely Golem~
+You are in a small, well-lit tavern room.  Several individuals and a barkeep
+are here, which seem to be the only denizens of this entire village.  There 
+is a status in the middle of the room, and it looks like there are some extra
+booths in the back of the Inn.  A stone path lies thru the exit to the north.
 ~
 0 0 1
 D0
@@ -788,9 +788,9 @@ The old Road
 S
 #127
 Outside the Grey Tower~
-You are standing outside Gargamel's Castle.  You can hear him screaming at
-Azreal from inside.  You can also him cursing out those wretched smurfs.
-His Castle is to the north while the old Road is to the south.
+You are standing outside the Grey Tower.  The oaken door leads into
+the rough, stone edifice, and the windows are all dark and dusty.
+The door is to the north while the old Road is to the south.
 ~
 0 0 1
 D0
@@ -806,8 +806,10 @@ Path to Grey Tower
 S
 #128
 Grey Tower~
-This is Gargamel's Castle.  His big black kettle is in the middle of the room.
-Where else would he put it?  The place has only one room.
+You are inside the Grey Tower.  There is only one room here, it looks 
+like all the internal walls and floors were removed and cleaned out
+long ago.  The place is dusty but otherwise very well kept and 
+everything is very neatly laid out.
 ~
 0 0 1
 D2
