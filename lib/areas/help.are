@@ -619,7 +619,7 @@ With arguments, WHO can show players of certain classes or levels.
 For example:
  
 who immortal    lists all immortals playing
-who pk		lists all characters in your PK range
+who pk			lists all characters in your PK range
 who elf         lists all elven clerics
 who entropy pk  lists all characters in entropy cabal, (if you are a mamber) 
 		which are in your PK range
@@ -2804,14 +2804,14 @@ believe that their cabal is superior.
 
 The following cabals have made their way into this world:
 
-           "Ruler"	       The Rulers of Anatolia
+           "Ruler"	           The Rulers of Anatolia
            "Chaos"             The Barons of Chaos
            "Knight"            The Knights of Anatolia
-           "Invader"           ? (No talent is heard about)
+           "Invader"           ? (very little is known about them)
            "Shalafi"           The Masters of Arcane Arts
            "Battlerager"       The Masters of Martial Arts
-	   "Hunter"	       Mercanary of Anatolia
-	   "Lions"	       The leaders of Forests
+		   "Hunter"	           Mercenaries of Anatolia
+	       "Lions"	           The Leaders of the Forests
 
 	Cabals have special hideouts, each with a special item that gives
 members special powers.  Cabals whose special item is in another cabal's shrine
@@ -2819,10 +2819,11 @@ lose their special powers!
 
 	Joining a cabal is meant to be a lifelong occupation. Those that quit
 or are kicked out of a cabal are given a punishment for their leaving. Cabal
-hopping is highly disappoved of.
+hopping is highly disapproved.
 
 	For more info on individual cabals or joining one, ask a cabal member
-or post a note to that cabal.
+or post a note to that cabal.  Also, there may be a QUEST that allows you
+to join, coming soon.
 
 e.g.:	note to <cabal name>  { cabal which you want to join }
 	note subject ????
@@ -3549,10 +3550,18 @@ Affects strength by 2.
 ~
 
 -1 QUESTS~
-	There are currently n quests in Anatolia MUD.
+	There are currently two types of quests in Anatolia MUD.  The first type is issued from 
+	specific MOBs:
+	
 	* Questor quest    : For more info type 'help 'questor quest''
-	* Kassandra quest  : Read some fascicles of books.. :)
-	* ....
+	* Kassandra quest  : Read some books, and you will find out more ... ;)
+	
+	The second type are also assigned to specific mobs, but you must qualify for them through
+	your level, alignment, virtues or vices, etc.  Once you are ready and in the same room as
+	that mob questgiver, they will let you know.
+	
+	For example, if you are level 5 and above and good or neutral align, you can seek out the Druid
+	in the Plains for a very easy quest.
 ~
 -1 'QUESTOR QUEST'~
 	quest points   : shows quest points
@@ -3650,22 +3659,22 @@ Syntax : say <god_name>
      Leader		  Ethos	
 ----------------------------------------------
     "Atum-Ra",		"Lawful Good"
-    "Zeus",		"Neutral Good"
+    "Zeus",			"Neutral Good"
     "Siebele", 		"True Neutral"
     "Shamash",		"God of Justice"
     "Ahuramazda",	"Chaotic Good"
     "Ehrumen",		"Chaotic Evil"
     "Deimos", 		"Lawful Evil"
     "Phobos", 		"Neutral Evil"
-    "Odin",		"Lawful Neutral"
+    "Odin",			"Lawful Neutral"
     "Teshub",	 	"Chaotic Neutral"
-    "Ares",	 	"God of War"
+    "Ares",	 		"God of War"
     "Goktengri", 	"God of Honor"
     "Hera", 		"God of Hate"
     "Venus", 		"God of Beauty"
-    "Seth",	 	"God of Anger"
-    "Enki",	 	"God of Knowledge"
-    "Eros",	 	"God of Love"
+    "Seth",	 		"God of Anger"
+    "Enki",	 		"God of Knowledge"
+    "Eros",	 		"God of Love"
 
 	For more information about the tattoos  
 Syntax : help 'atum-ra'
@@ -3679,7 +3688,7 @@ to the others, but their probabities is much lower.
 0 'ATUM-RA' RA~
 .
 	To enemy  : Holy word
-        To you    : Cure serious  
+    To you    : Cure serious  
 ~
 0 ZEUS~
 .
@@ -3758,9 +3767,9 @@ to the others, but their probabities is much lower.
 ~
 0 ENKI~
 .
-	To victim : Lightning Bolt.... if victim neutral
-	To victim : Dispel Evil........if victim evil
-	To victim : Dispel Good........if victim good
+	To victim : Lightning Bolt.... if victim is neutral
+	To victim : Dispel Evil........if victim is evil
+	To victim : Dispel Good........if victim is good
 	To you    : Cure Critical
 ~
 0 EROS~
