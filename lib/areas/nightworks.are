@@ -106,6 +106,8 @@ Porting Anatolia code to Java --
 June of 1997, ANATOLIA II was started, eventually replacing the original
 ANATOLIA.
 
+You can see the code changes by typing HELP ROM2ANATOLIA and going from there.
+
 The following people contributed to the ANATOLIA flavor of the ROM base
 code:
 
@@ -250,10 +252,10 @@ strip        stroke      strut        sulk          swoon       tackle
 tease        thank       threaten     tickle        tip         tongue
 twiddle      type        undress      view          wave        whine
 whistle      wiggle      wince        wink          wonder      worry
-worship      yawn        yeehaw       yodel         rose    laces
-tank         starve  aargh        homework      puff    differ
-yae      lightbulb   voodoo       ogg       confused    beam
-bite         discodance  scuff        whap      lag     chortle
+worship      yawn        yeehaw       yodel         rose    	laces
+tank         starve  	 aargh        homework      puff    	differ
+yae      	 lightbulb   voodoo       ogg       	confused    beam
+bite         discodance  scuff        whap      	lag     	chortle
 zerbert      twitch
  
 ~
@@ -383,16 +385,17 @@ Based on:
 By which name do you wish to be known? ~ 
 
 -1 MOTD~ 
-* This is a light-Roleplaying, PlayerKilling and Adventure MUD.
+* This is an Exploration, light-Roleplaying, light-PlayerKilling and Adventure MUD.
 * You are responsible for knowing the rules (type 'rules').  Ignorance of 
   the rules is no excuse.
 * Important commands: help, commands, news, notes.
 * Read all helps, as this MUD is in active development, and things can change.
-* Read helps of WHATSNEW(ROM2ANATOLIA), FROM20TO21, FROM21TO22, FROM22TO30,
-  FROM30TO31 and ALIGNORCABAL.
+* Read helps of the code bases this is based on: NIGHTWORKS, ANATOLIA, MERC,
+ROM, DIKU, and of course SPELLBOUND.
+* Read more about the Cabals: CABAL, ALIGNORCABAL, and also the VIRTUES and VICES.
 
 
-                    Last modified: April 2023
+                    Last modified: July 13th, 2023
 [Hit Return to continue]
 ~ 
  
