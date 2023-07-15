@@ -5321,7 +5321,7 @@ dim glow of the orbs makes you squint to see shapes that are beyond your
 light source.  A dangerous city indeed, made even more so be the fact that
 you CAN'T RECALL...
 
-To the north is The Floating Eye (an inn).  Slaver's does east and west.
+To the north is The Floating Eye (an inn).  Slaver's goes east and west.
 ~
 0 1|8|8192 1
 D0
@@ -5338,7 +5338,7 @@ D3
 Slaver's route
 ~
 ~
-0 -1 16067
+0 -1 16084
 D4
 Somewhere
 ~
@@ -5360,7 +5360,7 @@ then most of the city.  The shadow's seem less ominous here.  A couple
 orbs seem to have stopped functioning here. 
 South is the entrance to the Guardian Eye's headquarters and the prisons.
 
-Slaver's route continues east and west
+Slaver's route continues east and west.
 ~
 0 1|8 1
 D1
@@ -5391,7 +5391,7 @@ worn down by the feet of the enslaved and imprisoned.  To the west you
 can hear a slave master shouting at his slaves.  Small glowing orbs light
 the way for you.
 
-The slaver's route continues east and west
+The slaver's route continues east and west.
 ~
 0 1|8|8192 1
 D1
@@ -5414,7 +5414,7 @@ your stomach to turn.
 Squinting in the dim light, you think you see a huddled form lying off 
 to the side of the road.
 
-The slaver's route continues east and west
+The slaver's route continues east and west.
 ~
 0 1|8|8192 1
 D1
@@ -5527,7 +5527,7 @@ clear but the dimness makes it impossible to see farther than 10 feet, thus
 making it perfect for meetings of a discrete manner.  It seems as if some
 orbs have stopped working.
 
-North is the Slaver's Route, the meeting place continues east and south 
+North is the Slaver's Route, the meeting place continues east and south.
 ~
 0 1|8 1
 D0
@@ -5555,7 +5555,7 @@ muffled and distorted making it impossible to understand them.  Dark
 forms wander at the edge of your vision, you can't tell if it your
 imagination or reality.
 
-North is the Slaver's route, west and south the gathering place lies
+North is the Slaver's route, west and south lies the gathering place.
 ~
 0 1|8|8192 1
 D0
@@ -5581,7 +5581,7 @@ the air seems to be distorted, sounds that should be close sound far away.
 Shapes have no tangible form.  Some mage spent a lot of time setting up
 this area for discrete meetings.
 
-North and east the place goes on.  South is the street of the gods 
+North and east the place goes on.  South is the street of the Gods. 
 ~
 0 1|8|8192 1
 D0
@@ -5614,7 +5614,7 @@ darkside" you feel empty and drained.  No life stirs within, a chill
 threatens to overcome your entire being.
 
 The gathering place continues north and west.  To the south lies the street
-of the Gods
+of the Gods.
 ~
 0 1|8|8192 1
 D0
@@ -5647,7 +5647,7 @@ in this square.  Stocks to hold the bad slaves, a guillotine to kill the slaves
 that stand up for their rights.  The slaves are reduced to animals in this
 square.
 
-To the north is the Slaver's route, east and south lies the square 
+To the north is the Slaver's route, east and south lies the square. 
 ~
 0 1|8|8192 1
 D0
@@ -5685,7 +5685,7 @@ thing the slaves have, and it is used for their maiming, sentencing and
 execution.  The ground is clean, with dark brown spots here and there. 
 The dark brown stains are stains of blood.
 
-North is the slaver's route, west and south lies the slave's square 
+North is the slaver's route, west and south lies the slave's square. 
 ~
 0 1|8|8192 1
 D0
@@ -5884,7 +5884,7 @@ huge guardian eyes float through the city preventing open fights.  Glowing
 orbs float in the air, casting their dim glow on all around.  Illuminating
 basically nothing but giving some light. 
 
-Sunrise goes east and south
+Sunrise goes east and south.
 ~
 0 1|8|8192 1
 D1
@@ -5906,7 +5906,7 @@ on the surface dwellers, causing them, hopefully, to ache for the sun.  The
 smell of sweat has begun to recede, soon you probably won't be able to
 smell it at all.
 
-Sunrise continues east and south
+Sunrise continues east and south.
 ~
 0 1|8|8192 1
 D1
@@ -5928,7 +5928,7 @@ their lives.  You wonder if the voices you hear are from the past, the
 present or the future.  Some mages in this city have twisted tastes and have
 cast spells to allow you to hear the past, the present and the future.
 
-Sunrise goes north and south, a door to the prisons is west 
+Sunrise goes north and south, a door to the prisons is west. 
 ~
 0 1|8|8192 1
 D0
@@ -5962,7 +5962,7 @@ street, this part has been dedicated to a god, Silence.  As soon as you
 realise this, you understand why this section of the city is so quiet. A statue
 of a githzerai seems to be kneeling to a statue of Silence.
 
-To the North lies an entrance to a house, east the street goes onwards 
+To the North lies an entrance to a house, east the street goes onwards. 
 ~
 0 1|8|8192 1
 D0
@@ -6007,7 +6007,7 @@ You are standing along the street of the Gods.  This section has been
 devoted to Snikt.  The lighting here is clear, and very different from the
 rest of the city.  To the side of the street stands a statue of a weird alien.
 
-The street continues east and west, to the north is a door to a home 
+The street continues east and west, to the north is a door to a home. 
 ~
 0 1|8 1
 D0
@@ -8693,7 +8693,7 @@ The walls that should be smooth, have scratches all over them even
 sections of the ceiling are missing.  An incredible force has passed through
 this section of the tunnel.
 
-The tunnel continues east and west
+The tunnel continues east and west.
 ~
 0 1|8 1
 D1
@@ -8710,16 +8710,15 @@ S
 #16222
 The Hidden Way~
 You stand at the end of the tunnel.  To the east is a smooth wall with
-markings.  The tunnel has been well built, in fact very well built.  There
+{Wmarkings{x.  The tunnel has been well built, in fact very well built.  There
 are no scratches in the walls, floor or ceiling.  The air is dry and cool. 
 
-The tunnel plunges into darkness to the west
+The tunnel plunges into darkness to the west.
 ~
 0 1|8 1
 D1
 ~
 door~
-
 1 -1 16199
 D3
 The tunnel heads into pure darkness
@@ -8750,7 +8749,7 @@ D4
 The sewers of Midgaard
 ~
 ~
-0 -1 7399
+0 -1 7405
 D5
 The corridor descends
 ~
