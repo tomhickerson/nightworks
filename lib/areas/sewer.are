@@ -3922,7 +3922,8 @@ There is dust all over the place. It looks like nobody
 has been here for ages. In the middle of the room you see
 a socket with a crystal globe. The globe glows with a
 pulsing light. To the north you see a stone door. To the
-south you see a grey block.
+south you see a grey block.  There is a stairway in the 
+center of the room leading down.
 ~
 0 D 1
 D0
@@ -3935,6 +3936,11 @@ You see a grey block.
 ~
 grey block~
 1 -1 7406
+D5
+You see a stairway leading down into darkness.
+~
+~
+0 -1 16223
 E
 crystal globe~
 The crystal globe is glowing with a pulsing light. It
