@@ -4265,6 +4265,30 @@ brass~
 weapon 0 AN
 exotic 4 6 thrust 0
 50 86 200 G
+#26531
+pit~
+the donation pit~
+A pit for donations is in this room.~
+~
+container O 0
+10000 0 0 1000 100
+0 0 0 P
+E
+pit~
+This is where you put money and items to help fellow Warriors in Midgaard, or take an item to help yourself. 
+~
+#26532
+pit~
+the donation pit~
+A pit for donations is in this room.~
+~
+container O 0
+10000 0 0 1000 100
+0 0 0 P
+E
+pit~
+This is where you put items to help fellow Clerics in Midgaard, or take an item to help yourself.
+~
 #0
 
 
