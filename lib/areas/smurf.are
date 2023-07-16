@@ -730,10 +730,10 @@ The old Road
 0 -1 112
 S
 #123
-Grumpy Smurf's Home~
-This is Grumpy Smurf's home.  He is pissed at you.  Of course, he is pissed
-at everyone.  So don't take it bad.  Maybe you'd better leave before he really
-gets mad.  Smurfy Road to the east is your only salvation.
+A dark Home~
+This is a small abandoned home, with the windows boarded up, preventing light 
+from coming in.  The floors are dusty and the wallpaper is coming down on one 
+side.  The old Road to the east is your only exit.
 ~
 0 0 1
 D1
@@ -743,10 +743,11 @@ The old Road
 0 -1 113
 S
 #124
-Jokey Smurf's Home~
-You pull the top of his house and it explodes in your face.  That Jokey
-Smurf, what a kidder.  You can hear his laughter as you wipe the ashes off
-your face.  You better get even.  Smurfy Road is to the north.
+A small Home~
+You are in a small house that has been left abandoned for a while.  The low ceiling
+is cracked and peeling in places, and the plaster flakes lay about on the stone floors,
+undisturbed.  The furniture is covered in sheets and the door is stuck ajar.  The old 
+Road is to the north.
 ~
 0 0 1
 D0
