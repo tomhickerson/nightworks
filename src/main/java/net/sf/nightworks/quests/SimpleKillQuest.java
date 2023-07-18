@@ -1,7 +1,9 @@
 package net.sf.nightworks.quests;
 
-import net.sf.nightworks.Nightworks;
-
+/**
+ * SimpleKillQuest, where we kill an already existing single mob
+ * and then return to the quest keeper
+ */
 public class SimpleKillQuest extends SimpleQuest {
 
     private int vnumToKill = -1;

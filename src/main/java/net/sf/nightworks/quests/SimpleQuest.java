@@ -134,6 +134,7 @@ public abstract class SimpleQuest {
     public void showAdvancedPreamble(Nightworks.CHAR_DATA ch, Nightworks.CHAR_DATA mob) {
         this.advancedPreamble.showPreamble(ch, mob);
     }
-    // public abstract Object deliverReward(Nightworks.CHAR_DATA ch);
-    // to be replaced with a reward class, or the character data class
+
+    // add abstract methods for adding quests to players, removing quests from players
+    // collect may have extra variables, for example
 }
