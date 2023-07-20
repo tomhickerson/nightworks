@@ -2612,28 +2612,30 @@ be set once. So don't ask an immortal to change your ethos!
 ~
 0 'NEWBIE INFO' NEWBIE~
 .
-	Ah! Another mortal, seeking adventure. You should go through mudschool 
-first, to gain experience to face the trials outside.  Be sure to practice 
-a weapon in the guild room, or your stay with us shall be very short indeed.
+	Ah! Another mortal, seeking adventure. Welcome to the Realm of Anatolia!
+	You should go through mudschool first, to gain experience to face the 
+trials that await you outside.  Be sure to practice a weapon in the guild 
+room, or your stay with us shall be very short indeed.
 
 	Type 'equipment' to see what your are wielding, 'spells' to see your 
 spells, 'skills' to see your skills, and 'commands' for a list of commands. 
-Help is available on most commands and abilities. It is strongly recommended
+{YHelp{x is available on most commands and abilities. It is strongly recommended
 that you  go through all the helps at a low level, especially if you are 
 playing this game for the first time.
 	
-	Please type "help general" to learn more about mud.
+	Please type "help general" to learn more about this MUD.
 ~
 
 0 GENERAL~
 .
 
-	This is a player killing role playing environment. Once you passed 
-level 5 you will be in the PK range of some other players. Please read the
-the help of PLAYERKILLING. You will be given 14 hours played time as a bonus. 
-Some items are limited so please read the help of LIMITED. 
+	This is a player-exploring, role playing environment. While the immortals 
+do not encourage killing your fellow players, it is not prohibited.  Once you 
+have passed level 5 you will be in the Player-Killer (PK) range of some other 
+players. Please read the help for PLAYERKILLING. You will be given 14 hours 
+played time as a bonus. Some items are limited so please read the help of LIMITED. 
 
-	In this realms, you can speak only the languages that your race offers
+	In this realm, you can speak only the languages that your race offers
 and the common language of the realms. help SPEAK for more information. Instead
 of practicing at your guildmaster, you may learn new skills from HEROs. Read
 help of LEARN and TEACH. If you are able to fly, then you can land, as well.
@@ -2656,23 +2658,23 @@ up. So during remort if you somehow being disconnected from the mud, just
 enter a new character with the same name and send a note to the immortals
 regarding your situation. If you remort you will gain:
 
-	* all of the gold and silver you have will be saved. (alson in bank)
+	* all of the gold and silver you have will be saved. (also in bank)
 	* your questpoints will be saved
 	* you will be able to wear 2 more rings
-	* you will have additional 10 trains.
+	* you will have an additional 10 trains.
 
 ~
 
 0 SPEAK LANGUAGE~
 .
-	In Anatolia Realms you can speak either your own racial language or
+	In Anatolia, you can speak either your own racial language or
 the common language. To change the speaking language, type:
 
 	speak common		to speak common language
 	speak mothertongue	to speak your racial language
 
 	The racial languages can be understood only by the players that have
-the race as you.
+the same race as you.
 
 ~
 
@@ -2694,7 +2696,7 @@ Syntax: HERBS <victim> or HERBS
         BUTCHER <corpse>
         BEAR CALL
         BARKSKIN
-	CAMP
+		CAMP
         cast 'ranger staff'
 
 	Quiet movement is an automatic skill that, if successful, will not
@@ -2721,14 +2723,14 @@ damroll & hitroll.
 0 HARA 'HARA KIRI'~
 
    A Samurai kills himself, in other words set him/her self hitpoint, mana
-and movement 1 . Then gains them very quickly.
+and movement 1. Then gains them back very quickly.
 
 ~
 
 0 MOUSE~
 	
-   A vampire can flee a fight , or can live a place by dividing himself into
-too many mouses. At this moment you must kill all mouses to kill the vampire.
+   A vampire can flee a fight, or can leave a place by dividing himself into
+too many mice. At this moment you must kill all the mice to kill the vampire.
 
 ~
 
@@ -2736,28 +2738,28 @@ too many mouses. At this moment you must kill all mouses to kill the vampire.
 Syntax: bite <victim>
 
    A vampire bites a sleeping victim and gains victim's hitpoint to itself.
-But then fight starts.
+This, of course, also starts combat.
 
 ~
 
 0 'RESISTANCE LIGHT' 'LIGHT RESISTANCE'~
 
-    A vampire get damages from light. But a high level vampire can teach 
-itself how to resist light.
+    A vampire recieves damage from natural light. But a high level vampire can teach 
+themselves how to resist light.
 
 ~
 0 'ENCHANT SWORD'~
 Syntax: enchant <sword name>
 
-    A powerful Samurai can beat up the swords and makes its damroll &
+    A powerful Samurai can enchant their sword and make its damroll &
 hitroll higher.
 ~
 
 0 SCREAM~
 Syntax: cast scream
 
-    A powerful magician , when screams, can disturb all the mobiles and all
-glass and ice made objects.The objects gets broken and mobiles can't do
+    A powerful magician, when casting scream, can disturb all the mobiles and all
+glass and ice made objects. The objects gets broken and mobiles can't do
 anything. Then the FIGHT STOPS for a moment, that magician can escape.
 ~
 
@@ -2777,16 +2779,16 @@ or characters.
 0 'SECOND WEAPON'~
 Syntax: second <weapon>
 
-    A samurai can use second weapon. It at each turn attacks one time, and
-give damage to samura's fighting. But while using second weapon you cannot
-hold an item and wear a shield.
+    A samurai can use a second weapon. At each turn it attacks one time, and
+gives damage to samurai's fighting. But while using second weapon you cannot
+hold an item or wear a shield.
 ~
 
 0 'EXPLODE'~
 
     A samurai can explode some material so that every mobile in the effected
-by this burning. The burning affect fills the room. And potions bubles , and
-mobiles can be blind.
+by this burning. The burning affect fills the room. And potions bubbles into 
+vapor, and mobiles can be blinded.
 ~
 0 'DRAGONS BREATH'~
 Syntax: cast 'dragons breath'
@@ -2843,7 +2845,7 @@ Syntax: vanish
 
 Pulling forth a small globe, the ninja casts it on the ground where it
 explodes in a puff of smoke.  When it clears, the ninja is gone!  This
-skill will tele
+skill will teleport the ninja away from the area.
 
 ~
 1 CALTRAPS~
@@ -2851,7 +2853,7 @@ Syntax: caltraps
 
 Taking a handful of small spikes, the ninja throws them at his opponent's
 feet.  Damage taken from them is minor, but the victim's dexterity and hit/dam
-roll
+roll is also affected.
 
 ~
 1 NERVE~
@@ -2881,13 +2883,13 @@ benefits of the virtue and honour. It creates a better atmosphere and a
 better playing environment. 
 
 
-see also: PLAYERKILLING
+see also: PLAYERKILLING CABAL 
 ~
 0 PLAYERKILL PLAYERKILLING PK PKING~
 .
-	Player killing on Realms of Anatolia is totally permitted. In fact,
-it is encouraged, and since some fine objects have a finite number, you will
-have to kill other players to get them. You can playerkill after you are
+	Player killing on Realms of Anatolia is totally permitted. Since 
+some fine objects have a finite number, you will have to kill other 
+players to get them. You can playerkill after you are
 level 5. People you can pk are shown by a (PK) flag in front of their 
 names on the who and the where lists.  These people are anyone within a 
 range of your level.( minimum( 4, level / 10 ) level below and above levels)  
@@ -2901,67 +2903,67 @@ safety in numbers.
 	Do not drop link to avoid getting pked.  This is a sure-fire way to get
 yourself killed, not by the attacker but by the immortals.
 
-See also: ROLEPLAYING GROUP ALIGNMENT~
+See also: ROLEPLAYING GROUP CABAL ALIGNMENT~
 
 0 ALIGNMENT~
 In the interest of attracting the right caliber of followers, the
 immortals of Anatolia have outlined the following alignments.  See where
 you think you fit in.
 
-Lawful Good:   An orderly, strong society with a well-organized government
+{WLawful Good{x:   An orderly, strong society with a well-organized government
 	       can make life better for the majority of the people.  To ensure
 	       the quality of life, laws must be created and obeyed.  When
 	       people respect the laws, and try to help each other, society as
 	       whole prospers. 
 
-Lawful Neutral:  Also believes in a strong, well-organized government, whether
+{3Lawful Neutral{x:  Also believes in a strong, well-organized government, whether
 	       it is a tyranny or democracy.  Organization and regimentation
 	       bring benefits that outweigh any moral questions raised by
 	       their actions.
 
-Lawful Evil:   The use of society and its laws for personal benefit.  Structure
+{5Lawful Evil{x:   The use of society and its laws for personal benefit.  Structure
 	       and organization elevate those who deserve to rule as well as
 	       provide a clearly defined hierarchy between master and servant.
 	       Laws and societies are supported so long as they fit with
 	       personal concerns.  Laws are obeyed out of fear of punishment.
 
-Neutral Good:  A balance of forces is important, but the concerns of laws and
+{cNeutral Good{x:  A balance of forces is important, but the concerns of laws and
 	       chaos do not moderate the need for good.  The universe is vast
 	       and contains many creatures striving for different goals, so a
 	       pursuit of good will not upset the balance.  Fostering good may
 	       mean supporting an organized society, or overthrowing the
 	       existing social order.  Social structure has no innate value.         
   
-True Neutral:  Almost impossible to find such people as the majority of people
+{BTrue Neutral{x:  Almost impossible to find such people as the majority of people
 	       make judgments.  It is their duty to see that all of the forces
 	       (evil, good, law, and chaos) remain in balance.  Alliances with
 	       such people are odd, as they tend to switch sides as one side
 	       brings the other to the point of destruction.
 
-Neutral Evil:  The primary concern for such people is their own advancement.
+{CNeutral Evil{x:  The primary concern for such people is their own advancement.
 	       Working with others or on their own, their only interest is 
 	       getting ahead.  Such people are known for their 'Me, Myself,
 	       and I' personalities.  No scruples, no conscience.
 
-Chaotic Good:  Strong individualists marked with a streak of kindness and 
+{RChaotic Good{x:  Strong individualists marked with a streak of kindness and 
 	       benevolence.  Goodness and right matter, but there is little
 	       use for laws and regulations.  Their actions are morally good
 	       but may not be in perfect agreement with the rest of society.
 					  
-Chaotic Neutral:  There is no order to anything, even their own actions.
+{oChaotic Neutral{x:  There is no order to anything, even their own actions.
 	       Good and Evil are irrelevant when making a decision.  They
 	       are almost totally unreliable, except for the fact that you
 	       can rely on them being like this.  The true coin-flipper, they
 	       rely on fate and chance to lead them.
 
-Chaotic Evil:  The bane of all that is good and organized.  Laws and
+{vChaotic Evil{x:  The bane of all that is good and organized.  Laws and
 	       governments are the tools of weaklings unable to fend for
 	       themselves.  The strong have a right to what they want, and
 	       weak are there to be exploited.  Leadership among CEs is based
 	       on power, with the leader capable of bullying his underlings
 	       into obedience.  
 
-Each god may accept a follower based on these outlines.
+Each god may accept a follower based on these alignments and their descriptions.
 ~
 
 0 FOLLOW GROUP NOFOLLOW NOFOL~
