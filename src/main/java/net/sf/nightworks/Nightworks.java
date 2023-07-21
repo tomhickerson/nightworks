@@ -540,7 +540,7 @@ public final class Nightworks {
     /*
     * TO types for act.
     */
-    static final int TO_ROOM = 0;
+    public static final int TO_ROOM = 0;
     static final int TO_NOTVICT = 1;
     static final int TO_VICT = 2;
     static final int TO_CHAR = 3;

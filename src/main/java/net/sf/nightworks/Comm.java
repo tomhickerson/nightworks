@@ -1985,7 +1985,7 @@ public class Comm {
         }
     }
 
-    static void act(CharSequence seq, CHAR_DATA ch, Object arg1, Object arg2, int type) {
+   public  static void act(CharSequence seq, CHAR_DATA ch, Object arg1, Object arg2, int type) {
         if (seq == null || seq.length() == 0) {
             return;
         }
@@ -1997,7 +1997,7 @@ public class Comm {
     static final String him_her[] = {"it", "him", "her"};
     static final String his_her[] = {"its", "his", "her"};
 
-    static void act(String actStr, CHAR_DATA ch, Object arg1, Object arg2, int type, int min_pos) {
+    public static void act(String actStr, CHAR_DATA ch, Object arg1, Object arg2, int type, int min_pos) {
         // Discard null and zero-length messages: useful to avoid null-checks in clients
         if (actStr == null || actStr.length() == 0) {
             return;
