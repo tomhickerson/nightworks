@@ -7,7 +7,8 @@ public enum PlayerAchievement {
     KILL_50_MOBS(1, "Kill 50 Monsters in the MUD"),
     EARN_15_LEVELS(2, "Earn 15 levels in your class"),
     TALK_TO_SEWER_GARGOYLE(3, "Meet the Gargoyle in the Sewer", false),
-    FIND_FENNEL_FOR_THE_DRUID(4, "Find Fennel for the Druid in the Plains", false);
+    FIND_FENNEL_FOR_THE_DRUID(4, "Find Fennel for the Druid in the Plains", false),
+    KILL_RABBIT_FOR_THE_HERMIT(5, "Kill a rabbit for the Hermit in the Plains", false);
 
     PlayerAchievement(int id, String desc) {
         this.id = id;

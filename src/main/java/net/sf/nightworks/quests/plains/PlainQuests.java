@@ -1,11 +1,13 @@
 package net.sf.nightworks.quests.plains;
 
-import net.sf.nightworks.Nightworks;
 import net.sf.nightworks.enums.PlayerAchievement;
 import net.sf.nightworks.enums.PlayerMessage;
 import net.sf.nightworks.quests.SimpleGetQuest;
+import net.sf.nightworks.quests.SimpleKillQuest;
 import net.sf.nightworks.quests.SimpleQuest;
 
+import static net.sf.nightworks.ActComm.do_say;
+import static net.sf.nightworks.Comm.act;
 import static net.sf.nightworks.Comm.send_to_char;
 import static net.sf.nightworks.Nightworks.*;
 
@@ -44,4 +46,29 @@ public class PlainQuests {
             }
         };
     }
+
+    public static SimpleKillQuest returnHermitQuest() {
+        SimpleKillQuest skq = new SimpleKillQuest(2, "Slay a Rabbit for the Hermit");
+        skq.setVnumToKill(309); // kill the rabbit
+        skq.setAdvancedPreamble(getHermitPreamble());
+        skq.setDuration(30);
+        skq.setEpilogue("Aha, I see you've done it!  Please accept my reward.");
+        skq.setAcceptPhrase("yes");
+        skq.setAcceptMessage("Great, now please go forth and kill it!");
+        skq.setQualify(null);
+        skq.setReward(null);
+        skq.setAchievement(PlayerAchievement.KILL_RABBIT_FOR_THE_HERMIT.getId());
+        return skq;
+    }
+
+    private static SimpleQuest.advPreamble getHermitPreamble() {
+        return new SimpleQuest.advPreamble() {
+            @Override
+            public void showPreamble(CHAR_DATA ch, CHAR_DATA mob) {
+                act("$n stands up and looks about.", mob, null, null, TO_ROOM);
+                do_say(mob, "There's a rascally rabbit around here that needs killing.  Do you think you're up to the task?  Just say YES if so.");
+            }
+        };
+    }
+
 }

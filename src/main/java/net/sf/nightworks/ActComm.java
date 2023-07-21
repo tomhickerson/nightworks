@@ -122,7 +122,7 @@ import static net.sf.nightworks.util.TextUtils.one_argument;
 import static net.sf.nightworks.util.TextUtils.str_cmp;
 import static net.sf.nightworks.util.TextUtils.str_prefix;
 
-class ActComm {
+public class ActComm {
 /* RT code to delete yourself */
 
     static void do_delet(CHAR_DATA ch) {
@@ -322,7 +322,7 @@ class ActComm {
     }
 
 
-    static void do_say(CHAR_DATA ch, String argument) {
+    public static void do_say(CHAR_DATA ch, String argument) {
         CHAR_DATA room_char;
         OBJ_DATA char_obj;
         CHAR_DATA vch;

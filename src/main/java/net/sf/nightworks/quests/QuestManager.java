@@ -2,13 +2,13 @@ package net.sf.nightworks.quests;
 
 import net.sf.nightworks.quests.plains.PlainQuests;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.HashMap;
 
 public class QuestManager {
 
     private static final int VNUM_DRUID_PLAINS = 300;
+    private static final int VNUM_HERMIT_PLAINS = 301;
     private static HashMap<Integer, ArrayList<SimpleQuest>> quests = new HashMap<>();
 
     /**
@@ -21,6 +21,10 @@ public class QuestManager {
         ArrayList<SimpleQuest> questArray = new ArrayList<>();
         questArray.add(PlainQuests.returnDruidQuest());
         quests.put(VNUM_DRUID_PLAINS, questArray);
+        // reset the same array?
+        questArray = new ArrayList<>();
+        questArray.add(PlainQuests.returnHermitQuest());
+        // quests.put(VNUM_HERMIT_PLAINS, questArray);
         return quests;
     }
 }
