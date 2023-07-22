@@ -10,6 +10,7 @@ import static net.sf.nightworks.ActComm.do_say;
 import static net.sf.nightworks.Comm.act;
 import static net.sf.nightworks.Comm.send_to_char;
 import static net.sf.nightworks.Nightworks.*;
+import static net.sf.nightworks.Update.gain_exp;
 
 public class PlainQuests {
 
@@ -55,8 +56,8 @@ public class PlainQuests {
         skq.setEpilogue("Aha, I see you've done it!  Please accept my reward.");
         skq.setAcceptPhrase("yes");
         skq.setAcceptMessage("Great, now please go forth and kill it!");
-        skq.setQualify(null);
-        skq.setReward(null);
+        skq.setQualify(qualifiesHermit());
+        skq.setReward(killTheRabbit());
         skq.setAchievement(PlayerAchievement.KILL_RABBIT_FOR_THE_HERMIT.getId());
         return skq;
     }
@@ -67,6 +68,28 @@ public class PlainQuests {
             public void showPreamble(CHAR_DATA ch, CHAR_DATA mob) {
                 act("$n stands up and looks about.", mob, null, null, TO_ROOM);
                 do_say(mob, "There's a rascally rabbit around here that needs killing.  Do you think you're up to the task?  Just say YES if so.");
+            }
+        };
+    }
+
+    private static SimpleQuest.qualify qualifiesHermit() {
+        return ch -> ch.level >= 5
+                && (IS_EVIL(ch) || IS_NEUTRAL(ch))
+                && !IS_NPC(ch)
+                && !ch.pcdata.achievements.contains(PlayerAchievement.KILL_RABBIT_FOR_THE_HERMIT);
+    }
+
+    private static SimpleQuest.reward killTheRabbit() {
+        return ch -> {
+            ch.pcdata.questpoints += 10;
+            gain_exp(ch, 100);
+            ch.silver += 40;
+            send_to_char("You receive {W10{x quest points and {W100{x experience.\n", ch);
+            send_to_char("You also receive {W40{x silver from the Hermit.\n", ch);
+            int anger = ch.pcdata.vices.updateVice(VICE_ANGER);
+            if (anger > 0) {
+                ch.pcdata.vices.anger++;
+                send_to_char(PlayerMessage.CONSUMED_BY_ANGER.getMessage(), ch);
             }
         };
     }

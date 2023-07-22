@@ -168,7 +168,7 @@ public class Update {
         send_to_char(f.toString(), ch);
     }
 
-    static void gain_exp(CHAR_DATA ch, int gain) {
+    public static void gain_exp(CHAR_DATA ch, int gain) {
 
         if (IS_NPC(ch) || ch.level >= LEVEL_HERO) {
             return;
