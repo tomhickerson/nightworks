@@ -24,7 +24,7 @@ public class QuestManager {
         // reset the same array?
         questArray = new ArrayList<>();
         questArray.add(PlainQuests.returnHermitQuest());
-        // quests.put(VNUM_HERMIT_PLAINS, questArray);
+        quests.put(VNUM_HERMIT_PLAINS, questArray);
         return quests;
     }
 }

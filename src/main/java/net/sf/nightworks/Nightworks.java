@@ -2110,7 +2110,7 @@ public final class Nightworks {
         // can then use 'contains'? maybe not
         public ArrayList<PlayerAchievement> achievements = new ArrayList<>();
         public Virtues virtues = new Virtues();
-        Vices vices = new Vices();
+        public Vices vices = new Vices();
         int bank_s;
         int bank_g;
         int death;
@@ -2446,7 +2446,7 @@ public final class Nightworks {
         return ch.alignment >= 350;
     }
 
-    static boolean IS_EVIL(CHAR_DATA ch) {
+    public static boolean IS_EVIL(CHAR_DATA ch) {
         return ch.alignment <= -350;
     }
 
