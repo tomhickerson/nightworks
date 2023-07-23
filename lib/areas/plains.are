@@ -1362,5 +1362,8 @@ S
 M 300 greet_prog greet_prog_generic_questmob
 M 300 give_prog give_prog_generic_questmob
 M 300 speech_prog speech_prog_generic_questmob
+M 301 greet_prog greet_prog_generic_questmob
+M 301 give_prog give_prog_generic_questmob
+M 301 speech_prog speech_prog_generic_questmob
 S 
 #$
