@@ -704,10 +704,11 @@ The old Road
 0 -1 106
 S
 #121
-Hefty Smurf's Home~
-Hefty is anything but wimpy.  So is his house.  It actually took you a 
-couple of minutes to destroy his house.  Better watch out -- he might be
-a little mad at you.  Smurfy Road is back to the north.
+Small Overgrown House~
+You are in a small home, which has apparently been overgrown with plants
+and mosses.  The furniture here is covered in some kind of fungus, and 
+mushrooms sprout up between the floorboards.  A muggy mist hangs in the 
+air and the entire room smells of mildew.  The old Road is to the north.
 ~
 0 0 1
 D0
@@ -717,10 +718,10 @@ The old Road
 0 -1 111
 S
 #122
-Sleepy Smurf's Home~
-Be vewy vewy quiet.  Sleepy Smurf is probably sleeping.  You see so many
-beds you can't even tell if he is here.  Maybe you should quietly go back to
-Smurfy Road to the east.
+An empty House~
+You are in a small, empty house, which seems to be quieter than the rest 
+of the village, if that's possible.  The floors are clean, as if freshly 
+swept, and there is no furniture here.  The old Road to the east.
 ~
 0 0 1
 D1
@@ -733,7 +734,8 @@ S
 A dark Home~
 This is a small abandoned home, with the windows boarded up, preventing light 
 from coming in.  The floors are dusty and the wallpaper is coming down on one 
-side.  The old Road to the east is your only exit.
+side.  Some of the furniture remains, but covered in cotton sheets.  The old 
+Road to the east is your only exit.
 ~
 0 0 1
 D1
@@ -820,10 +822,11 @@ door~
 1 109 127
 S
 #129
-Smurfette's House~
-This house is conveniently next to Papa Smurfs.  Makes it easier for Papa
-Smurf to sneak over at night.  I hope he uses protection.  I would hate to
-have little smurfs running around.  The only exit is to the east.
+The Innkeeper's House~
+This house is very cozy and has a lived-in look, it may be the only 
+occupied house in the village, save for the Inn.  The furniture is built 
+for a human, and while the ceiling is low there are plenty of places to 
+sit and enjoy a small meal from the kitchen.  The only exit is to the east.
 ~
 0 0 1
 D1
