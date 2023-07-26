@@ -2645,6 +2645,7 @@ public class DB {
         f.format("Resets  %5d\n", top_reset);
         f.format("Rooms   %5d\n", top_room);
         f.format("Shops   %5d\n", top_shop);
+        f.format("Quests  %5d(mobs only)\n", quest_table.size());
         // add quest-table here someday
         send_to_char(f.toString(), ch);
 

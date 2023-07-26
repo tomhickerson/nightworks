@@ -4111,7 +4111,6 @@ class ActWiz {
             victim.perm_stat[STAT_WIS] = value;
             return;
         }
-        /*** Added By KIO  ***/
         if (!str_cmp(arg2str, "questp")) {
             if (value == -1) {
                 value = 0;
@@ -4137,8 +4136,6 @@ class ActWiz {
             victim.religion = value;
             return;
         }
-        /*** Added By KIO ***/
-
 
         if (!str_cmp(arg2str, "dex")) {
             if (value < 3 || value > get_max_train(victim, STAT_DEX)) {
