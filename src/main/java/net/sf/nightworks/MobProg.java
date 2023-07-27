@@ -478,8 +478,21 @@ class MobProg {
                         }
                         return;
                     }
-                    // figure out if the quest is done or not
-                } // figure out simple collect quest
+                } else if (q instanceof SimpleCollectQuest) {
+                    // figure out simple collect quest
+                    if (IS_SET(ch.act, PLR_QUESTOR) && ch.pcdata.questid == q.getAchievement()) {
+                        if (obj.pIndexData.vnum == ((SimpleCollectQuest) q).getVnumToCollect()) {
+                            // set a counter in the pcdata
+                            // check the counter, subtract one
+                            // let the player know how many are left
+                            do_say(mob, "That's one of " + ((SimpleCollectQuest) q).getNumberToCollect());
+                        } else {
+                            do_say(mob, "I'm not sure what this is?");
+                            do_drop(mob, obj.name);
+                        }
+                        return;
+                    }
+                }
             }
         }
     }
