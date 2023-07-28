@@ -4,6 +4,22 @@ Marsh~
 {15 25} Generic Old Marsh~
 8300 8399
 #MOBILES
+#8300
+swarm mosquitoes~
+a swarm of mosquitoes~
+A swarm of mosquitoes descends upon you.
+~
+This swarm is made of thousands of small mosquitoes, and they seem to
+be intent on pestering you, trying to find any and every small surface
+of your skin not covered by armor so they can feast.
+~
+unique~
+ABCDEFG ABCDEFGT 0 0
+20 0 0d0+0 0d0+0 0d0+0 sting
+0 0 0 0
+ABCDEFG ABC ABCFG ABC
+stand stand none 0
+0 0 medium 0
 #8301
 oldstyle troll~
 a swamp troll~
@@ -1359,6 +1375,8 @@ G 1 8307  -1     	*   a murky green potion
 M 0 8320   5 8315  1	* a marsh giant
 G 1 8301  10     	*   a long spear
 E 1 8302   5    6	*   a dark horned helmet
+M 0 8300   6 8321  2 *   mosquitoes 
+M 0 8300   6 8323  2 *   mosquitoes
 S
 #SHOPS
 0
