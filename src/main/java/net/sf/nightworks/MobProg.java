@@ -259,6 +259,7 @@ class MobProg {
         ch.pcdata.questmob = 0;
         ch.pcdata.questobj = 0;
         ch.pcdata.questid = 0;
+        ch.pcdata.questobjnum = 0;
         ch.pcdata.nextquest = 5;
     }
 
@@ -424,7 +425,7 @@ class MobProg {
                         // put the mob on the map
                     } else if (q instanceof SimpleCollectQuest) {
                         ch.pcdata.questobj = ((SimpleCollectQuest) q).getVnumToCollect();
-                        // set the number here
+                        ch.pcdata.questobjnum = ((SimpleCollectQuest) q).getNumberToCollect();
                     }
                     // set kill multiples here?
                     // add an id for the quest itself, get achievement
@@ -483,9 +484,16 @@ class MobProg {
                     if (IS_SET(ch.act, PLR_QUESTOR) && ch.pcdata.questid == q.getAchievement()) {
                         if (obj.pIndexData.vnum == ((SimpleCollectQuest) q).getVnumToCollect()) {
                             // set a counter in the pcdata
+                            ch.pcdata.questobjnum--;
                             // check the counter, subtract one
-                            // let the player know how many are left
-                            do_say(mob, "That's one of " + ((SimpleCollectQuest) q).getNumberToCollect());
+                            if (ch.pcdata.questobjnum == 0) {
+                                // end the quest
+                            } else {
+                                // let the player know how many are left
+                                do_say(mob, "That's one of " + ((SimpleCollectQuest) q).getNumberToCollect());
+                                do_say(mob, "You have " + ch.pcdata.questobjnum + " let to collect!");
+                            }
+
                         } else {
                             do_say(mob, "I'm not sure what this is?");
                             do_drop(mob, obj.name);
