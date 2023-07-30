@@ -23,7 +23,7 @@ class Flags {
 
     static void do_flag(CHAR_DATA ch, String argument) {
         CHAR_DATA victim;
-        flag_type flag_table[];
+        flag_type[] flag_table;
 
         StringBuilder arg1 = new StringBuilder();
         StringBuilder arg2 = new StringBuilder();

@@ -565,7 +565,7 @@ public final class Nightworks {
     static final class SHOP_DATA {
         SHOP_DATA next;           /* Next shop in list        */
         int keeper;         /* Vnum of shop keeper mob  */
-        int buy_type[] = new int[MAX_TRADE];   /* Item types shop will buy */
+        int[] buy_type = new int[MAX_TRADE];   /* Item types shop will buy */
         int profit_buy;     /* Cost multiplier for buying   */
         int profit_sell;        /* Cost multiplier for selling  */
         int open_hour;      /* First opening hour       */
@@ -2351,15 +2351,15 @@ public final class Nightworks {
 */
 
     static int UMIN(int a, int b) {
-        return ((a) < (b) ? (a) : (b));
+        return (Math.min((a), (b)));
     }
 
     static int UMAX(int a, int b) {
-        return ((a) > (b) ? (a) : (b));
+        return (Math.max((a), (b)));
     }
 
     static int URANGE(int a, int b, int c) {
-        return ((b) < (a) ? (a) : ((b) > (c) ? (c) : (b)));
+        return ((b) < (a) ? (a) : (Math.min((b), (c))));
     }
 
 
