@@ -93,39 +93,22 @@ public class DB {
     private static HELP_DATA help_last;
     private static SHOP_DATA shop_last;
 
-    /*    private static NOTE_DATA    note_free;
-
-        private static CHAR_DATA    char_list;
-    */
     static String help_greeting;
     static String help_greeting2;
     static String help_greeting3;
-/*
-    private static AUCTION_DATA     auction;
-    private static ROOM_INDEX_DATA  top_affected_room;
-    private static int         reboot_counter;
-    private static int         time_sync;
-    private static int         max_newbies;
-    private static int         max_oldies;
-    private static int         iNumPlayers;
-
-/*
- * for limited objects
- */
-/*    long                    total_levels; */
 
     /*
     * Locals.
     */
-    static MOB_INDEX_DATA mob_index_hash[] = new MOB_INDEX_DATA[MAX_KEY_HASH];
-    static OBJ_INDEX_DATA obj_index_hash[] = new OBJ_INDEX_DATA[MAX_KEY_HASH];
-    static ROOM_INDEX_DATA room_index_hash[] = new ROOM_INDEX_DATA[MAX_KEY_HASH];
+    static MOB_INDEX_DATA[] mob_index_hash = new MOB_INDEX_DATA[MAX_KEY_HASH];
+    static OBJ_INDEX_DATA[] obj_index_hash = new OBJ_INDEX_DATA[MAX_KEY_HASH];
+    static ROOM_INDEX_DATA[] room_index_hash = new ROOM_INDEX_DATA[MAX_KEY_HASH];
 
     private static AREA_DATA area_last;
 
     static final TIME_INFO_DATA time_info = new TIME_INFO_DATA();
     static final WEATHER_DATA weather_info = new WEATHER_DATA();
-    static final KILL_DATA kill_table[] = new KILL_DATA[MAX_LEVEL];
+    static final KILL_DATA[] kill_table = new KILL_DATA[MAX_LEVEL];
 
     static {
         for (int i = 0; i < kill_table.length; i++) {

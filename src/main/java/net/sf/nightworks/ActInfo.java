@@ -5,6 +5,7 @@ import net.sf.nightworks.util.TextBuffer;
 
 import java.util.Date;
 import java.util.HashSet;
+import java.util.Objects;
 import java.util.Set;
 
 import static net.sf.nightworks.ActComm.add_follower;
@@ -485,7 +486,7 @@ class ActInfo {
         /*
          * Format the list of objects.
          */
-        int prgnShow[] = new int[count];
+        int[] prgnShow = new int[count];
         String[] prgpstrShow = new String[count];
 
         for (obj = list; obj != null; obj = obj.next_content) {
@@ -532,7 +533,7 @@ class ActInfo {
             if (IS_NPC(ch) || IS_SET(ch.comm, COMM_COMBINE)) {
                 if (prgnShow[iShow] != 1) {
                     buf.sprintf("(%2d) ", prgnShow[iShow]);
-                    output.append(buf.toString());
+                    output.append(buf);
                 } else {
                     output.append("     ");
                 }
@@ -1812,7 +1813,7 @@ class ActInfo {
                     );
                     if (IS_IMMORTAL(ch)) {
                         buf.sprintf(false, " {W(room %d){x", pexit.to_room.vnum);
-                        if (pexit.to_room.area.name != ch.in_room.area.name) {
+                        if (!Objects.equals(pexit.to_room.area.name, ch.in_room.area.name)) {
                             buf.sprintf(false, " (leads to {Y%s{x)", pexit.to_room.area.name);
                         }
                         buf.append("\n");
@@ -1901,11 +1902,11 @@ class ActInfo {
     }
 
 
-    static final String day_name[] = {"the Moon", "the Bull", "Deception", "Thunder", "Freedom",
+    static final String[] day_name = {"the Moon", "the Bull", "Deception", "Thunder", "Freedom",
             "the Great Gods", "the Sun"
     };
 
-    static final String month_name[] = {
+    static final String[] month_name = {
             "Winter", "the Winter Wolf", "the Frost Giant", "the Old Forces",
             "the Grand Struggle", "the Spring", "Nature", "Futility", "the Dragon",
             "the Sun", "the Heat", "the Battle", "the Dark Shades", "the Shadows",
@@ -1968,7 +1969,7 @@ class ActInfo {
     }
 
 
-    static final String sky_look[] = {
+    static final String[] sky_look = {
             "cloudless",
             "cloudy",
             "rainy",
@@ -3806,7 +3807,7 @@ class ActInfo {
                 }
 
                 buf.sprintf("%-18s %3d%%  ", sn.name, ch.pcdata.learned[sn.ordinal()]);
-                buf2.append(buf.toString());
+                buf2.append(buf);
                 if (++col % 3 == 0) {
                     buf2.append("\n");
                 }
@@ -3817,7 +3818,7 @@ class ActInfo {
             }
 
             buf.sprintf("You have {w%d{x practice sessions left.\n", ch.practice);
-            buf2.append(buf.toString());
+            buf2.append(buf);
             page_to_char(buf2, ch);
         } else {
             CHAR_DATA mob;
@@ -3914,7 +3915,7 @@ class ActInfo {
         boolean fLionsRestrict = false;
         boolean fTattoo = false;
 
-        boolean rgfClass[] = new boolean[MAX_CLASS];
+        boolean[] rgfClass = new boolean[MAX_CLASS];
         Set<Race> rgfRaces = null;
 
         /*
@@ -4040,7 +4041,7 @@ class ActInfo {
                         } else {
                             fRaceRestrict = true;
                             if (rgfRaces == null) {
-                                rgfRaces = new HashSet<Race>();
+                                rgfRaces = new HashSet<>();
                             }
                             rgfRaces.add(race);
                         }
