@@ -74,7 +74,7 @@ african swallow small bird~
 an African Swallow~
 An African Swallow is here....
 ~
-An African Swallow is here.... Carrying a cocanut..... :)
+An African Swallow is here.... Carrying a coconut..... :)
 ~
 bird~
 AG 0 0 0
@@ -86,7 +86,7 @@ stand stand male 0
 #7505
 raccoon brown black~
 a brown and black raccoon~
-A brown and black raccoon is here, rummageing through the undergrowth.
+A brown and black raccoon is here, rummaging through the undergrowth.
 ~
 He is very clean, must be from all those baths he gives his food...
 ~
@@ -128,7 +128,7 @@ stand stand male 10
 #7508
 flying squirrel~
 a flying squirrel~
-A flying squirrel is here, glideing about.
+A flying squirrel is here, gliding about.
 ~
 He's small, furry, and brown.  Makes you wish you could step on him-except
 he's flying, and you're not.  We should fix this...
@@ -158,7 +158,7 @@ stand stand male 350
 #7510
 starryeyed starry eyed lover~
 a starry eyed lover~
-A starry eyed lover is here, smileing and talking to herself happily.
+A starry eyed lover is here, smiling and talking to herself happily.
 ~
 She is young, beautiful, smart--- Kinda makes you jealous of the guy who
 has nabbed her..
@@ -843,7 +843,7 @@ death~
 the Death~
 Death is here waiting for you.
 ~
-It is strong, impertubable looking creature. It notice that you look at its, 
+It is strong, imperturbable looking creature. It notice that you look at its,
 and it says: 'Have a nice day'. Hm?... Death is your only way, probably...
 ~
 human~
@@ -1588,7 +1588,7 @@ A
 #7654
 vest defender~
 a defenders vest~
-A gold and silver vest is lieing on the side of the road.~
+A gold and silver vest is lying on the side of the road.~
 silver~
 armor 0 AD
 5 5 5 -1 2
@@ -1678,7 +1678,7 @@ S
 Inside the park.~
     You are standing inside what looks like a park--probably because it is
 one...verdant green fields surround you, as you step onto the crisp, gravel
-pathways that criss-cross the parkland.
+pathways that criss-crossed the parkland.
 ~
 0 0 3
 D0
@@ -3111,7 +3111,7 @@ You see West-Street
 S
 #7578
 The Pawn Shop~
-   You are in the Pawn shop.  Unfourtuatly, there is no pawn here,
+   You are in the Pawn shop.  Unfortunately, there is no pawn here,
 just a hired merchant.
 ~
 0 D 0
@@ -3265,7 +3265,7 @@ You see Mable road.
 S
 #7586
 Mable Road~
-   You are on Mable road.  To the north, the palace looms majesticly on
+   You are on Mable road.  To the north, the palace looms majestic on
 the horizon.
 ~
 0 0 1
@@ -3353,7 +3353,7 @@ You see Temple Street.
 ~
 0 -1 7592
 D2
-You see the contruction crew building a new temple
+You see the construction crew building a new temple
 ~
 ~
 0 -1 7591
@@ -3624,7 +3624,7 @@ You see the Merchant way.
 S
 #7606
 Crazy Himshlick's portable fountains~
-You are inside a ramshakle building, probably just thrown together for this
+You are inside a ramshackle building, probably just thrown together for this
 guys shop.  You see a sign advertising his 'low prices' and 'low interest
 rates'....
 ~
@@ -4137,7 +4137,7 @@ S
 On the bridge~
     You are on the bridge over the river.  The water here is beautiful.
 One of the reasons it's beautiful, is because it's made of some kind of magic
-mirror.  And, if thats not enough to convince you that it's beautiful, get
+mirror.  And, if that's not enough to convince you that it's beautiful, get
 this-  There are women walking over it..... >:)
 ~
 0 0 1
@@ -4843,7 +4843,7 @@ S
 * 
 * Gerighelm + Gerighelm Sewer + Gerighelm Park = Great Town of Gerighelm
 *
-* Death was added by Targos (oryginal idea from great french MUD     )
+* Death was added by Targos (original idea from great french MUD     )
 *                           (Black Knight Legacy, 193.48.228.121 7000)
 *                           (maybe bkl will up in future ? **sigh**  )
 * entrance: 
