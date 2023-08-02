@@ -745,7 +745,7 @@ The Treasure Chamber of the Goblin Stronghold.
 S
 #29010
 The Treasure Chamber of the Goblin Stronghold~
-After opening the third door you come opon a cache of gold and
+After opening the third door you come upon a cache of gold and
 jewelry. There are no exits, save the door you came through.
 ~
 0 D 0
@@ -761,7 +761,7 @@ As you step through the door to this room, you hear a slam and a
 click. You spin quickly and are dismayed to see that the door has closed
 and locked. You hear maniacal laughter coming from the far side of the
 door. There is no escape. You will spend your days rotting in this goblin
-prision.
+prison.
 ~
 0 D 0
 D5
@@ -853,7 +853,7 @@ A Hallway in the Stronghold.
 ~
 0 -1 29018
 D2
-Goblin Barraks.
+Goblin Barracks.
 ~
 ~
 0 -1 29027
@@ -917,7 +917,7 @@ continues to the west, and there is an arched doorway to the south.
 ~
 0 D 0
 D2
-Goblin Barraks.
+Goblin Barracks.
 ~
 ~
 0 -1 29022
@@ -947,10 +947,10 @@ South End of the Great Hall.
 1 -1 29002
 S
 #29022
-Goblin Barraks~
+Goblin Barracks~
 This room is where the goblin soldiers sleep. The room is a full 20
 yards square and there are bunks along each wall. There is graphic
-graphitti scrawled on the walls, but it's in goblin and all you can make
+graffiti scrawled on the walls, but it's in goblin and all you can make
 out are the drawings of goblin females. There is an arched doorway leading
 north.
 ~
@@ -1047,10 +1047,10 @@ A Hall in the Dungeon.
 0 -1 29025
 S
 #29027
-Goblin Barraks~
+Goblin Barracks~
 This room is where the goblin soldiers sleep. The room is a full 20
 yards square and there are bunks along each wall. There is graphic
-graphitti scrawled on the walls, but it's in goblin and all you can make
+graffiti scrawled on the walls, but it's in goblin and all you can make
 out are the drawings of goblin females. There is an arched doorway leading
 north.
 ~

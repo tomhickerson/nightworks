@@ -40,7 +40,7 @@ stand stand male 0
 #30802
 monk master~
 a master~
-A monk clad in black robes with silver edging sneers contemptously at you.
+A monk clad in black robes with silver edging sneers contemptuously at you.
 ~
 The master monks are the teachers and supervisors of the monks of the abbey,
 and answer only to the abbot himself. They are if anything more diabolical
@@ -120,7 +120,7 @@ stand stand none 0
 #30807
 elven virgin~
 an elven virgin~
-A scraming, naked young elven maiden is chained to the altar.
+A screaming, naked young elven maiden is chained to the altar.
 ~
 The monks capture and sacrifice female elven virgins to summon devils from
 the Hells. This one has gone quite insane from the pain and shock of capture
@@ -732,7 +732,7 @@ down~
 #30847
 sarcophagus~
 a massive sarcophagus~
-A masive sarcophagus rests here.~
+A massive sarcophagus rests here.~
 ~
 container 0 0
 15000 0 0 0 0
@@ -1603,7 +1603,7 @@ S
 #30844
 Barracks~
 You emerge into a room that appears to be some sort of barracks. Normally
-several monks can be found here, practicing their katas and meidtating.
+several monks can be found here, practicing their katas and meditating.
 Perhaps you'll be lucky and find none...
 ~
 0 8 0
@@ -1623,7 +1623,7 @@ S
 #30845
 Barracks~
 You emerge into a room that appears to be some sort of barracks. Normally
-several monks can be found here, practicing their katas and meidtating.
+several monks can be found here, practicing their katas and meditating.
 Perhaps you'll be lucky and find none...
 ~
 0 8 0
@@ -1645,7 +1645,7 @@ A Chamber~
 this appears to be some sort of relaxation chamber- it would seem even
 diabolically evil fanatic megalomanical demon-worshipping monks need to
 relax every now and again. However, in true monk style, the room is devoid
-of funriture- only a few straw mats and some simple tapestries provide any
+of furniture- only a few straw mats and some simple tapestries provide any
 comfort.
 ~
 0 8 0
@@ -2362,7 +2362,7 @@ S
 A Study~
 This study is more of a library, filled as it is with scores of grimoires
 detailing the most despicable acts imaginable. A small desk, not dissimilar
-to those you saw the maste rmonks using below, stands in the center of the
+to those you saw the master monks using below, stands in the center of the
 room, near a fireplace which burns magically without requiring fuel.
 ~
 0 8 0

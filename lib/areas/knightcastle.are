@@ -24,7 +24,7 @@ stand stand male 1000
 #521
 knight protector guard~
 the protector~
-Protector, the knight, is guarding the enterance.
+Protector, the knight, is guarding the entrance.
 ~
  Although his old age, he is still good enough in all martial arts. His
 bright body armor is shining upon you.
@@ -124,7 +124,7 @@ treasure O AO
 
 #ROOMS
 #520
-The Enterance of Castle~
+The Entrance of Castle~
   You are standing in the entrance of the Knights' castle. You can see the
 greater hall lying towards north. South leaves the entrance into the castle.
 You see two long swords against the wall here, one is on the east wall and
@@ -145,7 +145,7 @@ S
 Inside the Great Hall~
   There four exits in north, east, west and south. To the north you see
 the shrine, to the east you see Squire Barracks, to the south you see
-enterance and to the west you see a storage room. On the walls you see
+the entrance and to the west you see a storage room. On the walls you see
 bright knight armors hung, indicating that this a protected area.
 ~
 0 DX 0
@@ -169,7 +169,7 @@ S
 #522
 Squire Barracks~
   You see some squires either resting or sleeping. You notice that this
-room is the squire traniee room.
+room is the squire trainee room.
 ~
 0 DX 0
 D1
@@ -209,7 +209,7 @@ S
 #525
 Stables~
   You see some horses either resting or eating. You notice that this
-room is the used for maintainance of horses for Knights.
+room is the used for maintenance of horses for Knights.
 ~
 0 MDX 0
 D3
@@ -220,7 +220,7 @@ S
 #526
 Horse room~
   You see some horses either resting or eating. You notice that this
-room is the used for maintainance of horses for Knights.
+room is the used for maintenance of horses for Knights.
 ~
 0 DX 0
 S

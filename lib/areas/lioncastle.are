@@ -24,7 +24,7 @@ stand stand male 1000
 #501
 guard lionman guardian~
 the guardian~
-A guardian is guarding the enterance.
+A guardian is guarding the entrance.
 ~
 His claws seem as if it sears your flesh.
 ~
@@ -90,10 +90,10 @@ sword 7 2 slash 0
 
 #ROOMS
 #500
-The Enterance~
-  You are standing at the enterance of a lionsMan guild.  You see many trainee
+The Entrance~
+  You are standing at the entrance of a lionsMan guild.  You see many trainee
 lionMen walking around.  The guild room  seems to be lying to the north.  
-South is the enterance into the of castle.
+South is the entrance into the of castle.
 ~
 0 DX 0
 D0
@@ -125,7 +125,7 @@ A sign on the door reads: 'Meeting Room'.
 ~
 0 -1 502
 D2
-Enterance guild room can be seen.
+The Entrance guild room can be seen.
 ~
 ~
 0 -1 500
@@ -148,8 +148,8 @@ Doorway to the greater guild room.
 0 -1 501
 S
 #503
-Storge Room~
-  You are inside the storge room of LionMan. This room is for the EYEd swords
+Storage Room~
+  You are inside the storage room of LionMan. This room is for the EYEd swords
  to rest.
 ~
 0 DX 0

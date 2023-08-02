@@ -96,7 +96,7 @@ D2
 0 -1 9783
 D4
 ~
-enterance~
+entrance~
 3 -1 571
 S
 #571
@@ -111,7 +111,7 @@ D0
 5 -1 572
 D5
 ~
-enterance~
+entrance~
 3 -1 570
 S
 #572
@@ -159,8 +159,8 @@ M 0 572   1 571  1	*  Hunter keeper 2.
 E 0 572   0 11		*  Hunter's key
 O 0 570   1 573       	*  Hunter's container
 P 0 571   1 570  1	*  Item into the container
-D 0 571   5 1		*  Hunter's enterance
-D 0 570   4 1		*  Hunter's enterance
+D 0 571   5 1		*  Hunter's entrance
+D 0 570   4 1		*  Hunter's entrance
 S
 
 #SPECIALS

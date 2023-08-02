@@ -11,7 +11,7 @@ the invader guardian~
 The invader guardian is here, serving his cabal.
 ~
   This strong serves as the guardian of the Invader Cabal. His mission is
-to destroy anyone who dares to penatrate into the chamber.
+to destroy anyone who dares to enter into the chamber.
 ~
 human~
 ABJKWe  DFHJVZ -1000 0
@@ -57,7 +57,7 @@ container CEORY P
 #561
 globe sphere~
 the nothing globe~
-A small, sphere shaped unexistance area floats in the air.~
+A small, sphere shaped non-existant area floats in the air.~
 unknown~
 treasure CETO AO
 0 0 0 0 0
@@ -116,7 +116,7 @@ D5
 A dim light of a flickering torch hits the southern wall of the well, 
 far down the stone pipe.
 ~
-enterance~
+entrance~
 3 -1 561
 S
 #561
@@ -135,7 +135,7 @@ The doorway leads to a well lit chamber. On the wall is a huge shadow.
 D4
 You can only see the opening of the well.
 ~
-enterance~
+entrance~
 3 -1 560
 S
 #562
@@ -200,7 +200,7 @@ The bottomless pit~
   You fall, forever downwards into the bottomless pit. About you blackness
 races, with no sign of a wall for support. You look up and see the same
 nothingness as you do downward. What awaits you at the bottom? Will you
-ever reach it? Desperately you pray for deliverence- you dont know if you
+ever reach it? Desperately you pray for deliverance- you dont know if you
 have been heard.
 ~
 0 AD 0 
@@ -287,8 +287,8 @@ M 0 560   1 567  1	*  Invader's keeper.
 E 0 562   0 11		*  Invader's key
 O 0 560   1 568       	*  Invader's container
 P 0 561   1 560  1	*    in to the container
-D 0 561   4 1		*  Invader's enterance
-D 0 560   5 1		*  Invader's enterance
+D 0 561   4 1		*  Invader's entrance
+D 0 560   5 1		*  Invader's entrance
 O 0 563   1 568       	*  Invader's white portal
 O 0 564   1 568       	*  Invader's dark portal
 O 0 565   1 568       	*  Invader's green portal
