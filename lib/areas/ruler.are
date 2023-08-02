@@ -9,7 +9,7 @@ Ruler~
 #510
 enforcer guard~
 the enforcer~
-The enforcer is waiting here protecting the enterance.
+The enforcer is waiting here protecting the entrance.
 ~
   He is trained specially to guard and serve the Ruler Council. Due to the
 decades of devotion and training, he is almost perfect at many skills.
@@ -81,9 +81,9 @@ furniture 0 0
 
 #ROOMS
 #510
-The Enterance~
-  You are in a large hallyway. The walls are decorated with beautiful
-carvings, bright armors and ceramonial shields. On the ceiling you read
+The Entrance~
+  You are in a large hallway. The walls are decorated with beautiful
+carvings, bright armors and ceremonial shields. On the ceiling you read
 "In the guiding of the rulers, there is not a problem not to be solved."
   The floor is very clean. The floor is made up of marbles, shine with the
 light of the sun coming from the windows.
@@ -143,7 +143,7 @@ S
 The Rulers' chapel~
   You are in the chapel of Rulers.  This place is for those defenders
 of laws to heal and to pray to their gods. There is no windows inside the
-the chapel. The chapel is lighted by the hundrets of candles placed on the
+the chapel. The chapel is lighted by the hundreds of candles placed on the
 each side of the room. The mystical air freshens your mind.
 ~
 0 DX 0
