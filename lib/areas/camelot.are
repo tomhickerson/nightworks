@@ -6,11 +6,11 @@ Camelot~
 
 #MOBILES
 #17301
-knight reknown~
-The knight of reknown~
-A knight of reknown slaps you with his gauntlet and challenges you!
+knight renown~
+The knight of renown~
+A knight of renown slaps you with his gauntlet and challenges you!
 ~
-The knight of reknown is mounted on a warhorse, uses a lance, and you can 
+The knight of renown is mounted on a warhorse, uses a lance, and you can
 see his morningstar on his horse. His colors fly from a banner carried by 
 his squire.
 ~
@@ -133,7 +133,7 @@ garlon knight~
 Sir Garlon~
 Sir Garlon, the invisible knight, is waiting here.
 ~
-Sir Garlon (the vile villian) is hiding here. He was given his invisibility 
+Sir Garlon (the vile villain) is hiding here. He was given his invisibility
 power by the witch of the fens for the furtherment of evil.
 ~
 human~
@@ -240,7 +240,7 @@ AHMV ABCDEFGHIJK medium 0
 #17316
 beast questing~
 the Questing Beast~
-A long necked, lion pawed, spotted, creature is here knawing on a femur.
+A long necked, lion pawed, spotted, creature is here gnawing on a femur.
 ~
 The Questing Beast looks at you and winks.
 ~
@@ -283,9 +283,9 @@ EFNU 0 0 0
 stand stand male 1000
 AHMV ABCDEFGHIJK medium 0
 #17319
-charmed knight reknown~
-Charmed knight of reknown~
-A charmed knight of reknown woodenly attacks you!
+charmed knight renown~
+Charmed knight of renown~
+A charmed knight of renown woodenly attacks you!
 ~
 The knight is in rusty armor and bears a notched sword. He has a disheveled 
 look to him and his eyes stare vacantly at you!
@@ -347,7 +347,7 @@ squire charmed~
 Charmed Squire~
 A charmed squire stands here woodenly
 ~
-The charmed squire is wearing various leather garmets in a state of disarray.
+The charmed squire is wearing various leather garments in a state of disarray.
 ~
 human~
 4|128 1024|32768 -250 0
@@ -556,7 +556,7 @@ demon~
 A towering, black scaled demon~
 A towering, black scaled demon has come to eat your soul!
 ~
-The demon stands 20' tall, has two heads, black scales, a mouthfull of 
+The demon stands 20' tall, has two heads, black scales, a mouthful of
 sharp teeth, 4 arms with long razorlike claws, and two muscular legs 
 with cloven hooves. The heads are batlike, and the black eyes seem to 
 vacantly stare at you. As it breathes the ground you stand on rumbles, 
@@ -1003,7 +1003,7 @@ A
 19 3
 E
 pole~
-This pole looks alot like a lance.
+This pole looks a lot like a lance.
 ~
 #17304
 armor green~
@@ -1117,7 +1117,7 @@ A
 E
 sword excalibur~
 You run your fingers over the blue green steel of Excalibur, and you feel 
-a tingling sensation. Your vison blurs until all you see is a blinding 
+a tingling sensation. Your vision blurs until all you see is a blinding
 white light. A warm sensation fills your limbs, and a sense of relaxed 
 comfort permeates you. A deep fatherlike voice says "Now that Arthur is 
 dead, it is up to you to right what he wrought. Seek out and destroy Mordred 
@@ -1254,8 +1254,8 @@ wand ACGHJ AO
 E
 rod wand marble~
 As you examine the wand, you get a funny feeling. It swells into a vision of 
-the previous's wands owner, Morgan Le Fey. You hear a cackling laughter and 
-red eyes bore into your head. As the vison fades you hear the message '
+the previous wand's owner, Morgan Le Fey. You hear a cackling laughter and
+red eyes bore into your head. As the vision fades you hear the message '
 ...with each charmed, your soul belongs a little more to me...'.
 ~
 #17320
@@ -1288,7 +1288,7 @@ key 0 AO
 #17322
 rations trail~
 some trail rations~
-Some trail rations (nuts, dried fuits, dried meats) are here.
+Some trail rations (nuts, dried fruits, dried meats) are here.
 ~
 flesh~
 food 0 A
@@ -1763,7 +1763,7 @@ there is a trail of strange claw marks heading to the west.~
 S
 #17303
 The Forest Arden~
-You are on a path in the great forest Arden. Boy you wish there wern't 
+You are on a path in the great forest Arden. Boy you wish there weren't
 so many of those pesky nats. The trail leads south and east.
 ~
 0 0 3
@@ -1778,7 +1778,7 @@ A dirty trail
 ~
 0 -1 17304
 E
-knats~
+nats~
 They sure are pesky!
 ~
 S
@@ -1971,7 +1971,7 @@ S
 #17313
 The Forest Arden~
 You have entered a bright and cheerful section of the Forest Arden. 
-Squirrels chase one and another around the ancient oaks, and butterfiles 
+Squirrels chase one and another around the ancient oaks, and butterflies
 dance in the dappled sunshine. The air smells sweet, the sun is on your 
 back, and the horsetrodden trail leads north, south, and east.
 ~
@@ -2167,7 +2167,7 @@ S
 #17322
 The Chasm~
 You stand at the brink of a deep chasm. The rope bridge across it has 
-been cut by some vile villian and lies hanging down into the chasm. 
+been cut by some vile villain and lies hanging down into the chasm.
 You can either climb down the bridge, into the chasm, or head to the 
 green field to the east.
 ~
@@ -2185,7 +2185,7 @@ S
 Inside the Inviting Hut~
 You are inside an inviting hut. Around you is the comfortable interior, 
 complete with feather bed and fireplace. A table of fresh meat and 
-vegatables has been set, and on it is an ornate chalice filled with 
+vegetables has been set, and on it is an ornate chalice filled with
 wine. A candle burns brightly and there is a single chair at the table.
 ~
 0 8|8192 0
@@ -2644,7 +2644,7 @@ S
 #17346
 Behind the Pict Lines~
 You have battled your way through the ranks of the Picts, and your 
-salley has placed you behind the Pict lines! To the east the battle 
+sally has placed you behind the Pict lines! To the east the battle
 rages, and you see fleeing Picts headed this way.  A barbarian is winding 
 a horn with the recall signal.
 ~
@@ -2720,13 +2720,13 @@ E
 inscription arch tower~
 You look at the inscription. It reads:
 
-       ONLY HONOR SEPERATES THE KNIGHT FROM THE CRIMINAL~
+       ONLY HONOR SEPARATES THE KNIGHT FROM THE CRIMINAL~
 S
 #17350
 Squire's Run~
 You stand on Squire's Run. Squires bustle up and down the road on various 
 errands for their lords. You notice a scroll lying on the ground. Squire's
-Run contines east and west.
+Run continues east and west.
 ~
 0 0 1
 D1
@@ -2772,7 +2772,7 @@ though the tall grass. The dragon-
 S
 #17352
 Tourney Yard of Camelot~
-You stand in the reknowned tourney yard of Camelot. Here knights challenge 
+You stand in the renowned tourney yard of Camelot. Here knights challenge
 one and another for a claim to a seat on the round table. You can make out 
 several contests underway- perhaps you would like to joust?
 ~
@@ -2891,7 +2891,7 @@ You stand in the squire's barracks. It is here that all of the lackeys
 of the knights of the round table reside while their lords are in court. 
 The place is a jumble of beds, lockers, and tables. Activity swirls 
 around the long wooden benches and tables where at present people are 
-eating. There is a rudimentry camp kitchen, with a roster of the day.
+eating. There is a rudimentary camp kitchen, with a roster of the day.
 ~
 0 8 0
 D0
@@ -2901,7 +2901,7 @@ Squire's Run at the North Gate~
 S
 #17358
 Tourney Yard of Camelot~
-You stand in the reknowned tourney yard of Camelot. Here knights challenge 
+You stand in the renowned tourney yard of Camelot. Here knights challenge
 one and another for a claim to a seat on the round table. You can make out 
 several contests underway- perhaps you would like to joust?
 ~
@@ -2921,7 +2921,7 @@ Tourney Yard of Camelot~
 S
 #17359
 Tourney Yard of Camelot~
-You stand in the reknowned tourney yard of Camelot. Here knights challenge 
+You stand in the renowned tourney yard of Camelot. Here knights challenge
 one and another for a claim to a seat on the round table. You can make out 
 several contests underway- perhaps you would like to joust?
 ~
@@ -2945,7 +2945,7 @@ Victory Road~
 S
 #17360
 Tourney Yard of Camelot~
-You stand in the reknowned tourney yard of Camelot. Here knights challenge 
+You stand in the renowned tourney yard of Camelot. Here knights challenge
 one and another for a claim to a seat on the round table. You can make out 
 several contests underway- perhaps you would like to joust?
 ~
@@ -2996,14 +2996,14 @@ There is a small inscription here.
 ~
 E
 inscription~
-Here stands our rememberance of Miles O' the Lands, knight of quality, of 
+Here stands our remembrance of Miles O' the Lands, knight of quality, of
 the Round Table. He fought valiantly defending the queen in the Battleplain 
 of Arden.
 ~
 S
 #17362
 Tourney Yard of Camelot~
-You stand in the reknowned tourney yard of Camelot. Here knights challenge 
+You stand in the renowned tourney yard of Camelot. Here knights challenge
 one and another for a claim to a seat on the round table. You can make out 
 several contests underway- perhaps you would like to joust?
 ~
@@ -3023,7 +3023,7 @@ Squire's Run at the North Gate~
 S
 #17363
 Tourney Yard of Camelot~
-You stand in the reknowned tourney yard of Camelot. Here knights challenge 
+You stand in the renowned tourney yard of Camelot. Here knights challenge
 one and another for a claim to a seat on the round table. You can make out 
 several contests underway- perhaps you would like to joust?
 ~
@@ -3039,7 +3039,7 @@ Tourney Yard of Camelot~
 S
 #17364
 Tourney Yard of Camelot~
-You stand in the reknowned tourney yard of Camelot. Here knights challenge 
+You stand in the renowned tourney yard of Camelot. Here knights challenge
 one and another for a claim to a seat on the round table. You can make out 
 several contests underway- perhaps you would like to joust?
 ~
@@ -3055,7 +3055,7 @@ Noble Run at the South Gate~
 S
 #17365
 Tourney Yard of Camelot~
-You stand in the reknowned tourney yard of Camelot. Here knights challenge 
+You stand in the renowned tourney yard of Camelot. Here knights challenge
 one and another for a claim to a seat on the round table. You can make out 
 several contests underway- perhaps you would like to joust?
 ~
@@ -3136,7 +3136,7 @@ A Cobblestone Road~
 S
 #17368
 Tourney Yard of Camelot~
-You stand in the reknowned tourney yard of Camelot. Here knights challenge 
+You stand in the renowned tourney yard of Camelot. Here knights challenge
 one and another for a claim to a seat on the round table. You can make out 
 several contests underway- perhaps you would like to joust?
 ~
@@ -3152,7 +3152,7 @@ Tourney Yard of Camelot~
 S
 #17369
 Tourney Yard of Camelot~
-You stand in the reknowned tourney yard of Camelot. Here knights challenge
+You stand in the renowned tourney yard of Camelot. Here knights challenge
 one and another for a claim to a seat on the round table. You can make out
 several contests underway- perhaps you would like to joust?
 ~
@@ -3219,7 +3219,7 @@ S
 #17371
 The Feast Hall~
 You have arrived in the feast hall of Camelot. You are in luck. A feast is 
-in progress. There are many open-benched tables with sevants scurrying 
+in progress. There are many open-benched tables with servants scurrying
 too and fro. Some tables hold knights, while others have ladies. A bard's 
 song adds to the festive air of celebration. A huge fire rages in a great 
 stone hearth, over which a whole boar is being slowly cooked to perfection. 
@@ -3311,7 +3311,7 @@ which a variety of curiosities rest. Merlin also has several animals
 and specimens of this and that in crocks on wooden shelves. You take a 
 glimpse out the open window of Merlin's tower, and see the rolling hills 
 of Camelot as far as you gaze. But most of all you notice the large 
-pulsating pentagram in the center of the room which throbs and humms 
+pulsating pentagram in the center of the room which throbs and hums
 in time to your heartbeat. There is also a SIGN here with unearthly 
 glowing red lettering which blinks over and over the message "LOOK AT ME"
 ~
@@ -3395,8 +3395,8 @@ A staircase winding downwards~
 S
 #17378
 Noble's Chambers~
-You are tresspassing in a noble's chamber. He negligently forgot to lock his 
-door, relying upon the honor of all within Camelot to protect his posessions.
+You are trespassing in a noble's chamber. He negligently forgot to lock his
+door, relying upon the honor of all within Camelot to protect his possessions.
 The chambers consist of a common room, several bed chambers, and a servant 
 area.
 ~
@@ -3428,7 +3428,7 @@ Some fresh vegetables and flowers are growing here.
 S
 #17380
 Noble's Chambers~
-You are tresspassing in a noble's chamber. This noble locked his door, 
+You are trespassing in a noble's chamber. This noble locked his door,
 anticipating intrusion from scum like you. The chambers consist of a common 
 room, several bed chambers, and a servant area.
 ~
@@ -3493,7 +3493,7 @@ S
 #17384
 The Grassy Plains~
 You are travelling through a great grassy plain. You have crossed 
-several baronies in you travels. You have encounterd knights and pilgrims 
+several baronies in you travels. You have encountered knights and pilgrims
 on your journey, and slept in many a hayloft and haystack. The farmland is 
 productive here, and there have been many horse ranches, in which the fine 
 steeds of Camelot are produced. At present you stand in a strange stone 
@@ -3580,7 +3580,7 @@ E
 beach~
 You look at the beach, and you are glad you did. You see smoke coming up 
 from the beach and now as you look closer you see the dwellings of a 
-barbaric people. The beach is definitly inhabited.
+barbaric people. The beach is definitely inhabited.
 ~
 S
 #17387
@@ -3723,7 +3723,7 @@ S
 #17394
 Farms~
 You are travelling though the breadbasket of Camelot, 
-following a cobblestone road. This paticular section of farms is not 
+following a cobblestone road. This particular section of farms is not
 doing as well, as signs of raiding and pillaging abound here. The peasants 
 seem to be bouncing back, and the fields are once again with crop. To 
 the west is a heavily travelled muddy road, and the fields continue to 
@@ -3761,7 +3761,7 @@ S
 #17396
 An Outpost~
 You have reached a fortified outpost. Your boots sink in the mud which 
-is rutted and groved by the supply wagons which come here.
+is rutted and grooved by the supply wagons which come here.
 You talk to the guards and they warn you of the merciless Picts to the 
 west, with whom Camelot is at war. The men are hardened by warfare, and 
 stare at you with eyes that have seen terrible atrocity. To the east are 
@@ -3783,7 +3783,7 @@ You have boldly entered the heart of a raging battle between the knights
 of Camelot and the barbaric Picts. The knights have set up a skirmish 
 line across the field, spreading out the Picts, while two calvary units 
 are sweeping around the ends in a pincher move. Holding the center 
-of the line are several knights of reknown. The Picts are faring badly, 
+of the line are several knights of renown. The Picts are faring badly,
 as their leader has already left the field in cowardly retreat.
 ~
 0 0 2
@@ -3801,7 +3801,7 @@ Stables~
 You stand in the vast stables of Camelot. Row upon row of stalls greet 
 your eye. Smells of horse sweat and fresh straw combine in a pleasant mix. 
 Stable hands are busy currying animals, shoeing horses, and feeding the 
-magnificant chargers of Camelot. Light filters in through the rafters. 
+magnificent chargers of Camelot. Light filters in through the rafters.
 To your west is Knight's Way.
 ~
 0 4096 0

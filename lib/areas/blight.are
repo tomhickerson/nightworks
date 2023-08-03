@@ -597,7 +597,7 @@ A
 #23022
 suit battle armor~
 a suit of Malkerian battle armor~
-A suit of highly pollished armor lies here.~
+A suit of highly polished armor lies here.~
 unknown~
 armor AGK AD
 20 21 20 9 0
@@ -878,7 +878,7 @@ In the Borderlands~
 You are just north of the borderland kingdom of Saldaea.  It is one of the
 four kingdoms that hold back the Dark One's Shadowspawn from the rest of the
 world.  They are a good people, but allow no one and nothing from the Blight to
-pass into thier lands; patrols meet your every effort to move farther south,
+pass into their lands; patrols meet your every effort to move farther south,
 turning you back with suspicious eyes.
 ~
 0 0 2  
@@ -983,7 +983,7 @@ turning you back with suspicious eyes.
 ~
 0 0 2 
 D0
-The Blight strecthes northward.
+The Blight stretches northward.
 ~
 ~
 0 -1 23026
@@ -1151,7 +1151,7 @@ S
 A Warded Glade~
 You didn't even see this area from the south!  It is not a verdant garden,
 but then again, there are actually some green plants here, as well as a spring
-flowing with apparantly untainted water.  You can now see the ancient looking
+flowing with apparently untainted water.  You can now see the ancient looking
 wards surrounding the glade.  Perhaps they were laid buy Lews Therin himself
 or one of the Hundred Companions.  Whoever did it, you are just happy to be
 here, safe from the horrors of the Blight.
@@ -1233,7 +1233,7 @@ A set of stairs leads down into the tower.
 S
 #24003
 Water Storage~
-Here is where the water for the tower was stored, appearantly gathered from
+Here is where the water for the tower was stored, apparently gathered from
 one of the Hundred Lakes.  The water in the tank is not fouled like the water in
 the lakes themselves.  A door leads back into the hallway to the south, while
 to the west you see a small duct, possibly leading back outside to one of the
@@ -1253,7 +1253,7 @@ A small duct leads into one of the Hundred Lakes.
 S
 #24004
 The Training Room~
-Long ago, the finest warriors in the borderlands practiced thier skills in
+Long ago, the finest warriors in the borderlands practiced their skills in
 this room, but shattered remnants of weapons, and a few skeletons are all that
 remains.  Through the blood and wreckage of this room, a slogan is painted all
 across the northern wall, 'May peace favor your sword.'  
@@ -1267,7 +1267,7 @@ The Hallway is south from here.
 S
 #24005
 The Armoury~
-Yoou have come across the tower's armoury.  If you could repair what is left
+You have come across the tower's armoury.  If you could repair what is left
 in this shattered room, you could equip a small army.  Unfortunately, the
 Trolloc hordes that fell upon this mighty tower were very thorough in their
 destruction.  All that is left is twisted metal and splintered wood among the
@@ -1346,7 +1346,7 @@ S
 #24009
 Guard Room~
 The dungeon's guards once kept their watch from this room.  There are no
-longer prisonners to watch, or guards to watch them however, and this room
+longer prisoners to watch, or guards to watch them however, and this room
 holds nothing but wreckage and dust.  A small door is set in the eastern wall,
 while the hallway lies to the south.
 ~
@@ -1363,7 +1363,7 @@ A stout door is set in the southern wall.
 1 23003 24007
 S
 #24010
-Interogation Room~
+Interrogation Room~
 This is were the prisoners of the tower were questioned.  Although you do
 not see any implements of torture in this room, you feel certain the towers'
 guards had many questions answered here.  A small door leads into the guard
@@ -1381,7 +1381,7 @@ The Cells~
 Although no one resides here any longer, you feel a sense of despair.  As
 you look around the area you notice that although the tower was taken, and that
 this area was surely checked, that none of the cells stand open.  Two of the
-cells hold skeletons hanging from rotting ropes appearantly made from rotting
+cells hold skeletons hanging from rotting ropes apparently made from rotting
 bedding.
 ~
 0 AD 0  
@@ -1928,7 +1928,7 @@ S
 #23006
 Edge of the Blight~
 The air here is much more humid than in the borderland kingdom of Shienar
-to the south, each breath is a labor, taxin your strength as you move through
+to the south, each breath is a labor, taxing your strength as you move through
 the area.  Trees still grow here, corrupted and twisted by the Shadow that lays
 heavily across this cursed land.  Decay and disease surrounds you on all sides
 as you realize you are far from the Light.
@@ -1979,7 +1979,7 @@ Entering the Blight~
 The corrupted trees of the Blight sway in the wind, leaves and branches
 seeming to grab at you as you pass by them.  Only fools and
 highly trained Warders enter this far into the Blight, and even the Warders'
-deadly skills are sometimes not enought to keep them alive.
+deadly skills are sometimes not enough to keep them alive.
 ~
 0 0 4  
 D0
@@ -2266,7 +2266,7 @@ The blight continues on to the west.
 S
 #24037
 The Barracks~
-This is were the soldiers of the tower made thier home while in the service
+This is were the soldiers of the tower made their home while in the service
 of the Tower's Lord.  The floor is covered with the rubble of old furnishings
 and the occasional skeleton.  Looking more closely at a section of the northern
 wall you notice a small patch of writing that reads "I should have taken the
@@ -2354,7 +2354,7 @@ The Blight continues on to the west.
 S
 #24039
 Officer's Quarters~
-This room is in amazingly good shape, appearantly these men were not in
+This room is in amazingly good shape, apparently these men were not in
 their quarters when the final assault took place.  You can see that the room
 held four men.  Bunks and lockers are in each corner of the room, disturbed,
 but not destroyed.
@@ -2567,7 +2567,7 @@ S
 #23019
 The Blight~
 This far north into the Blight shadows scurry everywhere, creatures of the
-Dark Oneseeking blood.  The trees are now blackened as if dead, but still sway
+Dark One, seeking blood.  The trees are now blackened as if dead, but still sway
 and shiver as you pass.  Your stomach curls at the stench of evil in everything
 here.  You wonder if the Dark One is truly bound far to the north in Shayol
 Ghul...
@@ -3009,7 +3009,7 @@ A set of stairs lies to the south.
 S
 #23028
 The Blight~
-The Blight surounds you on all sides, trees shivering as if laughing at you
+The Blight surrounds you on all sides, trees shivering as if laughing at you
 as you enter this stretch of the Blight.  You don't have time to wonder what
 the joke is before the first Trollocs appear from hiding, the animal like
 humanoids descend upon you...
@@ -3059,7 +3059,7 @@ S
 The Blight~
 This far north into the Blight shadows scurry everywhere, creatures of the
 Dark One seeking blood.  The trees are now blackened as if dead, but still sway
-and shiver as you pass.  Your stomach curls at the stench of evil in eveything
+and shiver as you pass.  Your stomach curls at the stench of evil in everything
 here.  You wonder if the Dark One is truly bound far to the north  in Shayol
 Ghul...
 ~
@@ -3087,7 +3087,7 @@ The Blight continues on to the west.
 S
 #24054
 Water Storage~
-Here is where the water for the tower was stored, appearantly gathered fro
+Here is where the water for the tower was stored, apparently gathered fro
 one of the Hundred Lakes.  The water in the tank is not fouled like the water in
 the lakes themselves.  A door leads back into the hallway to the south, while
 to the west you see a small duct, possibly leading back outside to one of the
@@ -3181,8 +3181,8 @@ The Blight continues on to the west.
 S
 #24056
 The Armoury~
-Yoou have come across the towers' armoury.  If you could repair what is left
-in this shattered room, you could equip a small army.  Unfourtunately, the
+You have come across the towers' armoury.  If you could repair what is left
+in this shattered room, you could equip a small army.  Unfortunately, the
 Trolloc hordes that fell upon this mighty tower were very thorough in their
 destruction.  All that is left is twisted metal and splintered wood among the
 rotting leather.
@@ -3380,7 +3380,7 @@ S
 #24060
 Guard Room~
 The dungeon's guards once kept their watch from this room.  There are no
-longer prisonners to watch, or guards to watch them, and this room
+longer prisoners to watch, or guards to watch them, and this room
 holds nothing but wreckage and dust.  A small door is set in the eastern wall,
 while the hallway lies to the south.
 ~
@@ -3427,8 +3427,8 @@ The Blight continues on to the west.
 0 -1 23041
 S
 #24061
-Interogation Room~
-This is were the prisonners of the tower were questioned.  Although you do
+Interrogation Room~
+This is were the prisoners of the tower were questioned.  Although you do
 not see any implements of torture in this room, you feel certain the towers
 guards had many questions answered here.  A small door leads into the guard
 room to the west.
@@ -3452,7 +3452,7 @@ The Blight continues on to the north.
 ~
 0 -1 23038
 D1
-The Blight contimues on to the east.
+The Blight continues on to the east.
 ~
 ~
 0 -1 23032
@@ -3472,8 +3472,8 @@ The Cells~
 Although no one resides here any longer, you feel a sense of despair.  As
 you look around the area you notice that although the tower was taken, and that
 this area was surely checked, that none of the cells stand open.  Two of the
-cells hold skeletons hanging from rotting ropes appearantly made from
-bedding.  Surely the Shadowspawn that took the tower would have freed thier
+cells hold skeletons hanging from rotting ropes apparently made from
+bedding.  Surely the Shadowspawn that took the tower would have freed their
 fellows.  Wouldn't they?
 ~
 0 AD 0 
@@ -3586,7 +3586,7 @@ S
 Foxes and Snakes~
 Your mind is still foggy, but a memory of a childhood game struggles to the
 surface.  Foxes and Snakes.  A childhood game more complex than, but not unlike
-hunting snipes, and as you survey the scene you realize why.  You are suspeneded in
+hunting snipes, and as you survey the scene you realize why.  You are suspended in
 mid-air by some unseen force, all around you pale humanoids observe you
 grinning with canine maws.  They are too tall to be humans, and too thin.  You
 are glad that whatever force keeps you from moving on, stops them from getting
@@ -3633,7 +3633,7 @@ S
 Foxes and Snakes~
 Your mind is still foggy, but a memory of a childhood game struggles to the
 surface.  Foxes and Snakes.  A childhood game more complex than, but not unlike
-hunting snipes, as you survey the scene you realize why.  You are suspeneded in
+hunting snipes, as you survey the scene you realize why.  You are suspended in
 mid-air by some unseen force, all around you scaled humanoids are observing
 you.  They seem to have no bones as they sway like willows in the wind.  They
 seem to be in rapture at your presence, smiling absently.  You are glad that
@@ -3682,7 +3682,7 @@ You have entered into a large comfortable room.  Still a bit disoriented,
 it takes you a moment to realize there is a man sitting at a desk by a warm
 looking fireplace.  You feel quite strange.  The man is oblivious to you, and
 you are unable to enter further into the room.  You have never seen the man
-before, but you sense he is a man of great power.  The kind who contols others' 
+before, but you sense he is a man of great power.  The kind who controls others'
 fates with uncommon ease, sitting before a glowing screen, working
 some strange plate before him.
 ~
@@ -3727,7 +3727,7 @@ A Strange Room~
 You are awed by what you see before you, and a little confused.  Lighted
 boxes line a large room.  Lights of all colors blink on the boxes,  two men sit
 at a table on the far side of the room.  They do not notice you, and you cannot
-seem to get thier attention.  More importantly, as you look at some of the
+seem to get their attention.  More importantly, as you look at some of the
 windows in the room, you see great battles taking place, people you know
 talking back in the town you come from, people living and dying, being reborn,
 and dying again.  And the men in the room don't even notice!  You feel a great
@@ -3836,7 +3836,7 @@ The Southern Yard~
 You are in the middle of the southern wall of this strange yard.  The wall
 appears to be made of glass, but when you test it's strength you find it harder
 than steel.  The people outside sometimes look at you with a sense of wonder,
-sometimes disgust, and sometines not at all.  The other beings in the yard look
+sometimes disgust, and sometimes not at all.  The other beings in the yard look
 as confused as you feel.
 ~
 0 ADN 0 
@@ -3940,7 +3940,7 @@ The Eastern Yard~
 You are in the middle of the eastern wall of this strange yard.  The wall
 appears to be made of glass, but when you test its strength you find it harder
 than steel.  The people outside sometimes look at you with a sense of wonder,
-sometimes disgust, and sometines not at all.  The other beings in the yard look
+sometimes disgust, and sometimes not at all.  The other beings in the yard look
 as confused as you feel.
 ~
 0 ADN 0 
@@ -3964,7 +3964,7 @@ S
 Entering the Blight~
 The corrupted trees of the Blight sway in the wind, leaves and branches
 seeming to grab at you as you pass by them.  Your nightmares seem like fanciful
-daydreams compared to the evil that has siezed this land.  Only fools and
+daydreams compared to the evil that has seized this land.  Only fools and
 highly trained Warders enter this far into the Blight, and even the Warders
 deadly skills are sometimes not enough to keep them alive.
 ~
@@ -4044,7 +4044,7 @@ The Northern Yard~
 You are in the middle of the northern wall of this strange yard.  The wall
 appears to be made of glass, but when you test its strength you find it harder
 than steel.  The people outside sometimes look at you with a sense of wonder,
-sometimes disgust, and sometines not at all.  The other beings in the yard look
+sometimes disgust, and sometimes not at all.  The other beings in the yard look
 as confused as you feel.
 ~
 0 ADN 0 
@@ -4148,7 +4148,7 @@ The Western Yard~
 You are in the middle of the western wall of this strange yard.  The wall
 appears to be made of glass, but when you test its strength you find it harder
 than steel.  The people outside sometimes look at you with a sense of wonder,
-sometimes disgust, and sometines not at all.  The other beings in the yard look
+sometimes disgust, and sometimes not at all.  The other beings in the yard look
 as confused as you feel.
 ~
 0 ADN 0 
@@ -4331,7 +4331,7 @@ see the vegetation in this area is almost solid black now.
 ~
 0 0 4  
 D0
-The Blight contimues on to the north.
+The Blight continues on to the north.
 ~
 ~
 0 -1 23055
@@ -4485,7 +4485,7 @@ S
 Entering the Blight~
 The corrupted trees of the Blight sway in the wind, leaves and branches
 seeming to grab at you as you pass by them.  Your nightmares seem like fanciful
-daydreams compared to the evil that has siezed this land.  Only fools and
+daydreams compared to the evil that has seized this land.  Only fools and
 highly trained Warders enter this far into the Blight, and even the Warders'
 deadly skills are sometimes not enough to keep them alive.
 ~
@@ -4646,7 +4646,7 @@ The Blight~
 This area of the Blight seems like all the others at first, death and
 disease reigning everywhere.  Then you notice a small outcrop of rock that
 seems out of place.  Upon closer inspection you realize it is man made,
-apparantly the top of a tower, now buried deep in the earth.
+apparently the top of a tower, now buried deep in the earth.
 ~
 0 0 4  
 D0
@@ -5020,7 +5020,7 @@ S
 The Main Yard~
 Here is where the soldiers of this tower would gather before going on a
 patrol, before the tower was swallowed by the blight.  It appears it is also
-where they made thier last stand against the Trolloc invaders.  The skeletons
+where they made their last stand against the Trolloc invaders.  The skeletons
 of humans and Trollocs alike litter the floor.  You notice with respect that
 the Malkeri must have killed three Trollocs for every man that died after a
 quick survey of the skeletons.
@@ -5397,7 +5397,7 @@ S
 #23078
 The Larder~
 This was the larder for the kitchen. You notice a human skeleton hanging
-from one of the meat hooks that once held fleshly staughtered beef when the
+from one of the meat hooks that once held freshly slaughtered beef when the
 towers kitchens prepared food for it's inhabitants.  All the food has long
 since gone rotten in the larder, leaving nothing for the rats and other
 inhabitants of this place.
@@ -5411,7 +5411,7 @@ The towers kitchens lie to the west.
 S
 #23079
 Dining Hall~
-This is where the soldiers and servants of the tower took thier meals. All
+This is where the soldiers and servants of the tower took their meals. All
 the tables and chairs in the room are broken and scattered about the room, you
 have the feeling that the last meal in this room was it's usual patrons, eaten
 by the Trolloc armies that defeated the tower.
@@ -5589,7 +5589,7 @@ A hallway lies to the south.
 S
 #23088
 Officer's Quarters~
-This room is in amazingly good shape, appearantly these men were not in
+This room is in amazingly good shape, apparently these men were not in
 their quarters when the final assault took place.  You can see that the room
 held four men.  Bunks and lockers are in each corner of the room, disturbed,
 but not destroyed.
@@ -5846,7 +5846,7 @@ D 0 24007 0 2 The north door of The Hallway is closed and locked
 D 0 24008 2 2 The south door of The Hallway is closed and locked
 D 0 24009 1 1 The east door of Guard Room is closed
 D 0 24009 2 2 The south door of Guard Room is closed and locked
-D 0 24010 3 1 The west door of Interogation Room is closed
+D 0 24010 3 1 The west door of Interrogation Room is closed
 D 0 24011 0 2 The north door of The Cells is closed and locked
 D 0 24020 1 2 The east door of The Gatehouse is closed and locked
 D 0 24020 3 2 The west door of The Gatehouse is closed and locked
@@ -5868,7 +5868,7 @@ D 0 24058 0 2 The north door of The Hallway is closed and locked
 D 0 24059 2 2 The south door of The Hallway is closed and locked
 D 0 24060 1 1 The east door of Guard Room is closed
 D 0 24060 2 2 The south door of Guard Room is closed and locked
-D 0 24061 3 1 The west door of Interogation Room is closed
+D 0 24061 3 1 The west door of Interrogation Room is closed
 D 0 24062 0 2 The north door of The Cells is closed and locked
 D 0 24090 0 2 The north door of Near the Mountains of Dhoom is closed and locked
 D 0 23069 1 2 The east door of The Gatehouse is closed and locked
@@ -5979,7 +5979,7 @@ M 0 23010 20 23047 2*Load The diseased creature
 M 0 23020 1 24073 1*Load The metallic orb
 M 0 23019 1 24075 1*Load The Sul'Dam
 E 0 23032 0 17 An a'dam is loaded held in the hands of The Sul'Dam
-E 0 23033 0 5 A plain dress pannelled with lightning bolts is loaded on the body of The Sul'Dam
+E 0 23033 0 5 A plain dress paneled with lightning bolts is loaded on the body of The Sul'Dam
 *
 M 0 23003 3 23051 1*Load The trolloc
 E 0 23001 0 16 A huge curved blade is loaded wielded of The trolloc

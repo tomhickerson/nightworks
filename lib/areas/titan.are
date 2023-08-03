@@ -30,7 +30,7 @@ a poor ally cat~
 A very hungry ally cat is here.
 ~
 You see a dirty little cat walking across your path. The poor animal has no 
-home and must seartch through the garbage for bit of supper. You feel sorry 
+home and must search through the garbage for bit of supper. You feel sorry
 for the little fella.
 ~
 cat~
@@ -43,7 +43,7 @@ stand stand either 0
 #18003
 bongo player drummer~
 the bongo drummer~
-A wild bongo drummer is here, moving with his rythme.
+A wild bongo drummer is here, moving with his rhythm.
 ~
 Beating his drums as best he can, this bongo player really grooves.
 ~
@@ -60,7 +60,7 @@ the guitar player of the band~
 You see a tall wooden guitar player of this little band.
 ~
 Wailing away in tune with the bongo and the windpipe, this wooden guitar player
-can really rock! He plays a familliar tune as the people pass by, keeping 
+can really rock! He plays a familiar tune as the people pass by, keeping
 a little music in the background.
 ~
 giant~
@@ -89,7 +89,7 @@ stand stand female 5300
 #18006
 armourer shop shopkeeper~
 the armourer~
-The smart looking armourer is here, selling his latest fasions.
+The smart looking armourer is here, selling his latest fashions.
 ~
 Making a last minute change on the store rack in the back, he
 runs to you as you walk in, asking if you need any help. If
@@ -107,7 +107,7 @@ shop shopkeeper pet girl~
 the young pet-shop girl~
 The stout little pet-shop girl is here, offering her latest pet.
 ~
-All dressed in pink and blue, with he brown hair done up in a braide, she 
+All dressed in pink and blue, with he brown hair done up in a braid, she
 offers you a variety of animals to chose from.  Several look pretty costly, 
 but these animals are basically for show and probably not for combat. Well, 
 you know what they say: Don't knock 'em till you've bought 'em!
@@ -157,7 +157,7 @@ weaponsmith weapon shopkeeper~
 the weaponsmith~
 A strong young man is here, forging weapons.
 ~
-*CLANG* *CLANG* Is the melodic sounds that echos through this room. Hot sulfer 
+*CLANG* *CLANG* Is the melodic sounds that echos through this room. Hot sulfar
 floats through the air and burns at your nostrils. A huge fire pit is here, 
 used for melting the metal. In the back you see several black anvils, used for 
 the forging of the weapons. If ever you were to go to war, this would be the
@@ -175,7 +175,7 @@ magic library shopkeeper~
 the librarian~
 You see a young mage, tending the library and sorting the books.
 ~
-About 5'6" tall, this short man wabbles about the room, up and down the steps 
+About 5'6" tall, this short man wobbles about the room, up and down the steps
 sorting the books. This is no ordinary library but one that contains magical 
 books and books of lore. Perhaps you should widen your magical knowledge.
 ~
@@ -191,7 +191,7 @@ shopkeeper designer~
 the designer~
 A tall female designer is here, sorting the latest fashions.
 ~
-Standing tall in her long red dress, the store attendent of the Fire-Red 
+Standing tall in her long red dress, the store attendant of the Fire-Red
 Dragon is here, willing to help you find the right clothes. Many cloaks and 
 leather garnets are here, quite the selection. To have the latest in fashion 
 this is a good store to come to.
@@ -209,7 +209,7 @@ the bartender~
 A stout bartender is here, serving fresh ale.
 ~
 "What'll ya have my friend? A fresh brewed beer or perhaps a whisky 
-on the rocks? What'll it be?" The room seems filled with people who whish 
+on the rocks? What'll it be?" The room seems filled with people who wish
 to have a good time; and get drunk.
 ~
 giant~
@@ -225,7 +225,7 @@ a kind waiter~
 A well dressed waiter is here, waiting for your order.
 ~
 "What shall it be? A wonderful Australian Red, or perhaps a perfectly aged 
-Charrdonay? May I suggest the soup of the day, a wonderful mixture of fried 
+Chardonnay? May I suggest the soup of the day, a wonderful mixture of fried
 cod and crab, our cook really did out-do himself this time!" This place seems 
 mighty expensive.
 ~
@@ -256,7 +256,7 @@ stand stand male 200000
 #18016
 florist~
 the florist~
-A young florist is here, puting together a flower arrangement.
+A young florist is here, putting together a flower arrangement.
 ~
 "La-la-Ti-do..." The young florist is singing gently as she puts together 
 flower arrangements. Perhaps she has something for that special "someone" 
@@ -384,7 +384,7 @@ Zanrich the Shopkeeper~
 Zanrich is here, selling his grade "A" containers.
 ~
 The tall young lad is here, selling his special containers. He was rated number
-1 in all the lands, for his speical containers and their capability.
+1 in all the lands, for his special containers and their capability.
 ~
 giant~
 ABT CDEF -100 0
@@ -411,7 +411,7 @@ stand stand male 200000
 #18027
 knight templar~
 the knight templar~
-A strong knight templar is here, patroling the streets.
+A strong knight templar is here, patrolling the streets.
 ~
 All clad in armor this guy looks quite deadly. Would want to mess with him.
 ~
@@ -442,7 +442,7 @@ cook maid chef~
 the house chef~
 The house chef is here, cooking up a meal.
 ~
-"Falalala..Yadedadooo.." signs the house chef merily as she cooks
+"Falalala..Yadedadooo.." signs the house chef merrily as she cooks
 away. *SSSsssssssnnnnnniiiiiifffffff!* It sure does smell nice!
 ~
 giant~
@@ -544,7 +544,7 @@ stand stand male 11300
 #18036
 tournament anti-paladin~
 a tournament anti-paladin~
-A tournamen mage is here, perfecting her spells.
+A tournament mage is here, perfecting her spells.
 ~
 A tournament anti-paladin utters the words 'Algetharb'! She is far to busy 
 perfecting her spells to speak with you. Maybe later.
@@ -721,7 +721,7 @@ a demon of stone~
 An evil demon of stone is here.
 ~
 A 20 foot demon made fully of stone is here. He brings fear into
-your heart, pain into your soul. This tough beast seems unstopable.
+your heart, pain into your soul. This tough beast seems unstoppable.
 ~
 giant~
 ABCT FJYZ -1000 0
@@ -747,9 +747,9 @@ stand stand male 7000
 #18049
 boy titan~
 a small boy titan~
-A small boy titan is here, plaing with some rocks.
+A small boy titan is here, playing with some rocks.
 ~
-This little boy is amusing himself witha few rocks.
+This little boy is amusing himself with a few rocks.
 ~
 giant~
 ABCT FJ -1000 0
@@ -822,7 +822,7 @@ stand stand male 5000
 0 0 large 0
 #18054
 cougar black pet~
-the Visious Black Cougar~
+the Vicious Black Cougar~
 A black cougar is here, protecting its master.
 ~
 Very large and very deadly, you would NOT want to mess with this black cougar!
@@ -958,7 +958,7 @@ An assassin is here, stalking the king and queen.
 ~
 All clad in black, you find this stealthy assassin hiding in the secret 
 passage-way behind the throne. Obviously, someone in the kingdom wants the 
-king and queen destroyed. Why is beyon all knowledge.
+king and queen destroyed. Why is beyond all knowledge.
 ~
 giant~
 ABT DFV -1000 0
@@ -1103,7 +1103,7 @@ the guildguard~
 The Guard for the Guild of rangers stands here.
 ~
 You see a ranger dressed all in black, he quickly stands as you enter and 
-steps to bar your way. You notice his hands resting on two sheafs.
+steps to bar your way. You notice his hands resting on two sheafs of paper.
 ~
 giant~
 ABST D 0 0
@@ -1132,7 +1132,7 @@ a tourist~
 A tourist stands here looking lost.
 ~
 You see a small round dwarven man, gazing at all the sites. He's looking at 
-a small tavelling map that he seems to be holding upside down.
+a small travelling map that he seems to be holding upside down.
 ~
 giant~
 ACGH 0 0 0
@@ -1146,7 +1146,7 @@ store helper aid~
 the store aid~
 The store helper is here, aiding the shopkeeper.
 ~
-A common possition for teenaged titans in this village. You'll be
+A common position for teenage titans in this village. You'll be
 seeing several store aid's in stores allover the village!
 ~
 giant~
@@ -1247,12 +1247,12 @@ N H GHIJK FI
 stand stand female 0
 0 0 large 0
 #18097
-court aritist~
-the court aritist~
-The court aritist is here, consulting with the Queen.
+court artist~
+the court artist~
+The court artist is here, consulting with the Queen.
 ~
-The court aritist is here, giving his bit of advice to the queen. You wouldn't 
-want toget on this guys bad side, for he can draw a spell on you and your 
+The court artist is here, giving his bit of advice to the queen. You wouldn't
+want to get on this guys bad side, for he can draw a spell on you and your
 friends!
 ~
 giant~
@@ -1333,8 +1333,8 @@ stand stand male 5000
 
 #OBJECTS
 #18000
-bottle wine bordeau~
-a bottle of Bordeau Wine~
+bottle wine bordeaux~
+a bottle of Bordeaux Wine~
 A crystal clear bottle of wine lies here.~
 glass~
 drink A AO
@@ -1383,7 +1383,7 @@ drink A AO
 #18006
 slice ham meat~
 a slice of ham~
-A slice of ham is here, lieing in the dirt.~
+A slice of ham is here, lying in the dirt.~
 meat~
 food A A
 44 30 0 0 0
@@ -1399,7 +1399,7 @@ food A A
 #18008
 chicken wing~
 a chicken wing~
-A chiken wing is here.~
+A chicken wing is here.~
 meat~
 food A A
 30 30 0 0 0
@@ -1415,7 +1415,7 @@ food A A
 #18010
 bongo drum~
 a groovy Bong Drum~
-A bongo drum is here, lieing on the ground.~
+A bongo drum is here, lying on the ground.~
 wood~
 weapon AB AN
 exotic 5 5 pound 0
@@ -1429,7 +1429,7 @@ A
 #18011
 guitar~
 a groovy Guitar~
-A guitar is here, lieing on the ground.~
+A guitar is here, lying on the ground.~
 wood~
 weapon AB AN
 exotic 5 6 chomp 0
@@ -1441,7 +1441,7 @@ A
 #18012
 pipe wind windpipe~
 a groovy Wind-Pipe~
-A wind-pipe is here, lieing on the ground.~
+A wind-pipe is here, lying on the ground.~
 wood~
 weapon AB AN
 exotic 6 4 slash 0
@@ -1505,7 +1505,7 @@ food A A
 #18019
 honey comb~
 a honey comb~
-A gewy honey comb is here.~
+A goowey honey comb is here.~
 meat~
 food A A
 47 47 0 0 0
@@ -1541,9 +1541,9 @@ A
 A
 22 -1
 #18023
-scribler~
-a tourists' scribler~
-A scribler is here.~
+scribbler~
+a tourists' scribbler~
+A scribbler is here.~
 cloth~
 trash A A
 0 0 0 0 0
@@ -1688,9 +1688,9 @@ food A A
 50 50 0 0 0
 20 20 350 P
 #18039
-spinich~
-a Titan grown head of spinich~
-A head of spinich is here, grown by the great Titans.~
+spinach~
+a Titan grown head of spinach~
+A head of spinach is here, grown by the great Titans.~
 meat~
 food A A
 50 50 0 0 0
@@ -2015,7 +2015,7 @@ food A A
 3 110 340 P
 #18074
 blueberry icecream~
-a Tripple Scoop of Blueberry Icecream~
+a Triple Scoop of Blueberry Icecream~
 Some icecream is here.~
 food~
 food A A
@@ -2262,7 +2262,7 @@ mountainous peaks stab sharply into the sky, creating a look of might, a look
 of power. Lush green plants can be found in all directions, speckled with the 
 odd reds and yellows of the wild flowers. A small brook trickles alongside the
 path, adding a harmonious tune with the soft whistle of the scarcely know Grey 
-Bird. A soft mist whisps slowly past, cascading over the brook, creating 
+Bird. A soft mist wisps slowly past, cascading over the brook, creating
 a beautiful soft atmosphere. 
 The path continues west and east.
 ~
@@ -2302,13 +2302,13 @@ S
 #18005
 Alongside A Wild Waterfall~
 So much for a quaint little brook. The what once was small brook is now 
-a raging waterfall, crashing and thumping against the rocks, as it visiously 
+a raging waterfall, crashing and thumping against the rocks, as it viciously
 works its way, still of to the north of your path. You notice the mountains 
 seems to encase you in a valley, forever growing taller and more mighty with 
 every step. A dark green moss seems to cover the trees about you, camouflaging
 the wild animals of the woods. It seems as though these trees and plants are 
 older than time itself, yet have never aged a day. The ground is covered in 
-soft brown pine neddles, matting you heavy footsteps. Several large boulders 
+soft brown pine needles, matting you heavy footsteps. Several large boulders
 are scattered here and there throughout the woods. The path continues west and 
 back east.
 ~
@@ -2354,12 +2354,12 @@ The path continues...
 S
 #18008
 The Windy Deer Trail~
-You are on a windy deer trail, which seems to swirve thisway and that. 
+You are on a windy deer trail, which seems to swerve this way and that.
 The sounds of the forests are about you, weaving together in a harmonious tune,
 with the wind in the trees as its melody. The soft mist on your face seems to 
-wet your boots aswell, adding to the special touches of the woods. Annoying
+wet your boots as well, adding to the special touches of the woods. Annoying
 little spider webs seem to stick to your face and clothes, making this trip 
-very much unejoyable. Up ahead you see that the path widens. The path 
+very much unenjoyable. Up ahead you see that the path widens. The path
 continues west and south.
 ~
 0 A 3 
@@ -2378,7 +2378,7 @@ S
 The Path Widens~
 You notice that the path suddenly widens, making it easier to avoid every 
 branch and root that comes your way. You notice that the ground has turned 
-to a lose gravel and begins to be flater than before. The masssive wall of 
+to a lose gravel and begins to be flatter than before. The massive wall of
 the mountain suddenly looms up to your left, and up a head you notice that 
 it juts out, almost creating a dead end. The path continues west and east.
 ~
@@ -2439,11 +2439,11 @@ S
 On The Other Side of The Brook~
 You have made it past the peaceful bridge and are now on a woodchip covered 
 trail. The peaceful sounds of the Blue Birds and the joyous chatter of the 
-chickmunks add to the beauty of these lands. The tall Oak and Mapple are just 
+chipmunks add to the beauty of these lands. The tall Oak and Maple are just
 some of the numerous trees you recognize. Beautifully lush ferns fill the gaps 
 between trees; a little Red Juliefire sprouting out here and there, giving the 
 forest floor a wider variety of color and beauty. In the distance you hear the 
-rushing of a waterfall, and the loud soulfull cry of the Black Crane. The path 
+rushing of a waterfall, and the loud soulful cry of the Black Crane. The path
 continues west and back to the bridge south.
 ~
 0 A 3 
@@ -2485,9 +2485,9 @@ S
 #18014
 The Great Lookout~
 You are standing about 300 feet above the raging rapids of The River of 
-Venis. You realize that the trees did a great job consealing this massive 
-cliff. Right beside you there is a massive rading waterfall that tumbles down 
-at a gloryous speed. It is amazing how powerful these falls are. A well 
+Venis. You realize that the trees did a great job concealing this massive
+cliff. Right beside you there is a massive waterfall that tumbles down
+at a glorious speed. It is amazing how powerful these falls are. A well
 crafted bridge swings the span of the cliff, right in front of the waterfall.
 You would hate to make a mistake and take a step off the bridge. The path 
 continues out south across the bridge, or back east to the trail.
@@ -2506,10 +2506,10 @@ Out across the bridge.
 S
 #18015
 Out On One Third of The Bridge~
-You have managed to walk the first part of the bridge. You catch a glymse 
+You have managed to walk the first part of the bridge. You catch a glimpse
 of what lies below, a 300, perhaps more, foot drop to your death. Still the 
 white foam at the bottom looks as soft as clouds, and the speed of the falls 
-brings a cool, freesh breeze. Just being this high up is so exhilerating, you 
+brings a cool, fresh breeze. Just being this high up is so exhilarating, you
 could stay here for ever! The bridge continues south or back to the solid 
 grounds, north.
 ~
@@ -2520,7 +2520,7 @@ Back to solid ground.
 ~
 0 0 18014
 D1
-You see nothing speical there.
+You see nothing special there.
 ~
 door~
 1 -1 18017
@@ -2539,7 +2539,7 @@ The bridge continues south, and north.
 ~
 0 A 3 
 D0
-The begining of the bridge.
+The beginning of the bridge.
 ~
 ~
 0 0 18015
@@ -2552,15 +2552,15 @@ S
 #18017
 The Druid Lord's Secret Study~
 You have stumbled into the most beautiful room you have ever seen! giant 
-slabs of white marble with the accasional greyish streak through them cover 
+slabs of white marble with the occasional greyish streak through them cover
 every bit of the floor, save for the far south of this room, which has 
-a gloryious carpet, telling the tales of several great battles, all woven 
+a glorious carpet, telling the tales of several great battles, all woven
 into the magical design. Tall book shelves cover the eastern wall of this 
 cavern; books of lore, magic, spells, ceremonies and much more. A giant
-oak desk lies infront of the bookshelves, covered with paper and all of 
+oak desk lies in front of the bookshelves, covered with paper and all of
 Xavier's work. A light blue chair rests in the northern corner. A thin line 
-of glass-like whater cascades down the western opening creating a magical 
-window. Etched in stone high above this wonderous site are the words 
+of glass-like water cascades down the western opening creating a magical
+window. Etched in stone high above this wonderous site are the words
 'Mirror of The Worlds'. You gaze into the light white waters and see your 
 past. Despite being inside a dark cave, this study seems to be quite 
 comfortable. Several bright torches line the walls, and one giant blue flame 
@@ -2578,7 +2578,7 @@ S
 #18018
 The End of The Bridge~
 You have reached the final portion of the bridge. This part was built over 
-the rocky clif, and not the raging rapids. A big beautiful eagle flies high 
+the rocky cliff, and not the raging rapids. A big beautiful eagle flies high
 above. Ahead the deep green trees and plants welcome you joyfully. You cannot 
 wait to get on solid ground again. The exits are south to the road and north 
 to the middle of the bridge.
@@ -2664,10 +2664,10 @@ S
 A Path To A Very Fancy House~
 You are now walking on a stone walkway to a very fancy house. Nicely trimmed 
 flowers and bushes lie in neatly tended patterns along the dark green grass 
-at the fron of the house. The house itself is huge and white. It appears to be 
+at the front of the house. The house itself is huge and white. It appears to be
 two stories high, and it looks to be as though this house belonged to a Lord
 or a Lady, or someone with LOTS of money. You wonder who would live in such 
-an extravagent house. The exits are east to the house, or west to the main 
+an extravagant house. The exits are east to the house, or west to the main
 road.
 ~
 0 A 3 
