@@ -680,7 +680,7 @@ A
 armband platinum band~
 a platinum arm band~
 A platinum arm band, once worn by the Cyclops, lie here.~
-platinium~
+platinum~
 armor 0 AM
 9 9 9 2 0
 26 40 1700 P
@@ -692,7 +692,7 @@ A
 legbands platinum bands~
 some platinum leg bands~
 A pair of platinum leg bands, once worn by the Cyclops, lie here.~
-platinium~
+platinum~
 armor 0 AF
 9 9 9 2 0
 26 40 1700 P
@@ -886,7 +886,7 @@ You sense a glow from the area beyond the mountain, which you cannot see yet.
 ~
 0 0 5
 D0
-Gateway to abysis.
+Gateway to abyss.
 ~
 ~
 0 -1 25000
