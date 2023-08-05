@@ -32,7 +32,7 @@ the vampire lab assistant~
 A lab assistant turns toward you and bares his fangs!
 ~
 This lab assistant was chosen from amongst the undead for both his knowledge
-of magic, and his rather nasty disposition.  He revels in creating loathesome,
+of magic, and his rather nasty disposition.  He revels in creating loathsome,
 twisted, warped creatures to serve Ciquala.
 ~
 human~
@@ -295,7 +295,7 @@ the vampire lab assistant~
 A lab assistant turns toward you and bares her fangs!
 ~
 This lab assistant was chosen from amongst the undead for both her knowledge
-of magic, and her rather nasty disposition.  She revels in creating loathesome,
+of magic, and her rather nasty disposition.  She revels in creating loathsome,
 twisted, warped creatures to serve Ciquala.
 ~
 human~
@@ -576,7 +576,7 @@ small tablet~
 +                               &                                  +
 +                                                                  +
 +                      revised, debugged (?:)                      +
-+               slightly enchanced and balanced by                 +
++               slightly enhanced and balanced by                 +
 +    jaceks and after him by asena            , september 1996     +
 +                                                                  +
 +    PS. prepare to die - it is (40 62) area with aggro mobs       +
@@ -688,7 +688,7 @@ S
 Ciquala's Laboratory~
 This room is lined with shelves that contain a multitude of jars,
 boxes, vials, chests, tubes, glasses, beakers, and other assorted containers.
-You think that drinking the contents of any might have undesireable effects.
+You think that drinking the contents of any might have undesirable effects.
 ~
 0 AD 0
 D0
@@ -888,7 +888,7 @@ D2
 S
 #13417
 Ciquala's Throne Room~
-This room is clothed in darkness, and a chill eminates from the foul
+This room is clothed in darkness, and a chill emanates from the foul
 monarch of the undead.  A large tapestry hangs behind her throne.  The
 ceiling rises above you, hidden in the darkness beyond the range your
 light can penetrate.  A feeling of hopelessness and insignificance overwhelms
