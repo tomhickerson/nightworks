@@ -528,7 +528,7 @@ G 0 29105 0 A vial of bottled moonlight is given to a fluttering nixie
 M 0 29103 3 29107 1*Load a dancing sprite
 E 0 29103 0 13 A sprite belt is loaded around the waist of a dancing sprite 
 M 0 29106 1 29108 1*Load the Faerie Queen
-E 0 29102 0 0 A *twinkling* ball of light is loaded as a light of the Faerie Quee n
+E 0 29102 0 0 A *twinkling* ball of light is loaded as a light of the Faerie Queen
 E 0 29106 0 5 A gossamer robe is loaded on the body of the Faerie Queen 
 E 0 29107 0 16 A moonbeam is loaded wielded of the Faerie Queen
 M 0 29101 4 29108 1*Load a giggling pixie

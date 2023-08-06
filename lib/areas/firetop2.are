@@ -292,7 +292,7 @@ A Troll with very long, powerful arms lopes toward you.
 This ugly monster is only 5 feet tall, but its arms are also nearly five
 feet long, and end with wicked, sharp claws that could cut stone. Yellow
 mucous drips from the fevered beast's slavering maw, and you shudder to
-think fo the germs you could be infecte dwith by this grotesque.
+think fo the germs you could be infected with by this grotesque.
 ~
 troll~
 AQBCFG NO -500 5702
@@ -338,7 +338,7 @@ a vicious Piranha~
 A vicious Piranha sinks its teeth into your leg!
 ~
 You scream in pain as this savage little fish tears out a chunk of flesh.
-It moves almsot too fast for you to catch it in the water, but eventually
+It moves almost too fast for you to catch it in the water, but eventually
 returns for another bite, which gives you a chance to attack it.
 ~
 human~
@@ -377,7 +377,7 @@ ABCG DNO 0 0
 12 0 2d10+150 119d1+1 2d5+3 pound
 0 0 0 8
 R 0 0 0
-stand satnd male 10
+stand stand male 10
 0 0 medium 0
 #5758
 wight~
@@ -418,7 +418,7 @@ a Guard Dog~
 A savage Guard Dog barks to alert its master of your intrusion!
 ~
 Despite appearances, this Dog will not attack unless provoked. If it does, 
-you may find that it is not like msot other Dogs, in that it is very tough 
+you may find that it is not like most other Dogs, in that it is very tough
 and has certain abilities that may catch you by surprise...
 ~
 dog~
@@ -766,7 +766,7 @@ You have no idea what this glove may do...
 ~
 #5748
 mattress~
-a staw mattress~
+a straw mattress~
 A straw mattress stained with various substances is here.~
 wood~
 furniture 0 0
@@ -897,14 +897,14 @@ magical properties...
 #5757
 key~
 a small key~
-A small key iser he.~
+A small key is here.~
 iron~
 key 0 AO
 0 0 0 0 0
 0 0 0 P
 E
 key~
-Upon cloer inspection, you notice that this key as the number 111 engraved
+Upon closer inspection, you notice that this key as the number 111 engraved
 on it.
 ~
 #5758
@@ -1541,7 +1541,7 @@ boat 0 A
 10 100 200 G
 E
 punt boat~
-This punt is a servicable enough boat.
+This punt is a serviceable enough boat.
 ~
 #5805
 ale jack~
@@ -1601,10 +1601,10 @@ container 0 0
 0 0 0 G
 E
 cabinet~
-This cabinet contains the various mementoes of the Warlock.
+This cabinet contains the various mementos of the Warlock.
 ~
 #5810
-mementoes curios curio~
+mementos curios curio~
 one of the Warlock's curios~
 You see one of the Warlock's curios here.~
 paper~
@@ -1613,7 +1613,7 @@ treasure 0 AO
 0 10 800 P
 E
 curio~
-You are lookign at one of the curios of the Warlock of Firetop Mountain, 
+You are looking at one of the curios of the Warlock of Firetop Mountain,
 which may be of value to someone.
 ~
 #5811
@@ -1757,7 +1757,7 @@ S
 #5738
 A Pit~
 Ack! As you open the door and pass through, you fall into a deep pit! The 
-sides are smooth and unscaleable, and for some reason your magic doesn't
+sides are smooth and unscale-able, and for some reason your magic doesn't
 seem to work here. Looks like you might need to recall.
 ~
 0 ACD 0
@@ -2344,7 +2344,7 @@ S
 #5767
 A Gallery~
 You have entered what appears to be an art gallery. Paintings of various old
-men and women of noble birth line the whitewashed walls and you supress a
+men and women of noble birth line the whitewashed walls and you suppress a
 yawn as you walk past. However, one portrait here appears to be different...
 Doors to the north and south allow you to leave this place.
 ~
@@ -2754,7 +2754,7 @@ a bend
 S
 #5788
 A Bend~
-Turning the bend in the corridor, you sunndenly notice that the floor in the
+Turning the bend in the corridor, you suddenly notice that the floor in the
 bend has collapsed, making a gaping huge hole. Peering down into the hole,
 you notice that there is another passageway below this one, running north.
 Since the hole is far too big to leap over, and the passage beyond is blocked
@@ -2867,7 +2867,7 @@ S
 A Bend~
 You have entered into a bend in the passage, where you can head west toward
 a junction, or south along a long dark passageway. There is also a heavy
-oaken portal to the north, wich has a rubber skirt along the base, and heavy
+oaken portal to the north, which has a rubber skirt along the base, and heavy
 rubber insulation along the sides...
 ~
 0 AD 0
@@ -2987,7 +2987,7 @@ It is here that the Orcs prepare their meals and partake of them, seated at
 long filthy benches deeply scarred and stained. Pots and pans bubble and fry
 atop a wood-burning cast-iron stove, and from it an Orc occasionally serves
 himself some rat stew and grits. The Orcs in here seem far too engrossed in
-their gastronomic acitivities to notice your presence, though doubtless they
+their gastronomic activities to notice your presence, though doubtless they
 would react strongly were you to disturb their meals.
 ~
 0 AD 0
@@ -3016,7 +3016,7 @@ a barbarian
 S
 #5802
 A Short Corridor~
-A short, unremarkable corrdior that terminates to the north at a pear-shaped
+A short, unremarkable corridor that terminates to the north at a pear-shaped
 room and to the south at a solid oak door.
 ~
 0 AD 0
@@ -3051,7 +3051,7 @@ a corridor
 S
 #5804
 Outside a Door~
-You are standing at the end of a short east west corrdior, outside a door
+You are standing at the end of a short east west corridor, outside a door
 set in the north wall. You can open this door, or head back to the east,
 where you can see a bridge crossing a wide river.
 ~
@@ -3215,7 +3215,7 @@ construct a tunnel downwards from this passage. This in itself isn't unusual-
 what makes this so weird is the fact that the laborers are animated tools,
 industrious picks, shovels and spades, working and singing merrily as they 
 do! Some of them even stop to make smalltalk with you. You may rest here as
-long as you want, as the toosl will prevent you from any harm. However, you
+long as you want, as the tools will prevent you from any harm. However, you
 cannot attack them, as they are quite immune to your puny efforts.
 ~
 0 ACD 0
