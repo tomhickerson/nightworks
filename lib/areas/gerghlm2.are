@@ -885,7 +885,7 @@ food 0 A
 #7503
 carrot~
 a carrot~
-A carrot is lieing here.~
+A carrot is lying here.~
 food~
 food 0 A
 20 20 0 0 0
@@ -949,7 +949,7 @@ food 0 A
 #7513
 lute~
 a lute~
-A lute is lieing on the ground here.~
+A lute is lying on the ground here.~
 wood~
 wand G AO
 15 10 10 'gas breath' 0
@@ -967,7 +967,7 @@ On the side it has words that say:
 #7514
 harp~
 a harp~
-A harp is lieing on the ground here.~
+A harp is lying on the ground here.~
 gold~
 wand G AO
 30 10 10 'word of recall' 0
@@ -2946,7 +2946,7 @@ S
 #7570
 The shop with lots of food~
    This shop has lots of food in it. Apples, pies, carrots, you name it.
-There is a sign here.
+There is a {Ysign{x here.
 ~
 0 D 0
 D0
