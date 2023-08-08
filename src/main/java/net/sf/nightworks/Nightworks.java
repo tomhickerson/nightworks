@@ -477,7 +477,7 @@ public final class Nightworks {
         String inlast = "";
         int repeat;
 
-        ArrayList<Object> outbuf = new ArrayList<Object>();
+        ArrayList<Object> outbuf = new ArrayList<>();
         String showstr_head;
         /**
          * pointer inside showstr_head
@@ -2615,7 +2615,7 @@ public final class Nightworks {
     /*
     * Global constants.
     */
-    static final ArrayList<social_type> social_table = new ArrayList<social_type>(MAX_SOCIALS);
+    static final ArrayList<social_type> social_table = new ArrayList<>(MAX_SOCIALS);
 
     static HashMap<Integer, ArrayList<SimpleQuest>> quest_table = new HashMap<>();
 

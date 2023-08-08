@@ -60,7 +60,7 @@ class Save {
     * Array of containers read for proper re-nesting of objects.
     */
     private static final int MAX_NEST = 100;
-    private static OBJ_DATA rgObjNest[] = new OBJ_DATA[MAX_NEST];
+    private static final OBJ_DATA[] rgObjNest = new OBJ_DATA[MAX_NEST];
 
 /*
 * Save a character and inventory.
@@ -358,6 +358,9 @@ class Save {
         }
         if (ch.pcdata.questid != 0) {
             fp.sprintf(false, "QuestId %d\n", ch.pcdata.questid);
+        }
+        if (ch.pcdata.questobjnum != 0) {
+            fp.sprintf(false, "QuestObjNum %d\n", ch.pcdata.questobjnum);
         }
         if (IS_QUESTOR(ch)) {
             fp.sprintf(false, "QuestCnt %d\n", ch.pcdata.countdown);
@@ -694,6 +697,7 @@ class Save {
         ch.pcdata.questobj = 0;
         ch.pcdata.questmob = 0;
         ch.pcdata.questid = 0;
+        ch.pcdata.questobjnum = 0;
         ch.religion = RELIGION_NONE;
         ch.pcdata.has_killed = 0;
         ch.pcdata.anti_killed = 0;
@@ -1157,6 +1161,7 @@ class Save {
                     ch.pcdata.questpoints = fp.NKEY("QuestPnts", word, ch.pcdata.questpoints);
                     ch.pcdata.nextquest = fp.NKEY("QuestNext", word, ch.pcdata.nextquest);
                     ch.pcdata.questid = fp.NKEY("QuestId", word, ch.pcdata.questid);
+                    ch.pcdata.questobjnum = fp.NKEY("QuestObjNum", word, ch.pcdata.questobjnum);
                     ch.quest = (int) fp.FLAG64_OLD("Ques", word, ch.quest);
                     break;
 

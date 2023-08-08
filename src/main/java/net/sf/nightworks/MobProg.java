@@ -487,6 +487,7 @@ class MobProg {
                             // check the counter, subtract one
                             if (ch.pcdata.questobjnum == 0) {
                                 // end the quest
+                                finish_the_quest(ch, mob, q);
                             } else {
                                 // let the player know how many are left
                                 do_say(mob, "That's one of " + ((SimpleCollectQuest) q).getNumberToCollect());
