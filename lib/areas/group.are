@@ -50,11 +50,11 @@ with the shields.
 
 -1 BACKSTAB 'DUAL BACKSTAB'~
 Backstab is the favored attack of  thieves, murderers, and other rogues.  It 
-can be only be used with daggers, knifes or other kind of stabing weapons.
+can be only be used with daggers, knifes or other kind of stabling weapons.
 The damage inflicted by a backstab is determined by the attacker's level, his
 weapon skill, his backstab skill, and the power of his opponent.
-Thives may learn to dual backstab in their higher levels.  A second 
-backstab can be executed after the first one, automaticly.
+Thieves may learn to dual backstab in their higher levels.  A second
+backstab can be executed after the first one, automatically.
 Only thieves may learn the skill to backstab.
 
 If a thief practices dual backstab, he/she gets a chance for a second backstab
@@ -120,7 +120,7 @@ win a battle through alchemy and treachery rather than skill or strength.
 Or, put another way, it's a skill used by the smart to kill the foolish.
 Food, drink, and weapons may be envenomed, with varying effects. Poisoned
 food or drink puts a mild poison spell on the consumer, and is unlikely to
-be more than a minor inconvience (after all, the typical adventurer could
+be more than a minor inconvenience (after all, the typical adventurer could
 drink sewer water with only a trace of the runs).  A poisoned weapon, on
 the other hand, can inflict serious damage on an opponent as the poison 
 burns through his bloodstream.  But be careful, blade venom evaporates 
@@ -144,7 +144,7 @@ it.
 
 -1 PARRY 'CROSS BLOCK'~
     If at first you fail to dodge, block it.  Parry is useful for deflecting 
-attacks, and is succesful more often than dodge.  Parry requires a weapon for
+attacks, and is successful more often than dodge.  Parry requires a weapon for
 full success, the hand-to-hand skill may also be used, but results in reduced
 damage instead of no damage.  The best chance of parrying occurs when the
 defender is skilled in both his and his opponent's weapon type. Due to their
@@ -167,7 +167,7 @@ A friend in need is a friend indeed.  And when in combat, a warrior with
 the rescue skill is just the friend you need.  Rescue allows you to intercede
 in combat, protecting weaker characters from bodily harm. Hopefully the
 favor will be returned.  Success in rescuing depends on the skill rating, as
-well as a comparision of level, dexterity, and speed between the character and
+well as a comparison of level, dexterity, and speed between the character and
 the target. (note: you rescue a friend, not the monster)
 ~
 
@@ -203,7 +203,7 @@ with the second weapon.
 -1 HIDE SNEAK~
 Hide and sneak are similar skills, both related to remaining undetected.
 Hiding is done by moving in civilized shadows which are generally 
-geometricaly shaped, and mostly found in civilized world but not in forests.
+geometrically shaped, and mostly found in civilized world but not in forests.
 Hide has a very high chance of success, but only works for as long as the
 character remains silent.  Sneak may be used when moving (including to
 sneak by monsters), but has a lower chance of success.  Only and thieves  
@@ -230,7 +230,7 @@ harder you practice lore, the more information you will find.
 Haggling is an indispensable skill to the trader.  It allows a character to
 match wits with a merchant, seeking to get a better price for merchandise,
 or to buy at the lowest possible cost.  Unfortunately, most merchants are 
-already very skilled at haggling, so the untrainined adventurer had best 
+already very skilled at haggling, so the untrained adventurer had best
 guard his treasure closely.  Thieves are natural masters at haggling, 
 although other classes may learn it as well.
 ~
@@ -245,7 +245,7 @@ harder to peek at.  Only thieves can peek.
 Lock picking is one of the prime skills of thieves, allowing them to gain
 access to many secured areas.  Lock picking chances are improved by  
 intelligence, and hindered by the difficulty of the lock. Very few 
-classes, may learn to pick locks, and thives are the master of it.
+classes, may learn to pick locks, and thieves are the master of it.
 ~
 -1 PERCEPTION~
 Perception is one of the prime skills of thieves, allowing them to gain
@@ -263,7 +263,7 @@ much trouble learning to meditate.
 -1 STEAL~
 Theft is the defining skill of the thief, and is only available to that class.
 It allows items to be stolen from the inventory of monsters and characters,
-and even from shops!  But beware, shop keepers gaurd their merchandise 
+and even from shops!  But beware, shop keepers guard their merchandise
 carefully.
 ~ 
 
@@ -352,7 +352,7 @@ This spell does no damage to creatures who are immune to fire.
 Syntax: cast 'holy word'
 
 Holy word involves the invocation of the full power of a cleric's god, with
-disasterous effects upon the enemies of the priest coupled with powerful
+disastrous effects upon the enemies of the priest coupled with powerful
 blessings on the priest's allies.  All creatures of like alignment in the
 room are blessed and filled with righteous divine wrath, while those of
 opposite morals (or both good and evil in the case of neutral priests)
@@ -469,7 +469,7 @@ measure.
 -1 'FLOATING DISC'~
 Syntax: cast 'floating disc'
 
-This useful spell creates a floating field of force which follows the caser
+This useful spell creates a floating field of force which follows the caster
 around, allowing him or her to pile treasure high with no fear of weight
 penalties.  It lasts no more than twice the casters level in hours, and
 usually less.  It can hold 10 pounds per level of the caster, with a 
@@ -504,7 +504,7 @@ command.  Examples of use:
 alias gc get all corpse --> typing gc will equal typing 'get all corpse'
 alias ff cast 'fireball' --> ff orc will equal 'cast 'fireball' orc'
 
-Only the first word on the line will be subsituted at this time.
+Only the first word on the line will be substituted at this time.
 ~
 
 0 ESCAPE~
@@ -533,7 +533,7 @@ than the chance of success increases.
 -1 'SENSE LIFE'~
 Syntax: cast 'sense life'
 
-	When a character is affected by this spell, that characeter can sense
+	When a character is affected by this spell, that character can sense
 the life forms in the room, even though he/she cannot see.
 ~
 
