@@ -39,10 +39,10 @@ removes the extra blank line before your prompt.
 
 -1 DEAF~
 .
-  The deaf toggle turns off incoming tells, helpfull if you are being bombarded
+  The deaf toggle turns off incoming tells, helpful if you are being bombarded
 by messages from other players.  You can still use reply (see 'help reply') to
 reply to people who were telling you before you went deaf, although you
-cannot reply to a deaf person unless you or they are a diety (it's mostly 
+cannot reply to a deaf person unless you or they are a deity (it's mostly
 useful for sending a quick "I'm being spammed so I went deaf" message to
 a person).
 ~
@@ -121,7 +121,7 @@ killed, together with all of your equipment.
 your then experience points, your race, class and your previous deaths.
 	After each three deaths if you are a samurai your charisma reduces by
 one, otherwise your constitution decreases by one. 10 deaths brings a samurai
-a permanant death. But a samurai can decrease the number of deaths by solving
+a permanent death. But a samurai can decrease the number of deaths by solving
 some quests.
 	Corpses decay after time, but the objects inside corpses fall to the
 ground.
@@ -221,7 +221,7 @@ UNACCEPTABLE:
 2)  Well known names from literature or mythology.  (Chronos, Zeus)
 3)  Nouns which are names of animals.  (Horse, Doll)
 4)  Strings of random characters.  (Asdfg, Qwdldkf)
-5)  Titles which imply rank or privelege.   (Lord, Sir,...)
+5)  Titles which imply rank or privilege.   (Lord, Sir,...)
 6)  Scientific phrases, words. (Proof, Logic, Electrics...)
 6)  Object names. (Necklace,Staff,Sword, etc)
 
@@ -416,7 +416,7 @@ perform any command.  The command may have arguments.  You are responsible
 for the actions of your followers, and others who attack your followers
 will incur the same penalty as if they attacked you directly.
 
-	Most charmed creatures lose their aggresive nature (while charmed). But
+	Most charmed creatures lose their aggressive nature (while charmed). But
 intelligent mobiles can remember you and may try to attack you after the affect
 of charm is passed.
 
@@ -466,7 +466,7 @@ reading notes:
 note list	: show all notes (unread notes are marked with an N)
 note read	: either by number, or read next to read unread notes
 note remove	: removes a note that you wrote or are the target of
-note catchup	: markes all notes as read
+note catchup	: marks all notes as read
 
 writing new notes:
 note to		: sets the to line (playername, clanname, immortal, or all)
@@ -621,7 +621,7 @@ For example:
 who immortal    lists all immortals playing
 who pk			lists all characters in your PK range
 who elf         lists all elven clerics
-who entropy pk  lists all characters in entropy cabal, (if you are a mamber) 
+who entropy pk  lists all characters in entropy cabal, (if you are a member)
 		which are in your PK range
 
 Races may be abbreviated.
@@ -693,7 +693,7 @@ and attack you.
 0 TRACK~
 Syntax: track
 
-	While you are fighting if your opponent fleds you can follow 
+	While you are fighting if your opponent flees, you can follow
 it/his/her just typing track.
 ~
 
@@ -744,7 +744,7 @@ Syntax : bashdoor <direction>
 
 	It enables the player to bash the locked doors. You may succeed
 to open the door and even you may fall in the next room, as well. But 
-unsuccessfull attempts may result in damage to your body.
+unsuccessful attempts may result in damage to your body.
 ~
 
 0 'BLINDNESS DUST'~
@@ -772,7 +772,7 @@ which makes you resistive against the fire or cold attacks.
 Syntax: cast 'web' <victim>
 	
 	This spell is disables char moving in any direction. Also web
-decreases the hit probability and dexerity of the victim.
+decreases the hit probability and dexterity of the victim.
 ~
 0 MAGIC RESISTANCE~
 Syntax: cast 'magic resistance'
@@ -821,7 +821,7 @@ Syntax: cast 'fear' <victim>
  
   	Fear spell allows the caster to touch the victim with the fingers of 
 fear and force him to flee. And the "remove fear" spell removes the fear
-affacet from the victim.
+affect from the victim.
 
 ~
 
@@ -1071,7 +1071,7 @@ All of these commands use up their objects.  Potions and scrolls have a single
 charge.  Wands and staves have multiple charges.  When a magical object has no
 more charges, it will be consumed.
 
-These commands may require an item skill to be succesful, see the help entries
+These commands may require an item skill to be successful, see the help entries
 on the skills scrolls, staves, and wands for more information.
 ~
 
@@ -1145,7 +1145,7 @@ back to the Temple of Midgaard.
 Recalling back to hometown is a spell. But all players below level 10th 
 may use this spell by the help of the gods. The gods transfer the players 
 below level 10, by only their praying. You must be calm enough to 
-concenterate and pray to the gods, so you are not able to pray not 
+concentrate and pray to the gods, so you are not able to pray not
 only in the fights, but also sometime after a fight. Those who are over 
 level 10 must find a way to cast the spell to recall.
 
@@ -1302,7 +1302,7 @@ the ban list, if the remover is of equal or higher level than the banner.
 A site may have all players, new players, or non-permitted players (set
 by editing the player file) banned, by changing the argument after the site.
 *s may be used to ban either by suffix (*.edu), prefix (labmac*), or 
-content (*andrews*), but be careful not to accidently lock out too many
+content (*andrews*), but be careful not to accidentally lock out too many
 sites with a wildcard.  Bans do not save unless the permban command is used.
 ~
 
