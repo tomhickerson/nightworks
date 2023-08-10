@@ -1541,7 +1541,7 @@ invisible.
 Toggling your incognito status will hide your presence from people outside the
 room you are in, but leave you visible to those who are with you.  It takes
 a level argument similar to wizinvis, people at that level or higher can see
-you regarless of location.
+you regardless of location.
 ~ 
 
 92 MEMORY~
@@ -1901,7 +1901,7 @@ dangerous for casters who are not pure of heart.
 ~
 0 'DISPEL MAGIC' CANCELLATION~
 Syntax: cast 'dispel magic' <character>
-        cast 'cancellation' <characte>
+        cast 'cancellation' <character>
  
 Both of these spells remove magical effects from the target.  Dispel magic
 has a reduced chance of working, and is considering an attack spell.
@@ -1943,7 +1943,7 @@ of the weapon by one...and there is no turning back.
 -1 'ENCHANT ARMOR'~
 The enchant armor spell imbues armor with powerful protective magics. It is
 not nearly as reliable as enchant weapon, being far more prone to destructive
-effects.  Each succesful enchant increases the plus of the armor by 1 or 2
+effects.  Each successful enchant increases the plus of the armor by 1 or 2
 points, and raises its level by one.
 
 It is said to be that the enchantment of powerful items by powerful
@@ -2049,7 +2049,7 @@ This spell reduces the strength of the victim by two, as well as reducing the
 victim's regeneration rate. It may also be used to poison food, drink, or
 a weapon in a fashion similar to envenom ('help envenom'), but with 
 drastically reduced effectiveness. Tearing the flesh by poisoned weapons 
-may cause the victim to get posioned.
+may cause the victim to get poisoned.
 ~
 
 0 SANCTUARY 'MASS SANCTUARY'~
@@ -2057,7 +2057,7 @@ Syntax: cast sanctuary  <character>
 Syntax: cast 'mass sanctuary'
 
 The SANCTUARY spell reduces the damage taken by the character from any attack
-by one half. It is said to be that a very special tecnique of attack 
+by one half. It is said to be that a very special technique of attack
 passes the sanctuary protection. The mass sanctuary spell affects caster's 
 group.
 ~
@@ -2114,7 +2114,7 @@ limited weapons.
 0 INSANITY~
 Syntax: cast 'insanity' <victim>
 
-	Powerful necromencers have the secret of this spell which make 
+	Powerful necromancers have the secret of this spell which make
 the players aggressive for a while.
 ~
 0 'HEALING LIGHT'~
@@ -2135,16 +2135,16 @@ using this spell.
 
 Syntax: settraps
 
-	Master thiefs can set a trap to kill their victims. This trap has 
+	Master thieves can set a trap to kill their victims. This trap has
 a timer and it can give damage to your victims only once.
 ~
 0 'LIGHTNING SHIELD'~
 
 Syntax : cast 'lightning shield'
 
-	Powerful necromancers and witchs can make a shield to protect 
+	Powerful necromancers and witches can make a shield to protect
 themself that wake them if they are sleeping when any mobiles or victims 
-entered the room.
+enter the room.
 ~
 0 'SHOCKING TRAP'~
 
@@ -2214,30 +2214,30 @@ character creation process:
 
 Human:     Humans are the typical, average race, possessing no advantages nor
            disadvantages.
-Elves:     Elves are slender and fragile, yet agile and dextrous creatures.
-	   There are currently THREE elf races.(Elf,Dark-Elf,Half-Elf).
+Elves:     Elves are slender and fragile, yet agile and dexterous creatures.
+	   There are currently THREE elf races.(Elf, Dark-Elf, Half-Elf).
 Dwarf:     Dwarves are typically high in constitution and strength, and have 
-	   infravision.There are currently THREE: Dwarf,Duergar,Svirfnebli.
+	   infravision. There are currently THREE: Dwarf, Duergar, Svirfnebli.
 Gnome:     Gnomes are typically highly intelligent but low in strength. And 
 	   gnomes costs 300 extra exps per level.
-Arial:     Arials are a highly dextrous and smart race.They always fly. And 
-	   arials costs 250  exps per level.
+Arial:     Arials are a highly dexterous and smart race. They always fly. And
+	   arials costs 250 exps per level.
 Giant:     Giants are great and strong race. They are higher in constitution. 
 	   There are currently FOUR: Fire-Gia, Storm-Gia, Frost-Gia, Cloud-Gia.
-Felar:	   They are not strong , but has the ability to see in the dark, called 
+Felar:	   They are not strong, but has the ability to see in the dark, called
 	   infravision. And felar costs 250 extra exps per level.
-Rockseer  :Rockseer are  fragile, agile and dextrous creatures. They can pass 
+Rockseer  :Rockseer are fragile, agile and dexterous creatures. They can pass
 	   all kinds of doors. They are neutral, cost 500 extra exps per level.
-Githyanki :Human like creatures but high in intelligent. They can be fighter,
-	   caster, or fighter/caster.Cost 250 creation points.
-Satyr	  :Half human ,half goat race.High in dexterity but low much strong.
-	   They are good ranger and thieves.Cost 250 creation points.
-Troll     :Hindered by their slow intellect and mobility, grow to obtain a
-           state of health.They cost extra 300 creation points.
+Githyanki :Human like creatures but high in intelligence. They can be fighter,
+	   caster, or fighter/caster. Cost an extra 250 exps per level.
+Satyr	  :Half human, half goat race. High in dexterity but not very strong.
+	   They are good rangers and thieves. Cost an extra 250 exps per level.
+Troll     :Hindered by their slow intellect and mobility, but can regenerate
+           health quickly. They cost an extra 300 exps per level.
 
 P.S.	: Remember that some races have their specific spells, i.e rockseers
-	  have their own spell 'meld into stone'. FOR more information 	try 
-	  to read helps of each races.
+	  have their own spell 'meld into stone'. For more information try
+	  to read the HELPs of each races.
 
 See also:  CLASS, WORLD
 
@@ -2375,7 +2375,7 @@ elves, half-elves see in the dark with infravision.
 -1 SVIRF SVIRFNEBLI DEEP-GNOME~
 
 The Svirfnebli, also known as deep gnomes, have made their way into Anatolia as
-the paths to the Underdark have been found.  Slighty larger than their 
+the paths to the Underdark have been found.  Slightly larger than their
 surface cousins, these gnomes are also stronger and a little more hearty from
 centuries of working stone.  The dedication to stone has made them not  
 quite as adept mentally as their cousins, but yet they are still regarded 
@@ -2393,7 +2393,7 @@ Felar.  They are renowned, however, for their agility and their "nine lives".
 It is said a Felar can withstand blows in battle (or from an angry master)
 that would kill a human outright.
 
-The thick fur of the Felar makes them resistent to cold, but also very
+The thick fur of the Felar makes them resistant to cold, but also very
 vulnerable to fire.  They also abhor water and are liable to drown in it.
 Despite heavy modification by their former masters, the Felar retain the
 large claws and fangs of their ancestors.  This gives them the ability to
@@ -2431,15 +2431,15 @@ mithril.
 -1 SATYR~
 
 Satyrs are a race of half human and half goat race.They are evil.  They are 
-inherently dextrerious. But not strengthful. Due the desterity they can
-steal from someone , camuflage themselves and ambush opponents very easly.
+inherently dexterous. But not strong. Due to their dexterity they can
+steal from someone, camouflage themselves and ambush opponents very easily.
 
 ~                      
 -1 GITHYANKI~
 
-Githyanki's are more intelligient then humanbeings. But they are constitutive
-as human race. But they are evil. And they can be either fighter , caster or
-fighter/caster races.They are good warriors . But casters use only offensive 
+Githyanki's are more intelligent then human beings. But they are constitutive
+as human race. But they are evil. And they can be either fighter, caster or
+fighter/caster races. They are good warriors. But casters can use only offensive
 spells.
 
 ~
@@ -2447,11 +2447,11 @@ spells.
 -1 ROCKSEER ROCKSEERS~
 
 Rockseers are a race of renegade elves who lives underworld in rock caves.
-They are inherently intelligent but have neglected intellectualstudies 
+They are inherently intelligent but have neglected intellectual studies
 and become very translucent from years of generations of trying to pass 
 rocks.  Like elves, rockseers have infravision and can walk innocent and
-can pass doors easily.Rockseers must stay neutral to cast any spells they 
-might know. And because of their organism they are vulnerable to woods.
+can pass doors easily. Rockseers must stay neutral to cast any spells they
+might know. And because of their organism they are vulnerable to wood.
 They have a specific spell called 'meld into stone'.
 
 ~                      
@@ -2462,7 +2462,7 @@ undying stamina of the mountains they reside in, these green skinned beasts
 often grow to obtain a state of health few other races believed possible.
 Hindered by their slow intellect and mobility, the troll society seems to
 have decided as a whole to rejoin the races of the realms, moving out of
-their sanctuaries in numbers reaching high into the thousands
+their sanctuaries in numbers reaching high into the thousands.
 ~
 -1 'CLASS' 'CLASSES' 'CLASS HELP'~
 
@@ -2478,7 +2478,7 @@ Ranger       Ran      STR	 ANY	200	forest warrior
 Ninja	     Nin      DEX	 ANY    300   	thief/cleric       
 AntiPaladin  A-P      STR	 ANY	300	warrior/mage       
 Paladin      Pal      STR	 ANY	400	warrior/cleric     
-Samurai      Sam      STR        ANY    500  	masters of ancient battlearts 
+Samurai      Sam      STR        ANY    500  	masters of ancient battle arts
 Vampire      Vam      INT	 ANY	300	simply vampire
 Warlock      WrK      INT        ANY     0      magician
 Necromancer  Nec      INT	 ANY	200	simply necromancer
@@ -2516,7 +2516,7 @@ Such fervor and zeal gives them deadly spells to compliment their already
 superb fighting skills.  They seek only personal gain and to cause suffering
 and pain to good.  Anti-paladins must stay evil in order to cast their 
 spells. Those who forsake evilness are frowned upon. Anti-paladins can try
-to threathen the mobiles, and can get their equipments by demanding it from
+to threaten the mobiles, and can get their equipments by demanding it from
 them.
 
 ~
@@ -2560,7 +2560,7 @@ taking the direct approach, even when another method might be called for.
 
 -1 SAMURAI SAMURAIS~
 	More powerful honorable warriors. But after level 10 they cannot flee 
-because their honor doesn't let them. But under some circumtances, they may
+because their honor doesn't let them. But under some circumstances, they may
 dishonor themselves.
 ~
 
@@ -2682,7 +2682,7 @@ the same race as you.
 Syntax: assassinate <victim>
 
 Very high level ninjas can learn to kill in one hit. This surprise
-attack must be on a fully healed target. Ninja aproaches his or her
+attack must be on a fully healed target. Ninja approaches his or her
 victims from behind, and with a fast move, twists their head, breaking
 the neck. The skill must be used both hands free, and it has a little
 chance for an instant kill.
@@ -2744,7 +2744,7 @@ This, of course, also starts combat.
 
 0 'RESISTANCE LIGHT' 'LIGHT RESISTANCE'~
 
-    A vampire recieves damage from natural light. But a high level vampire can teach 
+    A vampire receives damage from natural light. But a high level vampire can teach
 themselves how to resist light.
 
 ~
@@ -2766,7 +2766,7 @@ anything. Then the FIGHT STOPS for a moment, that magician can escape.
 0 'SAND STORM'~
 Syntax: cast 'sand storm'
 
-   A powerful magicia can make a storm which inflicts damage all the mobiles
+   A powerful magician can make a storm which inflicts damage all the mobiles
 in the room. But if there is no sand he can't do.
 ~
 0 'TARGET'~
@@ -3022,9 +3022,9 @@ for deletion. For other matters, use common sense.
    punishment determined by IMPLEMENTORS.  Repeat DO NOT exploit bugs, you 
    WILL be IMMEDIATELY punished.
 9. SPAMMING IS ILLEGAL.  (Spam filling up someone's screen with needless 
-   repetion of anything)  You will be given one warning and then deleted.
+   repetition of anything)  You will be given one warning and then deleted.
    Don't do it.
-10. Sexual harrassment will not be tolerated.  If both parties do not consent
+10. Sexual harassment will not be tolerated.  If both parties do not consent
     to the socials/emotes, then don't do them.
 11. Cheating will not be tolerated. This includes accepting favors from
     gods and exploiting bugs.
@@ -3038,7 +3038,7 @@ for deletion. For other matters, use common sense.
   these rules.
 
   Changes  to these rules are at the discretion of the immortals, and
-  may be done withoutwarning, notice, or even evidence of sanity.
+  may be done without warning, notice, or even evidence of sanity.
 
 ~
 0 LAWS LAW ~
@@ -3113,7 +3113,7 @@ against evil doers.  There is a 3 minute (real time) wait for requesting.
 0 DEMAND~
 Syntax: demand <object> <mobile>
 
-	Anti-paladins can try to threathen the mobiles, and can get their 
+	Anti-paladins can try to threaten the mobiles, and can get their
 equipments by demanding it from them. If the player fails, the mobile may
 attack to the player.
 ~
@@ -3146,7 +3146,7 @@ BattleRager:  BattleRagers live for combat, and look down on those who need
 	      and are very wary of clerical magic.
 
 Chaos:    Chaos wants to spread chaos throughout the land.  Not necessarily
-	  evil, just against the orderwed society.  They feel that laws and
+	  evil, just against the ordered society.  They feel that laws and
 	  rules hamper freedom, and will go out of their way to see them
 	  broken, or to cause chaos.
 
@@ -3173,7 +3173,7 @@ See also: CABAL
 
 0 REPAIR ESTIMATE~
 Syntax: repair <item>
-Syntax: estiamte <item>
+Syntax: estimate <item>
 
    During fight your equipment gets damage. And after full damages the
 equipment breaks into pieces.
@@ -3338,7 +3338,7 @@ Syntax: cast 'amnesia' <victim>
 
 	This spell is can only be used by immortals. It is way of punishment.
 When this spell is cast, the victim forgets the half of his/her skills and 
-spells permanantly.
+spells permanently.
 
 ~
 
@@ -3398,7 +3398,7 @@ appears and hits the victim with a powerful force.
 -1 'DETECT UNDEAD'~
 Syntax: cast 'detect undead'
 
-	This spell enables the caster to detect undeads.
+	This spell enables the caster to detect undead.
 ~
 
 -1 DISRUPTION~
@@ -3475,7 +3475,7 @@ strike.
 Syntax: Endure
 
 This is a meditation technique used to strengthen one's defence
-againts magical attacks
+against magical attacks
 ~
 
 -1 TRANCE~
@@ -3609,7 +3609,7 @@ having the same align reduces your charisma by one.
 -1 SPELLCRAFT 'SPELL CRAFT'~	
 	Spell craft is only available of the class that have the high 
 capability of delivering spells. The spell craft makes the spells more 
-effective so that the casters have their own privilages.
+effective so that the casters have their own privileges.
 ~
 
 -1 BLINK~
@@ -3644,7 +3644,7 @@ in resetting of an area then it appears in the shrine of Cabal LIONs.
 Syntax: cammove
 
 	A lion cabal member can move , without losing his/her affect of
-camuflage.
+camouflage.
 ~
 -1 LEADER LEADERS~
 .	
@@ -3655,7 +3655,7 @@ If any problem occurs, you are RESPONSIBLE.
 ~
 
 -1 RELIG RELIGION~
-	Find the Templaman in the Midgaard, and say the name of your god.
+	Find the Templeman in the Midgaard, and say the name of your god.
 Syntax : say <god_name> 
 	The list of religions.
      Leader		  Ethos	
@@ -3685,7 +3685,7 @@ Syntax : help 'siebele'
                       So on
 
 	Don't forget that some of the tattoos can be seen powerful with respect
-to the others, but their probabities is much lower.
+to the others, but their probabilities is much lower.
 ~
 0 'ATUM-RA' RA~
 .
@@ -3811,7 +3811,7 @@ as well.
 ~
 
 0 DRAG~
-Synxtax: drag <object> <direction>
+Syntax: drag <object> <direction>
 
 You may drag heavier objects that you can carry.  If you cannot get an object,
 you may drag it to wherever you want. Of course there are strength limitations
