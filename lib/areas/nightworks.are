@@ -645,7 +645,7 @@ you need the sun light to cast this spell effectively.
 * Damageable and repairable equipments are introduced.
 * Bank is implemented.
 * Color code is inserted.
-* Mobiles started to track last foughts.
+* Mobiles started to track last fights.
 * Spells castable to room (room affects, do_raffect command) are implemented.
 * Good players can request objects from good mobs.
 * Anti-Paladins can demand objects from any mob (chance of attacking).
@@ -700,7 +700,7 @@ Also check FROM20TO21
 * Now offensive spells are castable to other rooms, as well:
     cast 'acid blast' n.fido
     cast 'acid blast' e.2.fido
-* Mobiles starts to remember the players that once fight with them, untill
+* Mobiles starts to remember the players that once fight with them, until
   they are killed, or anatolia is rebooted.
 * Races of mobiles is now a header of mobiles description.
 * PC's can speak either common language or their mothertongue.
@@ -884,7 +884,7 @@ All those who survived the attacks of the barbaric community were called
 to the magically built tower of sorcery, where a great meeting was held.
 The great mage, named Jutnirvas, took his place at the end of a huge hall
 where all the mages were collected. He then began his forever unforgotten
-speach:
+speech:
 
   "Greetings performers of the Art! I know that you all feel nervous for the
 fact that we, all those who managed to survive the hunt, are here in one 
@@ -897,18 +897,18 @@ The great power of the Art! The power of magic! We must make this tower
 our first stronghold, a castle where we can defeat the outsiders. We 
 will have to improve our magical powers, and this can only be achieved
 by a long, disciplined work. We will need all sorts of magical power,
-the good, the neutral, and the evil. They must all be worked, reserched,
+the good, the neutral, and the evil. They must all be worked, researched,
 so we can survive. And with us, our magic shall survive too, growing in
 force each day. We will bind ourself together, not let chaos sweep away
 what we will make possible. Now, will you fight by my side!!!?"
 
-   The answer was a thundering yes from every singal person in the room. That
+   The answer was a thundering yes from every single person in the room. That
 day, Shalafi was founded, and became a home for many of the great
 magicians who lived in the following centuries. Jutnirvas's dream still
-lives this day, and houses many reserch projects of the mages. Those
+lives this day, and houses many research projects of the mages. Those
 who can penetrate through the defenses of the Groove that lies around
-the tower and also the undeads of the tower of high sorcery may hear the
-screams of summoned demons, explosions of cast spells that shake the
+the tower and also the undead of the tower of high sorcery may hear the
+screams of summoned demons, explosions of cast spells that shake the earth.
 ~
 
 0 $~
