@@ -165,7 +165,7 @@ wand 0 AO
 #29353
 staff crystal~
 a crystal staff~
-A beautiful crystaline staff lies here amongst the treasure.~
+A beautiful crystalline staff lies here amongst the treasure.~
 stone~
 staff G AO
 70 5 5 'heal' 0
@@ -249,7 +249,7 @@ A
 #29359
 hell sword wraith~
 the Hell's Wraith~
-This sword was supposedly forged in the depths of Hell. It's wavy blade makes it appear much like a large kris. It is a bit unwieldly at first but the damage it inflicts is unbelievable.~
+This sword was supposedly forged in the depths of Hell. It's wavy blade makes it appear much like a large kris. It is a bit unwieldy at first but the damage it inflicts is unbelievable.~
 admantite~
 weapon ABEGM AN
 exotic 10 8 bite CE
@@ -267,8 +267,8 @@ A
 A
 3 -1
 #29360
-robes sorceror~
-sorceror's robes~
+robes sorcerer~
+sorcerer's robes~
 Long black robes covered in moons and stars.~
 unknown~
 armor G AK
@@ -281,7 +281,7 @@ A
 #29361
 infinity scroll~
 the Infinity Scroll~
-The old scroll rumored to have answers to all questions. (Unfortunately you just killed the last thing in existance that could read it.)~
+The old scroll rumored to have answers to all questions. (Unfortunately you just killed the last thing in existence that could read it.)~
 silver~
 armor ABG AO
 23 23 24 11 0
@@ -333,8 +333,8 @@ A
 A
 17 -5
 #29365
-thieve's tunic~
-a Thieve's Tunic~
+thieves tunic~
+a Thieves Tunic~
 A black shirt with many pockets.~
 admantite~
 armor G AD
@@ -411,13 +411,13 @@ furniture 0 0
 E
 cross~
 This Area is high level only, level 45-75.  There are aggressive mobs,
-anyone under level 45 is recomended to avoid this area.  ===RYZEN <=== 
+anyone under level 45 is recommended to avoid this area.  ===RYZEN <===
 ~
 E
 cross~
 This Area, "The Lich's Tower" has been designed by Ryzen for HIGH level
-characters.  Recomended levels for this area are 45-75, anyone under that, I
-suggest strongly that you avoid this area as there are several aggresive
+characters.  Recommended levels for this area are 45-75, anyone under that, I
+suggest strongly that you avoid this area as there are several aggressive
 mobs.  However, as this area is the only way to get to a few others, the
 mobs do NOT detect invis, so as long as you are invis you should be able to
 get where you want to go, Alive.  ===> RYZEN <=== 
@@ -746,7 +746,7 @@ S
 #29367
 The Lich's Throne Room~
 Entering this room, your eyes lock on a large bone throne and its
-occupent sitting against the eastern wall.  The room is handsomely decorated.
+occupant sitting against the eastern wall.  The room is handsomely decorated.
 Ancient grimoires and scrolls catch your eye for a brief second, just long
 enough for Myzelak the Lich Lord to attack.  The only exits are through the
 doors to your north or west.  
