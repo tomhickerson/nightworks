@@ -392,7 +392,7 @@ shark tiger~
 the tiger shark~
 A shark with strange broad stripes is snacking on your leg.
 ~
-The tiger shark is thick and squatish in appearance. You think its jaws 
+The tiger shark is thick and squat in appearance. You think its jaws
 would make a fine trophy.
 ~
 human~
@@ -787,14 +787,14 @@ The frozen captive is so gratified by your kindness that
 she tells you a story. ` A long time ago, Lok started this
 area, and had major writers block. Well, Simba sort of 
 nudged him and he broke out of his block. With Rainman
-doing the main debugging and alot of dark beer, this
+doing the main debugging and a lot of dark beer, this
 area was created for your amusement. The secret to sailing
 is that all simple seas never border on grounding reefs.
 If you are in shallows type exit after each move to look 
 for shoals ( they wont show in the night ). There is a main
 clockwise current running in the high seas, so don't sleep
-on the high seas, or you will drift.. There are alot of 
-clues throughout isles so don't just powermud and miss all.
+on the high seas, or you will drift.. There are a lot of
+clues throughout isles, so don't just powermud and miss all.
 Lok charmed me so you wouldn't just mindlessly butcher me.'
 ~
 human~
@@ -1114,7 +1114,7 @@ A round sphere on the ground is swallowing all the light around it.
 ~
 glass~
 wand C AO
-40 20 20 'dispel nagic' 0 
+40 20 20 'dispel magic' 0
 30 3 1000 P
 E
 orb nullifier~
@@ -3057,7 +3057,7 @@ The central shack~
 S
 #17240
 Inside the House on Stilts~
-You have entered the house of the pirate lord. On the walls are momentos 
+You have entered the house of the pirate lord. On the walls are mementos
 of his various raids. Here a sword. There a skirt. From the ceiling, a flag.
 Hides of many different animals are nailed to the walls and floor. Maps
 lie in rolls in an open chest. A low bunk is set against the far wall.

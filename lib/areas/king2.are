@@ -364,7 +364,7 @@ A junior cook, eager to do the Chef's bidding.
 ~
 human~
 ABH 0 300 0
-41 0 25d10+2000 409d1+1 4d8+14 ounch
+41 0 25d10+2000 409d1+1 4d8+14 punch
 -14 -14 -14 4
 EH 0 0 C
 stand stand male 3000
@@ -468,7 +468,7 @@ executioner~
 the Executioner~
 Executioner is here on duty.
 ~
-Big. Very big. Not stupid like Hassan but dagerous like one.
+Big. Very big. Not stupid like Hassan but dangerous like one.
 ~
 giant~
 ABFTc CDEFGNOVc 1000 0

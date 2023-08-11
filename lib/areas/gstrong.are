@@ -512,7 +512,7 @@ the south end of the Great Hall.
 #29029
 gold~
 a small pile of gold~
-A small pile of gold is here glitering.~
+A small pile of gold is here glittering.~
 gold~
 money 0 A
 0 75 0 0 0
@@ -636,9 +636,9 @@ officious-looking goblins, and a myriad of other distractions compete for
 the time of the king. The Throne Room is a perfectly-round chamber with
 a large statue of a heroic-looking dwarf in the centre. Once again,
 tapestries line the walls, portraying battles and glory. If it was possible
-to instil more chaos into this carnival atmosphere, you have succeeded. The
+to instill more chaos into this carnival atmosphere, you have succeeded. The
 king leaps to his feat, and goblin guards bar your escape back south. Grumm
-dosen't look like he wants to talk! There is a doorway to your east, and
+doesn't look like he wants to talk! There is a doorway to your east, and
 another to the west.
 ~
 0 D 0
@@ -666,7 +666,7 @@ S
 #29005
 Goblin Shaman's Quarters~
 This room is a delightful change from the rest of the fortress. The
-air is sweet with the smell of incence, and the room is clean (by goblin
+air is sweet with the smell of incense, and the room is clean (by goblin
 standards anyways). There is a large bookcase on the north wall, and before
 it, a desk and chair.
 ~
@@ -694,7 +694,7 @@ King Grumm's Throne Room.
 S
 #29007
 Hidden Passage~
-This passage s obscured behind the curtian. It leads north into the
+This passage s obscured behind the curtain. It leads north into the
 Throne Room, and to the south there is a door.
 ~
 0 D 0
