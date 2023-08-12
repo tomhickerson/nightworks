@@ -2529,6 +2529,12 @@ public final class Nightworks {
                 || ch.pIndexData.vnum == MOB_VNUM_IRON_GOLEM
                 || ch.pIndexData.vnum == MOB_VNUM_ADAMANTITE_GOLEM);
     }
+
+    public static boolean IS_ELF(CHAR_DATA ch) {
+        return ch.race.name.equals("dark-elf")
+                || ch.race.name.equals("half-elf")
+                || ch.race.name.equals("elf");
+    }
 /*
  * Object macros.
  */
