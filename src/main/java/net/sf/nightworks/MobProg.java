@@ -473,7 +473,7 @@ class MobProg {
                         if (obj.pIndexData.vnum == ch.pcdata.questobj) {
                             finish_the_quest(ch, mob, q);
                         } else {
-                            do_say(mob, "I'm not sure what this is?");
+                            do_say(mob, "This doesn't look like anything to me?");
                             do_drop(mob, obj.name);
                         }
                         return;
@@ -495,7 +495,7 @@ class MobProg {
                             }
 
                         } else {
-                            do_say(mob, "I'm not sure what this is?");
+                            do_say(mob, "This doesn't look like anything to me?");
                             do_drop(mob, obj.name);
                         }
                         return;
@@ -542,7 +542,7 @@ class MobProg {
         }
 
         if (get_obj_carry(ch, "xxx") != null) {
-            do_say(mob, "I think you bring something for me....");
+            do_say(mob, "I think you brought something for me....");
             interpret(mob, "smile", false);
         }
     }
