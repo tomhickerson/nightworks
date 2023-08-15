@@ -5,14 +5,13 @@ Abandoned Village~
 100 199
 #MOBILES
 #101
-oldstyle smurf~
-a smurf~
-A smurf is singing and walking along.
+oldstyle cat~
+a cat~
+A cat is slinking along its way, ignoring you.
 ~
-A cute little blue smurf with a white hat and white boots.  You have a sudden
-urge to crush him.
+A cute little blue and gray cat with white paws.
 ~
-human~
+cat~
 AGHS DF 100 0
 1 0 2d4+2 0d9+100 1d2+0 none
 10 10 10 10
@@ -20,13 +19,13 @@ BEFJNU 0 0 0
 stand stand male 1
 0 0 medium 0
 #102
-oldstyle smurf~
-a smurf~
-A smurf is here, picking berries.
+oldstyle cat~
+a cat~
+A black cat is here, smelling the berries.
 ~
-A small smurf is quietly picking berries.  He seems to hardly notice you.
+A small black cat is here playing with the berries.  He seems to hardly notice you.
 ~
-human~
+cat~
 ABHS DF 100 0
 1 0 2d4+2 0d9+100 1d2+0 none
 10 10 10 10
@@ -34,14 +33,13 @@ BEFJNU 0 0 0
 stand stand male 1
 0 0 medium 0
 #103
-oldstyle brainy smurf~
-Brainy Smurf~
-Brainy Smurf is here, mumbling something to himself.
+oldstyle smart cat~
+Smart Cat~
+A smart-looking cat is here, meowing something to himself.
 ~
-Brainy Smurf has on his usual glasses.  Brainy Smurf isn't liked much by the
-other smurfs.  They fear his knowledge.  Knowledge is power!
+This cat is a red tabby, and looks very intelligent.  He looks like he is sizing you up.
 ~
-human~
+cat~
 AGHS DF 100 0
 3 0 2d7+21 1d9+100 1d5+0 none
 8 8 8 10
@@ -49,14 +47,13 @@ BEFJNU 0 0 0
 stand stand male 1
 0 0 medium 0
 #104
-oldstyle handy smurf~
-Handy Smurf~
-Handy Smurf is building something here.
+oldstyle rough cat~
+Rough Cat~
+A rough-looking cat is walking around here, agitated for some reason.
 ~
-Handy is always building something.  He never takes a break.  Why don't you
-give him a break, like all of his bones.
+This black and white cat looks a little rough around the edges, and not very friendly.
 ~
-human~
+cat~
 AGHS DF 100 0
 3 0 2d7+21 1d9+100 1d5+0 none
 8 8 8 10
@@ -64,14 +61,13 @@ BEFJNU 0 0 0
 stand stand male 1
 0 0 medium 0
 #105
-oldstyle sleepy smurf~
-Sleepy Smurf~
-Sleepy Smurf is sleep walking here.
+oldstyle sleepy cat~
+Sleepy Cat~
+A sleepy Cat is sleep walking here.
 ~
-Sleepy never gets enough sleep.  You would think he goes to college.  I wonder
-if he has ever stayed up a whole night without sleeping.
+This white cat looks at you with tired green eyes.
 ~
-human~
+cat~
 AGHS DF 100 0
 3 0 2d7+21 1d9+100 1d5+0 none
 8 8 8 10
@@ -79,14 +75,13 @@ BEFJNU 0 0 0
 stand stand male 1
 0 0 medium 0
 #106
-oldstyle hefty smurf~
-Hefty Smurf~
-Hefty Smurf is lifting weights here.
+oldstyle hefty cat~
+Hefty Cat~
+A hefty red and brown cat is here, bouncing happily along.
 ~
-Hefty is a total health nut.  He lifts weights, eats right, and exercises all
-the time.  Won't do him much good when he's DEAD.
+This red and brown cat looks pretty muscular, a very well-built and well-fed cat.
 ~
-human~
+cat~
 AGHS DF 100 0
 3 0 2d7+21 1d9+100 1d5+0 none
 8 8 8 10
@@ -94,13 +89,13 @@ BEFJNU 0 0 0
 stand stand male 1
 0 0 medium 0
 #107
-oldstyle grumpy smurf~
-Grumpy Smurf~
-Grumpy Smurf is here, swearing.
+oldstyle grumpy cat~
+Grumpy Cat~
+A grumpy Cat is here, meowing and swearing.
 ~
-Grumpy has never been happy in his whole life.  So why don't you just end it?
+A dour, black and white cat is here, with a sour expression on its little face.
 ~
-human~
+cat~
 AGHS DF 100 0
 3 0 2d7+21 1d9+100 1d5+0 none
 8 8 8 10
@@ -108,14 +103,13 @@ BEFJNU 0 0 0
 stand stand male 1
 0 0 medium 0
 #108
-oldstyle jokey smurf~
-Jokey Smurf~
-Jokey Smurf is here, holding a present.
+oldstyle jokey cat~
+Jokey Cat~
+A small grey cat is here, it looks to be laughing.
 ~
-Jokey loves to give people presents.  Too bad the present explodes when opened.
-Oh well, to each his own.
+This small grey cat has a funny expression on its face, with slanted eyes and a smiling mouth.
 ~
-human~
+cat~
 AGHS DF 100 0
 3 0 2d7+21 1d9+100 1d5+0 none
 8 8 8 10
@@ -186,9 +180,9 @@ stand stand male 1
 #0
 #OBJECTS
 #100
-bunch berries smurfberries~
-a bunch of smurfberries~
-A bunch of delicious looking smurfberries lie here.~
+bunch berries raspberries~
+a bunch of raspberries~
+A bunch of delicious looking raspberries lie here.~
 food~
 pill 0 A
 8 '' '' 'detect magic' ''
@@ -257,8 +251,8 @@ key 0 A
 0 20 0 P
 #108
 well~
-a smurf well~
-A small smurfy well is here.~
+a small well~
+A small well is here.~
 stone~
 fountain 0 0
 50 50 'water' 0 0
@@ -266,7 +260,7 @@ fountain 0 0
 #109
 key~
 a small key~
-A key to Gargamel's door lies here.~
+A key to the tower's door lies here.~
 wood~
 key 0 A
 2 0 0 0 0
