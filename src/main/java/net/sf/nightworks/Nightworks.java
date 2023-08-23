@@ -2125,6 +2125,7 @@ public final class Nightworks {
         int questmob;       /* quest */
         public int questid; // achievement id of quest
         public int questobjnum; // for collect quests
+        public int questnumtokill; // for defend quests, hunt quests
         Race race;       /* orginal race for polymorph */
         int time_flag;  /* time log problem */
         final int[] log_time = new int[MAX_TIME_LOG]; /* min.s of playing each day */

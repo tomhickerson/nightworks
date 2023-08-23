@@ -13,6 +13,7 @@ public class SimpleDefendQuest extends SimpleQuest {
 
     private ArrayList<Integer> vnumMobs = new ArrayList<>();
     private ArrayList<Integer> rooms = new ArrayList<>();
+    private int numberToKill = -1;
     private setup questSetup;
 
     public setup getQuestSetup() {
@@ -25,6 +26,14 @@ public class SimpleDefendQuest extends SimpleQuest {
 
     public void runSetup() {
         this.questSetup.run();
+    }
+
+    public int getNumberToKill() {
+        return numberToKill;
+    }
+
+    public void setNumberToKill(int numberToKill) {
+        this.numberToKill = numberToKill;
     }
 
     public ArrayList<Integer> getVnumMobs() {
