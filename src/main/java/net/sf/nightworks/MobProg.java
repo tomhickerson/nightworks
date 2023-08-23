@@ -2,10 +2,7 @@ package net.sf.nightworks;
 
 import net.sf.nightworks.enums.PlayerAchievement;
 import net.sf.nightworks.enums.PlayerMessage;
-import net.sf.nightworks.quests.SimpleCollectQuest;
-import net.sf.nightworks.quests.SimpleGetQuest;
-import net.sf.nightworks.quests.SimpleKillQuest;
-import net.sf.nightworks.quests.SimpleQuest;
+import net.sf.nightworks.quests.*;
 import net.sf.nightworks.util.TextBuffer;
 
 import java.lang.reflect.Method;
@@ -277,7 +274,12 @@ class MobProg {
                         }
                     } else if (q instanceof SimpleCollectQuest || q instanceof SimpleGetQuest) {
                         do_say(mob, "Maybe you have something for me...?");
-                    } // defend quest and hunt quest and follow quest?
+                    } else if (q instanceof SimpleDefendQuest || q instanceof SimpleHuntQuest) {
+                        if (ch.pcdata.questnumtokill == 0) {
+                            finish_the_quest(ch, mob, q);
+                        }
+                    }
+                    // defend quest and hunt quest and follow quest?
                     return;
                 } else if (q.getQualifier(ch)) { // and you haven't taken the quest before? set in qualifier
                     if (q.getAdvancedPreamble() == null) {
@@ -491,7 +493,7 @@ class MobProg {
                             } else {
                                 // let the player know how many are left
                                 do_say(mob, "That's one of " + ((SimpleCollectQuest) q).getNumberToCollect());
-                                do_say(mob, "You have " + ch.pcdata.questobjnum + " let to collect!");
+                                do_say(mob, "You have " + ch.pcdata.questobjnum + " left to collect!");
                             }
 
                         } else {
