@@ -277,11 +277,11 @@ import static net.sf.nightworks.util.TextUtils.str_cmp;
 
 class ActMove {
 
-    static final String dir_name[] = {"north", "east", "south", "west", "up", "down"};
+    static final String[] dir_name = {"north", "east", "south", "west", "up", "down"};
 
-    static final int rev_dir[] = {2, 3, 0, 1, 5, 4};
+    static final int[] rev_dir = {2, 3, 0, 1, 5, 4};
 
-    static final int movement_loss[] = {1, 2, 2, 3, 4, 6, 4, 1, 6, 10, 6};
+    static final int[] movement_loss = {1, 2, 2, 3, 4, 6, 4, 1, 6, 10, 6};
 
 
     static void move_char(CHAR_DATA ch, int door) {
@@ -612,6 +612,9 @@ class ActMove {
         if (IS_SET(ch.progtypes, MPROG_ENTRY)) {
             ch.pIndexData.mprogs.entry_prog.run(ch);
         }
+        /*
+        check for the end of any follow quests, maybe with mobprogs only
+         */
     }
 
 
@@ -735,7 +738,7 @@ class ActMove {
 
 /* scan.c */
 
-    static final String distance[] = {"right here.", "nearby to the %s.", "not far %s.", "off in the distance %s."};
+    static final String[] distance = {"right here.", "nearby to the %s.", "not far %s.", "off in the distance %s."};
 
     static void do_scan2(CHAR_DATA ch) {
         act("$n looks all around.", ch, null, null, TO_ROOM);
@@ -2205,7 +2208,7 @@ class ActMove {
     }
 
 
-    static String door[] = {"north", "east", "south", "west", "up", "down", "that way"};
+    static String[] door = {"north", "east", "south", "west", "up", "down", "that way"};
 
     static void do_track(CHAR_DATA ch, String argument) {
         ROOM_HISTORY_DATA rh;
