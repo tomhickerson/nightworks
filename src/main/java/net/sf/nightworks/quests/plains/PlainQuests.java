@@ -2,6 +2,7 @@ package net.sf.nightworks.quests.plains;
 
 import net.sf.nightworks.enums.PlayerAchievement;
 import net.sf.nightworks.enums.PlayerMessage;
+import net.sf.nightworks.quests.SimpleCollectQuest;
 import net.sf.nightworks.quests.SimpleGetQuest;
 import net.sf.nightworks.quests.SimpleKillQuest;
 import net.sf.nightworks.quests.SimpleQuest;
@@ -63,12 +64,9 @@ public class PlainQuests {
     }
 
     private static SimpleQuest.advPreamble getHermitPreamble() {
-        return new SimpleQuest.advPreamble() {
-            @Override
-            public void showPreamble(CHAR_DATA ch, CHAR_DATA mob) {
-                act("$n stands up and looks about.", mob, null, null, TO_ROOM);
-                do_say(mob, "There's a rascally rabbit around here that needs killing.  Do you think you're up to the task?  Just say YES if so.");
-            }
+        return (ch, mob) -> {
+            act("$n stands up and looks about.", mob, null, null, TO_ROOM);
+            do_say(mob, "There's a rascally rabbit around here that needs killing.  Do you think you're up to the task?  Just say YES if so.");
         };
     }
 
@@ -92,6 +90,11 @@ public class PlainQuests {
                 send_to_char(PlayerMessage.CONSUMED_BY_ANGER.getMessage(), ch);
             }
         };
+    }
+
+    public static SimpleCollectQuest returnPilgrimQuest() {
+        SimpleCollectQuest scq = new SimpleCollectQuest(3, "Find alms for the Blind Pilgrim");
+        return scq;
     }
 
 }
