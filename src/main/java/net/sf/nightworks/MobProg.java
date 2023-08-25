@@ -427,6 +427,9 @@ class MobProg {
                     } else if (q instanceof SimpleCollectQuest) {
                         ch.pcdata.questobj = ((SimpleCollectQuest) q).getVnumToCollect();
                         ch.pcdata.questobjnum = ((SimpleCollectQuest) q).getNumberToCollect();
+                    } else if (q instanceof SimpleHuntQuest) {
+                        ch.pcdata.questnumtokill = ((SimpleHuntQuest) q).getNumberToKill();
+                        ch.pcdata.questmob = ((SimpleHuntQuest) q).getVnumToKill();
                     }
                     // set kill multiples here?
                     // add an id for the quest itself, get achievement

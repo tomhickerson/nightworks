@@ -5,6 +5,7 @@ package net.sf.nightworks.quests;
  * The MOB has to be part of the area, in the room, to make the proposition
  * Do we need a quest setup here? hopefully not, we can just make the mob follow the player
  * However, how do we then check that the quest is over?
+ * and what if it's to bring an item to a place instead, is that another quest?
  */
 public class SimpleFollowQuest extends SimpleQuest {
     private int vnumToReach = -1;
