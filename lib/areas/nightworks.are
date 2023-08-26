@@ -336,6 +336,10 @@ Yb  "88  dP__Yb  88"Yb  Yb  "88 Yb   dP   8P   88  .o 88""   o.`Y8b
  YboodP dP""""Yb 88  Yb  YboodP  YbodP   dP    88ood8 888888 8bodP'     
 
  
+ "We are like the dreamer who dreams, then lives inside the dream..."
+ 
+ "But who is the dreamer?"
+ 
 {WS{9P{8E{7L{6L{5B{4O{3U{2N{1D, {Wbuilt on
 	{iNightworks{W MUD server 1.0{w
     by Mike Fursov, 2006.
@@ -372,6 +376,45 @@ By which name do you wish to be known? ~
 The magician longs to see,
 One chants out between two worlds
 Fire, walk with me."
+
+ 
+{WS{9P{8E{7L{6L{5B{4O{3U{2N{1D, {Wbuilt on
+	{iNightworks{W MUD server 1.0{w
+    by Mike Fursov, 2006.
+Based on:                                 
+    {RANATOLIA{w 3.1 by 1997-1999 Serdar {rBULUT{w, Ibrahim
+    {rCANPUNAR{w, Murat {rBICER{w, Devrim Baris {rACAR{w
+    {gROM{w  2.4 copyright (c) 1993-1995 {vRuss Taylor{w
+    {yMERC{w 2.1 code by {oHatchet, Furey and Kahn{w
+    {mDikuMUD{w by Hans {aStaerfeldt{w, Katja {aNyboe{w,
+    Tom {aMadsen{w, Michael {aSeifert{w and Sebastian {aHammer{w
+{x
+                                                                       
+By which name do you wish to be known? ~ 
+
+-1 GREETING4~
+{w
+ _______               __ __ __                         __ __ 
+|     __|.-----.-----.|  |  |  |--.-----.--.--.-----.--|  |__|
+|__     ||  _  |  -__||  |  |  _  |  _  |  |  |     |  _  |__ 
+|_______||   __|_____||__|__|_____|_____|_____|__|__|_____|__|
+ _______ |__|    __                                           
+|     __|.-----.|  |.-----.--------.-----.                    
+|    |  ||  _  ||  ||  -__|        |__ --|__                  
+|_______||_____||__||_____|__|__|__|_____|  |                 
+ _______                                  |_|                 
+|     __|.-----.---.-.----.-----.                             
+|    |  ||  -__|  _  |   _|__ --|__                           
+|_______||_____|___._|__| |_____|  |                          
+ _______                         |_|    __                    
+|     __|.---.-.----.-----.-----.--.--.|  |.-----.-----.      
+|    |  ||  _  |   _|  _  |  _  |  |  ||  ||  -__|__ --|      
+|_______||___._|__| |___  |_____|___  ||__||_____|_____|      
+                    |_____|     |_____|                   
+					
+"This is the water, and this is the well, 
+drink full and descend. 
+The horse is the white of the eyes and dark within."
 
  
 {WS{9P{8E{7L{6L{5B{4O{3U{2N{1D, {Wbuilt on
@@ -459,7 +502,7 @@ cannot have mortal characters.
 
 92 COMMANDMENTS LAWS 'GOD RULES' GODS~
 .
-                          The Rules of ANATOLIA 
+                          The Rules of SPELLBOUND 
  
 1)  Do not kill mortals, do not kill mortals, do not kill mortals.
     This includes transferring/summoning them to aggressive mobs.
