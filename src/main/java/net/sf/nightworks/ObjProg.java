@@ -1550,8 +1550,8 @@ class ObjProg {
 
 
     static void wear_prog_snake(OBJ_DATA obj, CHAR_DATA ch) {
-        act("{gSnakes of whip starts to breath a poisonous air.{x", ch, obj, null, TO_CHAR, POS_DEAD);
-        act("{gSnakes of whip starts to breath a poisonous air.{x", ch, obj, null, TO_ROOM, POS_DEAD);
+        act("{gSnakes of the whip start to breathe a poisonous air.{x", ch, obj, null, TO_CHAR, POS_DEAD);
+        act("{gSnakes of the whip start to breathe a poisonous air.{x", ch, obj, null, TO_ROOM, POS_DEAD);
         if (ch.level > 20 && ch.level <= 30) {
             obj.value[2] = 4;
         } else if (ch.level > 30 && ch.level <= 40) {
@@ -1572,12 +1572,12 @@ class ObjProg {
 
 
     static void remove_prog_snake(OBJ_DATA obj, CHAR_DATA ch) {
-        act("{rSnakes of whip slowly melds to non-living skin.{x", ch, obj, null, TO_CHAR, POS_DEAD);
-        act("{rSnakes of whip slowy melds to non-living skin.{x", ch, obj, null, TO_ROOM, POS_DEAD);
+        act("{rSnakes of the whip slowly change to non-living skin.{x", ch, obj, null, TO_CHAR, POS_DEAD);
+        act("{rSnakes of the whip slowly change to non-living skin.{x", ch, obj, null, TO_ROOM, POS_DEAD);
     }
 
     static void get_prog_snake(OBJ_DATA obj, CHAR_DATA ch) {
-        act("You feel as if snakes of whip moved.", ch, obj, null, TO_CHAR);
+        act("You feel as if snakes of the whip moved.", ch, obj, null, TO_CHAR);
     }
 
     static void wear_prog_fire_shield(OBJ_DATA obj, CHAR_DATA ch) {

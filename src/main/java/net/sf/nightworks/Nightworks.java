@@ -126,6 +126,10 @@ public final class Nightworks {
         void run(OBJ_DATA obj);
     }
 
+    interface OPROG_FUN_PUT {
+        void run(OBJ_DATA obj, OBJ_DATA dest, CHAR_DATA ch);
+    }
+
     /*
     *  COMMAND extra bits..
     */
@@ -227,6 +231,7 @@ public final class Nightworks {
     static final int OPROG_ENTRY = (J);
     static final int OPROG_GET = (K);
     static final int OPROG_AREA = (L);
+    static final int OPROG_PUT = (M);
 
     /*
     * Game parameters.
@@ -237,7 +242,7 @@ public final class Nightworks {
     private static final int MAX_SOCIALS = 256;
     static final int MAX_SKILL = 426;
     static final int MAX_CLASS = 13;
-    static final int MAX_CABAL = 9;
+    static final int MAX_CABAL = 10;
     static final int MAX_RELIGION = 18;
     static final int MAX_LEVEL = 100;
     static final int LEVEL_HERO = (MAX_LEVEL - 9);
@@ -281,6 +286,7 @@ public final class Nightworks {
     static final int CABAL_KNIGHT = 6;
     static final int CABAL_LIONS = 7;
     static final int CABAL_HUNTER = 8;
+    static final int CABAL_SUMMONER = 9;
 
     static final int ETHOS_ANY = 0;
     static final int ETHOS_LAWFUL = 1;
@@ -1965,6 +1971,7 @@ public final class Nightworks {
         OPROG_FUN_DEATH death_prog;
         OPROG_FUN_SPEECH speech_prog;
         OPROG_FUN_AREA area_prog;
+        OPROG_FUN_PUT put_prog;
     }
 
 /*
