@@ -54,96 +54,7 @@ import static net.sf.nightworks.Magic.spell_poison;
 import static net.sf.nightworks.Magic.spell_remove_curse;
 import static net.sf.nightworks.Magic2.spell_scream;
 import static net.sf.nightworks.Magic2.spell_web;
-import static net.sf.nightworks.Nightworks.AFFECT_DATA;
-import static net.sf.nightworks.Nightworks.AFF_BERSERK;
-import static net.sf.nightworks.Nightworks.AFF_CURSE;
-import static net.sf.nightworks.Nightworks.AFF_FLYING;
-import static net.sf.nightworks.Nightworks.AFF_HASTE;
-import static net.sf.nightworks.Nightworks.AFF_PLAGUE;
-import static net.sf.nightworks.Nightworks.AFF_POISON;
-import static net.sf.nightworks.Nightworks.APPLY_AC;
-import static net.sf.nightworks.Nightworks.APPLY_DAMROLL;
-import static net.sf.nightworks.Nightworks.APPLY_DEX;
-import static net.sf.nightworks.Nightworks.APPLY_HITROLL;
-import static net.sf.nightworks.Nightworks.APPLY_NONE;
-import static net.sf.nightworks.Nightworks.APPLY_STR;
-import static net.sf.nightworks.Nightworks.CABAL_BATTLE;
-import static net.sf.nightworks.Nightworks.CABAL_CHAOS;
-import static net.sf.nightworks.Nightworks.CABAL_HUNTER;
-import static net.sf.nightworks.Nightworks.CABAL_INVADER;
-import static net.sf.nightworks.Nightworks.CABAL_KNIGHT;
-import static net.sf.nightworks.Nightworks.CABAL_LIONS;
-import static net.sf.nightworks.Nightworks.CABAL_RULER;
-import static net.sf.nightworks.Nightworks.CHAR_DATA;
-import static net.sf.nightworks.Nightworks.DAM_FIRE;
-import static net.sf.nightworks.Nightworks.DAM_HOLY;
-import static net.sf.nightworks.Nightworks.IS_AFFECTED;
-import static net.sf.nightworks.Nightworks.IS_EVIL;
-import static net.sf.nightworks.Nightworks.IS_GOOD;
-import static net.sf.nightworks.Nightworks.IS_NPC;
-import static net.sf.nightworks.Nightworks.IS_WEAPON_STAT;
-import static net.sf.nightworks.Nightworks.ITEM_WEAPON;
-import static net.sf.nightworks.Nightworks.MAX_CABAL;
-import static net.sf.nightworks.Nightworks.OBJ_DATA;
-import static net.sf.nightworks.Nightworks.OBJ_INDEX_DATA;
-import static net.sf.nightworks.Nightworks.OBJ_VNUM_BATTLE_THRONE;
-import static net.sf.nightworks.Nightworks.OBJ_VNUM_CHAOS_ALTAR;
-import static net.sf.nightworks.Nightworks.OBJ_VNUM_HUNTER_ALTAR;
-import static net.sf.nightworks.Nightworks.OBJ_VNUM_INVADER_SKULL;
-import static net.sf.nightworks.Nightworks.OBJ_VNUM_KNIGHT_ALTAR;
-import static net.sf.nightworks.Nightworks.OBJ_VNUM_LIONS_ALTAR;
-import static net.sf.nightworks.Nightworks.OBJ_VNUM_RULER_STAND;
-import static net.sf.nightworks.Nightworks.OBJ_VNUM_SHALAFI_ALTAR;
-import static net.sf.nightworks.Nightworks.OPROG_AREA;
-import static net.sf.nightworks.Nightworks.OPROG_DEATH;
-import static net.sf.nightworks.Nightworks.OPROG_DROP;
-import static net.sf.nightworks.Nightworks.OPROG_ENTRY;
-import static net.sf.nightworks.Nightworks.OPROG_FIGHT;
-import static net.sf.nightworks.Nightworks.OPROG_FUN_AREA;
-import static net.sf.nightworks.Nightworks.OPROG_FUN_DEATH;
-import static net.sf.nightworks.Nightworks.OPROG_FUN_DROP;
-import static net.sf.nightworks.Nightworks.OPROG_FUN_ENTRY;
-import static net.sf.nightworks.Nightworks.OPROG_FUN_FIGHT;
-import static net.sf.nightworks.Nightworks.OPROG_FUN_GET;
-import static net.sf.nightworks.Nightworks.OPROG_FUN_GIVE;
-import static net.sf.nightworks.Nightworks.OPROG_FUN_GREET;
-import static net.sf.nightworks.Nightworks.OPROG_FUN_REMOVE;
-import static net.sf.nightworks.Nightworks.OPROG_FUN_SAC;
-import static net.sf.nightworks.Nightworks.OPROG_FUN_SPEECH;
-import static net.sf.nightworks.Nightworks.OPROG_FUN_WEAR;
-import static net.sf.nightworks.Nightworks.OPROG_GET;
-import static net.sf.nightworks.Nightworks.OPROG_GIVE;
-import static net.sf.nightworks.Nightworks.OPROG_GREET;
-import static net.sf.nightworks.Nightworks.OPROG_REMOVE;
-import static net.sf.nightworks.Nightworks.OPROG_SAC;
-import static net.sf.nightworks.Nightworks.OPROG_SPEECH;
-import static net.sf.nightworks.Nightworks.OPROG_WEAR;
-import static net.sf.nightworks.Nightworks.POS_DEAD;
-import static net.sf.nightworks.Nightworks.POS_SLEEPING;
-import static net.sf.nightworks.Nightworks.PULSE_VIOLENCE;
-import static net.sf.nightworks.Nightworks.RES_COLD;
-import static net.sf.nightworks.Nightworks.RES_FIRE;
-import static net.sf.nightworks.Nightworks.SECT_FIELD;
-import static net.sf.nightworks.Nightworks.SECT_FOREST;
-import static net.sf.nightworks.Nightworks.SECT_HILLS;
-import static net.sf.nightworks.Nightworks.SECT_MOUNTAIN;
-import static net.sf.nightworks.Nightworks.SET_BIT;
-import static net.sf.nightworks.Nightworks.TARGET_CHAR;
-import static net.sf.nightworks.Nightworks.TO_AFFECTS;
-import static net.sf.nightworks.Nightworks.TO_CHAR;
-import static net.sf.nightworks.Nightworks.TO_NOTVICT;
-import static net.sf.nightworks.Nightworks.TO_RESIST;
-import static net.sf.nightworks.Nightworks.TO_ROOM;
-import static net.sf.nightworks.Nightworks.TO_VICT;
-import static net.sf.nightworks.Nightworks.UMIN;
-import static net.sf.nightworks.Nightworks.WAIT_STATE;
-import static net.sf.nightworks.Nightworks.WEAPON_KATANA;
-import static net.sf.nightworks.Nightworks.WEAR_ARMS;
-import static net.sf.nightworks.Nightworks.WEAR_FINGER;
-import static net.sf.nightworks.Nightworks.WEAR_HANDS;
-import static net.sf.nightworks.Nightworks.WEAR_TATTOO;
-import static net.sf.nightworks.Nightworks.current_time;
-import static net.sf.nightworks.Nightworks.exit;
+import static net.sf.nightworks.Nightworks.*;
 import static net.sf.nightworks.Skill.gsn_acid_blast;
 import static net.sf.nightworks.Skill.gsn_berserk;
 import static net.sf.nightworks.Skill.gsn_blackguard;
@@ -227,6 +138,9 @@ class ObjProg {
             } else if (!str_cmp(progtype, "area_prog")) {
                 objindex.oprogs.area_prog = create_area_prog(name);
                 objindex.progtypes = SET_BIT(objindex.progtypes, OPROG_AREA);
+            } else if (!str_cmp(progtype, "put_prog")) {
+                objindex.oprogs.put_prog = create_put_prog(name);
+                objindex.progtypes = SET_BIT(objindex.progtypes, OPROG_PUT);
             } else {
                 found = false;
             }
@@ -240,6 +154,20 @@ class ObjProg {
 
     private static Method resolveMethod(String name, Class... params) throws NoSuchMethodException {
         return ObjProg.class.getDeclaredMethod(name, params);
+    }
+
+    private static OPROG_FUN_PUT create_put_prog(final String name) throws NoSuchMethodException {
+        return new OPROG_FUN_PUT() {
+            final Method m = resolveMethod(name, OBJ_DATA.class, OBJ_DATA.class, CHAR_DATA.class);
+            @Override
+            public void run(OBJ_DATA obj, OBJ_DATA dest, CHAR_DATA ch) {
+                try {
+                    m.invoke(null, obj, dest, ch);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+            }
+        };
     }
 
     private static OPROG_FUN_REMOVE create_remove_prog(final String name) throws NoSuchMethodException {
@@ -482,7 +410,7 @@ class ObjProg {
     boolean sac_prog_excalibur(OBJ_DATA obj, CHAR_DATA ch) {
         act(PlayerMessage.GODS_ARE_FURI.getMessage(), ch, null, null, TO_CHAR);
         act(PlayerMessage.GODS_ARE_FURI.getMessage(), ch, null, null, TO_ROOM);
-        damage(ch, ch, (ch.hit - 1) > 1000 ? 1000 : (ch.hit - 1), gsn_x_hit, DAM_HOLY, true);
+        damage(ch, ch, Math.min((ch.hit - 1), 1000), gsn_x_hit, DAM_HOLY, true);
         ch.gold = 0;
         return true;
     }

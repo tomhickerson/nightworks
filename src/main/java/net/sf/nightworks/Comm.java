@@ -265,14 +265,16 @@ public class Comm {
 
 
     static void send_help_greeting(DESCRIPTOR_DATA d) {
-        // pick one of three
-        int pick = number_range(1, 3);
+        // pick one of fout
+        int pick = number_range(1, 4);
         if (pick == 1) {
             write_to_buffer(d, help_greeting);
         } else if (pick == 2) {
             write_to_buffer(d, help_greeting2);
-        } else {
+        } else if (pick == 3) {
             write_to_buffer(d, help_greeting3);
+        } else {
+            write_to_buffer(d, help_greeting4);
         }
     }
 
@@ -685,7 +687,7 @@ public class Comm {
     }
 
 
-    static final char dir_name_char[] = {'N', 'E', 'S', 'W', 'U', 'D'};
+    static final char[] dir_name_char = {'N', 'E', 'S', 'W', 'U', 'D'};
 
     /**
      * Bust a prompt (player settable prompt) coded by Morgenes for Aldara Mud
@@ -731,7 +733,6 @@ public class Comm {
                 case 'c':
                     i = "\n";
                     break;
-/** added from here by KIO   **/
                 case 'n':
                     i = ch.name;
                     break;
@@ -758,7 +759,7 @@ public class Comm {
                     }
 
                     break;
-/***** FInished ****/
+/* Finished */
 
 /* Thanx to zihni:  T for time */
                 case 'T':
@@ -1992,10 +1993,10 @@ public class Comm {
         act(seq.toString(), ch, arg1, arg2, type, POS_RESTING);
     }
 
-    static final String he_she[] = {"it", "he", "she"};
+    static final String[] he_she = {"it", "he", "she"};
 
-    static final String him_her[] = {"it", "him", "her"};
-    static final String his_her[] = {"its", "his", "her"};
+    static final String[] him_her = {"it", "him", "her"};
+    static final String[] his_her = {"its", "his", "her"};
 
     public static void act(String actStr, CHAR_DATA ch, Object arg1, Object arg2, int type, int min_pos) {
         // Discard null and zero-length messages: useful to avoid null-checks in clients

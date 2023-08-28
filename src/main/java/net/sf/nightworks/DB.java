@@ -96,6 +96,7 @@ public class DB {
     static String help_greeting;
     static String help_greeting2;
     static String help_greeting3;
+    static String help_greeting4;
 
     /*
     * Locals.
@@ -730,6 +731,9 @@ public class DB {
             }
             if (!str_cmp(pHelp.keyword, "greeting3")) {
                 help_greeting3 = pHelp.text;
+            }
+            if (!str_cmp(pHelp.keyword, "greeting4")) {
+                help_greeting4 = pHelp.text;
             }
             if (help_first == null) {
                 help_first = pHelp;
