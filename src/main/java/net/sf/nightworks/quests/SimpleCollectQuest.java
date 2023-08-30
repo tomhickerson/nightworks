@@ -7,7 +7,7 @@ import net.sf.nightworks.Nightworks;
  * Examples: Collect five copper cogs, scattered around a given area
  * Collect eight pieces of a puzzle in a given area, put them all in a paper bag
  * Someday: -- collect different items and put them in one container?
- * -- collect different items and put them in different containers?
+ * -- collect different items and put them in different containers? - no, just one container
  */
 public class SimpleCollectQuest extends SimpleQuest {
 

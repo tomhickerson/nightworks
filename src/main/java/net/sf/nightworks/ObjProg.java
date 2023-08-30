@@ -1,10 +1,14 @@
 package net.sf.nightworks;
 
 
+import net.sf.nightworks.enums.PlayerAchievement;
 import net.sf.nightworks.enums.PlayerMessage;
+import net.sf.nightworks.quests.SimpleCollectQuest;
+import net.sf.nightworks.quests.SimpleQuest;
 import net.sf.nightworks.util.TextBuffer;
 
 import java.lang.reflect.Method;
+import java.util.ArrayList;
 
 import static net.sf.nightworks.ActComm.cabal_area_check;
 import static net.sf.nightworks.ActComm.do_say;
@@ -54,6 +58,7 @@ import static net.sf.nightworks.Magic.spell_poison;
 import static net.sf.nightworks.Magic.spell_remove_curse;
 import static net.sf.nightworks.Magic2.spell_scream;
 import static net.sf.nightworks.Magic2.spell_web;
+import static net.sf.nightworks.MobProg.clear_quest;
 import static net.sf.nightworks.Nightworks.*;
 import static net.sf.nightworks.Skill.gsn_acid_blast;
 import static net.sf.nightworks.Skill.gsn_berserk;
@@ -526,6 +531,45 @@ class ObjProg {
                 break;
         }
 
+    }
+
+    static void put_prog_generic_questobj(OBJ_DATA obj, OBJ_DATA dest, CHAR_DATA ch) {
+        if (IS_NPC(ch)) {
+            return;
+        }
+        if (IS_SET(ch.act, PLR_QUESTOR)) {
+            ArrayList<SimpleQuest> quests = quest_table.get(ch.pcdata.questgiver);
+            if (quests != null) {
+                for (SimpleQuest q : quests) {
+                    if (q.getAchievement() == ch.pcdata.questid && q instanceof SimpleCollectQuest) {
+                        if (obj.pIndexData.vnum == ((SimpleCollectQuest) q).getVnumToCollect() &&
+                                dest.pIndexData.vnum == ((SimpleCollectQuest) q).getVnumContainer()) {
+                            ch.pcdata.questobjnum--;
+                            if (ch.pcdata.questobjnum == 0) {
+                                // end the quest
+                                finish_the_quest(ch, q);
+                            } else {
+                                act("That's one of " +
+                                        ((SimpleCollectQuest) q).getNumberToCollect(), ch, null, null, TO_CHAR);
+                                act("You have " + ch.pcdata.questobjnum + " left to collect!", ch, null, null, TO_CHAR);
+                            }
+                            // reduce number to collect by one
+                            // if number is now zero, end the quest
+                            // otherwise, remind the character that they have X more to go
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    static void finish_the_quest(CHAR_DATA ch, SimpleQuest q) {
+        // what about epilogue?
+        // time to add advanced epilogue?
+        act(q.getEpilogue(), ch, null, null, TO_CHAR);
+        clear_quest(ch);
+        q.applyReward(ch);
+        ch.pcdata.achievements.add(PlayerAchievement.achieveMap.get(q.getAchievement()));
     }
 
     static void get_prog_cabal_item(OBJ_DATA obj, CHAR_DATA ch) {
