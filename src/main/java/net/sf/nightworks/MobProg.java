@@ -248,7 +248,7 @@ class MobProg {
         ch.pcdata.achievements.add(PlayerAchievement.TALK_TO_SEWER_GARGOYLE);
     }
 
-    static void clear_quest(CHAR_DATA ch) {
+    public static void clear_quest(CHAR_DATA ch) {
         ch.act = REMOVE_BIT(ch.act, PLR_QUESTOR);
         ch.pcdata.questgiver = 0;
         ch.pcdata.countdown = 0;
