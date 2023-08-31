@@ -773,6 +773,7 @@ class Handler {
                 check_material(obj, "copper") ||
                 check_material(obj, "brass") ||
                 check_material(obj, "platinium") ||
+                check_material(obj, "platinum") ||
                 check_material(obj, "titanium") ||
                 check_material(obj, "aliminum");
 
@@ -857,7 +858,7 @@ class Handler {
         }
         ftime = number_fuzzy(ftime);
 
-        return (ftime < 0 ? 0 : ftime);
+        return (Math.max(ftime, 0));
     }
 
     static int attack_lookup(String name) {
@@ -5051,7 +5052,7 @@ class Handler {
         }
     }
 
-    private static int _n[] = new int[1];
+    private static int[] _n = new int[1];
 
     static CHAR_DATA find_char(CHAR_DATA ch, String argument, int door, int range) {
         EXIT_DATA pExit, bExit;
