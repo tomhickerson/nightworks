@@ -113,6 +113,25 @@ public class Update {
 
     private static int save_number = 0;
 
+    /*
+    adding to virtues and vices here
+     */
+
+    public static void updateAnger(Nightworks.CHAR_DATA ch) {
+        int anger = ch.pcdata.vices.updateVice(VICE_ANGER);
+        if (anger > 0) {
+            ch.pcdata.vices.anger++;
+            send_to_char(PlayerMessage.CONSUMED_BY_ANGER.getMessage(), ch);
+        }
+    }
+
+    public static void updateHumility(CHAR_DATA ch) {
+        int humility = ch.pcdata.virtues.updateVirtue(VIRTUE_HUMILITY);
+        if (humility > 0) {
+            ch.pcdata.virtues.humility++;
+            send_to_char(PlayerMessage.FEEL_BY_HUMILITY.getMessage(), ch);
+        }
+    }
 /*
 * Advancement stuff.
 */

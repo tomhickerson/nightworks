@@ -16,10 +16,20 @@ public class SimpleCollectQuest extends SimpleQuest {
     private int questPoints = 0;
     private int vnumToCollect = -1;
     private int numberToCollect = -1;
-    private String areaToCollect = "midgaard.are";
+    private String areaToCollect = "midgaard.are"; // do we need this?
     private int vnumContainer = -1;
     // is picking up the container a catalyst for starting the quest?
     // container doesn't necessarily have to be involved
+
+    private SimpleDefendQuest.setup questSetup;
+
+    public SimpleDefendQuest.setup getQuestSetup() {
+        return questSetup;
+    }
+
+    public void setQuestSetup(SimpleDefendQuest.setup questSetup) {
+        this.questSetup = questSetup;
+    }
 
     public SimpleCollectQuest(String name) {
         super(name);

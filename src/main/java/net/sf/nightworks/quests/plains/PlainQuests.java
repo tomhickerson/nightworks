@@ -11,7 +11,7 @@ import static net.sf.nightworks.ActComm.do_say;
 import static net.sf.nightworks.Comm.act;
 import static net.sf.nightworks.Comm.send_to_char;
 import static net.sf.nightworks.Nightworks.*;
-import static net.sf.nightworks.Update.gain_exp;
+import static net.sf.nightworks.Update.*;
 
 public class PlainQuests {
 
@@ -41,11 +41,7 @@ public class PlainQuests {
             ch.silver += 10;
             send_to_char("You receive {W10{x quest points and {W10{x silver from the Druid.\n", ch);
             // maybe add some humility
-            int humility = ch.pcdata.virtues.updateVirtue(VIRTUE_HUMILITY);
-            if (humility > 0) {
-                ch.pcdata.virtues.humility++;
-                send_to_char(PlayerMessage.FEEL_BY_HUMILITY.getMessage(), ch);
-            }
+            updateHumility(ch);
         };
     }
 
@@ -84,16 +80,26 @@ public class PlainQuests {
             ch.silver += 40;
             send_to_char("You receive {W10{x quest points and {W100{x experience.\n", ch);
             send_to_char("You also receive {W40{x silver from the Hermit.\n", ch);
-            int anger = ch.pcdata.vices.updateVice(VICE_ANGER);
-            if (anger > 0) {
-                ch.pcdata.vices.anger++;
-                send_to_char(PlayerMessage.CONSUMED_BY_ANGER.getMessage(), ch);
-            }
+            updateAnger(ch);
         };
     }
 
     public static SimpleCollectQuest returnPilgrimQuest() {
         SimpleCollectQuest scq = new SimpleCollectQuest(3, "Find alms for the Blind Pilgrim");
+        scq.setNumberToCollect(5);
+        scq.setVnumContainer(-1);
+        scq.setVnumToCollect(-1);
+        scq.setAdvancedPreamble(null);
+        scq.setPreamble("Oh my stars!  I've just found a hole in me bag, and all my alms have scattered all over " +
+                "the plains!  I don't suppose I can ask you for help to gather them up?  Please just say YES if so.");
+        scq.setAcceptPhrase("yes");
+        scq.setAcceptMessage("Thank you kindly!  They should be on the plains somewhere...");
+        scq.setAchievement(PlayerAchievement.FIND_ALMS_FOR_THE_PILGRIM.getId());
+        scq.setDuration(15);
+        scq.setQualify(null);
+        scq.setReward(null);
+        scq.setQuestSetup(null);
+        scq.setEpilogue("I'm so happy you were able to do it!  Thank you again, kind stranger!");
         return scq;
     }
 
