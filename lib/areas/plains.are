@@ -143,6 +143,22 @@ ABHR DH 1000 0
 FR 0 0 0
 stand stand female 0
 0 0 medium 0
+#351
+oldstyle blind pilgrim vorthos~
+Vorthos the Blind Pilgrim~
+Vorthos the Blind Pilgrim is sitting here, rummaging through his things.
+~
+The Blind Pilgrim is slowly making his way from Midgaard to Ofcol,
+on a pilgrimage form his church.  He seems distraught and is rummaging
+around in his sack for something.
+~
+human~
+AB 0 0 0
+4 0 2d7+46 2d9+100 1d5+1 none
+6 6 6 9
+EFNU 0 0 0
+sit sit male 0
+0 0 medium 0
 #0
 #OBJECTS
 #300
@@ -315,6 +331,21 @@ food 0 A
 E
 herbs herb fennel~
 This fennel smells great; maybe you should try it?
+~
+#314
+alm~
+a bronze alm~
+A bronze alm is lying here in the dust.~
+bronze~
+jewelry GH AC
+0 0 0 0 0
+0 10 1 P
+A
+20 5
+E
+alm~
+Inscribed on the Alm is the symbol of the Church of Midgaard, two
+keys crossed over a shield.
 ~
 #0
 
@@ -628,7 +659,7 @@ The road continues towards Ofcol.
 ~
 0 -1 314
 D2
-You can see the T-intersection in the souther direction.
+You can see the T-intersection in the southern direction.
 ~
 ~
 0 -1 312
@@ -1349,6 +1380,7 @@ G 1  302  10     	*   a small dusk of poison ivy
 M 0  301   1  331  1	* Sorbus the Hermit
 G 1  303   2     	*   a dark red jar
 O 0  309  30  331	* a rabbit roast
+M 0  351   1  313  1 * the blind pilgrim 
 S
 #SHOPS
  306  1 10 11 19  0 	 120  60 	 0 23 	* Luxan
@@ -1365,5 +1397,8 @@ M 300 speech_prog speech_prog_generic_questmob
 M 301 greet_prog greet_prog_generic_questmob
 M 301 give_prog give_prog_generic_questmob
 M 301 speech_prog speech_prog_generic_questmob
+M 351 greet_prog greet_prog_generic_questmob
+M 351 give_prog give_prog_generic_questmob
+M 351 speech_prog speech_prog_generic_questmob
 S 
 #$
