@@ -88,18 +88,19 @@ public class PlainQuests {
         SimpleCollectQuest scq = new SimpleCollectQuest(3, "Find alms for the Blind Pilgrim");
         scq.setNumberToCollect(5);
         scq.setVnumContainer(-1);
-        scq.setVnumToCollect(-1);
+        scq.setVnumToCollect(314);
+        // vnum for the pilgrim is 351
         scq.setAdvancedPreamble(null);
         scq.setPreamble("Oh my stars!  I've just found a hole in me bag, and all my alms have scattered all over " +
                 "the plains!  I don't suppose I can ask you for help to gather them up?  Please just say YES if so.");
         scq.setAcceptPhrase("yes");
         scq.setAcceptMessage("Thank you kindly!  They should be on the plains somewhere...");
         scq.setAchievement(PlayerAchievement.FIND_ALMS_FOR_THE_PILGRIM.getId());
-        scq.setDuration(15);
+        scq.setDuration(15); // will an area refresh clean out the items? hmm
         scq.setQualify(null);
         scq.setReward(null);
         scq.setQuestSetup(null);
-        scq.setEpilogue("I'm so happy you were able to do it!  Thank you again, kind stranger!");
+        scq.setEpilogue("I'm so happy you were able to do it!  Now I can deliver these to Ofcol!  Thank you again, kind stranger!");
         return scq;
     }
 

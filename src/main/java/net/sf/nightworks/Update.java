@@ -1192,12 +1192,15 @@ public class Update {
                     ch.timer = 0;
                 }
 
-                if (++ch.timer >= 12) {
+                /*
+                do we really need this?  updating it slightly to not interrupt combat
+                 */
+                if (++ch.timer >= 12 && ch.fighting == null) {
                     if (ch.was_in_room == null && ch.in_room != null) {
                         ch.was_in_room = ch.in_room;
-                        if (ch.fighting != null) {
-                            stop_fighting(ch, true);
-                        }
+                        //if (ch.fighting != null) {
+                        //    stop_fighting(ch, true);
+                        //}
                         act("$n disappears into the void.", ch, null, null, TO_ROOM);
                         send_to_char("You disappear into the void.\n", ch);
                         if (ch.level > 1) {
