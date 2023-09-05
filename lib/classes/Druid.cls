@@ -128,20 +128,20 @@ Title 7 male the Son of the Forest~
 Title 7 female the Daughter of the Forest~
 Title 8 male the Son of the Land~
 Title 8 female the Daughter of the Land~
-Title 9 male the Priest~
-Title 9 female the Priestess~
-Title 10 male the Minister~
-Title 10 female the Lady Minister~
-Title 11 male the Canon~
-Title 11 female the Canon~
-Title 12 male the Canon~
-Title 12 female the Canon~
-Title 13 male the Levite~
-Title 13 female the Levitess~
-Title 14 male the Levite~
-Title 14 female the Levitess~
-Title 15 male the Curate~
-Title 15 female the Curess~
+Title 9 male the Watcher of the Forest~
+Title 9 female the Watcher of the Forest~
+Title 10 male the Watcher of the Land~
+Title 10 female the Watcher of the Land~
+Title 11 male the Friend to the Animals~
+Title 11 female the Friend to the Animals~
+Title 12 male the Friend to the Animals~~
+Title 12 female the Friend to the Animals~
+Title 13 male the Guardian of the Animals~
+Title 13 female the Guardian of the Animals~
+Title 14 male the Guardian of the Animals~
+Title 14 female the Guardian of the Animals~
+Title 15 male the Priest of the Druidic Order~
+Title 15 female the Priestess of the Druidic Order~
 Title 16 male the Curate~
 Title 16 female the Curess~
 Title 17 male the Monk~
