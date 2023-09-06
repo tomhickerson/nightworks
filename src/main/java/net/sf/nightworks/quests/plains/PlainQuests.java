@@ -97,11 +97,27 @@ public class PlainQuests {
         scq.setAcceptMessage("Thank you kindly!  They should be on the plains somewhere...");
         scq.setAchievement(PlayerAchievement.FIND_ALMS_FOR_THE_PILGRIM.getId());
         scq.setDuration(15); // will an area refresh clean out the items? hmm
-        scq.setQualify(null);
-        scq.setReward(null);
+        scq.setQualify(qualifyPilgrim());
+        scq.setReward(getTheAlms());
         scq.setQuestSetup(null);
         scq.setEpilogue("I'm so happy you were able to do it!  Now I can deliver these to Ofcol!  Thank you again, kind stranger!");
         return scq;
+    }
+
+    private static SimpleQuest.reward getTheAlms() {
+        return ch -> {
+            ch.pcdata.questpoints += 10;
+            gain_exp(ch, 150);
+            send_to_char("You receive {W10{x quest points and {W150{x experience.\n", ch);
+            // update some compassion
+            updateCompassion(ch);
+        };
+    }
+
+    private static SimpleQuest.qualify qualifyPilgrim() {
+        return ch -> ch.level > 5 &&
+                !IS_NPC(ch) &&
+                !ch.pcdata.achievements.contains(PlayerAchievement.FIND_ALMS_FOR_THE_PILGRIM);
     }
 
 }
