@@ -132,6 +132,14 @@ public class Update {
             send_to_char(PlayerMessage.FEEL_BY_HUMILITY.getMessage(), ch);
         }
     }
+
+    public static void updateCompassion(CHAR_DATA ch) {
+        int compassion = ch.pcdata.virtues.updateVirtue(VIRTUE_COMPASSION);
+        if (compassion > 0) {
+            ch.pcdata.virtues.compassion++;
+            send_to_char(PlayerMessage.FEEL_BY_COMPASSION.getMessage(), ch);
+        }
+    }
 /*
 * Advancement stuff.
 */
