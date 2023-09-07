@@ -1,15 +1,13 @@
 package net.sf.nightworks.quests.plains;
 
 import net.sf.nightworks.enums.PlayerAchievement;
-import net.sf.nightworks.enums.PlayerMessage;
-import net.sf.nightworks.quests.SimpleCollectQuest;
-import net.sf.nightworks.quests.SimpleGetQuest;
-import net.sf.nightworks.quests.SimpleKillQuest;
-import net.sf.nightworks.quests.SimpleQuest;
+import net.sf.nightworks.quests.*;
 
 import static net.sf.nightworks.ActComm.do_say;
 import static net.sf.nightworks.Comm.act;
 import static net.sf.nightworks.Comm.send_to_char;
+import static net.sf.nightworks.DB.*;
+import static net.sf.nightworks.Handler.obj_to_room;
 import static net.sf.nightworks.Nightworks.*;
 import static net.sf.nightworks.Update.*;
 
@@ -99,7 +97,7 @@ public class PlainQuests {
         scq.setDuration(15); // will an area refresh clean out the items? hmm
         scq.setQualify(qualifyPilgrim());
         scq.setReward(getTheAlms());
-        scq.setQuestSetup(null);
+        scq.setQuestSetup(setupPilgrim());
         scq.setEpilogue("I'm so happy you were able to do it!  Now I can deliver these to Ofcol!  Thank you again, kind stranger!");
         return scq;
     }
@@ -118,6 +116,20 @@ public class PlainQuests {
         return ch -> ch.level > 5 &&
                 !IS_NPC(ch) &&
                 !ch.pcdata.achievements.contains(PlayerAchievement.FIND_ALMS_FOR_THE_PILGRIM);
+    }
+
+    private static SimpleDefendQuest.setup setupPilgrim() {
+        return new SimpleDefendQuest.setup() {
+            @Override
+            public void run() {
+                // place six alms in different places
+                final int[] rooms = {302, 304, 307, 327, 313, 320};
+                for (int i = 0; i <= 6; i++) {
+                    OBJ_DATA obj = create_object(get_obj_index(314), 4);
+                    obj_to_room(obj, get_room_index(rooms[i]));
+                }
+            }
+        };
     }
 
 }

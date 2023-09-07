@@ -420,13 +420,15 @@ class MobProg {
                     ch.pcdata.questgiver = mob.id;
                     if (q instanceof SimpleGetQuest) {
                         ch.pcdata.questobj = ((SimpleGetQuest) q).getVnumToGet();
-                        // put the object on the map
+                        // put the object on the map?
                     } else if (q instanceof SimpleKillQuest) {
                         ch.pcdata.questmob = ((SimpleKillQuest) q).getVnumToKill();
                         // put the mob on the map
                     } else if (q instanceof SimpleCollectQuest) {
                         ch.pcdata.questobj = ((SimpleCollectQuest) q).getVnumToCollect();
                         ch.pcdata.questobjnum = ((SimpleCollectQuest) q).getNumberToCollect();
+                        // place all the objects everywhere
+                        ((SimpleCollectQuest) q).getQuestSetup().run();
                     } else if (q instanceof SimpleHuntQuest) {
                         ch.pcdata.questnumtokill = ((SimpleHuntQuest) q).getNumberToKill();
                         ch.pcdata.questmob = ((SimpleHuntQuest) q).getVnumToKill();

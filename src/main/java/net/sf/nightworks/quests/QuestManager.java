@@ -9,6 +9,7 @@ public class QuestManager {
 
     private static final int VNUM_DRUID_PLAINS = 300;
     private static final int VNUM_HERMIT_PLAINS = 301;
+    private static final int VNUM_PILGRIM_PLAINS = 351;
     private static HashMap<Integer, ArrayList<SimpleQuest>> quests = new HashMap<>();
 
     /**
@@ -25,6 +26,9 @@ public class QuestManager {
         questArray = new ArrayList<>();
         questArray.add(PlainQuests.returnHermitQuest());
         quests.put(VNUM_HERMIT_PLAINS, questArray);
+        questArray = new ArrayList<>();
+        questArray.add(PlainQuests.returnPilgrimQuest());
+        quests.put(VNUM_PILGRIM_PLAINS, questArray);
         return quests;
     }
 }

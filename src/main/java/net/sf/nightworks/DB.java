@@ -2195,7 +2195,7 @@ public class DB {
 * Create an object with modifying the count
 */
 
-    static OBJ_DATA create_object(OBJ_INDEX_DATA pObjIndex, int level) {
+    public static OBJ_DATA create_object(OBJ_INDEX_DATA pObjIndex, int level) {
         return create_object_org(pObjIndex, level, true);
     }
 
@@ -2514,7 +2514,7 @@ public class DB {
 * Hash table lookupRace.
 */
 
-    static OBJ_INDEX_DATA get_obj_index(int vnum) {
+    public static OBJ_INDEX_DATA get_obj_index(int vnum) {
         OBJ_INDEX_DATA pObjIndex;
         for (pObjIndex = obj_index_hash[vnum % MAX_KEY_HASH];
              pObjIndex != null;
@@ -2535,7 +2535,7 @@ public class DB {
 * Hash table lookupRace.
 */
 
-    static ROOM_INDEX_DATA get_room_index(int vnum) {
+    public static ROOM_INDEX_DATA get_room_index(int vnum) {
         ROOM_INDEX_DATA pRoomIndex;
 
         for (pRoomIndex = room_index_hash[vnum % MAX_KEY_HASH];

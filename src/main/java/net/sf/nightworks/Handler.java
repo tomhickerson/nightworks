@@ -563,7 +563,7 @@ import static net.sf.nightworks.util.TextUtils.one_argument;
 import static net.sf.nightworks.util.TextUtils.str_cmp;
 import static net.sf.nightworks.util.TextUtils.str_prefix;
 
-class Handler {
+public class Handler {
 /* friend stuff -- for NPC's mostly */
 
     static boolean is_friend(CHAR_DATA ch, CHAR_DATA victim) {
@@ -2420,7 +2420,7 @@ class Handler {
 * Move an obj into a room.
 */
 
-    static void obj_to_room(OBJ_DATA obj, ROOM_INDEX_DATA pRoomIndex) {
+    public static void obj_to_room(OBJ_DATA obj, ROOM_INDEX_DATA pRoomIndex) {
         int i;
 
         obj.next_content = pRoomIndex.contents;
