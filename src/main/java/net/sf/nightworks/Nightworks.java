@@ -2201,7 +2201,7 @@ public final class Nightworks {
 * One object.  *OD*
 */
 
-    static final class OBJ_DATA {
+    public static final class OBJ_DATA {
         OBJ_DATA next;
         OBJ_DATA next_content;
         OBJ_DATA contains;
