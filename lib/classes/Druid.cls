@@ -142,168 +142,168 @@ Title 14 male the Guardian of the Animals~
 Title 14 female the Guardian of the Animals~
 Title 15 male the Priest of the Druidic Order~
 Title 15 female the Priestess of the Druidic Order~
-Title 16 male the Curate~
-Title 16 female the Curess~
-Title 17 male the Monk~
-Title 17 female the Nun~
-Title 18 male the Monk~
-Title 18 female the Nun~
-Title 19 male the Healer~
-Title 19 female the Healess~
-Title 20 male the Healer~
-Title 20 female the Healess~
-Title 21 male the Chaplain~
-Title 21 female the Chaplain~
-Title 22 male the Chaplain~
-Title 22 female the Chaplain~
-Title 23 male the Expositor~
-Title 23 female the Expositress~
-Title 24 male the Expositor~
-Title 24 female the Expositress~
-Title 25 male the Bishop~
-Title 25 female the Bishop~
-Title 26 male the Bishop~
-Title 26 female the Bishop~
-Title 27 male the Arch Bishop~
-Title 27 female the Arch Lady of the Church~
-Title 28 male the Arch Bishop~
-Title 28 female the Arch Lady of the Church~
-Title 29 male the Patriarch~
-Title 29 female the Matriarch~
-Title 30 male the Patriarch~
-Title 30 female the Matriarch~
-Title 31 male the Elder Patriarch~
-Title 31 female the Elder Matriarch~
-Title 32 male the Elder Patriarch~
-Title 32 female the Elder Matriarch~
-Title 33 male the Grand Patriarch~
-Title 33 female the Grand Matriarch~
-Title 34 male the Grand Patriarch~
-Title 34 female the Grand Matriarch~
-Title 35 male the Great Patriarch~
-Title 35 female the Great Matriarch~
-Title 36 male the Great Patriarch~
-Title 36 female the Great Matriarch~
-Title 37 male the Demon Killer~
-Title 37 female the Demon Killer~
-Title 38 male the Demon Killer~
-Title 38 female the Demon Killer~
-Title 39 male the Greater Demon Killer~
-Title 39 female the Greater Demon Killer~
-Title 40 male the Greater Demon Killer~
-Title 40 female the Greater Demon Killer~
-Title 41 male the Cardinal of the Sea~
-Title 41 female the Cardinal of the Sea~
-Title 42 male the Cardinal of the Sea~
-Title 42 female the Cardinal of the Sea~
-Title 43 male the Cardinal of the Earth~
-Title 43 female the Cardinal of the Earth~
-Title 44 male the Cardinal of the Earth~
-Title 44 female the Cardinal of the Earth~
-Title 45 male the Cardinal of the Air~
-Title 45 female the Cardinal of the Air~
-Title 46 male the Cardinal of the Air~
-Title 46 female the Cardinal of the Air~
-Title 47 male the Cardinal of the Ether~
-Title 47 female the Cardinal of the Ether~
-Title 48 male the Cardinal of the Ether~
-Title 48 female the Cardinal of the Ether~
-Title 49 male the Cardinal of the Heavens~
-Title 49 female the Cardinal of the Heavens~
-Title 50 male the Cardinal of the Heavens~
-Title 50 female the Cardinal of the Heavens~
-Title 51 male the Enlightened~
-Title 51 female the Enlightened~
-Title 52 male the Enlightened~
-Title 52 female the Enlightened~
-Title 53 male the Sacred~
-Title 53 female the Sacred~
-Title 54 male the Sacred~
-Title 54 female the Sacred~
-Title 55 male the Saint~
-Title 55 female the Saint~
-Title 56 male the Saint~
-Title 56 female the Saint~
-Title 57 male the Divine~
-Title 57 female the Divine~
-Title 58 male the Divine~
-Title 58 female the Divine~
-Title 59 male the Cardinal of Flowers~
-Title 59 female the Cardinal of Flowers~
-Title 60 male the Cardinal of Flowers~
-Title 60 female the Cardinal of Flowers~
-Title 61 male the Cardinal of Water~
-Title 61 female the Cardinal of Water~
-Title 62 male the Cardinal of Water~
-Title 62 female the Cardinal of Water~
-Title 63 male the Cardinal of Fire~
-Title 63 female the Cardinal of Fire~
-Title 64 male the Cardinal of Fire~
-Title 64 female the Cardinal of Fire~
-Title 65 male the Cardinal of Ice~
-Title 65 female the Cardinal of Ice~
-Title 66 male the Cardinal of Ice~
-Title 66 female the Cardinal of Ice~
-Title 67 male the Cardinal of the Winds~
-Title 67 female the Cardinal of the Winds~
-Title 68 male the Cardinal of the Winds~
-Title 68 female the Cardinal of the Winds~
-Title 69 male the Cardinal of Storms~
-Title 69 female the Cardinal of Storms~
-Title 70 male the Cardinal of Storms~
-Title 70 female the Cardinal of Storms~
-Title 71 male the Father of Earth~
-Title 71 female the Mother of Earth~
-Title 72 male the Father of Earth~
-Title 72 female the Mother of Earth~
-Title 73 male the Father of the Sea~
-Title 73 female the Mother of the Sea~
-Title 74 male the Father of the Sea~
-Title 74 female the Mother of the Sea~
-Title 75 male the Father of Time~
-Title 75 female the Mother of Time~
-Title 76 male the Father of Time~
-Title 76 female the Mother of Time~
-Title 77 male the Sacred Heart~
-Title 77 female the Sacred Heart~
-Title 78 male the Sacred Heart~
-Title 78 female the Sacred Heart~
-Title 79 male the Holy Father~
-Title 79 female the Holy Mother~
-Title 80 male the Holy Father~
-Title 80 female the Holy Mother~
-Title 81 male the Avatar of an Immortal~
-Title 81 female the Avatar of an Immortal~
-Title 82 male the Avatar of an Immortal~
-Title 82 female the Avatar of an Immortal~
-Title 83 male the Avatar of a Deity~
-Title 83 female the Avatar of a Deity~
-Title 84 male the Avatar of a Deity~
-Title 84 female the Avatar of a Deity~
-Title 85 male the Avatar of a Supremity~
-Title 85 female the Avatar of a Supremity~
-Title 86 male the Avatar of a Supremity~
-Title 86 female the Avatar of a Supremity~
-Title 87 male the Avatar of an Implementor~
-Title 87 female the Avatar of an Implementor~
-Title 88 male the Avatar of an Implementor~
-Title 88 female the Avatar of an Implementor~
-Title 89 male the Master of all Divinity~
-Title 89 female the Mistress of all Divinity~
-Title 90 male the Master of all Divinity~
-Title 90 female the Mistress of all Divinity~
-Title 91 male the Holy Hero~
-Title 91 female the Holy Heroine~
-Title 92 male the Holy Avatar~
-Title 92 female the Holy Avatar~
-Title 93 male the Angel~
-Title 93 female the Angel~
+Title 16 male the Priest of the Druidic Order~
+Title 16 female the Priestess of the Druidic Order~
+Title 17 male the Sage of Natures Lore~
+Title 17 female the Lady of Natures Lore~
+Title 18 male the Sage of Natures Lore~
+Title 18 female the Lady of Natures Lore~
+Title 19 male the Champion of the Animals~
+Title 19 female the Champion of the Animals~
+Title 20 male the Champion of the Animals~
+Title 20 female the Champion of the Animals~
+Title 21 male the Champion of Life~
+Title 21 female the Champion of Life~
+Title 22 male the Champion of Life~
+Title 22 female the Champion of Life~
+Title 23 male the Healer of the Forest~
+Title 23 female the Healer of the Forest~
+Title 24 male the Healer of the Forest~
+Title 24 female the Healer of the Forest~
+Title 25 male the Healer of the Land~
+Title 25 female the Healer of the Land~
+Title 26 male the Healer of the Land~
+Title 26 female the Healer of the Land~
+Title 27 male the Wood Walker~
+Title 27 female the Wood Walker~
+Title 28 male the Wood Walker~
+Title 28 female the Wood Walker~
+Title 29 male the Priest of Nature~
+Title 29 female the Priestess of Nature~
+Title 30 male the Priest of Nature~
+Title 30 female the Priestess of Nature~
+Title 31 male the Elder Druid~
+Title 31 female the Elder Druidess~
+Title 32 male the Elder Druid~
+Title 32 female the Elder Druidess~
+Title 33 male the Woodland Caretaker~
+Title 33 female the Woodland Caretaker~
+Title 34 male the Woodland Caretaker~
+Title 34 female the Woodland Caretaker~
+Title 35 male the Woodland Caretaker~
+Title 35 female the Woodland Caretaker~
+Title 36 male the Woodland Caretaker~
+Title 36 female the Woodland Caretaker~
+Title 37 male the Arch Druid~
+Title 37 female the Arch Druidess~
+Title 38 male the Arch Druid Sage~
+Title 38 female the Arch Druidess Sage~
+Title 39 male the Arch Druid Sage~
+Title 39 female the Arch Druidess Sage~
+Title 40 male the Forest Watcher~
+Title 40 female the Forest Watcher~
+Title 41 male the Forest Watcher~
+Title 41 female the Forest Watcher~
+Title 42 male the Forest Guardian~
+Title 42 female the Forest Guardian~
+Title 43 male the Forest Guardian~
+Title 43 female the Forest Guardian~
+Title 44 male the Elder Druid~
+Title 44 female the Elder Druidess~
+Title 45 male the Elder Druid~
+Title 45 female the Elder Druidess~
+Title 46 male the Hallowed Druid~
+Title 46 female the Hallowed Druidess~
+Title 47 male the Hallowed Druid~
+Title 47 female the Hallowed Druidess~
+Title 48 male the Protector of Fire~
+Title 48 female the Protector of Fire~
+Title 49 male the Protector of Fire~
+Title 49 female the Protector of Fire~
+Title 50 male the Protector of Earth~
+Title 50 female the Protector of Earth~
+Title 51 male the Protector of Earth~
+Title 51 female the Protector of Earth~
+Title 52 male the Protector of Water~
+Title 52 female the Protector of Water~
+Title 53 male the Protector of Water~
+Title 53 female the Protector of Water~
+Title 54 male the Protector of Air~
+Title 54 female the Protector of Air~
+Title 55 male the Protector of Air~
+Title 55 female the Protector of Air~
+Title 56 male the Revered Druid~
+Title 56 female the Revered Druidess~
+Title 57 male the Revered Druid~
+Title 57 female the Revered Druidess~
+Title 58 male the Elemental Watcher~
+Title 58 female the Elemental Watcher~
+Title 59 male the Elemental Watcher~
+Title 59 female the Elemental Watcher~
+Title 60 male the Druid of Autumn~
+Title 60 female the Druidess of Autumn~
+Title 61 male the Druid of Autumn~
+Title 61 female the Druidess of Autumn~
+Title 62 male the Druid of Winter~
+Title 62 female the Druidess of Winter~
+Title 63 male the Druid of Winter~
+Title 63 female the Druidess of Winter~
+Title 64 male the Druid of Spring~
+Title 64 female the Druidess of Spring~
+Title 65 male the Druid of Spring~
+Title 65 female the Druidess of Spring~
+Title 66 male the Druid of Summer~
+Title 66 female the Druidess of Summer~
+Title 67 male the Druid of Summer~
+Title 67 female the Druidess of Summer~
+Title 68 male the Druid of the Winds~
+Title 68 female the Druidess of the Winds~
+Title 69 male the Weaver of Storms~
+Title 69 female the Weaver of Storms~
+Title 70 male the Weaver of Storms~
+Title 70 female the Weaver of Storms~
+Title 71 male the Guardian of the Animals~
+Title 71 female the Guardian of the Animals~
+Title 72 male the Guardian of the Animals~
+Title 72 female the Guardian of the Animals~
+Title 73 male the Grand Druid~
+Title 73 female the Grand Druidess~
+Title 74 male the Grand Druid~
+Title 74 female the Grand Druidess~
+Title 75 male the Savant of Fire~
+Title 75 female the Savanti of Fire~
+Title 76 male the Savant of Fire~
+Title 76 female the Savanti of Fire~
+Title 77 male the Savant of Earth~
+Title 77 female the Savanti of Earth~
+Title 78 male the Savant of Earth~
+Title 78 female the Savanti of Earth~
+Title 79 male the Savant of Water~
+Title 79 female the Savanti of Water~
+Title 80 male the Savant of Water~
+Title 80 female the Savanti of Water~
+Title 81 male the Savant of Air~
+Title 81 female the Savanti of Air~
+Title 82 male the Savant of Air~
+Title 82 female the Savanti of Air~
+Title 83 male the Lord of the River~
+Title 83 female the Lady of the River~
+Title 84 male the Lord of the River~
+Title 84 female the Lady of the River~
+Title 85 male the Master of the Four Seasons~
+Title 85 female the Mistress of the Four Seasons~
+Title 86 male the Master of the Four Seasons~
+Title 86 female the Mistress of the Four Seasons~
+Title 87 male the Master of the Elements~
+Title 87 female the Mistress of the Elements~
+Title 88 male the Master of the Elements~
+Title 88 female the Mistress of the Elements~
+Title 89 male the Master of Storms~
+Title 89 female the Mistress of Storms~
+Title 90 male the Immaculate Druid~
+Title 90 female the Immaculate Druidess~
+Title 91 male the Hand of Nature~
+Title 91 female the Hand of Nature~
+Title 92 male the Avatar of Nature~
+Title 92 female the Avatar of Nature~
+Title 93 male the Savior of Nature~
+Title 93 female the Savior of Nature~
 Title 94 male the Demigod~
 Title 94 female the Demigoddess~
 Title 95 male the Immortal~
 Title 95 female the Immortal~
-Title 96 male the God~
-Title 96 female the Goddess~
+Title 96 male the Elemental God~
+Title 96 female the Elemental Goddess~
 Title 97 male the Deity~
 Title 97 female the Deity~
 Title 98 male the Supreme Master~
