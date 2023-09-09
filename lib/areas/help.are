@@ -2233,7 +2233,9 @@ Githyanki :Human like creatures but high in intelligence. They can be fighter,
 Satyr	  :Half human, half goat race. High in dexterity but not very strong.
 	   They are good rangers and thieves. Cost an extra 250 exps per level.
 Troll     :Hindered by their slow intellect and mobility, but can regenerate
-           health quickly. They cost an extra 300 exps per level.
+           health quickly. They cost an extra 400 exps per level.
+Darktroll :A mix of the dark elves and trolls, members of this race are more
+			cunning than trolls, but hardier than elves.
 
 P.S.	: Remember that some races have their specific spells, i.e rockseers
 	  have their own spell 'meld into stone'. For more information try
@@ -2265,6 +2267,7 @@ Frost Giant FrGia    Str,Con  Int,Dex   500     evil, "bash","enh. damage"
 Githyanki   Githy    Int,Dex  Wis,Con   250     evil, "sword", "dagger"
 Satyr       Satyr      Dex      Int     250     neutral, "camouf.", "ambush"
 Troll       Troll    Str,Con  Int,Dex   400     evil, regenerate, "fast healing"
+Dark-Troll  D-Tro    Int,Dex  Str,Con   500     evil, regenerate 
 
 What is your race (help <race> for more information)?~
 
@@ -2283,9 +2286,20 @@ too bright, however, and their huge size makes them more clumsy than the
 other races.  Giants make the best warriors of any race, but are
 ill-suited for any other profession.
 
-Storm giants resist lightning , can fly.  However, they are the most clever 
-of giants. Storm giants, due to their  size and stamina, receive the fast 
-healing and bash skills for free. Cloud giants have weapon resistance.
+Storm giants resist lightning, and can fly.  Additionally, they are the 
+most clever of giants. Also, due to their size and stamina, receive fast 
+healing and bash skills for free. 
+
+~
+-1 'DARK TROLL' DARKTROLLS DARKTROLL~
+ Dark trolls are slighter, darker-skinned cousins to the Trolls, long
+rumored to be the product of a combination of Trolls and Dark Elves.
+They are comfortable in the deeper darkness of caves and passages, and
+can heal as fast as Trolls but are weaker than them.
+
+ Dark trolls, ever being master manipulators, are resistant to charms,
+but are vulnerable to fire and acid attacks.  They can employ magic 
+more effectively than Trolls, but not quite as well as the Dark Elves.
 
 ~
 -1 'FIRE GIANT' FIREGIANTS~
@@ -2295,9 +2309,8 @@ however, and their huge size makes them more clumsy than the
 other races.  Giants make the best warriors of any race, but are
 ill-suited for any other profession.
 
-Fire giants resist fire .  However, their slow minds make them extremely 
-vulnerable to mental attacks.  Storm giants, due to their  size and 
-stamina, receive the fast healing and bash skills for free. 
+Fire giants resist fire.  However, their slow minds make them extremely 
+vulnerable to mental attacks.  
 
 ~
 -1 'CLOUD GIANT' CLOUDGIANTS~
@@ -2307,10 +2320,7 @@ however, and their huge size makes them more clumsy than the
 other races.  Giants make the best warriors of any race, but are
 ill-suited for any other profession.
 
-Fire giants resist fire .  However, their slow minds make them extremely 
-vulnerable to mental attacks.  Storm giants, due to their  size and 
-stamina, receive the fast healing and bash skills for free. Cloud giants  
-have weapon resistance.
+Cloud giants have excellent weapon resistance.
 ~
 -1 'FROST GIANT' FROSTGIANTS~
  Frost giants are the largest of the giant races, ranging from 9-12 feet in 
@@ -2320,8 +2330,7 @@ other races.  Giants make the best warriors of any race, but are
 ill-suited for any other profession.
 
 Frost giants resist cold.  However, their slow minds make  them extremely 
-vulnerable to mental attacks.  Storm giants, due to their  size and 
-stamina, receive the fast healing and bash skills for free.And they are
+vulnerable to mental attacks.  And they are
 born to be enemies of white dragons.
 ~
 -1 GIANT GIANTS~
@@ -2430,7 +2439,7 @@ mithril.
 ~                      
 -1 SATYR~
 
-Satyrs are a race of half human and half goat race.They are evil.  They are 
+Satyrs are a race of half human and half goat race. They are evil. They are 
 inherently dexterous. But not strong. Due to their dexterity they can
 steal from someone, camouflage themselves and ambush opponents very easily.
 

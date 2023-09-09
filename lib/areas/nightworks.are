@@ -57,7 +57,9 @@
 sometime in October 2023.  This version 1.1 only contains bug fixes 
 and minor improvements to the Nightworks Java code base.
 	Additionally, many of the areas have been edited and several 
-new areas/races/classes have been added.
+new areas/races/classes have been added:
+- Druid class added thanks to AFKMud 
+- Darktroll race added 
 
 Main contributor to Spellbound --
 	Tom Hickerson
@@ -442,7 +444,7 @@ ROM, DIKU, and of course SPELLBOUND.
 * Read more about the Cabals: CABAL, ALIGNORCABAL, and also the VIRTUES and VICES.
 
 
-                    Last modified: July 13th, 2023
+                    Last modified: Sept 8th, 2023
 [Hit Return to continue]
 ~ 
  
