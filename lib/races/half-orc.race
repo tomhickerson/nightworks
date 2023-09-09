@@ -1,0 +1,25 @@
+#RACE
+Name half-orc~
+Aff infrared~
+Res disease~
+Form edible sentient poison biped mammal~
+Parts head arms legs heart brains guts hands feet fingers ear eye~
+End
+
+#PCRACE
+Shortname H-Orc~
+Points 200
+Class 'cleric' 100
+Class 'thief' 100
+Class 'warrior' 100
+Class 'anti-paladin' 100
+Class 'necromancer' 100
+Stats 1 -1 0 1 1 -1
+MaxStats 23 21 21 21 22 21
+Size medium
+HPBonus 10
+ManaBonus -10
+Slang trollish
+End
+
+#$
