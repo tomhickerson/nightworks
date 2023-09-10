@@ -2252,6 +2252,7 @@ RACE       ACRONYM   GOOD_AT  BAD_AT   EXTRA    COMMENTS
 Human       Human     None     None      0      average race
 Elf	     Elf     Int,Dex  Str,Con   500     good
 Half-Elf    H-Elf    Int,Dex  Str,Con   200     half human, half elf
+Half-Orc    H-Orc    Str,Con    Int     200     resist disease
 Dark-Elf    D-Elf    Int,Dex  Str,Con   500     evil
 Rockseer    Rocks    Int,Dex  Str,Con   500     neutral, "wand", "!meld into s."
 Dwarf       Dwarf    Wis,Con    Dex     250     "berserk"
@@ -2381,6 +2382,14 @@ as intelligent as pure elves but have a greater constitution. Like pure
 elves, half-elves see in the dark with infravision.
 
 ~
+-1 'HALF-ORC' HALFORC HALFORCS~
+
+Half-orcs are a cross-breed between a human and an orc.  They can see in 
+the dark with infravision, and are resistant to most diseases.  While 
+most of them are evil or neutral, a few good half-orcs have been known
+as adventuring heroes.
+
+~
 -1 SVIRF SVIRFNEBLI DEEP-GNOME~
 
 The Svirfnebli, also known as deep gnomes, have made their way into Anatolia as
@@ -2446,10 +2455,10 @@ steal from someone, camouflage themselves and ambush opponents very easily.
 ~                      
 -1 GITHYANKI~
 
-Githyanki's are more intelligent then human beings. But they are constitutive
-as human race. But they are evil. And they can be either fighter, caster or
-fighter/caster races. They are good warriors. But casters can use only offensive
-spells.
+Githyanki is a race of astral beings, who recently entered through the 
+Planar Realms to Anatolia.  Thye are more intelligent then human beings. 
+But they are not as strong as humans. They are evil, and they can be either 
+fighter or spellcaster classes. They are good warriors, but rather mysterious. 
 
 ~
 
@@ -2465,6 +2474,7 @@ They have a specific spell called 'meld into stone'.
 
 ~                      
 -1  TROLL TROLLS~
+
 Long hidden within the sanctity of their mountain caves, a race known in the
 past only as a myth, lies the civilization of the trolls. Built with the 
 undying stamina of the mountains they reside in, these green skinned beasts
@@ -2472,6 +2482,7 @@ often grow to obtain a state of health few other races believed possible.
 Hindered by their slow intellect and mobility, the troll society seems to
 have decided as a whole to rejoin the races of the realms, moving out of
 their sanctuaries in numbers reaching high into the thousands.
+
 ~
 -1 'CLASS' 'CLASSES' 'CLASS HELP'~
 
@@ -2491,6 +2502,8 @@ Samurai      Sam      STR        ANY    500  	masters of ancient battle arts
 Vampire      Vam      INT	 ANY	300	simply vampire
 Warlock      WrK      INT        ANY     0      magician
 Necromancer  Nec      INT	 ANY	200	simply necromancer
+Druid        Dru      WIS    ANY    100 forest clerics 
+Witch		 Wit	  INT 	 FEM    200 female magicians 
 
 ~
 
@@ -2571,6 +2584,11 @@ taking the direct approach, even when another method might be called for.
 	More powerful honorable warriors. But after level 10 they cannot flee 
 because their honor doesn't let them. But under some circumstances, they may
 dishonor themselves.
+~
+-1 DRUID DRUIDS~
+	Druids and Druidesses are the watchers of the woods, clerics who are 
+able to harness the powers of nature and wildlife.  They are able to summon
+forest creatures, and control the weather, as well as casting many clerical spells.
 ~
 
 -1 VAMPIRE VAMPIRES~

@@ -2904,11 +2904,11 @@ enum Skill {
     /**
      * Level needed by class
      */
-    public final int skill_level[] = new int[MAX_CLASS];
+    public final int[] skill_level = new int[MAX_CLASS];
     /**
      * How hard it is to learn
      */
-    public final int rating[] = new int[MAX_CLASS];
+    public final int[] rating = new int[MAX_CLASS];
     public int[] mod = new int[MAX_CLASS];
     /**
      * Legal targets

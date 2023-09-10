@@ -134,7 +134,7 @@ Title 10 male the Watcher of the Land~
 Title 10 female the Watcher of the Land~
 Title 11 male the Friend to the Animals~
 Title 11 female the Friend to the Animals~
-Title 12 male the Friend to the Animals~~
+Title 12 male the Friend to the Animals~
 Title 12 female the Friend to the Animals~
 Title 13 male the Guardian of the Animals~
 Title 13 female the Guardian of the Animals~
