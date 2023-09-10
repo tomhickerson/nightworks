@@ -241,7 +241,7 @@ public final class Nightworks {
 
     private static final int MAX_SOCIALS = 256;
     static final int MAX_SKILL = 426;
-    static final int MAX_CLASS = 13;
+    static final int MAX_CLASS = 14;
     static final int MAX_CABAL = 9;
     // wont add summoners for now as we can intro NPEs by changing the above number
     static final int MAX_RELIGION = 18;
