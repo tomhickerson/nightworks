@@ -2503,13 +2503,13 @@ Vampire      Vam      INT	 ANY	300	simply vampire
 Warlock      WrK      INT        ANY     0      magician
 Necromancer  Nec      INT	 ANY	200	simply necromancer
 Druid        Dru      WIS    ANY    100 forest clerics 
-Witch		 Wit	  INT 	 FEM    200 female magicians 
+Witch        Wit      INT    FEM    200 female magicians 
 
 ~
 
 -1 RANGER RANGERS~
                                 RANGER
-Outdoorsmen, hunters, master of woodcraft, Rangers are the guardians of 
+Outdoorsmen, hunters, masters of woodcraft, Rangers are the guardians of 
 the forests.  In addition to having excellent fighting skills, they are
 also wielders of some powerful magic.  Some Rangers have been known to call 
 large bears to their aid, fashion mystical staves, and be able to camouflage
@@ -2594,7 +2594,7 @@ forest creatures, and control the weather, as well as casting many clerical spel
 -1 VAMPIRE VAMPIRES~
      Powerful mage/warriors..But after they can only transform into VAMPIRE 
 after level 10.And they cannot practice the vampire skill. The vampire skill 
-is gained in 50 questpoints. When they use this skill at the nights their
+is gained with 50 questpoints. When they use this skill at the nights their
 size increase, they gets damage from light, and their damroll increases. You
 cannot realize a vampire in nights. It is only written "An ugly creature".
 
@@ -2603,8 +2603,8 @@ To change form back to human	type: human
 
 ~
 -1 NECROMENCER NECROMENCERS NECROMANCER NECROMANCERS~
- Powerful mage dealing with death and the undead. But powerful in 
- necromantic spells. 
+ Powerful mage dealing with death and the undead. Of course they are powerful in 
+necromantic spells, and summoning sprits and foul zombies. 
 
 ~
 -1 WARLOCK WARLOCKS~
