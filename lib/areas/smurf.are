@@ -117,12 +117,14 @@ BEFJNU 0 0 0
 stand stand male 1
 0 0 medium 0
 #109
-oldstyle smurfette~
-Smurfette~
-Smurfette is here, looking beautiful.
+oldstyle delilah~
+Delilah~
+Delilah is here, looking to take your order.
 ~
-Smurfette is the cutest little smurf you've ever seen.  If only she were your
-size.  I wonder how much she charges the other smurfs.
+Delilah, the waitress, is dressed head to toe in black, her hair is black and pulled back
+into a ponytail.  She looks young, but with a slack expression and a thin cigarette drooping
+from her lips, which are also colored with black lipgloss.  Her face is a powered white circle
+in the blackness that is her.
 ~
 human~
 AGHS DF 100 0
@@ -132,13 +134,13 @@ BEFJNU 0 0 0
 stand stand female 1
 0 0 medium 0
 #110
-oldstyle papa smurf~
-Papa Smurf~
-Papa Smurf is practicing magic here.
+oldstyle old man oltorf~
+Old Man Oltorf~
+Old Man Oltorf is cleaning a glass with a half-dirty apron.
 ~
-Yep, its Papa Smurf all right.  Red hat and boots and the funny little white
-beard.  Papa Smurf treats his fellow smurfs with dignity and respect.  That
-is why Papa Smurf is so popular among the ladies.
+The bartender of this establishment, this old man looks to be around seventy years 
+old, with thinning grey hair and a pot belly.  His spectacles are perched on his
+forehead as he thoughtfully cleans another glass.
 ~
 human~
 AGHR 0 100 0
@@ -163,14 +165,13 @@ EIKU 0 0 0
 stand stand male 2
 0 0 medium 0
 #112
-oldstyle azreal cat~
-Azreal~
-Azreal is here, licking himself.
+oldstyle red cat~
+Red Cat~
+A red cat is here, licking himself.
 ~
-Gargamel's worthless cat.  He is just about as dumb as Gargamel.  He should
-just grab a smurf in his teeth and chew away.
+A round red tabby is here, not really paying attention to anyone or anything.
 ~
-human~
+cat~
 ABH 0 -100 0
 8 0 2d7+96 4d9+100 1d7+2 none
 3 3 3 9
