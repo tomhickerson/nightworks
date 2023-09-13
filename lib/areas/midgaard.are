@@ -3984,7 +3984,7 @@ picturing gods, giants and peasants.
    Large steps lead down through the grand temple gate, descending the huge
 mound upon which the temple is built and ends on the temple square below.
    Equally large steps lead UP through a small door into the ENTRANCE to MUD 
-SCHOOL.  (type 'up' to go to MUD SCHOOL.)  A small plaque is on this wall.
+SCHOOL.  (type 'up' to go to MUD SCHOOL.)  A small {Yplaque{x is on this wall.
 ~
 0 CD 0
 D0
@@ -4987,11 +4987,6 @@ The road continues further south.
 ~
 ~
 0 -1 3047
-D3
-The Great Chessboard of Midgaard.
-~
-~
-0 -1 4200
 E
 wall~
 It is built from large grey rocks that have been fastened to each other with
@@ -5294,7 +5289,7 @@ You are by the temple altar in the northern end of the Temple of Midgaard.
 A huge altar made from white polished marble is standing in front of you and
 behind it is a ten foot tall sitting statue of Odin, the King of the Gods.
 The back of the altar opens into a a beautiful atrium, above which can be
-seen a rainbow.
+seen the picture of a rainbow.
 ~
 0 DS 0
 H 150 M 150
@@ -5308,15 +5303,15 @@ You see the southern end of the temple.
 ~
 ~
 0 -1 3001
-D4
-Bifrost, the Rainbow Bridge, hangs in the sky above you.
-~
-~
-0 -1 1215
 E
 altar~
 Even though the altar is more than ten feet long it appears to be made from a
 single block of white virgin marble.
+~
+E
+rainbow picture~
+It looks very lifelike, much like the mythical Bifrost leading to the land of the Gods.
+Too bad it's not real!
 ~
 S
 #3056
@@ -6544,13 +6539,20 @@ D3
 S
 #3141
 The end of Penny Lane~
-You are at the end of Penny Lane.  The only exit appears to be south.
+You are at the end of Penny Lane.  The cobblestones of the street draw into a 
+circular pattern, surrounded by shrubbery and small buildings.  An arched 
+gateway leads to the west while the lane leads south.
 ~
 0 0 1
 D2
 ~
 ~
 0 -1 3140
+D3
+The Great Chessboard of Midgaard.
+~
+~
+0 -1 4200
 S
 #3142
 Captain's Office~
@@ -6635,11 +6637,6 @@ You see Austral Square.
 ~
 ~
 0 -1 3103
-D4
-You see the far-off halls of Valhalla.
-~
-~
-0 -1 1219
 E
 window landing~
 You can see a rickety bridge to your northwest, leading back into
@@ -6720,10 +6717,6 @@ The Wall Road is to the west.
 ~
 ~
 0 -1 3042
-D4
-~
-~
-0 -1 1219
 E
 puddle puddles~
 The puddles on the floor are filthy and exude a foul stench.
