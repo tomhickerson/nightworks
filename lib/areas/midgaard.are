@@ -6083,7 +6083,8 @@ D3
 S
 #3118
 Park Road~
-You are on Park Road which leads north and south.
+You are on Park Road which leads north and south.  The road is unpaved here, 
+and sturdy wood houses with peaked roofs line the sides of this street.
 ~
 0 0 1
 D0
@@ -6118,9 +6119,9 @@ D3
 S
 #3120
 Road Crossing~
-You are in the middle of the road cross.  Roads lead in all directions.
+You are in the middle of the road crossing.  Roads lead in all directions.
 A huge black iron chain as thick as a tree trunk is fastened into the ground
-at the centre of the road cross.  Its other end leads directly upwards towards
+at the centre of the road crossing.  Its other end leads directly upwards towards
 the sky.
 A road {Ysign{w is here.
 ~
@@ -6166,8 +6167,8 @@ Someone has added the following with red paint:
 S
 #3121
 Emerald Avenue~
-You are standing at a bend on Emerald Avenue.  The road leads south and
-east.
+You are standing at a bend on Emerald Avenue.  The packed-earth road leads 
+south and east.  High fences and grassy weeds line the road on both sides.
 ~
 0 0 1
 D1
@@ -6181,8 +6182,8 @@ D2
 S
 #3122
 Park Road~
-You are on Park Road which leads south and north.  Elm Street is east of
-here.
+You are on the unpaved part of Park Road, which leads south and north.  
+Elm Street lies to the east of here.  High grasses and weeds line the road.
 ~
 0 0 1
 D0
@@ -6201,7 +6202,9 @@ S
 #3123
 Elm Street~
 You are on Elm street.  Park Road is to the west and Elm Street continues
-in eastward direction.
+in its eastward direction.  The road is paved in large, flat grey stone
+which are cracked and broken in places.  You seem to be one of only a 
+few people on this street.
 ~
 0 0 1
 D1
@@ -6260,8 +6263,8 @@ Looks heavy.  A small {Ysign{w is hanging on it.
 S
 #3125
 Emerald Avenue~
-You are on Emerald Avenue which continues north.
-The Concourse is south of here.
+You are on Emerald Avenue which continues north.  The road is paved in small,
+round stones which are hard on your feet.  The Concourse is south of here.
 ~
 0 0 1
 D0
