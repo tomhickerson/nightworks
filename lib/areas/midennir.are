@@ -438,8 +438,8 @@ S
 #3511
 The Trail~
 You are on a north-south trail through the woods. To the west, impassable
-mountains glare at you, and the thick woods and undergrowth prevent any
-movement westward.
+mountains glare at you, but you see a fog-shrouded trail wending its way
+up to the peaks.
 ~
 0 0 3
 D0
@@ -452,6 +452,11 @@ To the south, the path re-enters the forest.
 ~
 ~
 0 0 3515
+D3
+To the west you see a fog-shrouded trail.
+~
+~
+0 0 201
 S
 #3512
 The Miden'nir~
