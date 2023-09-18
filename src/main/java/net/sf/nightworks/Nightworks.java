@@ -688,7 +688,7 @@ public final class Nightworks {
         Object objModifier;
         long bitvector;
 
-        final void assignValuesFrom(AFFECT_DATA source) {
+        void assignValuesFrom(AFFECT_DATA source) {
             next = source.next;
             valid = source.valid;
             where = source.where;
@@ -869,6 +869,10 @@ public final class Nightworks {
     */
     static final int AREA_HOMETOWN = (A);
     static final int AREA_PROTECTED = (B);
+    // add other flags here for hidden area, or no recall area
+    static final int AREA_IS_HIDDEN = (C);
+    static final int AREA_NO_RECALL = (D);
+    // maybe additional flags for restricting entry by level range?
 
     /*
     * ACT bits for mobs.  *ACT*
