@@ -2564,6 +2564,7 @@ public class DB {
 
         if (argument != null && argument.length() > 0) {
             // if 'area all' show all areas - otherwise just for your level
+            // maybe restrict to imms as showing hidden areas is problematic
             if ("all".equals(argument)) {
                 levelsOnly = false;
             } else {
@@ -2577,7 +2578,8 @@ public class DB {
             // put a counter in there to limit the list to 10?  Someday
             bufpage.append("You are currently in {Y" + ch.in_room.area.name + "{x.  Areas in your level range are:\n");
             for (pArea = area_first; pArea != null; pArea = pArea.next) {
-                if (ch.level >= pArea.low_range && ch.level <= pArea.high_range) {
+                if (ch.level >= pArea.low_range && ch.level <= pArea.high_range
+                        && !IS_SET(ch.in_room.area.area_flag, AREA_IS_HIDDEN)) {
                     bufpage.append(formatAreaDetails(ch, pArea) + "\n");
                 }
             }
