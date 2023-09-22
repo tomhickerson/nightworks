@@ -1964,7 +1964,7 @@ class ActInfo {
         if (!IS_IMMORTAL(ch)) {
             return;
         }
-        buf.sprintf("NIGHTWORKS started up at %s\nThe system time is %s.\n", new Date(boot_time * 1000L), new Date(current_time * 1000L));
+        buf.sprintf("SPELLBOUND started up at %s\nThe system time is %s.\n", new Date(boot_time * 1000L), new Date(current_time * 1000L));
         send_to_char(buf, ch);
     }
 

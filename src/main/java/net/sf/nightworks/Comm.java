@@ -231,6 +231,8 @@ public class Comm {
         * Init time.
         */
         limit_time = boot_time = current_time = currentTimeSeconds();
+        // the above doesn't seem to work for boot time
+        boot_time = currentTimeSeconds();
 
         // Run the game.
         try {
