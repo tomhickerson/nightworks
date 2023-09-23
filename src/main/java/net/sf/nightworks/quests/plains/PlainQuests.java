@@ -18,10 +18,10 @@ public class PlainQuests {
         sgq.setQuestPoints(10); // do we need it any more? or do we set it in the reward?
         sgq.setVnumToGet(313);
         sgq.setAdvancedPreamble(null);
-        sgq.setPreamble("{WDear Adventurer, glad to see you!  Could you help me find some {Yfennel{W \nfor a stew I'm making?  Please say '{YI accept{W' if so...{x");
+        sgq.setPreamble("{WDear Adventurer, glad to see you!  Could you help me find some {Yfennel{W for a stew I'm making?  Please say '{YI accept{W' if so...{x");
         sgq.setDuration(30);
         sgq.setEpilogue("Thank you so much!  I'll really enjoy this stew!");
-        sgq.setAcceptMessage("So excellent!  Please stay on the plains and you should find it somewhere \nnearby!");
+        sgq.setAcceptMessage("So excellent!  Please stay on the plains and you should find it somewhere nearby!");
         // setting how to qualify here
         sgq.setQualify(qualifiesFennel());
         sgq.setReward(deliverFennel());

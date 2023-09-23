@@ -2579,7 +2579,7 @@ public class DB {
             bufpage.append("You are currently in {Y" + ch.in_room.area.name + "{x.  Areas in your level range are:\n");
             for (pArea = area_first; pArea != null; pArea = pArea.next) {
                 if (ch.level >= pArea.low_range && ch.level <= pArea.high_range
-                        && !IS_SET(ch.in_room.area.area_flag, AREA_IS_HIDDEN)) {
+                        && !IS_SET(pArea.area_flag, AREA_IS_HIDDEN)) {
                     bufpage.append(formatAreaDetails(ch, pArea) + "\n");
                 }
             }
