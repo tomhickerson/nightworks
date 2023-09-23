@@ -1,7 +1,7 @@
 #AREA
 mobfact.are~
-Mob Factory~
-{ 5 15} PinkF   Mob Factory~
+Golem Factory~
+{ 5 15} PinkF   Golem Factory~
 9400 9499
 
 #MOBILES
@@ -70,7 +70,7 @@ stand stand male 2
 #9405
 oldstyle toxic slime~
 The toxic slime~
-A pool of toxic slime lies on  the floor.
+A pool of toxic slime lies on the floor.
 ~
 Yick.  Looks like someone had digestion problems!  Either that, or the 
 hydraulic fluid is leaking again.
