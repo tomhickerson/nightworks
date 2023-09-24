@@ -643,6 +643,7 @@ surprised to see cityguard heads come floating on the conveyor belt!
 The very sight is sickening, but the workers seem to be quite
 cheerful about their work. Exits are north to the secondary
 assembly line and west to the primary assembly line.
+You also see a dusty set of stairs leading upwards.
 ~
 0 D 0
 D0
@@ -653,7 +654,104 @@ D3
 ~
 ~
 0 0 9419
+D4
+A small stairway upwards
+~
+~
+0 0 9425
 S
+#9425
+The Factory Attic~
+You are in a dusty, unused part of the factory.  It seems that 
+there is an entire floor here, with a lower ceiling but still
+very open with lots of space.  There are large windows to the 
+west and some kind of separated rooms to the north.
+~
+0 CD 0
+D0
+A small set of rooms
+~
+~
+0 0 9426
+D3
+A set of bay windows 
+~
+~
+0 0 9427
+D5
+The stairs leading downwards to the main factory hall
+~
+~
+0 0 9424
+S 
+#9426
+The Factory Records Room~
+You are in a small, cramped room closed in by wooden polished walls, and a
+striped wooden floor.  This area has a different feel than the rest of the 
+factory, as boxes of notes, documents, and books are piled high on both the 
+east and west walls.  What light used to illuminate this room has long since 
+extinguished.  The exit is to the south while there is another
+small room to the north.
+~
+0 AD 0
+D0
+Deeper into the records room
+~
+~
+0 -1 9429
+D2
+Towards the center of the attic
+~
+~
+0 -1 9425
+S 
+#9427
+Along a set of windows~
+You are walking through the factory attic, stepping around the dust and cobwebs.  
+Outside the large factory windows you can see Wall Road of Midgaard 
+and some of the lands beyond the wall.
+~
+0 D 0
+D0
+Along the western side of the attic
+~
+~
+0 -1 9428
+D1
+Towards the center of the attic
+~
+~
+0 -1 9425
+S
+#9428
+Northwestern corner of the attic~
+You are in the corner of the Factory's attic, where the ceiling is much lower and
+the walls come together at a point.  Dust cakes the floor here, and any furtniture
+and instruments are also covered in dust, unused for many years.
+~
+0 D 0
+D2
+Along a set of windows
+~
+~
+0 -1 9427
+S
+#9429
+The Records Room Library~
+You are in a dark wooden room, which appears to have been built within the attic.
+The floor is striped black and white.  Books and shelves line the walls here, all 
+on esoteric topics such as the function of the autonomous flywheel in post-production, 
+etc.  There is an exotic candleabra embossed into the wood of the north wall.  Several
+{ybooks{x lie open on a table in the center of the room.
+The only apparent way out is to the south.
+~
+0 AD 0
+D2
+To the Factory's Record Room
+~
+~
+0 -1 9426 
+S 
 #0
 
 #RESETS
