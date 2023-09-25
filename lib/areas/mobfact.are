@@ -115,6 +115,22 @@ sleep sit female 3
 #0
 
 #OBJECTS
+#9401
+candle~
+a tall wax candle~
+A tall wax candle is here.~
+clay~
+light 0 A
+0 0 250 0 0
+0 40 75 P
+#9402
+candelabra~
+a candleabra~
+A wooden candleabra.~
+wood~
+container 0 A
+50 0 0 5 100
+0 10 9 G
 #0
 
 #ROOMS
