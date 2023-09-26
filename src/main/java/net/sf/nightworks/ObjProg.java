@@ -533,6 +533,34 @@ class ObjProg {
 
     }
 
+    static void put_prog_open_bookshelf(OBJ_DATA obj, OBJ_DATA dest, CHAR_DATA ch) {
+        if (obj.pIndexData.vnum == 9401 && dest.pIndexData.vnum == 9402) {
+            // they put the candle in the candleabra
+            act("As you put the candle in the candelabra a bookcase in the wall swings open.", ch, obj, null, TO_CHAR);
+            act("$n puts the candle in the candelabra and a bookcase in the wall swings open.", ch, obj, null, TO_ROOM);
+            OBJ_DATA bookcase = create_object(get_obj_index(9403), 5);
+            obj_to_obj(obj, dest);
+            obj_to_room(bookcase, ch.in_room);
+        }
+    }
+
+    static void get_prog_candle(OBJ_DATA obj, CHAR_DATA ch) {
+        if (obj.pIndexData.vnum == 9401 && ch.in_room.vnum == 9429) {
+            // remove the bookcase
+            OBJ_DATA obj_next;
+            OBJ_DATA obj2;
+            for (obj2 = ch.in_room.contents; obj2 != null; obj2 = obj_next) {
+                obj_next = obj2.next_content;
+                if (obj2.pIndexData.vnum == 9403) {
+                    obj_from_room(obj2);
+                }
+            }
+            act("The bookcase spins, and slams shut into the wall!", ch, obj, null, TO_ROOM);
+            act("You hear the following ghostly voice:", ch, obj, null, TO_ROOM);
+            act("- Now listen to me very carefully: PUT. THE. CANDLE. BACK....", ch, obj, null, TO_ROOM);
+        }
+    }
+
     static void put_prog_generic_questobj(OBJ_DATA obj, OBJ_DATA dest, CHAR_DATA ch) {
         if (IS_NPC(ch)) {
             return;

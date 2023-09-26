@@ -125,12 +125,17 @@ light 0 A
 0 40 75 P
 #9402
 candelabra~
-a candleabra~
-A wooden candleabra.~
+a candelabra~
+A wooden candelabra is embedded into the wall here.~
 wood~
 container 0 A
 50 0 0 5 100
 0 10 9 G
+E
+candelabra~ 
+An intrucately designed wooden candelabra here.  You notice that there is a small 
+empty circle where a candle should rest.
+~
 #9403
 bookcase~
 an open bookcase~
@@ -838,6 +843,11 @@ S
 0
 
 #SPECIALS
+S
+
+#OMPROGS
+O 9401 get_prog get_prog_candle * close the bookshelf
+O 9401 put_prog put_prog_open_bookshelf * open the bookshelf
 S
 
 #$
