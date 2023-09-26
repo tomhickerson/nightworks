@@ -131,6 +131,14 @@ wood~
 container 0 A
 50 0 0 5 100
 0 10 9 G
+#9403
+bookcase~
+an open bookcase~
+A bookcase has swung open to reveal a secret passage.~
+wood~
+portal 0 0
+-1 0 A 9430 0
+0 0 0 P
 #0
 
 #ROOMS
@@ -767,13 +775,32 @@ To the Factory's Record Room
 ~
 ~
 0 -1 9426 
-S 
+S
+#9430
+The Secret Laboratory~
+You are in a secret chamber built within the attic of the Factory.  A long table 
+is here with leather straps, meant to hold someone or something down.  Machinery
+of different kinds are along the walls, built all of metal and glass.  A thin film 
+of dust covers most of the machines, but looks to be disturbed in a few areas.
+The only apparent way out is to the south.
+~
+0 AD 0
+D2
+To the Record Room Library
+~
+~
+0 -1 9429 
+E
+dust~
+Judging from the footprints and handprints, some one has been here recently.~
+S  
 #0
 
 #RESETS
 M 0 9405   7 9401  1	* The toxic slime
 M 0 9401   5 9402  1	* The mutant beastly fido
 M 0 9402   1 9403  1	* Foreman Floyd
+G 0 9401   0 * giving floyd the candle 
 M 0 9405   7 9404  1	* The toxic slime
 M 0 9403   7 9406  1	* The Cityguard head
 M 0 9405   7 9408  1	* The toxic slime
@@ -804,6 +831,7 @@ M 0 9403   7 9423  1	* The Cityguard head
 M 0 9403   7 9424  1	* The Cityguard head
 M 0 9406   8 9424  1	* The factory worker
 M 0 9405   7 9424  1	* The toxic slime
+O 0 9402   0 9429  * candleabra in the library
 S
 
 #SHOPS
