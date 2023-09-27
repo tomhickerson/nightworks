@@ -133,8 +133,8 @@ container 0 A
 0 10 9 G
 E
 candelabra~ 
-An intrucately designed wooden candelabra here.  You notice that there is a small 
-empty circle where a candle should rest.
+An intricately designed wooden candelabra is here.  You notice that there is a small 
+empty circle in it, where a candle should rest.
 ~
 #9403
 bookcase~
@@ -144,6 +144,18 @@ wood~
 portal 0 0
 -1 0 A 9430 0
 0 0 0 P
+#9404
+silver gear~
+a silver gear~
+A round silver gear is lying on the ground here.~
+silver~
+treasure 0 0
+0 0 0 0 0 
+8 10 640 P
+E
+gear~
+A small, delicate gear with thin spokes, this looks to be of very detailed and 
+high-quality craftsmanship. 
 #0
 
 #ROOMS
@@ -770,8 +782,7 @@ The Records Room Library~
 You are in a dark wooden room, which appears to have been built within the attic.
 The floor is striped black and white.  Books and shelves line the walls here, all 
 on esoteric topics such as the function of the autonomous flywheel in post-production, 
-etc.  There is an exotic candleabra embossed into the wood of the north wall.  Several
-{ybooks{x lie open on a table in the center of the room.
+etc.  Several {Ybooks{x lie open on a table in the center of the room.
 The only apparent way out is to the south.
 ~
 0 AD 0
@@ -780,6 +791,11 @@ To the Factory's Record Room
 ~
 ~
 0 -1 9426 
+E
+book books~
+One of these is discussing a golem build: "Placing the correct gears inside
+the chest cavity will allow the golem to awaken, but watch out for 
+unexpected behavior cached in its memory tubes."
 S
 #9430
 The Secret Laboratory~
