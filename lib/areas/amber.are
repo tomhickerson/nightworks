@@ -1,0 +1,6698 @@
+#AREA
+amber.are~
+Amber Palace~
+{20 90} Genjuro Amber Palace~
+19200 19499
+
+
+
+#MOBILES
+#19400
+amber warrior~
+an Amber Warrior~
+An amber warrior is walking back and forth holding his amber glaive.
+~
+~
+unique~
+AFT 0 500 0
+20 20 41d6+203 20d10+85 6d3+15 slash
+-3 -3 -3 0
+CVWX AB Q S
+stand stand none 0
+HM ABCFGHIJK medium unknown
+#19401
+guard amber~
+The Amber Guard~
+A guard of the Amber Castle is here, guarding against intruders.
+~
+This is a guard of the Amber Castle.  The guard holds his post here,
+making sure no intruders enter the castle.  His skin doesn't seem normal.. 
+Looking closer, the seemingly brown tan turns out to be like amber from
+treesap!  Magic must be very strong here.  
+~
+unique~
+ABCT DFJVZ 500 0
+15 15 31d5+152 15d10+85 5d3+12 slap
+0 0 0 2
+CNTVW AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#19402
+servant amber~
+The Amber Servant~
+A servant is here, dusting and cleaning about.
+~
+This nude amber figure is rolling about on the ground, picking up much
+dust.  This servant is muttering in the Ambrish tounge, saying 'grhrjhiash'
+over and over again.  
+~
+unique~
+ACGT DFJZ 150 0
+12 12 25d4+122 12d10+85 4d3+11 slap
+1 1 1 3
+DIJNTUX AB EL 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#19403
+courtier amber~
+The courtier~
+A courtier is here, trying to gain the ear of the King.
+~
+This courtier is rather pompous and full of self-importance.  Declaring
+official business, the courtier tries to push by you.  
+~
+unique~
+ABCT DFJOZd 1 0
+18 18 37d6+182 18d10+85 6d3+14 slap
+-2 -2 -2 0
+CFIU AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#19404
+vassal amber~
+The Amber Vassal~
+The loyal vassal of the King is here, informing you that the King is not here.
+~
+This vassal is one of the King's most loyal subjects.  With a proud
+smirk, he informs you "The King is not present here.  Go about your
+business."  
+~
+unique~
+ABCT DFJZ 100 0
+20 20 41d6+203 20d10+85 6d3+15 slash
+-3 -3 -3 0
+EFIK AB 0 0
+stand stand male 10
+AHMV ABCDEFGHIJK medium unknown
+#19405
+mistress woman girl amber king~
+The King's Mistress~
+One of the King's countless mistresses is here, relaxing.
+~
+This young woman looks quite ravishing.  Clad in thin pieces of silk, she
+bats her large eyes innocently at you while sucking upon her index finger. 
+The King is a very lucky man.  
+~
+unique~
+ACT DFHJVZd -50 0
+25 25 51d8+253 25d10+85 8d3+17 suction
+-7 -7 -7 -1
+FIKNVX AB FHL 0
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#19407
+Melodie Iris Jenesse~
+Melodie~
+Melodie, the King's slut, is here.
+~
+Melodie is the King's slut.  Trying to get more power and status in her
+life, she seduced the King and asked to become part of his harem.  She has
+received what she wished, and is now one of the key members of the harem. 
+However her only power is in her role to become the King's sheath.  To her,
+the phrase "You Suck" is a compliment.  
+~
+unique~
+ABCT DFHJZ 10 0
+27 27 55d9+273 27d10+85 9d3+18 suction
+-8 -8 -8 -2
+FJKN AB HJ 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#19408
+heather mistress~
+Heather~
+Heather, one of the King's mistresses, is practicing her dancing here.
+~
+Heather is a tall redheaded woman of lust.  She shows a hint of
+musculature as she rips off her gown and throws herself at you.  
+~
+unique~
+ABCT DFHJZ 0 0
+26 26 53d8+263 26d10+85 8d3+18 suction
+-7 -7 -7 -2
+EFIX AB 0 0
+stand stand female 2
+AHMV ABCDEFGHIJK medium unknown
+#19409
+theana mistress~
+Theana~
+Theana, one of the King's mistresses, is shaving her legs here.
+~
+Theana is a short young woman with an average build.  Her fine sharp nose
+if offset by her auburn hair and deep emerald eyes.  She smiles happily as
+you enter the room and points to the bed behind her.  
+~
+unique~
+ABCT DFHJZ 1 0
+27 27 55d9+273 27d10+85 9d3+18 suction
+-8 -8 -8 -2
+FHIJK AB C D
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#19410
+biff stud~
+Biff~
+Biff, the Queen's stud, is here, flexing his muscles at you.
+~
+Biff is a strong blonde man, with muscles rippling everywhere.  He
+flashes as bright white grin at you as you walk in and invites you to stay
+for the cupcakes he is baking.  
+~
+unique~
+ABCT DFJZ 1 0
+25 25 51d8+253 25d10+85 8d3+17 thrust
+-7 -7 -7 -1
+EFIO AB 0 0
+stand stand male 2
+AHMV ABCDEFGHIJK medium unknown
+#19411
+stud~
+The Queen's Stud~
+One of the Queen's nameless studs is here, working out.
+~
+This man is one of the Queen's playtoys.  Wearing only briefs and a collar, he works out in earnest, hoping to become the Queen's main consort.
+~
+unique~
+ABCT DFJZ 0 0
+24 24 49d8+243 24d10+85 8d3+17 thrust
+-6 -6 -6 -1
+CIO A 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#19412
+arnold stud~
+Arnold~
+Arnold, the Queen's main consort, is posing before a mirror here.
+~
+Arnold is an exotic large man, with so many muscles that he cannot touch
+his own shoulders.  His short cropped black hair frames his strong features
+and he flashes you a broad smile and flexes.  
+~
+unique~
+ABT DFJVZe 10 0
+35 35 71d11+354 35d10+85 11d3+22 thrust
+-13 -13 -13 -6
+CDEFHIJKO AB D K
+stand stand male 10
+AHMV ABCDEFGHIJK large unknown
+#19413
+guard armoury~
+The Armoury Guard~
+The Armoury Guard is here, annoyed that you have entered without permission.
+~
+This guard is HUGE. Fully armored in amber armor, he draws his sword and lunges at you with an earshattering shriek.
+~
+unique~
+ABCFT BDFJQVZae -1 0
+48 48 97d16+485 48d10+85 16d3+29 wrath
+-23 -23 -23 -13
+DEFGHIJKOU AB CD X
+stand stand male 10
+AHMV ABCDEFGHIJK large unknown
+#19414
+lord gerald~
+Lord Gerald~
+Lord Gerald is here, dancing with Lady Glorinna.
+~
+Lord Gerald is the lord of Vilhelm Manor.  With his suave good look and
+cat-like grace, he dominates the dance floor as easily as he does his wife,
+Lady Glorinna.  
+~
+unique~
+ABCT DJZ -100 0
+40 40 81d13+405 40d10+85 13d3+25 pierce
+-17 -17 -17 -9
+EFIKO AB 0 0
+stand stand male 20
+AHMV ABCDEFGHIJK medium unknown
+#19415
+lady glorinna~
+Lady Glorinna~
+Lady Glorinna is here, dancing with her lord.
+~
+Lady Glorinna is a fair young lady with long brown hair.  Elegance in
+motion, you watch spellbound as she manuevers about the room, making even
+the most skilled dancer seem like a cripple.  
+~
+unique~
+ABCT DFJZ 100 0
+35 35 71d11+354 35d10+85 11d3+22 slap
+-13 -13 -13 -6
+FIJK AB 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#19416
+cook amber~
+The Cook~
+A cook of Amber Palace is here, making a feast.
+~
+The cook is a master of the craft.  A gourmet in spirit as well as in
+skill, the chef whips up a repast worthy of Kings.  As well the cook does,
+since it IS for a King.  
+~
+unique~
+ABCT DJZ 2 0
+31 31 63d10+314 31d10+85 10d3+20 chop
+-11 -11 -11 -4
+EFIKOU AB H 0
+stand stand either 1
+AHMV ABCDEFGHIJK medium unknown
+#19417
+guest eating hungry~
+A hungry guest~
+A hungry guest is here, eating everything in sight.
+~
+This guest must really be hungry.  All the food that has been set out for
+the feast has already been gobbled up by these starved fools.  Heaven help
+them when the King finds out!  
+~
+unique~
+ABCT DFJZ -10 0
+23 23 47d7+233 23d10+85 7d3+16 chop
+-5 -5 -5 -1
+FI A 0 0
+stand stand either 5
+AHMV ABCDEFGHIJK medium unknown
+#19418
+lord carheld~
+Lord Carheld~
+Lord Carheld is resting here, tired from his long trip.
+~
+Lord Carheld is a wiry many with delusions of grandeur flitting about his
+head.  His wild red hair sets off his hazel eyes and a slight look of
+madness is detectable in the slight froth that is drooling from his lower
+lip.  
+~
+unique~
+ABCT DFJZa -5 0
+34 34 69d11+344 34d10+85 11d3+22 slash
+-13 -13 -13 -6
+CEFIK AB J 0
+stand stand male 20
+AHMV ABCDEFGHIJK medium unknown
+#19419
+duchess fairholme~
+Duchess Fairholme~
+Duchess Fairholme is resting here, sipping some wine from a glass.
+~
+The Duchess is a heavyset woman in her late forties.  Her short blonde
+hair is styled close to her head and her strong nose takes away the
+attention that would otherwise be placed upon her blue eyes.  She sighs
+wearily and asks you to bring her some food to eat.  
+~
+unique~
+ABCT JZe 0 0
+36 36 73d12+364 36d10+85 12d3+23 pierce
+-14 -14 -14 -7
+EFIK AB 0 0
+stand stand female 20
+AHMV ABCDEFGHIJK medium unknown
+#19420
+lord wendel~
+Lord Wendel~
+Lord Wendel is here, practicing a speech to give to the King.
+~
+Lord Wendel is a obnoxious weasel-faced man with a whining tone.  Known
+through the realms as the most pompous lord ever born, Lord Wendel has been
+the target of many attempted assassinations.  
+~
+unique~
+ABCT DFZe 1 0
+38 38 77d12+384 38d10+85 12d3+24 slash
+-15 -15 -15 -7
+EIKO AB C J
+stand stand male 20
+AHMV ABCDEFGHIJK medium unknown
+#19421
+lady dunette~
+Lady Dunette~
+Lady Dunette is here, dressing up to go to a party.
+~
+Lady Dunette is an innocent young lady, brought here to meet the prince
+of Amber Palace.  With her sultry good looks and wide innocent eyes blinking
+at you, perhaps she has a chance to make him hers.  
+~
+unique~
+ABCT DJZ 10 0
+32 32 65d10+324 32d10+85 10d3+21 pierce
+-11 -11 -11 -5
+CEFI AB K K
+stand stand female 24
+AHMV ABCDEFGHIJK medium unknown
+#19422
+sir jordan~
+Sir Jordan~
+Sir Jordan is here, sharpening his sword carfully.
+~
+Sir Jordan is an upstanding young knight on exchange patrol here.  His
+long black hair is carefully tied back and his jade eyes regard you cooly. 
+He stands up suddenly and sweeps a low bow to you, honored by your presence.
+~
+unique~
+ABCT DZe 100 0
+35 35 71d11+354 35d10+85 11d3+22 slash
+-13 -13 -13 -6
+EFIKO AB 0 0
+stand stand male 20
+AHMV ABCDEFGHIJK medium unknown
+#19423
+witch Gyrine~
+Witch Gyrine~
+A well dressed witch is here, combing her hair.
+~
+The witch known as Gyrine is here to advise the Queen on matters of
+female importance.  She is a pleasnat looking young woman with pink dyed
+hair and striking red eyes.  As you step into the room, she stands up
+suddenly and raises her hands to ward you off.  
+~
+unique~
+ABCR DFJVZce 5 0
+39 39 79d13+394 39d10+85 13d3+24 none
+-16 -16 -16 -8
+AEFHIJK AB CD H
+stand stand female 1
+AHMV ABCDEFGHIJK medium unknown
+#19424
+lord wilham~
+Lord Wilham~
+Lord Wilham is here, undressing for a nap.
+~
+Lord Wilham, the cousin of the King, is about to take a nap.  He is in
+his late fourties, with balding grey hair and a worried look upon his face. 
+As you enter the room, he gasps and clutches his nightgown tightly.  
+~
+unique~
+ABCT DFJVZe 0 0
+41 41 83d13+415 41d10+85 13d3+25 stab
+-18 -18 -18 -9
+EFIJKO AB CD JK
+stand stand none 50
+AHMV ABCDEFGHIJK medium unknown
+#19425
+lady borneith~
+Lady Borneith~
+Lady Borneith is resting here.
+~
+Lady Borneith is the second cousin to the King.  She is a large woman in
+her mid forties and carries herself with an imperialistic air.  Her drab
+black hair shines listlessly in the light and demands an explaination when
+you barge in on here.  
+~
+unique~
+ABCT DFJVZe 0 0
+42 42 85d14+425 42d10+85 14d3+26 stab
+-19 -19 -19 -10
+EFIJKO AB CD JK
+stand stand female 25
+AHMV ABCDEFGHIJK medium unknown
+#19426
+prince shavin~
+Prince Shavin~
+Prince Shavin is here, deciding upon clothes to wear for the ball.
+~
+Prince Shavin is a meek young man that had the misfortune of being the
+King's nephew.  Scared of appearing in public, Shavin's skin has
+maintained a pasty white color and he has developed an embarrassing
+stammer. 
+~
+unique~
+ABCT DFJVZe 1 0
+44 44 89d14+445 44d10+85 14d3+27 slap
+-20 -20 -20 -11
+EFIJKO AB CD JK
+stand stand male 25
+AHMV ABCDEFGHIJK medium unknown
+#19427
+princess alanis~
+Princess Alanis~
+Princess Alanis is here, singing a little song to herself.
+~
+Princess Alanis is the King's neice. She is a pretty young lady with hazel hair and hazel eyes. Wearing her finest amber gown, she sings to herself in a clear voice as she grooms herself for the upcoming ball.
+~
+unique~
+ABCT DFJVZe 1 0
+44 44 89d14+445 44d10+85 14d3+27 wrath
+-20 -20 -20 -11
+EFIJKO AB CD JK
+stand stand female 26
+AHMV ABCDEFGHIJK medium unknown
+#19428
+minister morris~
+Minister Morris~
+Minister Morris is here, bored to death.
+~
+Minister Morris is one of the heads of Amber Palace's public relations
+department.  With such a personable king and queen, it is easy for the
+citizens of this land to love they Royal Family.  Unfortunately, it leaves
+Morris with nothing to do.  
+~
+unique~
+ABCT DFJVZe 1 0
+43 43 87d14+435 43d10+85 14d3+26 slash
+-19 -19 -19 -10
+EFIJKO AB CD JK
+stand stand male 10
+AHMV ABCDEFGHIJK medium unknown
+#19429
+minister abram~
+Minister Abram~
+Minister Abram is here, twiddling his thumbs.
+~
+Minister Abram is the minister of defense.  There is not much to do in
+Amber Palace however.  Peace reigns in the realms with the only trouble
+being made by single individuals.  He comtemplates hanging himself out of
+boredom.  
+~
+unique~
+ABCT DFJVZe 1 0
+44 44 89d14+445 44d10+85 14d3+27 slice
+-20 -20 -20 -11
+EFIJKO AB CD JK
+stand stand male 12
+AHMV ABCDEFGHIJK medium unknown
+#19431
+minister valence~
+Minister Valence~
+Minister Valence is here, sleeping.
+~
+Minister Valence is here, sleeping off the affects of last night's
+carousal about the castle.  A fond admirer of fine wines, he is paying the
+price of his hobby.  
+~
+unique~
+ABCT DFJVZe 1 0
+45 45 91d15+455 45d10+85 15d3+27 stab
+-21 -21 -21 -11
+EFIJKO AB CD JK
+sleep sleep male 3
+AHMV ABCDEFGHIJK medium unknown
+#19432
+counselor beels~
+Counselor Beels~
+Counselor Beels is standing here, looking annoyed.
+~
+Counselor Beels is an incredibly skinny woman.  Nothing but bones and
+skin, she turns her haggard skull-like to greet you as you enter her room. 
+She winks slowly and licks her lips in open invitation.  
+~
+unique~
+ABCT DFJVZe 1 0
+40 40 81d13+405 40d10+85 13d3+25 pierce
+-17 -17 -17 -9
+EFIJKO AB CD JK
+stand stand male 5
+AHMV ABCDEFGHIJK medium unknown
+#19433
+counselor sirik~
+Counselor Sirik~
+Counselor Sirik is here, about to leave.
+~
+Sirik is an older distinguished man, in his late fifties.  He's bald head
+and wrinkled skin is no indication of his mental condition however.  He is
+sharper than most poeple half his age and knows how to make his mind work
+for him.  
+~
+unique~
+ABCT DFJVZe 1 0
+40 40 81d13+405 40d10+85 13d3+25 pierce
+-17 -17 -17 -9
+EFIJKO AB CD JK
+stand stand male 5
+AHMV ABCDEFGHIJK medium unknown
+#19434
+jherag~
+Jherag~
+Jherag is here, lacing up his boots and grabbing his sword.
+~
+Jherag is an ambitious young lord.  Having being exiled from his own
+lands, he plans upon making an impression upon the people in Amber Palace so
+that someday he may seize the throne.  
+~
+unique~
+ABCT DFJVZe 1 0
+40 40 81d13+405 40d10+85 13d3+25 slash
+-17 -17 -17 -9
+EFIJKO AB CD JK
+stand stand none 5
+AHMV ABCDEFGHIJK medium unknown
+#19435
+Lambert~
+Lambert~
+Lambert is laying here exhausted from a long journey through the Wastelands.
+~
+Lambert is an official ensign of the High Guard.  He has just come from
+an important mission to the Wastelands and is now recuperating on his plush
+bed.  
+~
+unique~
+ABCT DFJVZe 1 0
+40 40 81d13+405 40d10+85 13d3+25 slice
+-17 -17 -17 -9
+EFIJKO AB CD JK
+stand stand male 5
+AHMV ABCDEFGHIJK medium unknown
+#19436
+demon sound~
+The Sound Demon~
+A demon made from pure sound is here, contained within a pentagram.
+~
+This demon has come to be confined within this room through the summoning
+powers of the court magician.  It screams with rage, pounding at anything
+that comes within reach, and lunges at you.  
+~
+unique~
+ABCFT BDFJQTUVZace -1000 0
+80 80 161d26+1617 80d10+85 26d3+45 wrath
+-44 -44 -44 -28
+ADEFGHIJKMO ABH CD N
+stand stand none 100
+AHMV ABCDEFGHIJK huge unknown
+#19437
+magician amber~
+The Amber Magician~
+The court magician is here, juggling fireballs.
+~
+The court magician is drunk at the present.  Perhaps this is why he has
+not attacked you yet.  His long sodden whiskers and white beard droop sadly,
+as if he regrets the long life of magic he has led.  You wonder what this
+old man has lived through.  War, battles, relationships, birthings, deathes,
+he has most likely seen it all.  
+~
+unique~
+ABCFR DFHJTUVZe 100 0
+80 80 161d26+1617 80d10+85 26d3+45 none
+-44 -44 -44 -28
+AEFHIJK ABHIJKO CD Y
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#19438
+guard treasury~
+The Treasury Guard~
+The Treasury guard is here, protecting the treasury from thieves like you.
+~
+This guard is one of the most trusted in the High Guard.  She guards the
+Treasury with her life, drawing her sword as you approach and readying
+herself for combat.  
+~
+unique~
+ABCFT BDEFJQTUVZce 2 0
+79 79 159d26+1595 79d10+85 26d3+44 pierce
+-43 -43 -43 -27
+DEFGHIJKOU ABHJ CD E
+stand stand female 10
+AHMV ABCDEFGHIJK large unknown
+#19439
+treasurer amber~
+The Amber Treasurer~
+The Amber Treasurer is here, counting money.
+~
+The treasurer is a small man, with a large nose and thick hands.  He
+hunches over as he counts the coins carefully and stores the information in
+his head to report to the king.  
+~
+unique~
+ABCT BDFJQTUZe 2 0
+70 70 141d23+1415 70d10+85 23d3+40 wrath
+-37 -37 -37 -22
+EFJKO AB CD 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#19440
+keeper dungeon~
+The Dungeon Keeper~
+The keeper of the dungeon is here, chewing some dried meat.
+~
+The Dungeon Keeper is a sadistic eunich that enjoys his job immensely. 
+He fiddles with a long bullwhip and cackles softly to himself as he sees you
+enter the room.  
+~
+unique~
+ABCT DFJUZ -10 0
+35 35 71d11+354 35d10+85 11d3+22 wrath
+-13 -13 -13 -6
+EFIJK AB K E
+stand stand none 1
+AHMV ABCDEFGHIJK medium unknown
+#19441
+prisoner coran~
+Coran~
+A prisoner is here, glaring angrily at you.
+~
+Coran is a tall man in his mid thirties.  You have no idea what he is
+doing in here, what crimes against the Royal Family he has committed.  He
+regards you cooly with steel grey eyes and pushes his umkept hair back,
+grinning a malicious smile as you approach.  
+~
+unique~
+ABCT DFZe 0 0
+37 37 75d12+374 37d10+85 12d3+23 slash
+-15 -15 -15 -7
+EFIJ AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#19442
+prisoner dizam~
+Dizam~
+A shackled prisoner lunges at you, stopped short by the chain.
+~
+Dizam is obviously a traitor to Amber Palace.  The symbol of a traitor, a
+large letter T, has been branded upon his right cheek.  He does not look
+like a savage person: if you met him travelling upon the street, you would
+think him an ordinary citizen of no value.  
+~
+unique~
+ABCT DFZe 0 0
+36 36 73d12+364 36d10+85 12d3+23 pierce
+-14 -14 -14 -7
+EFIJ AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#19443
+prisoner jezebel~
+Jezebel~
+A woman is here, sobbing dejectedly to herself.
+~
+Jezebel is here for attempting to seduce the King while the Queen was
+spying upon her.  A jealous woman, the Queen must be.  Jezebel is a raven
+haired beauty with a body perfect for bearing children.  As you enter the
+room, she looks up from her weeping and offers you a weak small smile as she
+wipes a tear from her eyes.  
+~
+unique~
+ABCT DFZe -10 0
+37 37 75d12+374 37d10+85 12d3+23 suction
+-15 -15 -15 -7
+EFIJ AB 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#19444
+prisoner trayz tranz track~
+Track~
+A pitiful whining prisoner is here.
+~
+Track is here for the simple crime of whining and being a hypocrite.  A
+quick study with a sharp tongue, he was once well respected.  He began
+annoying people with his endless insults, until one day someone insulted him
+back.  Unable to take what he had freely give out, he attacked the man and
+ended up whining before the King.  The King, weary after listening to Track
+whine for hours, sentenced him here in prison for annoying the Royal Family.
+~
+unique~
+ABCT DFJZe 0 0
+35 35 71d11+354 35d10+85 11d3+22 none
+-13 -13 -13 -6
+EFIKO AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#19445
+prisoner sir telhos~
+Sir Telhos~
+Sir Telhos is sitting here, disgraced.
+~
+Sir Telhos was once a fine knight of the High Guard.  After being bribed
+by an enemy of the state, and caught, he has been placed here for the
+remainder of his days.  
+~
+unique~
+ABCT DFJZe -1000 0
+35 35 71d11+354 35d10+85 11d3+22 slash
+-13 -13 -13 -6
+EFIKO AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#19446
+prisoner simpson~
+Simpson~
+Simpson is here, trying to hide his face from you.
+~
+Simpson is a large black male, and was once a famed and well respected
+member of the community of Amber Palace.  In a jealous rage, he slew his ex
+wife and fled, only to be tracked down by every member of the High Guard. 
+He sits here, waiting for his sentence to be handed down.  
+~
+unique~
+ABCT DFJZe 0 0
+35 35 71d11+354 35d10+85 11d3+22 stab
+-13 -13 -13 -6
+EFIKO AB 0 0
+stand stand male 50
+AHMV ABCDEFGHIJK medium unknown
+#19447
+prisoner stanwaithe~
+Stanwaithe~
+An abject prisoner is resting here.
+~
+Stanwaithe is a slender older man in his mid sixties.  His frayed white
+hair is damp with sweat as he shivers violently and glares about, muttering
+to himself.  
+~
+unique~
+ABCT DFJZe 0 0
+36 36 73d12+364 36d10+85 12d3+23 pierce
+-14 -14 -14 -7
+EFIKO AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#19448
+prisoner girl dottie~
+Dottie~
+Dottie is here, asking to be set free.
+~
+Dottie is a slightly thick girl with shoulder length black hair and
+smallish eyes.  She is locked in this cell for displeasing the King.  Once a
+member of the King's private harem, it seems that she overused a certain
+whip at times.  
+~
+unique~
+ABCT DFJZe 0 0
+35 35 71d11+354 35d10+85 11d3+22 slap
+-13 -13 -13 -6
+EFIKO AB 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#19449
+Borland~
+Borland~
+Borland is here, trying to escape.
+~
+Borland is a slightly chubby man with a general knowledge in many areas. 
+Right now he is trying to fashion a crowbar from his tattered garments and
+some rat droppings.  
+~
+unique~
+ABCT DFJZe 0 0
+35 35 71d11+354 35d10+85 11d3+22 punch
+-13 -13 -13 -6
+EFIKO AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#19450
+assassin georgina~
+Georgina~
+An assassin that failed sits here, trying to kill herself with her own chains.
+~
+Georgina is perhaps one of the most inept assassins every born. 
+Attempting to poison the King, she instead mistakenly poisoned the Royal
+cat.  In an attempt to save its life by walking it around until the poison
+wore off, she walked it to death, dragging it along by its leash for ten
+miles in a circle until it choked to death.  If anything, she deserves to be
+here for pure stupidity.  
+~
+unique~
+ABCT DFJZe 0 0
+35 35 71d11+354 35d10+85 11d3+22 wrath
+-13 -13 -13 -6
+EFIKO AB 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#19451
+prisoner nathaniel~
+Nathaniel~
+A prisoner is here, trying to start a small fire.
+~
+Nathaniel is Amber Palace's pyromaniac.  After starting numerous small
+fires and filling the Ballroom with smoke, he was placed here for his own
+protection and tat of the Amber Palace patrons.  
+~
+unique~
+ABCT DFJZe 0 0
+35 35 71d11+354 35d10+85 11d3+22 wrath
+-13 -13 -13 -6
+EFIKO AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#19452
+beast mirror~
+The Mirror Beast~
+A strange beast is here, rattling its cage.
+~
+This beast appeared one day in the Royal Court, and attempted to kill
+everything around it.  The High Guard subdued the creature and threw it in
+here for observation.  
+~
+unique~
+ABCFOT DFJZe 0 0
+48 48 97d16+485 48d10+85 16d3+29 wrath
+-23 -23 -23 -13
+EFIKO ABH CD 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#19453
+guard high~
+The High Guard~
+A member of the High Guard is here, waiting for intruders to enter.
+~
+This guard is among the most trusted of all Amber Palace personnel.  He
+sees you enter without the King and automatically draws his sword to attack
+you.  
+~
+unique~
+ABCFT CDFJVZe 0 0
+70 70 141d23+1415 70d10+85 23d3+40 wrath
+-37 -37 -37 -22
+EFIJKOU AB CD 0
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+#19454
+princess amberline~
+Princess Amberline~
+Princess Amberline is here, resting.
+~
+Princess Amberline is a young woman in her early twenties.  Ravishing in
+her amber colored nightgown, she blushes as you walk in on her
+unannounced. 
+~
+unique~
+ABCFT DFHZe 0 0
+75 75 151d25+1515 75d10+85 25d3+42 wrath
+-41 -41 -41 -25
+EHIJKO ABH CD 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium unknown
+#19455
+tiana princess~
+Princess Tiana~
+Princess Tiana is here, startled at your entrance.
+~
+Princess Tiana is a tall slim woman in her middle twenties.  Her long
+brown hair reaches her waist in flowing curls and her steely blue glare
+indicates that you have aroused her ire in walking in unannounced.  
+~
+unique~
+ABCFT HJZ 20 0
+77 77 155d25+1555 77d10+85 25d3+43 wrath
+-42 -42 -42 -26
+ACFGHIKOT AB CD 0
+stand stand female 200
+AHMV ABCDEFGHIJK medium unknown
+#19456
+theopolis prince~
+Prince Theopolis~
+Prince Theopolis is here, dressing himself.
+~
+Prince Theopolis is the King's youngest son.  Destined never to become
+King unless his older brother dies or becomes indisposed, he shoulders his
+automatic failure with ease, choosing instead to enjoy his position as
+second son to lounge about in comfort.  His unruly crop of blonde hair
+offsets his large aquamarine eyes that deceptively provide him with an aura
+of innocence.  
+~
+unique~
+ABCFT HJVZ 0 0
+78 78 157d26+1575 78d10+85 26d3+44 wrath
+-43 -43 -43 -26
+CDEFHIJKO AB CD 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#19457
+relative royal~
+A Royal relative~
+A Royal relative is here.
+~
+This person is one of the many people that claim blood to the throne. 
+~
+unique~
+ABCT JVZ 0 0
+50 50 101d16+506 50d10+85 16d3+30 pierce
+-24 -24 -24 -14
+CFHK AB CD 0
+stand stand either 50
+AHMV ABCDEFGHIJK medium unknown
+#19458
+guard elite high~
+The High Elite guard~
+A guard of the High Elite stands here.
+~
+This guard is one of the finest of the Elite guard.  Clothed in shining
+amber armor, the guard glances about the room and readies a weapon as you
+approach.  With a fierce battle cry, the guard attacks!  
+~
+unique~
+ABCFT BDFJQTUVZ 10 0
+75 75 151d25+1515 75d10+85 25d3+42 wrath
+-41 -41 -41 -25
+CDEFGIKOU AB CD 0
+stand stand either 100
+AHMV ABCDEFGHIJK large unknown
+#19459
+queen amber~
+the Amber Queen~
+The Amber Queen is here.
+~
+The Queen of Amber Palace is nobody to be fooled with.  Regal in her
+amber gown and tiare, she glances imperiously as you enter her chamber and
+looks away dismissively.  Irritated that you have not yet left, she decides
+to take matters into her own hands and attack you herself.  
+~
+unique~
+ABCFT DFHJTUVZ 0 0
+80 80 161d26+1617 80d10+85 26d3+45 wrath
+-44 -44 -44 -28
+EFGHIJO AB CD 0
+stand stand female 2000
+AHMV ABCDEFGHIJK medium unknown
+#19460
+king amber~
+The Amber King~
+The Amber King is here, looking rather confused.
+~
+The King of Amber Palace is a stately man in his late forties.  His large
+crown sits heavily upon his brow, and the price of leadership has taken its
+toll upon his mentality.  
+~
+unique~
+ABCFT BDFHJTUVZ 0 0
+85 85 171d28+1717 85d10+85 28d3+47 wrath
+-48 -48 -48 -30
+CDEFGHIJKO AB CD 0
+stand stand male 30
+AHMV ABCDEFGHIJK giant unknown
+#19461
+prince amber~
+The Amber Prince~
+The Amber Prince is here, combing his hair.
+~
+The eldest Prince of Amber Palace is a slender man in his middle
+twenties.  Garbed luxuriously in all sorts of Royal refinery, he looks to be
+as dashing as any prince you have ever seen.  Long amber hair frames a
+stronge face with jade green eye and a powerful romanesque nose.  
+~
+unique~
+ABCFT BDFHJNQTUVZc 0 0
+100 100 201d33+2021 100d10+85 33d3+55 wrath
+-57 -57 -57 -37
+CDEFGHIJKO AB CD 0
+stand stand male 5000
+AHMV ABCDEFGHIJK giant unknown
+#19462
+protector~
+The Amber Protector~
+The Amber Protector is here.
+~
+The Protector protects the eldest son of the King of Amber Palace.  Huge
+in size, this man is incredible in raw strength, power, and skill.  Perhaps
+you should run.  
+~
+unique~
+ABCFT BDFHQTUVZ 0 0
+95 95 191d31+1919 95d10+85 31d3+52 wrath
+-54 -54 -54 -35
+CDEFIJKO AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant unknown
+#19463
+amber dragon~
+The Amber Dragon~
+The Amber Dragon is here, protecting something.
+~
+This huge dragon is covered from snout to tail in massive scales of
+shining amber.  It is easily 50 feet long and 20 feet tall, with long
+gleaming teeth and a serrated tail.  Its eyes shine with a maniacal gleam as
+it leaps upon you, defending its charge.  
+~
+unique~
+ABFT BDHJNQTUVZc 100 0
+95 95 191d31+1919 95d10+85 31d3+52 wrath
+-54 -54 -54 -35
+BEFHIJKMO AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK huge unknown
+#19464
+advisor military~
+A military advisor~
+A military advisor to the king is here.
+~
+This man acts as the military advisor to the Amber King.  He waits now
+for the King to make his presence here in the War Room, hoping to advise the
+King in military manuevers.  
+~
+unique~
+ABFT JVZ -50 0
+31 31 63d10+314 31d10+85 10d3+20 wrath
+-11 -11 -11 -4
+EFKO AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#19465
+knight amber~
+The Amber Knight~
+The Amber Knight is here.
+~
+This is the Amber Knight.  Eight feet tall, built like a tree, he glares
+menacingly at you and snarls, "WHO DARES TRESPASS ON MY WATCH?"  
+~
+unique~
+ABFT DFHNUVZc 1000 0
+77 77 155d25+1555 77d10+85 25d3+43 wrath
+-42 -42 -42 -26
+DEFHKO ABE CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK huge unknown
+#19466
+amber sentry~
+The amber sentry~
+An amber sentry is posted here.
+~
+This sentry is well versed in the arts of combat.  Going through a
+rigorous training program, only members of the High Elite guard may ever
+attempt to become an Amber Sentry.  It would NOT be a wise idea to attack
+this man.  
+~
+unique~
+ABFT BDFHJNQVZc 100 0
+83 83 167d27+1677 83d10+85 27d3+46 wrath
+-46 -46 -46 -29
+DEFHKOU AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#19400
+~
+~
+0 4 0
+S
+#19401
+Entrance to Amber Palace~
+You are at the entrance of the Amber Palace.  Before you lies the
+majestic spires and towers of the palace.  The reddish brown material it is
+made of glows translucently in the bright sunlight.  The whole of the palace
+rises far above your head, impressing awe into your thoughts and very mind. 
+The main gate is north, the path away is south.  
+~
+0 12 0
+D0
+~
+~
+0 0 19402
+D2
+~
+~
+0 0 6144
+S
+#19402
+The Amber Gate~
+You are standing in front of a large gate made from pure crystalline
+amber.  The large bars of the gate and the massive lock seems to discourage
+anyone from attempting to enter.  Summoning courage from deep inside your
+soul, you push onwards.  
+~
+0 0 0
+D0
+~
+gate~
+0 0 19403
+D2
+~
+~
+0 0 19401
+S
+#19403
+The Path to Amber Palace~
+You are on a paved road that leads from the main gate to Amber Palace,
+which looms before you to the north.  Elegant white marble statues line this
+path to the east and west sides, and tall slender maple trees are placed
+every few steps.  
+~
+0 0 0
+D0
+~
+~
+0 0 19404
+D2
+~
+gate~
+0 0 19402
+S
+#19404
+The Path to Amber Palace~
+You are on a paved road that leads from the main gate to Amber Palace,
+which looms before you to the north.  Elegant white marble statues line this
+path to the east and west sides, and tall slender maple trees are placed
+every few steps.  
+~
+0 0 0
+D0
+~
+~
+0 0 19405
+D2
+~
+~
+0 0 19403
+S
+#19405
+Amber Palace~
+You have reached Amber Palace.  Inside, who knows what mysteries await
+you?  The huge slabs of raw crystalline amber that make up the walls of this
+palace gleam with an unearthly light as you approach.  Tall silver doors,
+encrusted with amethysts, show the way into the palace north.  The road out
+of the palace is east.  
+~
+0 0 0
+D0
+~
+~
+0 0 19406
+D2
+~
+~
+0 0 19404
+S
+#19406
+Inside the Amber Palace~
+You are inside Amber Palace.  The whole castle is filled with a brownish
+yellow light from the sunlight refracting through the massive slabs of
+amber.  The gleaming ceiling, placed high above you, shines almost
+blindingly with light, sending faceted rays of color streaming about you. 
+The silver doors leading out of the palace are south, the way further inside
+the palace lies north.  
+~
+0 8 0
+D0
+~
+~
+0 0 19407
+D2
+~
+~
+0 0 19405
+S
+#19407
+The Grand Foyer~
+You have entered the foyer of Amber Palace.  This large room serves as a
+waiting room where the people requesting the see the royalty must wait for
+an audience.  A lush blue carpet covers the floor and comfortable
+silk-cushioned benches are placed against the walls.  A large cherrywood
+table in placed in the center of the room, loaded with drinks and foods,
+delicacies from around the world.  A small bronze brazier is placed in the
+middle of the table, burning an exotic fragrant incense you have never
+smelled before.  
+~
+0 8 0
+D0
+~
+~
+0 0 19408
+D1
+~
+~
+0 0 19411
+D2
+~
+~
+0 0 19406
+D3
+~
+~
+0 0 19414
+D5
+~
+~
+2 0 19300
+S
+#19408
+The Inside Foyer~
+You are in the northern side of the grand foyer.  The first thing you
+notice are the large steel and iron doors set in the north wall, barring
+entrance to the Royal Court.  Around you are rare tapestries and paintings,
+showcased in frames of gold.  The very aura of resplendence that fills this
+room overwhelms you.  You cannot wait to see the inside of the Royal Court,
+if you can gain audience with the king.  
+~
+0 8 0
+D0
+~
+door~
+2 0 19409
+D2
+~
+~
+0 0 19407
+D5
+~
+secret~
+2 0 19251
+S
+#19409
+Inside the Royal Court~
+You have entered the southern Royal Court.  Swarms of courtiers crowd the
+room, crying out for an audience.  The smell of perfume mixed with body odor
+is overpowering and you fight just to stay conscious.  The thick red
+carpeting here is trampled and thrashed from the weight of the thousands of
+people that have walked and stood here through the years.  Fighting your way
+through the angry throng, you see the doors leading out of here to the south
+and the throne room to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 19410
+D2
+~
+door~
+2 0 19408
+D4
+~
+ceiling~
+2 0 19201
+D5
+~
+carpet~
+2 0 19252
+S
+#19410
+The Throne~
+You have managed to reach the Throne and gain an audience.  The two
+thrones that face you are massive platinum and gold chairs, encrusted with
+rare and valuable jewels.  A shining sceptre is placed inbetween the two
+thrones, glittering with a cornucopia of light from the jewels set into the
+pommel.  Heavy banners and tapestries line the translucent walls and
+overhead a large stained glass skylight has been set into the amber ceiling,
+depicting the Royal Crest of the Amber Palace Royalty.  Large gold braziers
+filled with rare incense are burning in the corners of the room and a white
+marble fountain is spouting water in the center.  A trio of white snow
+leopards are chained and leashed to the fountains, snarling hungrily at you.
+~
+0 8 0
+E
+throne~
+This throne is large.  It could easily seat two giants side by side and
+have room for a human or two.  Shining with jewels encrusted in it, you
+ponder whether or not you would be able to steal this throne, but abandon
+the idea quickly as the Royal guards glare at you menacingly.  
+~
+E
+fountain~
+This large fountain is splashing water about, but you notice from the
+rings of water that surround the fountain that the fountain is not always
+placed here.  It is almost as if the fountain could move...  
+~
+D0
+~
+throne~
+2 0 19473
+D2
+~
+~
+0 0 19409
+D5
+~
+fountain~
+2 0 19451
+S
+#19411
+The Amber Hallway~
+You are walking in an east-west hallway with amber walls.  There are a
+few paintings hanging upon the walls, and otherwise the corridor is bare and
+simple.  You can hear noises from the foyer, echoing into the corridors
+here.  
+~
+0 8 0
+D1
+~
+~
+0 0 19412
+D3
+~
+~
+0 0 19407
+S
+#19412
+The Amber Hallway~
+You are walking in an east-west hallway with amber walls.  There are a
+few paintings hanging upon the walls, and otherwise the corridor is bare and
+simple.  You can hear noises from the foyer, echoing into the corridors
+here.  
+~
+0 8 0
+D1
+~
+~
+0 0 19413
+D3
+~
+~
+0 0 19411
+S
+#19413
+The Amber Hallway~
+You are walking in an east-west hallway with amber walls.  There are a
+few paintings hanging upon the walls, and otherwise the corridor is bare and
+simple.  You can hear noises from the foyer, echoing into the corridors
+here.  There are a set of stairs going up from here.  
+~
+0 8 0
+D3
+~
+~
+0 0 19412
+D4
+~
+~
+0 0 19423
+S
+#19414
+The Amber Hallway~
+You are walking in an east-west hallway with amber walls.  There are a
+few paintings hanging upon the walls, and otherwise the corridor is bare and
+simple.  You can hear noises from the foyer, echoing into the corridors
+here.  
+~
+0 8 0
+D1
+~
+~
+0 0 19407
+D3
+~
+~
+0 0 19415
+S
+#19415
+The Amber Hallway~
+You are walking in an east-west hallway with amber walls.  There are a
+few paintings hanging upon the walls, and otherwise the corridor is bare and
+simple.  You can hear noises from the foyer, echoing into the corridors
+here.  
+~
+0 8 0
+D1
+~
+~
+0 0 19414
+D3
+~
+~
+0 0 19416
+S
+#19416
+The Amber Hallway~
+You are walking in an east-west hallway with amber walls.  There are a
+few paintings hanging upon the walls, and otherwise the corridor is bare and
+simple.  You can hear noises from the foyer, echoing into the corridors
+here.  There are a set of stairs going up from here.  There is a door west. 
+~
+0 8 0
+D1
+~
+~
+0 0 19415
+D3
+~
+door~
+2 0 19226
+D4
+~
+~
+0 0 19417
+S
+#19417
+The Amber Hallway~
+You are walking in an east-west hallway with amber walls.  There are a
+few paintings hanging upon the walls, and otherwise the corridor is bare and
+simple.  You can hear noises from the foyer, echoing into the corridors
+here.  There are a set of stairs going down from here.  
+~
+0 8 0
+D1
+~
+~
+0 0 19418
+D5
+~
+~
+0 0 19416
+S
+#19418
+The Amber Hallway~
+You are walking in an east-west hallway with amber walls.  There are a
+few paintings hanging upon the walls, and otherwise the corridor is bare and
+simple.  You can hear noises from the foyer, echoing into the corridors
+here.  
+~
+0 8 0
+D1
+~
+~
+0 0 19419
+D3
+~
+~
+0 0 19417
+S
+#19419
+The Amber Hallway~
+You are walking in an east-west hallway with amber walls.  There are a
+few paintings hanging upon the walls, and otherwise the corridor is bare and
+simple.  You can hear noises from the foyer, echoing into the corridors
+here.  
+~
+0 8 0
+D1
+~
+~
+0 0 19420
+D3
+~
+~
+0 0 19418
+S
+#19420
+The Amber Intersection~
+You have reached a T instersection in the hallway.  You can hear the
+sounds of pots and pans clanging to the north and wonder if that is where
+the kitchen is.  The hallway continues west and east from here.  There is a
+door south and a set of stairs leading up from here.  
+~
+0 8 0
+D0
+~
+~
+0 0 19424
+D1
+~
+~
+0 0 19421
+D2
+~
+door~
+0 0 19426
+D3
+~
+~
+0 0 19419
+D4
+~
+~
+0 0 19427
+S
+#19421
+The Amber Hallway~
+You are walking in an east-west hallway with amber walls.  There are a
+few paintings hanging upon the walls, and otherwise the corridor is bare and
+simple.  You can hear noises from the foyer, echoing into the corridors
+here.  
+~
+0 8 0
+D1
+~
+~
+0 0 19422
+D3
+~
+~
+0 0 19420
+S
+#19422
+The Amber Hallway~
+You are walking in an east-west hallway with amber walls.  There are a
+few paintings hanging upon the walls, and otherwise the corridor is bare and
+simple.  You can hear noises from the foyer, echoing into the corridors
+here.  
+~
+0 8 0
+D1
+~
+~
+0 0 19423
+D3
+~
+~
+0 0 19421
+S
+#19423
+The Amber Hallway~
+You are walking in an east-west hallway with amber walls.  There are a
+few paintings hanging upon the walls, and otherwise the corridor is bare and
+simple.  You can hear noises from the foyer, echoing into the corridors
+here.  There are a set of stairs going down from here.  
+~
+0 8 0
+D3
+~
+~
+0 0 19422
+D5
+~
+~
+0 0 19413
+S
+#19424
+The Grand Feasting Hall~
+You have reached the feasting hall of Amber Palace.  This room is
+immense, with giant silver candelabrums lighting the room with a vast array
+of tall white candles, the light bouncing off the amber walls to showcase
+the room in a dazzling light.  Various marble statues sit in the corners of
+the rooms and a grandiose wooden table is in the middle of the room,
+stretching out to seat at least fifty people.  The shine of the silverware
+and glasses set upon the table is almost blinding in the already bright
+glare of the room.  You hear the clattering of cooking utensils to the
+north.  
+~
+0 8 0
+D0
+~
+door~
+0 0 19425
+D2
+~
+~
+0 0 19420
+S
+#19425
+The Kitchen~
+You have entered the kitchen of Amber Palace.  This large room is
+absolutely full of varying pots and pans of all sorts.  The sudden flash of
+fire startles you for a second before you realize it is only a cooking fire,
+flaring from the grease of a spit pig.  The room is alive with smell and the
+bustling of busy chefs, preparing a meal for the Royal Family.  There is a
+door north and the way to the feasting hall is south.  
+~
+0 8 0
+D0
+~
+door~
+0 0 19449
+D2
+~
+door~
+0 0 19424
+S
+#19426
+The Grand Amber Ballroom~
+You are in the Grand Ballroom.  The floor here is a polished amber
+surface and large clear windows are placed along the south wall.  Brilliant
+flaming lamps light the room and a small area near the east wall is filled
+with chairs for the musicians.  A large painting of the Royal Family is set
+in the west wall and the room is filled with the very atmosphere of
+elegance.  
+~
+0 8 0
+D0
+~
+door~
+0 0 19420
+S
+#19427
+The Guest Corridor~
+You are in a corridor leading the the guest rooms.  Doors line the
+hallway to the north and south, and various lanterns and braziers of flame
+have been left here so the guests of the Royal Family may find their way in
+safety.  A few elegant tapestries lines the walls inbetween the doors and a
+current of cool air blows slowly by you, indication of a ventilation conduit
+of some sort.  
+~
+0 8 0
+D0
+~
+door~
+2 0 19438
+D1
+~
+~
+0 0 19428
+D2
+~
+door~
+2 0 19445
+D3
+~
+~
+0 0 19430
+D5
+~
+~
+0 0 19420
+S
+#19428
+The Guest Corridor~
+You are in a corridor leading the the guest rooms.  Doors line the
+hallway to the north and south, and various lanterns and braziers of flame
+have been left here so the guests of the Royal Family may find their way in
+safety.  A few elegant tapestries lines the walls inbetween the doors and a
+current of cool air blows slowly by you, indication of a ventilation conduit
+of some sort.  
+~
+0 8 0
+D0
+~
+door~
+2 0 19437
+D1
+~
+~
+0 0 19429
+D2
+~
+door~
+2 0 19446
+D3
+~
+~
+0 0 19427
+S
+#19429
+The Guest Corridor~
+You are in a corridor leading the the guest rooms.  Doors line the
+hallway to the north and south, and various lanterns and braziers of flame
+have been left here so the guests of the Royal Family may find their way in
+safety.  A few elegant tapestries lines the walls inbetween the doors and a
+current of cool air blows slowly by you, indication of a ventilation conduit
+of some sort.  
+~
+0 8 0
+D0
+~
+door~
+2 0 19436
+D1
+~
+~
+0 0 19434
+D2
+~
+door~
+2 0 19447
+D3
+~
+~
+0 0 19428
+D4
+~
+secret~
+2 0 19474
+S
+#19430
+The Guest Corridor~
+You are in a corridor leading the the guest rooms.  Doors line the
+hallway to the north and south, and various lanterns and braziers of flame
+have been left here so the guests of the Royal Family may find their way in
+safety.  A few elegant tapestries lines the walls inbetween the doors and a
+current of cool air blows slowly by you, indication of a ventilation conduit
+of some sort.  
+~
+0 8 0
+D0
+~
+door~
+2 0 19439
+D1
+~
+~
+0 0 19427
+D2
+~
+door~
+2 0 19444
+D3
+~
+~
+0 0 19431
+S
+#19431
+The Guest Corridor~
+You are in a corridor leading the the guest rooms.  Doors line the
+hallway to the north and south, and various lanterns and braziers of flame
+have been left here so the guests of the Royal Family may find their way in
+safety.  A few elegant tapestries lines the walls inbetween the doors and a
+current of cool air blows slowly by you, indication of a ventilation conduit
+of some sort.  
+~
+0 8 0
+D0
+~
+door~
+2 0 19440
+D1
+~
+~
+0 0 19430
+D2
+~
+door~
+2 0 19443
+D3
+~
+~
+0 0 19433
+D4
+~
+secret~
+2 0 19478
+S
+#19433
+The Guest Corridor~
+You are in a corridor leading the the guest rooms.  Doors line the
+hallway to the north and south, and various lanterns and braziers of flame
+have been left here so the guests of the Royal Family may find their way in
+safety.  A few elegant tapestries lines the walls inbetween the doors and a
+current of cool air blows slowly by you, indication of a ventilation conduit
+of some sort.  
+~
+0 8 0
+D0
+~
+door~
+2 0 19441
+D1
+~
+~
+0 0 19431
+D2
+~
+door~
+2 0 19442
+S
+#19434
+The Guest Corridor~
+You are in a corridor leading the the guest rooms.  Doors line the
+hallway to the north and south, and various lanterns and braziers of flame
+have been left here so the guests of the Royal Family may find their way in
+safety.  A few elegant tapestries lines the walls inbetween the doors and a
+current of cool air blows slowly by you, indication of a ventilation conduit
+of some sort.  
+~
+0 8 0
+D0
+~
+door~
+2 0 19435
+D2
+~
+door~
+2 0 19448
+D3
+~
+~
+0 0 19429
+S
+#19435
+A Guest Chamber~
+You are in a guest's chamber in Amber Palace.  There is a large bed here,
+with a small desk, a closet, and a few shelves.  The bed is covered in
+silken sheets and down pillows, and seems to take up most of this large
+room.  You notice a few sparse belongings here, but nothing of any real
+importance.  
+~
+0 8 0
+D2
+~
+door~
+2 0 19434
+S
+#19436
+A Guest Chamber~
+You are in a guest's chamber in Amber Palace.  There is a large bed here,
+with a small desk, a closet, and a few shelves.  The bed is covered in
+silken sheets and down pillows, and seems to take up most of this large
+room.  You notice a few sparse belongings here, but nothing of any real
+importance.  
+~
+0 8 0
+D2
+~
+door~
+2 0 19429
+S
+#19437
+A Guest Chamber~
+You are in a guest's chamber in Amber Palace.  There is a large bed here,
+with a small desk, a closet, and a few shelves.  The bed is covered in
+silken sheets and down pillows, and seems to take up most of this large
+room.  You notice a few sparse belongings here, but nothing of any real
+importance.  
+~
+0 8 0
+D2
+~
+door~
+2 0 19428
+S
+#19438
+A Guest Chamber~
+You are in a guest's chamber in Amber Palace.  There is a large bed here,
+with a small desk, a closet, and a few shelves.  The bed is covered in
+silken sheets and down pillows, and seems to take up most of this large
+room.  You notice a few sparse belongings here, but nothing of any real
+importance.  
+~
+0 8 0
+D2
+~
+door~
+2 0 19427
+S
+#19439
+A Guest Chamber~
+You are in a guest's chamber in Amber Palace.  There is a large bed here,
+with a small desk, a closet, and a few shelves.  The bed is covered in
+silken sheets and down pillows, and seems to take up most of this large
+room.  You notice a few sparse belongings here, but nothing of any real
+importance.  
+~
+0 8 0
+D2
+~
+door~
+2 0 19430
+S
+#19440
+A Guest Chamber~
+You are in a guest's chamber in Amber Palace.  There is a large bed here,
+with a small desk, a closet, and a few shelves.  The bed is covered in
+silken sheets and down pillows, and seems to take up most of this large
+room.  You notice a few sparse belongings here, but nothing of any real
+importance.  
+~
+0 8 0
+D2
+~
+door~
+2 0 19431
+S
+#19441
+A Guest Chamber~
+You are in a guest's chamber in Amber Palace.  There is a large bed here,
+with a small desk, a closet, and a few shelves.  The bed is covered in
+silken sheets and down pillows, and seems to take up most of this large
+room.  You notice a few sparse belongings here, but nothing of any real
+importance.  
+~
+0 8 0
+D2
+~
+door~
+2 0 19433
+S
+#19442
+A Guest Chamber~
+You are in a guest's chamber in Amber Palace.  There is a large bed here,
+with a small desk, a closet, and a few shelves.  The bed is covered in
+silken sheets and down pillows, and seems to take up most of this large
+room.  You notice a few sparse belongings here, but nothing of any real
+importance.  
+~
+0 8 0
+D0
+~
+door~
+2 0 19433
+S
+#19443
+A Guest Chamber~
+You are in a guest's chamber in Amber Palace.  There is a large bed here,
+with a small desk, a closet, and a few shelves.  The bed is covered in
+silken sheets and down pillows, and seems to take up most of this large
+room.  You notice a few sparse belongings here, but nothing of any real
+importance.  
+~
+0 8 0
+D0
+~
+door~
+2 0 19431
+S
+#19444
+A Guest Chamber~
+You are in a guest's chamber in Amber Palace.  There is a large bed here,
+with a small desk, a closet, and a few shelves.  The bed is covered in
+silken sheets and down pillows, and seems to take up most of this large
+room.  You notice a few sparse belongings here, but nothing of any real
+importance.  
+~
+0 8 0
+D0
+~
+door~
+2 0 19430
+S
+#19445
+A Guest Chamber~
+You are in a guest's chamber in Amber Palace.  There is a large bed here,
+with a small desk, a closet, and a few shelves.  The bed is covered in
+silken sheets and down pillows, and seems to take up most of this large
+room.  You notice a few sparse belongings here, but nothing of any real
+importance.  
+~
+0 8 0
+D0
+~
+door~
+2 0 19427
+S
+#19446
+A Guest Chamber~
+You are in a guest's chamber in Amber Palace.  There is a large bed here,
+with a small desk, a closet, and a few shelves.  The bed is covered in
+silken sheets and down pillows, and seems to take up most of this large
+room.  You notice a few sparse belongings here, but nothing of any real
+importance.  
+~
+0 8 0
+D0
+~
+door~
+2 0 19428
+S
+#19447
+A Guest Chamber~
+You are in a guest's chamber in Amber Palace.  There is a large bed here,
+with a small desk, a closet, and a few shelves.  The bed is covered in
+silken sheets and down pillows, and seems to take up most of this large
+room.  You notice a few sparse belongings here, but nothing of any real
+importance.  
+~
+0 8 0
+D0
+~
+door~
+2 0 19429
+S
+#19448
+A Guest Chamber~
+You are in a guest's chamber in Amber Palace.  There is a large bed here,
+with a small desk, a closet, and a few shelves.  The bed is covered in
+silken sheets and down pillows, and seems to take up most of this large
+room.  You notice a few sparse belongings here, but nothing of any real
+importance.  
+~
+0 8 0
+D0
+~
+door~
+2 0 19434
+S
+#19449
+The Servants' Dining Hall~
+You are in what appears to be the dining hall of the servants.  Nowhere
+as stunning as the feasting hall, this room is not exactly shabby.  The
+decor here is plain and simple, everything seeming to have a purpose of
+usefullness rather than that of ornamentation.  The large wooden table seats
+about forty people, but is made of a sturdy unfinished wood.  The lighting
+of the room comes from a few open windows and a singe large copper brazier
+in the middle of the table.  Simple stone plates and wooden mugs are set up
+on the table, a bucket of water and some rags in the corner, ready to clean
+up any messes made.  
+~
+0 8 0
+D0
+~
+~
+0 0 19450
+D2
+~
+door~
+2 0 19425
+S
+#19450
+The Servants' Quarter~
+You are in the servants' quarter.  This area is filled with plain and
+simple rooms with very little furnishings at all.  Random belongings are
+scattered about the rooms, and the odd pet or two shuffles about dejectedly.
+~
+0 8 0
+D2
+~
+~
+0 0 19449
+S
+#19451
+Entrance to the Dungeons~
+You are in a dark room, the entrance to the dungeons of Amber Palace.  A
+generally abject and dismal mood fills this chamber, matching the grayish
+lightning perfectly.  A few squeaks of vermin remind you that you are not
+alone here.  The cells are to the south, the way back up is right above you.
+~
+0 8200 0
+D2
+~
+~
+0 0 19452
+D4
+~
+fountain~
+2 0 19410
+S
+#19452
+The Dungeon Corridor~
+You are in the dungeons of Amber Palace.  This place is dank and the
+smell of fecal matter and rot fills your nostrils, threatening to gag you. 
+The cells lines the corridor to the east and west, and the floor here is
+covered with a padded dry hay mat.  As a small furry creature runs across
+your boot, you wonder if this is a good place to be.  
+~
+0 8200 0
+D0
+~
+~
+0 0 19451
+D1
+~
+door~
+1 19401 19471
+D2
+~
+~
+0 0 19453
+D3
+~
+door~
+1 19401 19472
+S
+#19453
+The Dungeon Corridor~
+You are in the dungeons of Amber Palace.  This place is dank and the
+smell of fecal matter and rot fills your nostrils, threatening to gag you. 
+The cells lines the corridor to the east and west, and the floor here is
+covered with a padded dry hay mat.  As a small furry creature runs across
+your boot, you wonder if this is a good place to be.  
+~
+0 8200 0
+D0
+~
+~
+0 0 19452
+D1
+~
+door~
+1 19401 19469
+D2
+~
+~
+0 0 19454
+D3
+~
+door~
+1 19401 19470
+S
+#19454
+The Dungeon Corridor~
+You are in the dungeons of Amber Palace.  This place is dank and the
+smell of fecal matter and rot fills your nostrils, threatening to gag you. 
+The cells lines the corridor to the east and west, and the floor here is
+covered with a padded dry hay mat.  As a small furry creature runs across
+your boot, you wonder if this is a good place to be.  
+~
+0 8200 0
+D0
+~
+~
+0 0 19453
+D1
+~
+door~
+1 19401 19468
+D2
+~
+~
+0 0 19455
+D3
+~
+door~
+1 19401 19467
+S
+#19455
+The Dungeon Corridor~
+You are in the dungeons of Amber Palace.  This place is dank and the
+smell of fecal matter and rot fills your nostrils, threatening to gag you. 
+The cells lines the corridor to the east and west, and the floor here is
+covered with a padded dry hay mat.  As a small furry creature runs across
+your boot, you wonder if this is a good place to be.  
+~
+0 8200 0
+D0
+~
+~
+0 0 19454
+D1
+~
+door~
+1 19401 19466
+D2
+~
+~
+0 0 19456
+D3
+~
+door~
+1 19401 19465
+S
+#19456
+The Dungeon Corridor~
+You are in the dungeons of Amber Palace.  This place is dank and the
+smell of fecal matter and rot fills your nostrils, threatening to gag you. 
+The cells lines the corridor to the east and west, and the floor here is
+covered with a padded dry hay mat.  As a small furry creature runs across
+your boot, you wonder if this is a good place to be.  
+~
+0 8200 0
+D0
+~
+~
+0 0 19455
+D1
+~
+door~
+1 19401 19463
+D2
+~
+~
+0 0 19457
+D3
+~
+door~
+1 19401 19464
+S
+#19457
+The Dungeon Corridor~
+You are in the dungeons of Amber Palace.  This place is dank and the
+smell of fecal matter and rot fills your nostrils, threatening to gag you. 
+The cells lines the corridor to the east and west, and the floor here is
+covered with a padded dry hay mat.  As a small furry creature runs across
+your boot, you wonder if this is a good place to be.  
+~
+0 8200 0
+D0
+~
+~
+0 0 19456
+D1
+~
+door~
+1 19401 19462
+D2
+~
+~
+0 0 19458
+D3
+~
+door~
+1 19401 19461
+S
+#19458
+The Dungeon Corridor~
+You are in the dungeons of Amber Palace.  This place is dank and the
+smell of fecal matter and rot fills your nostrils, threatening to gag you. 
+The cells lines the corridor to the east and west, and the floor here is
+covered with a padded dry hay mat.  As a small furry creature runs across
+your boot, you wonder if this is a good place to be.  
+~
+0 8200 0
+D0
+~
+~
+0 0 19457
+D1
+~
+door~
+1 19401 19459
+D3
+~
+door~
+1 19401 19460
+S
+#19459
+The Dungeon Cell~
+You are in a dark cell in the dungeon.  The floor is covered with hay and
+the only furnishings here seem to be a bowl full of sourish water and a
+small uncomfortable cot.  The walls here are not made from amber, but a
+slimy stone substance that is impossible to scratch or break.  There is no
+lighting here, and as something grabs for your legs, you wonder if perhaps
+you should leave this dismal cell.  
+~
+0 8200 0
+D3
+~
+door~
+2 0 19458
+S
+#19460
+The Dungeon Cell~
+You are in a dark cell in the dungeon.  The floor is covered with hay and
+the only furnishings here seem to be a bowl full of sourish water and a
+small uncomfortable cot.  The walls here are not made from amber, but a
+slimy stone substance that is impossible to scratch or break.  There is no
+lighting here, and as something grabs for your legs, you wonder if perhaps
+you should leave this dismal cell.  
+~
+0 8200 0
+D1
+~
+door~
+2 0 19458
+S
+#19461
+The Dungeon Cell~
+You are in a dark cell in the dungeon.  The floor is covered with hay and
+the only furnishings here seem to be a bowl full of sourish water and a
+small uncomfortable cot.  The walls here are not made from amber, but a
+slimy stone substance that is impossible to scratch or break.  There is no
+lighting here, and as something grabs for your legs, you wonder if perhaps
+you should leave this dismal cell.  
+~
+0 8200 0
+D1
+~
+door~
+2 0 19457
+S
+#19462
+The Dungeon Cell~
+You are in a dark cell in the dungeon.  The floor is covered with hay and
+the only furnishings here seem to be a bowl full of sourish water and a
+small uncomfortable cot.  The walls here are not made from amber, but a
+slimy stone substance that is impossible to scratch or break.  There is no
+lighting here, and as something grabs for your legs, you wonder if perhaps
+you should leave this dismal cell.  
+~
+0 8200 0
+D3
+~
+door~
+2 0 19457
+S
+#19463
+The Dungeon Cell~
+You are in a dark cell in the dungeon.  The floor is covered with hay and
+the only furnishings here seem to be a bowl full of sourish water and a
+small uncomfortable cot.  The walls here are not made from amber, but a
+slimy stone substance that is impossible to scratch or break.  There is no
+lighting here, and as something grabs for your legs, you wonder if perhaps
+you should leave this dismal cell.  
+~
+0 8200 0
+D3
+~
+door~
+2 0 19456
+S
+#19464
+The Dungeon Cell~
+You are in a dark cell in the dungeon.  The floor is covered with hay and
+the only furnishings here seem to be a bowl full of sourish water and a
+small uncomfortable cot.  The walls here are not made from amber, but a
+slimy stone substance that is impossible to scratch or break.  There is no
+lighting here, and as something grabs for your legs, you wonder if perhaps
+you should leave this dismal cell.  
+~
+0 8200 0
+D1
+~
+door~
+2 0 19456
+S
+#19465
+The Dungeon Cell~
+You are in a dark cell in the dungeon.  The floor is covered with hay and
+the only furnishings here seem to be a bowl full of sourish water and a
+small uncomfortable cot.  The walls here are not made from amber, but a
+slimy stone substance that is impossible to scratch or break.  There is no
+lighting here, and as something grabs for your legs, you wonder if perhaps
+you should leave this dismal cell.  
+~
+0 8200 0
+D1
+~
+door~
+2 0 19455
+S
+#19466
+The Dungeon Cell~
+You are in a dark cell in the dungeon.  The floor is covered with hay and
+the only furnishings here seem to be a bowl full of sourish water and a
+small uncomfortable cot.  The walls here are not made from amber, but a
+slimy stone substance that is impossible to scratch or break.  There is no
+lighting here, and as something grabs for your legs, you wonder if perhaps
+you should leave this dismal cell.  
+~
+0 8200 0
+D3
+~
+door~
+2 0 19455
+S
+#19467
+The Dungeon Cell~
+You are in a dark cell in the dungeon.  The floor is covered with hay and
+the only furnishings here seem to be a bowl full of sourish water and a
+small uncomfortable cot.  The walls here are not made from amber, but a
+slimy stone substance that is impossible to scratch or break.  There is no
+lighting here, and as something grabs for your legs, you wonder if perhaps
+you should leave this dismal cell.  
+~
+0 8200 0
+D1
+~
+door~
+2 0 19454
+S
+#19468
+The Dungeon Cell~
+You are in a dark cell in the dungeon.  The floor is covered with hay and
+the only furnishings here seem to be a bowl full of sourish water and a
+small uncomfortable cot.  The walls here are not made from amber, but a
+slimy stone substance that is impossible to scratch or break.  There is no
+lighting here, and as something grabs for your legs, you wonder if perhaps
+you should leave this dismal cell.  
+~
+0 8200 0
+D3
+~
+door~
+2 0 19454
+S
+#19469
+The Dungeon Cell~
+You are in a dark cell in the dungeon.  The floor is covered with hay and
+the only furnishings here seem to be a bowl full of sourish water and a
+small uncomfortable cot.  The walls here are not made from amber, but a
+slimy stone substance that is impossible to scratch or break.  There is no
+lighting here, and as something grabs for your legs, you wonder if perhaps
+you should leave this dismal cell.  
+~
+0 8200 0
+D3
+~
+door~
+2 0 19453
+S
+#19470
+The Dungeon Cell~
+You are in a dark cell in the dungeon.  The floor is covered with hay and
+the only furnishings here seem to be a bowl full of sourish water and a
+small uncomfortable cot.  The walls here are not made from amber, but a
+slimy stone substance that is impossible to scratch or break.  There is no
+lighting here, and as something grabs for your legs, you wonder if perhaps
+you should leave this dismal cell.  
+~
+0 8200 0
+D1
+~
+door~
+2 0 19453
+S
+#19471
+The Dungeon Cell~
+You are in a dark cell in the dungeon.  The floor is covered with hay and
+the only furnishings here seem to be a bowl full of sourish water and a
+small uncomfortable cot.  The walls here are not made from amber, but a
+slimy stone substance that is impossible to scratch or break.  There is no
+lighting here, and as something grabs for your legs, you wonder if perhaps
+you should leave this dismal cell.  
+~
+0 8200 0
+D3
+~
+door~
+2 0 19452
+S
+#19472
+The Dungeon Cell~
+You are in a dark cell in the dungeon.  The floor is covered with hay and
+the only furnishings here seem to be a bowl full of sourish water and a
+small uncomfortable cot.  The walls here are not made from amber, but a
+slimy stone substance that is impossible to scratch or break.  There is no
+lighting here, and as something grabs for your legs, you wonder if perhaps
+you should leave this dismal cell.  
+~
+0 8200 0
+D1
+~
+door~
+2 0 19452
+S
+#19473
+The Secret Armoury~
+You have reached the secret armoury.  It is dark in here, and the only
+light seems to come from a single torch inset into the north wall.  This
+room is filled with large swords and various pieces of armor.  It would not
+be a good idea to be caught in here.  
+~
+0 8200 0
+D2
+~
+throne~
+2 0 19410
+S
+#19474
+The Secret Passageway~
+You are in a secret passageway high in Amber Palace.  It is very dark
+here, and you are not sure quite where you are.  A few flickering torches
+give out just enough light so that you may barely keep from falling upon you
+own feet.  You stumble along the corridor, hoping nobody sees you here.  
+~
+0 9 0
+D1
+~
+~
+0 0 19488
+D3
+~
+~
+0 0 19475
+D5
+~
+secret~
+2 0 19429
+S
+#19475
+The Secret Passageway~
+You are in a secret passageway high in Amber Palace.  It is very dark
+here, and you are not sure quite where you are.  A few flickering torches
+give out just enough light so that you may barely keep from falling upon you
+own feet.  You stumble along the corridor, hoping nobody sees you here.  
+~
+0 9 0
+D1
+~
+~
+0 0 19474
+D3
+~
+~
+0 0 19476
+S
+#19476
+The Secret Passageway~
+You are in a secret passageway high in Amber Palace.  It is very dark
+here, and you are not sure quite where you are.  A few flickering torches
+give out just enough light so that you may barely keep from falling upon you
+own feet.  You stumble along the corridor, hoping nobody sees you here.  
+~
+0 9 0
+D0
+~
+secret~
+2 0 19479
+D1
+~
+~
+0 0 19475
+D2
+~
+~
+0 0 19488
+D3
+~
+~
+0 0 19477
+S
+#19477
+The Secret Passageway~
+You are in a secret passageway high in Amber Palace.  It is very dark
+here, and you are not sure quite where you are.  A few flickering torches
+give out just enough light so that you may barely keep from falling upon you
+own feet.  You stumble along the corridor, hoping nobody sees you here.  
+~
+0 9 0
+D1
+~
+~
+0 0 19476
+D3
+~
+~
+0 0 19478
+S
+#19478
+The Secret Passageway~
+You are in a secret passageway high in Amber Palace.  It is very dark
+here, and you are not sure quite where you are.  A few flickering torches
+give out just enough light so that you may barely keep from falling upon you
+own feet.  You stumble along the corridor, hoping nobody sees you here.  
+~
+0 9 0
+D1
+~
+~
+0 0 19477
+D3
+~
+~
+0 0 19488
+D5
+~
+secret~
+2 0 19431
+S
+#19479
+The Secret Passageway~
+You are in a secret passageway high in Amber Palace.  It is very dark
+here, and you are not sure quite where you are.  A few flickering torches
+give out just enough light so that you may barely keep from falling upon you
+own feet.  You stumble along the corridor, hoping nobody sees you here.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19480
+D2
+~
+secret~
+0 0 19476
+S
+#19480
+The Secret Passageway~
+You are in a secret passageway high in Amber Palace.  It is very dark
+here, and you are not sure quite where you are.  A few flickering torches
+give out just enough light so that you may barely keep from falling upon you
+own feet.  You stumble along the corridor, hoping nobody sees you here.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19481
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19479
+D3
+~
+~
+0 0 19488
+S
+#19481
+The Secret Passageway~
+You are in a secret passageway high in Amber Palace.  It is very dark
+here, and you are not sure quite where you are.  A few flickering torches
+give out just enough light so that you may barely keep from falling upon you
+own feet.  You stumble along the corridor, hoping nobody sees you here.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19482
+D1
+~
+door~
+2 0 19499
+D2
+~
+~
+0 0 19480
+D3
+~
+door~
+2 0 19200
+S
+#19482
+The Secret Passageway~
+You are in a secret passageway high in Amber Palace.  It is very dark
+here, and you are not sure quite where you are.  A few flickering torches
+give out just enough light so that you may barely keep from falling upon you
+own feet.  You stumble along the corridor, hoping nobody sees you here.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19483
+D1
+~
+door~
+2 0 19497
+D2
+~
+~
+0 0 19481
+D3
+~
+door~
+2 0 19498
+S
+#19483
+The Secret Passageway~
+You are in a secret passageway high in Amber Palace.  It is very dark
+here, and you are not sure quite where you are.  A few flickering torches
+give out just enough light so that you may barely keep from falling upon you
+own feet.  You stumble along the corridor, hoping nobody sees you here.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19484
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19482
+D3
+~
+door~
+2 0 19496
+S
+#19484
+The Secret Passageway~
+You are in a secret passageway high in Amber Palace.  It is very dark
+here, and you are not sure quite where you are.  A few flickering torches
+give out just enough light so that you may barely keep from falling upon you
+own feet.  You stumble along the corridor, hoping nobody sees you here.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19485
+D1
+~
+door~
+2 0 19493
+D2
+~
+~
+0 0 19483
+D3
+~
+door~
+2 0 19494
+S
+#19485
+The Secret Passageway~
+You are in a secret passageway high in Amber Palace.  It is very dark
+here, and you are not sure quite where you are.  A few flickering torches
+give out just enough light so that you may barely keep from falling upon you
+own feet.  You stumble along the corridor, hoping nobody sees you here.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19486
+D1
+~
+door~
+2 0 19491
+D2
+~
+~
+0 0 19484
+D3
+~
+door~
+2 0 19492
+S
+#19486
+The Secret Passageway~
+You are in a secret passageway high in Amber Palace.  It is very dark
+here, and you are not sure quite where you are.  A few flickering torches
+give out just enough light so that you may barely keep from falling upon you
+own feet.  You stumble along the corridor, hoping nobody sees you here.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19487
+D1
+~
+door~
+2 0 19489
+D2
+~
+~
+0 0 19485
+D3
+~
+door~
+2 0 19490
+S
+#19487
+The Secret Passageway~
+You are in a secret passageway high in Amber Palace.  It is very dark in
+here, and you are not sure quite where you are.  A few flickering torches
+give out just enough light so that you may barely keep from falling upon
+your own feet.  You stumble along the corridor, hoping nobody sees you here.
+~
+0 8201 0
+D0
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19486
+S
+#19488
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D2
+~
+~
+0 -1 19488
+D3
+~
+~
+0 0 19320
+D4
+~
+~
+0 -1 19488
+D5
+~
+~
+0 -1 19488
+S
+#19489
+A Royal Chamber~
+You are in a royal chamber.  This spacious room is complete with large
+bed, desks, chests, cabinet, and closet.  Precious tapestries and assorted
+porcelain figurines are placed about the room.  A gilt framed full body
+mirror hangs upon the south wall and a dresser fully stocked with
+embroidered clothes stands next to it.  A large platinum brazier burns
+incense both for a fragrant aroma as well as for light.  You wonder who
+could be important enough to book a room in the Royal Chambers, so secret
+and well protected that the person must be a high official.  
+~
+0 8200 0
+D3
+~
+door~
+2 0 19486
+S
+#19490
+A Royal Chamber~
+You are in a royal chamber.  This spacious room is complete with large
+bed, desks, chests, cabinet, and closet.  Precious tapestries and assorted
+porcelain figurines are placed about the room.  A gilt framed full body
+mirror hangs upon the south wall and a dresser fully stocked with
+embroidered clothes stands next to it.  A large platinum brazier burns
+incense both for a fragrant aroma as well as for light.  You wonder who
+could be important enough to book a room in the Royal Chambers, so secret
+and well protected that the person must be a high official.  
+~
+0 8200 0
+D1
+~
+door~
+2 0 19486
+S
+#19491
+A Royal Chamber~
+You are in a royal chamber.  This spacious room is complete with large
+bed, desks, chests, cabinet, and closet.  Precious tapestries and assorted
+porcelain figurines are placed about the room.  A gilt framed full body
+mirror hangs upon the south wall and a dresser fully stocked with
+embroidered clothes stands next to it.  A large platinum brazier burns
+incense both for a fragrant aroma as well as for light.  You wonder who
+could be important enough to book a room in the Royal Chambers, so secret
+and well protected that the person must be a high official.  
+~
+0 8200 0
+D3
+~
+door~
+2 0 19485
+S
+#19492
+A Royal Chamber~
+You are in a royal chamber.  This spacious room is complete with large
+bed, desks, chests, cabinet, and closet.  Precious tapestries and assorted
+porcelain figurines are placed about the room.  A gilt framed full body
+mirror hangs upon the south wall and a dresser fully stocked with
+embroidered clothes stands next to it.  A large platinum brazier burns
+incense both for a fragrant aroma as well as for light.  You wonder who
+could be important enough to book a room in the Royal Chambers, so secret
+and well protected that the person must be a high official.  
+~
+0 8200 0
+D1
+~
+door~
+2 0 19485
+S
+#19493
+A Royal Chamber~
+You are in a royal chamber.  This spacious room is complete with large
+bed, desks, chests, cabinet, and closet.  Precious tapestries and assorted
+porcelain figurines are placed about the room.  A gilt framed full body
+mirror hangs upon the south wall and a dresser fully stocked with
+embroidered clothes stands next to it.  A large platinum brazier burns
+incense both for a fragrant aroma as well as for light.  You wonder who
+could be important enough to book a room in the Royal Chambers, so secret
+and well protected that the person must be a high official.  
+~
+0 8200 0
+D3
+~
+door~
+2 0 19484
+S
+#19494
+A Royal Chamber~
+You are in a royal chamber.  This spacious room is complete with large
+bed, desks, chests, cabinet, and closet.  Precious tapestries and assorted
+porcelain figurines are placed about the room.  A gilt framed full body
+mirror hangs upon the south wall and a dresser fully stocked with
+embroidered clothes stands next to it.  A large platinum brazier burns
+incense both for a fragrant aroma as well as for light.  You wonder who
+could be important enough to book a room in the Royal Chambers, so secret
+and well protected that the person must be a high official.  
+~
+0 8200 0
+D1
+~
+door~
+2 0 19484
+S
+#19495
+A Royal Chamber~
+You are in a royal chamber.  This spacious room is complete with large
+bed, desks, chests, cabinet, and closet.  Precious tapestries and assorted
+porcelain figurines are placed about the room.  A gilt framed full body
+mirror hangs upon the south wall and a dresser fully stocked with
+embroidered clothes stands next to it.  A large platinum brazier burns
+incense both for a fragrant aroma as well as for light.  You wonder who
+could be important enough to book a room in the Royal Chambers, so secret
+and well protected that the person must be a high official.  
+~
+0 8204 0
+S
+#19496
+A Royal Chamber~
+You are in a royal chamber.  This spacious room is complete with large
+bed, desks, chests, cabinet, and closet.  Precious tapestries and assorted
+porcelain figurines are placed about the room.  A gilt framed full body
+mirror hangs upon the south wall and a dresser fully stocked with
+embroidered clothes stands next to it.  A large platinum brazier burns
+incense both for a fragrant aroma as well as for light.  You wonder who
+could be important enough to book a room in the Royal Chambers, so secret
+and well protected that the person must be a high official.  
+~
+0 8192 0
+D1
+~
+door~
+2 0 19483
+S
+#19497
+A Royal Chamber~
+You are in a royal chamber.  This spacious room is complete with large
+bed, desks, chests, cabinet, and closet.  Precious tapestries and assorted
+porcelain figurines are placed about the room.  A gilt framed full body
+mirror hangs upon the south wall and a dresser fully stocked with
+embroidered clothes stands next to it.  A large platinum brazier burns
+incense both for a fragrant aroma as well as for light.  You wonder who
+could be important enough to book a room in the Royal Chambers, so secret
+and well protected that the person must be a high official.  
+~
+0 8200 0
+D3
+~
+door~
+2 0 19482
+S
+#19498
+A Royal Chamber~
+You are in a royal chamber.  This spacious room is complete with large
+bed, desks, chests, cabinet, and closet.  Precious tapestries and assorted
+porcelain figurines are placed about the room.  A gilt framed full body
+mirror hangs upon the south wall and a dresser fully stocked with
+embroidered clothes stands next to it.  A large platinum brazier burns
+incense both for a fragrant aroma as well as for light.  You wonder who
+could be important enough to book a room in the Royal Chambers, so secret
+and well protected that the person must be a high official.  
+~
+0 8200 0
+D1
+~
+door~
+2 0 19482
+S
+#19499
+A Royal Chamber~
+You are in a royal chamber.  This spacious room is complete with large
+bed, desks, chests, cabinet, and closet.  Precious tapestries and assorted
+porcelain figurines are placed about the room.  A gilt framed full body
+mirror hangs upon the south wall and a dresser fully stocked with
+embroidered clothes stands next to it.  A large platinum brazier burns
+incense both for a fragrant aroma as well as for light.  You wonder who
+could be important enough to book a room in the Royal Chambers, so secret
+and well protected that the person must be a high official.  
+~
+0 8200 0
+D3
+~
+door~
+2 0 19481
+S
+#19200
+A Royal Chamber~
+You are in a royal chamber.  This spacious room is complete with large
+bed, desks, chests, cabinet, and closet.  Precious tapestries and assorted
+porcelain figurines are placed about the room.  A gilt framed full body
+mirror hangs upon the south wall and a dresser fully stocked with
+embroidered clothes stands next to it.  A large platinum brazier burns
+incense both for a fragrant aroma as well as for light.  You wonder who
+could be important enough to book a room in the Royal Chambers, so secret
+and well protected that the person must be a high official.  
+~
+0 8200 0
+D1
+~
+door~
+2 0 19481
+S
+#19201
+The Secret Tower~
+You are in the secret tower of Amber Palace.  There is a ladder here,
+leading somewhere you do not know.  The only light comes from your own light
+source, as the walls that make up the tower seem to be a denser amber that
+does not let any outside light through.  You ponder climbing higher.  
+~
+0 8 0
+D4
+~
+~
+0 0 19202
+D5
+~
+ceiling~
+2 0 19409
+S
+#19202
+The Secret Tower~
+You are in the secret tower of Amber Palace.  There is a ladder here,
+leading somewhere you do not know.  The only light comes from your own light
+source, as the walls that make up the tower seem to be a denser amber that
+does not let any outside light through.  You ponder climbing higher.  
+~
+0 8 0
+D4
+~
+~
+0 0 19203
+D5
+~
+~
+0 0 19201
+S
+#19203
+The Secret Tower~
+You are in the secret tower of Amber Palace.  There is a ladder here,
+leading somewhere you do not know.  The only light comes from your own light
+source, as the walls that make up the tower seem to be a denser amber that
+does not let any outside light through.  You ponder climbing higher.  
+~
+0 8 0
+D4
+~
+~
+0 0 19204
+D5
+~
+~
+0 0 19202
+S
+#19204
+The Secret Tower~
+You are in the secret tower of Amber Palace.  There is a ladder here,
+leading somewhere you do not know.  The only light comes from your own light
+source, as the walls that make up the tower seem to be a denser amber that
+does not let any outside light through.  You ponder climbing higher.  
+~
+0 8 0
+D4
+~
+~
+0 0 19205
+D5
+~
+~
+0 0 19203
+S
+#19205
+The Secret Tower~
+You are in the secret tower of Amber Palace.  There is a ladder here,
+leading somewhere you do not know.  The only light comes from your own light
+source, as the walls that make up the tower seem to be a denser amber that
+does not let any outside light through.  You ponder climbing higher.  
+~
+0 8 0
+D2
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19206
+D5
+~
+~
+0 0 19204
+S
+#19206
+The Secret Tower~
+You are in the secret tower of Amber Palace.  There is a ladder here,
+leading somewhere you do not know.  The only light comes from your own light
+source, as the walls that make up the tower seem to be a denser amber that
+does not let any outside light through.  You ponder climbing higher.  
+~
+0 8 0
+D2
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19207
+D5
+~
+~
+0 0 19205
+S
+#19207
+The Secret Tower~
+You are in the secret tower of Amber Palace.  There is a ladder here,
+leading somewhere you do not know.  The only light comes from your own light
+source, as the walls that make up the tower seem to be a denser amber that
+does not let any outside light through.  You ponder climbing higher.  
+~
+0 8 0
+D2
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19208
+D5
+~
+~
+0 0 19206
+S
+#19208
+The Secret Tower~
+You are in the secret tower of Amber Palace.  There is a ladder here,
+leading somewhere you do not know.  The only light comes from your own light
+source, as the walls that make up the tower seem to be a denser amber that
+does not let any outside light through.  You ponder climbing higher.  
+~
+0 8 0
+D2
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19209
+D5
+~
+~
+0 0 19207
+S
+#19209
+The Secret Tower~
+You are in the secret tower of Amber Palace.  There is a ladder here,
+leading somewhere you do not know.  The only light comes from your own light
+source, as the walls that make up the tower seem to be a denser amber that
+does not let any outside light through.  You ponder climbing higher.  
+~
+0 8 0
+D0
+~
+secret~
+2 0 19213
+D2
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19210
+D5
+~
+~
+0 0 19208
+S
+#19210
+The Secret Tower~
+You are in the secret tower of Amber Palace.  There is a ladder here,
+leading somewhere you do not know.  The only light comes from your own light
+source, as the walls that make up the tower seem to be a denser amber that
+does not let any outside light through.  You ponder climbing higher.  
+~
+0 8 0
+D0
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19211
+D5
+~
+~
+0 0 19209
+S
+#19211
+The Magician's Chambers~
+You have discovered the chambers of the court's magician.  This chamber
+is a total and utter mess.  Various beakers and vials lay strewn about the
+floor and tables, spilling multi-colored fluids everywhere.  Star charts and
+land mass maps are pinned to the walls, and pentagrams of every sort are
+scrawled about.  Piles upon piles of books and large tomes are heaped
+against the shelves, which look as if they are about to break under the
+weight.  Jars of strange objects and dried animals are placed in the
+northwest corner, and bags of herbs are heaped in the northeast corner.  It
+is obvious that the palace maids never come up here.  
+~
+0 8200 0
+D0
+~
+door~
+2 0 19212
+D5
+~
+~
+0 0 19210
+S
+#19212
+The Bedchamber~
+You are in the court magician's bedchamber.  Perhaps you should go back
+outside to his main chamber.  It is at least neater outside.  The large bed
+is completely covered with strange object that you can not even begin to
+fathom the uses for.  Scrolls and parchments litter the floor so thoroughly
+that you cannot take a single step without crushing something.  Dusty
+amulets and talismans are hanging from hooks set into the walls everywhere. 
+A strange bluish flame burns in the middle of the room, coming from no
+apparant source.  
+~
+0 8200 0
+D2
+~
+door~
+2 0 19211
+S
+#19213
+The Secret Alcove~
+You have entered a secret alcove.  This is where the member of Royalty
+would hide in times of crisis and emergency.  There is a cabinet here,
+stocked with jugs of water and dried foods.  An empty chamber pot lies in
+the corner, rags and torches stacked neatly underneath.  There is door to
+the north.  
+~
+0 8 0
+D0
+~
+door~
+2 0 19214
+D2
+~
+secret~
+2 0 19209
+S
+#19214
+The Treasury~
+You have found the Treasury!  You imagined heaps and heaps of gold here,
+surrounded by piles of jewels and other priceless artifacts.  However, the
+room is bare of anything except a plain lamp set up in the corner.  What a
+disappointment.  
+~
+0 8200 0
+D0
+~
+door~
+2 0 19215
+D2
+~
+door~
+2 0 19213
+S
+#19215
+The Vault~
+You have found the vault!  Piles of gold and silver coins are heaped
+here, with mounds of shining and glittering jewels spilled all over the
+floor.  A large ruby lantern shines a brilliant reddish light over the room,
+revealing its treasures in a brilliant shower of colors.  You quickly grab a
+backpack and begin to stuff it full.  
+~
+0 8200 0
+D2
+~
+door~
+2 0 19214
+S
+#19216
+The King's Love Chambers~
+You have found the secret chambers of the King's mistresses.  The room is
+filled with plush silk pillows, large beds, tapestries of every sort, and a
+larder stocked with food and wine.  Girls of every size, color, and race are
+sprawled about, winking coquettishly as you draw near.  An exotic incense is
+burning in the corner, next to an array of massage oils.  
+~
+0 8 0
+D0
+~
+~
+0 0 19221
+D2
+~
+~
+0 0 19217
+D4
+~
+~
+2 0 19300
+S
+#19217
+The King's Love Chambers~
+You have found the secret chambers of the King's mistresses.  The room is
+filled with plush silk pillows, large beds, tapestries of every sort, and a
+larder stocked with food and wine.  Girls of every size, color, and race are
+sprawled about, winking coquettishly as you draw near.  An exotic incense is
+burning in the corner, next to an array of massage oils.  
+~
+0 8 0
+D0
+~
+~
+0 0 19216
+D2
+~
+~
+0 0 19218
+S
+#19218
+The King's Love Chambers~
+You have found the secret chambers of the King's mistresses.  The room is
+filled with plush silk pillows, large beds, tapestries of every sort, and a
+larder stocked with food and wine.  Girls of every size, color, and race are
+sprawled about, winking coquettishly as you draw near.  An exotic incense is
+burning in the corner, next to an array of massage oils.  
+~
+0 8 0
+D0
+~
+~
+0 0 19217
+D2
+~
+~
+0 0 19219
+S
+#19219
+The King's Love Chambers~
+You have found the secret chambers of the King's mistresses.  The room is
+filled with plush silk pillows, large beds, tapestries of every sort, and a
+larder stocked with food and wine.  Girls of every size, color, and race are
+sprawled about, winking coquettishly as you draw near.  An exotic incense is
+burning in the corner, next to an array of massage oils.  
+~
+0 8 0
+D0
+~
+~
+0 0 19218
+D2
+~
+~
+0 0 19220
+S
+#19220
+The King's Love Chambers~
+You have found the secret chambers of the King's mistresses.  The room is
+filled with plush silk pillows, large beds, tapestries of every sort, and a
+larder stocked with food and wine.  Girls of every size, color, and race are
+sprawled about, winking coquettishly as you draw near.  An exotic incense is
+burning in the corner, next to an array of massage oils.  
+~
+0 8 0
+D0
+~
+~
+0 0 19219
+S
+#19221
+The King's Love Chambers~
+You have found the secret chambers of the King's mistresses.  The room is
+filled with plush silk pillows, large beds, tapestries of every sort, and a
+larder stocked with food and wine.  Girls of every size, color, and race are
+sprawled about, winking coquettishly as you draw near.  An exotic incense is
+burning in the corner, next to an array of massage oils.  
+~
+0 8 0
+D0
+~
+~
+0 0 19222
+D2
+~
+~
+0 0 19216
+S
+#19222
+The King's Love Chambers~
+You have found the secret chambers of the King's mistresses.  The room is
+filled with plush silk pillows, large beds, tapestries of every sort, and a
+larder stocked with food and wine.  Girls of every size, color, and race are
+sprawled about, winking coquettishly as you draw near.  An exotic incense is
+burning in the corner, next to an array of massage oils.  
+~
+0 8 0
+D0
+~
+~
+0 0 19223
+D2
+~
+~
+0 0 19221
+S
+#19223
+The King's Love Chambers~
+You have found the secret chambers of the King's mistresses.  The room is
+filled with plush silk pillows, large beds, tapestries of every sort, and a
+larder stocked with food and wine.  Girls of every size, color, and race are
+sprawled about, winking coquettishly as you draw near.  An exotic incense is
+burning in the corner, next to an array of massage oils.  
+~
+0 8 0
+D0
+~
+~
+0 0 19224
+D2
+~
+~
+0 0 19222
+S
+#19224
+The King's Love Chambers~
+You have found the secret chambers of the King's mistresses.  The room is
+filled with plush silk pillows, large beds, tapestries of every sort, and a
+larder stocked with food and wine.  Girls of every size, color, and race are
+sprawled about, winking coquettishly as you draw near.  An exotic incense is
+burning in the corner, next to an array of massage oils.  
+~
+0 8 0
+D0
+~
+~
+0 0 19225
+D2
+~
+~
+0 0 19223
+S
+#19225
+The King's Love Chambers~
+You have found the secret chambers of the King's mistresses.  The room is
+filled with plush silk pillows, large beds, tapestries of every sort, and a
+larder stocked with food and wine.  Girls of every size, color, and race are
+sprawled about, winking coquettishly as you draw near.  An exotic incense is
+burning in the corner, next to an array of massage oils.  
+~
+0 8 0
+D2
+~
+~
+0 0 19224
+S
+#19226
+The Path to the Gardens~
+You are on a peaceful dirt path to the Royal Gardens.  The path is
+trimmed with amber rocks and slender willow trees.  The air here is cool and
+fresh, the sounds of birds singing fills your ears.  The occasional squirrel
+streaks past you, stopping for a moment to chew upon an acorn.  
+~
+0 8 0
+D0
+~
+~
+0 0 19228
+D1
+~
+door~
+2 0 19416
+S
+#19227
+~
+~
+0 12 0
+S
+#19228
+The Royal Gardens~
+You are walking in the Royal Gardens.  Rare plants bloom here and the
+very air is filled with herbal and sweet scents.  Strange yet colorful
+bushes sprout from every corner, and odd trees grow about you.  Ferns and
+vines mix together, and strange water lilies grow in the small lake that
+sits serenely in the middle of the gardens.  The frogs croak loudly, adding
+their voices to that of the birds and the dragonflies buzz incessantly here.
+The whole garden maintains an aura of peaceful harmony and you feel at ease
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 19229
+D2
+~
+~
+0 0 19226
+S
+#19229
+The Royal Gardens~
+You are walking in the Royal Gardens.  Rare plants bloom here and the
+very air is filled with herbal and sweet scents.  Strange yet colorful
+bushes sprout from every corner, and odd trees grow about you.  Ferns and
+vines mix together, and strange water lilies grow in the small lake that
+sits serenely in the middle of the gardens.  The frogs croak loudly, adding
+their voices to that of the birds and the dragonflies buzz incessantly here.
+The whole garden maintains an aura of peaceful harmony and you feel at ease
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 19230
+D2
+~
+~
+0 0 19228
+S
+#19230
+The Royal Gardens~
+You are walking in the Royal Gardens.  Rare plants bloom here and the
+very air is filled with herbal and sweet scents.  Strange yet colorful
+bushes sprout from every corner, and odd trees grow about you.  Ferns and
+vines mix together, and strange water lilies grow in the small lake that
+sits serenely in the middle of the gardens.  The frogs croak loudly, adding
+their voices to that of the birds and the dragonflies buzz incessantly here.
+The whole garden maintains an aura of peaceful harmony and you feel at ease
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 19231
+D2
+~
+~
+0 0 19229
+S
+#19231
+The Royal Gardens~
+You are walking in the Royal Gardens.  Rare plants bloom here and the
+very air is filled with herbal and sweet scents.  Strange yet colorful
+bushes sprout from every corner, and odd trees grow about you.  Ferns and
+vines mix together, and strange water lilies grow in the small lake that
+sits serenely in the middle of the gardens.  The frogs croak loudly, adding
+their voices to that of the birds and the dragonflies buzz incessantly here.
+The whole garden maintains an aura of peaceful harmony and you feel at ease
+here.  
+~
+0 0 0
+D2
+~
+~
+0 0 19230
+D3
+~
+~
+0 0 19232
+S
+#19232
+The Royal Gardens~
+You are walking in the Royal Gardens.  Rare plants bloom here and the
+very air is filled with herbal and sweet scents.  Strange yet colorful
+bushes sprout from every corner, and odd trees grow about you.  Ferns and
+vines mix together, and strange water lilies grow in the small lake that
+sits serenely in the middle of the gardens.  The frogs croak loudly, adding
+their voices to that of the birds and the dragonflies buzz incessantly here.
+The whole garden maintains an aura of peaceful harmony and you feel at ease
+here.  
+~
+0 0 0
+D1
+~
+~
+0 0 19231
+D3
+~
+~
+0 0 19233
+S
+#19233
+The Royal Gardens~
+You are walking in the Royal Gardens.  Rare plants bloom here and the
+very air is filled with herbal and sweet scents.  Strange yet colorful
+bushes sprout from every corner, and odd trees grow about you.  Ferns and
+vines mix together, and strange water lilies grow in the small lake that
+sits serenely in the middle of the gardens.  The frogs croak loudly, adding
+their voices to that of the birds and the dragonflies buzz incessantly here.
+The whole garden maintains an aura of peaceful harmony and you feel at ease
+here.  
+~
+0 0 0
+D1
+~
+~
+0 0 19232
+D2
+~
+~
+0 0 19234
+S
+#19234
+The Royal Gardens~
+You are walking in the Royal Gardens.  Rare plants bloom here and the
+very air is filled with herbal and sweet scents.  Strange yet colorful
+bushes sprout from every corner, and odd trees grow about you.  Ferns and
+vines mix together, and strange water lilies grow in the small lake that
+sits serenely in the middle of the gardens.  The frogs croak loudly, adding
+their voices to that of the birds and the dragonflies buzz incessantly here.
+The whole garden maintains an aura of peaceful harmony and you feel at ease
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 19233
+D2
+~
+~
+0 0 19235
+S
+#19235
+The Royal Gardens~
+You are walking in the Royal Gardens.  Rare plants bloom here and the
+very air is filled with herbal and sweet scents.  Strange yet colorful
+bushes sprout from every corner, and odd trees grow about you.  Ferns and
+vines mix together, and strange water lilies grow in the small lake that
+sits serenely in the middle of the gardens.  The frogs croak loudly, adding
+their voices to that of the birds and the dragonflies buzz incessantly here.
+The whole garden maintains an aura of peaceful harmony and you feel at ease
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 19234
+D2
+~
+~
+0 0 19236
+S
+#19236
+The Royal Gardens~
+You are walking in the Royal Gardens.  Rare plants bloom here and the
+very air is filled with herbal and sweet scents.  Strange yet colorful
+bushes sprout from every corner, and odd trees grow about you.  Ferns and
+vines mix together, and strange water lilies grow in the small lake that
+sits serenely in the middle of the gardens.  The frogs croak loudly, adding
+their voices to that of the birds and the dragonflies buzz incessantly here.
+The whole garden maintains an aura of peaceful harmony and you feel at ease
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 19235
+D1
+~
+~
+0 0 19237
+S
+#19237
+The Royal Gardens~
+You are walking in the Royal Gardens.  Rare plants bloom here and the
+very air is filled with herbal and sweet scents.  Strange yet colorful
+bushes sprout from every corner, and odd trees grow about you.  Ferns and
+vines mix together, and strange water lilies grow in the small lake that
+sits serenely in the middle of the gardens.  The frogs croak loudly, adding
+their voices to that of the birds and the dragonflies buzz incessantly here.
+The whole garden maintains an aura of peaceful harmony and you feel at ease
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 19238
+D3
+~
+~
+0 0 19236
+S
+#19238
+The Royal Gardens~
+You are walking in the Royal Gardens.  Rare plants bloom here and the
+very air is filled with herbal and sweet scents.  Strange yet colorful
+bushes sprout from every corner, and odd trees grow about you.  Ferns and
+vines mix together, and strange water lilies grow in the small lake that
+sits serenely in the middle of the gardens.  The frogs croak loudly, adding
+their voices to that of the birds and the dragonflies buzz incessantly here.
+The whole garden maintains an aura of peaceful harmony and you feel at ease
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 19239
+D2
+~
+~
+0 0 19237
+S
+#19239
+The Royal Gardens~
+You are walking in the Royal Gardens.  Rare plants bloom here and the
+very air is filled with herbal and sweet scents.  Strange yet colorful
+bushes sprout from every corner, and odd trees grow about you.  Ferns and
+vines mix together, and strange water lilies grow in the small lake that
+sits serenely in the middle of the gardens.  The frogs croak loudly, adding
+their voices to that of the birds and the dragonflies buzz incessantly here.
+The whole garden maintains an aura of peaceful harmony and you feel at ease
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 19240
+D2
+~
+~
+0 0 19238
+S
+#19240
+The Royal Gardens~
+You are walking in the Royal Gardens.  Rare plants bloom here and the
+very air is filled with herbal and sweet scents.  Strange yet colorful
+bushes sprout from every corner, and odd trees grow about you.  Ferns and
+vines mix together, and strange water lilies grow in the small lake that
+sits serenely in the middle of the gardens.  The frogs croak loudly, adding
+their voices to that of the birds and the dragonflies buzz incessantly here.
+The whole garden maintains an aura of peaceful harmony and you feel at ease
+here.  There is a white gazebo here, a place to rest and enjoy the scenery. 
+~
+0 1032 0
+E
+gazebo~
+The gazebo is made from oak wood and painted an ivory white. It is a shelter 
+in the middle of the Royal Gardens, safety from sudden rain showers and other 
+elements of the nature. It is here that you may rest, and the benches placed 
+here look very comfortable.
+~
+D2
+~
+~
+0 0 19239
+D5
+~
+gazebo~
+2 0 19241
+S
+#19241
+Under the Gazebo~
+You are underneath the gazebo in the Royal Gardens.  This room seems to
+be the entrance to the Queen's secret chambers.  This is where she comes
+after a long hard day to relax.  For some reason there is a wide assortment
+of whips hanging on pegs against the south wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 19242
+D4
+~
+gazebo~
+2 0 19240
+S
+#19242
+The Queen's Love Chambers~
+You are in the Queen's secret love chambers.  The are large beds
+everywhere, complete with silk straps on the corners and strange whips and
+gags laying about.  A few other assorted weapons are placed upon a rack in
+the center of the room.  Pitchers of wine and coils of rough rawhide ropes
+are set upon a large table against the east wall.  You wonder what exactly
+goes on here.  
+~
+0 8 0
+D1
+~
+~
+0 0 19243
+D3
+~
+~
+0 0 19241
+S
+#19243
+The Queen's Love Chambers~
+You are in the Queen's secret love chambers.  The are large beds
+everywhere, complete with silk straps on the corners and strange whips and
+gags laying about.  A few other assorted weapons are placed upon a rack in
+the center of the room.  Pitchers of wine and coils of rough rawhide ropes
+are set upon a large table against the east wall.  You wonder what exactly
+goes on here.  
+~
+0 8 0
+D1
+~
+~
+0 0 19244
+D3
+~
+~
+0 0 19242
+S
+#19244
+The Queen's Love Chambers~
+You are in the Queen's secret love chambers.  The are large beds
+everywhere, complete with silk straps on the corners and strange whips and
+gags laying about.  A few other assorted weapons are placed upon a rack in
+the center of the room.  Pitchers of wine and coils of rough rawhide ropes
+are set upon a large table against the east wall.  You wonder what exactly
+goes on here.  
+~
+0 8 0
+D1
+~
+~
+0 0 19245
+D3
+~
+~
+0 0 19243
+S
+#19245
+The Queen's Love Chambers~
+You are in the Queen's secret love chambers.  The are large beds
+everywhere, complete with silk straps on the corners and strange whips and
+gags laying about.  A few other assorted weapons are placed upon a rack in
+the center of the room.  Pitchers of wine and coils of rough rawhide ropes
+are set upon a large table against the east wall.  You wonder what exactly
+goes on here.  
+~
+0 8 0
+D1
+~
+~
+0 0 19246
+D3
+~
+~
+0 0 19244
+S
+#19246
+The Queen's Love Chambers~
+You are in the Queen's secret love chambers.  The are large beds
+everywhere, complete with silk straps on the corners and strange whips and
+gags laying about.  A few other assorted weapons are placed upon a rack in
+the center of the room.  Pitchers of wine and coils of rough rawhide ropes
+are set upon a large table against the east wall.  You wonder what exactly
+goes on here.  
+~
+0 8 0
+D1
+~
+~
+0 0 19247
+D3
+~
+~
+0 0 19245
+S
+#19247
+The Queen's Love Chambers~
+You are in the Queen's secret love chambers.  The are large beds
+everywhere, complete with silk straps on the corners and strange whips and
+gags laying about.  A few other assorted weapons are placed upon a rack in
+the center of the room.  Pitchers of wine and coils of rough rawhide ropes
+are set upon a large table against the east wall.  You wonder what exactly
+goes on here.  
+~
+0 8 0
+D1
+~
+~
+0 0 19248
+D3
+~
+~
+0 0 19246
+S
+#19248
+The Queen's Love Chambers~
+You are in the Queen's secret love chambers.  The are large beds
+everywhere, complete with silk straps on the corners and strange whips and
+gags laying about.  A few other assorted weapons are placed upon a rack in
+the center of the room.  Pitchers of wine and coils of rough rawhide ropes
+are set upon a large table against the east wall.  You wonder what exactly
+goes on here.  
+~
+0 8 0
+D1
+~
+~
+0 0 19249
+D3
+~
+~
+0 0 19247
+S
+#19249
+The Queen's Love Chambers~
+You are in the Queen's secret love chambers.  The are large beds
+everywhere, complete with silk straps on the corners and strange whips and
+gags laying about.  A few other assorted weapons are placed upon a rack in
+the center of the room.  Pitchers of wine and coils of rough rawhide ropes
+are set upon a large table against the east wall.  You wonder what exactly
+goes on here.  
+~
+0 8 0
+D1
+~
+~
+0 0 19250
+D3
+~
+~
+0 0 19248
+S
+#19250
+The Queen's Love Chambers~
+You are in the Queen's secret love chambers.  The are large beds
+everywhere, complete with silk straps on the corners and strange whips and
+gags laying about.  A few other assorted weapons are placed upon a rack in
+the center of the room.  Pitchers of wine and coils of rough rawhide ropes
+are set upon a large table against the east wall.  You wonder what exactly
+goes on here.  
+~
+0 8 0
+D3
+~
+~
+0 0 19249
+S
+#19251
+The War Room~
+You have entered the war room of Amber Palace.  This is where the King
+and his military advisors come and plan out their strategies if they are at
+war.  There is a long glass table here and maps of every country and area in
+the world are tacked up against the walls.  Books of strategy are shelved
+neatly against the wall to the north, and a set of red marking pencils are
+in a jar atop the books.  A large slate board is against the south wall, a
+container of colored chalks next to it.  It seems the King takes warring
+very seriously.  
+~
+0 8 0
+D4
+~
+secret~
+2 0 19408
+S
+#19252
+A Secret Guardpost~
+You have stumbled across a secret guardpost.  The guards are not as
+amused as you are, however.  
+~
+0 8200 0
+D4
+~
+carpet~
+2 0 19409
+D5
+~
+secret~
+2 0 19253
+S
+#19253
+The Entrance to the High Chambers~
+You are at the entrance to the high chambers of Amber Palace.  Somewhere,
+hidden deep inside these corridors, is where the chambers of the Royal
+Family lay.  However, discovering the entrance to the chambers and finding
+the chambers themselves are two totally different tasks.  The corridors are
+filled with darkness and you have no idea what traps or guards may lay in
+wait for you.  Perhaps you should leave now.  
+~
+0 8201 0
+D2
+~
+~
+0 0 19254
+D4
+~
+secret~
+2 0 19252
+S
+#19254
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19253
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19255
+D3
+~
+~
+0 0 19488
+S
+#19255
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19254
+D1
+~
+~
+0 0 19256
+D2
+~
+~
+0 0 19488
+D3
+~
+~
+0 0 19488
+S
+#19256
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D1
+~
+~
+0 0 19257
+D2
+~
+~
+0 0 19488
+D3
+~
+~
+0 0 19255
+S
+#19257
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19258
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19488
+D3
+~
+~
+0 0 19256
+S
+#19258
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19301
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19257
+D3
+~
+secret~
+2 0 19270
+S
+#19259
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19260
+D1
+~
+secret~
+2 0 19271
+D2
+~
+~
+0 0 19488
+D3
+~
+~
+0 0 19488
+D4
+~
+~
+2 0 19303
+S
+#19260
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19261
+D2
+~
+~
+0 0 19259
+S
+#19261
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19262
+D2
+~
+~
+0 0 19260
+D4
+~
+secret~
+2 0 19273
+S
+#19262
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19263
+D2
+~
+~
+0 0 19261
+D5
+~
+secret~
+1 0 19274
+S
+#19263
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19264
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19262
+D3
+~
+secret~
+2 0 19275
+S
+#19264
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19265
+D2
+~
+~
+0 0 19263
+S
+#19265
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19266
+D1
+~
+door~
+2 0 19276
+D2
+~
+~
+0 0 19264
+D3
+~
+door~
+2 0 19277
+S
+#19266
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19267
+D1
+~
+door~
+2 0 19278
+D2
+~
+~
+0 0 19265
+D3
+~
+door~
+2 0 19279
+S
+#19267
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19268
+D1
+~
+door~
+2 0 19280
+D2
+~
+~
+0 0 19266
+D3
+~
+door~
+2 0 19281
+S
+#19268
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19269
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19267
+D3
+~
+~
+0 0 19488
+S
+#19269
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19488
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19268
+D3
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19488
+D5
+~
+secret~
+2 0 19282
+S
+#19270
+A High Royal Chamber~
+You have found a secret chamber of the Royal Family.  The room is very
+large, and could easy fit a party of twenty people inside.  Large paintings
+of the Royal Family and ornate mirrors decorate the room and the immense
+silk bed could hold three to four couples.  Flagons of wine and ale are set
+against the wall and large walk-in closets full of royal clothes are in the
+corners.  The Royal Family Crest is painted upon the ceiling and you marvel
+at the majesty of this room.  
+~
+0 8201 0
+D1
+~
+secret~
+2 0 19258
+S
+#19271
+A High Royal Chamber~
+You have found a secret chamber of the Royal Family.  The room is very
+large, and could easy fit a party of twenty people inside.  Large paintings
+of the Royal Family and ornate mirrors decorate the room and the immense
+silk bed could hold three to four couples.  Flagons of wine and ale are set
+against the wall and large walk-in closets full of royal clothes are in the
+corners.  The Royal Family Crest is painted upon the ceiling and you marvel
+at the majesty of this room.  
+~
+0 9 0
+D3
+~
+secret~
+2 0 19259
+S
+#19273
+A High Royal Chamber~
+You have found a secret chamber of the Royal Family.  The room is very
+large, and could easy fit a party of twenty people inside.  Large paintings
+of the Royal Family and ornate mirrors decorate the room and the immense
+silk bed could hold three to four couples.  Flagons of wine and ale are set
+against the wall and large walk-in closets full of royal clothes are in the
+corners.  The Royal Family Crest is painted upon the ceiling and you marvel
+at the majesty of this room.  
+~
+0 8201 0
+D5
+~
+secret~
+2 0 19261
+S
+#19274
+A High Royal Chamber~
+You have found a secret chamber of the Royal Family.  The room is very
+large, and could easy fit a party of twenty people inside.  Large paintings
+of the Royal Family and ornate mirrors decorate the room and the immense
+silk bed could hold three to four couples.  Flagons of wine and ale are set
+against the wall and large walk-in closets full of royal clothes are in the
+corners.  The Royal Family Crest is painted upon the ceiling and you marvel
+at the majesty of this room.  
+~
+0 8201 0
+D4
+~
+secret~
+2 0 19262
+S
+#19275
+A High Royal Chamber~
+You have found a secret chamber of the Royal Family.  The room is very
+large, and could easy fit a party of twenty people inside.  Large paintings
+of the Royal Family and ornate mirrors decorate the room and the immense
+silk bed could hold three to four couples.  Flagons of wine and ale are set
+against the wall and large walk-in closets full of royal clothes are in the
+corners.  The Royal Family Crest is painted upon the ceiling and you marvel
+at the majesty of this room.  
+~
+0 8201 0
+D1
+~
+secret~
+2 0 19263
+S
+#19276
+A High Royal Chamber~
+You have found a secret chamber of the Royal Family.  The room is very
+large, and could easy fit a party of twenty people inside.  Large paintings
+of the Royal Family and ornate mirrors decorate the room and the immense
+silk bed could hold three to four couples.  Flagons of wine and ale are set
+against the wall and large walk-in closets full of royal clothes are in the
+corners.  The Royal Family Crest is painted upon the ceiling and you marvel
+at the majesty of this room.  
+~
+0 8201 0
+D3
+~
+door~
+2 0 19265
+S
+#19277
+A High Royal Chamber~
+You have found a secret chamber of the Royal Family.  The room is very
+large, and could easy fit a party of twenty people inside.  Large paintings
+of the Royal Family and ornate mirrors decorate the room and the immense
+silk bed could hold three to four couples.  Flagons of wine and ale are set
+against the wall and large walk-in closets full of royal clothes are in the
+corners.  The Royal Family Crest is painted upon the ceiling and you marvel
+at the majesty of this room.  
+~
+0 8201 0
+D1
+~
+door~
+2 0 19265
+S
+#19278
+A High Royal Chamber~
+You have found a secret chamber of the Royal Family.  The room is very
+large, and could easy fit a party of twenty people inside.  Large paintings
+of the Royal Family and ornate mirrors decorate the room and the immense
+silk bed could hold three to four couples.  Flagons of wine and ale are set
+against the wall and large walk-in closets full of royal clothes are in the
+corners.  The Royal Family Crest is painted upon the ceiling and you marvel
+at the majesty of this room.  
+~
+0 9 0
+D3
+~
+door~
+2 0 19266
+S
+#19279
+A High Royal Chamber~
+You have found a secret chamber of the Royal Family.  The room is very
+large, and could easy fit a party of twenty people inside.  Large paintings
+of the Royal Family and ornate mirrors decorate the room and the immense
+silk bed could hold three to four couples.  Flagons of wine and ale are set
+against the wall and large walk-in closets full of royal clothes are in the
+corners.  The Royal Family Crest is painted upon the ceiling and you marvel
+at the majesty of this room.  
+~
+0 9 0
+D1
+~
+door~
+2 0 19266
+S
+#19280
+A High Royal Chamber~
+You have found a secret chamber of the Royal Family.  The room is very
+large, and could easy fit a party of twenty people inside.  Large paintings
+of the Royal Family and ornate mirrors decorate the room and the immense
+silk bed could hold three to four couples.  Flagons of wine and ale are set
+against the wall and large walk-in closets full of royal clothes are in the
+corners.  The Royal Family Crest is painted upon the ceiling and you marvel
+at the majesty of this room.  
+~
+0 8201 0
+D3
+~
+door~
+2 0 19267
+S
+#19281
+A High Royal Chamber~
+You have found a secret chamber of the Royal Family.  The room is very
+large, and could easy fit a party of twenty people inside.  Large paintings
+of the Royal Family and ornate mirrors decorate the room and the immense
+silk bed could hold three to four couples.  Flagons of wine and ale are set
+against the wall and large walk-in closets full of royal clothes are in the
+corners.  The Royal Family Crest is painted upon the ceiling and you marvel
+at the majesty of this room.  
+~
+0 8201 0
+D1
+~
+door~
+2 0 19267
+S
+#19282
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19488
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19488
+D3
+~
+~
+0 0 19488
+D4
+~
+secret~
+2 0 19269
+D5
+~
+~
+0 0 19283
+S
+#19283
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19284
+D2
+~
+~
+0 0 19305
+D4
+~
+~
+0 0 19282
+D5
+~
+~
+0 0 19488
+S
+#19284
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19285
+D2
+~
+~
+0 0 19283
+S
+#19285
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D2
+~
+~
+0 0 19284
+S
+#19286
+A High Royal Chamber~
+You have found a secret chamber of the Royal Family.  The room is very
+large, and could easy fit a party of twenty people inside.  Large paintings
+of the Royal Family and ornate mirrors decorate the room and the immense
+silk bed could hold three to four couples.  Flagons of wine and ale are set
+against the wall and large walk-in closets full of royal clothes are in the
+corners.  The Royal Family Crest is painted upon the ceiling and you marvel
+at the majesty of this room.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19287
+D4
+~
+~
+0 0 19305
+S
+#19287
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19288
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19286
+D3
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19488
+D5
+~
+~
+0 0 19488
+S
+#19288
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19488
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19287
+D3
+~
+~
+0 0 19289
+D4
+~
+~
+0 0 19488
+D5
+~
+~
+0 0 19488
+S
+#19289
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19290
+D1
+~
+~
+0 0 19288
+D2
+~
+~
+0 0 19488
+D3
+~
+~
+0 0 19488
+D5
+~
+~
+0 0 19488
+S
+#19290
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19488
+D1
+~
+~
+0 0 19291
+D2
+~
+~
+0 0 19289
+D3
+~
+~
+0 0 19488
+D5
+~
+~
+0 0 19488
+S
+#19291
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19292
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19488
+D3
+~
+~
+0 0 19290
+S
+#19292
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19488
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19291
+D3
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19488
+D5
+~
+secret~
+2 0 19293
+S
+#19293
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8205 0
+D0
+~
+~
+0 0 19306
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19488
+D4
+~
+secret~
+2 0 19292
+D5
+~
+~
+0 0 19488
+S
+#19294
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19295
+D1
+~
+secret~
+2 0 19296
+D2
+~
+~
+0 0 19306
+D3
+~
+~
+0 0 19488
+S
+#19295
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19307
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19294
+D3
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19488
+D5
+~
+~
+0 0 19488
+S
+#19296
+A High Royal Chamber~
+You have found a secret chamber of the Royal Family.  The room is very
+large, and could easy fit a party of twenty people inside.  Large paintings
+of the Royal Family and ornate mirrors decorate the room and the immense
+silk bed could hold three to four couples.  Flagons of wine and ale are set
+against the wall and large walk-in closets full of royal clothes are in the
+corners.  The Royal Family Crest is painted upon the ceiling and you marvel
+at the majesty of this room.  
+~
+0 8201 0
+D3
+~
+secret~
+2 0 19294
+S
+#19297
+A High Royal Chamber~
+You have found a secret chamber of the Royal Family.  The room is very
+large, and could easy fit a party of twenty people inside.  Large paintings
+of the Royal Family and ornate mirrors decorate the room and the immense
+silk bed could hold three to four couples.  Flagons of wine and ale are set
+against the wall and large walk-in closets full of royal clothes are in the
+corners.  The Royal Family Crest is painted upon the ceiling and you marvel
+at the majesty of this room.  
+~
+0 8201 0
+D4
+~
+~
+2 0 19319
+D5
+~
+secret~
+2 0 19350
+S
+#19298
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D4
+~
+~
+2 0 19360
+D5
+~
+secret~
+2 0 19299
+S
+#19299
+A High Royal Chamber~
+You have found a secret chamber of the Royal Family.  The room is very
+large, and could easy fit a party of twenty people inside.  Large paintings
+of the Royal Family and ornate mirrors decorate the room and the immense
+silk bed could hold three to four couples.  Flagons of wine and ale are set
+against the wall and large walk-in closets full of royal clothes are in the
+corners.  The Royal Family Crest is painted upon the ceiling and you marvel
+at the majesty of this room.  
+~
+0 8201 0
+D4
+~
+secret~
+2 0 19298
+S
+#19300
+The Storage Cellar~
+You are inside a small room that acts as a storage cellar inside Amber
+Palace.  There are boxes and boxes of dried foods, barrels of water, and a
+few odds and ends lying about.  A pile of small torches lie against the
+southeast corner, and a small rat runs over your foot as you explore about. 
+~
+0 13 0
+D4
+~
+~
+2 0 19407
+D5
+~
+trapdoor~
+2 0 19216
+S
+#19301
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D1
+~
+~
+0 0 19302
+D2
+~
+~
+0 0 19258
+S
+#19302
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19303
+D3
+~
+~
+0 0 19301
+S
+#19303
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19488
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19302
+D3
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19488
+D5
+~
+secret~
+2 0 19259
+S
+#19304
+The Trap Room~
+You have fallen into one of the many trap rooms deep within Amber Palace.
+The Royal Family, having anticipated robbers, assassins, and other
+troublemakers, has installed these trap rooms as a mean to deal with scum
+like you.  
+~
+0 13 0
+S
+#19305
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19283
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19488
+D3
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19488
+D5
+~
+~
+0 0 19286
+S
+#19306
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 10253 0
+D0
+~
+~
+0 0 19294
+D2
+~
+~
+0 0 19293
+S
+#19307
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D1
+~
+~
+0 0 19308
+D2
+~
+~
+0 0 19295
+S
+#19308
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19309
+D3
+~
+~
+0 0 19307
+S
+#19309
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D2
+~
+~
+0 0 19308
+D5
+~
+~
+0 0 19310
+S
+#19310
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19311
+D1
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19309
+D5
+~
+~
+0 0 19312
+S
+#19311
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19313
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19310
+D3
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19488
+D5
+~
+~
+0 0 19488
+S
+#19312
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D2
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19310
+D5
+~
+~
+0 0 19488
+S
+#19313
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19488
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19311
+D3
+~
+~
+0 0 19488
+D5
+~
+secret~
+2 0 19314
+S
+#19314
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19488
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19488
+D3
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19313
+D5
+~
+~
+0 0 19315
+S
+#19315
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19314
+D5
+~
+~
+0 0 19316
+S
+#19316
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D2
+~
+~
+0 0 19317
+D3
+~
+~
+0 0 19488
+D4
+~
+secret~
+2 0 19315
+S
+#19317
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19316
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19318
+D5
+~
+~
+0 0 19488
+S
+#19318
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 10249 0
+D0
+~
+~
+0 0 19488
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19319
+D3
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19488
+D5
+~
+~
+0 0 19317
+S
+#19319
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19318
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19488
+D3
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19488
+D5
+~
+secret~
+2 0 19297
+S
+#19320
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19321
+D1
+~
+~
+0 0 19488
+S
+#19321
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D1
+~
+~
+0 0 19322
+D2
+~
+~
+0 0 19320
+S
+#19322
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19323
+D1
+~
+~
+0 0 19330
+D3
+~
+~
+0 0 19321
+S
+#19323
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D2
+~
+~
+0 0 19322
+D3
+~
+~
+0 0 19324
+S
+#19324
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19325
+D1
+~
+~
+0 0 19323
+S
+#19325
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D2
+~
+~
+0 0 19324
+D3
+~
+~
+0 0 19336
+D5
+~
+~
+0 0 19326
+S
+#19326
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D1
+~
+~
+0 0 19327
+D4
+~
+~
+0 0 19325
+S
+#19327
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19328
+D3
+~
+~
+0 0 19326
+S
+#19328
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D2
+~
+~
+0 0 19327
+D4
+~
+~
+0 0 19329
+S
+#19329
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D3
+~
+~
+0 0 19304
+D5
+~
+~
+0 0 19328
+S
+#19330
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D1
+~
+~
+0 0 19331
+D3
+~
+~
+0 0 19322
+S
+#19331
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D3
+~
+~
+0 0 19330
+D5
+~
+~
+0 0 19332
+S
+#19332
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19333
+D4
+~
+~
+0 0 19331
+S
+#19333
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D2
+~
+~
+0 0 19332
+D3
+~
+~
+0 0 19334
+S
+#19334
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19335
+D1
+~
+~
+0 0 19333
+S
+#19335
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D2
+~
+~
+0 0 19334
+D3
+~
+~
+0 0 19304
+S
+#19336
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D1
+~
+~
+0 0 19325
+D3
+~
+~
+0 0 19337
+S
+#19337
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19338
+D1
+~
+~
+0 0 19336
+S
+#19338
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D2
+~
+~
+0 0 19337
+D3
+~
+~
+0 0 19339
+S
+#19339
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D1
+~
+~
+0 0 19338
+D5
+~
+~
+0 0 19340
+S
+#19340
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19341
+D4
+~
+~
+0 0 19339
+D5
+~
+~
+0 0 19343
+S
+#19341
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19342
+D2
+~
+~
+0 0 19340
+S
+#19342
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19304
+D2
+~
+~
+0 0 19341
+S
+#19343
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D4
+~
+~
+0 0 19340
+D5
+~
+~
+0 0 19344
+S
+#19344
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D2
+~
+~
+0 0 19345
+D4
+~
+~
+0 0 19343
+S
+#19345
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19344
+D5
+~
+~
+0 0 19346
+S
+#19346
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D2
+~
+~
+0 0 19347
+D4
+~
+~
+0 0 19345
+S
+#19347
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19346
+D5
+~
+~
+0 0 19348
+S
+#19348
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8193 0
+D0
+~
+~
+0 0 19349
+D4
+~
+~
+0 0 19347
+S
+#19349
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19304
+D2
+~
+~
+0 0 19348
+S
+#19350
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19351
+D2
+~
+~
+0 0 19488
+D4
+~
+~
+1 0 19297
+D5
+~
+~
+0 0 19488
+S
+#19351
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D1
+~
+~
+0 0 19352
+D2
+~
+~
+0 0 19350
+D3
+~
+~
+0 0 19488
+S
+#19352
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19488
+D3
+~
+~
+0 0 19351
+D5
+~
+secret~
+2 0 19353
+S
+#19353
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19352
+D5
+~
+~
+0 0 19354
+S
+#19354
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19355
+D2
+~
+~
+0 0 19488
+D4
+~
+~
+0 0 19353
+D5
+~
+~
+0 0 19488
+S
+#19355
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D1
+~
+~
+0 0 19356
+D2
+~
+~
+0 0 19354
+D3
+~
+~
+0 0 19488
+S
+#19356
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19488
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19357
+D3
+~
+~
+0 0 19355
+S
+#19357
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19356
+D1
+~
+~
+0 0 19358
+D2
+~
+~
+0 0 19488
+D3
+~
+~
+0 0 19488
+S
+#19358
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19359
+D1
+~
+~
+0 0 19488
+D2
+~
+~
+0 0 19488
+D3
+~
+~
+0 0 19357
+S
+#19359
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19488
+D1
+~
+~
+0 0 19360
+D2
+~
+~
+0 0 19358
+S
+#19360
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19361
+D3
+~
+~
+0 0 19359
+D4
+~
+~
+0 0 19488
+D5
+~
+secret~
+2 0 19298
+S
+#19361
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D2
+~
+~
+0 0 19360
+D3
+~
+~
+0 0 19362
+S
+#19362
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8201 0
+D0
+~
+~
+0 0 19488
+D1
+~
+~
+0 0 19361
+S
+#19398
+The Dark Corridor~
+You are walking in the dark corridors deep within Amber Palace.  Nothing
+is visible here, just blankets of darkness.  As you stumble along, you
+wonder what may be ahead of you.  You have heard many tales of grisly traps
+and psychotic guards hidden here, and shudder as you hear the sound of a
+sword being drawn in the darkness.  
+~
+0 8205 0
+S
+#0
+
+
+
+#SPECIALS
+M 19401 spec_guard
+M 19423 spec_cast_adept
+M 19436 spec_cast_mage
+M 19437 spec_cast_mage
+M 19450 spec_poison
+M 19452 spec_cast_undead
+M 19453 spec_cast_mage
+M 19454 spec_cast_mage
+M 19455 spec_cast_mage
+M 19456 spec_cast_mage
+M 19458 spec_cast_mage
+M 19459 spec_cast_mage
+M 19460 spec_cast_mage
+M 19461 spec_cast_mage
+M 19462 spec_cast_mage
+M 19463 spec_cast_mage
+M 19465 spec_cast_mage
+M 19466 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 19407 5 1
+D 0 19408 0 1
+D 0 19408 5 1
+D 0 19409 2 1
+D 0 19409 4 1
+D 0 19409 5 1
+D 0 19410 0 1
+D 0 19410 5 1
+D 0 19416 3 1
+D 0 19427 0 1
+D 0 19427 2 1
+D 0 19428 0 1
+D 0 19428 2 1
+D 0 19429 0 1
+D 0 19429 2 1
+D 0 19429 4 1
+D 0 19430 0 1
+D 0 19430 2 1
+D 0 19431 0 1
+D 0 19431 2 1
+D 0 19431 4 1
+D 0 19433 0 1
+D 0 19433 2 1
+D 0 19434 0 1
+D 0 19434 2 1
+D 0 19435 2 1
+D 0 19436 2 1
+D 0 19437 2 1
+D 0 19438 2 1
+D 0 19439 2 1
+D 0 19440 2 1
+D 0 19441 2 1
+D 0 19442 0 1
+D 0 19443 0 1
+D 0 19444 0 1
+D 0 19445 0 1
+D 0 19446 0 1
+D 0 19447 0 1
+D 0 19448 0 1
+D 0 19451 4 1
+D 0 19452 1 2
+D 0 19452 3 2
+D 0 19453 1 2
+D 0 19453 3 2
+D 0 19454 1 2
+D 0 19454 3 2
+D 0 19455 1 2
+D 0 19455 3 2
+D 0 19456 1 2
+D 0 19456 3 2
+D 0 19457 1 2
+D 0 19457 3 2
+D 0 19458 1 2
+D 0 19458 3 2
+D 0 19459 3 1
+D 0 19460 1 1
+D 0 19461 1 1
+D 0 19462 3 1
+D 0 19463 3 1
+D 0 19464 1 1
+D 0 19465 1 1
+D 0 19466 3 1
+D 0 19467 1 1
+D 0 19468 3 1
+D 0 19469 3 1
+D 0 19470 1 1
+D 0 19471 3 1
+D 0 19472 1 1
+D 0 19473 2 1
+D 0 19474 5 1
+D 0 19478 5 1
+D 0 19201 5 1
+D 0 19216 4 1
+D 0 19226 1 1
+D 0 19240 5 1
+D 0 19241 4 1
+D 0 19251 4 1
+D 0 19252 4 1
+D 0 19259 1 1
+D 0 19259 4 1
+D 0 19261 4 1
+D 0 19262 5 1
+D 0 19271 3 1
+D 0 19273 5 1
+D 0 19274 4 1
+D 0 19294 1 1
+D 0 19296 3 1
+D 0 19297 4 1
+D 0 19297 5 1
+D 0 19298 4 1
+D 0 19298 5 1
+D 0 19299 4 1
+D 0 19300 4 1
+D 0 19300 5 1
+D 0 19303 5 1
+D 0 19313 5 1
+D 0 19316 4 1
+D 0 19319 5 1
+D 0 19350 4 1
+D 0 19352 5 1
+D 0 19360 5 1
+M 0 19401 20 19402 1 Load The Amber Guard
+M 0 19401 20 19403 1 Load The Amber Guard
+M 0 19402 20 19404 1 Load The Amber Servant
+M 0 19401 20 19405 1 Load The Amber Guard
+M 0 19402 20 19406 1 Load The Amber Servant
+M 0 19403 6 19407 2 Load The courtier
+M 0 19403 6 19407 2 Load The courtier
+M 0 19401 20 19407 1 Load The Amber Guard
+M 0 19403 6 19408 3 Load The courtier
+M 0 19403 6 19408 3 Load The courtier
+M 0 19401 20 19408 1 Load The Amber Guard
+M 0 19403 6 19409 3 Load The courtier
+M 0 19403 6 19409 3 Load The courtier
+M 0 19401 20 19409 1 Load The Amber Guard
+M 0 19404 1 19410 1 Load The Amber Vassal
+M 0 19401 20 19410 1 Load The Amber Guard
+M 0 19401 20 19411 1 Load The Amber Guard
+M 0 19401 20 19412 1 Load The Amber Guard
+M 0 19401 20 19413 1 Load The Amber Guard
+M 0 19401 20 19415 1 Load The Amber Guard
+M 0 19401 20 19416 1 Load The Amber Guard
+M 0 19401 20 19417 1 Load The Amber Guard
+M 0 19401 20 19419 1 Load The Amber Guard
+M 0 19402 20 19420 1 Load The Amber Servant
+M 0 19402 20 19421 1 Load The Amber Servant
+M 0 19401 20 19423 1 Load The Amber Guard
+M 0 19402 20 19424 1 Load The Amber Servant
+M 0 19417 4 19424 2 Load A hungry guest
+M 0 19402 20 19425 1 Load The Amber Servant
+M 0 19416 2 19425 2 Load The Cook
+M 0 19416 2 19425 2 Load The Cook
+M 0 19402 20 19426 1 Load The Amber Servant
+M 0 19415 1 19426 1 Load Lady Glorinna
+M 0 19414 1 19426 1 Load Lord Gerald
+M 0 19401 20 19427 1 Load The Amber Guard
+M 0 19418 1 19435 1 Load Lord Carheld
+M 0 19420 1 19437 1 Load Lord Wendel
+M 0 19422 1 19439 1 Load Sir Jordan
+M 0 19402 20 19441 1 Load The Amber Servant
+M 0 19423 1 19442 1 Load Witch Gyrine
+M 0 19421 1 19445 1 Load Lady Dunette
+M 0 19419 1 19447 1 Load Duchess Fairholme
+M 0 19402 20 19449 1 Load The Amber Servant
+M 0 19402 20 19450 1 Load The Amber Servant
+M 0 19440 1 19451 1 Load The Dungeon Keeper
+M 0 19452 1 19461 1 Load The Mirror Beast
+M 0 19451 1 19463 1 Load Nathaniel
+M 0 19450 1 19464 1 Load Georgina
+M 0 19448 1 19465 1 Load Dottie
+M 0 19449 1 19466 1 Load Borland
+M 0 19446 1 19467 1 Load Simpson
+M 0 19447 1 19468 1 Load Stanwaithe
+M 0 19444 1 19469 1 Load Track
+M 0 19443 1 19470 1 Load Jezebel
+M 0 19442 1 19471 1 Load Dizam
+M 0 19441 1 19472 1 Load Coran
+M 0 19413 2 19473 2 Load The Armoury Guard
+M 0 19413 2 19473 2 Load The Armoury Guard
+M 0 19429 1 19489 1 Load Minister Abram
+M 0 19435 1 19490 1 Load Lambert
+M 0 19434 1 19491 1 Load Jherag
+M 0 19433 1 19492 1 Load Counselor Sirik
+M 0 19432 1 19493 1 Load Counselor Beels
+M 0 19431 1 19494 1 Load Minister Valence
+M 0 19428 1 19496 1 Load Minister Morris
+M 0 19427 1 19497 1 Load Princess Alanis
+M 0 19426 1 19498 1 Load Prince Shavin
+M 0 19424 1 19499 1 Load Lord Wilham
+M 0 19425 1 19200 1 Load Lady Borneith
+M 0 19436 1 19211 1 Load The Sound Demon
+M 0 19437 1 19212 1 Load The Amber Magician
+M 0 19438 3 19214 3 Load The Treasury Guard
+M 0 19438 3 19214 3 Load The Treasury Guard
+M 0 19438 3 19214 3 Load The Treasury Guard
+M 0 19439 1 19215 1 Load The Amber Treasurer
+M 0 19405 20 19216 5 Load The King's Mistress
+M 0 19405 20 19216 5 Load The King's Mistress
+M 0 19405 20 19217 5 Load The King's Mistress
+M 0 19409 1 19217 1 Load Theana
+M 0 19405 20 19217 5 Load The King's Mistress
+M 0 19405 20 19217 5 Load The King's Mistress
+M 0 19405 20 19218 5 Load The King's Mistress
+M 0 19405 20 19218 5 Load The King's Mistress
+M 0 19405 20 19218 5 Load The King's Mistress
+M 0 19405 20 19220 5 Load The King's Mistress
+M 0 19405 20 19220 5 Load The King's Mistress
+M 0 19405 20 19221 5 Load The King's Mistress
+M 0 19405 20 19221 5 Load The King's Mistress
+M 0 19408 1 19221 1 Load Heather
+M 0 19405 20 19221 5 Load The King's Mistress
+M 0 19405 20 19222 5 Load The King's Mistress
+M 0 19405 20 19222 5 Load The King's Mistress
+M 0 19407 1 19223 1 Load Melodie
+M 0 19405 20 19223 5 Load The King's Mistress
+M 0 19405 20 19223 5 Load The King's Mistress
+M 0 19405 20 19224 5 Load The King's Mistress
+M 0 19405 20 19224 5 Load The King's Mistress
+M 0 19405 20 19225 5 Load The King's Mistress
+M 0 19411 20 19242 20 Load The Queen's Stud
+M 0 19411 20 19242 20 Load The Queen's Stud
+M 0 19410 1 19242 1 Load Biff
+M 0 19411 20 19243 20 Load The Queen's Stud
+M 0 19411 20 19243 20 Load The Queen's Stud
+M 0 19411 20 19244 20 Load The Queen's Stud
+M 0 19411 20 19244 20 Load The Queen's Stud
+M 0 19411 20 19245 20 Load The Queen's Stud
+M 0 19411 20 19245 20 Load The Queen's Stud
+M 0 19411 20 19246 20 Load The Queen's Stud
+M 0 19411 20 19246 20 Load The Queen's Stud
+M 0 19411 20 19247 20 Load The Queen's Stud
+M 0 19411 20 19247 20 Load The Queen's Stud
+M 0 19411 20 19248 20 Load The Queen's Stud
+M 0 19411 20 19248 20 Load The Queen's Stud
+M 0 19412 1 19249 1 Load Arnold
+M 0 19411 20 19249 20 Load The Queen's Stud
+M 0 19411 20 19249 20 Load The Queen's Stud
+M 0 19411 20 19250 20 Load The Queen's Stud
+M 0 19411 20 19250 20 Load The Queen's Stud
+M 0 19464 3 19251 3 Load A military advisor
+M 0 19464 3 19251 3 Load A military advisor
+M 0 19464 3 19251 3 Load A military advisor
+M 0 19453 20 19252 5 Load The High Guard
+M 0 19453 20 19252 5 Load The High Guard
+M 0 19453 20 19253 5 Load The High Guard
+M 0 19453 20 19254 5 Load The High Guard
+M 0 19453 20 19255 5 Load The High Guard
+M 0 19453 20 19257 5 Load The High Guard
+M 0 19453 20 19258 5 Load The High Guard
+M 0 19453 20 19260 5 Load The High Guard
+M 0 19453 20 19262 5 Load The High Guard
+M 0 19458 20 19269 2 Load The High Elite guard
+M 0 19453 20 19270 5 Load The High Guard
+M 0 19466 30 19271 1 Load The amber sentry
+M 0 19454 1 19271 1 Load Princess Amberline
+M 0 19458 20 19271 2 Load The High Elite guard
+M 0 19458 20 19271 2 Load The High Elite guard
+M 0 19466 30 19273 1 Load The amber sentry
+M 0 19455 1 19273 1 Load Princess Tiana
+M 0 19458 20 19273 2 Load The High Elite guard
+M 0 19466 30 19274 1 Load The amber sentry
+M 0 19456 1 19274 1 Load Prince Theopolis
+M 0 19453 20 19275 5 Load The High Guard
+M 0 19457 7 19276 1 Load A Royal relative
+M 0 19457 7 19277 1 Load A Royal relative
+M 0 19457 7 19278 1 Load A Royal relative
+M 0 19457 7 19279 1 Load A Royal relative
+M 0 19457 7 19280 1 Load A Royal relative
+M 0 19457 7 19281 1 Load A Royal relative
+M 0 19458 20 19282 2 Load The High Elite guard
+M 0 19458 20 19282 2 Load The High Elite guard
+M 0 19458 20 19283 2 Load The High Elite guard
+M 0 19458 20 19284 2 Load The High Elite guard
+M 0 19458 20 19284 2 Load The High Elite guard
+M 0 19458 20 19285 2 Load The High Elite guard
+M 0 19458 20 19286 2 Load The High Elite guard
+M 0 19458 20 19286 2 Load The High Elite guard
+M 0 19458 20 19287 2 Load The High Elite guard
+M 0 19458 20 19287 2 Load The High Elite guard
+M 0 19465 1 19294 1 Load The Amber Knight
+M 0 19466 30 19296 2 Load The amber sentry
+M 0 19466 30 19296 2 Load The amber sentry
+M 0 19459 1 19296 1 Load the Amber Queen
+M 0 19458 20 19296 2 Load The High Elite guard
+M 0 19466 30 19297 3 Load The amber sentry
+M 0 19466 30 19297 3 Load The amber sentry
+M 0 19466 30 19297 3 Load The amber sentry
+M 0 19460 1 19297 1 Load The Amber King
+M 0 19458 20 19297 2 Load The High Elite guard
+M 0 19458 20 19297 2 Load The High Elite guard
+M 0 19458 20 19298 2 Load The High Elite guard
+M 0 19463 1 19298 1 Load The Amber Dragon
+M 0 19466 30 19298 3 Load The amber sentry
+M 0 19466 30 19298 3 Load The amber sentry
+M 0 19466 30 19298 3 Load The amber sentry
+M 0 19462 1 19299 1 Load The Amber Protector
+M 0 19466 30 19299 3 Load The amber sentry
+M 0 19466 30 19299 3 Load The amber sentry
+M 0 19466 30 19299 3 Load The amber sentry
+M 0 19461 1 19299 1 Load The Amber Prince
+M 0 19458 20 19299 2 Load The High Elite guard
+M 0 19458 20 19299 2 Load The High Elite guard
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$
