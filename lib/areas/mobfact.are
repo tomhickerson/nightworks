@@ -156,6 +156,7 @@ E
 gear~
 A small, delicate gear with thin spokes, this looks to be of very detailed and 
 high-quality craftsmanship. 
+~
 #0
 
 #ROOMS
@@ -796,6 +797,7 @@ book books~
 One of these is discussing a golem build: "Placing the correct gears inside
 the chest cavity will allow the golem to awaken, but watch out for 
 unexpected behavior cached in its memory tubes."
+~
 S
 #9430
 The Secret Laboratory~

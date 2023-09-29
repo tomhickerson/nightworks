@@ -6668,31 +6668,22 @@ M 0 19458 20 19296 2 Load The High Elite guard
 M 0 19466 30 19297 3 Load The amber sentry
 M 0 19466 30 19297 3 Load The amber sentry
 M 0 19466 30 19297 3 Load The amber sentry
-M 0 19460 1 19297 1 Load The Amber King
-M 0 19458 20 19297 2 Load The High Elite guard
-M 0 19458 20 19297 2 Load The High Elite guard
-M 0 19458 20 19298 2 Load The High Elite guard
-M 0 19463 1 19298 1 Load The Amber Dragon
-M 0 19466 30 19298 3 Load The amber sentry
-M 0 19466 30 19298 3 Load The amber sentry
-M 0 19466 30 19298 3 Load The amber sentry
-M 0 19462 1 19299 1 Load The Amber Protector
-M 0 19466 30 19299 3 Load The amber sentry
-M 0 19466 30 19299 3 Load The amber sentry
-M 0 19466 30 19299 3 Load The amber sentry
-M 0 19461 1 19299 1 Load The Amber Prince
-M 0 19458 20 19299 2 Load The High Elite guard
-M 0 19458 20 19299 2 Load The High Elite guard
+M 0 19460 1 19297 1 * Load The Amber King
+M 0 19458 20 19297 2 * Load The High Elite guard
+M 0 19458 20 19297 2 * Load The High Elite guard
+M 0 19458 20 19298 2 * Load The High Elite guard
+M 0 19463 1 19298 1 * Load The Amber Dragon
+M 0 19466 30 19298 3 * Load The amber sentry
+M 0 19466 30 19298 3 * Load The amber sentry
+M 0 19466 30 19298 3 * Load The amber sentry
+M 0 19462 1 19299 1 * Load The Amber Protector
+M 0 19466 30 19299 3 * Load The amber sentry
+M 0 19466 30 19299 3 * Load The amber sentry
+M 0 19466 30 19299 3 * * Load The amber sentry
+M 0 19461 1 19299 1 * Load The Amber Prince
+M 0 19458 20 19299 2 * Load The High Elite guard
+M 0 19458 20 19299 2 * Load The High Elite guard
 S
 
-
-
-#SHOPS
-0
-
-
-
-#MOBPROGS
-#0
 
 #$

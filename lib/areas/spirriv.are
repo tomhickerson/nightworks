@@ -2,7 +2,7 @@
 RiverSpirit.are~ 
 River of spirits.~ 
 {50 110} RM River of spirits~
-20000 20099
+22100 22199
 
 #HELPS
 -1 spirit~
@@ -13,7 +13,7 @@ Special thanx to Serdar & Anatolia Consortium~
 
 #OBJECTS
 
-#20066
+#22166
 gloves fire ancient~
 a pair of flaming ancient gloves~
 A pair of flaming gloves is burning on the ground.~
@@ -30,7 +30,7 @@ A
 24 -8
 
 
-#20070
+#22170
 scroll ywln~
 a scroll ywln~
 A rolled ywln is here.~
@@ -43,7 +43,7 @@ scroll~
 Just try to recite it and see what happen.
 ~
 
-#20072
+#22172
 paper white~
 a white paper~
 A rolled paper is here.~
@@ -56,7 +56,7 @@ scroll~
 Just try to recite it and see what happen.
 ~
 
-#20073
+#22173
 paper red~
 a red paper~
 A rolled paper is here.~
@@ -69,7 +69,7 @@ scroll~
 Just try to recite it and see what happen.
 ~
 
-#20074
+#22174
 paper green~
 a green paper~
 A rolled paper is here.~
@@ -82,7 +82,7 @@ scroll~
 Just try to recite it and see what happen.
 ~
 
-#20075
+#22175
 paper cyan~
 a cyan paper~
 A rolled paper is here.~
@@ -97,7 +97,7 @@ Just try to recite it and see what happen.
 
 
 
-#20010
+#22110
 cloud~
 an energy cloud~
 An energy cloud is resting here.
@@ -107,7 +107,7 @@ wand G AO
 72 10 10 'lightning breath' 0 
 77 2 19900 P
 
-#20071
+#22171
 cloud~
 an energy cloud~
 An energy cloud is resting here.
@@ -117,7 +117,7 @@ wand G AO
 50 15 15 'lightning breath' 0 
 55 2 28000 P
 
-#20002
+#22102
 flame dragon~
 flame of a dragon~
 A very bright , continues flame.~
@@ -133,14 +133,14 @@ A
 19 6
 A
 24 -5
-#20001
+#22101
 whip fear dragon~
 fear of a lost dragon~
 A whip shaped form of fear lies here.~
 none~
 weapon M AN
 whip 20 6 whip DCE
-90 190 1200000 G
+90 190 1221000 G
 
 
 A
@@ -162,7 +162,7 @@ A
 #MOBILES
 
 
-#20080
+#22180
 ancient wizard~
 the ancient wizard~
 An old man walks around, talking to himself.
@@ -178,7 +178,7 @@ stand stand male 15000
 0 0 medium 0
 
 
-#20014
+#22114
 demon ice~
 an ice demon~
 An ice demon is here resting.
@@ -194,7 +194,7 @@ stand stand male 5000
 ABCDEFG 0 medium 0
 
 
-#20015
+#22115
 lost demon~
 a lost demon~
 A lost demon is here looking for his way.
@@ -210,7 +210,7 @@ CEFKNU AB TPKIL 0
 stand stand male 5000
 ABCDEFG 0 medium 0
 
-#20016
+#22116
 demon angry~
 an angry demon~
 An angry demon is here looking for a victim.
@@ -227,7 +227,7 @@ CEFKNU AB TPKIL 0
 stand stand male 5000
 ABCDEFG 0 medium 0
 
-#20017
+#22117
 demon fire~
 a fire demon~
 A fire demon is here playing with lava.
@@ -242,7 +242,7 @@ CEFKNU AB TPKIL 0
 stand stand male 5000
 ABCDEFG 0 medium 0
 
-#20018
+#22118
 anka bird~
 anka bird~
 An anka bird is here singing songs.
@@ -257,7 +257,7 @@ CEFKNU AB TPKIL 0
 stand stand male 5000
 ABCDEFG 0 medium 0
 
-#20019
+#22119
 watter arial~
 a watter arial~
 A watter arial is here playing with watter.
@@ -272,7 +272,7 @@ stand stand male 5000
 ABCDEFG 0 medium 0
 
 
-#20060
+#22160
 spirit fear dragon~
 Spirit of fear dragon~
 Spirit of fear dragon is here.
@@ -289,7 +289,7 @@ stand stand male 5000
 ABCDEFG 0 medium 0
 
 
-#20000
+#22100
 guardian garden~
 Guardian of garden~
 Guardian of the garden is here
@@ -303,7 +303,7 @@ CEFKNU ABHQY TPKIL J
 stand stand male 5000
 A 0 medium 0
 
-#20001
+#22101
 guardian hell road~
 Guardian of the road~
 Guardian of the hell road is here
@@ -318,7 +318,7 @@ stand stand male 5000
 A 0 medium 0
 
 
-#20002
+#22102
 spirit jonny~
 spirit of jonny~
 Spirit of Jonny is here.
@@ -334,7 +334,7 @@ stand stand male 5000
 A 0 medium 0
 
 
-#20003
+#22103
 spirit kowenno~
 spirit of kowenno~
 Spirit of Kowenno is here.
@@ -349,7 +349,7 @@ stand stand male 5000
 A 0 medium 0
  
 
-#20004
+#22104
 spirit kalel~
 spirit of kalel~
 Spirit of Kalel is here.
@@ -364,7 +364,7 @@ stand stand male 5000
 A 0 medium 0
 
 
-#20005
+#22105
 spirit thenor~
 spirit of thenor~
 Spirit of Thenor is here.
@@ -379,7 +379,7 @@ stand stand male 5000
 A 0 medium 0
 
 
-#20006
+#22106
 spirit neruda~
 spirit of neruda~
 Spirit of Neruda is here.
@@ -394,7 +394,7 @@ stand stand male 5000
 A 0 medium 0
 
 
-#20007
+#22107
 spirit coni~
 spirit of coni~
 Spirit of Coni is here.
@@ -408,7 +408,7 @@ CEFKNU ABCDEFGHIJKLMNOPQRSTXYZ TPKIL J
 stand stand male 5000
 A 0 medium 0
 
-#20008
+#22108
 spirit takasi~
 spirit of takasi~
 Spirit of Takasi is here.
@@ -423,7 +423,7 @@ stand stand male 5000
 A 0 medium 0
  
 
-#20009
+#22109
 spirit rasputin~
 spirit of rasputin~
 Spirit of Rasputin is here.
@@ -457,12 +457,12 @@ D5
 Sewers
 ~
 ~
-0 -1 20001
+0 -1 22101
 
 
 S
 
-#20001
+#22101
 Sewers~
 	This is a dark and terribly smelling tunnel.You can't see the
 start and the end of the tunnel.Just the sound coming from the
@@ -478,7 +478,7 @@ D2
 It is too dark.
 ~
 ~
-0 -1 20002
+0 -1 22102
 
 D4
 You can't see properly.
@@ -502,7 +502,7 @@ small tablet~
 ~
 S
 
-#20002
+#22102
 Dark tunnel~
 	You still feel that terrible smell.From where does it come?
 There is watter ant he floor of tunnel but it's so clear that you can
@@ -515,19 +515,19 @@ D0
 Sewers
 ~
 ~
-0 -1 20001
+0 -1 22101
 
 D1
 Dark tunnel
 ~
 ~
-0 -1 20003
+0 -1 22103
 
 
 S
 
 
-#20003
+#22103
 Dark tunnel~
 	The tunnel is dark and frightening.You still fell that smell and
 hear this meanless sound, what is it ? It sounds like a warning message,
@@ -541,17 +541,17 @@ D3
 The dark tunnel
 ~
 ~
-0 -1 20002
+0 -1 22102
 
 D1
 The dark tunnel
 ~
 ~
-0 -1 20004
+0 -1 22104
 S
 
 
-#20004
+#22104
 Dark tunnel~
 	The tunnel is dark and frightening.You still fell that smell and
 hear this meanless sound, what is it ? It sounds like a warning message,
@@ -565,17 +565,17 @@ D3
 The dark tunnel
 ~
 ~
-0 -1 20003
+0 -1 22103
 
 D0
 The dark tunnel
 ~
 ~
-0 -1 20005
+0 -1 22105
 S
 
 
-#20005
+#22105
 Dark tunnel~
 	The tunnel is dark and frightening.You still fell that smell and
 hear this meanless sound, what is it ? It sounds like a warning message,
@@ -589,17 +589,17 @@ D2
 The dark tunnel
 ~
 ~
-0 -1 20004
+0 -1 22104
 
 D1
 The dark tunnel
 ~
 ~
-0 -1 20006
+0 -1 22106
 S
 
 
-#20006
+#22106
 Dark tunnel~
 	The tunnel is dark and frightening.You still fell that smell and
 hear this meanless sound, what is it ? It sounds like a warning message,
@@ -613,17 +613,17 @@ D3
 The dark tunnel
 ~
 ~
-0 -1 20005
+0 -1 22105
 
 D0
 The dark tunnel
 ~
 ~
-0 -1 20007
+0 -1 22107
 S
 
 
-#20007
+#22107
 Dark tunnel~
 	The tunnel is dark and frightening.You still fell that smell and
 hear this meanless sound, what is it ? It sounds like a warning message,
@@ -637,17 +637,17 @@ D2
 The dark tunnel
 ~
 ~
-0 -1 20006
+0 -1 22106
 
 D0
 The dark tunnel
 ~
 ~
-0 -1 20008
+0 -1 22108
 S
 
 
-#20008
+#22108
 Dark tunnel~
 	The tunnel is dark and frightening.You still fell that smell and
 hear this meanless sound, what is it ? It sounds like a warning message,
@@ -661,17 +661,17 @@ D2
 The dark tunnel
 ~
 ~
-0 -1 20007
+0 -1 22107
 
 D0
 The dark tunnel
 ~
 ~
-0 -1 20009
+0 -1 22109
 S
 
 
-#20009
+#22109
 Dark tunnel~
 	The tunnel is dark and frightening.You still fell that smell and
 hear this meanless sound, what is it ? It sounds like a warning message,
@@ -685,17 +685,17 @@ D2
 The dark tunnel
 ~
 ~
-0 -1 20008
+0 -1 22108
 
 D1
 The dark tunnel
 ~
 ~
-0 -1 20010
+0 -1 22110
 S
 
 
-#20010
+#22110
 Dark tunnel~
 	The tunnel is dark and frightening.You still fell that smell and
 hear this meanless sound, what is it ? It sounds like a warning message,
@@ -709,17 +709,17 @@ D3
 The dark tunnel
 ~
 ~
-0 -1 20009
+0 -1 22109
 
 D1
 The dark tunnel
 ~
 ~
-0 -1 20011
+0 -1 22111
 S
 
 
-#20011
+#22111
 Dark tunnel~
 	The tunnel is dark and frightening.You still fell that smell and
 hear this meanless sound, what is it ? It sounds like a warning message,
@@ -733,17 +733,17 @@ D3
 The dark tunnel
 ~
 ~
-0 -1 20010
+0 -1 22110
 
 D1
 The dark tunnel
 ~
 ~
-0 -1 20012
+0 -1 22112
 S
 
 
-#20012
+#22112
 Dark tunnel~
 	At last you see a light at the end of the tunnel, and the sound
 got clear.You don't feel that smell anymore.And the sound , you realise
@@ -757,17 +757,17 @@ D3
 The dark tunnel
 ~
 ~
-0 -1 20011
+0 -1 22111
 
 D0
 The dark tunnel
 ~
 ~
-0 -1 20013
+0 -1 22113
 S
 
 
-#20013
+#22113
 Exit of the dark tunnel~
 	It's brighter now.You can see all around without the help of your
 light source.It's more clear that the sound is coming from a waterfall.
@@ -780,17 +780,17 @@ D2
 The dark tunnel
 ~
 ~
-0 -1 20012
+0 -1 22112
 
 D1
 Watterfall.
 ~
 ~
-0 -1 20014
+0 -1 22114
 S
 
 
-#20014
+#22114
 Waterfall~
 .
 .
@@ -829,11 +829,11 @@ D2
 The dark tunnel
 ~
 ~
-0 -1 20015
+0 -1 22115
 S
 
 
-#20015
+#22115
 River of spirits~
 This is a wonderful place with full of peace.The river you are on is
 wonderful. Birds and flowers everywhere, and the sound of birds, peaceful
@@ -846,34 +846,11 @@ D1
 River of spirits
 ~
 ~
-0 -1 20016
+0 -1 22116
 
 S
 
-#20016
-River of spirits~
-This is a wonderful place with full of peace.The river you are on is
-wonderful. Birds and flowers everywhere, and the sound of birds, peaceful
-isn't it?
-~
-
-0 0 6
-
-D3
-River of spirits
-~
-~
-0 -1 20015
-
-D1
-River of spirits
-~
-~
-0 -1 20017
-
-S
-
-#20017
+#22116
 River of spirits~
 This is a wonderful place with full of peace.The river you are on is
 wonderful. Birds and flowers everywhere, and the sound of birds, peaceful
@@ -886,24 +863,47 @@ D3
 River of spirits
 ~
 ~
-0 -1 20016
+0 -1 22115
 
 D1
 River of spirits
 ~
 ~
-0 -1 20018
+0 -1 22117
+
+S
+
+#22117
+River of spirits~
+This is a wonderful place with full of peace.The river you are on is
+wonderful. Birds and flowers everywhere, and the sound of birds, peaceful
+isn't it?
+~
+
+0 0 6
+
+D3
+River of spirits
+~
+~
+0 -1 22116
+
+D1
+River of spirits
+~
+~
+0 -1 22118
 
 D2
 hell road
 ~
 ~
-0 -1 20037
+0 -1 22137
 
 
 S
 
-#20018
+#22118
 River of spirits~
 This is a wonderful place with full of peace.The river you are on is
 wonderful. Birds and flowers everywhere, and the sound of birds, peaceful
@@ -916,24 +916,24 @@ D3
 River of spirits
 ~
 ~
-0 -1 20017
+0 -1 22117
 
 D1
 River of spirits
 ~
 ~
-0 -1 20019
+0 -1 22119
 
 D0
 garden road
 ~
 ~
-0 -1 20028
+0 -1 22128
 
 
 S
 
-#20019
+#22119
 River of spirits~
 This is a wonderful place with full of peace.The river you are on is
 wonderful. Birds and flowers everywhere, and the sound of birds, peaceful
@@ -946,17 +946,17 @@ D3
 River of spirits
 ~
 ~
-0 -1 20018
+0 -1 22118
 
 D1
 River of spirits
 ~
 ~
-0 -1 20020
+0 -1 22120
 
 S
 
-#20020
+#22120
 River of spirits~
 This is a wonderful place with full of peace.The river you are on is
 wonderful. Birds and flowers everywhere, and the sound of birds, peaceful
@@ -969,23 +969,23 @@ D3
 River of spirits
 ~
 ~
-0 -1 20019
+0 -1 22119
 
 D1
 River of spirits
 ~
 ~
-0 -1 20021
+0 -1 22121
 D2
 hell road
 ~
 ~
-0 -1 20040
+0 -1 22140
 
 
 S
 
-#20021
+#22121
 River of spirits~
 This is a wonderful place with full of peace.The river you are on is
 wonderful. Birds and flowers everywhere, and the sound of birds, peaceful
@@ -997,24 +997,24 @@ D0
 garden road
 ~
 ~
-0 -1 20031
+0 -1 22131
 
 
 D3
 River of spirits
 ~
 ~
-0 -1 20020
+0 -1 22120
 
 D1
 River of spirits
 ~
 ~
-0 -1 20022
+0 -1 22122
 
 S
 
-#20022
+#22122
 River of spirits~
 This is a wonderful place with full of peace.The river you are on is
 wonderful. Birds and flowers everywhere, and the sound of birds, peaceful
@@ -1027,17 +1027,17 @@ D3
 River of spirits
 ~
 ~
-0 -1 20021
+0 -1 22121
 
 D1
 River of spirits
 ~
 ~
-0 -1 20023
+0 -1 22123
 
 S
 
-#20023
+#22123
 River of spirits~
 This is a wonderful place with full of peace.The river you are on is
 wonderful. Birds and flowers everywhere, and the sound of birds, peaceful
@@ -1049,24 +1049,24 @@ D0
 garden road
 ~
 ~
-0 -1 20033
+0 -1 22133
 
 
 D3
 River of spirits
 ~
 ~
-0 -1 20022
+0 -1 22122
 
 D1
 River of spirits
 ~
 ~
-0 -1 20024
+0 -1 22124
 
 S
 
-#20024
+#22124
 River of spirits~
 This is a wonderful place with full of peace.The river you are on is
 wonderful. Birds and flowers everywhere, and the sound of birds, peaceful
@@ -1079,17 +1079,17 @@ D3
 River of spirits
 ~
 ~
-0 -1 20023
+0 -1 22123
 
 D1
 ocean of neutrality
 ~
 ~
-0 -1 20045
+0 -1 22145
 
 S
 
-#20025
+#22125
 Garden road~
    This road seems to confine forever, on one side of the road is river
 and the other side is a beautiful flower garden, birds, trees, flowers
@@ -1104,12 +1104,12 @@ D1
 garden road
 ~
 ~
-0 -1 20026
+0 -1 22126
 
 S
 
 
-#20026
+#22126
 Garden road~
    This road seems to confine forever, on one side of the road is river
 and the other side is a beautiful flower garden , birds , trees , flowers
@@ -1124,18 +1124,18 @@ D3
 garden road
 ~
 ~
-0 -1 20025
+0 -1 22125
 
 D1
 garden road
 ~
 ~
-0 -1 20027
+0 -1 22127
 
 S
 
 
-#20027
+#22127
 Garden road~
    This road seems to confine forever, on one side of the road is river
 and the other side is a beautiful flower garden , birds , trees , flowers
@@ -1149,19 +1149,19 @@ D3
 garden road
 ~
 ~
-0 -1 20026
+0 -1 22126
 
 
 D1
 garden road
 ~
 ~
-0 -1 20028
+0 -1 22128
 
 S
 
 
-#20028
+#22128
 Garden road~
    This road seems to continue forever, on one side of the road is river
    and the other side is a beautiful flower garden , birds , trees , flowers
@@ -1176,25 +1176,25 @@ D2
 river of spirits
 ~
 ~
-0 -1 20018
+0 -1 22118
 
 D3
 garden road
 ~
 ~
-0 -1 20027
+0 -1 22127
 
 
 D1
 garden road
 ~
 ~
-0 -1 20029
+0 -1 22129
 
 S
 
 
-#20029
+#22129
 Garden road~
    This road seems to continue forever, on one side of the road is river
    and the other side is a beautiful flower garden , birds , trees , flowers
@@ -1208,18 +1208,18 @@ D3
 garden road
 ~
 ~
-0 -1 20028
+0 -1 22128
 
 D1
 garden road
 ~
 ~
-0 -1 20030
+0 -1 22130
 
 S
 
 
-#20030
+#22130
 Garden road~
    This road seems to continue forever, on one side of the road is river
    and the other side is a beautiful flower garden , birds , trees , flowers
@@ -1233,79 +1233,19 @@ D3
 garden road
 ~
 ~
-0 -1 20029
+0 -1 22129
 
 
 D1
 garden road
 ~
 ~
-0 -1 20031
+0 -1 22131
 
 S
 
 
-#20031
-Garden road~
-   This road seems to continue forever, on one side of the road is river
-   and the other side is a beautiful flower garden , birds , trees , flowers
-   peace and the spirits, they look happy because of being here.Yes you see
-   goodness because of being good in real life , this must be heaven , or part
-   of heaven yes this wonderful place is part of heaven.
-~
-
-0 0 3
-
-D2
-river of spirits
-~
-~
-0 -1 20021
-
-
-D3
-garden road
-~
-~
-0 -1 20030
-
-
-D1
-garden road
-~
-~
-0 -1 20032
-
-S
-
-
-#20032
-Garden road~
-   This road seems to continue forever, on one side of the road is river
-   and the other side is a beautiful flower garden , birds , trees , flowers
-   peace and the spirits, they look happy because of being here.Yes you see
-   goodness because of being good in real life , this must be heaven , or part
-   of heaven yes this wonderful place is part of heaven.
-~
-
-0 0 3
-D3
-garden road
-~
-~
-0 -1 20031
-
-
-D1
-garden road
-~
-~
-0 -1 20033
-
-S
-
-
-#20033
+#22131
 Garden road~
    This road seems to continue forever, on one side of the road is river
    and the other side is a beautiful flower garden , birds , trees , flowers
@@ -1320,26 +1260,86 @@ D2
 river of spirits
 ~
 ~
-0 -1 20023
+0 -1 22121
 
 
 D3
 garden road
 ~
 ~
-0 -1 20032
+0 -1 22130
 
 
 D1
 garden road
 ~
 ~
-0 -1 20034
+0 -1 22132
 
 S
 
 
-#20034
+#22132
+Garden road~
+   This road seems to continue forever, on one side of the road is river
+   and the other side is a beautiful flower garden , birds , trees , flowers
+   peace and the spirits, they look happy because of being here.Yes you see
+   goodness because of being good in real life , this must be heaven , or part
+   of heaven yes this wonderful place is part of heaven.
+~
+
+0 0 3
+D3
+garden road
+~
+~
+0 -1 22131
+
+
+D1
+garden road
+~
+~
+0 -1 22133
+
+S
+
+
+#22133
+Garden road~
+   This road seems to continue forever, on one side of the road is river
+   and the other side is a beautiful flower garden , birds , trees , flowers
+   peace and the spirits, they look happy because of being here.Yes you see
+   goodness because of being good in real life , this must be heaven , or part
+   of heaven yes this wonderful place is part of heaven.
+~
+
+0 0 3
+
+D2
+river of spirits
+~
+~
+0 -1 22123
+
+
+D3
+garden road
+~
+~
+0 -1 22132
+
+
+D1
+garden road
+~
+~
+0 -1 22134
+
+S
+
+
+#22134
 Garden road~
    This road seems to continue forever, on one side of the road is river
       and the other side is a beautiful flower garden , birds , trees , flowers
@@ -1353,18 +1353,18 @@ D3
 garden road
 ~
 ~
-0 -1 20033
+0 -1 22133
 
 
 D1
 ocean of neutrality
 ~
 ~
-0 -1 20045
+0 -1 22145
 
 S
 
-#20035
+#22135
 Hell road~
    My god.What is this? There was no such view from looking the river, you
 got shocked.What happened here , why all the trees burned? Is this a result
@@ -1378,10 +1378,10 @@ D1
 hell road
 ~
 ~
-0 -1 20036
+0 -1 22136
 
 S
-#20036
+#22136
 Hell road~
    My god.What is this? Here was no such view from looking the river, you
 got shocked.What happened here , why all the trees burned? Is this a result
@@ -1395,17 +1395,17 @@ D3
 hell road
 ~
 ~
-0 -1 20035
+0 -1 22135
 
 D1
 hell road
 ~
 ~
-0 -1 20037
+0 -1 22137
 
 S
 
-#20037
+#22137
 Hell road~
    My god.What is this? Here was no such view from looking the river, you
 got shocked.What happened here , why all the trees burned? Is this a result
@@ -1419,24 +1419,24 @@ D0
 river of spirits
 ~
 ~
-0 -1 20017
+0 -1 22117
 
 
 D3
 hell road
 ~
 ~
-0 -1 20036
+0 -1 22136
 
 D1
 hell road
 ~
 ~
-0 -1 20038
+0 -1 22138
 
 S
 
-#20038
+#22138
 Hell road~
    My god.What is this? Here was no such view from looking the river, you
 got shocked.What happened here , why all the trees burned? Is this a result
@@ -1450,17 +1450,17 @@ D3
 hell road
 ~
 ~
-0 -1 20037
+0 -1 22137
 
 D1
 hell road
 ~
 ~
-0 -1 20039
+0 -1 22139
 
 S
 
-#20039
+#22139
 Hell road~
    My god.What is this? Here was no such view from looking the river, you
 got shocked.What happened here , why all the trees burned? Is this a result
@@ -1474,17 +1474,17 @@ D3
 hell road
 ~
 ~
-0 -1 20038
+0 -1 22138
 
 D1
 hell road
 ~
 ~
-0 -1 20040
+0 -1 22140
 
 S
 
-#20040
+#22140
 Hell road~
    My god.What is this? Here was no such view from looking the river, you
 got shocked.What happened here , why all the trees burned? Is this a result
@@ -1498,24 +1498,24 @@ D0
 river of spirits
 ~
 ~
-0 -1 20020
+0 -1 22120
 
 
 D3
 hell road
 ~
 ~
-0 -1 20039
+0 -1 22139
 
 D1
 hell road
 ~
 ~
-0 -1 20041
+0 -1 22141
 
 S
 
-#20041
+#22141
 Hell road~
    My god.What is this? Here was no such view from looking the river, you
 got shocked.What happened here , why all the trees burned? Is this a result
@@ -1529,17 +1529,17 @@ D3
 hell road
 ~
 ~
-0 -1 20040
+0 -1 22140
 
 D1
 hell road
 ~
 ~
-0 -1 20042
+0 -1 22142
 
 S
 
-#20042
+#22142
 Hell road~
    My god.What is this? Here was no such view from looking the river, you
 got shocked.What happened here , why all the trees burned? Is this a result
@@ -1553,17 +1553,17 @@ D3
 hell road
 ~
 ~
-0 -1 20041
+0 -1 22141
 
 D1
 hell road
 ~
 ~
-0 -1 20043
+0 -1 22143
 
 S
 
-#20043
+#22143
 Hell road~
    My god.What is this? Here was no such view from looking the river, you
 got shocked.What happened here , why all the trees burned? Is this a result
@@ -1577,17 +1577,17 @@ D3
 hell road
 ~
 ~
-0 -1 20042
+0 -1 22142
 
 D1
 hell road
 ~
 ~
-0 -1 20044
+0 -1 22144
 
 S
 
-#20044
+#22144
 Hell road~
    My god.What is this? Here was no such view from looking the river, you
 got shocked.What happened here , why all the trees burned? Is this a result
@@ -1601,17 +1601,17 @@ D3
 hell road
 ~
 ~
-0 -1 20043
+0 -1 22143
 
 D1
 ocean of neutrality
 ~
 ~
-0 -1 20045
+0 -1 22145
 
 S
 
-#20045
+#22145
 Ocean of neutrality~
    All you see the endless watter , surrounding you!With the whole
 loneliness and the balance between evil and good, ugly and beauty, chaos
@@ -1625,29 +1625,29 @@ D0
 infinite neutrality
 ~
 ~
-0 0 20055
+0 0 22155
 
 D1
 infinite neutrality
 ~
 ~
-0 0 20046
+0 0 22146
 
 D2
 infinite neutrality
 ~
 ~
-0 0 20050
+0 0 22150
 
 D3
 infinite neutrality
 ~
 ~
-0 0 20024
+0 0 22124
 
 S
 
-#20046
+#22146
 Ocean of neutrality~
    All you see the endless watter , surrounding you!With the whole
 loneliness and the balance between evil and good, ugly and beauty, chaos
@@ -1661,29 +1661,29 @@ D0
 infinite neutrality
 ~
 ~
-0 0 20056
+0 0 22156
 
 D1
 infinite neutrality
 ~
 ~
-0 0 20047
+0 0 22147
 
 D2
 infinite neutrality
 ~
 ~
-0 0 20051
+0 0 22151
 
 D3
 infinite neutrality
 ~
 ~
-0 0 20045
+0 0 22145
 
 S
 
-#20047
+#22147
 Ocean of neutrality~
    All you see the endless watter , surrounding you!With the whole
 loneliness and the balance between evil and good, ugly and beauty, chaos
@@ -1697,29 +1697,29 @@ D0
 infinite neutrality
 ~
 ~
-0 0 20057
+0 0 22157
 
 D1
 infinite neutrality
 ~
 ~
-0 0 20048
+0 0 22148
 
 D2
 infinite neutrality
 ~
 ~
-0 0 20052
+0 0 22152
 
 D3
 infinite neutrality
 ~
 ~
-0 0 20046
+0 0 22146
 
 S
 
-#20048
+#22148
 Ocean of neutrality~
    All you see the endless watter , surrounding you!With the whole
 loneliness and the balance between evil and good, ugly and beauty, chaos
@@ -1733,29 +1733,29 @@ D0
 infinite neutrality
 ~
 ~
-0 0 20058
+0 0 22158
 
 D1
 infinite neutrality
 ~
 ~
-0 0 20049
+0 0 22149
 
 D2
 infinite neutrality
 ~
 ~
-0 0 20053
+0 0 22153
 
 D3
 infinite neutrality
 ~
 ~
-0 0 20047
+0 0 22147
 
 S
 
-#20049
+#22149
 Ocean of neutrality~
    All you see the endless watter , surrounding you!With the whole
 loneliness and the balance between evil and good, ugly and beauty, chaos
@@ -1769,28 +1769,28 @@ D0
 infinite neutrality
 ~
 ~
-0 0 20059
+0 0 22159
 D1
 deep hole
 ~
 ~
-0 0 20060
+0 0 22160
 
 D2
 infinite neutrality
 ~
 ~
-0 0 20054
+0 0 22154
 
 D3
 infinite neutrality
 ~
 ~
-0 0 20048
+0 0 22148
 
 S
 
-#20050
+#22150
 Ocean of neutrality~
    All you see the endless watter , surrounding you!With the whole
 loneliness and the balance between evil and good, ugly and beauty, chaos
@@ -1804,29 +1804,29 @@ D0
 infinite neutrality
 ~
 ~
-0 0 20045
+0 0 22145
 
 D1
 infinite neutrality
 ~
 ~
-0 0 20051
+0 0 22151
 
 D2
 infinite neutrality
 ~
 ~
-0 0 20055
+0 0 22155
 
 D3
 infinite neutrality
 ~
 ~
-0 0 20054
+0 0 22154
 
 S
 
-#20051
+#22151
 Ocean of neutrality~
    All you see the endless watter , surrounding you!With the whole
 loneliness and the balance between evil and good, ugly and beauty, chaos
@@ -1840,29 +1840,29 @@ D0
 infinite neutrality
 ~
 ~
-0 0 20046
+0 0 22146
 
 D1
 infinite neutrality
 ~
 ~
-0 0 20052
+0 0 22152
 
 D2
 infinite neutrality
 ~
 ~
-0 0 20056
+0 0 22156
 
 D3
 infinite neutrality
 ~
 ~
-0 0 20050
+0 0 22150
 
 S
 
-#20052
+#22152
 Ocean of neutrality~
    All you see the endless watter , surrounding you!With the whole
 loneliness and the balance between evil and good, ugly and beauty, chaos
@@ -1876,29 +1876,29 @@ D0
 infinite neutrality
 ~
 ~
-0 0 20047
+0 0 22147
 
 D1
 infinite neutrality
 ~
 ~
-0 0 20053
+0 0 22153
 
 D2
 infinite neutrality
 ~
 ~
-0 0 20057
+0 0 22157
 
 D3
 infinite neutrality
 ~
 ~
-0 0 20051
+0 0 22151
 
 S
 
-#20053
+#22153
 Ocean of neutrality~
    All you see the endless watter , surrounding you!With the whole
 loneliness and the balance between evil and good, ugly and beauty, chaos
@@ -1912,29 +1912,29 @@ D0
 infinite neutrality
 ~
 ~
-0 0 20048
+0 0 22148
 
 D1
 infinite neutrality
 ~
 ~
-0 0 20054
+0 0 22154
 
 D2
 infinite neutrality
 ~
 ~
-0 0 20058
+0 0 22158
 
 D3
 infinite neutrality
 ~
 ~
-0 0 20052
+0 0 22152
 
 S
 
-#20054
+#22154
 Ocean of neutrality~
    All you see the endless watter , surrounding you!With the whole
 loneliness and the balance between evil and good, ugly and beauty, chaos
@@ -1948,29 +1948,29 @@ D0
 infinite neutrality
 ~
 ~
-0 0 20049
+0 0 22149
 
 D1
 infinite neutrality
 ~
 ~
-0 0 20050
+0 0 22150
 
 D2
 infinite neutrality
 ~
 ~
-0 0 20059
+0 0 22159
 
 D3
 infinite neutrality
 ~
 ~
-0 0 20053
+0 0 22153
 
 S
 
-#20055
+#22155
 Ocean of neutrality~
    All you see the endless watter , surrounding you!With the whole
 loneliness and the balance between evil and good, ugly and beauty, chaos
@@ -1984,29 +1984,29 @@ D0
 infinite neutrality
 ~
 ~
-0 0 20050
+0 0 22150
 
 D1
 infinite neutrality
 ~
 ~
-0 0 20056
+0 0 22156
 
 D2
 infinite neutrality
 ~
 ~
-0 0 20045
+0 0 22145
 
 D3
 infinite neutrality
 ~
 ~
-0 0 20059
+0 0 22159
 
 S
 
-#20056
+#22156
 Ocean of neutrality~
    All you see the endless watter , surrounding you!With the whole
 loneliness and the balance between evil and good, ugly and beauty, chaos
@@ -2020,29 +2020,29 @@ D0
 infinite neutrality
 ~
 ~
-0 0 20051
+0 0 22151
 
 D1
 infinite neutrality
 ~
 ~
-0 0 20057
+0 0 22157
 
 D2
 infinite neutrality
 ~
 ~
-0 0 20046
+0 0 22146
 
 D3
 infinite neutrality
 ~
 ~
-0 0 20055
+0 0 22155
 
 S
 
-#20057
+#22157
 Ocean of neutrality~
    All you see the endless watter , surrounding you!With the whole
 loneliness and the balance between evil and good, ugly and beauty, chaos
@@ -2056,29 +2056,29 @@ D0
 infinite neutrality
 ~
 ~
-0 0 20052
+0 0 22152
 
 D1
 infinite neutrality
 ~
 ~
-0 0 20058
+0 0 22158
 
 D2
 infinite neutrality
 ~
 ~
-0 0 20047
+0 0 22147
 
 D3
 infinite neutrality
 ~
 ~
-0 0 20056
+0 0 22156
 
 S
 
-#20058
+#22158
 Ocean of neutrality~
    All you see the endless watter , surrounding you!With the whole
 loneliness and the balance between evil and good, ugly and beauty, chaos
@@ -2092,29 +2092,29 @@ D0
 infinite neutrality
 ~
 ~
-0 0 20053
+0 0 22153
 
 D1
 infinite neutrality
 ~
 ~
-0 0 20059
+0 0 22159
 
 D2
 infinet neutrality
 ~
 ~
-0 0 20048
+0 0 22148
 
 D3
 infinet neutrality
 ~
 ~
-0 0 20057
+0 0 22157
 
 S
 
-#20059
+#22159
 Ocean of neutrality~
    All you see the endless watter , surrounding you!With the whole
 loneliness and the balance between evil and good, ugly and beauty, chaos
@@ -2128,23 +2128,23 @@ D0
 infinite neutrality
 ~
 ~
-0 0 20054
+0 0 22154
 
 D1
 infinite neutrality
 ~
 ~
-0 0 20055
+0 0 22155
 
 D3
 infinite neutrality
 ~
 ~
-0 0 20058
+0 0 22158
 
 S
 
-#20060
+#22160
 Deep hole~
 	You are at the bottom of a deep hole you can see around ,
 you realise that there is no exit; a place able to keep a powerful 
@@ -2157,100 +2157,100 @@ S
 #0
 
 #RESETS
-R 0 20045 4     *ocean of neutrality
-R 0 20046 4     *ocean of neutrality
-R 0 20047 4     *ocean of neutrality
-R 0 20048 4     *ocean of neutrality
-R 0 20049 3     *ocean of neutrality
-R 0 20050 4     *ocean of neutrality
-R 0 20051 4     *ocean of neutrality
-R 0 20052 4     *ocean of neutrality
-R 0 20053 4     *ocean of neutrality
-R 0 20054 4     *ocean of neutrality
-R 0 20055 4     *ocean of neutrality
-R 0 20056 4     *ocean of neutrality
-R 0 20057 4     *ocean of neutrality
-R 0 20058 4     *ocean of neutrality
-R 0 20059 3     *ocean of neutrality
+R 0 22145 4     *ocean of neutrality
+R 0 22146 4     *ocean of neutrality
+R 0 22147 4     *ocean of neutrality
+R 0 22148 4     *ocean of neutrality
+R 0 22149 3     *ocean of neutrality
+R 0 22150 4     *ocean of neutrality
+R 0 22151 4     *ocean of neutrality
+R 0 22152 4     *ocean of neutrality
+R 0 22153 4     *ocean of neutrality
+R 0 22154 4     *ocean of neutrality
+R 0 22155 4     *ocean of neutrality
+R 0 22156 4     *ocean of neutrality
+R 0 22157 4     *ocean of neutrality
+R 0 22158 4     *ocean of neutrality
+R 0 22159 3     *ocean of neutrality
  
-M 0 20000 4 20028 2       *1. guardian
-E 0 20010 -1 17
-E 0 20066 -1 14
+M 0 22100 4 22128 2       *1. guardian
+E 0 22110 -1 17
+E 0 22166 -1 14
 
-M 0 20000 4 20035 2       *1. guardian
-E 0 20010 -1 17
-M 0 20001 4 20037 2       *2. guardian
-E 0 20010 -1 17
-M 0 20001 4 20040 2       *2. guardian
-E 0 20010 -1 17
+M 0 22100 4 22135 2       *1. guardian
+E 0 22110 -1 17
+M 0 22101 4 22137 2       *2. guardian
+E 0 22110 -1 17
+M 0 22101 4 22140 2       *2. guardian
+E 0 22110 -1 17
 
-M 0 20060 1 20060 1	  *spirit dragon
-E 0 20002 -1 1
-E 0 20001 -1 16
+M 0 22160 1 22160 1	  *spirit dragon
+E 0 22102 -1 1
+E 0 22101 -1 16
  
-M 0 20002 1 20035 1       *jonny
-M 0 20003 1 20039 1       *kowenno
-M 0 20004 1 20041 1       *neruda
-M 0 20005 1 20025 1       *kalel
-M 0 20006 1 20037 1       *thenor
-M 0 20007 1 20030 1       *coni
-M 0 20008 1 20032 1       *takasi
-M 0 20009 1 20038 1       *rasputin
+M 0 22102 1 22135 1       *jonny
+M 0 22103 1 22139 1       *kowenno
+M 0 22104 1 22141 1       *neruda
+M 0 22105 1 22125 1       *kalel
+M 0 22106 1 22137 1       *thenor
+M 0 22107 1 22130 1       *coni
+M 0 22108 1 22132 1       *takasi
+M 0 22109 1 22138 1       *rasputin
 
-M 0 20014 3 20035 2
-M 0 20014 3 20045 2
-M 0 20014 3 20025 2
+M 0 22114 3 22135 2
+M 0 22114 3 22145 2
+M 0 22114 3 22125 2
 
-M 0 20015 3 20037 2
-M 0 20015 3 20047 2
-M 0 20015 3 20027 2
+M 0 22115 3 22137 2
+M 0 22115 3 22147 2
+M 0 22115 3 22127 2
 
-M 0 20016 3 20045 2
-M 0 20016 3 20031 2
-M 0 20016 3 20056 2
+M 0 22116 3 22145 2
+M 0 22116 3 22131 2
+M 0 22116 3 22156 2
 
-M 0 20017 3 20040 2
-M 0 20017 3 20021 2
-M 0 20017 3 20027 2
+M 0 22117 3 22140 2
+M 0 22117 3 22121 2
+M 0 22117 3 22127 2
 
-M 0 20018 3 20039 2
-M 0 20018 3 20036 2
-M 0 20018 3 20032 2
+M 0 22118 3 22139 2
+M 0 22118 3 22136 2
+M 0 22118 3 22132 2
 
-M 0 20019 3 20028 2
-M 0 20019 3 20032 2
-M 0 20019 3 20025 2
+M 0 22119 3 22128 2
+M 0 22119 3 22132 2
+M 0 22119 3 22125 2
 
-M 0 20080   1 20025  1	* the wizard
-G 1 20070  -1     	*   scroll
-G 1 20071  -1		*   wand
-G 1 20072  -1		*   paper hate
-G 1 20073  -1		*   paper hate
-G 1 20074  -1		*   paper hate
-G 1 20075  -1		*   paper hate
+M 0 22180   1 22125  1	* the wizard
+G 1 22170  -1     	*   scroll
+G 1 22171  -1		*   wand
+G 1 22172  -1		*   paper hate
+G 1 22173  -1		*   paper hate
+G 1 22174  -1		*   paper hate
+G 1 22175  -1		*   paper hate
 
 S
 
 #SPECIALS
-M 20060 spec_cast_mage *dragon
-M 20080 spec_cast_mage *wizard
+M 22160 spec_cast_mage *dragon
+M 22180 spec_cast_mage *wizard
 S
 
 #OLIMITS
-O 20001 3 * fear of a lost dragon
-O 20066 3 *ancient gloves
+O 22101 3 * fear of a lost dragon
+O 22166 3 *ancient gloves
 
 S
 
 #OMPROGS
-O 20066 fight_prog fight_prog_ancient_gloves
-O 20066 wear_prog wear_prog_ancient_gloves
-O 20066 remove_prog remove_prog_ancient_gloves
+O 22166 fight_prog fight_prog_ancient_gloves
+O 22166 wear_prog wear_prog_ancient_gloves
+O 22166 remove_prog remove_prog_ancient_gloves
 S
 
 
 #SHOPS
-20080  2  3  4 10  0 	 105  15 	 0 23 	* the ancient wizard
+22180  2  3  4 10  0 	 105  15 	 0 23 	* the ancient wizard
 
 0
 
