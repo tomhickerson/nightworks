@@ -1301,18 +1301,19 @@ D2
 S
 #8855
 Approaching Mirkwood~
-The forest begins to surround you as you step into its depths. The path
-abruptly turns to the north and you continue.
+The forest surrounds you as you step into its depths. The path
+runs north and south, and you can go deeper into the woods to the
+north, or head towards city gates to the south.
 ~
 0 0 3
 D0
 ~
 ~
 0 -1 8800
-D4
+D2
 ~
 ~
-0 -1 338 
+0 -1 40166
 S
 #8856
 A Broad Tree-Lined Path~

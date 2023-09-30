@@ -790,6 +790,11 @@ The plains extend far to the south.
 ~
 ~
 0 -1 316
+D3
+To the west, you see the road to Elvanhame.
+~
+~
+0 -1 40100
 S
 #319
 Grassy plains~
@@ -1202,10 +1207,6 @@ The plains extend far to the east.
 ~
 ~
 0 -1 317
-D5
-~
-~
-0 -1 8855
 S
 #339
 The Stones of G'harne~

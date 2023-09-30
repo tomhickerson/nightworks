@@ -445,7 +445,7 @@ A 0 medium 0
 
 
 #ROOMS
-#20000
+#22100
 Entrance to the sewers~
 	This is the old sweer system of this cursed prison.Exits are north
 and down.
@@ -484,7 +484,7 @@ D4
 You can't see properly.
 ~
 ~
-0 -1 20000
+0 -1 22100
 
 E
 small tablet~
