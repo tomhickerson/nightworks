@@ -2842,6 +2842,10 @@ D0
 ~
 ~
 0 -1 40160
+D2
+~
+~
+0 -1 40197
 S
 #40162
 Middle Road (north)~
@@ -3506,6 +3510,44 @@ D0
 ~
 ~
 1 -1 40103
+S
+#40197
+A road through the wilderness~
+You are on a small road, paved and cleaned thoroughly, made of gray 
+stones and lined with large, moss-covered trees.  To the north, the 
+road slopes gently upward to the south gate of a city, and to the 
+south-southwest the road gently slopes down to a mountain lake.
+~
+0 0 0
+D0
+Approaching the South Gate of Elvenhame
+~
+~
+0 -1 40161
+D2
+Heading further down to the mountain lake
+~
+~
+0 -1 40198
+S
+#40198
+A road sloping up the mountainsite~
+You are on a small, clean road that is gradually sloping up and down
+the site of this mountain pass.  Somewhere above you, you can see the 
+walls of a city, and below you, the road turns into a set of steps leading
+down, and you can make out the sounds and splashes of a mountain lake.
+~
+0 0 0
+D0 
+Heading further towards the city
+~
+~
+0 -1 40197
+D5
+Descending to a mountain lake 
+~
+~
+0 -1 10001
 S
 #0
 

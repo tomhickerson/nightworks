@@ -1011,8 +1011,8 @@ clear and calm. There are a family of ducks floating by seeming
 not to notice you. The woods around you are flled with deer,
 birds, and other animals. The trees are tall and lush, leaving
 not much room for the sun to enter into these sacred lands. The
-path continues to the north and, of course, where you came from,
-the south.
+path continues to the north and the south.  There is also a 
+set of stone steps leading up the side of one of the mountains.
 ~
 0 0 3  
 D0
@@ -1025,14 +1025,17 @@ The long dusty trail.
 ~
 ~
 0 0 18002
+D5
+A small path heading up the side of the mountain.
+~
+~
+0 -1 40198
 S
 #10002
 A Clearing in the Woods.~
 As you come out of the forest you enter a clearing in the
 woods. This clearing isn't very big but it sure is good to see
-the sun again. There are two large signs nailed on a tree leading
-back into another forest. You wonder what the sign says and go to
-take a closer look. There are two exits here by the lake. One
+the sun again. There are two exits here by the lake. One
 goes south to the path and the other goes north into the woods
 again.
 ~
