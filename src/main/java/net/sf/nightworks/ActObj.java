@@ -20,17 +20,7 @@ import static net.sf.nightworks.Comm.send_to_char;
 import static net.sf.nightworks.Const.attack_table;
 import static net.sf.nightworks.Const.liq_table;
 import static net.sf.nightworks.Const.str_app;
-import static net.sf.nightworks.DB.bug;
-import static net.sf.nightworks.DB.clone_object;
-import static net.sf.nightworks.DB.create_mobile;
-import static net.sf.nightworks.DB.create_object;
-import static net.sf.nightworks.DB.get_obj_index;
-import static net.sf.nightworks.DB.get_room_index;
-import static net.sf.nightworks.DB.number_bits;
-import static net.sf.nightworks.DB.number_fuzzy;
-import static net.sf.nightworks.DB.number_percent;
-import static net.sf.nightworks.DB.number_range;
-import static net.sf.nightworks.DB.time_info;
+import static net.sf.nightworks.DB.*;
 import static net.sf.nightworks.Fight.is_safe;
 import static net.sf.nightworks.Fight.multi_hit;
 import static net.sf.nightworks.Handler.affect_join;
@@ -705,7 +695,6 @@ class ActObj {
                     obj.timer = number_range(100, 200);
                 }
             }
-
             obj_from_char(obj);
             obj_to_obj(obj, container);
 
@@ -724,7 +713,7 @@ class ActObj {
             for (objc = container.contains; objc != null; objc = objc.next_content) {
                 pcount++;
             }
-
+            // log_string("about to put all objs from char....");
             /* 'put all container' or 'put all.obj container' */
             for (obj = ch.carrying; obj != null; obj = obj_next) {
                 obj_next = obj.next_content;
@@ -1406,7 +1395,7 @@ class ActObj {
             }
         }
         arg.setLength(0);
-        arg.append(buf.toString());
+        arg.append(buf);
 
         stone = create_object(get_obj_index(OBJ_VNUM_GRAVE_STONE), ch.level);
 

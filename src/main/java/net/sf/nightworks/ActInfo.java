@@ -24,20 +24,7 @@ import static net.sf.nightworks.Const.hometown_table;
 import static net.sf.nightworks.Const.int_app;
 import static net.sf.nightworks.Const.liq_table;
 import static net.sf.nightworks.Const.religion_table;
-import static net.sf.nightworks.DB.bug;
-import static net.sf.nightworks.DB.clone_mobile;
-import static net.sf.nightworks.DB.create_mobile;
-import static net.sf.nightworks.DB.create_object;
-import static net.sf.nightworks.DB.dice;
-import static net.sf.nightworks.DB.get_extra_descr;
-import static net.sf.nightworks.DB.get_mob_index;
-import static net.sf.nightworks.DB.get_obj_index;
-import static net.sf.nightworks.DB.interpolate;
-import static net.sf.nightworks.DB.number_fuzzy;
-import static net.sf.nightworks.DB.number_percent;
-import static net.sf.nightworks.DB.time_info;
-import static net.sf.nightworks.DB.upfirst;
-import static net.sf.nightworks.DB.weather_info;
+import static net.sf.nightworks.DB.*;
 import static net.sf.nightworks.Fight.do_murder;
 import static net.sf.nightworks.Fight.is_safe;
 import static net.sf.nightworks.Fight.is_safe_nomessage;
@@ -482,6 +469,7 @@ class ActInfo {
             count++;
         }
         int nShow = 0;
+        // log_string("Found list of objects: " + count);
 
         /*
          * Format the list of objects.
@@ -549,6 +537,7 @@ class ActInfo {
             send_to_char("Nothing.\n", ch);
         }
         // trying to highlight items in areas here
+        log_string("about to show page to char");
         page_to_char(output.toString(), ch);
 
     }
@@ -1552,6 +1541,7 @@ class ActInfo {
                     }
 
                     act("$p holds:", ch, obj, null, TO_CHAR);
+                    // log_string("about to show list to char");
                     show_list_to_char(obj.contains, ch, true, true);
                     break;
             }
