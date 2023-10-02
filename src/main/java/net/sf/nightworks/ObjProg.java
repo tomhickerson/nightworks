@@ -533,13 +533,21 @@ class ObjProg {
 
     }
 
+    /**
+     * big note to future implementors, don't call obj_to_obj(obj, dest) from this code as
+     * you've already been in the process of calling it when you run this method -
+     * just modify the external objects in the room
+     * @param obj
+     * @param dest
+     * @param ch
+     */
     static void put_prog_open_bookshelf(OBJ_DATA obj, OBJ_DATA dest, CHAR_DATA ch) {
         if (obj.pIndexData.vnum == 9401 && dest.pIndexData.vnum == 9402) {
             // they put the candle in the candleabra
-            act("As you put the candle in the candelabra a bookcase in the wall swings open.", ch, obj, null, TO_CHAR);
-            act("$n puts the candle in the candelabra and a bookcase in the wall swings open.", ch, obj, null, TO_ROOM);
+            act("{WAs you put the candle in the candelabra a bookcase in the wall swings open.{x", ch, obj, null, TO_CHAR);
+            act("{W$n puts the candle in the candelabra and a bookcase in the wall swings open.{x", ch, obj, null, TO_ROOM);
             OBJ_DATA bookcase = create_object(get_obj_index(9403), 5);
-            obj_to_obj(obj, dest);
+
             obj_to_room(bookcase, ch.in_room);
         }
     }
@@ -553,11 +561,12 @@ class ObjProg {
                 obj_next = obj2.next_content;
                 if (obj2.pIndexData.vnum == 9403) {
                     obj_from_room(obj2);
+                    break;
                 }
             }
-            act("The bookcase spins, and slams shut into the wall!", ch, obj, null, TO_ROOM);
-            act("You hear the following ghostly voice:", ch, obj, null, TO_ROOM);
-            act("- Now listen to me very carefully: PUT. THE. CANDLE. BACK....", ch, obj, null, TO_ROOM);
+            act("{WThe bookcase spins, and slams shut into the wall!{x", ch, obj, null, TO_ROOM);
+            act("{WYou hear the following ghostly voice:{x", ch, obj, null, TO_CHAR);
+            act("{G- Now listen to me very carefully: PUT. THE. CANDLE. BACK....{x", ch, obj, null, TO_CHAR);
         }
     }
 
@@ -1487,19 +1496,19 @@ class ObjProg {
         act("$p's eye opens.", ch, obj, null, TO_ROOM);
         if (ch.level <= 10) {
             obj.value[2] = 2;
-        } else if (ch.level > 10 && ch.level <= 20) {
+        } else if (ch.level <= 20) {
             obj.value[2] = 3;
-        } else if (ch.level > 20 && ch.level <= 30) {
+        } else if (ch.level <= 30) {
             obj.value[2] = 4;
-        } else if (ch.level > 30 && ch.level <= 40) {
+        } else if (ch.level <= 40) {
             obj.value[2] = 5;
-        } else if (ch.level > 40 && ch.level <= 50) {
+        } else if (ch.level <= 50) {
             obj.value[2] = 6;
-        } else if (ch.level > 50 && ch.level <= 60) {
+        } else if (ch.level <= 60) {
             obj.value[2] = 7;
-        } else if (ch.level > 60 && ch.level <= 70) {
+        } else if (ch.level <= 70) {
             obj.value[2] = 9;
-        } else if (ch.level > 70 && ch.level <= 80) {
+        } else if (ch.level <= 80) {
             obj.value[2] = 11;
         } else {
             obj.value[2] = 12;
@@ -1513,19 +1522,19 @@ class ObjProg {
                 && obj.extra_descr.description.contains(ch.name)) {
             if (ch.level <= 10) {
                 obj.value[2] = 2;
-            } else if (ch.level > 10 && ch.level <= 20) {
+            } else if (ch.level <= 20) {
                 obj.value[2] = 3;
-            } else if (ch.level > 20 && ch.level <= 30) {
+            } else if (ch.level <= 30) {
                 obj.value[2] = 4;
-            } else if (ch.level > 30 && ch.level <= 40) {
+            } else if (ch.level <= 40) {
                 obj.value[2] = 5;
-            } else if (ch.level > 40 && ch.level <= 50) {
+            } else if (ch.level <= 50) {
                 obj.value[2] = 6;
-            } else if (ch.level > 50 && ch.level <= 60) {
+            } else if (ch.level <= 60) {
                 obj.value[2] = 7;
-            } else if (ch.level > 60 && ch.level <= 70) {
+            } else if (ch.level <= 70) {
                 obj.value[2] = 9;
-            } else if (ch.level > 70 && ch.level <= 80) {
+            } else if (ch.level <= 80) {
                 obj.value[2] = 11;
             } else {
                 obj.value[2] = 12;
