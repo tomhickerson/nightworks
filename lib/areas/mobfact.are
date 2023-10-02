@@ -124,16 +124,16 @@ light 0 A
 0 0 250 0 0
 0 40 75 P
 #9402
-candelabra~
-a candelabra~
-A wooden candelabra is embedded into the wall here.~
+wooden sconce~
+a wooden sconce~
+A wooden sconce is embedded into the wall here.~
 wood~
 container 0 A
 50 0 0 5 100
-0 10 9 G
+0 10 9 P
 E
-candelabra~ 
-An intricately designed wooden candelabra is here.  You notice that there is a small 
+sconce~ 
+An intricately designed wooden sconce is here.  You notice that there is a small 
 empty circle in it, where a candle should rest.
 ~
 #9403
@@ -855,6 +855,7 @@ M 0 9403   7 9424  1	* The Cityguard head
 M 0 9406   8 9424  1	* The factory worker
 M 0 9405   7 9424  1	* The toxic slime
 O 0 9402   0 9429  * candleabra in the library
+O 0 9401   1 9428 * making it easier
 S
 
 #SHOPS
