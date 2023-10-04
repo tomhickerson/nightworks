@@ -2584,9 +2584,13 @@ public class DB {
                 }
             }
         } else {
+            // if an imm, show the hidden areas with a flag?
+            // have an option to show by author?
+            bufpage.append("You are currently in {Y" + ch.in_room.area.name + "{x.  Areas in the MUD are:\n");
             iAreaHalf = (top_area + 1) / 2;
             pArea1 = area_first;
             pArea2 = area_first;
+
             for (iArea = 0; iArea < iAreaHalf; iArea++) {
                 pArea2 = pArea2.next;
             }
@@ -2898,7 +2902,7 @@ public class DB {
 */
 
     static void log_string(CharSequence str) {
-        System.err.println(new Date().toString() + "::" + str);
+        System.err.println(new Date() + "::" + str);
     }
 
 /*
