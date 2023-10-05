@@ -2618,7 +2618,11 @@ public class DB {
 
     private static String formatAreaDetails(CHAR_DATA ch, AREA_DATA pArea) {
         Formatter f = new Formatter();
-        f.format("{W(%2d %3d){x {B%s {C%s{x", pArea.low_range, pArea.high_range, pArea.writer, pArea.credits);
+        if (IS_SET(pArea.area_flag, AREA_IS_HIDDEN)) {
+            f.format("{W(%2d %3d){x {B%s {R[[REDACTED]]{x", pArea.low_range, pArea.high_range, pArea.writer);
+        } else {
+            f.format("{W(%2d %3d){x {B%s {C%s{x", pArea.low_range, pArea.high_range, pArea.writer, pArea.credits);
+        }
         return f.toString();
     }
 
