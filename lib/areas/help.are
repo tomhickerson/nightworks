@@ -2502,7 +2502,6 @@ Samurai      Sam      STR        ANY    500  	masters of ancient battle arts
 Vampire      Vam      INT	 ANY	300	simply vampire
 Warlock      WrK      INT        ANY     0      magician
 Necromancer  Nec      INT	 ANY	200	simply necromancer
-Druid        Dru      WIS    ANY    100 forest clerics 
 Witch        Wit      INT    FEM    200 female magicians 
 
 ~

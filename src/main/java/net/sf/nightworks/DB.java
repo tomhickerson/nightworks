@@ -2575,12 +2575,17 @@ public class DB {
         StringBuilder bufpage = new StringBuilder(1024);
         if (levelsOnly) {
             AREA_DATA pArea;
-            // put a counter in there to limit the list to 10?  Someday
+            // put a counter in there to limit the list to 10?
+            int count = 0;
             bufpage.append("You are currently in {Y" + ch.in_room.area.name + "{x.  Areas in your level range are:\n");
             for (pArea = area_first; pArea != null; pArea = pArea.next) {
                 if (ch.level >= pArea.low_range && ch.level <= pArea.high_range
                         && !IS_SET(pArea.area_flag, AREA_IS_HIDDEN)) {
                     bufpage.append(formatAreaDetails(ch, pArea) + "\n");
+                    count++;
+                    if (count > 10) {
+                        break;
+                    }
                 }
             }
         } else {
@@ -2618,7 +2623,7 @@ public class DB {
 
     private static String formatAreaDetails(CHAR_DATA ch, AREA_DATA pArea) {
         Formatter f = new Formatter();
-        if (IS_SET(pArea.area_flag, AREA_IS_HIDDEN)) {
+        if (IS_SET(pArea.area_flag, AREA_IS_HIDDEN) && !IS_IMMORTAL(ch)) {
             f.format("{W(%2d %3d){x {B%s {R[[REDACTED]]{x", pArea.low_range, pArea.high_range, pArea.writer);
         } else {
             f.format("{W(%2d %3d){x {B%s {C%s{x", pArea.low_range, pArea.high_range, pArea.writer, pArea.credits);
