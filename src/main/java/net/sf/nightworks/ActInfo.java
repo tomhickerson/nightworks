@@ -537,7 +537,7 @@ class ActInfo {
             send_to_char("Nothing.\n", ch);
         }
         // trying to highlight items in areas here
-        log_string("about to show page to char");
+        // log_string("about to show page to char");
         page_to_char(output.toString(), ch);
 
     }

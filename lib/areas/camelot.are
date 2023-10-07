@@ -1696,7 +1696,7 @@ Inscribed in the hatband is the message 'I belong to Lok'.
 Before the Forest Arden~
 Before you stretches the vast forest Arden, consisting of towering oaks 
 and unknown wildlife. A path leads northwards into the forest. There is a 
-piece of parchment nailed to an old oak, and a guilded plaque is affixed to a 
+piece of {Wparchment{x nailed to an old oak, and a guilded {Yplaque{x is affixed to a 
 boulder.
 ~
 0 4 3
@@ -1727,7 +1727,7 @@ S
 #17302
 The Crossroads of Arden~
 You stand at the crossroads of two dusty paths. Dappled sunlight lights 
-the intersection and you notice horsesign in the dirt. The path continues 
+the intersection and you notice {Whorsesign{x in the {Wdirt{x. The path continues 
 in the north, south, east and west directions.
 ~
 0 0 3

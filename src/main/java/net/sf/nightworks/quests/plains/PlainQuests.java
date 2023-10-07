@@ -124,7 +124,7 @@ public class PlainQuests {
             public void run() {
                 // place six alms in different places
                 final int[] rooms = {302, 304, 307, 327, 313, 320};
-                for (int i = 0; i <= 6; i++) {
+                for (int i = 0; i < 6; i++) {
                     OBJ_DATA obj = create_object(get_obj_index(314), 4);
                     obj_to_room(obj, get_room_index(rooms[i]));
                 }
