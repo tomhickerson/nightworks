@@ -12,6 +12,19 @@ public class SimpleHuntQuest extends SimpleQuest {
     private int vnumToKill = -1;
     private int numberToKill = -1;
     private ArrayList<Integer> rooms = new ArrayList<>();
+    private setup questSetup;
+
+    public setup getQuestSetup() {
+        return questSetup;
+    }
+
+    public void setQuestSetup(setup questSetup) {
+        this.questSetup = questSetup;
+    }
+
+    public void runSetup() {
+        this.questSetup.run();
+    }
 
     public SimpleHuntQuest(String name) {
         super(name);
@@ -48,5 +61,9 @@ public class SimpleHuntQuest extends SimpleQuest {
     @Override
     public boolean isStandalone() {
         return false;
+    }
+
+    public interface setup {
+        void run();
     }
 }

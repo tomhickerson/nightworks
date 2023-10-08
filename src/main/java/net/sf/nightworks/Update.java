@@ -140,6 +140,22 @@ public class Update {
             send_to_char(PlayerMessage.FEEL_BY_COMPASSION.getMessage(), ch);
         }
     }
+
+    public static void updateFaith(CHAR_DATA ch) {
+        int faith = ch.pcdata.virtues.updateVirtue(VIRTUE_FAITH);
+        if (faith > 0) {
+            ch.pcdata.virtues.faith++;
+            send_to_char(PlayerMessage.FEEL_BY_FAITH.getMessage(), ch);
+        }
+    }
+
+    public static void updateJustice(CHAR_DATA ch) {
+        int justice = ch.pcdata.virtues.updateVirtue(VIRTUE_JUSTICE);
+        if (justice > 0) {
+            ch.pcdata.virtues.justice++;
+            send_to_char(PlayerMessage.FEEL_BY_JUSTICE.getMessage(), ch);
+        }
+    }
 /*
 * Advancement stuff.
 */

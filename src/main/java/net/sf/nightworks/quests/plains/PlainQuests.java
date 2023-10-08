@@ -3,6 +3,8 @@ package net.sf.nightworks.quests.plains;
 import net.sf.nightworks.enums.PlayerAchievement;
 import net.sf.nightworks.quests.*;
 
+import java.util.ArrayList;
+
 import static net.sf.nightworks.ActComm.do_say;
 import static net.sf.nightworks.Comm.act;
 import static net.sf.nightworks.Comm.send_to_char;
@@ -130,6 +132,20 @@ public class PlainQuests {
                 }
             }
         };
+    }
+
+    public static SimpleHuntQuest killMoreRabbits() {
+        SimpleHuntQuest shq = new SimpleHuntQuest(4, "Kill more rabbits for the Hermit");
+        shq.setNumberToKill(5);
+        shq.setVnumToKill(-1);
+        shq.setRooms(new ArrayList<>());
+        shq.setQuestSetup(null);
+        shq.setAdvancedPreamble(null);
+        shq.setDuration(25);
+        shq.setAcceptPhrase("yes");
+        shq.setAchievement(-1);
+        shq.setAcceptMessage("Great, now get out there and kill them rabbits!");
+        return null;
     }
 
 }
