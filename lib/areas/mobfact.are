@@ -128,7 +128,7 @@ wooden sconce~
 a wooden sconce~
 A wooden sconce is embedded into the wall here.~
 wood~
-container 0 A
+container 0 0
 50 0 0 5 100
 0 10 9 P
 E
@@ -149,25 +149,38 @@ silver gear~
 a silver gear~
 A round silver gear is lying on the ground here.~
 silver~
-treasure 0 0
+treasure 0 A
 0 0 0 0 0 
-8 10 640 P
+6 10 640 P
 E
 gear~
 A small, delicate gear with thin spokes, this looks to be of very detailed and 
 high-quality craftsmanship. 
 ~
+#9405
+bronze cog~
+a bronze cog~
+A rough bronze cog is lying on the ground here.~
+bronze~
+treasure 0 A
+0 0 0 0 0 
+6 10 40 P
+E
+cog~
+A rough, bronze cog which looks to be part of a larger mechanism.  It seems 
+to be of high-quality craftsmanship. 
+~
 #0
 
 #ROOMS
 #9400
-Entrance to the Mob Factory~
+Entrance to the Golem Factory~
 You find that you have entered a strange factory. This factory doesn't
-make cars or computers or something - it makes mobs! The sound of
+make cars or computers or something - it makes golems! The sound of
 machinery can be heard in the background; the grinding gears drive you
 crazy! To the north you see the storage area, to the south the
 foreman's office, to the east the entrance hallway, and to the west the
-familiar paving of wall road.
+familiar paving of Wall Road.
 ~
 0 D 0
 D0
@@ -188,11 +201,11 @@ D3
 0 0 3047
 S
 #9401
-Mob Factory Storage Area~
-This is where the raw materials from which mobs are manufactured are
+Golem Factory Storage Area~
+This is where the raw materials from which golems are manufactured are
 stored. You see sacks of sawdust, cans of pink paint, a large box
 containing wigs and a bottle mysteriously labelled "solution x". Exits
-are more of storage to the east and north, and entrance to the mob
+are more of storage to the east and north, and entrance to the golem
 factory to the south.
 ~
 0 D 0
@@ -210,7 +223,7 @@ D2
 0 0 9400
 S
 #9402
-Mob Factory Storage Area~
+Golem Factory Storage Area~
 This is where the raw materials from which mobs are manufactured are
 stored. You see sacks of sawdust, cans of pink paint, a large box
 containing wigs and a bottle mysteriously labelled "solution X". Exits
@@ -228,10 +241,10 @@ D2
 S
 #9403
 Foreman's Office~
-This is the office of the mob factory foreman. The room is sparsely
+This is the office of the golem factory foreman. The room is sparsely
 furnished with a metal desk, a couple of chairs, a shelf with helmets
 of various sizes and a Sports Illustrated Swimsuit calendar on the west
-wall. Exits lead north to the mob factory entrance and south to the
+wall. Exits lead north to the golem factory entrance and south to the
 foreman's bathroom.
 ~
 0 D 0
@@ -259,7 +272,7 @@ D0
 0 0 9403
 S
 #9405
-Mob Factory Storage Area~
+Golem Factory Storage Area~
 This is where the raw materials from which mobs are manufactured are
 stored. You see sacks of sawdust, cans of pink paint, a large box
 containing wigs and a bottle mysteriously labelled "solution X". Exits
@@ -281,7 +294,7 @@ D3
 0 0 9402
 S
 #9406
-Mob Factory Storage Area~
+Golem Factory Storage Area~
 This is where the raw materials from which mobs are manufactured are
 stored. You see sacks of sawdust, cans of pink paint, a large box
 containing wigs and a bottle mysteriously labelled "solution X". Exits
@@ -307,7 +320,7 @@ D3
 0 0 9401
 S
 #9407
-Entrance Hallway to Mob Factory~
+Entrance Hallway to Golem Factory~
 You are standing in the entrance hallway of the mob factory. The sound
 of machinery gets louder now, and you can hear people shouting in the
 distance. Every once in a while you get creepy feeling that a pair of
@@ -334,7 +347,7 @@ D3
 0 0 9400
 S
 #9408
-Mob Factory Cafeteria~
+Golem Factory Cafeteria~
 You find that you have entered the cafeteria of the mob factory. There
 are many workers eating at the numerous tables placed around the room.
 The food doesn't look too appetising, but the factory workers don't
@@ -353,8 +366,8 @@ D2
 0 0 9409
 S
 #9409
-Mob Factory Cafeteria~
-You find that you have entered the cafeteria of the mob factory. There
+Golem Factory Cafeteria~
+You find that you have entered the cafeteria of the golem factory. There
 are many workers eating at the numerous tables placed around the room.
 The food doesn't look too appetising, but the factory workers don't
 seem to care. There are many places where food and drink have been
@@ -368,7 +381,7 @@ D0
 0 0 9408
 S
 #9410
-Mob Factory Inspection Room~
+Golem Factory Inspection Room~
 You have entered the mob factory inspections room. This is where the
 mobs manufactured on the assembly lines are inspected for defects. A
 whole team of inspectors from the Midgaard Inspections Bureau is
@@ -391,7 +404,7 @@ D3
 0 0 9405
 S
 #9411
-Mob Factory Inspection Room~
+Golem Factory Inspection Room~
 You have entered the mob factory inspections room. This is where the
 mobs manufactured on the assembly lines are inspected for defects. A
 whole team of inspectors from the Midgaard Inspections Bureau is
@@ -418,7 +431,7 @@ D3
 0 0 9406
 S
 #9412
-Entrance Hallway to Mob Factory~
+Entrance Hallway to Golem Factory~
 You are standing in the entrance hallway of the mob factory. The sound
 of machinery gets louder now, and you can hear people shouting in the
 distance. Every once in a while you get creepy feeling that a pair of
@@ -445,7 +458,7 @@ D3
 0 0 9407
 S
 #9413
-Mob Factory Reject Room~
+Golem Factory Reject Room~
 This is the factory reject room. All the mobs that are manufactured
 incorrectly or have some defect are placed here before subsequent
 destruction. You shudder at the many deformed and grotesque shapes
@@ -463,7 +476,7 @@ D2
 0 0 9414
 S
 #9414
-Mob Factory Reject Room~
+Golem Factory Reject Room~
 This is the factory reject room. All the mobs that are manufactured
 incorrectly or have some defect are placed here before subsequent
 destruction. You shudder at the many deformed and grotesque shapes
@@ -596,7 +609,7 @@ D1
 S
 #9420
 Secondary Assembly Line~
-This is the secondary assembly line of the mob factory. You are
+This is the secondary assembly line of the golem factory. You are
 surprised to see cityguard heads come floating on the conveyor belt!
 The very sight is sickening, but the workers seem to be quite
 cheerful about their work. Exits are south to the secondary assembly
@@ -614,7 +627,7 @@ D3
 S
 #9421
 Secondary Assembly Line~
-This is the secondary assembly line of the mob factory. You are
+This is the secondary assembly line of the golem factory. You are
 surprised to see cityguard heads come floating on the conveyor belt!
 The very sight is sickening, but the workers seem to be quite
 cheerful about their work. Exits are north and south to the secondary
@@ -636,7 +649,7 @@ D3
 S
 #9422
 Secondary Assembly Line~
-This is the secondary assembly line of the mob factory. You are
+This is the secondary assembly line of the golem factory. You are
 surprised to see cityguard heads come floating on the conveyor belt!
 The very sight is sickening, but the workers seem to be quite
 cheerful about their work. Exits are north and south to the secondary
@@ -658,7 +671,7 @@ D3
 S
 #9423
 Secondary Assembly Line~
-This is the secondary assembly line of the mob factory. You are
+This is the secondary assembly line of the golem factory. You are
 surprised to see cityguard heads come floating on the conveyor belt!
 The very sight is sickening, but the workers seem to be quite
 cheerful about their work. Exits are north and south to the secondary
@@ -680,7 +693,7 @@ D3
 S
 #9424
 Secondary Assembly Line~
-This is the secondary assembly line of the mob factory. You are
+This is the secondary assembly line of the golem factory. You are
 surprised to see cityguard heads come floating on the conveyor belt!
 The very sight is sickening, but the workers seem to be quite
 cheerful about their work. Exits are north to the secondary
@@ -782,8 +795,9 @@ S
 The Records Room Library~
 You are in a dark wooden room, which appears to have been built within the attic.
 The floor is striped black and white.  Books and shelves line the walls here, all 
-on esoteric topics such as the function of the autonomous flywheel in post-production, 
-etc.  Several {Ybooks{x lie open on a table in the center of the room.
+on esoteric topics detailing the internal workings of a factory, how to overcome 
+issues with labor shortages, workings of machinery and repairs, etc. 
+Several {Ybooks{x lie open on a table in the center of the room.
 The only apparent way out is to the south.
 ~
 0 AD 0
@@ -797,6 +811,8 @@ book books~
 One of these is discussing a golem build: "Placing the correct gears inside
 the chest cavity will allow the golem to awaken, but watch out for 
 unexpected behavior cached in its memory tubes."
+Another details working with flesh golems: "Watch out for these, as they are
+very ornery, and the magic for these is much like advanced Necromancy."
 ~
 S
 #9430

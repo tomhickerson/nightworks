@@ -1,0 +1,944 @@
+#AREA
+north.are~
+Northern Road~
+{5 35} Grehyton Northern Road~
+1900 1999
+
+
+
+#MOBILES
+#1900
+pilgrim~
+the pilgrim~
+The pilgrim moves on towards a destination.
+~
+The pilgrims travel to the northern road to look
+at the great firetop mountain, and to visit the
+guardian city to the north.
+~
+unique~
+ACG 0 -400 0
+4 0 2d5+60 0d0+0 1d6+1 pound
+8 8 8 8
+EIN 0 0 0
+stand stand male 4
+0 0 medium unknown
+#1901
+mangy mutt~
+the mangy mutt~
+The mangy mutt wants some food.
+~
+He is dirty and covered with disease, who could
+want such a beast.
+~
+unique~
+AG 0 0 0
+1 0 2d6+10 0d0+0 1d4+0 scratch
+8 8 8 9
+F 0 0 0
+stand stand male 0
+0 0 medium unknown
+#1902
+dark hunter~
+a dark hunter~
+A dark figure is here standing on the edge of the trail.
+~
+She has strange looking armor and dark colored clothes.
+She looks fairly tough.
+~
+unique~
+ACG 0 0 0
+10 0 2d10+121 0d0+0 2d8+2 punch
+7 7 7 9
+EIN 0 0 0
+stand stand female 0
+0 0 medium unknown
+#1904
+fighting fish~
+a small fighting fish~
+A small but fast fighting fish is here
+~
+All in mail never blinking.
+~
+snake~
+AF 0 0 0
+2 0 1d3+15 0d0+0 1d3+2 none
+0 0 0 0
+0 0 L I
+stand stand none 0
+AGXYc ADEFKLQVX medium unknown
+#1905
+swarm flies biting~
+a swarm of biting flies~
+A swarm of biting flies is here.
+~
+~
+unique~
+AF TX 0 0
+1 0 1d2+6 0d0+0 1d2+0 bite
+0 0 0 0
+H 0 0 H
+stand stand none 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#1900
+green ring~
+a green ring~
+A dark green circlet sits in the shadows.~
+gold~
+treasure P AB
+0 0 0 0 0
+10 2 0 P
+A
+19 5
+E
+ring~
+It has a vicious spike that looks like it hurts.
+~
+#1901
+darkened leather armor~
+darkened leather armor~
+A darkened leather chest armor rests here.~
+bamboo~
+armor 0 AD
+AB C C 0 B
+6 15 0 P
+F
+V 0 0 H
+#1902
+small candle~
+a small candle~
+A small candle rests here.~
+crystal~
+light A AO
+0 0 BDEFGH 0 0
+3 10 0 P
+#1903
+deer bladder~
+a deer bladder~
+The gut of some animal sits here.~
+bone~
+drink 0 A
+60 60 'water' 0 0
+0 1 0 P
+#1904
+green dust~
+some green dust~
+Some green dust rests here.~
+ash~
+pill P A
+10 'cure blindness' '' '' ''
+10 0 0 P
+#1905
+sack skin~
+a sack made of skin~
+A sack made of human skin is here.~
+cloth~
+container 0 AO
+50 0 0 5 100
+3 3 0 P
+E
+woven bag~
+Its a tight weave that looks quite sturdy.~
+#1906
+gebal leaf~
+a gebal leaf~
+A gebal leaf sits here.~
+bread~
+food P A
+ABCD D 0 0 0
+0 0 0 P
+E
+gorp~
+This is a raisen and nut mix used by rangers
+and adventurers.~
+#1907
+thick steak~
+a thick steak~
+A sweet thick steak sits here.~
+cream~
+food P A
+BEF BEF 0 0 0
+0 0 0 P
+#1908
+meat jerky~
+a meat jerky~
+A meat jerky sits here.~
+hard leather~
+food P A
+DE D 0 0 0
+0 0 0 P
+E
+meat jerky~
+Hmmm meat jerky, you wonder what kind of meat
+it is.~
+#1909
+bench~
+a bench~
+A forest bench sits here.~
+bamboo~
+furniture 0 0
+B DGH BEHKN CFG CFG
+0 300 0 P
+E
+bench~
+Some nice person built a bench here, to help
+you rest on your long journey.~
+#1910
+wicked dagger~
+a wicked dagger~
+A wicked looking dagger is here.~
+metal~
+weapon 0 AN
+dagger 1 6 pierce 0
+5 5 0 P
+E
+dagger curved~
+A sharp curved dagger with a blue blade.~
+#0
+
+
+
+#ROOMS
+#1900
+{YOutside The North Gate{x~
+You are standing outside the Northern Gate of Calinth.
+People travel in and out on their ways to parts unknown.
+Guards can be seen to the south in side the gate. Further
+north the road leads to the distant mountains.
+~
+0 0 11
+D0
+The Northern Road.
+~
+~
+0 -1 1901
+D2
+~
+~
+0 0 20175
+S
+#1901
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+and uneasy feeling. Further along south a
+large city can be seen. To the east is a river and
+beyond that the infamous dearthwood.
+~
+0 0 11
+D0
+The Northern Road.
+~
+~
+0 -1 1902
+D1
+~
+~
+0 0 1922
+D2
+The Northern Road.
+~
+~
+0 -1 1900
+S
+#1902
+{YNorthern Road{x~
+You are on the Northern Road. Dark clouds loom
+over some mountains far to the north. The forest
+here is getting darker and thicker.  To the west
+you can spot firetop volcano, rising high above
+the other mountains.
+~
+0 0 11
+D0
+The Northern Road.
+~
+~
+0 -1 1903
+D1
+~
+~
+0 0 1923
+D2
+The Northern Road.
+~
+~
+0 -1 1901
+S
+#1903
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+and uneasy feeling. Far off to the east the
+ocean beats against the cliffs.
+~
+0 0 11
+D0
+The Northern Road.
+~
+~
+0 -1 1904
+D1
+~
+~
+0 0 1924
+D2
+The Northern Road.
+~
+~
+0 -1 1902
+S
+#1904
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+and uneasy feeling.
+~
+0 0 11
+D0
+The Northern Road.
+~
+~
+0 -1 1905
+D1
+~
+~
+0 0 1925
+D2
+The Northern Road.
+~
+~
+0 -1 1903
+S
+#1905
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+and uneasy feeling.
+~
+0 0 11
+D0
+The Northern Road.
+~
+~
+0 -1 1906
+D1
+~
+~
+0 0 1926
+D2
+The Northern Road.
+~
+~
+0 -1 1904
+S
+#1906
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+an uneasy feeling.
+~
+0 0 11
+D0
+The Northern Road.
+~
+~
+0 -1 1907
+D1
+~
+~
+0 0 1927
+D2
+The Northern Road.
+~
+~
+0 -1 1905
+S
+#1907
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+and uneasy feeling. Off to the east you can
+see a small ford heading to a trail leading into
+the DearthWood.
+~
+0 0 11
+D0
+The Northern Road.
+~
+~
+0 -1 1908
+D1
+~
+~
+0 0 1928
+D2
+The Northern Road.
+~
+~
+0 -1 1906
+S
+#1908
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+and uneasy feeling.
+~
+0 0 11
+D0
+The Northern Road.
+~
+~
+0 -1 1909
+D1
+~
+~
+0 0 1929
+D2
+The Northern Road.
+~
+~
+0 -1 1907
+S
+#1909
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+and uneasy feeling.
+~
+0 0 11
+D0
+The Northern Road.
+~
+~
+0 -1 1910
+D1
+~
+~
+0 0 1930
+D2
+The Northern Road.
+~
+~
+0 -1 1908
+S
+#1910
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+and uneasy feeling.
+~
+0 0 11
+D0
+The Northern Road.
+~
+~
+0 -1 1911
+D2
+The Northern Road.
+~
+~
+0 -1 1909
+S
+#1911
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+and uneasy feeling.
+~
+0 0 11
+D0
+The Northern Road.
+~
+~
+0 -1 1912
+D2
+The Northern Road.
+~
+~
+0 -1 1910
+S
+#1912
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+and uneasy feeling.
+~
+0 8192 11
+D0
+The Northern Road.
+~
+~
+0 -1 1913
+D2
+The Northern Road.
+~
+~
+0 -1 1911
+S
+#1913
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+and uneasy feeling.
+~
+0 0 11
+D0
+The Northern Road.
+~
+~
+0 -1 1914
+D2
+The Northern Road.
+~
+~
+0 -1 1912
+S
+#1914
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+and uneasy feeling.
+~
+0 0 11
+D0
+The Northern Road.
+~
+~
+0 -1 1915
+D2
+The Northern Road.
+~
+~
+0 -1 1913
+S
+#1915
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+and uneasy feeling.
+~
+0 0 11
+D0
+The Northern Road.
+~
+~
+0 -1 1916
+D2
+The Northern Road.
+~
+~
+0 -1 1914
+S
+#1916
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+and uneasy feeling.
+~
+0 0 11
+D0
+The Northern Road.
+~
+~
+0 -1 1917
+D2
+The Northern Road.
+~
+~
+0 -1 1915
+S
+#1917
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+and uneasy feeling.
+~
+0 0 11
+D0
+The Northern Road.
+~
+~
+0 -1 1918
+D2
+The Northern Road.
+~
+~
+0 -1 1916
+S
+#1918
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+and uneasy feeling.
+~
+0 0 11
+D0
+The Northern Road.
+~
+~
+0 -1 1919
+D2
+The Northern Road.
+~
+~
+0 -1 1917
+S
+#1919
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+and uneasy feeling. A large mountain lies to the
+north.
+~
+0 0 11
+D0
+The Northern Road.
+~
+~
+0 -1 1920
+D2
+The Northern Road.
+~
+~
+0 -1 1918
+S
+#1920
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+and uneasy feeling. The road stops suddenly
+here in a pile of rock.
+~
+0 0 11
+D0
+~
+~
+0 0 1921
+D2
+The Northern Road.
+~
+~
+0 -1 1919
+S
+#1921
+{YNorthern Road{x~
+You are on the Northern Road, forest surrounds 
+you and it is dark and quiet. Kinda gives you
+and uneasy feeling. A large mountain lies to the
+north.
+~
+0 0 11
+D2
+~
+~
+0 0 1920
+S
+#1922
+Durgas River~
+This flowing channel marks the edge of the Northern
+road and the beginning of the DearthWood. The river
+heads north to its beginnings and south to Calinth
+bay.
+~
+0 0 6
+D0
+~
+~
+0 0 1923
+D3
+~
+~
+0 0 1901
+S
+#1923
+Durgas River~
+This flowing channel marks the edge of the Northern
+road and the beginning of the DearthWood. The river
+heads north to its beginnings and south to Calinth
+bay.
+~
+0 0 6
+D0
+~
+~
+0 0 1924
+D2
+~
+~
+0 0 1922
+D3
+~
+~
+0 0 1902
+S
+#1924
+Durgas River~
+This flowing channel marks the edge of the Northern
+road and the beginning of the DearthWood. The river
+heads north to its beginnings and south to Calinth
+bay.
+~
+0 0 6
+D0
+~
+~
+0 0 1925
+D2
+~
+~
+0 0 1923
+D3
+~
+~
+0 0 1903
+S
+#1925
+Durgas River~
+This flowing channel marks the edge of the Northern
+road and the beginning of the DearthWood. The river
+heads north to its beginnings and south to Calinth
+bay.
+~
+0 0 6
+D0
+~
+~
+0 0 1926
+D2
+~
+~
+0 0 1924
+D3
+~
+~
+0 0 1904
+S
+#1926
+Durgas River~
+This flowing channel marks the edge of the Northern
+road and the beginning of the DearthWood. The river
+heads north to its beginnings and south to Calinth
+bay.
+~
+0 0 6
+D0
+~
+~
+0 0 1927
+D2
+~
+~
+0 0 1925
+D3
+~
+~
+0 0 1905
+S
+#1927
+Durgas River~
+This flowing channel marks the edge of the Northern
+road and the beginning of the DearthWood. The river
+heads north to its beginnings and south to Calinth
+bay.
+~
+0 0 6
+D0
+~
+~
+0 0 1928
+D2
+~
+~
+0 0 1926
+D3
+~
+~
+0 0 1906
+S
+#1928
+Durgas Ford~
+This is a smaller section of the durgas river,
+although you still have to wade through or 
+perhaps jump across some stones, you can make
+it across without swimming. To the west is the
+Northern Road, while to the east is a small
+path entering the DearthWood.
+~
+0 0 2
+D0
+~
+~
+0 0 1929
+D1
+~
+~
+0 0 31050
+D2
+~
+~
+0 0 1927
+D3
+~
+~
+0 0 1907
+S
+#1929
+Durgas River~
+This flowing channel marks the edge of the Northern
+road and the beginning of the DearthWood. The river
+heads north to its beginnings and south to Calinth
+bay.
+~
+0 0 6
+D0
+~
+~
+0 0 1930
+D2
+~
+~
+0 0 1928
+D3
+~
+~
+0 0 1908
+S
+#1930
+Durgas River~
+This flowing channel marks the edge of the Northern
+road and the beginning of the DearthWood. The river
+heads north to its beginnings and south to Calinth
+bay.
+~
+0 0 6
+D0
+~
+~
+0 0 1931
+D1
+~
+~
+0 0 31030
+D2
+~
+~
+0 0 1929
+D3
+~
+~
+0 0 1909
+S
+#1931
+Durgas River~
+This flowing channel marks the edge of the Northern
+road and the beginning of the DearthWood. The river
+heads north to its beginnings and south to Calinth
+bay.
+~
+0 0 6
+D0
+~
+~
+0 0 1932
+D2
+~
+~
+0 0 1930
+S
+#1932
+Durgas River~
+This flowing channel marks the edge of the Northern
+road and the beginning of the DearthWood. The river
+heads north to its beginnings and south to Calinth
+bay.
+~
+0 0 6
+D0
+~
+~
+0 0 1933
+D1
+~
+~
+0 0 31000
+D2
+~
+~
+0 0 1931
+S
+#1933
+Durgas River~
+This flowing channel marks the edge of the Northern
+road and the beginning of the DearthWood. The river
+heads north to its beginnings and south to Calinth
+bay.
+~
+0 0 6
+D2
+~
+~
+0 0 1932
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 1902 5 1901 1
+G 0 1906 0
+G 0 1905 0
+M 0 1905 3 1901 1
+M 0 1901 1 1904 1
+G 0 1907 0
+M 0 1902 5 1904 1
+E 0 1901 0 5
+E 0 1902 0 17
+M 0 1905 4 1905 1
+O 0 1609 0 1909
+M 0 1900 3 1912 3
+E 0 1910 0 16
+M 0 1900 3 1912 3
+E 0 1910 0 16
+M 0 1900 3 1912 3
+E 0 1910 0 16
+G 0 1904 0
+G 0 1905 0
+M 0 1902 5 1912 1
+E 0 1900 0 1
+E 0 1900 0 2
+E 0 1901 0 5
+E 0 1910 0 16
+G 0 1908 0
+G 0 1904 0
+G 0 1903 0
+M 0 1902 5 1915 1
+E 0 1901 0 5
+G 0 1906 0
+G 0 1905 0
+G 0 1903 0
+M 0 1902 5 1918 1
+M 0 1904 5 1922 1
+M 0 1904 5 1924 1
+M 0 1904 5 1926 1
+M 0 1904 5 1930 1
+M 0 1904 5 1931 1
+S
+
+
+
+#SHOPS
+0
+
+
+#$

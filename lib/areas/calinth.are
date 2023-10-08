@@ -3480,6 +3480,14 @@ steel~
 weapon 0 AN
 exotic 1 8 smash F
 0 110 100 P
+#20261
+cape green dark~
+a dark green cape~
+A dark green cape has been discarded here.~
+cloth~
+armor 0 AK
+AD AD AD CD 0
+0 15 0 P
 #20262
 towel brown~
 a brown towel~
@@ -6677,7 +6685,7 @@ North Street is to the east and the 300 Block is to the west.
 D0
 ~
 ~
-0 0 1600
+0 0 -1
 D1
 ~
 ~
@@ -6866,7 +6874,7 @@ D2
 D3
 ~
 ~
-0 0 1919
+0 0 -1
 S
 #20185
 {YMandrake Avenue 500 Block{x~
@@ -6999,7 +7007,7 @@ D2
 D5
 ~
 ~
-0 0 28014
+0 0 -1
 S
 #20191
 {YIntersection of Mandrake Avenue and South Bank Drive{x~
@@ -8214,7 +8222,7 @@ D1
 D2
 ~
 ~
-0 0 28009
+0 0 28005
 D3
 ~
 ~
@@ -8250,7 +8258,7 @@ D1
 D2
 ~
 ~
-0 0 28005
+0 0 28009
 D3
 ~
 ~
@@ -10498,10 +10506,5 @@ S
 20075 0 0 0 0 0 100 140 12 3
 20076 0 0 0 0 0 100 100 0 23
 0
-
-
-
-#MOBPROGS
-#0
 
 #$
