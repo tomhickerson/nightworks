@@ -1,0 +1,2529 @@
+#AREA
+edearth.are~
+East DearthWood~
+{5 35} Grehyton/Chardros East DearthWood~
+30400 30499
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#30400
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D1
+~
+~
+0 -1 30401
+D2
+~
+~
+0 -1 30410
+S
+#30401
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D1
+~
+~
+0 -1 30402
+D2
+~
+~
+0 -1 30411
+D3
+~
+~
+0 -1 30400
+S
+#30402
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D1
+~
+~
+0 -1 30403
+D2
+~
+~
+0 -1 30412
+D3
+~
+~
+0 -1 30401
+S
+#30403
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D1
+~
+~
+0 -1 30404
+D2
+~
+~
+0 -1 30413
+D3
+~
+~
+0 -1 30402
+S
+#30404
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 31093
+D1
+Twisted Trunks.
+~
+~
+0 -1 30405
+D3
+~
+~
+0 -1 30403
+S
+#30405
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D1
+~
+~
+0 -1 30406
+D2
+~
+~
+0 -1 30415
+D3
+~
+~
+0 -1 30404
+S
+#30406
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D1
+~
+~
+0 -1 30407
+D2
+~
+~
+0 -1 30416
+D3
+~
+~
+0 -1 30405
+S
+#30407
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D1
+~
+~
+0 -1 30408
+D2
+~
+~
+0 -1 30432
+D3
+~
+~
+0 -1 30406
+S
+#30408
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 0 31098
+D1
+~
+~
+0 -1 30409
+D2
+~
+~
+0 -1 30418
+D3
+~
+~
+0 -1 30407
+S
+#30409
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 0 31099
+D2
+~
+~
+0 -1 30419
+D3
+~
+~
+0 -1 30408
+S
+#30410
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30400
+D1
+~
+~
+0 -1 30411
+D2
+~
+~
+0 -1 30420
+S
+#30411
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30401
+D1
+~
+~
+0 -1 30412
+D2
+~
+~
+0 -1 30421
+D3
+~
+~
+0 -1 30410
+S
+#30412
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30402
+D1
+~
+~
+0 -1 30413
+D2
+~
+~
+0 -1 30422
+D3
+~
+~
+0 -1 30411
+S
+#30413
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30403
+D1
+~
+~
+0 -1 30414
+D2
+~
+~
+0 -1 30423
+D3
+~
+~
+0 -1 30412
+S
+#30414
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30404
+D1
+~
+~
+0 -1 30415
+D2
+~
+~
+0 -1 30424
+D3
+~
+~
+0 -1 30413
+S
+#30415
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30405
+D1
+~
+~
+0 -1 30416
+D2
+~
+~
+0 -1 30425
+D3
+~
+~
+0 -1 30414
+S
+#30416
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 0
+D0
+~
+~
+0 -1 30406
+D1
+~
+~
+0 -1 30432
+D2
+~
+~
+0 -1 30426
+D3
+~
+~
+0 -1 30415
+S
+#30417
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 0
+D0
+~
+~
+0 -1 30407
+D1
+~
+~
+0 -1 30418
+D2
+~
+~
+0 -1 30427
+D3
+~
+~
+0 -1 30416
+S
+#30418
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 0
+D0
+~
+~
+0 -1 30408
+D1
+~
+~
+0 -1 30419
+D2
+~
+~
+0 -1 30428
+D3
+~
+~
+0 -1 30432
+S
+#30419
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30409
+D2
+~
+~
+0 -1 30429
+D3
+~
+~
+0 -1 30418
+S
+#30420
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30410
+D1
+~
+~
+0 -1 30421
+D2
+~
+~
+0 -1 30430
+S
+#30421
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 0
+D0
+~
+~
+0 -1 30411
+D1
+~
+~
+0 -1 30422
+D2
+~
+~
+0 -1 30432
+D3
+~
+~
+0 -1 30420
+S
+#30422
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30412
+D1
+~
+~
+0 -1 30423
+D2
+~
+~
+0 -1 30432
+D3
+~
+~
+0 -1 30421
+S
+#30423
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30413
+D1
+~
+~
+0 -1 30424
+D2
+~
+~
+0 -1 30433
+D3
+~
+~
+0 -1 30422
+S
+#30424
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30414
+D1
+~
+~
+0 -1 30425
+D2
+~
+~
+0 -1 30434
+D3
+~
+~
+0 -1 30423
+S
+#30425
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30415
+D1
+~
+~
+0 -1 30426
+D2
+~
+~
+0 -1 30435
+D3
+~
+~
+0 -1 30424
+S
+#30426
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30416
+D1
+~
+~
+0 -1 30427
+D2
+~
+~
+0 -1 30436
+D3
+~
+~
+0 -1 30425
+S
+#30427
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 0
+D0
+~
+~
+0 -1 30432
+D1
+~
+~
+0 -1 30428
+D2
+~
+~
+0 -1 30437
+D3
+~
+~
+0 -1 30426
+S
+#30428
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30418
+D1
+~
+~
+0 -1 30429
+D2
+~
+~
+0 -1 30438
+D3
+~
+~
+0 -1 30427
+S
+#30429
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30419
+D2
+~
+~
+0 -1 30439
+D3
+~
+~
+0 -1 30428
+S
+#30430
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30420
+D1
+~
+~
+0 -1 30432
+D2
+~
+~
+0 -1 30440
+S
+#30431
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 0
+D0
+~
+~
+0 -1 30421
+D1
+~
+~
+0 -1 30432
+D2
+~
+~
+0 -1 30441
+D3
+~
+~
+0 -1 30430
+S
+#30432
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30422
+D1
+~
+~
+0 -1 30433
+D2
+~
+~
+0 -1 30442
+D3
+~
+~
+0 -1 30432
+S
+#30433
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.~
+0 0 3
+D0
+~
+~
+0 -1 30423
+D1
+~
+~
+0 -1 30434
+D2
+~
+~
+0 -1 30443
+D3
+~
+~
+0 -1 30432
+S
+#30434
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30424
+D1
+~
+~
+0 -1 30435
+D2
+~
+~
+0 -1 30444
+D3
+~
+~
+0 -1 30433
+S
+#30435
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30425
+D1
+~
+~
+0 -1 30436
+D2
+~
+~
+0 -1 30445
+D3
+~
+~
+0 -1 30434
+S
+#30436
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30426
+D1
+~
+~
+0 -1 30437
+D2
+~
+~
+0 -1 30446
+D3
+~
+~
+0 -1 30435
+S
+#30437
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30427
+D1
+~
+~
+0 -1 30438
+D2
+~
+~
+0 -1 30447
+D3
+~
+~
+0 -1 30436
+S
+#30438
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30428
+D1
+~
+~
+0 -1 30439
+D2
+~
+~
+0 -1 30448
+D3
+~
+~
+0 -1 30437
+S
+#30439
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30429
+D2
+~
+~
+0 -1 30449
+D3
+~
+~
+0 -1 30438
+S
+#30440
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30430
+D1
+~
+~
+0 -1 30441
+D2
+~
+~
+0 -1 30450
+S
+#30441
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30432
+D1
+~
+~
+0 -1 30442
+D2
+~
+~
+0 -1 30451
+D3
+~
+~
+0 -1 30440
+S
+#30442
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30432
+D1
+~
+~
+0 -1 30443
+D2
+~
+~
+0 -1 30452
+D3
+~
+~
+0 -1 30441
+S
+#30443
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30433
+D1
+~
+~
+0 -1 30444
+D2
+~
+~
+0 -1 30453
+D3
+~
+~
+0 -1 30442
+S
+#30444
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 0
+D0
+~
+~
+0 -1 30434
+D1
+~
+~
+0 -1 30445
+D2
+~
+~
+0 -1 30453
+D3
+~
+~
+0 -1 30443
+S
+#30445
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30435
+D1
+~
+~
+0 -1 30446
+D2
+~
+~
+0 -1 30455
+D3
+~
+~
+0 -1 30444
+S
+#30446
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30436
+D1
+~
+~
+0 -1 30447
+D2
+~
+~
+0 -1 30456
+D3
+~
+~
+0 -1 30445
+S
+#30447
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30437
+D1
+~
+~
+0 -1 30448
+D2
+~
+~
+0 -1 30457
+D3
+~
+~
+0 -1 30446
+S
+#30448
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30438
+D1
+~
+~
+0 -1 30449
+D2
+~
+~
+0 -1 30458
+D3
+~
+~
+0 -1 30447
+S
+#30449
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30439
+D2
+~
+~
+0 -1 30459
+D3
+~
+~
+0 -1 30448
+S
+#30450
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30440
+D1
+~
+~
+0 -1 30451
+D2
+~
+~
+0 -1 30460
+S
+#30451
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30441
+D1
+~
+~
+0 -1 30452
+D2
+~
+~
+0 -1 30461
+D3
+~
+~
+0 -1 30450
+S
+#30452
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30442
+D1
+~
+~
+0 -1 30453
+D2
+~
+~
+0 -1 30462
+D3
+~
+~
+0 -1 30451
+S
+#30453
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30443
+D1
+~
+~
+0 -1 30454
+D2
+~
+~
+0 -1 30463
+D3
+~
+~
+0 -1 30452
+S
+#30454
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30444
+D1
+~
+~
+0 -1 30455
+D2
+~
+~
+0 -1 30464
+D3
+~
+~
+0 -1 30453
+S
+#30455
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30445
+D1
+~
+~
+0 -1 30456
+D2
+~
+~
+0 -1 30465
+D3
+~
+~
+0 -1 30453
+S
+#30456
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30446
+D1
+~
+~
+0 -1 30457
+D2
+~
+~
+0 -1 30466
+D3
+~
+~
+0 -1 30455
+S
+#30457
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30447
+D1
+~
+~
+0 -1 30458
+D2
+~
+~
+0 -1 30467
+D3
+~
+~
+0 -1 30456
+S
+#30458
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30448
+D1
+~
+~
+0 -1 30459
+D2
+~
+~
+0 -1 30468
+D3
+~
+~
+0 -1 30457
+S
+#30459
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30449
+D2
+~
+~
+0 -1 30469
+D3
+~
+~
+0 -1 30458
+S
+#30460
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30450
+D1
+~
+~
+0 -1 30461
+D2
+~
+~
+0 -1 30470
+S
+#30461
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30451
+D1
+~
+~
+0 -1 30462
+D2
+~
+~
+0 -1 30471
+D3
+~
+~
+0 -1 30460
+S
+#30462
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30452
+D1
+~
+~
+0 -1 30463
+D2
+~
+~
+0 -1 30472
+D3
+~
+~
+0 -1 30461
+S
+#30463
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30453
+D1
+~
+~
+0 -1 30464
+D2
+~
+~
+0 -1 30473
+D3
+~
+~
+0 -1 30462
+S
+#30464
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 0
+D0
+~
+~
+0 -1 30453
+D1
+~
+~
+0 -1 30465
+D2
+~
+~
+0 -1 30474
+D3
+~
+~
+0 -1 30463
+S
+#30465
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30455
+D1
+~
+~
+0 -1 30466
+D2
+~
+~
+0 -1 30475
+D3
+~
+~
+0 -1 30464
+S
+#30466
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30456
+D1
+~
+~
+0 -1 30467
+D2
+~
+~
+0 -1 30476
+D3
+~
+~
+0 -1 30465
+S
+#30467
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30457
+D1
+~
+~
+0 -1 30468
+D2
+~
+~
+0 -1 30477
+D3
+~
+~
+0 -1 30466
+S
+#30468
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30458
+D1
+~
+~
+0 -1 30469
+D2
+~
+~
+0 -1 30478
+D3
+~
+~
+0 -1 30467
+S
+#30469
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30459
+D2
+~
+~
+0 -1 30479
+D3
+~
+~
+0 -1 30468
+S
+#30470
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30460
+D1
+~
+~
+0 -1 30471
+D2
+~
+~
+0 -1 30480
+S
+#30471
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30461
+D1
+~
+~
+0 -1 30472
+D2
+~
+~
+0 -1 30481
+D3
+~
+~
+0 -1 30470
+S
+#30472
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30462
+D1
+~
+~
+0 -1 30473
+D2
+~
+~
+0 -1 30482
+D3
+~
+~
+0 -1 30471
+S
+#30473
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30463
+D1
+~
+~
+0 -1 30474
+D2
+~
+~
+0 -1 30483
+D3
+~
+~
+0 -1 30472
+S
+#30474
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30464
+D1
+~
+~
+0 -1 30475
+D2
+~
+~
+0 -1 30484
+D3
+~
+~
+0 -1 30473
+S
+#30475
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30465
+D1
+~
+~
+0 -1 30476
+D2
+~
+~
+0 -1 30485
+D3
+~
+~
+0 -1 30474
+S
+#30476
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30466
+D1
+~
+~
+0 -1 30477
+D2
+~
+~
+0 -1 30486
+D3
+~
+~
+0 -1 30475
+S
+#30477
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30467
+D1
+~
+~
+0 -1 30478
+D2
+~
+~
+0 -1 30487
+D3
+~
+~
+0 -1 30476
+S
+#30478
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30468
+D1
+~
+~
+0 -1 30479
+D2
+~
+~
+0 -1 30488
+D3
+~
+~
+0 -1 30477
+S
+#30479
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30469
+D2
+~
+~
+0 -1 30489
+D3
+~
+~
+0 -1 30478
+S
+#30480
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30470
+D1
+~
+~
+0 -1 30481
+D2
+~
+~
+0 -1 30490
+S
+#30481
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30471
+D1
+~
+~
+0 -1 30482
+D2
+~
+~
+0 -1 30491
+D3
+~
+~
+0 -1 30480
+S
+#30482
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30472
+D1
+~
+~
+0 -1 30483
+D2
+~
+~
+0 -1 30492
+D3
+~
+~
+0 -1 30481
+S
+#30483
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30473
+D1
+~
+~
+0 -1 30484
+D2
+~
+~
+0 -1 30493
+D3
+~
+~
+0 -1 30482
+S
+#30484
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30474
+D1
+~
+~
+0 -1 30485
+D2
+~
+~
+0 -1 30494
+D3
+~
+~
+0 -1 30483
+S
+#30485
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30475
+D1
+~
+~
+0 -1 30486
+D2
+~
+~
+0 -1 30495
+D3
+~
+~
+0 -1 30484
+S
+#30486
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30476
+D1
+~
+~
+0 -1 30487
+D2
+~
+~
+0 -1 30496
+D3
+~
+~
+0 -1 30485
+S
+#30487
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30477
+D1
+~
+~
+0 -1 30488
+D2
+~
+~
+0 -1 30497
+D3
+~
+~
+0 -1 30486
+S
+#30488
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30478
+D1
+~
+~
+0 -1 30489
+D2
+~
+~
+0 -1 30498
+D3
+~
+~
+0 -1 30487
+S
+#30489
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30479
+D2
+~
+~
+0 -1 30499
+D3
+~
+~
+0 -1 30488
+S
+#30490
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30480
+D1
+~
+~
+0 -1 30491
+D2
+~
+~
+0 0 30000
+S
+#30491
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30481
+D1
+~
+~
+0 -1 30492
+D2
+~
+~
+0 0 30001
+D3
+~
+~
+0 -1 30490
+S
+#30492
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30482
+D1
+~
+~
+0 -1 30493
+D2
+~
+~
+0 0 30003
+D3
+~
+~
+0 -1 30491
+S
+#30493
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30483
+D1
+~
+~
+0 -1 30494
+D2
+~
+~
+0 0 30005
+D3
+~
+~
+0 -1 30492
+S
+#30494
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30484
+D1
+~
+~
+0 -1 30495
+D3
+~
+~
+0 -1 30493
+S
+#30495
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30485
+D1
+~
+~
+0 -1 30496
+D3
+~
+~
+0 -1 30494
+S
+#30496
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30486
+D1
+~
+~
+0 -1 30497
+D2
+~
+~
+0 0 30007
+D3
+~
+~
+0 -1 30495
+S
+#30497
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30487
+D1
+~
+~
+0 -1 30498
+D3
+~
+~
+0 -1 30496
+S
+#30498
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 0 3
+D0
+~
+~
+0 -1 30488
+D1
+~
+~
+0 -1 30499
+D3
+~
+~
+0 -1 30497
+S
+#30499
+The Strange Clearing~
+A large dirt circle forms the center of this strange clearing.
+Small piles of bones are scattered about and a vicious smell 
+is in the air. Perhaps youd better leave.
+~
+0 0 3
+D0
+You see twisted trunks.
+~
+~
+0 -1 30489
+D2
+~
+~
+0 0 31009
+D3
+You see twisted trunks.
+~
+~
+0 -1 30498
+S
+#32100
+The DearthWood~
+The trees of the DearthWood are thick and ancient, 
+all around you, the noises of the forest beckon.
+Gnarled trunks, and moss covered paths. The 
+light is shut out by the canopy making the woods
+seem even darker.
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 30001 10 30403 1
+M 0 31000 1 30404 1
+M 0 30001 10 30407 1
+M 0 30001 10 30409 1
+M 0 30001 10 30412 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$
