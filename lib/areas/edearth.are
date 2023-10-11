@@ -113,7 +113,7 @@ seem even darker.
 D0
 ~
 ~
-0 -1 31093
+0 -1 30393
 D1
 Twisted Trunks.
 ~
@@ -202,7 +202,7 @@ seem even darker.
 D0
 ~
 ~
-0 0 31098
+0 0 30398
 D1
 ~
 ~
@@ -228,7 +228,7 @@ seem even darker.
 D0
 ~
 ~
-0 0 31099
+0 0 30399
 D2
 ~
 ~
@@ -2482,7 +2482,7 @@ You see twisted trunks.
 D2
 ~
 ~
-0 0 31009
+0 0 30309
 D3
 You see twisted trunks.
 ~
@@ -2510,20 +2510,12 @@ S
 
 #RESETS
 M 0 30001 10 30403 1
-M 0 31000 1 30404 1
+M 0 30300 1 30404 1
 M 0 30001 10 30407 1
 M 0 30001 10 30409 1
 M 0 30001 10 30412 1
 S
 
 
-
-#SHOPS
-0
-
-
-
-#MOBPROGS
-#0
 
 #$

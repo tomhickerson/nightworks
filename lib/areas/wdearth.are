@@ -1762,7 +1762,7 @@ D3
 A Obscured Trail.
 ~
 ~
-0 -1 2700
+0 -1 -1
 S
 #30368
 {YThe DearthWood Trail{x~
@@ -1806,7 +1806,7 @@ D1
 The Eastern Road.
 ~
 ~
-0 -1 7900
+0 -1 8400
 D2
 Twisted Trunks.
 ~
@@ -2407,7 +2407,7 @@ D1
 D2
 ~
 ~
-0 -1 32004
+0 -1 30404
 D3
 ~
 ~
@@ -2567,8 +2567,5 @@ S
 0
 
 
-
-#MOBPROGS
-#0
 
 #$

@@ -6685,7 +6685,7 @@ North Street is to the east and the 300 Block is to the west.
 D0
 ~
 ~
-0 0 -1
+0 0 1900
 D1
 ~
 ~
@@ -7677,7 +7677,7 @@ D0
 D1
 ~
 ~
-0 0 7900
+0 0 8400
 D2
 ~
 ~
@@ -8222,7 +8222,7 @@ D1
 D2
 ~
 ~
-0 0 28005
+0 0 28009
 D3
 ~
 ~

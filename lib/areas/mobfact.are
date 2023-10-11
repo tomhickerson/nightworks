@@ -170,6 +170,32 @@ cog~
 A rough, bronze cog which looks to be part of a larger mechanism.  It seems 
 to be of high-quality craftsmanship. 
 ~
+#9406
+tin mainspring~
+a tin mainspring~
+A tin mainspring is lying on the ground here.~
+tin~
+treasure 0 A
+0 0 0 0 0
+5 10 50 P 
+E
+mainspring~
+A small, delicate spring made of tin, designed to be flexible where 
+other metals cannot.  It seems to be very well made.
+~
+#9407
+steel flywheel~
+a steel flywheel~
+A large steel flywheel is lying on the ground here.~
+steel~
+treasure 0 A
+0 0 0 0 0
+5 20 250 P 
+E
+flywheel~
+A round steel wheel is here, which looks like a part of some other
+mechanism. It is heavy and looks to be of good quality.
+~
 #0
 
 #ROOMS
@@ -781,7 +807,7 @@ S
 #9428
 Northwestern corner of the attic~
 You are in the corner of the Factory's attic, where the ceiling is much lower and
-the walls come together at a point.  Dust cakes the floor here, and any furtniture
+the walls come together at a point.  Dust cakes the floor here, and any furniture
 and instruments are also covered in dust, unused for many years.
 ~
 0 D 0
@@ -790,6 +816,11 @@ Along a set of windows
 ~
 ~
 0 -1 9427
+D3 
+Along the northern side
+~
+~
+0 -1 9431
 S
 #9429
 The Records Room Library~
@@ -821,9 +852,14 @@ You are in a secret chamber built within the attic of the Factory.  A long table
 is here with leather straps, meant to hold someone or something down.  Machinery
 of different kinds are along the walls, built all of metal and glass.  A thin film 
 of dust covers most of the machines, but looks to be disturbed in a few areas.
-The only apparent way out is to the south.
+You can go to the south, or deeper into the lab to the east.
 ~
 0 AD 0
+D1
+Deeper into the lab
+~
+~
+0 -1 9432
 D2
 To the Record Room Library
 ~
@@ -833,6 +869,32 @@ E
 dust~
 Judging from the footprints and handprints, some one has been here recently.~
 S  
+#9431
+Northern wall of the attic~
+You are in a small space, between the roof of the factory to the north and several 
+enclosed rooms to the south.  Dust and dirt cover the walls, floor and ceiling here.
+Lots of boxes and storage crates block any egress but to the west.
+~
+0 A 0
+D3 
+The Northeastern Corner of the Attic
+~
+~
+0 -1 9428
+S
+#9432 
+The other side of the Secret Laboratory~
+You are in a far corner of the laboratory, a place obscured by the large machinery 
+in the center of the room.  Here there looks to be a set of stairs leading up, and
+several more tables covered in papers and books.
+~
+0 AD 0
+D3
+The Secret Laboratory Entrance 
+~
+~
+0 -1 9430
+S
 #0
 
 #RESETS
@@ -871,7 +933,7 @@ M 0 9403   7 9424  1	* The Cityguard head
 M 0 9406   8 9424  1	* The factory worker
 M 0 9405   7 9424  1	* The toxic slime
 O 0 9402   0 9429  * candleabra in the library
-O 0 9401   1 9428 * making it easier
+O 0 9401   1 9428 * making it easier, putting another candle in the attic
 S
 
 #SHOPS

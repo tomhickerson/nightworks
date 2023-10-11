@@ -326,8 +326,9 @@ S
 #104
 Entrance to A Village~
 You stand at the entrance to a small village.  You can see across the whole
-village easily.  It looks to be deserted.  You thought you heard singing previously,
-but now it seems eerily silent.
+village easily.  It looks to be deserted, except for a large number of cats.  
+You thought you heard singing previously, but now it seems eerily silent, 
+and the cats silently regard you.
 ~
 0 0 2
 D0
@@ -525,7 +526,7 @@ Abandoned building
 S
 #112
 The old Road~
-You're on the old road, in a quiet town.  The silence is slightly unnerving.  
+You're on the old road, in a quiet abandoned town.  The silence is slightly unnerving.  
 A small home is to the west, unused and falling into disrepair.  The old Road 
 continues to the south and east.
 ~
@@ -572,8 +573,9 @@ An abandoned House
 S
 #114
 The old Road~
-Yet another part of Smurfy Road.  Hey if you go west its the last
-section of Smurfy Road.  You can go back to the smurfy well to the east.
+Yet another part of the old Road.  Buildings rise on all sides of you, and 
+you can see the occaisional cat sitting on the rooftops, looking at you.  
+You can go back to the well to the east.
 ~
 0 0 1
 D1
@@ -758,7 +760,7 @@ S
 The Inn of the Lonely Golem~
 You are in a small, well-lit tavern room.  Several individuals and a barkeep
 are here, which seem to be the only denizens of this entire village.  There 
-is a status in the middle of the room, and it looks like there are some extra
+is a statue in the middle of the room, and it looks like there are some extra
 booths in the back of the Inn.  A stone path lies thru the exit to the north.
 ~
 0 0 1

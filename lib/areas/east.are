@@ -584,7 +584,7 @@ The Eastern Trail.
 S
 #8421
 {gDarken Forest{x~
-You are standing in a large forest north of the east road leaving Newtown.
+You are standing in a large forest north of the east road leaving Calinth.
 Thick ancient oaks and tall pines are all around you, sounds and smells of
 the forest fill the area. To the north is more forest and further east you
 can hear the sound of water rolling onto a beach
@@ -601,7 +601,7 @@ D2
 S
 #8422
 {gDarken Forest{x~
-You are standing in a large forest north of the east road leaving Newtown.
+You are standing in a large forest north of the east road leaving Calinth.
 Thick ancient oaks and tall pines are all around you. Sounds and smells of
 the forest fill the area.  To the north is more forest and further east you
 can hear the sound of water rolling onto a beach.
@@ -618,7 +618,7 @@ D3
 S
 #8423
 {gDarken Forest{x~
-You are standing in a large forest north of the east road leaving Newtown.
+You are standing in a large forest north of the east road leaving Calinth.
 Thick ancient oaks and tall pines are all around you. Sounds and smells of
 the forest fill the area.  To the north is more forest and further east you
 can hear the sound of water rolling onto a beach.
@@ -635,7 +635,7 @@ D3
 S
 #8424
 {gDarken Forest{x~
-You are standing in a large forest north of the east road leaving Newtown.
+You are standing in a large forest north of the east road leaving Calinth.
 Thick ancient oaks and tall pines are all around you. Sounds and smells of
 the forest fill the area.  To the north is more forest and further east you
 can hear the sound of water rolling onto a beach.
@@ -697,10 +697,5 @@ S
 
 #SHOPS
 0
-
-
-
-#MOBPROGS
-#0
 
 #$
