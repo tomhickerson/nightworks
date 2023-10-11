@@ -141,6 +141,8 @@ public class PlainQuests {
         shq.setRooms(new ArrayList<>());
         shq.setQuestSetup(null);
         shq.setAdvancedPreamble(null);
+        shq.setPreamble("Oh my gosh! We killed one rabbit, and a bunch more appears in their place! " +
+                "They look real mean too... Do you think you can clear these out as well?  Just say YES if so!");
         shq.setDuration(25);
         shq.setAcceptPhrase("yes");
         shq.setAchievement(-1);
