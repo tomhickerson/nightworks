@@ -1,0 +1,1722 @@
+#AREA
+acastle.are~
+The Hobgoblin Keep~
+{20 75} Roth The Hobgoblin Keep~
+12800 12899
+
+
+#MOBILES
+#12800
+hobgoblin sentry~
+a hobgoblin sentry~
+A hobgoblin sentry snarls bitterly to himself.
+~
+Tough red skin blends with the thick leather and steel armor of the
+hobgoblin sentry, almost like a protective element itself.  Tufts of black
+hair sprout from the creature's face and neck, as well as the backs of its
+hands, and black eyes gleam in deeply set sockets.  He stands roughly six
+foot tall, and weighs close to three hundred pounds.  
+~
+unique~
+ABGT 0 -1000 0
+30 0 6d12+853 2d10+85 4d6+8 claw
+-9 -9 -9 -6
+FIKN 0 LQ 0
+stand stand male 101
+ABHMV ABCDEFGHIJKY large unknown
+#12801
+layman cirobea~
+a layman~
+A layman of the Cirobea wanders the keep.
+~
+The symbol of a purple comet wrapped around a blue moon adorns the red
+forehead of the Cirobean layman.  His hair has been shaved from the side of
+his head and a long tuft has been bound with a leather band in the center of
+the smooth red skull.  The layman is enormous, weighing a couple hundred
+pounds and standing well above six feet tall.  
+~
+unique~
+AGQ 0 0 0
+60 0 50d10+6750 16d10+85 8d6+28 none
+-30 -30 -30 -15
+CFHI 0 LQ 0
+stand stand either 0
+AHMV ABCDEFGHIJKY large unknown
+#12802
+hobgoblin sentry~
+a hobgoblin watchguard~
+A hobgoblin watchguard keeps a careful lookout.
+~
+An enormous, well-fed hobgoblin watchguard peers out from under thick,
+bushy eyebrows, wrinkling the dense folds of skin that sit between them. 
+Black beady eyes rove constantly, contrasting the slow, careful method of
+movement that he travels with.  He is well-protected by a layer of reddish
+skin that seems more like scales, and odd tufts of hair sprout out from the
+folds of skin.  
+~
+unique~
+ABGHT 0 -1000 0
+163 163 327d54+6585 163d10+85 54d3+86 claw
+-101 -101 -101 -66
+FIKN 0 LQ 0
+stand stand male 2000
+ABHMV ABCDEFGHIJKY large unknown
+#12803
+huge hobgoblin captain~
+a huge hobgoblin~
+A huge hobgoblin patrols the keep.
+~
+Beady eyes peer out from under bushy black brows, surveying the lay of
+the keep.  The captain of the guard is well-armed, and even his scaly red
+skin by itself provides an adequate amount of protection.  A soft fuzz of
+black hair, nearly transparent, covers his body from head to toe, and a
+thick tuft erupts from the top of his head and fans out like a small
+fountain.  
+~
+unique~
+AGHT 0 -450 0
+170 170 341d56+6869 170d10+85 56d3+90 claw
+-105 -105 -105 -70
+CEFKLR 0 LQ 0
+stand stand male 2000
+ABHMV ABCDEFGHIJKY large unknown
+#12804
+hobgoblin chieftian groll blackclaw~
+Groll Blackclaw~
+Groll Blackclaw presides over the room.
+~
+As stately as hobgoblins come, Groll Blackclaw is a follower of the old
+ways, adorned with the beads and skins that signify one who knows of the
+comet comings.  His red skin is accented by the green and blue of the fine
+attire he wears, and a tiny silver ring is looped through one of his bushy
+eyebrows.  
+~
+unique~
+ABGT H -351 0
+175 175 351d58+7069 175d10+85 58d3+92 smash
+-109 -109 -109 -72
+CEFIJKX AB EFGHLQ O
+stand stand male 2500
+ABHMV ABCDEFGHIJKY large unknown
+#12805
+hobgoblin commoner~
+a hobgoblin~
+A hobgoblin commoner is here.
+~
+Huge white tusks protrude from the commoner's face, flanking fat red lips
+that pout with confusion.  Small bunches of black hair sprout from between
+the thick folds of red flesh that cover the large body, and beady eyes peer
+out from under thick bushy brows that cross from one edge of the hairline to
+the other.  The hobgoblin stands nearly six feet tall and weighs between two
+and three hundred pounds.  
+~
+unique~
+AG FJ -1000 0
+120 120 241d40+3637 120d10+85 40d3+65 claw
+-71 -71 -71 -46
+FIN 0 LQ 0
+stand stand either 500
+ABHMV ABCDEFGHIJKY large unknown
+#12806
+hobgoblin merchant trader barris snaggletooth~
+Barris Snaggletooth~
+Barris Snaggletooth is here, honing a fine blade.
+~
+Barris Snaggletooth is a young hobgoblin, finely dressed in rich clothing
+that belies his station as the keep's weapon dealer.  He wears rich blue
+rings in his ears that stand out against his smooth red skin, and fine gold
+cufflinks gleam like treasure in the snow-white of his linen shirt.  
+~
+unique~
+ABGM 0 -250 0
+300 300 601d100+18181 300d10+85 100d3+155 claw
+-193 -193 -193 -130
+0 ABC LQ 0
+sit sit male 100000
+ABHMV ABCDEFGHIJKY large unknown
+#12807
+hobgoblin priestess~
+a hobgoblin priestess~
+A hobgoblin priestess chants solemnly.
+~
+A small hobgoblin with huge black eyes bears a very holy countenance, and
+across the red skin of her forehead is emblazoned a blue comet with a fiery
+tail that trails off into her lengthy black hair.  Long white tusks have
+been polished clean on either side of her pouty red mouth, and her eyebrows
+have been shaven so that they don't interfere with the comet symbol.  
+~
+unique~
+ABGQ V -1000 0
+165 165 331d55+6665 165d10+85 55d3+87 claw
+-102 -102 -102 -67
+FIV 0 LQ 0
+stand stand female 1500
+ABHMV ABCDEFGHIJKY large unknown
+#12808
+hobgoblin mage~
+a hobgoblin mage~
+A hobgoblin mage adjusts his robes.
+~
+The mage is small for hobgoblin, falling short of the usual six foot by
+nearly nine or ten inches and weighing perhaps only one hundred and fifty
+pounds.  His tusks look outlandishly large for his small face, and his jaws
+droop in long jowls that almost touch his chest.  Tough red skin, almost
+like an armor in itself, covers his body, and tufts of black hair, fine as a
+baby's, sprout among the thick folds of his skin.  
+~
+unique~
+ABGR DV -1000 0
+165 165 331d55+6665 165d10+85 55d3+87 claw
+-102 -102 -102 -67
+EFIV 0 LQ 0
+stand stand male 2800
+AHMV ABCDEFGHIJKY large unknown
+#12809
+Androth human priest~
+Androth~
+A human priest seems to blend in with the stone.
+~
+A pallid human, Androth almost blends in with the grey stone of the keep
+walls, his deepset eyes like agate in his long face.  He is thin and wiry,
+and the tendons stand out in his wrists and forearms like tight bowstrings
+ready to be released.  His high cheekbones extend nearly back into his
+hairline, giving him a constant wan grimace.  
+~
+unique~
+ABGQ 0 100 0
+160 160 321d53+6465 160d10+85 53d3+85 punch
+-99 -99 -99 -65
+EFNV 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium unknown
+#12810
+crystal statue elven maiden~
+a crystal statue~
+A crystal statue of an elven maiden embraces an unseen lover.
+~
+A lovely female elf has been painstakingly carved from clear crystal, her
+hands extended outward as if to embrace an unseen lover.  Shadows play in
+the folds of her dress as it blows in the wind, highlighting her shapely
+legs and tiny feet.  
+~
+unique~
+ABGa N 1000 0
+140 140 281d46+4243 140d10+85 46d3+75 crush
+-85 -85 -85 -55
+CFINV 0 0 KZ
+stand stand female 0
+AEHJMVc ABCDEFGHIJK medium unknown
+#12811
+Geris Lockjaw~
+Geris Lockjaw~
+Geris Lockjaw, owner of Hobgoblin Keep's only quest store, inspects her wares.
+~
+A massive female hobgoblin.
+~
+unique~
+ABM 0 0 0
+150 150 301d50+4546 150d10+85 50d3+80 none
+-91 -91 -91 -60
+0 CD LQ 0
+stand stand female 0
+AHMV ABCDEFGHIJKY medium unknown
+#12812
+cirobean ordersman~
+a Cirobean ordersman~
+A Cirobean ordersman mouths the words of silent prayer.
+~
+Orange and yellow tatooed flames cover the face of the Cirobean
+ordersman, whose red skin blends with the ink to create a fearsome visage. 
+Purple comets run up the backs of each of his forearms, and a blue moon
+swirls with mist on his palms.  His tusks have been polished to a gleaming
+white, and beady black eyes peer out of the deep hollow eyesockets of his
+skull.  
+~
+unique~
+ART 0 0 0
+155 155 311d51+4696 155d10+85 51d3+82 none
+-95 -95 -95 -62
+EFNW 0 LQ 0
+stand stand male 0
+AHMV ABCDEFGHIJKY large unknown
+#12813
+teju lizard~
+a teju lizard~
+A teju lizard tastes the air.
+~
+A large green lizard tastes the air with his purple tongue, flicking it
+in and out between his thin black lips.  His scales almost shine with an
+unearthly green shimmer as they slide over his shoulders and legs when he
+moves, folds of skin gathering and then dispersing themselves.  
+~
+unique~
+A FZ -500 0
+130 130 261d43+3940 130d10+85 43d3+70 claw
+-78 -78 -78 -51
+FMNV 0 L I
+stand stand none 0
+AGXc ACDEFHKQV medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#12801
+A Path in the Forest~
+A large structure lies to the north amid the tall trees of the dense
+forest, and the remains of an ancient rockslide have formed impasses to the
+east and west, the pebbles falling in among the larger rocks to create a
+stony surface that it almost smooth.  Where the rich dark soil of the forest
+floor appears among the debris a few small plants struggle to survive,
+pushing their weak heads up towards the tiny bit of light that trickles down
+through the leafy canopy.  
+~
+0 0 3
+D0
+You see a old castle off in the distance.  
+~
+~
+0 0 12802
+D2
+To the south you see a dark and eerie forest.
+~
+~
+0 0 12875
+S
+#12802
+Dark Entrance~
+Shadows cloak the keep in eternal darkness, appearing to be almost
+material bings that lurk in corners and secretively snoop on interlopers and
+inhabitants alike.  An open passage runs to the north and south, and a heavy
+wooden door stands formidably in an inset stone doorway to the east.  
+~
+0 9 0
+D0
+Shadows can be seen in the flickering light ahead.
+~
+~
+0 0 12807
+D1
+~
+door wooden east~
+1 0 12803
+D2
+You see a forest path in the distance.
+~
+~
+0 0 12801
+S
+#12803
+Guard Room~
+The musky guard room is dark, and it is decorated delicately with a
+myriad of old cobwebs that trail from the stone of the ceiling, as well as
+small piles of trash and refuse that are scattered indescriminately around
+the room.  Two tables, smashed apart into large sections, sit against the
+north wall, and four low wooden beds line the south wall, empty.  
+~
+0 9 0
+E
+bed beds~
+The beds are made of thin boards and some coarse scraps of animal fur.
+~
+E
+table tables~
+Shattered pieces of wood is all that remains of these tables.
+~
+D1
+An old rotting wooden door stands to the east.
+~
+door wooden east~
+0 0 12804
+D3
+A wooden door bound with heavy iron bands sits to the west.
+~
+door wooden west~
+1 0 12802
+S
+#12804
+Armory~
+More of a tiny alcove in the keep than a room, the armory is but a corner
+filled with rusty ancient weapons in tall dusty racks.  Two suits of armor
+stand near the north wall, and there are four barrels filled with arrows in
+the southern corner, almost concealed by the dark shadows that crawl among
+the weaponry.  
+~
+0 9 0
+E
+armor~
+Once made of finely crafted chainmail, they are now laden with rust,
+propped up on wooden dummies.  
+~
+E
+arrow arrows~
+The arrows are rotted and useless.  
+~
+E
+barrel barrels~
+The barrels are waist high, and arrows spill out to the floor where time
+has rotted through the sides of the barrels.  
+~
+D3
+~
+door wooden west~
+0 0 12803
+S
+#12805
+Abandoned Dining Room~
+Once an elegant dining room, this portion of the keep has been long
+abandoned, and thick cobwebs strung almost from ceiling to floor stand in
+testimony to the lack of visitors.  Tables and chairs are scattered about
+the room, as if the last dinner eaten here ended in turmoil, and one
+unbroken fluted glass lays on the delicate edge of what was once the central
+table, poised to fall.  
+~
+0 9 0
+E
+table~
+Underneath all of the cobwebs is a finely crafted table.
+~
+E
+cobwebs~
+The cobwebs are full of thousand little spiders crawling through them.
+~
+D1
+~
+~
+1 0 12822
+S
+#12807
+Corridor~
+The hallway is partially lit by two wall sconces at each of the four
+corners of this intersection, and vines and fungus twine around the bases of
+the sconces, running out across the walls and down to the floor.  The floor
+stones have permanently adopted a greenish tinge from the musty water that
+stands in a shallow pool at this intersection and spreads out in all four
+cardinal directions down the halls.  
+~
+0 9 0
+E
+wall vine fungus~
+The walls are covered in vines and fungus.  In various locations a yellow
+flower grows.  
+~
+D0
+Torch light can be seen off in the distance.
+~
+~
+0 0 12851
+D1
+Torch light can be seen off in the distance down the corridor.
+~
+~
+0 0 12808
+D2
+Torch light can be seen off in the distance down the corridor.
+~
+~
+0 0 12802
+D3
+Torch light can be seen off in the distance down the corridor.
+~
+~
+0 0 12823
+S
+#12808
+Corridor~
+The hallway is partially lit by a sconce on the southern wall, and the
+torchlight reflects off the dark green leaves of ivy that cover the stone
+walls of the hallway.  Small, still rivers of dank water sit in between the
+blocks that form the floor, and the stone has taken on a greenish tinge from
+the constant standing moisture.  
+~
+0 9 0
+E
+wall vine fungus~
+The walls are covered in vines and fungus.  In various locations a yellow
+flower grows.  
+~
+D0
+A wooden door, partially rotted away with age, lies to the north.
+~
+door wood~
+0 0 12852
+D1
+Torch light can be seen off in the distance.
+~
+~
+0 0 12809
+D3
+Torch light can be seen off in the distance.
+~
+~
+0 0 12807
+S
+#12809
+Corridor~
+The hallway is partially lit by a sconce on the south wall, which serves
+as a climbing post for many years worth of vines and fungus, and the floor
+stones have turned a greenish color from the constant touch of the slimy
+water that pools between the blocks and swirls around the base of the
+staircase that extends up to the guardtower above.  The hall continues north
+and west, and an iron door embossed with strange markings designates a room
+of some importance to the east.  
+~
+0 9 0
+E
+stone floor~
+The stone looks solid, but from years of neglect has turned it to its
+current color.  
+~
+E
+wall vine fungus~
+The walls are covered in vines and fungus.  In various locations a yellow
+flower grows.  
+~
+D0
+Shadows seem to be dancing in the distant torch light.  
+~
+~
+0 0 12810
+D1
+An iron door stands strong, untouched by time.
+~
+door iron~
+0 0 12827
+D3
+Torch light can be seen off in the distance.
+~
+~
+0 0 12808
+D4
+~
+~
+0 0 12849
+S
+#12810
+Corridor~
+The hallway is partially lit by two wall sconces on the western wall, and
+the torchlight reflects off the pools of standing water that have gathered
+on the floor, giving the stones a greenish tinge.  The corridor continues
+north and south, covered with the ivy that climbs the walls and trails
+across the ground and ceiling.  An entranceway is to the east.  
+~
+0 9 0
+E
+stone floor~
+The stone looks solid, but from years of neglect it has turned to its
+current color.  
+~
+E
+wall vine fungus~
+The walls are covered in vines and fungus.  In various locations a yellow
+flower grows.  
+~
+D0
+Torch light can be seen off in the distance.
+~
+~
+0 0 12811
+D1
+Age has pulled at the wooden door, bowing it and widening the cracks
+between the boards.  
+~
+door wooden east~
+1 0 12828
+D2
+Torch light can be seen off in the distance.
+~
+~
+0 0 12809
+S
+#12811
+Corridor~
+The corridor continues north and south, lit dimly by a few wall sconces
+that break the dull monotony of stone, ivy, and fungus.  There is a doorway
+to the east, and a sturdy wooden door hangs from iron hinges with its brass
+handle and lock glinting in the torchlight.  The gleam of the brass is
+reflected in the stagnant pools of water on the floor like a small, bright
+solar system embedded in greenish space.  
+~
+0 9 0
+E
+wall vine fungus~
+The walls are covered in vines and fungus.  In various locations a yellow
+flower grows.  
+~
+D0
+~
+~
+0 0 12812
+D1
+A wooden door with thick iron bands stands in the doorway to the east.  
+~
+door wooden east~
+1 0 12829
+D2
+Torch light can be seen off in the distance.~
+~
+0 0 12810
+D3
+~
+~
+0 0 12853
+S
+#12812
+Corridor~
+Bits of rotted wood have fallen off the doors to the east and west and
+landed in the murky pools of green water that cover the floor, laying like
+tiny islands in a sea of watery algae.  The hallway continues to the north
+and south, lit by a few small wall sconces and their reflected light in the
+water, and ivy and fungus coat all the walls like a second skin to the grey
+stone blocks.  
+~
+0 9 0
+E
+wall vine fungus~
+The walls are covered in vines and fungus.  In various locations a yellow
+flower grows.  
+~
+D0
+Torch light can be seen off in the distance.
+~
+~
+0 0 12813
+D1
+~
+~
+0 0 12837
+D2
+~
+~
+0 0 12811
+D3
+~
+door wooden west~
+0 0 12854
+S
+#12813
+Corridor~
+To the west, the hallway splits to continue along this level in a
+corridor and meander upwards in a winding staircase.  The dimly lit hall
+extends south on this level, and there is a doorway to the east between two
+bright wall sconces that cast their reflected light into the pools of
+stagnant water like twin suns.  The thick ivy that covers the walls shies
+back from the suns, cowering in fear of their brilliant radiance.  
+~
+0 9 0
+E
+wall vine fungus~
+The walls are covered in vines and fungus.  In various locations a yellow
+flower grows.  
+~
+D1
+A finely crafted door, worn by age yet still in excellent condition,
+marks the eastern entrance through a series of arcane symbols.  
+~
+door wooden east~
+0 0 12831
+D2
+Torch light can be seen off in the distance.
+~
+~
+0 0 12812
+D3
+Torch light can be seen off in the distance.  
+~
+~
+0 0 12814
+D4
+Dimly lit by sconces, a corridor slopes upwards from the western wall.  
+~
+~
+0 0 12832
+S
+#12814
+Corridor~
+Twin wooden doors, conspicuous in their spartan appearance, brood in
+inset doorways to the north and south, standing careful watch over the
+hallway that runs east and west.  Torchlight from several wall sconces play
+on the ivy that has accumulated over the stones during the years and the
+water that stands calm on the ground in murky pools.  
+~
+0 9 0
+E
+wall vine fungus~
+The walls are covered in vines and fungus. In various locations a yellow
+flower grows.
+~
+D0
+A plain wooden door bound with thick iron bands is set into the wall.
+~
+door wooden north~
+0 0 12836
+D1
+Torch light can be seen off in the distance.
+~
+~
+0 0 12813
+D2
+A plain wooden door bound with thick iron bands is set into the wall.  
+~
+door wooden south~
+1 0 12855
+D3
+Torch light can be seen off in the distance.
+~
+~
+0 0 12815
+S
+#12815
+Corridor~
+The intersection of hallways is partially lit by sconces at the corners
+of the stone walls, but shadows still lurk in the chinks between the blocks
+and the sharp edges between the walls and the ceiling.  The floor stones
+have turned green from years of being submerged under murky water and algae,
+and the walls are covered by thick ivy and fungus so that the stone
+underneath is barely visible.  
+~
+0 9 0
+D1
+Torch light can be seen off in the distance.
+~
+~
+0 0 12814
+D2
+Torch light can be seen off in the distance.
+~
+~
+0 0 12856
+D3
+Torch light can be seen off in the distance.
+~
+~
+0 0 12816
+S
+#12816
+Corridor~
+The corridor runs east and west, a mottled mix of grey stone and dark
+green ivy broken only by doorways to the north and south and a few sconces
+scattered at intervals along the hallway.  The floor stones have been
+modified to a complimentary green color by the algae and water that covers
+them like a shallow swamp.  
+~
+0 9 0
+E
+wall vine fungus~
+The walls are covered in vines and fungus. In various locations a yellow
+flower grows.
+~
+D0
+~
+door wooden north~
+1 0 12838
+D1
+Torch light can be seen off in the distance.
+~
+~
+0 0 12815
+D2
+~
+door wooden south~
+1 0 12857
+D3
+Torch light can be seen off in the distance.
+~
+~
+0 0 12817
+S
+#12817
+Corridor~
+A very tiny bit of dim light is exuded by the brass sconce on the west
+wall, defining the shadows that loom in the long hallway rather than the
+passage itself.  The door to the west is cloaked in darkness, and a golden
+light, almost heavenly, descends from the stairs that slope slowly upwards. 
+A shallow pool of murky green water lends to the dismal appearance of the
+wide, ivy-covered hall.  
+~
+0 9 0
+E
+wall vine fungus~
+The walls are covered in vines and fungus. In various locations a yellow
+flower grows.
+~
+D1
+Torch light can be seen off in the distance.
+~
+~
+0 0 12816
+D2
+Torch light can be seen off in the distance.
+~
+~
+0 0 12819
+D3
+~
+door west wooden~
+1 0 12842
+D4
+A corridor lit by wall sconces extends upwards at a slight stepped slope.  
+~
+~
+0 0 12818
+S
+#12818
+Guard Tower Stairs~
+Fungus and vines slope up the walls of the passageway with the shallow
+set of stairs, heading up to the guards' room and back down to one of the
+main hallways of the keep.  Several small brass sconces, placed at even
+intervals along the length of the stairs, cast an ample amount of golden
+torchlight on the stone steps.  
+~
+0 0 1
+E
+wall vine fungus~
+The walls are covered in vines and fungus. In varioss locations a yellow
+flower grows.
+~
+D4
+~
+~
+0 0 12840
+D5
+~
+~
+0 0 12817
+S
+#12819
+Corridor~
+A single sconce on the western wall serves to light a lengthy span of
+stone hallway, holding off the dark shadows that hover at the end of the
+light rays.  A wooden door is set into the eastern wall, and ivy surrounds
+the doorway and stretches along the lengths of the walls, as if it provided
+the borders to the keep rather than the sturdy stone beneath.  
+~
+0 9 0
+D0
+~
+~
+0 0 12817
+D1
+~
+door wooden east~
+1 0 12857
+D2
+Torch light can be seen off in the distance.
+~
+~
+0 0 12820
+S
+#12820
+Corridor~
+The stone hallway extends north and south, and wooden doors, bound with
+sturdy iron, are set into the east and west walls.  Green ivy and fungus
+coat the walls and ceiling in shiny vines that reflect the light of the
+small sconces that are positioned on either side of the doorways, and the
+ivy dips delicate tendrils into murky green water that covers the floor in
+shallow pools.  
+~
+0 9 0
+D0
+Torch light can be seen off in the distance.
+~
+~
+0 0 12819
+D1
+~
+door wooden east~
+0 0 12858
+D2
+Torch light can be seen off in the distance.
+~
+~
+0 0 12821
+D3
+~
+door wooden~
+0 0 12844
+S
+#12821
+Corridor~
+Green ivy coats the walls and ceiling of the dark corridor, broken only
+by the inset wooden door that lies to the west and the appearance of a few
+small yellow flowers that glow among the dark green leaves like brilliant
+jewels.  A sconce protrudes to the northern side of the door, positioned on
+the wall among the leaves as if it grew there, and shallow pools of stagnant
+green water cover the stones of the floor.  
+~
+0 9 0
+E
+wall vine fungus~
+The walls are covered in vines and fungus. In various locations a yellow
+flower grows.
+~
+D0
+Torch light can be seen off in the distance.
+~
+~
+0 0 12820
+D2
+Torch light can be seen off in the distance.
+~
+~
+0 0 12822
+D3
+~
+door wooden west~
+1 0 12845
+S
+#12822
+Corridor~
+A staircase of marbled grey stone extends upwards from the corridor at a
+slight slope, lit in a golden glow by the torchlight of several nearby wall
+sconces.  Years of exposure to moist warm air and the murky green water that
+covers the floor have allowed for the growth of an ivy cover so thick that
+the grey stone of the walls is barely visible, only clearly defined where
+the corridor cuts a sharp turn, extending to the north and east.  
+~
+0 9 0
+E
+wall vine fungus~
+The walls are covered in vines and fungus. In various locations a yellow
+flower grows.
+~
+D0
+Torch light can be seen off in the distance.
+~
+~
+0 0 12821
+D1
+Torch light can be seen off in the distance.
+~
+~
+0 0 12823
+D3
+~
+~
+1 0 12805
+D4
+~
+~
+0 0 12824
+S
+#12823
+Corridor~
+The corridor continues east and west, interrupted by a few brass sconces
+that cast a golden haze over the passage.  The walls and ceiling are
+immersed in a thick cover of ivy that has taken over the territory and
+subdued the grey stone blocks that lie underneath, and a huge, shallow pool
+of murky green water covers the floor of the hallway in a thin pond.  
+~
+0 9 0
+E
+wall vine fungus~
+The walls are covered in vines and fungus. In various locations a yellow
+flower grows.
+~
+D1
+Torch light can be seen off in the distance.
+~
+~
+0 0 12807
+D3
+Torch light can be seen off in the distance.
+~
+~
+0 0 12822
+S
+#12824
+Guard Tower Corridor~
+Wide, graded steps run between the first and second levels of the stone
+keep, guided upwards by the loose spiral of ivy that covers the walls and
+trails across the ceiling.  A thin trickle of water falls from the inside
+edge of each step, tumbling down the green indentations that have been worn
+in the stairs over the years down towards the bottom level, where two
+sconces provide a warm glow for travel.  
+~
+0 9 0
+E
+wall vine fungus~
+The walls are covered in vines and fungus. In various locations a yellow
+flower grows.
+~
+D4
+~
+~
+0 0 12825
+D5
+~
+~
+0 0 12822
+S
+#12825
+Lower Tower Room~
+A circular tower room hovers halfway up the stone keep, connected to the
+main floor by a shallow set of stairs on the western wall and to the level
+above by an iron ladder on the northern wall that extends through a hole in
+the ceiling.  Several diamond-shaped openings have been cut into the stone
+of the wall at different heights for the archers of years past to protect
+the keep from invaders.  
+~
+0 9 0
+D4
+~
+~
+0 0 12826
+D5
+A corridor dimly lit by wall sconces lies at the bottom of the stairs.  
+~
+~
+0 0 12824
+S
+#12826
+Battlements~
+The battlements stand strong at the top of the keep, with access to the
+lower levels available by an iron ladder that leads down through a hole in
+the stone floor.  Several large cauldrons stand near the edges of the
+waist-high walls, and the remains of a ballista lay here, along with a huge
+empty barrel that once contained arrows for battle.  
+~
+0 0 1
+D5
+~
+~
+0 0 12825
+S
+#12827
+Abandoned Study~
+The decaying remains of a once well-furnished study are covered in dust
+and mold so that the whole room seems to have been overcome by a monstrous
+shadow of rot.  The thin parchment of the books and ledgers has
+disintegrated into tiny piles of snow-white dust that coats the various
+shelves, and the wooden desk has collapsed on one side, spilling its
+contents on the floor by the edge.  
+~
+0 1037 0
+D3
+~
+Door West~
+0 0 12809
+S
+#12828
+Lair of the Orcish Lord~
+The lair is littered with trash so that the furniture is barely
+discernible from the heaps of refuse that litter the floor.  A low wooden
+bed on the eastern wall is covered in rank animal hides, rinds, small bones,
+and a variety of sticky coagulating liquids, while the small table next to
+it is free other than the loose ends of the lashings that hold it together
+and a single half-burnt candle.  
+~
+0 9 0
+D3
+An iron door stands in the entranceway to the west.  
+~
+Door Iron West~
+1 0 12810
+S
+#12829
+Guard Room~
+Although the wooden bunk beds appear to be ancient, the rest of the
+furniture in the room is newer, including a large wooden desk strewn with
+books and maps and several oak chairs.  Weapons and armor hang from hooks
+attached to the end of the top bunk of each row of beds, and various
+garments are scattered on the floor.  
+~
+0 9 0
+D3
+~
+Door West~
+1 0 12811
+S
+#12831
+An Altar~
+A small brazier burning incense wafts a smoky scented aroma into the air
+over a crude wooden altar that has been painted silver and several low
+wooden benches.  Two square windows let in a bit of natural light above a
+ledge about seven feet off the floor on the southern wall, and a gaudy,
+creased red banner hangs awkwardly below the ledge from the stone blocks.  
+~
+0 8 0
+D3
+A wooden door stands to the west.  
+~
+Door West~
+0 0 12813
+S
+#12832
+Guard Tower Stairs~
+Graded steps slick with collected moisture curl around the inner curve of
+the tower, leading upwards to the guards' room and down to the main level. 
+The grey stone of the walls is nearly concealed by dense layers of ivy that
+spread their deep green leaves over the blocks and up along the edge of the
+ceiling, and two dim sconces provide feeble rays that play off the luscious
+leafy surfaces.  
+~
+0 9 0
+D4
+~
+~
+0 0 12833
+D5
+~
+~
+0 0 12813
+S
+#12833
+Lower Tower Room~
+Diamond-shaped arrow ports are cut into the stone blocks of the walls,
+left from an earlier day when the keep was a well-protected stronghold that
+oft came under fire.  Tendrils of green ivy creep through the narrow windows
+and wind their way around the interior circumference of the room, edging
+into the cracks between the blocks and down into the corners at the bases of
+the walls.  
+~
+0 8 0
+D4
+~
+~
+0 0 12834
+D5
+~
+~
+0 0 12832
+S
+#12834
+Battlements~
+The stone battlements stretch from a hole in the floor by the west wall
+out across the top of the tower of the keep, crowning the defenses of the
+once-powerful fortress.  Huge empty cauldrons line the edge of the
+battlements, and the darkened stone near the edge of the walls bear
+testimony to their devastating effectiveness.  
+~
+0 0 1
+D5
+~
+~
+0 0 12833
+S
+#12835
+Chaplain's Quarters~
+A triangular altar is set in the southeast corner of the room, and
+various small holy items have been carefully laid out on it, as if in
+preparation for a ceremony.  A faded tapestry hangs on the wall above the
+headboard of the sparsely-covered bed to the north, and a sturdy wooden
+chest is at the foot of the low, rickety bed.  
+~
+0 9 0
+D3
+~
+Door West~
+0 0 12836
+S
+#12836
+Small Alcove~
+Rough redwood boards have been fitted together to conceal the stone
+blocks that comprise the walls of the keep, and an elaborate star symbol has
+been painted on the ceiling in golden tones.  A huge brass brazier is
+positioned in the middle of the room, casting a bright glow on the red and
+silver carpet and sending aromatic fumes into the dank air.  
+~
+0 11 0
+D1
+~
+Door East~
+0 0 12835
+D2
+~
+Door South~
+0 0 12814
+S
+#12837
+Empty Bed Room~
+A gigantic desk and large wooden bed split the symmetrically square room
+neatly in half, with a narrow walkway between the furniture to the small
+square window on the north wall, and the oak door that is inset to the west.
+A large, flat chest is visible under the edge of the low bed, its brass
+fittings the only shiny thing in the drab room.  
+~
+0 9 0
+D3
+~
+~
+0 0 12812
+S
+#12838
+Small Alcove~
+Planed yellow poplar planks are fitted, tongue to groove, over the rough
+stone walls of the keep, and a large brass brazier situated in the center of
+the room casts an eerie red-orange glow across the surface of the golden
+wood.  An ivory carpet, threaded with silver, covers the floor, and a wildly
+abstract figure resembling a writhing star is depicted on the ceiling in
+gold paint.  
+~
+0 9 0
+D2
+~
+Door South~
+1 0 12816
+D3
+~
+~
+0 0 12839
+S
+#12839
+Mage's Quarters~
+Four small brass braziers are on tiny redwood tables in the corners of
+the room, and the smoke and light spread across the room like a visible haze
+of magical origin.  A blue moon and swirling comet are depicted on the grey
+stone ceiling, brilliant in the soft light and drab environment that
+includes a low bed on the north wall and a plain set of shelves by the door
+that almost reach the ceiling.  
+~
+0 9 0
+D1
+~
+~
+0 0 12838
+S
+#12840
+Lower Tower Room~
+Graded stone steps and an iron ladder meet on a landing roughly halfway
+up the height of the keep tower, a horizontal plane of stone suspended in
+the moist air.  Water seeps down the rungs of the iron ladder and drips in a
+thin trickle off of the inner edge of the stairs, and thick vines of ivy
+that climb the cylindrical walls thin to tendrils and strands that crawl
+gingerly across the ceiling.  
+~
+0 9 0
+D4
+~
+~
+0 0 12841
+D5
+~
+~
+0 0 12818
+S
+#12841
+Battlements~
+As if a giant cookie cutter had been pressed into the blocks,
+crenelations mark the edges of the tower high above the stone keep, and the
+remains of a ballista lean against the northern edge of the tower, a broken
+giant from days past.  The broken wood is scattered across the length of the
+platform, reaching the far edge of the hole that leads down to the next
+level against the western wall.  
+~
+0 0 1
+D5
+~
+~
+0 0 12840
+S
+#12842
+Abandoned Chapel~
+Rough, thick rugs of stiff sheep's wool cover the stone floor of the
+room, leaving bare only a rectangle of grey rock that lies under the altar
+on the west wall.  Brass braziers burn slowly at either end of the ledged
+surface of the altar, exuding a soft glow that mixes with the natural light
+bleeding in through two square windows high above the ledge.  
+~
+0 8 0
+D1
+~
+door wooden east~
+1 0 12817
+S
+#12844
+Library~
+An ancient-looking oriental carpet graces the stone floor in the center
+of the room, providing a resting spot for a large oak table, piled high with
+books and manuscripts, and its accompanying chair.  The north, south, and
+west walls are concealed by enormous bookcases containing a vast number of
+books of every size and color imaginable, and a door is inset into the
+fourth wall, allowing exit from the library.  
+~
+0 8 0
+D1
+~
+door wooden~
+0 0 12820
+S
+#12845
+Pantry~
+Poplar cabinets and shelves have bowed and warped with the moisture of
+the keep over time, so that the pantry appears to be some twisted torture
+chamber of curved doors and nearly circular rectangles.  Glass jars have
+burst and spread their sticky contents in pools of solid jelly on the rough
+stone floor, and small sacks have rotten so that their petrified food
+mingles with the dust of the bags.  
+~
+0 9 0
+D1
+~
+Door East~
+1 0 12821
+S
+#12847
+Lower Tower Room~
+Arrow slits are interspersed along the curved walls of the keep tower at
+regular intervals, and an iron ladder rises through a hole in the ceiling
+between two of the western openings.  Vines of green ivy twine through the
+slits and along the walls and ceiling, and water seeps down the sides of the
+ladder and flows in a shallow stream across the floor, condensing into a
+fast-flowing trickle to travel down the stairs that open up to the north.  
+~
+0 8 0
+D4
+A iron ladder extends up into the battlements above.
+~
+~
+0 0 12848
+D5
+~
+~
+0 0 12849
+S
+#12848
+Battlements~
+Huge iron cauldrons take up much of the space at the top of the tower,
+overshadowing the hole in the stone that allows descent to the level below
+and the shattered remnants of a ballista along the western side of the
+battlements.  Tendrils of dark green ivy creep through the gap in the floor,
+tentatively stretching feelers over the scraps of wood and iron.  
+~
+0 0 1
+D5
+A iron ladder leads down to the room below.
+~
+~
+0 0 12847
+S
+#12849
+Guard Tower Corridor~
+Shallow stone stairs curl lazily around the inside of the stone tower,
+caught between two landings and only dimly lit by twin braziers that flank
+the stairway.  Deep green ivy covers the walls, concealing the grey stone
+blocks of the keep, and a thin trickle of murky water flows down the inner
+edge of the steps, winding its way through an age-old groove that has been
+worn in the stone.  
+~
+0 9 0
+D4
+~
+~
+0 0 12847
+D5
+~
+~
+0 0 12809
+S
+#12851
+Corridor~
+The hallway is partially lit by sconces on both sides.  The walls have
+been covered by vines and fungus from years of growth.  The floor stones
+have turned to a greenish color from the water that stands here.  There is a
+wooden door to the north, while the corridor leads off to the south.  
+~
+0 9 0
+D0
+A plain wooden door, bound with iron band.
+~
+wood door north~
+1 0 12860
+D2
+~
+~
+0 0 12807
+S
+#12852
+Trading Post~
+The shop is tiny and cramped, as if an entire hall of armor and weapons
+had been stuffed into one little room.  The dim light of the twin brass
+braziers that sit at either end of the tall counter is picked up and
+reflected a thousand times off of the copper shields, steel swords, and
+brass helms that consume nearly every bit of space in the shop.  
+~
+0 9 0
+D2
+A wooden door, partially rotted away with age, is inset in the southern wall.
+~
+door wooden south~
+0 0 12808
+S
+#12853
+Throne Room~
+On the grey stone floor of the throne room, vibrant colors depict a
+gigantic comet with dragons swirling in various flight patterns through its
+flaming tail.  At the head of the comet, an onyx dais rises from the floor
+and supports a magnificent stone throne that rises towards the vaulted
+ceiling, peaking twenty feet up in twin spires.  
+~
+0 9 0
+D1
+~
+~
+0 0 12811
+D3
+~
+~
+0 0 12860
+S
+#12854
+Private Bedroom~
+An elaborate mural of a brilliant green dragon wrapped around a blue moon
+is laid out across the ceiling of the bedroom, and a matching blue and green
+woven run covers the grey stone floor.  A small set of redwood drawers
+occupies about a third of the southern wall, and a low bed with richly
+embroidered covers is adjacent to it.  Exits are available through stone
+archways to the east and west.  
+~
+0 9 0
+D1
+~
+door wooden east~
+0 0 12812
+D3
+~
+wood door west~
+1 0 12861
+S
+#12855
+Private Bedroom~
+An enormous oak armoire conceals nearly all of the southern wall of the
+room, eclipsing the grey stone of the keep from sight, and a low wooden bed
+of matching oak frame is set up against the eastern wall with a rich red
+coverlet depicting a flying dragon.  A small brass brazier burns on the
+floor a short distance from the head of the bed.  
+~
+0 9 0
+D0
+~
+wood door north~
+1 0 12814
+S
+#12856
+Corridor~
+The hallway is partially lit by sconces on both sides.  The walls have
+been covered by vines and fungus from years of growth.  The floor stones
+have turned to a greenish color from the water that stands here.  There is a
+wooden door to the south, while the corridor leads off to the north.  
+~
+0 9 0
+D0
+~
+~
+0 0 12815
+D2
+~
+wood door south~
+1 0 12861
+S
+#12857
+Bathing Room~
+Wooden tubs line the grey stone walls of the bathing room, and a fire pit
+has been carved out of the blocks that form the floor, a deep inverted arch
+with coals banked to a dim glow in the bottom.  Thick condensation covers
+the walls and ceiling, and a film of slimy water has built up on the floor
+over the years with a greenish-grey algae that has forever tainted the
+stone.  
+~
+0 9 0
+D0
+~
+wood door north~
+1 0 12816
+D3
+~
+door wooden west~
+1 0 12819
+S
+#12858
+Private Bedroom~
+A richly embroidered red coverlet lays across the low wooden bed on the
+north wall, and feathers escape their confines along the edge seams of the
+linen pillow that leans against the headboard.  A small brass brazier is
+next to the bed, and its dim glow lights the brass fittings on the tall
+cabinet on the south wall as if they were on fire.  Exits lie through stone
+archways to the east and west.  
+~
+0 9 0
+D1
+~
+wood door east~
+1 0 12861
+D3
+~
+door wooden west~
+0 0 12820
+S
+#12859
+Geris Lockjaw's Quest Wares~
+Twin vaulted archways of onyx mark the exits from this shop on the south
+and east walls, and every other bit of space in the room is occupied with
+crates, boxes, bags, chests and various other packages.  Two small, square
+windows flank the eastern door, allowing in a sliver of light from the
+outside through the dirt and grime that cover the panes.  Hobgoblins mill
+about the store anxious as to what new and wonderful wares are being sold.  
+~
+0 524301 0
+S
+#12860
+Southern Courtyard~
+Marble blocks frame an open grassy courtyard that welcomes in the sun's
+warm rays and the cool blue moonlight in equal parts.  An onyx comet sits
+gracefully aloft one such block, allowing the shadow of its elongated tail
+to fall across the edge of a circle of brass it sits on.  Exits lie in every
+direction but west through vaulted stone archways.  
+~
+0 0 0
+D0
+~
+~
+0 0 12861
+D1
+~
+~
+0 0 12853
+D2
+~
+~
+1 0 12851
+S
+#12861
+Northen Courtyard~
+Vaulted stone archways allow for exit in every direction, and white
+walkways marbelized with black run between the doorways, flanked at
+intervals by matchin stone columns.  The patches between the stone have been
+carefully cultivated so that flowers and plants of every shape and color
+flourish within the small regions.  
+~
+0 0 0
+D0
+~
+wood door north~
+1 0 12856
+D1
+~
+wood door east~
+1 0 12854
+D2
+~
+~
+0 0 12860
+D3
+A plain wooden door, bound with iron bands
+~
+~
+1 0 12858
+S
+#12867
+A Dark Forest~
+A dense forest of oak trees crowds in around the rough trail that winds
+its way among the trunks and over the roots, fighting to create an opening
+in the thick underbrush.  Odd yellow flowers cling to the tough bark of the
+oaks, spreading their petals towards a sky that is all but eclipsed by the
+leafy canopy.  
+~
+0 0 3
+D0
+~
+~
+0 0 12872
+D2
+~
+~
+0 0 6151
+S
+#12869
+A Dark Forest~
+~
+0 0 3
+D1
+~
+~
+0 0 12870
+S
+#12870
+Opening in the Forest~
+The forest here has been cleared out.  Pelts from various animals lay all
+about the ground.  Sounds of barking can be heard from a large dog tied up
+just at the edge of the clearing.  You see a small hut at the edge of the
+clearing just south of you.  
+~
+0 0 3
+D2
+A small hut in the forest.
+~
+~
+0 0 12871
+D3
+~
+~
+0 0 12869
+S
+#12871
+Inside a Hut~
+As you enter the hut, you can see a iron furnace near the east wall with
+a cot near it.  Book shelves line the west wall and are stuffed with various
+bone cravings.  
+~
+0 1032 0
+D0
+A small clearing.
+~
+~
+0 0 12870
+S
+#12872
+A Dark Forest~
+Thick briars cling to the edges of the path, working their way up the
+rough trunks of the oak trees and out onto the lower branches to dangle down
+in the moist forest air.  Shadows constantly linger among the roots of the
+trees and slip through the dense underbrush, silently dodging thorns and
+sharp sticks to evade the small amount of light that makes its way down
+through the treetops.  
+~
+0 0 3
+D0
+~
+~
+0 0 12875
+D2
+~
+~
+0 0 12867
+S
+#12875
+A Dark Forest~
+Tall oak rise high on either side of the forest path, spreading their
+thick branches through the moist air above and fanning broad leaves that
+block light from reaching the forest floor.  Briars and brambles claw their
+way into the path, writhing around the roots of the tall trees and fighting
+up the trunks into the lower branches.  
+~
+0 0 3
+D0
+~
+~
+0 0 12801
+D2
+~
+~
+0 0 12872
+S
+#0
+
+
+
+#SPECIALS
+M 12800 spec_guard
+M 12801 spec_cast_cleric
+M 12802 spec_guard
+M 12803 spec_guard
+M 12804 spec_cast_adept
+M 12807 spec_cast_cleric
+M 12808 spec_cast_mage
+M 12809 spec_cast_cleric
+M 12812 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 12802 1 1
+D 0 12803 3 1
+D 0 12805 1 1
+D 0 12810 1 1
+D 0 12811 1 1
+D 0 12814 2 1
+D 0 12816 0 1
+D 0 12816 2 1
+D 0 12817 3 1
+D 0 12819 1 1
+D 0 12821 3 1
+D 0 12822 3 1
+D 0 12828 3 1
+D 0 12829 3 1
+D 0 12838 2 1
+D 0 12842 1 1
+D 0 12845 1 1
+D 0 12851 0 1
+D 0 12854 3 1
+D 0 12855 0 1
+D 0 12856 2 1
+D 0 12857 0 1
+D 0 12857 3 1
+D 0 12858 1 1
+D 0 12860 2 1
+D 0 12861 0 1
+D 0 12861 1 1
+D 0 12861 3 1
+M 0 12802 15 12802 2 Load a hobgoblin watchguard
+M 0 12802 10 12802 2 Load a hobgoblin watchguard
+M 0 12800 10 12803 2 Load a hobgoblin sentry
+M 0 12800 10 12803 2 Load a hobgoblin sentry
+M 0 12813 8 12807 1 Load a teju lizard
+M 0 12805 20 12807 1 Load a hobgoblin
+M 0 12805 20 12809 1 Load a hobgoblin
+M 0 12813 8 12809 1 Load a teju lizard
+M 0 12805 20 12812 2 Load a hobgoblin
+M 0 12805 20 12812 2 Load a hobgoblin
+M 0 12805 20 12816 2 Load a hobgoblin
+M 0 12805 20 12816 2 Load a hobgoblin
+M 0 12813 8 12816 1 Load a teju lizard
+M 0 12805 20 12817 1 Load a hobgoblin
+M 0 12805 20 12820 2 Load a hobgoblin
+M 0 12813 8 12820 1 Load a teju lizard
+M 0 12812 6 12822 1 Load a Cirobean ordersman
+M 0 12805 20 12823 1 Load a hobgoblin
+M 0 12813 8 12824 1 Load a teju lizard
+M 0 12802 10 12826 1 Load a hobgoblin watchguard
+M 0 12810 1 12827 1 Load a crystal statue
+M 0 12802 10 12828 2 Load a hobgoblin watchguard
+M 0 12802 10 12828 2 Load a hobgoblin watchguard
+M 0 12800 10 12829 1 Load a hobgoblin sentry
+M 0 12809 1 12831 1 Load Androth
+M 0 12801 5 12833 1 Load a layman
+M 0 12802 10 12834 1 Load a hobgoblin watchguard
+M 0 12807 1 12835 1 Load a hobgoblin priestess
+M 0 12801 5 12836 2 Load a layman
+M 0 12805 20 12837 2 Load a hobgoblin
+M 0 12805 20 12837 2 Load a hobgoblin
+M 0 12812 6 12838 1 Load a Cirobean ordersman
+M 0 12801 5 12838 1 Load a layman
+M 0 12808 1 12839 1 Load a hobgoblin mage
+M 0 12802 10 12841 1 Load a hobgoblin watchguard
+M 0 12813 8 12842 1 Load a teju lizard
+M 0 12812 6 12842 1 Load a Cirobean ordersman
+M 0 12805 20 12845 2 Load a hobgoblin
+M 0 12802 10 12848 1 Load a hobgoblin watchguard
+M 0 12802 10 12851 1 Load a hobgoblin watchguard
+M 0 12805 21 12851 1 Load a hobgoblin
+M 0 12806 1 12852 1 Load Barris Snaggletooth
+M 0 12804 1 12853 1 Load Groll Blackclaw
+M 0 12801 5 12854 1 Load a layman
+M 0 12813 8 12855 1 Load a teju lizard
+M 0 12805 20 12855 1 Load a hobgoblin
+M 0 12805 20 12857 2 Load a hobgoblin
+M 0 12800 15 12857 1 Load a hobgoblin sentry
+M 0 12812 6 12858 1 Load a Cirobean ordersman
+M 0 12811 1 12859 1 Load Geris Lockjaw
+M 0 12803 1 12860 1 Load a huge hobgoblin
+M 0 12800 15 12860 2 Load a hobgoblin sentry
+M 0 12800 15 12860 2 Load a hobgoblin sentry
+M 0 12800 15 12872 1 Load a hobgoblin sentry
+S
+
+
+
+#SHOPS
+12806 9 5 0 0 0 100 50 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1225,15 +1225,16 @@ public class Update {
                         //if (ch.fighting != null) {
                         //    stop_fighting(ch, true);
                         //}
-                        act("$n disappears into the void.", ch, null, null, TO_ROOM);
-                        send_to_char("You disappear into the void.\n", ch);
+                        // act("$n disappears into the void.", ch, null, null, TO_ROOM);
+                        // send_to_char("You disappear into the void.\n", ch);
                         if (ch.level > 1) {
                             save_char_obj(ch);
+                            log_string("Auto Saved " + ch.name);
                         }
-                        if (ch.level < 10) {
-                            char_from_room(ch);
-                            char_to_room(ch, get_room_index(ROOM_VNUM_LIMBO));
-                        }
+                        // if (ch.level < 10) {
+                        //    char_from_room(ch);
+                        //    char_to_room(ch, get_room_index(ROOM_VNUM_LIMBO));
+                        // }
                     }
                 }
 
