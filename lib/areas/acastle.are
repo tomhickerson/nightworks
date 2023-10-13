@@ -1,7 +1,7 @@
 #AREA
 acastle.are~
 The Hobgoblin Keep~
-{20 75} Roth The Hobgoblin Keep~
+{30 75} Roth The Hobgoblin Keep~
 12800 12899
 
 
@@ -56,10 +56,10 @@ folds of skin.
 ~
 unique~
 ABGHT 0 -1000 0
-163 163 327d54+6585 163d10+85 54d3+86 claw
--101 -101 -101 -66
+30 0 6d12+853 2d10+85 4d6+8 claw
+-9 -9 -9 -6
 FIKN 0 LQ 0
-stand stand male 2000
+stand stand male 201
 ABHMV ABCDEFGHIJKY large unknown
 #12803
 huge hobgoblin captain~
@@ -75,10 +75,10 @@ fountain.
 ~
 unique~
 AGHT 0 -450 0
-170 170 341d56+6869 170d10+85 56d3+90 claw
--105 -105 -105 -70
+30 0 6d12+853 2d10+85 4d6+8 claw
+-11 -11 -11 -9
 CEFKLR 0 LQ 0
-stand stand male 2000
+stand stand male 250
 ABHMV ABCDEFGHIJKY large unknown
 #12804
 hobgoblin chieftian groll blackclaw~
@@ -93,10 +93,10 @@ eyebrows.
 ~
 unique~
 ABGT H -351 0
-175 175 351d58+7069 175d10+85 58d3+92 smash
--109 -109 -109 -72
+61 0 50d10+7000 5d10+85 8d6+30 smash
+-30 -30 -30 -12
 CEFIJKX AB EFGHLQ O
-stand stand male 2500
+stand stand male 1500
 ABHMV ABCDEFGHIJKY large unknown
 #12805
 hobgoblin commoner~
@@ -112,10 +112,10 @@ and three hundred pounds.
 ~
 unique~
 AG FJ -1000 0
-120 120 241d40+3637 120d10+85 40d3+65 claw
--71 -71 -71 -46
+25 0 6d12+853 2d10+85 4d6+8 claw
+-1 -1 -1 -1
 FIN 0 LQ 0
-stand stand either 500
+stand stand either 50
 ABHMV ABCDEFGHIJKY large unknown
 #12806
 hobgoblin merchant trader barris snaggletooth~
