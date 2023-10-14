@@ -129,10 +129,10 @@ cufflinks gleam like treasure in the snow-white of his linen shirt.
 ~
 unique~
 ABGM 0 -250 0
-300 300 601d100+18181 300d10+85 100d3+155 claw
--193 -193 -193 -130
+65 3 50d10+8250 30d10+85 10d8+24 claw
+-35 -33 -33 -13
 0 ABC LQ 0
-sit sit male 100000
+sit sit male 10000
 ABHMV ABCDEFGHIJKY large unknown
 #12807
 hobgoblin priestess~
@@ -147,8 +147,8 @@ have been shaven so that they don't interfere with the comet symbol.
 ~
 unique~
 ABGQ V -1000 0
-165 165 331d55+6665 165d10+85 55d3+87 claw
--102 -102 -102 -67
+45 5 25d10+3000 16d10+85 8d4+16 claw
+-10 -10 -10 -6
 FIV 0 LQ 0
 stand stand female 1500
 ABHMV ABCDEFGHIJKY large unknown
@@ -166,10 +166,10 @@ baby's, sprout among the thick folds of his skin.
 ~
 unique~
 ABGR DV -1000 0
-165 165 331d55+6665 165d10+85 55d3+87 claw
--102 -102 -102 -67
+44 4 25d10+2750 16d10+85 8d4+8 claw
+-12 -12 -12 -6
 EFIV 0 LQ 0
-stand stand male 2800
+stand stand male 280
 AHMV ABCDEFGHIJKY large unknown
 #12809
 Androth human priest~
@@ -184,10 +184,10 @@ hairline, giving him a constant wan grimace.
 ~
 unique~
 ABGQ 0 100 0
-160 160 321d53+6465 160d10+85 53d3+85 punch
--99 -99 -99 -65
+60 0 50d10+6750 16d10+85 8d6+16 punch
+-29 -29 -29 -5
 EFNV 0 0 0
-stand stand male 3000
+stand stand male 300
 AHMV ABCDEFGHIJK medium unknown
 #12810
 crystal statue elven maiden~
@@ -201,8 +201,8 @@ legs and tiny feet.
 ~
 unique~
 ABGa N 1000 0
-140 140 281d46+4243 140d10+85 46d3+75 crush
--85 -85 -85 -55
+40 1 15d10+1850 14d10+85 4d8+15 crush
+-15 -15 -15 -5
 CFINV 0 0 KZ
 stand stand female 0
 AEHJMVc ABCDEFGHIJK medium unknown
@@ -215,8 +215,8 @@ A massive female hobgoblin.
 ~
 unique~
 ABM 0 0 0
-150 150 301d50+4546 150d10+85 50d3+80 none
--91 -91 -91 -60
+50 1 10d50+4200 15d10+85 5d8+19 none
+-21 -21 -21 -6
 0 CD LQ 0
 stand stand female 0
 AHMV ABCDEFGHIJKY medium unknown
@@ -234,8 +234,8 @@ skull.
 ~
 unique~
 ART 0 0 0
-155 155 311d51+4696 155d10+85 51d3+82 none
--95 -95 -95 -62
+55 1 50d10+4696 15d10+85 5d8+19 none
+-20 -20 -20 -6
 EFNW 0 LQ 0
 stand stand male 0
 AHMV ABCDEFGHIJKY large unknown
@@ -251,8 +251,8 @@ moves, folds of skin gathering and then dispersing themselves.
 ~
 unique~
 A FZ -500 0
-130 130 261d43+3940 130d10+85 43d3+70 claw
--78 -78 -78 -51
+30 1 6d12+840 13d10+85 4d6+7 claw
+-7 -7 -7 -5
 FMNV 0 L I
 stand stand none 0
 AGXc ACDEFHKQV medium unknown
@@ -1714,9 +1714,5 @@ S
 12806 9 5 0 0 0 100 50 0 23
 0
 
-
-
-#MOBPROGS
-#0
 
 #$
