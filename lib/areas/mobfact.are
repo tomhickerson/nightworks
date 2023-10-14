@@ -196,6 +196,19 @@ flywheel~
 A round steel wheel is here, which looks like a part of some other
 mechanism. It is heavy and looks to be of good quality.
 ~
+#9408
+iron golem head~
+an iron golem head~
+An iron golem's head is lying on the ground here.~
+iron~
+container 0 0
+50 0 0 5 100
+0 10 9 P
+E
+iron golem head~ 
+An iron golem head is on the ground here, and while it is unmovable, 
+you can see some openings in the back of it for several memory tubes.
+~
 #0
 
 #ROOMS
