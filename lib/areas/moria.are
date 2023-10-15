@@ -2111,13 +2111,17 @@ D3
 S
 #4073
 End of tunnel~
-The tunnel stops here.
+The tunnel stops here, abruptly, but you can see a shaft leading up.
 ~
 0 AD 3
 D3
 ~
 ~
 0 0 4072
+D4
+~
+~
+0 0 4075
 S
 #4074
 The hole~
@@ -2133,6 +2137,40 @@ D5
 ~
 ~
 0 0 4171
+S
+#4075
+The mineshaft~
+You are carefully climbing along an abandoned mineshaft.  You can 
+make your way either up or down.  You think you feel a soft breeze
+above you.
+~
+0 AD 3
+D4
+~
+~
+0 0 4076
+D5
+~
+~
+0 0 4073
+S
+#4076
+Upper part of the mineshaft~
+You are slowly making your way along the upper part of an abandoned
+mineshaft.  The wooden beams here can carry your weight, but dirt
+and dust slowly trickle down around you.  Above you, there is a slight
+breeze of fresh air, while beneath you there is only darkness and 
+silence.
+~
+0 AD 3
+D4
+~
+~
+0 0 4500
+D5 
+~
+~
+0 0 4075
 S
 #4100
 The tunnel~
