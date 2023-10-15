@@ -2464,10 +2464,15 @@ S
 #6151
 The narrow trail.~
 This area of the trail is also very peculiar.  You can see no signs of animal
-life what so ever.  The structure of the surrounding trees forces the path to
-make a sharp turn to the east.
+life what so ever.  The surrounding trees look darker and more foreboding to 
+the north via a rough trail, and your wider path makes a sharp turn to the east.
 ~
 0 AD 3
+D0
+the forest seems darker this way.
+~
+~
+0 -1 12867
 D1
 the trail bends east.
 ~
