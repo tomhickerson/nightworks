@@ -602,9 +602,15 @@ S
 Path in the foothills~
 You are walking on the long, narrow path through the foothills.
 To your east you see a T-intersection and to the west the path
-continues far.
+continues far.  To the north, you think you can make out a 
+strange outcropping, carved into the hillside.
 ~
 0 0 2
+D0 
+A strange outcropping in the hills lies to the north.
+~
+~
+0 -1 15400
 D1
 You can go to the T-intersection this way.
 ~
