@@ -520,9 +520,15 @@ S
 Path in the foothills~
 You are walking on a path situated in the small foothills.
 The winds are more than average here but it feels nice. You can follow
-the path east or west.
+the path east or west.  There is an older, faded trail leading 
+north as well.
 ~
 0 0 2
+D0
+There is an old cracked road leading into a forest
+~
+~
+0 -1 11001
 D1
 The path continues in the foothills
 ~
