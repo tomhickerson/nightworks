@@ -576,6 +576,11 @@ The ground here shows signs of recent travel and a
 small bit of blood is on the ground.
 ~
 0 0 11
+D2 
+South into the forest.
+~
+~
+0 -1 8869
 D3
 The Eastern Trail.
 ~
@@ -587,7 +592,7 @@ S
 You are standing in a large forest north of the east road leaving Calinth.
 Thick ancient oaks and tall pines are all around you, sounds and smells of
 the forest fill the area. To the north is more forest and further east you
-can hear the sound of water rolling onto a beach
+can hear the sound of water rolling onto a beach.
 ~
 0 0 3
 D1

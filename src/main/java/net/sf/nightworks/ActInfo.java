@@ -2370,6 +2370,7 @@ class ActInfo {
 
                 {
                     found = true;
+                    String loc = victim.in_room.name + " (" + victim.in_room.area.name + ")";
                     buf.sprintf("%s%-28s %s\n",
                             (is_safe_nomessage(ch,
                                     (is_affected(victim, gsn_doppelganger) && victim.doppel != null) ?
@@ -2378,7 +2379,7 @@ class ActInfo {
                             (is_affected(victim, gsn_doppelganger)
                                     && !IS_SET(ch.act, PLR_HOLYLIGHT)) ?
                                     victim.doppel.name : victim.name,
-                            victim.in_room.name);
+                            loc);
                     send_to_char(buf, ch);
                 }
             }
@@ -2396,7 +2397,8 @@ class ActInfo {
                         && can_see(ch, victim)
                         && is_name(arg, victim.name)) {
                     found = true;
-                    buf.sprintf("%-28s %s\n", PERS(victim, ch), victim.in_room.name);
+                    String loc2 = victim.in_room.name + " (" + victim.in_room.area.name + ")";
+                    buf.sprintf("%-28s %s\n", PERS(victim, ch), loc2);
                     send_to_char(buf, ch);
                     break;
                 }

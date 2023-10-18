@@ -1,0 +1,5536 @@
+#AREA
+arkham.are~
+Arkham~
+{15 100} Lillith Arkham~
+700 899
+
+
+
+#MOBILES
+#702
+doomsayer~
+a doomsayer~
+A doomsayer wanders around, shouting about the end of the world.
+~
+He walks about the streets, spouting prophecies from a tattered holy
+book. His filty rags are covered with lice and fleas.
+~
+human~
+AGQ N 710 0
+16 0 5d34+175 16d10+100 4d7+8 slash
+0 0 0 5
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#703
+beggar~
+a beggar~
+A beggar sits here, begging.
+~
+He looks at you and and extends his flea-bitten arms.
+~
+human~
+AGHS N 310 0
+16 0 5d34+175 16d10+100 4d7+8 punch
+0 0 0 5
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#704
+jed~
+Brother Jed~
+Brother Jed is here, ranting and raving.
+~
+Brother Jed, Bible in hand, is damning everyone to Hell. A group of
+university students mock and laugh at his foolishness.
+~
+human~
+ABHT N 1000 0
+21 0 8d37+252 21d10+100 5d7+12 pound
+-3 -3 -3 3
+EFKNU 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium flesh
+#705
+guard~
+an Arkham Guard~
+An Arkham Guard is here, enforcing the law.
+~
+The guard keeps an eye out for lawbreakers, who will be punished
+swiftly and mercilessly.
+~
+human~
+AGT DN 700 0
+30 0 10d60+426 30d10+100 5d10+17 slash
+-8 -8 -8 0
+EFKNU 0 0 0
+stand stand none 3
+AHMV ABCDEFGHIJK medium flesh
+#706
+sweeper~
+a street sweeper~
+A street sweeper sweeps the streets.
+~
+The street sweeper sweeps the streets, pocketing anything that looks useful.
+~
+human~
+ACGS N 100 0
+18 0 6d36+205 18d10+100 4d7+12 sting
+-1 -1 -1 4
+EFKNU 0 0 0
+stand stand none 500
+AHMV ABCDEFGHIJK medium flesh
+#707
+hunter~
+a hunter~
+A hunter wanders through the woods.
+~
+The hunter flexes his burley muscles,
+making you reconsider attacking him.
+~
+human~
+AGT N 100 0
+25 0 10d42+322 25d10+100 5d8+16 slap
+-5 -5 -5 2
+EFKNU 0 0 0
+stand stand none 10
+AHMV ABCDEFGHIJK medium flesh
+#708
+rabbit~
+a rabbit~
+A rabbit hops along,
+unaware of your presence.
+~
+She stops to nibble on some grass, and then moves on.
+~
+rabbit~
+AGT N 100 0
+50 0 10d162+893 49d10+100 5d17+25 bite
+-20 -20 -20 -5
+EFHNR 0 0 0
+stand stand none 500
+AGV ACDEFHJK medium flesh
+#709
+student~
+a student~
+A university student rushes to class here.
+~
+A student rushes past you in a flurry of papers, almost
+knocking over a professor.
+~
+human~
+ABT N 100 0
+15 0 4d37+162 15d10+100 4d6+9 punch
+0 0 0 5
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#710
+professor~
+a professor~
+A stern professor is standing here.
+~
+The professor scolds you for being late to class.
+~
+human~
+ABRT N 200 0
+19 0 7d34+223 19d10+100 5d6+12 pound
+-1 -1 -1 4
+EFKNU 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium flesh
+#711
+librarian~
+a librarian~
+A librarian is stamping books.
+~
+The librarian yells at you to shut up.
+~
+human~
+ABRT N 300 0
+23 0 9d39+290 23d10+100 5d8+11 slash
+-4 -4 -4 2
+EFKNU 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium flesh
+#712
+captain~
+Gishka K'ahn, Captain of the Guard~
+Gishka K'ahn, Captain of the Guard is here.
+~
+Gishka K'ahn's rock-hard muscles are protected by a layer of thick,
+black platemail. He scowls at you, but doesn't leave his post.
+~
+human~
+ABT HN 500 0
+35 5 10d82+534 35d10+100 5d12+18 slash
+-11 -11 -11 0
+CEFJKU 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium flesh
+#713
+warden~
+a warden~
+A warden is here, checking on the inmates.
+~
+The warden paces back and forth, peeking in the patient's cells.
+~
+human~
+ABT N -200 0
+22 0 9d36+270 22d10+100 5d7+14 pierce
+-3 -3 -3 3
+EFKNU 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium flesh
+#714
+inmate~
+an inmate~
+An inmate is here, coughing and acting loony.
+~
+This raving lunatic also has Captain Trips, a deadly plague!
+~
+human~
+ABT NX -300 0
+18 0 6d36+205 18d10+100 4d7+12 pound
+-1 -1 -1 4
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#715
+madman~
+a madman~
+A madman is here, acting crazy.
+~
+This crazy keeps repeating "Ia, Ia! Shub-Niggurath!" over
+and over again.
+~
+human~
+ABT N -400 0
+19 0 7d34+223 19d10+100 5d6+12 slap
+-1 -1 -1 4
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#716
+salty~
+Old Salty~
+Old Salty, the tavern owner, is here wiping off
+ the bar.
+~
+Old Salty, retired from sailing, has opened this bar
+and now lives through the tales of his seabound
+patrons.
+~
+human~
+ABT HN -100 0
+35 0 10d82+534 35d10+100 5d12+18 pierce
+-11 -11 -11 0
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#717
+rogue~
+an ugly rogue~
+An ugly rogue lurks about, looking for a new crewmember.
+~
+This cretin is going to shanghai you if you don't watch out.
+~
+human~
+ABS N -400 0
+22 0 9d36+270 22d10+100 5d7+14 pierce
+-3 -3 -3 3
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#718
+spitfire~
+Spitfire~
+Spitfire the pirate is here, examining her ship.
+~
+She looks at you, or, rather, your moneybag.
+~
+human~
+AGS N -200 0
+27 0 10d49+360 27d10+100 5d9+15 pound
+-6 -6 -6 1
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#719
+mapmaker~
+A mapmaker~
+A mapmaker is drawing charts.
+~
+He seems too engrossed in his drawings to be of assistance to
+a customer.
+~
+human~
+ABT N 200 0
+31 0 10d64+448 31d10+100 5d10+19 sting
+-9 -9 -9 0
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#720
+potter~
+Deborah~
+Deborah, the potter, is making beautiful clay items.
+~
+She is obviously experienced, and her cups and pots are renowned throughout
+the world.
+~
+human~
+ABT N 400 0
+30 0 10d60+426 30d10+100 5d10+17 charge
+-8 -8 -8 0
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#721
+innkeeper~
+Burl~
+Burl, the inkeeper.
+~
+Burl runs the Elder God's Inn, a favorite resting place for weary
+travellers.
+~
+human~
+ABT N 300 0
+31 0 10d64+448 31d10+100 5d10+19 smash
+-9 -9 -9 0
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#722
+citizen~
+a citizen of Arkham~
+A citizen of Arkham looks depressed.
+~
+The citizen walks sluggishly down the gloomy cobbled streets.
+~
+human~
+AGT N 100 0
+17 0 5d39+187 17d10+100 4d7+10 pierce
+0 0 0 4
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#723
+maid~
+a maid~
+A maid hurries about, cleaning rooms.
+~
+Feather duster in hand, she rushes around dusting everthing in sight.
+~
+human~
+ABT N 100 0
+17 0 5d39+187 17d10+100 4d7+10 stab
+0 0 0 4
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#724
+baker~
+Candi~
+Candi the baker is making cookies.
+~
+Candi has a large sel
+ection of sweets, watch out if you're on a diet.
+~
+human~
+ABT HN 300 0
+40 0 10d108+648 40d10+100 5d14+20 slice
+-15 -15 -15 -2
+EFKNU 0 0 0
+stand stand none 2
+AHMV ABCDEFGHIJK medium flesh
+#725
+jack~
+Jack~
+Jack is here, looking suspicious.
+~
+Jack is one sick dude. Don't go near him.
+~
+human~
+AGS HQ -800 0
+44 0 10d130+759 44d10+100 5d15+24 pierce
+-17 -17 -17 -3
+EFJKNU 0 0 0
+stand stand none 2
+AHMV ABCDEFGHIJK medium flesh
+#726
+patch~
+Patch~
+Patch the barkeep is mixing drinks and telling tales.
+~
+Patch is entertaining, but watch your purse.
+~
+human~
+ABS H -400 0
+44 0 10d130+759 44d10+100 5d15+24 pound
+-17 -17 -17 -3
+EFKNU 0 0 0
+stand stand none 2
+AHMV ABCDEFGHIJK medium flesh
+#727
+thief~
+a slimy thief~
+A slimy thief is here trying to rob someone.
+~
+Yep, he's robbing you blind.
+~
+human~
+ABS N -300 0
+23 0 9d39+290 23d10+100 5d8+11 stab
+-4 -4 -4 2
+EFKNU 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium flesh
+#728
+fence~
+Juko the fence~
+Juko the fence is here, buying and selling.
+~
+Juko the fence is making a tidy profit from his fencing operation.
+~
+human~
+ABT H -100 0
+46 0 10d142+815 46d10+100 5d16+23 peck
+-18 -18 -18 -4
+EFKNU 0 0 0
+stand stand none 2
+AHMV ABCDEFGHIJK medium flesh
+#729
+pickpocket~
+a pickpocket~
+A young pickpocket prowls the streets.
+~
+Watch your coin purse around this young lad.
+~
+human~
+AGST N -100 0
+15 0 4d37+162 15d10+100 4d6+9 stab
+0 0 0 5
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#730
+sylvia~
+Sylvia~
+Sylvia the call girl is turning tricks here.
+~
+Sylvia tries to interest you in going upstairs with her...
+~
+human~
+AGT N -100 0
+18 0 6d36+205 18d10+100 4d7+12 slice
+-1 -1 -1 4
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#731
+peasant~
+a peasant~
+A peasant walks about gloomily.
+~
+She looks at you with sorrowful eyes, and then continues on her errands.
+~
+human~
+AGT N 200 0
+16 0 5d34+175 16d10+100 4d7+8 slap
+0 0 0 5
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#732
+druggist~
+a druggist~
+A druggist is mixing potions here.
+~
+She carefully mixes ingredients and pours them into little jars. Many of the
+jars are for sale.
+~
+human~
+ABRT HN 400 0
+60 0 10d243+1242 60d10+100 5d21+30 stab
+-27 -27 -27 -8
+EFKNU 0 0 0
+stand stand none 3
+AHMV ABCDEFGHIJK medium flesh
+#733
+mage~
+Artemus~
+Artemus the mage is selling magic items.
+~
+This old, withered man is busy dusting off old wands or rearranging
+his scroll collection.
+~
+human~
+ABR HN 400 0
+60 0 10d243+1242 60d10+100 5d21+30 chop
+-27 -27 -27 -8
+EFKNU 0 0 0
+stand stand none 3
+AHMV ABCDEFGHIJK medium flesh
+#734
+abbot~
+Alain Corbert, the abbot~
+Alain Corbert, the abbot of Arkham Monastery.
+~
+A balding, elderly man, the abbot looks over the papers on his desk,
+a troubled expression on his brow.
+~
+human~
+ABQa H 1000 0
+32 15 10d69+462 32d10+100 5d11+17 magic
+-10 -10 -10 0
+FK 0 0 0
+stand stand none 2
+AHMV ABCDEFGHIJK medium flesh
+#735
+monk~
+a monk~
+A monk is chanting here.
+~
+A monk is here, reciting prayers to the Elder Gods.
+~
+human~
+AGQT N 600 0
+22 0 9d36+270 22d10+100 5d7+14 punch
+-3 -3 -3 3
+EFKNU 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium flesh
+#736
+nun~
+a nun~
+A nun walks about burning incense here.
+~
+A nun walks about here to attend the needs of the worshippers.
+~
+human~
+AGQT N 600 0
+22 0 9d36+270 22d10+100 5d7+14 punch
+-3 -3 -3 3
+EFKNU 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium flesh
+#737
+novice~
+a novice~
+A novice is here, learning how to be a cleric.
+~
+This young novice is about to take his vows of service to the Elder Gods.
+~
+human~
+AGQ N 400 0
+19 0 7d34+223 19d10+100 5d6+12 pound
+-1 -1 -1 4
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#738
+mummy~
+a mummy~
+A mummy of a dead saint rests here.
+~
+This was a cleric of great power, a saint whose body was mummified to
+preserve his greatness.
+~
+human~
+ABOQT N -600 0
+27 0 10d49+360 27d10+100 5d9+15 claw
+-6 -6 -6 -3
+EFKNU 0 0 0
+stand stand none 1
+AHIMV ABCDEFGHIJK medium flesh
+#739
+skeleton~
+a skeleton~
+A skeleton stumbles about here.
+~
+This skeleton has been given life by a magic user.
+~
+unique~
+AFGOT N -400 0
+23 0 9d39+290 23d10+100 5d8+11 shbite
+-4 -4 -4 2
+EFKNU 0 CD 0
+stand stand none 0
+HIMc 0 medium bone
+#740
+member~
+a cult member~
+A cult member is chanting some perverse ritual.
+~
+This deranged person is performing ceremonies to revive an ancient demon.
+~
+human~
+ABFT N -600 0
+19 0 7d34+223 19d10+100 5d6+12 punch
+-1 -1 -1 4
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium none
+#741
+priest~
+High Priest~
+The evil High Priest is leading his flock in nasty ceremonies.
+~
+The evil priest is wearing flowing black and
+red robes. He is enraged that you have interrupted the ceremony.
+~
+human~
+ABFQT H -1000 0
+29 0 10d56+405 29d10+100 5d10+15 magic
+-8 -8 -8 1
+EFKNU 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium none
+#742
+peasant~
+a peasant~
+A peasant is toiling here.
+~
+The peasant is carring heavy bags of produce to market.
+~
+human~
+AGT N 100 0
+19 0 7d34+223 19d10+100 5d6+12 punch
+-1 -1 -1 4
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium none
+#743
+housewife~
+a housewife~
+A housewife cleans the house here.
+~
+She's avoiding the window, trying to hide from those pesky Jehovah's
+Witnesses.
+~
+human~
+ABT N 100 0
+14 0 4d33+145 14d10+100 4d6+7 pound
+1 1 1 5
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium none
+#744
+pilgrim~
+a pilgrim~
+A pilgrim is here, admiring Arkham.
+~
+This pilgrim is here to visit the chapel at Arkham Monastery.
+~
+human~
+AGT N 200 0
+17 0 5d39+187 17d10+100 4d7+10 whip
+0 0 0 4
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium none
+#745
+ghost~
+a ghost~
+A ghost floats about solemly.
+~
+The ghost is barely visible, yet it's attacks are quite real.
+~
+unique~
+AFGOT HNU -200 0
+21 0 8d37+252 21d10+100 5d7+12 shbite
+-3 -3 -3 3
+EFKNU LQR HS NY
+stand stand none 0
+ADHIKMVc 0 medium none
+#746
+alleycat~
+an alleycat~
+An alleycat hisses at you.
+~
+It's an old, grey and black striped cat. It has a nametag that
+reads "Pippin".
+~
+human~
+AFGT N -1000 0
+15 0 4d37+162 15d10+100 4d6+9 bite
+0 0 0 5
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium none
+#747
+mummy~
+a mummy~
+A mummy of a dead saint rests here.
+~
+This was a cleric of great power, a saint whose body was mummified to
+preserve his greatness.
+~
+human~
+ABOQT N -600 0
+27 0 10d49+360 27d10+100 5d9+15 slime
+-6 -6 -6 1
+EFKNU 0 0 0
+stand stand none 1
+AHIMV ABCDEFGHIJK medium flesh
+#748
+mummy~
+a mummy~
+A mummy of a dead saint rests here.
+~
+This was a cleric of great power, a saint whose body was mummified to
+preserve his greatness.
+~
+human~
+ABOQT N -600 0
+28 0 10d52+387 28d10+100 5d9+18 slime
+-7 -7 -7 1
+EFKNU 0 0 0
+stand stand none 1
+AHIMV ABCDEFGHIJK medium flesh
+#749
+cthulhu~
+Cthulhu~
+Cthulhu is here, weak and chained...he suddenly rises to attack you!
+~
+This looks like a bulky 200 foot tall man with an octopus for a head.
+~
+unique~
+ABFQRST DHN -1000 0
+60 0 10d243+1241 60d10+100 5d21+30 claw
+-24 -24 -21 -5
+CEFIKNU 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium none
+#750
+elder~
+an Elder God~
+An Elder God is here, absorbed in his creation...he destroys you for
+disturbing him.
+~
+He's very large and ancient, commanding powers undreamed of by mortals.
+~
+unique~
+ABFQRST DHN 1000 0
+65 0 10d285+1420 65d10+100 5d22+36 magic
+-30 -30 -30 -10
+EFKNU 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium flesh
+#751
+estelle~
+Estelle~
+Estelle is sitting here, getting drunk.
+~
+Estelle is a tall mercenary in battered red armor. She glares at you
+suspiciously.
+~
+human~
+ABT HN 0 0
+34 0 10d78+505 34d10+100 5d11+21 pierce
+-11 -11 -11 0
+EFKNU 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium none
+#752
+quasimodo~
+Quasimodo~
+Quasimodo is here ringing bells and drooling.
+~
+Quasimodo is a large hunchback who is now deaf from ringing the bells all
+these years. His eyes bulge out at you expectantly.
+~
+human~
+ABT N -500 0
+22 0 9d36+270 22d10+100 5d7+14 slap
+-3 -3 -3 3
+EFKNU 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium none
+#753
+fisherman~
+fisherman~
+A fisherman is here, casting his line and pulling it back in again.
+~
+He glares at you, jealously guarding his favorite spot, even though he
+hasn't caught a thing all day.
+~
+human~
+AGT N -500 0
+24 0 10d38+311 24d10+100 5d8+14 pound
+-5 -5 -5 2
+EFKNU 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium none
+#754
+monster~
+the monster~
+A vaguely human monster stands here.
+~
+He stands nearly seven feet tall. His greenish skin is patched together
+with thick stitches, and two metal knobs stick out on either side of his
+head.
+~
+unique~
+ABT HN -300 0
+43 0 10d124+733 43d10+100 5d15+21 claw
+-16 -16 -16 -3
+EFKNU 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium flesh
+#755
+necromancer~
+a necromancer~
+A necromancer in dark robes wanders the streets.
+~
+She looks about intently, and asks you directions to the nearest cemetary.
+~
+human~
+AGRT HN -500 0
+37 0 10d92+578 37d10+100 5d12+23 magic
+-13 -13 -13 -1
+EFKNU 0 0 0
+stand stand none 20
+AHMV ABCDEFGHIJK medium none
+#756
+mercenary captain~
+a mercenary captain~
+A mercenary captain sits at a desk, filing papers and assigning warriors.
+~
+He is old and balding, but still a top-notch warrior.
+~
+human~
+ABGT HN 500 0
+44 0 10d130+759 44d10+100 5d15+24 blast
+-17 -17 -17 -3
+EFKNU 0 0 0
+stand stand none 20
+AHMV ABCDEFGHIJK medium none
+#757
+mage~
+a mage~
+A mage is concentrating on spells here.
+~
+She is young and full of talent.
+~
+human~
+ART 0 0 0
+10 0 2d33+96 10d10+100 3d5+7 magic
+3 3 3 6
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium none
+#758
+elf archer~
+an elven archer~
+An elven archer.
+~
+He is tall and lithe, his long fingers delicately enfolding his bow. A large
+quiver of arrows is strapped to his back.
+~
+elf~
+AT JP 0 0
+12 0 3d32+120 12d10+100 3d7+6 thwack
+2 2 2 6
+EFNR 0 BH Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium none
+#759
+dwarf warrior~
+a dwarven warrior~
+A dwarven warrior.
+~
+His stout, muscular frame is encased in thick plate armor, and his war hammer
+is held ready to bash in his opponents.
+~
+dwarf~
+AT J 0 0
+11 0 3d27+107 11d10+100 3d6+6 slash
+3 3 3 6
+EFNR 0 LQ R
+stand stand none 0
+AHMV ABCDEFGHIJK medium none
+#760
+stable-boy~
+a stable-boy~
+A stable-boy lovingly grooms the horses in here.
+~
+He brushes down the horses and cleans their hooves. He inquires if he can
+be of service.
+~
+human~
+ABGT N 500 0
+18 0 6d36+205 18d10+100 4d7+12 scratch
+-1 -1 -1 4
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium none
+#761
+rat~
+a rat~
+A rat is hiding here, nibbling on some corn.
+~
+He has pure black skin and beady black eyes. His scaly hairless tail swishes
+back and forth.
+~
+unique~
+AGT 0 -200 0
+16 0 5d34+175 16d10+100 4d7+8 bite
+0 0 0 5
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#762
+weasel~
+a weasel~
+A weasel slinks in the shadows.
+~
+She glares at you with something like hatred, like there is more to her
+than one could suspect...
+~
+human~
+AGT 0 -300 0
+18 0 6d36+20 18d10+100 4d7+12 slap
+-1 -1 -1 4
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#763
+scarecrow~
+a scarecrow~
+A scarecrow stands guard over the corn.
+~
+He seems to be jittering about animatedly. It could be the wind, or it
+could be
+something much darker.
+~
+human~
+AGT N -500 0
+20 0 7d38+238 20d10+100 5d7+10 bite
+-2 -2 -2 3
+EFKNU 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium cloth
+#764
+crow~
+a crow~
+A crow caws out to the wind.
+~
+This crow seems happy to find all this fresh, sweet corn unguarded.
+~
+bird~
+AGT NT -500 0
+17 0 5d39+187 17d10+100 4d7+10 bite
+0 0 0 4
+FHNU 0 0 0
+stand stand none 0
+AGHMVW ABCDEFGHIJKP medium flesh
+#765
+owl~
+an owl~
+An owl flutters through the trees.
+~
+She seems to swoop down at you, but she dives past you and snatches
+a nearby mouse.
+~
+bird~
+AGT NT 100 0
+16 0 5d34+175 16d10+100 4d7+8 bite
+0 0 0 5
+FHKNU 0 0 0
+stand stand none 1
+AGHMVW ABCDEFGHIJKP medium flesh
+#766
+deer~
+a deer~
+A deer is feeding on some leaves.
+~
+She stands, alert to your presence.
+~
+unique~
+AGT 0 -200 0
+15 0 4d37+162 15d10+100 4d6+9 claw
+0 0 0 5
+EFKNU 0 0 0
+stand stand none 0
+AHMV ACDEFHK medium flesh
+#767
+merchant~
+a wandering merchant~
+A wandering merchant pushes a cart along the street.
+~
+He is very ancient and his long white beard reaches all the way to the
+ground. He pushes a rickety wooden cart through the streets.
+~
+human~
+ACGRT HN 300 0
+49 0 10d162+893 49d10+100 5d17+25 slash
+-20 -20 -20 -5
+EFKNU 0 0 0
+stand stand none 10
+AHMV ABCDEFGHIJK medium none
+#768
+bear~
+a bear~
+A bear lumbers through the forest.
+~
+She bumbles along looking for some fresh meat for her cubs.
+~
+bear~
+AT N 100 0
+17 0 5d39+187 17d10+100 4d7+10 claw
+0 0 0 4
+DEFKNOR 0 EI 0
+stand stand none 0
+AGV ABCDEFHJKUV medium flesh
+#769
+wizard~
+a wizard~
+A wizard glares at you angrily.
+~
+Having disturbed his experiment, he is not terribly pleased by your
+presence. Watch out.
+~
+human~
+ABGRT HN -100 0
+26 0 10d45+345 26d10+100 5d9+13 magic
+-6 -6 -6 1
+EFKNU 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium flesh
+#770
+witch~
+a witch~
+A witch dances wildly and chants a spell.
+~
+She capers about with a berserk glare in her eyes, as her incantation
+reaches a fevered level.
+~
+human~
+ABGQT HN 200 0
+31 0 10d64+448 31d10+100 5d10+19 magic
+-9 -9 -9 0
+EFKNU 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium none
+#771
+wyrm~
+a wyrm~
+A wyrm slumbers here.
+~
+This 300 foot long dragon-like creature is still very young. It stirs a
+little, its
+ black slimy scales contracting as it breathes. You can tell
+by its large fangs that it is capable of inflicting great misery.
+~
+wyvern~
+ABGT DFHNT -1000 0
+34 12 10d78+505 34d10+100 5d11+21 claw
+-11 -11 -11 0
+CEFHNQU L 0 S
+stand stand none 10
+ABGHMVZ ABCDEFGHIJKQVX medium flesh
+#772
+blacksmith~
+a blacksmith~
+A blacksmith hammers a suit of armor.
+~
+She wipes a stray lock of hair from her sweaty brow as she pulls a hot
+iron ingot from a furnace. She regards you with a nod and goes back to
+her work.
+~
+human~
+ABGQRT HN 400 0
+50 14 2d10+10 1d99+0 1d50+20 slash
+40 40 40 40
+CDEFHIJK 0 C 0
+stand stand none 20000
+AHMV ABCDEFGHIJK medium none
+#874
+mercenary~
+a veteran mercenary~
+A retired mercenary is resting by the fire.
+~
+He is old and covered with scars from head to toe, but he has grown rich
+during his career. He shouts at you to get out of his home.
+~
+human~
+AGT N 710 0
+24 0 10d38+311 24d10+100 5d8+14 slash
+-5 -5 -5 2
+EFKNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium flesh
+#0
+
+
+
+#OBJECTS
+#701
+helm darkened~
+darkened helm~
+A darkened helm.~
+iron~
+armor L AE
+9 9 9 0 0
+30 10 500 P
+A
+13 5
+E
+darkened helm~
+The helm looks heavy and strong.
+~
+#702
+plate darkened~
+darkened platemail~
+A suit of darkened platemail rests here.~
+iron~
+armor L AD
+9 9 9 0 0
+30 15 600 P
+A
+13 20
+A
+5 1
+E
+darkened platemail~
+It is dark and heavy, but polished to a brilliant sheen.
+~
+#703
+leggings darkened~
+darkened leggings~
+A pair of darkened leggings lie here.~
+iron~
+armor L AF
+9 9 9 0 0
+30 7 400 P
+A
+13 8
+E
+darkened leggings~
+They appear to be excellent armor, strong but incredibly light.
+~
+#704
+sword guardian~
+guardian sword~
+A guardian sword lies here.~
+steel~
+weapon L AN
+sword 5 6 slash 0
+30 150 1100 P
+A
+18 -2
+A
+19 7
+E
+guardian sword~
+This sword is heavy but deadly.
+~
+#705
+cap~
+abbot's cap~
+An abbot's cap lies here.~
+cloth~
+armor K AE
+9 9 9 9 0
+32 2 320 P
+A
+4 2
+E
+abbot's cap~
+It seems to be the cap of a very wise man.
+~
+#706
+mace silver~
+silver mace~
+A silver mace.~
+silver~
+weapon K AN
+mace 5 6 crush 0
+32 10 320 P
+A
+18 5
+A
+19 2
+E
+silver mace~
+This mace seems deadly accurate.
+~
+#707
+cookie~
+werewolf cookie~
+A werewolf cookie looks yummy.~
+flesh~
+food 0 A
+24 0 0 0 0
+0 1 110 P
+#708
+truffle~
+truffle~
+A truffle.~
+food~
+food 0 A
+12 0 0 0 0
+0 1 170 P
+#709
+cake~
+chocolate cake~
+A chocolate cake lies uneaten here.~
+food~
+food 0 A
+30 0 0 0 0
+0 2 140 P
+#710
+helm~
+helm of Kazzal-Bak~
+The helm of Kazzal-Bak lies here.~
+steel~
+armor A AE
+10 10 10 0 0
+35 7 780 P
+A
+1 1
+A
+18 1
+E
+helm Kazzal-
+Bak~
+This helm once belonged to a famous archer.
+~
+#711
+sleeves bolted steel~
+bolted steel sleeves~
+A set of bolted steel sleeves rest here.~
+steel~
+armor K AI
+10 10 10 0 0
+35 7 550 P
+A
+19 1
+E
+bolted steel sleeves~
+They appear quite heavy.
+~
+#712
+plate bolted steel~
+bolted steel plate~
+A bolted steel breastplate sits unused.~
+steel~
+armor K AD
+10 10 10 0 0
+35 20 550 P
+A
+19 1
+E
+bolted steel plate~
+It is covered with the dents and scratches of well used armor.
+~
+#713
+bracer bolted steel~
+bolted steel bracer~
+A bolted steel bracer lies here.~
+steel~
+armor K AM
+10 10 10 0 0
+35 5 350 P
+A
+19 1
+E
+bolted steel bracer~
+It looks tough and durable.
+~
+#714
+sword bastard~
+bastard sword~
+A bastard sword sits here.~
+steel~
+weapon K AN
+sword 5 7 slash 0
+35 150 1350 P
+A
+18 3
+A
+19 5
+E
+bastard sword~
+A bringer of much sorrow to its wielder's enemies.
+~
+#715
+dagger~
+thief's dagger~
+A thief's dagger lies in the dirt here.~
+steel~
+weapon J AN
+dagger 5 5 pierce 0
+22 40 420 P
+A
+18 3
+A
+19 1
+E
+thief's dagger~
+It has the sigil of the thieves guild embossed on the hilt.
+~
+#716
+cloak nightwing~
+cloak of Nightwing~
+A cloak of Nightwing.~
+cloth~
+armor E AC
+8 8 8 0 0
+27 3 670 P
+A
+2 2
+E
+cloak nightwing~
+Its transparent batlike wings look as light as the wings of night.
+~
+#717
+compass~
+compass~
+A compass.~
+steel~
+weapon 0 AN
+dagger 5 6 pierce 0
+31 1 310 P
+A
+18 1
+A
+19 1
+E
+compass~
+Used in mapmaking, it is also a decent weapon.
+~
+#718
+cookie cutter~
+cookie cutter~
+A cookie cutter is covered with dough.~
+steel~
+weapon T AN
+dagger 8 5 slash 0
+38 1 100 P
+A
+18 1
+A
+19 1
+E
+cookie cutter~
+It is shaped like a cute little werewolf.
+~
+#719
+straight razor~
+straight razor~
+A straight razor covered with blood is here.~
+steel~
+weapon 0 AN
+dagger 13 3 pierce 0
+44 10 7440 P
+A
+18 -1
+A
+19 5
+E
+straight razor~
+Looks like something a psycho killer would use.
+~
+#720
+thornblade dagger~
+thornblade~
+Thornblade rests here, light and elegant.~
+steel~
+weapon 0 AN
+dagger 5 8 pierce 0
+34 40 2340 P
+A
+18 4
+A
+19 2
+E
+thornblade~
+Thornblade's pommel and hilt ends are shaped like red rose buds, and
+the grip is wrapped in green silk.
+~
+#721
+leather hotpants~
+leather hotpants~
+A pair of leather hotpants lie on the ground.~
+leather~
+armor B AF
+5 5 5 0 0
+10 4 100 P
+E
+hotpants~
+They are bright pink and tacky looking.
+~
+#722
+silver flail~
+silver flail~
+A silver flail.~
+silver~
+weapon 0 AN
+flail 5 5 smash 0
+22 50 220 P
+A
+18 2
+A
+19 2
+E
+flail silver~
+Every part of this flail is made of the same bright silver metal.
+~
+#723
+silver longsword~
+silver longsword~
+A silver longsword.~
+silver~
+weapon 0 AN
+sword 5 4 cleave 0
+17 15 370 P
+A
+18 3
+A
+19 1
+E
+longsword silver~
+This solid silver longsword is the standard issue to all pilgrims.
+~
+#724
+jar nectar~
+jar of nectar~
+A jar of nectar lies here.~
+china~
+drink 0 A
+8 8 'beer' 0 0
+27 10 270 P
+E
+nectar jar~
+This jar looks like it hasn't been opened in eons.
+~
+#725
+golden ring~
+golden ring~
+A golden ring lies in the dust here.~
+gold~
+armor 0 AO
+8 8 8 0 0
+27 1 270 P
+A
+18 3
+E
+ring golden~
+It is carved with strange runes.
+~
+#726
+star amulet~
+star amulet~
+An amulet in the shape of a star is here.~
+cloth~
+armor 0 AO
+8 8 8 0 0
+28 1 280 P
+A
+4 2
+E
+amulet star~
+The star looks similar to the one worn by the monks and nuns at the abbey.
+~
+#727
+sword two faith-healer~
+a sword named "Faith-Healer"~
+A sword named "Faith-Healer"~
+iron~
+weapon J AN
+sword 5 9 cleave F
+29 200 12900 P
+A
+2 -1
+A
+18 1
+A
+19 6
+E
+faith-healer sword~
+It looks incredibly heavy and evil.
+~
+#728
+ghost ring~
+ghost ring~
+A ghost ring.~
+energy~
+armor 0 AB
+7 7 7 0 0
+21 1 210 P
+A
+12 15
+E
+ghost ring~
+It seems to be made of a cloudy, wispy material.
+~
+#729
+broom~
+broom~
+A broad street sweeper's broom.~
+wood~
+weapon 0 AN
+polearm 5 5 smash 0
+18 7 180 P
+#730
+letter~
+letter~
+A letter lies here on the desk.~
+paper~
+trash 0 0
+0 0 0 0 0
+30 200 300 P
+E
+letter~
+"...and i can't sleep. I hear footsteps in the night and i get suspicious.
+Something strange is going on here and I can't put a finger on it. In
+my dreams I see a horrid goat-beast, with some of my own monks bowing down in
+praise to it."
+~
+#731
+poster~
+wanted-Information! poster~
+Wanted-Information! poster.~
+wood~
+trash 0 0
+0 0 0 0 0
+33 500 330 P
+E
+poster~
+We are looking for the culprit in a series of murders. The victims all had
+puncture wounds in their necks
+and drained completely of blood. It is
+suspected that a vampire is currently at large in our city. You assistance is
+appreciated.
+~
+#732
+necronomicon~
+necronomicon~
+The Necronomicon~
+paper~
+trash 0 A
+0 0 0 0 0
+23 30 230 P
+E
+necronomicon~
+This heavy book radiates pure evil. You read some of it-"And there is Cthulhu
+the massive, and the Elder Gods who are too bright to look upon.
+Shub-Niggurath, goat with a thousand young, is also waiting to retake claim
+upon all the lands..."
+~
+#733
+poem~
+poem~
+A poem.~
+paper~
+armor 0 AO
+9 9 9 0 0
+30 1 300 P
+E
+poem~
+This poem seems to be the work of a sick mind. Though most of it is burnt,
+part of it is still legible.-
+"...sweet nectar for a thousand young.
+Give us strength, you who resides where the sun sets
+And we shall overtake Arkham like a storm from Hell"
+~
+#734
+vat blood~
+vat of blood~
+A huge vat of blood sits in the middle of this room.~
+stone~
+potion 0 0
+20 'curse' '' '' ''
+63 200 630 P
+E
+blood vat~
+The vat is full of partially congealed blood.
+~
+#735
+fork~
+bloodstained fork~
+A bloodstained fork lies here.~
+iron~
+weapon 0 AN
+exotic 3 7 none 0
+15 2 200 P
+E
+bloodstained fork~
+This fork has bloodstains on its two prongs.
+~
+#736
+belt~
+thief's belt~
+A thief's belt.~
+cloth~
+armor 0 AL
+7 7 7 0 0
+23 2 630 P
+A
+2 1
+A
+14 30
+#737
+plaque~
+a plaque~
+A plaque.~
+wood~
+trash 0 0
+0 0 0 0 0
+33 0 330 P
+E
+plaque~
+This area was created by Lillith. Permission to use on any Merc mud
+is granted. 1994 (c)
+~
+#738
+shield darkened~
+darkened shield~
+A darkened shield.~
+iron~
+armor L AJ
+9 9 9 0 0
+30 10 600 P
+A
+13 10
+E
+darkened shield~
+The shield looks heavy and strong.
+~
+#739
+bracer darkened~
+darkened bracer~
+A darkened bracer.~
+iron~
+armor L AM
+9 9 9 0 0
+30 5 300 P
+A
+13 5
+E
+darkened bracer~
+The bracer looks heavy and strong.
+~
+#740
+water jug~
+stoneware jug~
+A stoneware jug.~
+stone~
+drink 0 A
+20 20 'water' 0 0
+0 6 100 P
+#741
+bread~
+loaf of bread~
+A loaf of bread.~
+food~
+food 0 A
+24 0 0 0 0
+20 1 200 P
+#742
+cheese~
+wedge of cheese~
+A wedge of cheese.~
+food~
+food 0 A
+24 0 0 0 0
+20 1 200 P
+#743
+cap~
+skull cap~
+A cap made from a human skull.~
+bone~
+armor J AE
+10 10 10 0 0
+37 2 370 P
+A
+3 2
+A
+12 20
+E
+cap skull~
+This cap is a brightly polished human skull with a small strap of leather
+inside to attatch it to the head.
+~
+#744
+wand color~
+wand of color spray~
+A wand of color spray.~
+wood~
+wand 0 AO
+16 5 5 'colour spray' 0
+15 1 850 P
+E
+wand~
+You see a thin wand wrapped in multicolored ribbons.
+~
+#745
+scroll enchant~
+scroll of enchant weapon~
+A scroll of enchant weapon.~
+vellum~
+scroll 0 A
+20 'enchant weapon' '' '' ''
+10 1 12000 P
+#746
+staff harm~
+staff of harm~
+A staff of harm.~
+wood~
+staff G AO
+20 7 7 'harm' 0
+20 5 5600 P
+#747
+scroll alignment~
+scroll of know alignment~
+A scroll of know alignment~
+vellum~
+scroll G A
+15 'know alignment' '' '' ''
+10 1 300 P
+#748
+potion evasion~
+potion of evasion~
+A potion of evasion.~
+glass~
+potion 0 A
+17 'fly' 'bless' '' ''
+5 1 7900 P
+E
+potion evasion~
+The contents of this slim vial will help one flee from persuers.
+~
+#749
+potion preparation~
+potion of preparation~
+A potion of preparation.~
+glass~
+potion G AO
+17 'armor' 'frenzy' 'holy fire' ''
+5 1 14500 P
+E
+potion shielding~
+This potion will make one ready for combat.
+~
+#750
+oil lantern~
+an oil lantern~
+An oil lantern of clay.~
+clay~
+light 0 A
+0 0 10 0 0
+0 2 0 P
+#751
+corpse~
+a blood-drained corpse~
+A blood-drained corpse.~
+flesh~
+npc_corpse 0 0
+0 0 0 0 0
+35 60 350 P
+E
+corpse blood~
+This corpse is of a young woman dressed in silver robes. She is completely
+white, save for two blood-red pierce marks on her neck.
+~
+#752
+fountain~
+a fountain~
+A large, ornate fountain is here.~
+stone~
+fountain 0 0
+0 0 'water' 0 0
+47 500 470 P
+#753
+button~
+a Cthulhu-for-President button~
+A Cthulhu-for-President button lies here.~
+wood~
+armor T AO
+15 15 15 0 0
+60 2 21600 P
+A
+4 -2
+A
+12 50
+E
+button cthulhu~
+A small white button with a green picture of Cthulhu smiling and waving.
+~
+#754
+guitar~
+a guitar~
+A guitar rests unused here.~
+wood~
+instrument K AO
+0 0 0 0 0
+14 5 140 P
+A
+14 50
+E
+guitar~
+A golden brown acoustic guitar with silver strings rests here.
+~
+#755
+chicken~
+fried chicken~
+A plate of fried chicken sits on the table.~
+food~
+food 0 A
+30 0 0 0 0
+14 2 140 P
+E
+chicken fried~
+It seems to have been cooked recently, and its rich aroma fills the
+air.
+~
+#756
+cowl~
+a silver cowl~
+A silver cowl lies crumpled on the floor.~
+silver~
+armor 0 AK
+8 8 8 0 0
+26 2 260 P
+A
+12 40
+E
+cowl silver~
+This silver cowl is covered with tiny red runes.
+~
+#757
+earrings~
+a pair of jewel-encrusted earrings~
+A pair of jewel-encrusted earrings rest on the ground.~
+gem~
+armor G AE
+9 9 9 0 0
+31 1 310 P
+A
+2 1
+A
+12 10
+E
+earrings~
+They glow with a faint magical aura.
+~
+#758
+rosary~
+a rosary~
+A rosary made of silver beads lies here.~
+silver~
+armor 0 AM
+5 5 5 0 0
+10 1 100 P
+A
+12 10
+A
+13 1
+E
+rosary~
+Looking closer, you notice that each bead is carved with a tiny rune.
+~
+#759
+beer~
+a bottle of beer~
+A bottle of beer sits here.~
+glass~
+drink 0 A
+1 1 'water' 0 0
+0 1 0 P
+#760
+ale~
+a mug of ale~
+A large mug of dark ale.~
+china~
+drink 0 A
+1 1 'water' 0 0
+0 1 0 P
+#761
+whiskey~
+a shot of whiskey~
+A shot of whiskey sits on a table here.~
+glass~
+drink 0 A
+1 1 'water' 0 0
+0 1 0 P
+#762
+slime~
+a shot of slime mold juice~
+A shot of slime mold juice sits on a table here.~
+glass~
+drink 0 A
+1 1 'water' 0 0
+0 1 0 P
+#763
+Blasphemy two-handed sword~
+the two-handed sword named "Blasphemy"~
+A two-handed sword with the word "Blasphemy" engraved on the blade.~
+none~
+weapon CEG AN
+sword 5 6 flbite AF
+35 200 12000 P
+A
+17 30
+A
+18 3
+A
+19 7
+#764
+chair~
+the Arm-chair~
+A big comfortable arm-chair is standing here.~
+wood~
+furniture 0 0
+2 0 FIL 0 0
+0 0 0 G
+E
+chair~
+This is a big wooden arm-chair covered in white fur rug.
+~
+#765
+bed~
+the big bed~
+A big wooden bed is waiting here.~
+wood~
+furniture 0 0
+2 0 EHK 0 0
+0 0 0 G
+#0
+
+
+
+#ROOMS
+#701
+The End of the Wharf~
+This is the northernmost point of the wharf, where it buts up against the
+stone wall of a warehouse. A door to another warehouse lies to the east,
+and the wharf is packed with ships to the west.
+~
+0 0 1
+D1
+You see the door to a warehouse.
+~
+~
+0 0 751
+D2
+You see the rest of the wharf.
+~
+~
+0 0 702
+S
+#702
+The Wharf~
+The wharf is a very busy place, with sailors, passengers, and dock workers
+competing for space in this crowded place. The dock continues to the north
+and south. A warehouse lies to the east.
+~
+0 0 1
+D0
+You see the end of the wharf.
+~
+~
+0 0 701
+D1
+You see a warehouse.
+~
+~
+0 0 752
+D2
+You see a wharf.
+~
+~
+0 0 703
+S
+#703
+The Wharf~
+This long strip of sturdy wooden planking bravely faces the tormented
+Dragon Sea. Sailors bustle about on their duties and the smell of the salty
+sea fills you to the very core. The rest of the
+town is to the east.
+~
+0 0 1
+D0
+You see the wharf.
+~
+~
+0 0 702
+D1
+You see Main Street.
+~
+~
+0 0 706
+D2
+You see the wharf.
+~
+~
+0 0 704
+D3
+You see the Dragon Sea.
+~
+~
+0 0 726
+S
+#704
+The Wharf~
+This stretch of wooden planks is lined with ships from all over Thera.
+Spice ships from New Thalos, weapons from Tar Valon, pipeweed bread from 
+the Shire, and other treats from every port of call arrive here in the 
+gloomy city of Arkham.
+~
+0 0 1
+D0
+You see the wharf.
+~
+~
+0 0 703
+D2
+You see the end of the wharf.
+~
+~
+0 0 705
+D3
+You see the tempestuous Dragon Sea.
+~
+~
+0 0 720
+S
+#705
+The End of the Wharf~
+This is the southernmost point of the wharf. Ships are constantly arriving
+and departing to all parts of the world. Some of the new arrivals are
+foolish enough to step into the Wharfside Bar. The rest of the wharf lies
+north, and the Dragon Sea is to the west.
+~
+0 0 1
+D0
+You see the wharf.
+~
+~
+0 0 704
+D1
+You see a bar.
+~
+~
+0 0 754
+D3
+You see the Dragon Sea.
+~
+~
+0 0 750
+S
+#706
+Main Street~
+This grim street is full of people arriving and departing from Arkham. The
+wharf lies to the west and Main Street continues to the east. A chartmaker's
+shop is to the south.
+~
+0 262144 1
+D1
+You see Main Street.
+~
+~
+0 0 707
+D2
+You see a chartmaker's shop.
+~
+~
+0 0 753
+D3
+You see the wharf.
+~
+~
+0 0 703
+S
+#707
+Main Street~
+This foggy lane leads east and west. The grim inhabitants of Arkham pace one
+end of it to the other on various errands and matters of business. Eldritch
+Lane wends its crooked way to the north and a snug alley lies dead south.
+~
+0 262144 1
+D0
+You see Eldritch Lane.
+~
+~
+0 0 721
+D1
+You see Main street.
+~
+~
+0 0 708
+D2
+You see an alley.
+~
+~
+0 0 718
+D3
+You see Main street.
+~
+~
+0 0 706
+S
+#708
+Main Street~
+This street seems to be a bit lively. This part of town is a warrior's dream,
+with a mercenary employment office to the north and a weaponsmith to the
+south.
+~
+0 262144 1
+D0
+You see the Mercenary Employment office.
+~
+~
+0 0 760
+D1
+You see Main Street.
+~
+~
+0 0 709
+D2
+You see the weaponsmith.
+~
+~
+0 0 835
+D3
+You see Main Street.
+~
+~
+0 0 707
+S
+#709
+Main Street~
+You casually stroll down the main thoroughfare of Arkham, which is filled
+with shops of all kinds and homes with steep roofs and broad porches. A
+cobbler's lies to the north and a large house sits silent to the south.
+~
+0 262144 1
+D0
+The cobbler's.
+~
+~
+0 0 762
+D1
+Main Street.
+~
+~
+0 0 710
+D2
+You see a house.
+~
+~
+0 0 764
+D3
+Main Street.
+~
+~
+0 0 708
+S
+#710
+Main Street~
+Before you stands a titantic cathedral of smooth, solid grey stone. Its
+gothic peaks tower over all other structures in the city. Stained glass
+windows depicting the deeds of the Elder Gods shine brilliantly in the sun.
+The doorway lies to the south.
+~
+0 262144 1
+D1
+You see an intersection.
+~
+~
+0 0 711
+D2
+You see the Cathedral.
+~
+~
+0 0 765
+D3
+Main Street.
+~
+~
+0 0 709
+S
+#711
+Town Square~
+This is the intersection between Main Street and Dragon's Road. Pale citizens
+mill about a large statue of a warrior standing victoriously over a slain
+dragon. Main Street leads east and west and Dragon's Road runs north and
+south. A large cathedral stands to the southeast.
+~
+0 262144 1
+D0
+Dragon's Road
+~
+~
+0 0 729
+D1
+Main Street
+~
+~
+0 0 712
+D2
+Dragon's Road
+~
+~
+0 0 728
+D3
+Main Street
+~
+~
+0 0 710
+S
+#712
+Main Street~
+You stand south of the city hall building, who's entrance lies on
+Dragon's Road. Main Street continues east and west.
+~
+0 262144 1
+D1
+Main Street.
+~
+~
+0 0 713
+D3
+Main Street.
+~
+~
+0 0 711
+S
+#713
+Main Street~
+Several colorful and busy shops lie on this part of Main street.
+To the north is Candi's Confections, and a sign points south to
+the Potter's Guild Shop.
+~
+0 262144 1
+D0
+Candi's Confections.
+~
+~
+0 0 769
+D1
+Main Street.
+~
+~
+0 0 714
+D2
+Potter's Shop.
+~
+~
+0 0 800
+D3
+Main Street.
+~
+~
+0 0 712
+S
+#714
+Main Street~
+The lanterns of the Bullhorn Inn shine from the north here as travellers
+arrive from all parts of the realm, seeking a haven from the nightmarish
+weather. To the south runs a smooth brick wall, and Main Street continues
+to the east and west.
+~
+0 262144 1
+D0
+Bullhorn Inn.
+~
+~
+0 0 770
+D1
+Main Street.
+~
+~
+0 0 715
+D3
+Main Street.
+~
+~
+0 0 713
+S
+#715
+Main Street~
+Main Street abruptly ends here at the base of a wall. It the mortar joining
+the bricks seems fresh, as if something were being walled out. It leads to
+the west, and Ipswich Row runs to the north and south.
+~
+0 8 0
+D0
+Ipswich Row.
+~
+~
+0 0 746
+D1
+~
+gate~
+1 -1 29400
+D2
+Ipswich Row.
+~
+~
+0 0 744
+D3
+Main Street.
+~
+~
+0 0 714
+S
+#716
+Dragon Sea~
+The winds have turned into a full gale which batters your tiny craft. Giant
+waves drench you and the prospect of drowning becomes more and more realistic.
+~
+0 262144 7
+D0
+~
+~
+0 0 -1
+D1
+You see a stormy, dangerous Dragon Sea.
+~
+~
+0 0 737
+D2
+You see the Dragon Sea.
+~
+~
+0 0 730
+S
+#717
+Library~
+This is the university's library. You nose is filled with the smell of
+ancient parchment. Tall, long shelves of ancient, arcane
+manuscripts are surrounded by sturdy oak reading desks. The door to
+the rest of the university is west.
+~
+0 262144 1
+D3
+Miskatonic University.
+~
+~
+0 0 773
+D5
+~
+~
+1 0 -1
+S
+#718
+Alley~
+Rats run into their holes and cats hiss at you from atop piles of
+garbage as you meander through rubble and the soot-filled air. To
+the south the alley is a dead end.
+~
+0 262144 1
+D0
+You see Main Street.
+~
+~
+0 0 707
+D2
+You see a dead end.
+~
+~
+0 0 719
+S
+#719
+Dead End~
+The alley dead ends here. You notice that the smell of the trash has
+gotten intolerable. You also notice that the rats aren't quite as
+scared...
+~
+0 262144 1
+D0
+You see an alley.
+~
+~
+0 0 718
+S
+#720
+Harbor~
+This is a small harbor. Arkham's wharves stand to the east.
+The Dragon Sea lies colds and grey to the west.
+~
+0 0 7
+D0
+Harbor
+~
+~
+0 0 726
+D1
+You see a wharf.
+~
+~
+0 0 704
+D2
+Harbor.
+~
+~
+0 0 750
+D3
+Dragon Sea.
+~
+~
+0 0 734
+S
+#721
+Eldritch Lane~
+The loose cobblestones lead you into the darkest corners of this
+very dark city. The houses here are more crowded and ancient, and
+all is covered with a thick veneer of grime and dust. This road
+continues to the north, and Main Street is directly to the south.
+~
+0 262144 1
+D0
+You see Eldritch Way.
+~
+~
+0 0 722
+D2
+You see Main Street.
+~
+~
+0 0 707
+S
+#722
+Eldritch Lane~
+The grime and grease of this place seem to be permane
+ntly embedded
+in your skin as you traverse the crowded avenues. The foul odor
+of rotting garbage floats down from the north. To the east is
+Patch's Tavern, and a sign on a dusty storefront reads "Antiques Etc."
+~
+0 262144 1
+D0
+Eldritch Lane.
+~
+~
+0 0 723
+D1
+Patch's Tavern.
+~
+~
+0 0 758
+D2
+Eldritch Lane.
+~
+~
+0 0 721
+D3
+Antiques Etc.
+~
+~
+0 0 755
+S
+#723
+Eldritch Lane~
+The old high-gabled houses seem to become more and more crowded as
+the street gets more narrow. Dark men tudge down the avenue, pained
+expressions in their eyes signal that all is not well here.
+A large mansion stands to the west.
+~
+0 262144 1
+D1
+Eldritch lane.
+~
+~
+0 0 724
+D2
+Eldritch Lane.
+~
+~
+0 0 722
+D3
+A decrepit mansion stands here.
+~
+~
+0 0 756
+S
+#724
+Eldritch Lane~
+You dare not stray from the streets, lest you find yourself
+consumed by the hordes of rats that must surely be lurking in
+the alleys. Old crones duck back behind tattered curtains as
+you meet their gaze. Eldritch lane continues east and west.
+~
+0 262144 1
+D0
+An old tenament house stands here.
+~
+~
+0 0 757
+D1
+You see Eldritch Lane.
+~
+~
+0 0 725
+D3
+You see Eldritch Lane.
+~
+~
+0 0 723
+S
+#725
+Eldritch Lane~
+This slim grimey avenue runs right past the Arkham Asylum for
+the Criminally Insane, which lies to the north. People hobble
+past fervently avoiding looking at the creatures staring back
+at them from the barred windows. No wonder this part of the
+street is empty.
+~
+0 262144 1
+D0
+You see Arkham Asylum.
+~
+~
+0 0 832
+D1
+You see Dragon Road.
+~
+~
+0 0 731
+D3
+You see Eldritch Lane.
+~
+~
+0 0 724
+S
+#726
+Harbor~
+This is a small harbor, dotted with small fishing craft and large
+trading vessels. Arkham's wharves stand to the east.
+The Dragon Sea lies colds and grey to the west.
+~
+0 0 7
+D1
+You see a wharf.
+~
+~
+0 0 703
+D2
+Harbor.
+~
+~
+0 0 720
+D3
+Dragon Sea.
+~
+~
+0 0 737
+S
+#727
+Dragon Road~
+This road ends at a giant iron gate, which seems rusty from disuse.
+Dragon road leads to the north and to the east Corrine Way stretches
+past some houses. An awful stench comes from behind the gates.
+~
+0 262144 1
+D0
+You see Dragon Road.
+~
+~
+0 0 728
+D1
+You see Corrine Way and a large number of homes.
+~
+~
+0 0 741
+D2
+~
+~
+0 0 -1
+S
+#728
+Dragon Road~
+You stand to the east of a massive cathedral of grey stone with large
+spires and beautiful stained glass windows. To the north is an intersection
+and Dragon Road continues south.
+~
+0 262144 1
+D0
+You see an intersection.
+~
+~
+0 0 711
+D2
+Dragon Road.
+~
+~
+0 0 727
+D3
+Cathedral.
+~
+~
+0 0 765
+S
+#729
+Dragon Road~
+You walk down a densely cobbled street sandwiched between
+two brick walls. To the east is the impressive City Hall
+building and to the east stand the stables.
+~
+0 262144 1
+D0
+You see Dragon Road.
+~
+~
+0 0 731
+D1
+You see City Hall.
+~
+~
+0 0 768
+D2
+You see an intersection of two busy streets.
+~
+~
+0 0 711
+D3
+You see the stables.
+~
+~
+0 0 763
+S
+#730
+Dragon Sea~
+The winds have turned into a full gale which batters your tiny craft. Giant
+waves drench you and the prospect of drowning becomes more and more realistic.
+~
+0 0 7
+D0
+You see the Dragon Sea, cast in the throes of a storm.
+~
+~
+0 0 716
+D1
+You see a stormy, dangerous Dragon Sea.
+~
+~
+0 0 734
+D2
+You see the Dragon Sea.
+~
+~
+0 0 736
+D3
+Dragon Sea.
+~
+~
+0 0 739
+S
+#731
+Dragon Road~
+This is the juncture between Dragon's Road, Eldritch Lane to the west,
+and Arcanus Avenue to the east which is reflected in the variety of
+people milling about here.
+~
+0 262144 1
+D0
+You see Dragon's Road.
+~
+~
+0 0 732
+D1
+You see Arcanus Avenue.
+~
+~
+0 0 749
+D2
+You see Dragon's Road.
+~
+~
+0 0 729
+D3
+You see Eldritch Way.
+~
+~
+0 0 725
+S
+#732
+Dragon Road~
+The number of people are starting to diminish as the road leads
+out of town. To your sides are the giant iron city gates, which are
+open. You see a large, untamed forest to the north.
+~
+0 262144 1
+D0
+You see Dragon's Road.
+~
+~
+0 0 733
+D2
+You see Dragon's Road.
+~
+~
+0 0 731
+S
+#733
+Dragon Road~
+The trees are moderately thick here, though the stench of Arkham wafts
+faintly from the south. To the north the forest grows thicker, and to
+the east a castle is under construction.
+~
+0 262144 3
+D0
+You see a road through the
+forest.
+~
+~
+0 0 836
+D2
+You see the city of Arkham.
+~
+~
+0 0 732
+D3
+You see a castle being built.
+~
+~
+0 0 745
+S
+#734
+Dragon Sea~
+The Sea seems more violent in this part of the Dragon Sea. Through
+the tempestuous waves you can make out the grey stone towers and
+gothic cathedrals of the city of Arkham to the east.
+~
+0 0 7
+D0
+The Dragon Sea.
+~
+~
+0 0 737
+D1
+The Harbor.
+~
+~
+0 0 720
+D2
+The Dragon Sea.
+~
+~
+0 0 735
+D3
+The Dragon Sea.
+~
+~
+0 0 730
+S
+#735
+Dragon Sea~
+The Sea seems more violent in this part of the Dragon Sea. Through
+the tempestuous waves you can make out the grey stone towers and
+gothic cathedrals of the city of Arkham to the east.
+~
+0 0 7
+D0
+The Dragon Sea.
+~
+~
+0 0 734
+D1
+The Harbor.
+~
+~
+0 0 750
+D3
+The Dragon Sea.
+~
+~
+0 0 736
+S
+#736
+Dragon Sea~
+The winds have turned into a full gale which batters your tiny craft. Giant
+waves drench you and the prospect of drowning becomes more and more realistic.
+~
+0 0 7
+D0
+The Dragon Sea.
+~
+~
+0 0 730
+D1
+You see a stormy, dangerous Dragon Sea.
+~
+~
+0 0 735
+D3
+Dragon Sea.
+~
+~
+0 0 738
+S
+#737
+Dragon Sea~
+The Sea seems more violent in this part of the Dragon Sea. Through
+the tempestuous waves you can make out the grey stone towers and
+gothic cathedrals of the city of Arkham to the east.
+~
+0 0 7
+D0
+The Dragon Sea.
+~
+~
+0 0 738
+D1
+The Harbor.
+~
+~
+0 0 726
+D2
+The Dragon Sea.
+~
+~
+0 0 734
+S
+#738
+Dragon Sea~
+There is a certain unrest to the sea here. The waves seem choppier, the
+clouds darker. A foul wind blows from the east as you hear a clap of
+thunder coming from that direction.
+~
+0 0 7
+D0
+The Dragon Sea.
+~
+~
+0 0 739
+D1
+The Dragon Sea.
+~
+~
+0 0 736
+D3
+The Dragon Sea.
+~
+~
+0 0 9796
+S
+#739
+Dragon Sea~
+The sea seems calm enough, but something is amiss. The winds blow a little
+harder, and the waves slap your craft with a loud clap. You see a dark storm
+to the east. To the west, you can make out the towers of New Thalos.
+~
+0 0 7
+D0
+The Dragon Sea.
+~
+~
+0 0 740
+D1
+The Harbor.
+~
+~
+0 0 730
+D3
+The Dragon Sea.
+~
+~
+0 0 9789
+S
+#740
+Dragon Sea~
+The winds blow swiftly from the east, buckling you
+r boat a little. Though it
+is still a little calm, a dark storm is brewing east of here, in the
+direction of Arkham. The waters seem navigable to the west.
+~
+0 0 7
+D1
+You see a wharf.
+~
+~
+0 0 716
+D2
+Harbor.
+~
+~
+0 0 739
+D3
+The Dragon Sea.
+~
+~
+0 0 9797
+S
+#741
+Corrine Way~
+You are on the road in the middle of a pleasant if somewhat plain residential
+area. Two houses stand out from the rest to the north and south, and
+Corrine Way continues east and west.
+~
+0 262144 1
+D0
+You see a house.
+~
+~
+0 0 775
+D1
+You see Corrine Way.
+~
+~
+0 0 742
+D2
+You see a house.
+~
+~
+0 0 778
+D3
+You see Dragon's Road.
+~
+~
+0 0 727
+S
+#742
+Corrine Way~
+You are on the road in the middle of a pleasant if somewhat plain residential
+area. Two houses stand out from the rest to the north and south, and
+Corrine Way continues east and west.
+~
+0 262144 1
+D0
+You see a house.
+~
+~
+0 0 776
+D1
+You see Ipswich Row.
+~
+~
+0 0 743
+D2
+You see a house.
+~
+~
+0 0 779
+D3
+You see Corrine Way.
+~
+~
+0 0 741
+S
+#743
+Ipswich Row~
+You stand at the southern end of Ipswich Row, in a small area full of quiet
+homes and tidy flower gardens. You see a number of houses to the west along
+Corrine Way, and Ipswich Row continues north.
+~
+0 262144 1
+D0
+You see Ipswich Row.
+~
+~
+0 0 744
+D3
+You see Corrine Way.
+~
+~
+0 0 742
+S
+#744
+Ipswich Row~
+This long, narrow, straight road is moderately full of people, who are on
+their way to work or on other errands. Few are out here to enjoy Arkham's
+dismal weather. An intersection lies to the north and Ipswich Row continues
+to the south.
+~
+0 262144 1
+D0
+You see Main Street.
+~
+~
+0 0 715
+D2
+You see Ipswich Way.
+~
+~
+0 0 743
+S
+#745
+Castle Grounds~
+You walk through the construction site for a castle, barely dodging out of
+the way of a running errand boy and ducking just in time to avoid getting
+swatted by a swinging plank. Dragon's Road lies east of here.
+~
+0 262144 1
+D1
+~
+~
+0 0 733
+S
+#746
+Ipswich Row~
+This long, narrow, straight road is moderately full of people, who are on
+their way to work or on other errands. Few are out here to enjoy Arkham's
+dismal weather. Ipswich row continues to the north and Main Street lies
+to the south.
+~
+0 262144 1
+D0
+You see Ipswich Way.
+~
+~
+0 0 747
+D2
+You see Main Street.
+~
+~
+0 0 715
+S
+#747
+Ipswich Row~
+You stand at the northern end of Ipswich Row, in a small area full of large
+homes and arcane shops. You see Miskatonic University to the west along
+Arcanus Avenue, and Ipswich Row continues south.
+~
+0 262144 1
+D2
+You see Ipswich Row.
+~
+~
+0 0 746
+D3
+You see Arcanus Avenue.
+~
+~
+0 0 748
+S
+#748
+Arcanus Avenue~
+You walk along a broad avenue full of rich merchants, mages, professors, and
+the occasional student dashing off to classes at Miskatonic University which
+lies to the north. The old but well-kept store to the south is called the
+Magic Moon.
+~
+0 262144 1
+D0
+You see Miskatonic University.
+~
+~
+0 0 773
+D1
+You see Ipswich Row.
+~
+~
+0 0 747
+D2
+You see the Magic Moon.
+~
+~
+0 0 771
+D3
+You see Arcanus Avenue.
+~
+~
+0 0 749
+S
+#749
+Arcanus Avenue~
+Along this road one can find anything magical or beautiful, but they'll also
+find a hefty price tag to accompany it. To the south stands a large, elegant
+mansion, full of rich treasures. An alchemist's shop lies to the north
+on this road, which continues east. Dragon's Road lies to the west.
+~
+0 262144 1
+D0
+You see an apothecary.
+~
+~
+0 0 772
+D1
+You see Arcanus Avenue.
+~
+~
+0 0 748
+D2
+You see a mansion with a well-kept lawn.
+~
+~
+0 0 767
+D3
+You see Dragon's Road.
+~
+~
+0 0 731
+S
+#750
+Harbor~
+This is a small harbor. Arkham's wharves stand to the east.
+The Dragon Sea lies colds and grey to the west.
+~
+0 0 7
+D0
+Harbor
+~
+~
+0 0 720
+D1
+You see a wharf.
+~
+~
+0 0 705
+D3
+Dragon Sea.
+~
+~
+0 0 735
+S
+#751
+Warehouse~
+Other than the rat scurrying past your feet, the warehouse looks abandoned.
+You see a door to the west that leads you out of here.
+~
+0 262144 0
+D3
+You see the wharf.
+~
+~
+0 0 701
+S
+#752
+Warehouse~
+Boxes and crates fill almost all of the space from floor to ceiling. You hear
+the occasional rat scratching behind a wall or from inside a crate. A door
+leads west out of here.
+~
+0 262144 0
+D3
+You see the wharf.
+~
+~
+0 0 702
+S
+#753
+Chartmakers~
+Large maps and charts are plastered all over the walls or lie strewn about or
+rolled up into canisters. A large map of the entire world is framed on the
+southern wall. The exit is north.
+~
+0 262144 0
+D0
+You see Main Street.
+~
+~
+0 0 706
+S
+#754
+Wharfside Bar~
+This rowdy, crowded dive is popular with the sailors. The dank smells of
+tobacco and cheap beer assail your nose, while the cretins that inhabit
+this bar look you over. If you aren't careful, you could wake up on the
+next ship out of here. The exit is west.
+~
+0 262144 0
+D3
+You see the wharf.
+~
+~
+0 0 705
+S
+#755
+Antiques Etc.~
+This dusty store is filled with varied and strange items, scattered
+or casually tossed into piles. The proprietor seems just as disheveled
+as his merchandise. The door out of here is east.
+~
+0 262144 0
+D1
+You see Eldritch Lane.
+~
+~
+0 0 722
+S
+#756
+Abandoned Mansion~
+Many fallen timbers lay amid broken furniture and musty tapestries in
+this once-fine home. Though most of the wood here is worm-eaten and
+rotting, a pair of useable stone stairs lead up into the darkness. A door
+outside lies east.
+~
+0 262144 0
+D1
+You see Eldritch Lane.
+~
+~
+0 0 723
+D4
+You see a Laboratory.
+~
+~
+0 0 780
+S
+#757
+Tenament House~
+You are inside a filthy apartment building. Roaches scurry past you feet,
+chased by a greasy fat lady with a broom. Most of the doors look well-locked
+here and the exit is south.
+~
+0 262144 0
+D2
+You see Eldritch Lane.
+~
+~
+0 0 724
+S
+#758
+Patch's Tavern~
+This filthy excuse for a watering hole is full of dark, grinning, evil
+looking men and women. You notice a few people casually walking in and
+out of a door to the east. Rough wooden tables are surrounded by all
+manner of strange people, some of whom are absorbed in their card games
+or their drinking, others are planning thier next great criminal
+enterprise. An exit is to the west.
+~
+0 262144 0
+D1
+You see a Black Market.
+~
+~
+0 0 759
+D3
+You see Eldritch Lane.
+~
+~
+0 0 722
+S
+#759
+Black Market~
+A number of people who look suspiciously like rogues stand about, haggling
+with a wiry man with wild hair. The shelves are filled with a vast assortment
+of valuables. A small door leads out of here to the west.
+~
+0 262144 0
+D3
+You see the tavern.
+~
+~
+0 0 758
+S
+#760
+Mercenary's Guild~
+This hall is bustling with men and women busily bouting, exercising, or
+polishing their weapons. A large desk occupied by a thin, balding man with
+glasses has lists of mercenaries that are currenty offering their services.
+~
+0 266240 0
+D2
+You see Main Street.
+~
+~
+0 0 708
+S
+#761
+Mercenary's Quarters~
+Large bunks line the walls of this damp chamber.
+~
+0 266244 0
+S
+#762
+Cobbler's~
+The smell of leather is thick in this shop. Shoes in various stages of
+completion litter the tables and walls, while large strips of leather hang
+down from the ceiling. The exit is south.
+~
+0 262144 0
+D2
+Main Street.
+~
+~
+0 0 709
+S
+#763
+Stables~
+These stinky stalls are inhabited by horses from many lands, who's masters
+are visiting Arkham. While they cannot yet sell horses here, they do offer
+to let you sleep in the hay if you cannot find a place to stay in town. A
+large exit leads east.
+~
+0 262144 0
+D1
+Dragon's Road.
+~
+~
+0 0 729
+S
+#764
+Large House~
+This house is well kept and clean. Weapons and momentos of war are mounted
+on the walls or rest on shelves. This must be the home of a successful
+mercenary. If he were home, you'd probably be dead now. A door leading out
+lies north.
+~
+0 262144 0
+D0
+You see Main Street.
+~
+~
+0 0 709
+S
+#765
+Cathedral of the Elder Gods~
+This high-ceilinged gothic cathedral is cavernous. Murals and stained
+glass windows depict the deeds of the Elder Gods in times past. This
+cathedral also houses a monestary, which lies west. A chapel is to the
+south, and a stone stairway rises up to a loft.
+~
+0 262144 0
+D0
+You see Main Street.
+~
+~
+0 0 710
+D2
+You see a chapel.
+~
+~
+0 0 781
+D3
+You see a hallway.
+~
+~
+0 0 787
+D4
+You see a hallway.
+~
+~
+0 0 796
+S
+#766
+Room~
+This is a small but comfortable room. A pitcher rests by a chamberpot next
+to the cozy looking bed. A fireplace blazes on the north wall. You feel safe
+here, and a door leads back south when you're ready to face the world again.
+~
+0 262144 0
+D2
+You see the inn.
+~
+~
+0 0 770
+M 150 H 120
+S
+#767
+House~
+You are inside a stately home full of guilded furnishings and thick plush
+carpeting. Ancient vases and fine textiles make this feel more like a
+museum than a real home. An oaken door leads back outside to the north.
+~
+0 262144 0
+D0
+You see Arcanus Avenue.
+~
+~
+0 0 749
+S
+#768
+City Hall~
+This fine stone building stands firm and strong. Inside, rooms lead to
+different departments of the city government. You notice a large amount of
+guards coming and going on unknown missions. Double doors lead west.
+~
+0 262144 0
+D3
+You see Dragon's Road.
+~
+~
+0 0 729
+S
+#769
+Candi's Confections~
+The sweet warmth of baking cookies fills the room. Cookies and candy of
+every kind are made here, and you cannot help but feel a little tempted.
+~
+0 262144 0
+D2
+You see Main Street.
+~
+~
+0 0 713
+S
+#770
+Bullhorn Inn~
+Two bullhorns mounted on a plaque are the namesake of this quiet, decent
+inn. Round tables for dining and the innkeeper's bar fill this part of
+the inn. A small room is available to the north, and the exit back to town
+is to the south.
+~
+0 262144 0
+D0
+You see a small, cozy room.
+~
+~
+0 0 766
+D2
+You see Main Street.
+~
+~
+0 0 714
+S
+#771
+Magic Moon~
+You see magic items of all sorts in this shop. Prized magic wands sit under
+glass and amulets and charms lie ready to be purchased.
+~
+0 262144 0
+D0
+You see Arcanus Avenue.
+~
+~
+0 0 748
+S
+#772
+Alchemist~
+Potions in bottles, cures in glass vials, all manner of magic liquids are
+sold in this tiny shop. Several cauldruns are boiling in back, and seem
+to attract all of the proprietor's attention. The exit is south.
+~
+0 262144 0
+D2
+You see Arcanus Avenue.
+~
+~
+0 0 749
+S
+#773
+Miskatonic University~
+This university specializes in the arcane and mysterious. Grey-robed
+professors walk solemnly past while students sit around and study ancient
+texts. A lecture hall is to the north, the library is east, and Arcanus
+Avenue lies to the south.
+~
+0 262144 0
+D0
+You see a lecture hall.
+~
+~
+0 0 799
+D1
+You see a library.
+~
+~
+0 0 717
+D2
+You see Arcanus Avenue.
+~
+~
+0 0 748
+S
+#774
+Dead End~
+This is a dead end in the corridor. On the east wall some runes have been
+carved into the black stone.
+~
+0 262145 0
+E
+runes rune wall~
+Three together to the outer planes. One leads to the giant,
+One leads to the goat with a thousand young,
+And the last leads to the home of the Elder Ones.
+Three keys in three patriarch's hands,
+But beware! Choosing wrongly will lead to your demise.
+~
+D3
+You see a intersection.
+~
+~
+0 0 777
+S
+#775
+House~
+You are in an old, small, but nice house. There is little else of note
+about it.
+~
+0 262144 0
+D2
+You see Corrine Way.
+~
+~
+0 0 741
+S
+#776
+House~
+You are in an old, small, but nice house. There is little else of note
+about it.
+~
+0 262144 0
+D2
+You see Corrine Way.
+~
+~
+0 0 742
+S
+#777
+Intersection~
+This is the intersection of four corridors. The walls are constructed of
+rough, large black blocks. A stairway made of the same material as the
+walls leads up to a horizontal door.
+~
+0 262145 0
+D0
+You see a corridor.
+~
+~
+0 0 801
+D1
+You see a corridor.
+~
+~
+0 0 774
+D2
+You see a corridor.
+~
+~
+0 0 805
+D3
+You see a corridor.
+~
+~
+0 0 808
+D4
+You see an altar, from the bottom.
+~
+~
+1 0 781
+S
+#778
+House~
+You are in an old, small, but nice house. There is little else of note
+about it.
+~
+0 262144 0
+D0
+You see Corrine Way.
+~
+~
+0 0 741
+S
+#779
+House~
+You are in an old, small, but nice house. There is little else of note
+about it.
+~
+0 262144 0
+D0
+You see Corrine Way.
+~
+~
+0 0 742
+S
+#780
+Laboratory~
+You are in a large laboratory full of bottled body parts and crude wires
+and glass bulbs. Atop a long wooden table human body assembled from the
+bodies of a number of different people. A stairway down is the only exit.
+~
+0 262144 0
+D5
+You see a decrepit hall.
+~
+~
+0 0 756
+S
+#781
+Chapel~
+This chapel is where most of the worship ceremonies are carried out.
+Rows of pews lie on either side of a red-carpeted walkway which leads
+up to an altar of solid silver. A corridor leads north to the rest
+of the cathedral A silver reliquary is behind a silver gate to the
+south.
+~
+0 262144 0
+E
+altar silver~
+You examine the altar and notice that it is cracked open a bit. Moving
+the lid aside, you see nothing inside but a handle, like the kind used
+for a door. It seems to lead downward.
+~
+D0
+You see the main cathedral chamber.
+~
+~
+0 0 765
+D2
+You see the reliquary.
+~
+~
+0 0 794
+D5
+You see a stairway made of black stone.
+~
+~
+1 0 777
+S
+#782
+Cell~
+By the kind of clothes that lie neatly folded here, you guess that this
+cell belongs to a nun. Bet she wouldn't appreciate you snooping through
+her stuff.
+~
+0 262144 0
+D0
+You see a hallway.
+~
+~
+0 0 787
+S
+#783
+Cell~
+By the kind of clothes that lie neatly folded here, you guess that this
+cell belongs to a nun. Bet she wouldn't appreciate you snooping through
+her stuff.
+~
+0 262144 0
+D0
+You see a hallway.
+~
+~
+0 0 786
+S
+#784
+Cell~
+By the kind of clothes that lie neatly folded here, you guess that this
+cell belongs to a monk. Bet he wouldn't appreciate you snooping through
+his stuff.
+~
+0 262144 0
+D2
+You see a hallway.
+~
+~
+0 0 786
+S
+#785
+Cell~
+By the kind of clothes that lie neatly folded here, you guess that this
+cell belongs to a monk. Bet he wouldn't appreciate you snooping through
+his stuff.
+~
+0 262144 0
+D2
+You see a hallway.
+~
+~
+0 0 787
+S
+#786
+Hallway~
+This hall of silvery grey stone is flanked by sturdy, rough oak doors.
+Another door marked "Dining Hall" leads west, and the hallway continues
+east.
+~
+0 262144 0
+D0
+You see a monk's cell
+~
+~
+0 0 784
+D1
+You see a hallway
+~
+~
+0 0 787
+D2
+You see a nun's cell.
+~
+~
+0 0 783
+D3
+You see the dining hall.
+~
+~
+0 0 789
+S
+#787
+Hallway~
+This hall of silvery grey stone is flanked by sturdy, rough oak doors.
+An open door leads east to the cathedral proper, and the hallway continues
+west.
+~
+0 262144 0
+D0
+You see a monk's cell.
+~
+~
+0 0 785
+D1
+You see the main cathedral chamber.
+~
+~
+0 0 765
+D2
+You see a nun's cell.
+~
+~
+0 0 782
+D3
+You see the hallway.
+~
+~
+0 0 786
+S
+#788
+Sepulchure~
+This room is bare save for a clear glass coffin in a silver frame,
+inside of which is the mummified remains of a saint in rich garb. A
+corridor leads east.
+~
+0 262145 0
+D1
+You see a corridor.
+~
+~
+0 0 814
+S
+#789
+Dining Hall~
+Two long oak tables lie parallel to each other, surrounded by crude oak
+chairs. Along the west wall is a finer table, with three silver chairs
+along its west side. A door leads east to a hallway, and corridor north
+leads to the kitchen.
+~
+0 262144 0
+D0
+You see the kitchen.
+~
+~
+0 0 790
+D1
+You see a hallway.
+~
+~
+0 0 786
+S
+#790
+Kitchen~
+A large oven dominates the north wall. Cupboards surround the two flanking
+walls, and are filled with numerous meats, breads, and cheeses. The only
+exit is south back to the dining hall.
+~
+0 262144 0
+D2
+You see the dining hall.
+~
+~
+0 0 789
+S
+#791
+Abbot's Chamber~
+This simple yet tastefully decorated chamber is the abbot's living and
+working quarters. A large mahogany desk, cluttered with papers, sits in
+the middle of the room.
+~
+0 262144 0
+D2
+You see a hallway.
+~
+~
+1 0 795
+S
+#792
+Priest's Chamber~
+This lavish chamber belongs to the high priest, who assists in the
+ceremonies to the Elder Gods. It seems messy and decorated in a bizzare
+manner. Large red drapes hang down from the walls and strange tomes
+scribed in blood fill the room. A door leads east to a hallway.
+~
+0 262144 0
+D1
+You see a hallway.
+~
+~
+1 0 795
+S
+#793
+Priestess' Chamber~
+This chamber is decorated almost completely in silver. Silver curtains,
+silver candlesticks, and a small silver desk shine in the sunlight. You
+hear whispers in the halls that she has gone to slay the vampire that
+has been plaguing the city. A door leads west to the hallway.
+~
+0 262144 0
+D3
+You see a hallway.
+~
+~
+1 0 795
+S
+#794
+Reliquary~
+A silver gate protects a number of religious artifacts. You see a
+number of holy books, chalices, and talismans. A silver gate leads
+north to the chapel.
+~
+0 262144 0
+D0
+You see the chapel.
+~
+~
+0 0 781
+S
+#795
+Hallway~
+You stand in a hall of silvery grey stone. Three pine doors inlaid with
+silver stand to the north, east, and west. The hall leads south.
+~
+0 262144 0
+D0
+You see the abbot's chamber.
+~
+~
+1 0 791
+D1
+You see the priestess' chamber.
+~
+~
+1 0 793
+D2
+You see a landing.
+~
+~
+0 0 796
+D3
+You see the priest's chamber.
+~
+~
+1 0 792
+S
+#796
+Landing~
+You stand above the cathedral floor, which you can see over the wooden
+rails to the west. A hallw
+ay leads north and south, and stairs lead down.
+~
+0 262144 0
+D0
+You see a hallway and several doors.
+~
+~
+0 0 795
+D2
+You see a hallway and some stairs.
+~
+~
+0 0 797
+D5
+You see the cathedral.
+~
+~
+0 0 765
+S
+#797
+Bell Tower~
+You hear birds chirping above you and you look up and see a titanic silver
+bell. Rickety wooden stairs lead up and a landing stands to the north.
+~
+0 262144 0
+D0
+You see a landing.
+~
+~
+0 0 796
+D4
+You see a large silver bell.
+~
+~
+0 0 798
+S
+#798
+Bell Tower~
+You are at the top of the bell tower, next to a silver bell as tall as
+two tall men, from which hands a thick rope. You can see far from here,
+and you can make out New Thalos in the distance across the Dragon
+Sea. Rickety stairs lead back to the second floor.
+~
+0 262144 0
+D5
+You see the base of the bell tower.
+~
+~
+0 0 797
+S
+#799
+Lecture Hall~
+Numerous rows of desks rise steeply from a lecturers podium. The ceiling
+is curved in a strange manner to help broadcast the lecturers voice to the
+upper levels of the hall. A set of double doors lead south.
+~
+0 262144 0
+D2
+You see the main part of the campus.
+~
+~
+0 0 773
+S
+#800
+Potter's Guild Store~
+This is where some of the finest potters in Arkham sell their masterpieces.
+The shelves are lined with pots, cups, urns, and other utensils. A door out
+is north.
+~
+0 262144 0
+D0
+You see Main Street.
+~
+~
+0 0 713
+S
+#801
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here.
+~
+0 1 0
+D0
+You see a corridor.
+~
+~
+0 0 802
+D2
+You see a corridor.
+~
+~
+0 0 777
+S
+#802
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here. The corridor seems to turn a corner here.
+~
+0 1 0
+D2
+You see a corridor.
+~
+~
+0 0 801
+D3
+You see a corridor.
+~
+~
+0 0 803
+S
+#803
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here.
+~
+0 1 0
+D1
+You see a corridor.
+~
+~
+0 0 802
+D3
+You see a tomb of some sort.
+~
+~
+0 0 804
+S
+#804
+Sepulchure~
+This room is bare save for a clear glass coffin in a silver frame,
+inside of which is the mummifie
+d remains of a saint in rich garb. A
+corridor leads east.
+~
+0 1 0
+D1
+You see a corridor.
+~
+~
+0 0 803
+S
+#805
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here.
+~
+0 1 0
+D0
+You see a corridor.
+~
+~
+0 0 777
+D2
+You see a corridor.
+~
+~
+0 0 806
+S
+#806
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here. The corridor seems to turn a corner here.
+~
+0 1 0
+D0
+You see a corridor.
+~
+~
+0 0 805
+D3
+You see a dead end.
+~
+~
+0 0 807
+S
+#807
+Dead End~
+The black-flagged corridor comes to an end here. You can turn back and
+go east.
+~
+0 1 0
+D1
+You see a corridor.
+~
+~
+0 0 806
+S
+#808
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here.
+~
+0 1 0
+D1
+You see a corridor and some stairs.
+~
+~
+0 0 777
+D3
+You see a corridor.
+~
+~
+0 0 809
+S
+#809
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here.
+~
+0 1 0
+D1
+You see a corridor.
+~
+~
+0 0 808
+D3
+You see a corridor.
+~
+~
+0 0 810
+S
+#810
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here.
+~
+0 1 0
+D1
+You see a corridor.
+~
+~
+0 0 809
+D3
+You see an intersection.
+~
+~
+0 0 811
+S
+#811
+Burial Chamber~
+The walls in this room are lined with racks of well-polished skulls,
+which once belonged to monks and nuns from the monastery above. Passages
+lead in all directions.
+~
+0 1 0
+D0
+You see a corridor.
+~
+~
+0 0 812
+D1
+You see a corridor.
+~
+~
+0 0 810
+D2
+You see a corridor.
+~
+~
+0 0 815
+D3
+You see a corridor.
+~
+~
+0 0 824
+S
+#812
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here.
+~
+0 1 0
+D0
+You see a corridor.
+~
+~
+0 0 813
+D2
+You see a corridor.
+~
+~
+0 0 811
+S
+#813
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here.
+~
+0 1 0
+D0
+You see a corridor.
+~
+~
+0 0 814
+D2
+You see a corridor.
+~
+~
+0 0 812
+S
+#814
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here. The corridor seems to turn a corner here.
+~
+0 1 0
+D2
+You see a corridor.
+~
+~
+0 0 813
+D3
+You see a corridor.
+~
+~
+0 0 788
+S
+#815
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here.
+~
+0 1 0
+D0
+You see a corridor.
+~
+~
+0 0 811
+D2
+You see a corridor.
+~
+~
+0 0 816
+S
+#816
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here. The corridor seems to turn a corner here.
+~
+0 1 0
+D0
+You see a corridor.
+~
+~
+0 0 815
+D3
+You see a corridor.
+~
+~
+0 0 817
+S
+#817
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here.
+~
+0 1 0
+D1
+You see a corridor.
+~
+~
+0 0 816
+D3
+You see a corridor.
+~
+~
+0 0 818
+S
+#818
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here. The corridor seems to turn a corner here.
+~
+0 1 0
+D1
+You see a corridor.
+~
+~
+0 0 817
+D2
+You see a corridor.
+~
+~
+0 0 819
+S
+#819
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here. The corridor runs north and south, and
+branches off to the west.
+~
+0 1 0
+D0
+You see a corridor.
+~
+~
+0 0 818
+D2
+You see a corridor.
+~
+~
+0 0 820
+D3
+You see a corridor.
+~
+~
+0 0 822
+S
+#820
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here. The corridor seems to turn a corner here.
+~
+0 1 0
+D0
+You see a corridor.
+~
+~
+0 0 819
+D1
+You see a dead end.
+~
+~
+0 0 821
+S
+#821
+Dead End~
+The black-flagged corridor comes to an end here. You can turn back and
+go west.
+~
+0 1 0
+D3
+You see a corridor.
+~
+~
+0 0 820
+S
+#822
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here.
+~
+0 1 0
+D1
+You see a corridor.
+~
+~
+0 0 819
+D3
+You see a burial chamber.
+~
+~
+0 0 823
+S
+#823
+Sepulchure~
+This room is bare save for a clear glass coffin in a silver frame,
+inside of which is the mummified remains of a saint in rich garb. A
+corridor leads east.
+~
+0 1 0
+D1
+You
+ see a corridor.
+~
+~
+0 0 822
+S
+#824
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here.
+~
+0 1 0
+D1
+You see an intersection.
+~
+~
+0 0 811
+D3
+You see a corridor.
+~
+~
+0 0 825
+S
+#825
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here.
+~
+0 1 0
+D1
+You see a corridor.
+~
+~
+0 0 824
+D3
+You see a corridor.
+~
+~
+0 0 826
+S
+#826
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here.
+~
+0 1 0
+D1
+You see a corridor.
+~
+~
+0 0 825
+D3
+You see a corridor.
+~
+~
+0 0 827
+S
+#827
+Corridor~
+This corridor is composed of large black crudely cut blocks. It is
+frighteningly dark in here. The corridor seems to turn a corner here.
+~
+0 1 0
+D0
+You see a chamber with three doors.
+~
+~
+0 0 828
+D1
+You see a corridor.
+~
+~
+0 0 826
+S
+#828
+Portal Chamber~
+Three solid silver doors glow faintly in the darkness here. The north door
+is engraved with a large silver star. The west door's markings have been
+chiseled out, and the east door bears the engraving of a monstrous
+octopoid creature.
+~
+0 0 0
+D0
+You see a silver door.
+~
+~
+2 726 831
+D1
+You see a silver door.
+~
+~
+2 725 830
+D2
+You see a corridor.
+~
+~
+0 0 827
+D3
+You see a silver door.
+~
+~
+2 724 829
+S
+#829
+Ritual Hall~
+Dark red tapestries hang over the walls. A large obsidian altar stands at
+the back of the room, atop which is a large green book. Hollow chants echo
+though the walls, and above this chamber a small portal has begun to form.
+A door lies east.
+~
+0 0 0
+E
+altar~
+The altar is carved from a smooth block of obsidian.
+~
+E
+book green~
+This is a copy of the infamous Necronomicon.
+~
+E
+portal~
+The portal begins to dematerialize since the ceremony was disturbed.
+~
+D1
+You see a room with a number of doors.
+~
+~
+1 0 828
+S
+#830
+Cthulhu's Lair~
+The ancient evil beast Cthulhu has been imprisoned in this completely black
+room. A large circle of stones surround the great creature, keeping it
+imprisoned for all time...until they are disturbed, that is. A door
+leads west.
+~
+0 0 0
+E
+stone stones~
+These greenish grey stones are embedded with the silver star of the Elder
+Gods.
+~
+D3
+You see a hall with many doors.
+~
+~
+1 0 828
+S
+#831
+Elder God's Chamber~
+This silver-walled room is full of unusual objects and numerous scrolls.
+This is where the Elder Gods reside when they visit this plane, and they
+do not like to be disturbed. A door leads south.
+~
+0 0 0
+D2
+You see a hall with numerous doors.
+~
+~
+1 0 828
+S
+#832
+Arkham Asylum~
+The rough brown walls of this hall lead to different cell blocks,
+each containing a large assortment of disturbed, deranged, and dangerous
+individuals. However, one can imagine that the guards here are more
+deranged than the inmates.
+~
+0 262144 0
+D0
+You see a cell.
+~
+~
+0 0 834
+D1
+You see a cell.
+~
+~
+0 0 833
+D2
+You see Eldritch Lane.
+~
+~
+0 0 725
+S
+#833
+Cell~
+A little light streams through the barred windows in this cramped room.
+Rusty chains clamped to the wall wait to hold the more violent
+prisoners. A barred door leads out of this filthy chamber.
+~
+0 262144 0
+D3
+You see the entrance to the asylum.
+~
+~
+0 0 832
+S
+#834
+Cell~
+A little light streams through the barred windows in this cramped room.
+Rusty chains clamped to the wall wait to hold the more violent
+prisoners. A barred door leads out of this filthy chamber.
+~
+0 262144 0
+D2
+You see the entrance to the asylum.
+~
+~
+0 0 832
+S
+#835
+Blacksmith~
+The owner of this fine shop is busily making some of the finest weapons in
+the land. This shop supplies the Arkham Guard with its special armor and
+weapons, but it also deals with the general public.  The door out of here
+is north.
+~
+0 262144 0
+D0
+Main Street.
+~
+~
+0 0 708
+S
+#836
+Forest Road~
+Trees spring up around this hard-packed dirt trail, and their overhanging
+branches shade you from the worst of the sun's rays. North and south of
+you is more forest.
+~
+0 0 3
+D0
+Forest Road.
+~
+~
+0 0 837
+D2
+Forest Road.
+~
+~
+0 0 733
+S
+#837
+Forest Road~
+The road continues as a dirt trail, but the trees are a little less dense,
+and warm sunlight bleeds through the branches. The road continues north
+and sou
+th, and to the west you can make out a field of warm yellow corn.
+~
+0 0 3
+D0
+Forest Road.
+~
+~
+0 0 847
+D2
+Forest Road.
+~
+~
+0 0 836
+D3
+You see a large field of corn.
+~
+~
+0 0 838
+S
+#838
+A Corn Field~
+You stand before a large field of ripe corn. However, no farm hands are
+there to pick this year's crop, no able hands to shuck the tender corn.
+But there are rats. And the rats are his.
+~
+0 0 2
+D1
+You see a road wending through a dense forest.
+~
+~
+0 0 837
+D3
+You see corn fields.
+~
+~
+0 0 840
+S
+#839
+A Corn Field~
+Forest borders the south and west sides of the field here. Tall green corn
+stalks shoot up into the sky above your head. Despite the large rodent
+and crow population, you are alone.
+~
+0 0 2
+D0
+You see corn fields.
+~
+~
+0 0 842
+D1
+You see corn fields.
+~
+~
+0 0 840
+S
+#840
+A Corn Field~
+The corn is tall and brilliant green, though the rodents have taken their
+toll on the crop. You can see a dense forest to the south, and the field
+continues to the north, east, and west.
+~
+0 0 2
+D0
+You see corn fields.
+~
+~
+0 0 843
+D1
+You see corn fields.
+~
+~
+0 0 838
+D3
+You see corn fields.
+~
+~
+0 0 839
+S
+#841
+A Corn Field~
+The corn springs forth from the ground in neat, even rows. Rats and other
+rodents scurry past your feet, but do not dampen the sweet smells of
+ripening corn. the field is bordered to the north and east by trees, and
+continues to the south and west.
+~
+0 0 2
+D2
+You see corn fields.
+~
+~
+0 0 843
+D3
+You see corn fields.
+~
+~
+0 0 844
+S
+#842
+A Corn Field~
+The corn is tall and brilliant green, though the rodents have taken their
+toll on the crop. You can see a dense forest to the west, and the field
+continues to the north, east, and south.
+~
+0 0 2
+D0
+You see corn fields.
+~
+~
+0 0 844
+D1
+You see corn fields.
+~
+~
+0 0 843
+D2
+You see corn fields.
+~
+~
+0 0 839
+S
+#843
+A Corn Field~
+The rows of corn are thick here, and you struggle to push your way through
+the dense green leaves and unyielding stalks. You see nothing but corn
+in all directions except east, where a large forest stands.
+~
+0 0 2
+D0
+You see corn fields.
+~
+~
+0 0 841
+D2
+You
+ see corn fields.
+~
+~
+0 0 840
+D3
+You see corn fields.
+~
+~
+0 0 842
+S
+#844
+A Corn Field~
+Forest borders the west side of the field here. Tall green corn stalks
+shoot up into the sky above your head. Despite the large rodent and
+crow population, you are alone...or so it seems. You see a small wooden
+dwelling to the north.
+~
+0 0 2
+D0
+You see the front yard of a farmhouse.
+~
+~
+0 0 845
+D1
+You see corn fields.
+~
+~
+0 0 841
+D2
+You see corn fields.
+~
+~
+0 0 842
+S
+#845
+Front Yard~
+You are standing in front of a dilapidated peasant's home. The yard itself
+is overgrown with weeds, and if it were not for the smell of cooked food
+coming from the house to the north, you would think the place was
+abandoned. The fields lie back to the south.
+~
+0 0 2
+D0
+You see inside of the farmhouse.
+~
+~
+1 0 846
+D2
+You see corn fields.
+~
+~
+0 0 844
+S
+#846
+Farm House~
+The air here is rich with the smells of warm food and cool cider. The
+funiture is ancient, some of it is broken beyond repair, but this place
+feels like a comfortable home nonetheless. The door leads back south
+to the corn fields.
+~
+0 0 0
+D2
+You see the front yard.
+~
+~
+1 0 845
+S
+#847
+Forest Road~
+The trees hang low over the road, and are quite dense. However, you can
+barely make out a farmhouse and a cornfield to the southwest, and this
+road continues north and south.
+~
+0 0 3
+D0
+You see a long road stretching through the forest.
+~
+~
+0 0 848
+D2
+You see a road winding through the forest.
+~
+~
+0 0 837
+S
+#848
+Forest Road~
+Trees spring up around this hard-packed dirt trail, and their overhanging
+branches shade you from the worst of the sun's rays. North and south of
+you is more forest.
+~
+0 0 3
+D0
+Forest Road.
+~
+~
+0 0 849
+D2
+Forest Road.
+~
+~
+0 0 847
+S
+#849
+Forest Road~
+Bird songs and the fleeting rustle of bushes greet you as the trees seem
+to close in on you more and more. The road can hardly be called a road-
+it is a bare thin strip of dirt mosty overgrown with grass. The road
+continues north and south, and a tiny trail leads east.
+~
+0 0 3
+D0
+Forest Road.
+~
+~
+0 0 858
+D1
+~
+~
+0 -1 850
+D2
+Forest Road.
+~
+~
+0 0 848
+S
+#850
+A Trail~
+Trees spring up around this hard-packed dirt trail, and though it is tiny
+it seems to have been traveled recently. North and south of you is more
+forest, with its narrow trail the only sign of human life.
+~
+0 0 3
+D1
+A tiny trail leads through the forest.
+~
+~
+0 0 851
+D3
+Forest Road.
+~
+~
+0 0 849
+S
+#851
+A Trail~
+You find yourself deep in the middle of a very deep and dark forest. The
+only indication of a human presence seems to be an ancient tower to the
+east, but by the looks of it, it must have been abandoned long ago.
+~
+0 0 3
+D1
+You see an abandoned tower.
+~
+~
+0 0 852
+D3
+You see a trail in the forest.
+~
+~
+0 0 850
+S
+#852
+The Tower~
+You stand before a the crumbling remains of a stone tower. A number of
+the stones are missing, and all the rest of it is covered in ivy. However,
+you see a faint light though one of the windows near the top of the
+tower. The trail continues to the west and south, and a battered wooden
+door guards the tower to the north.
+~
+0 0 3
+D0
+You see a door.
+~
+~
+1 0 871
+D2
+You see a trail.
+~
+~
+0 0 853
+D3
+You see a trail.
+~
+~
+0 0 851
+S
+#853
+A Trail~
+The trail curves around here, heading north and east. To the north you see
+a crumbling tower, while to the east there is only more forest.
+~
+0 0 3
+D0
+You see a tower.
+~
+~
+0 0 852
+D1
+You see a trail.
+~
+~
+0 0 854
+S
+#854
+A Trail~
+The hard dirt lies straight and smooth under your feet. However, to the
+east the forest seems to have taken over the trail. Here it is still calm
+and the birds overhead sing sweet songs of joy.
+~
+0 0 3
+D1
+You see a wildly overgrown trail.
+~
+~
+0 0 855
+D3
+You see a trail.
+~
+~
+0 0 853
+S
+#855
+A Trail~
+The trail here is wildly overgrown with all sorts of vegetation. It seems
+to have done so unnaturally, however. Maybe this is someone's polite way
+of telling you to keep out... The trail leads west and south.
+~
+0 0 3
+D2
+You see a clearing in the woods.
+~
+~
+0 0 856
+D3
+You see a trail.
+~
+~
+0 0 854
+S
+#856
+A Clearing~
+A large grassy circle lies here at the end of the trail. Standing in the
+clearing is a circle of large stones about the hight of a man about fifty
+feet in diameter. A large slab lies flat at the center of the circle. A
+thin trail leads north through a thick span of woods.
+~
+0 0 3
+D0
+You see a trail north.
+~
+~
+0 0 855
+D5
+You pull back the stone and see a dark cavern.
+~
+~
+1 0 857
+S
+#857
+The Wyrm's Lair~
+This cavern is foul and dank with the smell of centuries-old excement.
+Roots hang down from the ceiling and earthworms and large beetles crawl
+through the bare soil. A hole up above is the only escape from this
+dark, hellish chamber.
+~
+0 0 4
+D4
+You see a clearing surrounding a circle of stones.
+~
+~
+1 0 856
+S
+#858
+Forest Road~
+The forest is incredibly dark, and even in midday only bare specks of light
+may shine through. At night, the trees seem almost animated, stark against
+the pale moon light. The scent of death flows thick from the north.
+~
+0 0 3
+D0
+You see a ruined village.
+~
+~
+0 0 859
+D2
+You see the Forest Road.
+~
+~
+0 0 849
+S
+#859
+A Ruined Village~
+The forest falls back a little, revealing abandoned buildings and streets
+littered with rotting corpses. Peeking in some of the homes, you can see
+that a great many of them have been plundered. To the north lies the rest
+of the village, and south of here is the road back to Arkham.
+~
+0 0 1
+D0
+You see the rest of the village.
+~
+~
+0 0 860
+D2
+You see the Forest Road.
+~
+~
+0 0 858
+S
+#860
+Main Street~
+A fierce wind sweeps through the barren streets, which are congested with
+the dead and dying. Houses sit silent, with their curtains drawn, while
+the rats take the best of the baker's wares. You do notice two buildings
+that seem distict from the rest, which lie to the west and east.
+~
+0 0 1
+D0
+You see the main street of the plague-ridden city.
+~
+~
+0 0 863
+D1
+You see a building.
+~
+~
+1 0 862
+D2
+You see a long road.
+~
+~
+0 0 859
+D3
+You see a building.
+~
+~
+1 0 861
+S
+#861
+Baker's~
+The large stone ovens rest as cold as the flesh of the dead in this very
+dead village. What the rats haven't taken of the bread is slowly mouldering
+in the muggy heat. A wooden doo
+r leads back outside to the east.
+~
+0 0 0
+D1
+You see the main street.
+~
+~
+1 0 860
+S
+#862
+A House~
+The stench of death clings to this dark house. The little light that peeks
+through the dark curtains falls on some crude furniture and rotting bodies.
+A small door leads west back onto the street.
+~
+0 0 0
+D3
+You see the main street.
+~
+~
+1 0 860
+S
+#863
+Main Street~
+Except for the rats and the flies, this once busy part of the village is
+now deserted. The bodies that lie about here have one distinguishing
+feature-their throats are swollen and purple. You have to wonder what
+power created such a devastating plague. Two buildings lie to the east
+and west.
+~
+0 0 1
+D0
+You see the outskirts of the village.
+~
+~
+0 0 866
+D1
+You see a general store.
+~
+~
+1 0 865
+D2
+You see the main street.
+~
+~
+0 0 860
+D3
+You see a wooden house.
+~
+~
+1 0 864
+S
+#864
+A Small House~
+The stench of death clings to this dark house. The little light that peeks
+through the dark curtains falls on some crude furniture and rotting bodies.
+A small door leads west back onto the street.
+~
+0 0 0
+D1
+You see the main street.
+~
+~
+1 0 863
+S
+#865
+Abandoned General Store~
+Although much of the stuff has been looted, a great deal of it remains on
+the shelves, as if the storekeeper had to leave suddenly. You do find that
+this place is pleasantly free of the death stench from outside, which is
+to the west.
+~
+0 0 0
+D3
+You see the main street.
+~
+~
+1 0 863
+S
+#866
+The Outskirts of the Village~
+The number of houses along the road seem to be diminishing, along with the
+number of the dead. A sign at the end of town has been painted over with
+the words "All Dead Here". You can continue north or south.
+~
+0 0 1
+D0
+You see a long road lined with crosses.
+~
+~
+0 0 867
+D2
+You see a village.
+~
+~
+0 0 863
+S
+#867
+A Long Road~
+You are stuck by the sheer magnitude of people who are crucified alongside
+the road here. Though it is not apparent why this has happened to them, it
+is obvious that some dark and evil force is at work in the land, dark as
+the malevolent black clouds that swirl and c
+onvulse overhead.
+~
+0 0 2
+D0
+A crossroads.
+~
+~
+0 0 868
+D2
+A Village.
+~
+~
+0 0 866
+S
+#868
+The Crossroads~
+You stand at the intersection of two major roads. To the north and east they
+continue into rolling plains. To the south you see a dark road, and west is
+a sheer cliff, atop which is a black fortress. You seem to remember from
+somewhere that crossroads are strange things, full of black magic and
+evil.
+~
+0 0 2
+D0
+You see a road.
+~
+~
+0 0 869
+D1
+You see a road.
+~
+~
+0 0 870
+D2
+You see a dark road.
+~
+~
+0 0 867
+D3
+You see a fortress in the distance.
+~
+~
+0 0 873
+S
+#869
+A Road~
+This road winds through valleys and calm, grassy plains. It seems to lead
+to the dark forest to the north.  You can return to civilization on the
+road south.
+~
+0 0 2
+D0
+~
+~
+0 -1 -1
+D2
+You see a crossroads.
+~
+~
+0 0 868
+S
+#870
+A Road~
+This road winds through valleys and calm, grassy plains. To the east
+you see an enormous gate cut from living rock. You can return to
+civilization on the road west.
+~
+0 0 2
+D3
+You see a crossroads.
+~
+~
+0 0 868
+S
+#871
+The Tower~
+Crumbling brickwork surrounds you as you stand in the base of the tower. It
+seems that nature has been given run of the place, as mice scamper amid
+weeds and ivy. A delapidated wooden staircase leads upstairs, and a door
+leads south back outside.
+~
+0 0 0
+D2
+You see a clearing in the woods.
+~
+~
+1 0 852
+D4
+You see a wizard's chamber.
+~
+~
+0 0 872
+S
+#872
+Laboratory~
+This laboratory is a wizards dream. It contains all manner of glassware,
+animal parts, rare herbs, and ancient tomes. A large table is covered with
+an extensive pipework of tubes, bowls, and spheres. An ancient, creaky
+stairway leads back to the base of the tower.
+~
+0 0 0
+D5
+You see the tower base.
+~
+~
+0 0 871
+S
+#873
+The Dark Road~
+Trees hang down low overhead. Stillness. Oppression. The sheer thickness of
+this darkness about you is stiffling. You can allow it to strangle you...
+or you can embrace it, wallow in it. You feel that, if that path is one
+you choose, you will be quite welcome in the black, smokey castle which
+lies to the west.
+~
+0 0 2
+D1
+You see a crossroads.
+~
+~
+0 0 868
+D3
+~
+~
+0 0 -1
+S
+#0
+
+
+
+#SPECIALS
+M 705 spec_guard
+M 710 spec_cast_mage
+M 711 spec_cast_mage
+M 712 spec_guard
+M 725 spec_thief
+M 726 spec_thief
+M 727 spec_thief
+M 729 spec_thief
+M 734 spec_cast_cleric
+M 735 spec_cast_cleric
+M 736 spec_cast_cleric
+M 738 spec_cast_cleric
+M 739 spec_cast_undead
+M 741 spec_cast_cleric
+M 746 spec_fido
+M 747 spec_cast_undead
+M 748 spec_cast_undead
+M 749 spec_breath_any
+M 750 spec_cast_adept
+M 755 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 715 1 1
+D 0 717 5 1
+D 0 777 4 1
+D 0 781 5 1
+D 0 791 2 1
+D 0 792 1 1
+D 0 793 3 1
+D 0 795 0 1
+D 0 795 1 1
+D 0 795 3 1
+D 0 828 0 2
+D 0 828 1 2
+D 0 828 3 2
+D 0 829 1 1
+D 0 830 3 1
+D 0 831 2 1
+D 0 845 0 1
+D 0 846 2 1
+D 0 852 0 1
+D 0 856 5 1
+D 0 857 4 1
+D 0 860 1 1
+D 0 860 3 1
+D 0 861 1 1
+D 0 862 3 1
+D 0 863 1 1
+D 0 863 3 1
+D 0 864 1 1
+D 0 865 3 1
+D 0 871 2 1
+M 0 717 1 702 1
+E 0 715 0 16
+M 0 705 11 703 1
+E 0 702 0 5
+E 0 701 0 6
+E 0 704 0 16
+M 0 729 3 703 1
+M 0 753 3 703 1
+M 0 718 1 704 1
+E 0 716 0 3
+M 0 753 3 704 1
+M 0 705 11 705 5
+E 0 702 0 5
+E 0 701 0 6
+E 0 704 0 16
+M 0 705 11 705 5
+E 0 702 0 5
+E 0 739 0 15
+E 0 704 0 16
+M 0 722 6 706 1
+M 0 705 11 708 1
+E 0 702 0 5
+E 0 739 0 15
+E 0 704 0 16
+M 0 706 1 709 1
+E 0 729 0 16
+M 0 742 2 710 1
+M 0 702 1 711 1
+M 0 705 11 711 5
+E 0 702 0 5
+E 0 703 0 7
+E 0 704 0 16
+M 0 722 6 711 3
+M 0 744 3 711 1
+E 0 723 0 16
+M 0 767 1 711 1
+G 0 721 0
+G 0 758 0
+O 0 752 0 711
+M 0 731 2 713 2
+M 0 705 11 714 5
+E 0 702 0 5
+E 0 703 0 7
+E 0 704 0 16
+M 0 709 3 717 1
+M 0 711 1 717 1
+E 0 732 0 17
+M 0 722 6 719 3
+M 0 729 3 721 1
+M 0 705 11 722 5
+E 0 702 0 5
+E 0 701 0 6
+E 0 704 0 16
+M 0 725 1 722 1
+E 0 719 0 16
+M 0 729 3 722 1
+M 0 742 2 722 1
+M 0 705 11 723 5
+E 0 702 0 5
+E 0 703 0 7
+E 0 704 0 16
+M 0 705 11 723 5
+E 0 702 0 5
+E 0 738 0 11
+E 0 704 0 16
+M 0 727 1 723 1
+E 0 715 0 16
+E 0 736 0 13
+M 0 703 1 724 1
+M 0 722 6 724 3
+M 0 730 1 724 1
+E 0 721 0 7
+M 0 731 2 725 1
+M 0 705 11 727 5
+E 0 702 0 5
+E 0 738 0 11
+E 0 704 0 16
+M 0 705 11 727 5
+E 0 702 0 5
+E 0 738 0 11
+E 0 704 0 16
+M 0 705 11 731 5
+E 0 702 0 5
+E 0 703 0 7
+E 0 704 0 16
+M 0 746 1 743 1
+M 0 722 6 744 3
+M 0 705 11 747 5
+E 0 702 0 5
+E 0 701 0 6
+E 0 704 0 16
+M 0 704 1 748 1
+M 0 755 1 749 1
+E 0 743 0 6
+O 0 751 0 751
+M 0 719 1 753 1
+E 0 717 0 16
+M 0 716 1 754 1
+G 0 759 0
+G 0 760 0
+M 0 726 1 758 1
+E 0 715 0 16
+G 0 761 0
+G 0 762 0
+M 0 751 1 758 1
+E 0 720 0 16
+M 0 728 1 759 1
+E 0 715 0 16
+M 0 756 1 760 1
+M 0 757 1 761 1
+M 0 758 1 761 1
+M 0 759 1 761 1
+M 0 760 1 763 1
+M 0 735 4 765 1
+E 0 722 0 16
+M 0 737 3 765 1
+M 0 737 3 765 1
+M 0 744 3 765 1
+E 0 723 0 16
+M 0 723 2 767 1
+M 0 712 1 768 1
+E 0 710 0 6
+E 0 711 0 10
+E 0 712 0 5
+E 0 713 0 15
+E 0 714 0 16
+O 0 731 0 768
+O 0 737 0 768
+M 0 724 1 769 1
+E 0 718 0 16
+G 0 707 0
+G 0 708 0
+G 0 709 0
+M 0 721 1 770 1
+M 0 723 2 770 1
+M 0 733 1 771 1
+G 0 744 0
+G 0 745 0
+G 0 746 0
+G 0 747 0
+M 0 732 1 772 1
+G 0 748 0
+G 0 749 0
+M 0 709 3 773 1
+M 0 710 1 773 1
+M 0 739 6 774 3
+M 0 722 6 775 3
+M 0 743 1 779 1
+M 0 736 4 781 2
+E 0 722 0 16
+M 0 744 3 781 1
+E 0 723 0 16
+M 0 736 4 783 2
+E 0 722 0 16
+M 0 737 3 784 1
+M 0 735 4 785 2
+E 0 722 0 16
+M 0 747 1 788 1
+E 0 725 0 17
+M 0 735 4 789 2
+E 0 722 0 16
+M 0 735 4 790 2
+E 0 722 0 16
+O 0 741 0 790
+O 0 742 0 790
+M 0 734 1 791 1
+E 0 705 0 6
+E 0 706 0 16
+O 0 730 0 791
+O 0 733 0 792
+O 0 735 0 792
+M 0 736 4 796 2
+E 0 722 0 16
+M 0 736 4 796 2
+E 0 722 0 16
+M 0 752 1 798 1
+M 0 709 3 799 1
+M 0 720 1 800 1
+G 0 740 0
+G 0 750 0
+M 0 754 1 801 1
+M 0 739 6 801 3
+M 0 745 3 803 1
+M 0 738 1 804 1
+E 0 724 0 17
+M 0 739 6 810 3
+M 0 739 6 814 3
+M 0 739 6 815 3
+M 0 745 3 818 1
+E 0 728 0 1
+M 0 748 1 823 1
+E 0 726 0 17
+M 0 739 6 824 3
+M 0 745 3 825 1
+M 0 740 4 829 2
+M 0 740 4 829 2
+M 0 740 4 829 2
+M 0 740 4 829 2
+M 0 741 1 829 1
+E 0 727 0 16
+M 0 750 1 829 1
+O 0 734 0 829
+M 0 749 1 830 1
+E 0 753 0 17
+M 0 713 1 832 1
+M 0 715 1 833 1
+M 0 714 1 834 1
+M 0 772 1 835 1
+G 0 712 0
+G 0 713 0
+G 0 706 0
+M 0 761 4 839 2
+M 0 761 4 839 2
+M 0 762 2 840 1
+M 0 761 4 841 2
+M 0 762 2 841 1
+M 0 763 1 842 1
+M 0 764 2 842 1
+M 0 761 4 843 2
+O 0 754 0 846
+O 0 755 0 846
+M 0 765 2 849 1
+M 0 768 1 850 1
+M 0 707 1 851 1
+M 0 766 2 852 1
+M 0 708 2 853 1
+M 0 765 2 854 1
+M 0 770 1 856 1
+E 0 757 0 6
+M 0 771 1 857 1
+E 0 763 0 16
+M 0 708 2 858 1
+M 0 766 2 859 1
+M 0 764 2 860 1
+M 0 769 1 872 1
+E 0 756 0 12
+S
+
+
+
+#SHOPS
+716 17 0 0 0 0 100 100 0 23
+720 15 0 0 0 0 150 75 0 23
+724 19 0 0 0 0 130 70 0 23
+726 17 0 0 0 0 100 100 0 23
+728 5 9 12 3 2 170 60 0 23
+732 10 26 0 0 0 130 70 0 23
+733 2 3 4 0 0 130 70 0 23
+756 0 0 0 0 0 100 100 0 23
+767 5 9 15 13 3 125 70 0 23
+772 5 9 0 0 0 130 75 0 23
+0
+
+
+
+#$
