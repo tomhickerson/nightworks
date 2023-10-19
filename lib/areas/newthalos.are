@@ -6576,9 +6576,14 @@ D3
 S
 #9775
 On the Dark River~
-The river continues east meandering through the woods.
+The river continues east meandering through the woods. There is a 
+misty riverbank to the north.
 ~
 0 A 7
+D0
+~
+~
+0 -1 24400
 D1
 ~
 ~
@@ -6688,10 +6693,6 @@ D0
 ~
 ~
 0 -1 9787
-D1
-~
-~
-0 -1 550
 D3
 ~
 ~
@@ -6746,6 +6747,10 @@ D0
 ~
 ~
 0 -1 9797
+D1 
+~
+~
+0 -1 738
 D2
 ~
 ~
@@ -6846,7 +6851,9 @@ On a dock~
 You stand on a simple wooden dock that acts as an extension of the road
 to the west. The dock seems to have been here for quite a long time
 but is still sturdy. A small ladder has been built on the eastern end
-to allow easy access to and from ships.
+to allow easy access to and from ships.  On the other side of the dock,
+you notice a set of stone steps which seem to lead into the depths of the
+ocean.
 ~
 0 0 0
 D0
@@ -6865,6 +6872,11 @@ D3
 ~
 ~
 0 -1 9794
+D5
+You hear some mystical words from downwards.
+~
+~
+0 -1 12300
 S
 #9796
 The Dragon Sea~
