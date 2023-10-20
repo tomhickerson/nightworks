@@ -9,7 +9,10 @@ public enum PlayerAchievement {
     TALK_TO_SEWER_GARGOYLE(3, "Meet the Gargoyle in the Sewer", false),
     FIND_FENNEL_FOR_THE_DRUID(4, "Find Fennel for the Druid in the Plains", false),
     KILL_RABBIT_FOR_THE_HERMIT(5, "Kill a rabbit for the Hermit in the Plains", false),
-    FIND_ALMS_FOR_THE_PILGRIM(6, "Find alms for the Blind Pilgrim", false);
+    FIND_ALMS_FOR_THE_PILGRIM(6, "Find alms for the Blind Pilgrim", false),
+    KILL_MORE_RABBITS_FOR_THE_HERMIT(7, "Kill more rabbits for the Hermit in the Plains", false),
+    TALK_TO_FOREST_GARGOYLE(8, "Meet the Gargoyle in the Forest", false),
+    LITTLE_GIRL_LOST(9, "Find the Mayor's Daughter beyond the Holy Grove", false);
 
 
     PlayerAchievement(int id, String desc) {

@@ -84,6 +84,20 @@ public class PlainQuests {
         };
     }
 
+    private static SimpleQuest.reward killMoreRabbitsReward() {
+        return ch -> {
+            ch.pcdata.questpoints += 10;
+            gain_exp(ch, 750);
+            if (IS_EVIL(ch)) {
+                updateAnger(ch);
+            } else {
+                updateFortitude(ch);
+            }
+            send_to_char("The Hermit has no silver left, " +
+                    "but you earn {W10{x quest points and {W750{x experience.\n", ch);
+        };
+    }
+
     public static SimpleCollectQuest returnPilgrimQuest() {
         SimpleCollectQuest scq = new SimpleCollectQuest(3, "Find alms for the Blind Pilgrim");
         scq.setNumberToCollect(5);
@@ -120,6 +134,12 @@ public class PlainQuests {
                 !ch.pcdata.achievements.contains(PlayerAchievement.FIND_ALMS_FOR_THE_PILGRIM);
     }
 
+    private static SimpleQuest.qualify qualifyMoreRabbits() {
+        return ch -> ch.pcdata.achievements.contains(PlayerAchievement.KILL_RABBIT_FOR_THE_HERMIT)
+                && !IS_NPC(ch)
+                && !ch.pcdata.achievements.contains(PlayerAchievement.KILL_MORE_RABBITS_FOR_THE_HERMIT);
+    }
+
     private static SimpleDefendQuest.setup setupPilgrim() {
         return new SimpleDefendQuest.setup() {
             @Override
@@ -139,15 +159,25 @@ public class PlainQuests {
         shq.setNumberToKill(5);
         shq.setVnumToKill(-1);
         shq.setRooms(new ArrayList<>());
-        shq.setQuestSetup(null);
+        shq.setQuestSetup(setupMoreRabbits());
         shq.setAdvancedPreamble(null);
         shq.setPreamble("Oh my gosh! We killed one rabbit, and a bunch more appears in their place! " +
                 "They look real mean too... Do you think you can clear these out as well?  Just say YES if so!");
         shq.setDuration(25);
         shq.setAcceptPhrase("yes");
-        shq.setAchievement(-1);
+        shq.setAchievement(PlayerAchievement.KILL_MORE_RABBITS_FOR_THE_HERMIT.getId());
         shq.setAcceptMessage("Great, now get out there and kill them rabbits!");
+        shq.setQualify(qualifyMoreRabbits());
         return null;
+    }
+
+    private static SimpleHuntQuest.setup setupMoreRabbits() {
+        return new SimpleHuntQuest.setup() {
+            @Override
+            public void run() {
+                // place six or seven rabbits somewhere and turn their flee flag on
+            }
+        };
     }
 
 }

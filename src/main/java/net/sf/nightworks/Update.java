@@ -125,6 +125,14 @@ public class Update {
         }
     }
 
+    public static void updateFortitude(Nightworks.CHAR_DATA ch) {
+        int fortitude = ch.pcdata.virtues.updateVirtue(VIRTUE_FORTITUDE);
+        if (fortitude > 0) {
+            ch.pcdata.virtues.fortitude++;
+            send_to_char(PlayerMessage.FEEL_BY_FORTITUDE.getMessage(), ch);
+        }
+    }
+
     public static void updateHumility(CHAR_DATA ch) {
         int humility = ch.pcdata.virtues.updateVirtue(VIRTUE_HUMILITY);
         if (humility > 0) {
