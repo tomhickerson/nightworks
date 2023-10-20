@@ -795,25 +795,27 @@ The great gates.
 0 -1 8318
 E
 fortress~
-It is hewn of black stone and heavily fortified.
+It is hewn of black stone and looks to be heavily fortified.
 ~
 S
 #8318
-Before the Great Gates.~
-You stand before the gates of a huge fortress.  The drawbridge is up, the
-gates closed, and the portcullis down.  This place looks very dangerous,
-making you consider whether or not to continue onward.
+Before the rough path to the fortress.~
+You reach a small rise out of the marsh and muck, which leads 
+to a dirt path, heading into a dark forest of oak.  In the 
+distance you see a fortress of black rock rising out of the forest,
+dark and foreboding.
 ~
 0 A 3
+D0
+To the north is a dark forest, surrounding the fortress.
+~
+~
+0 -1 12867
 D1
 To the east is a marshy beach.
 ~
 ~
 0 -1 8317
-D2
-~
-~
-1 -1 -1
 S
 #8319
 Murky Trail~

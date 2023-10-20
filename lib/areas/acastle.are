@@ -278,7 +278,7 @@ through the leafy canopy.
 ~
 0 0 3
 D0
-You see a old castle off in the distance.  
+You see the entrance to a fortress keep in the distance.  
 ~
 ~
 0 0 12802
@@ -306,7 +306,7 @@ D1
 door wooden east~
 1 0 12803
 D2
-You see a forest path in the distance.
+You see a forest path.
 ~
 ~
 0 0 12801
@@ -1526,7 +1526,7 @@ D0
 D2
 ~
 ~
-0 0 6151
+0 0 8318
 S
 #12869
 A Dark Forest~
