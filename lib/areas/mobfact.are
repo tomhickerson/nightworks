@@ -25,8 +25,8 @@ oldstyle foreman floyd~
 Foreman Floyd~
 Foreman Floyd is here, making plans for the factory's future.
 ~
-You see Foreman Floyd of the Mob factory -- a sterling example of what comes
-of dedicated Mudding!  Rewarded for his years of dedication as a monster
+You see Foreman Floyd of the Golem factory -- a sterling example of what comes
+of dedicated Adventuring!  Rewarded for his years of dedication as a monster
 slayer, Floyd now creates the beasts for other adventurers to fight.
 ~
 human~
@@ -111,6 +111,38 @@ ABH 0 150 0
 7 7 7 10
 EFNU 0 0 0
 sleep sit female 3
+0 0 medium 0
+#9408
+oldstyle frau bluecher~
+Frau Bluecher~
+Frau Bluecher is here, playing on her violin.
+~
+You see Frau Bluecher here, a prim and proper lady dressed all in black.
+With her hair pulled back she looks older, and is fretting about the 
+lab, as if looking for something.
+~
+human~
+ABG DFH 2 0
+12 0 2d10+130 6d9+100 1d10+3 none
+0 0 0 8
+EFNU 0 0 0
+stand stand female 50
+0 0 medium 0
+#9409
+oldstyle doctor frank furter~
+Doctor Frenk N. Furter~
+Doctor Frank N. Furter is stomping about the lab, working on his latest experiment.
+~
+You see Doctor Frank N. Furter, working away in his lab, fixing something 
+on the slab.  You are waiting to see what he comes up with, brimming with
+antici..............pation!
+~
+human~
+ABG DFH 2 0
+15 1 2d10+150 6d9+100 1d10+3 none
+0 0 0 8
+EFNU 0 0 0
+stand stand male 50
 0 0 medium 0
 #0
 

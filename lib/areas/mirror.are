@@ -2605,17 +2605,20 @@ foundation.
 ~
 S
 #5375
-The Void~
-You are standing in the middle of something you cannot explain.  You see
-stars yet you cannot see what you are standing on.  You are not standing
-on any sort of physical 'ground' as you can see yet you are not floating
-either.  Occasionally, the starry 'sky' fades into a fuzzy, yet bright,
-rainbow then back to its normal state.  In the middle of this room is
-a ladder standing vertical.
+The Red-curtained Room~
+You are standing in the middle of something you cannot explain.  You see 
+red curtains on all the walls around you, yet you cannot make out where 
+these curtains end or begin.  The floors are paved in black and white 
+stones which leave jagged lines around your feet. You see the ceiling is
+covered in stars and looks like a clear night sky.  You feel that you 
+are not standing on any sort of physical 'ground' as if in a dream, yet 
+you are not floating either.  Occasionally, the starry 'sky' fades into 
+a fuzzy, yet bright, rainbow then back to its 'normal' state.  In the 
+middle of this room is a ladder standing vertical.
 ~
 0 0 3
 D1
-You see stars.
+You see curtains.
 ~
 ~
 0 0 5378
@@ -2625,12 +2628,12 @@ You see a fuzzy portal of some sort and a little green.
 ~
 0 0 5368
 D3
-You see stars.
+You see curtains.
 ~
 ~
 0 0 5378
 D4
-You see stars.
+You see an exit down.
 ~
 ~
 0 0 5376
@@ -2641,36 +2644,40 @@ You see stars.
 0 0 5376
 S
 #5376
-The Void~
-You are standing in the middle of something you cannot explain.  You see
-stars yet you cannot see what you are standing on.  You are not standing
-on any sort of physical 'ground' as you can see yet you are not floating
-either.  Occasionally, the starry 'sky' fades into a fuzzy, yet bright,
-rainbow then back to its normal state.
+The Red-curtained Room~
+You are standing in the middle of something you cannot explain.  You see 
+red curtains on all the walls around you, yet you cannot make out where 
+these curtains end or begin.  The floors are paved in black and white 
+stones which leave jagged lines around your feet. You see the ceiling is
+covered in stars and looks like a clear night sky.  You feel that you 
+are not standing on any sort of physical 'ground' as if in a dream, yet 
+you are not floating either.  Occasionally, the starry 'sky' fades into 
+a fuzzy, yet bright, rainbow then back to its 'normal' state.  In the 
+middle of this room is a ladder standing vertical.
 ~
 0 0 3
 D0
-You see stars.
+You see curtains.
 ~
 ~
 0 0 5377
 D1
-You see stars.
+You see curtains.
 ~
 ~
 0 0 5376
 D2
-You see stars.
+You see curtains.
 ~
 ~
 0 0 5377
 D3
-You see stars.
+You see curtains.
 ~
 ~
 0 0 5376
 D4
-You see stars.
+You see an exit down.
 ~
 ~
 0 0 5375
@@ -2681,36 +2688,40 @@ You see stars.
 0 0 5375
 S
 #5377
-The Void~
-You are standing in the middle of something you cannot explain.  You see
-stars yet you cannot see what you are standing on.  You are not standing
-on any sort of physical 'ground' as you can see yet you are not floating
-either.  Occasionally, the starry 'sky' fades into a fuzzy, yet bright,
-rainbow then back to its normal state.
+The Red-curtained Room~
+You are standing in the middle of something you cannot explain.  You see 
+red curtains on all the walls around you, yet you cannot make out where 
+these curtains end or begin.  The floors are paved in black and white 
+stones which leave jagged lines around your feet. You see the ceiling is
+covered in stars and looks like a clear night sky.  You feel that you 
+are not standing on any sort of physical 'ground' as if in a dream, yet 
+you are not floating either.  Occasionally, the starry 'sky' fades into 
+a fuzzy, yet bright, rainbow then back to its 'normal' state.  In the 
+middle of this room is a ladder standing vertical.
 ~
 0 0 3
 D0
-You see stars.
+You see curtains.
 ~
 ~
 0 0 5376
 D1
-You see stars.
+You see curtains.
 ~
 ~
 0 0 5377
 D2
-You see stars.
+You see curtains.
 ~
 ~
 0 0 5376
 D3
-You see stars.
+You see curtains.
 ~
 ~
 0 0 5377
 D4
-You see stars.
+You see an exit down.
 ~
 ~
 0 0 5378
@@ -2721,17 +2732,20 @@ You see stars.
 0 0 5378
 S
 #5378
-The Void~
-You are standing in the middle of something you cannot explain.  You see
-stars yet you cannot see what you are standing on.  You are not standing
-on any sort of physical 'ground' as you can see yet you are not floating
-either.  Occasionally, the starry 'sky' fades into a fuzzy, yet bright,
-rainbow then back to its normal state.  In the middle of this room is
-a ladder standing vertical.
+The Red-curtained Room~
+You are standing in the middle of something you cannot explain.  You see 
+red curtains on all the walls around you, yet you cannot make out where 
+these curtains end or begin.  The floors are paved in black and white 
+stones which leave jagged lines around your feet. You see the ceiling is
+covered in stars and looks like a clear night sky.  You feel that you 
+are not standing on any sort of physical 'ground' as if in a dream, yet 
+you are not floating either.  Occasionally, the starry 'sky' fades into 
+a fuzzy, yet bright, rainbow then back to its 'normal' state.  In the 
+middle of this room is a ladder standing vertical.
 ~
 0 0 3
 D1
-You see stars.
+You see curtains.
 ~
 ~
 0 0 5375
@@ -2741,12 +2755,12 @@ You see a fuzzy portal of some sort and a little green.
 ~
 0 0 8903
 D3
-You see stars.
+You see curtains.
 ~
 ~
 0 0 5375
 D4
-You see stars.
+You see an exit down.
 ~
 ~
 0 0 5377
@@ -2764,7 +2778,7 @@ appearance, and most of the walls are covered by ancient wall paintings
 picturing Gods, Giants and peasants.
    Large steps lead down through the grand temple gate, descending the huge
 mound upon which the temple is built and ends on the temple square below.
-   You notice that this building is quite new.  A small plaque is on this wall.
+   You notice that this building is quite new.  A small {Wplaque{x is on this wall.
 ~
 0 CDK 0
 D0

@@ -46,6 +46,7 @@ import static net.sf.nightworks.Magic.say_spell;
 import static net.sf.nightworks.MartialArt.do_rescue;
 import static net.sf.nightworks.Nightworks.*;
 import static net.sf.nightworks.Skill.lookupSkill;
+import static net.sf.nightworks.Update.updateSloth;
 import static net.sf.nightworks.util.TextUtils.one_argument;
 import static net.sf.nightworks.util.TextUtils.str_cmp;
 import static net.sf.nightworks.util.TextUtils.str_prefix;
@@ -213,6 +214,17 @@ class MobProg {
         };
     }
 
+    static boolean death_frau_bluecher(CHAR_DATA mob) {
+        act("{WSomewhere in the distance, a horse screams.{x", mob, null, null, TO_ROOM);
+        return false;
+    }
+
+    static boolean death_frank_n_furter(CHAR_DATA mob) {
+        do_say(mob,"Oh, Rocky!");
+        // maybe summon aggro rocky?
+        return false;
+    }
+
     static void bribe_prog_cityguard(CHAR_DATA mob, CHAR_DATA ch, Integer amount) {
         if (amount < 100) {
             do_say(mob, "You cheapskate!!!");
@@ -220,11 +232,7 @@ class MobProg {
         } else if (amount >= 5000) {
             interpret(mob, "smile", false);
             do_sleep(mob, "");
-            int sloth = ch.pcdata.vices.updateVice(VICE_SLOTH);
-            if (sloth > 0) {
-                ch.pcdata.vices.sloth++;
-                send_to_char(PlayerMessage.FEEL_BY_SLOTH.getMessage(), ch);
-            }
+            updateSloth(ch);
         } else {
             do_say(mob, "Trying to bribe me, eh? It'll cost ya more than that.");
         }

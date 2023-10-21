@@ -164,6 +164,14 @@ public class Update {
             send_to_char(PlayerMessage.FEEL_BY_JUSTICE.getMessage(), ch);
         }
     }
+
+    public static void updateSloth(CHAR_DATA ch) {
+        int sloth = ch.pcdata.vices.updateVice(VICE_SLOTH);
+        if (sloth > 0) {
+            ch.pcdata.vices.sloth++;
+            send_to_char(PlayerMessage.FEEL_BY_SLOTH.getMessage(), ch);
+        }
+    }
 /*
 * Advancement stuff.
 */
