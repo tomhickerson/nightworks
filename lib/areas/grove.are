@@ -389,7 +389,7 @@ S
 A clearing in the woods~
 You are standing in a clearing in the light woods. Somehow, this place
 seems powerfully DIFFERENT from the rest of the forest, as if something is
-severely strained in the fabric of reality here.  There is a small tablet 
+severely strained in the fabric of reality here.  There is a small {Wtablet{x 
 on one of the trees.
 ~
 0 C 3
@@ -425,17 +425,17 @@ eastern road.
 ~
 0 C 3
 D0
-The path wind its way through the tall trees, disappearing out of sight.
+The path winds its way through the tall trees, disappearing out of sight.
 ~
 ~
 0 -1 8901
 D1
-The path wind its way through the tall trees, towards a clearing faintly seen.
+The path winds its way through the tall trees, towards a clearing faintly seen.
 ~
 ~
 0 -1 8905
 D2
-The path wind its way through the tall trees, into the grove.
+The path winds its way through the tall trees, into the grove.
 ~
 ~
 0 -1 8907
@@ -458,12 +458,12 @@ like something from another world....
 ~
 0 0 3
 D0
-The path wind its way north, disappearing through the tall trees.
+The path winds its way north, disappearing through the tall trees.
 ~
 ~
 0 -1 8902
 D1
-The path wind its way through the tall trees, disappearing out of sight.
+The path winds its way through the tall trees, disappearing out of sight.
 ~
 ~
 0 -1 8906
@@ -474,7 +474,7 @@ glittering lake.
 ~
 0 -1 8908
 D3
-The path wind its way west between stately poplars and oaks.
+The path winds its way west between stately poplars and oaks.
 ~
 ~
 0 -1 8904
@@ -494,7 +494,7 @@ area through the trees, while paths lead away north and west.
 ~
 0 0 3
 D0
-The path wind its way through the tall trees, disappearing out of sight.
+The path winds its way through the tall trees, disappearing out of sight.
 ~
 ~
 0 -1 8903
@@ -505,7 +505,7 @@ the lawn, a softly shimmering, rainbow-colored mansion.
 ~
 0 -1 8909
 D3
-The path wind its way through the tall trees, disappearing out of sight.
+The path winds its way through the tall trees, disappearing out of sight.
 ~
 ~
 0 -1 8905
@@ -564,7 +564,7 @@ There is a path leading north towards the sacred glade.
 ~
 0 -1 8905
 D1
-To the east, You can see the rainbow-colored mansion, shimmering like some-
+To the east, you can see the rainbow-colored mansion, shimmering like some-
 thing out of this world.
 ~
 ~
