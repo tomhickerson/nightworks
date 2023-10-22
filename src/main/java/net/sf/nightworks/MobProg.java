@@ -296,7 +296,10 @@ class MobProg {
                         q.showAdvancedPreamble(ch, mob);
                     }
                     // set the quest id here, so that we can 'spot' it later when the player accepts
-                    ch.pcdata.questid = q.getAchievement();
+                    // but what if you are on another quest?  try it without the hint?
+                    if (ch.pcdata.questid == 0) {
+                        ch.pcdata.questid = q.getAchievement();
+                    }
                     return;
                 }
             }
@@ -449,9 +452,11 @@ class MobProg {
                     do_say(mob, "Sorry, didn't quite make that out?");
                     // maybe add several variants of the same prompt
                     // or switch to the generic chat reaction, eventually
+                    return;
                 }
             }
         }
+        do_say(mob, "Looks like you may be on another quest!  Best sort out that first.");
     }
 
     static void greet_prog_fireflash(CHAR_DATA mob, CHAR_DATA ch) {
