@@ -127,6 +127,21 @@ AG 0 0 0
 ENR 0 0 0
 stand stand none 0
 0 0 medium 0
+#310
+oldstyle rabbit~
+the mean rabbit~
+A mean rabbit is here, blood dripping from its mouth.
+~
+It is a small, furry creature with long ears and big feet. But it also
+happens to have big pointing teeth...?
+~
+rabbit~
+AFGH 0 0 0
+5 0 2d6+60 0d9+100 1d8+1 bite
+4 4 4 10
+ENR 0 0 0
+stand stand none 0
+0 0 medium 0
 #350
 oldstyle dragon pet~
 the pet dragon~

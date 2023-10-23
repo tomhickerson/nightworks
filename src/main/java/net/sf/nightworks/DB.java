@@ -1825,7 +1825,7 @@ public class DB {
 * Create an instance of a mobile.
 */
 
-    static CHAR_DATA create_mobile(MOB_INDEX_DATA pMobIndex) {
+    public static CHAR_DATA create_mobile(MOB_INDEX_DATA pMobIndex) {
 
 
         mobile_count++;
@@ -2492,7 +2492,7 @@ public class DB {
 * Hash table lookupRace.
 */
 
-    static MOB_INDEX_DATA get_mob_index(int vnum) {
+    public static MOB_INDEX_DATA get_mob_index(int vnum) {
         MOB_INDEX_DATA pMobIndex;
 
         for (pMobIndex = mob_index_hash[vnum % MAX_KEY_HASH]; pMobIndex != null; pMobIndex = pMobIndex.next) {

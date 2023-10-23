@@ -2315,7 +2315,7 @@ public final class Nightworks {
  * Room type.
  */
 
-    static final class ROOM_INDEX_DATA {
+    public static final class ROOM_INDEX_DATA {
         ROOM_INDEX_DATA next;
         ROOM_INDEX_DATA aff_next;
         CHAR_DATA people;

@@ -2018,7 +2018,7 @@ public class Handler {
 * Move a char into a room.
 */
 
-    static void char_to_room(CHAR_DATA ch, ROOM_INDEX_DATA pRoomIndex) {
+    public static void char_to_room(CHAR_DATA ch, ROOM_INDEX_DATA pRoomIndex) {
 
 
         if (pRoomIndex == null) {

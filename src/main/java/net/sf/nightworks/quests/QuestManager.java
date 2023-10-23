@@ -25,6 +25,7 @@ public class QuestManager {
         // reset the same array?
         questArray = new ArrayList<>();
         questArray.add(PlainQuests.returnHermitQuest());
+        questArray.add(PlainQuests.killMoreRabbits());
         quests.put(VNUM_HERMIT_PLAINS, questArray);
         questArray = new ArrayList<>();
         questArray.add(PlainQuests.returnPilgrimQuest());
