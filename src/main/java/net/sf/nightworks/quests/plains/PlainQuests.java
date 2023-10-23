@@ -9,6 +9,7 @@ import static net.sf.nightworks.ActComm.do_say;
 import static net.sf.nightworks.Comm.act;
 import static net.sf.nightworks.Comm.send_to_char;
 import static net.sf.nightworks.DB.*;
+import static net.sf.nightworks.Handler.char_to_room;
 import static net.sf.nightworks.Handler.obj_to_room;
 import static net.sf.nightworks.Nightworks.*;
 import static net.sf.nightworks.Update.*;
@@ -146,7 +147,7 @@ public class PlainQuests {
             public void run() {
                 // place six alms in different places
                 final int[] rooms = {302, 304, 307, 327, 313, 320};
-                for (int i = 0; i < 6; i++) {
+                for (int i = 0; i < rooms.length; i++) {
                     OBJ_DATA obj = create_object(get_obj_index(314), 4);
                     obj_to_room(obj, get_room_index(rooms[i]));
                 }
@@ -157,9 +158,19 @@ public class PlainQuests {
     public static SimpleHuntQuest killMoreRabbits() {
         SimpleHuntQuest shq = new SimpleHuntQuest(4, "Kill more rabbits for the Hermit");
         shq.setNumberToKill(5);
-        shq.setVnumToKill(-1);
-        shq.setRooms(new ArrayList<>());
-        shq.setQuestSetup(setupMoreRabbits());
+        shq.setVnumToKill(310); // the mean rabbits
+        ArrayList<Integer> rooms = new ArrayList<>();
+        rooms.add(301);
+        rooms.add(302);
+        rooms.add(303);
+        rooms.add(304);
+        rooms.add(305);
+        rooms.add(306);
+        rooms.add(307);
+        rooms.add(308);
+        rooms.add(309);
+        shq.setRooms(rooms);
+        shq.setQuestSetup(setupMoreRabbits(rooms));
         shq.setAdvancedPreamble(null);
         shq.setPreamble("Oh my gosh! We killed one rabbit, and a bunch more appears in their place! " +
                 "They look real mean too... Do you think you can clear these out as well?  Just say YES if so!");
@@ -168,14 +179,20 @@ public class PlainQuests {
         shq.setAchievement(PlayerAchievement.KILL_MORE_RABBITS_FOR_THE_HERMIT.getId());
         shq.setAcceptMessage("Great, now get out there and kill them rabbits!");
         shq.setQualify(qualifyMoreRabbits());
-        return null;
+        return shq;
     }
 
-    private static SimpleHuntQuest.setup setupMoreRabbits() {
+    private static SimpleHuntQuest.setup setupMoreRabbits(ArrayList<Integer> rooms) {
         return new SimpleHuntQuest.setup() {
             @Override
             public void run() {
                 // place six or seven rabbits somewhere and turn their flee flag on
+                // flee already set, in principle
+                for (Integer room: rooms) {
+                    CHAR_DATA rabbit = create_mobile(get_mob_index(310));
+                    ROOM_INDEX_DATA theRoom = get_room_index(room.intValue());
+                    char_to_room(rabbit, theRoom);
+                }
             }
         };
     }
