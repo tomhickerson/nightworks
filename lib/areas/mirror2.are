@@ -1,6 +1,6 @@
 #AREA
 mirror2.are~
-Mirror of Realm~
+Mirror Realm~
 {20 50} Merri   Mirror Realm~
 19000 19200
 
@@ -3048,6 +3048,7 @@ groves of trees; it slopes upwards off the ground as it heads off to the east,
 curving behind a cluster of evergreens.  Beyond the trees, a mountain range
 stretches high into the air, with the tallest peak rising steeply enough to
 prevent anything from taking root.
+There is a small {Yplaque{x hanging in the air here.
 ~
 0 0 2
 D1
@@ -3057,7 +3058,7 @@ D1
 D3
 ~
 ~
-0 -1 3500
+0 -1 4036
 E
 plaque sign credit credits author~
 This area has been created by Merriman of the Glass Dragon for any semi-
@@ -3117,7 +3118,7 @@ seems to be part of the mountain itself.  It appears that the doors a little
 way to the north offer the only access into whatever lies inside the mountain.
 The land far below you has given way to a rough sea that surrounds the base of 
 the mountain, broken only by the distant base of this rocky path.  Another path
-stretches east and west from here; a small sign gives directions.
+stretches east and west from here; a small {Wsign{x gives directions.
 ~
 0 0 5
 D0
@@ -3141,7 +3142,7 @@ of the mountain, which stretches far up into the sky above you and far down
 to the crashing waves below.  The doors themselves appear to be unlocked, as
 light shines unbroken through the crack between them; like the woodwork 
 that forms the frame, they have been intricately carved with many strange
-symbols and figures.
+{Wsymbols{x and {Wfigures{x.
 ~
 0 0 5
 D0

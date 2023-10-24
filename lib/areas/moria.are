@@ -1639,8 +1639,9 @@ D2
 S
 #4036
 The plains~
-To the west see the border of the Shienar Kingdom, you may follow this 
-path to reach the kingdom. Jagged mountains are far to the north.
+You are standing in a field of grass, tall enough to reach your waist.  To the west 
+you see a copse of trees, surrounding a mountain peak. Dark, jagged mountains lie 
+far to the north.
 ~
 0 0 2
 D0
@@ -1654,12 +1655,13 @@ D2
 0 0 4035
 D3
 ~
-In the Borderlands
+Beginning of another path
 ~
-0 0 23114
+0 0 19001
 S
 #4037
 The foothills path~
+You are making your way along a dirt path in the rocky foothills.
 Exits are east and west.
 ~
 0 0 2
@@ -1674,7 +1676,8 @@ D3
 S
 #4038
 Base of the mountain~
-Exits are east and west.
+You are at the base of a small mountain, rising over the nearby hills and 
+giving an excellent vantage point of the area.  Exits are east and west.
 ~
 0 0 2
 D1
@@ -1688,6 +1691,8 @@ D3
 S
 #4039
 A trail up the mountain~
+You are making your way along a mountain ridge, covered in sparse grass
+and moss, but mostly rocky and open to the sky.
 Exits are east and west.
 ~
 0 0 2
@@ -1702,18 +1707,17 @@ D3
 S
 #4040
 The mountain top.~
-Exits are north, east, and west.
+You are at the top of a small mountain.  You can see the larger peaks
+in the distance on all sides, but between them are lush, green valleys.
+There is a darkness far to the north of here, which hovers over the 
+mountain and looks to be a deep chasm.
+Exits are north and west.
 ~
 0 0 2
 D0
 ~
 ~
 0 0 4041
-D1
-It doesn't look safe this way.
-~
-~
-0 0 7114
 D3
 ~
 ~
@@ -1721,6 +1725,8 @@ D3
 S
 #4041
 The lion's den~
+You are in a small rocky cave, which smells very much like a wild 
+animal lives here.
 Exits are south.
 ~
 0 0 2
@@ -1731,7 +1737,8 @@ D2
 S
 #4042
 The level foothills~
-Exits are east and west.
+You are on a path through the foothills, with tall mountains rising 
+on all sides around you.  Exits are east and west.
 ~
 0 0 2
 D1
@@ -1745,6 +1752,7 @@ D3
 S
 #4043
 The cave entrance~
+You are standing before a small cave, which looks to be abandoned.
 Exits are east and west.
 ~
 0 0 2
@@ -1759,6 +1767,8 @@ D3
 S
 #4044
 The hill giant cave~
+You are in a small cave, which has soft dirt on the ground and moss 
+hanging on the ceiling.  It looks to be someone's or some-thing's home.
 Exits are east.
 ~
 0 0 2
@@ -1783,7 +1793,8 @@ D2
 S
 #4051
 The tunnel~
-You are in a narrow east-west tunnel.
+You are in a narrow east-west tunnel.  You think you hear tapping 
+coming from somewhere.
 ~
 0 AD 3
 D1

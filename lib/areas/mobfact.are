@@ -979,6 +979,8 @@ M 0 9406   8 9424  1	* The factory worker
 M 0 9405   7 9424  1	* The toxic slime
 O 0 9402   0 9429  * candleabra in the library
 O 0 9401   1 9428 * making it easier, putting another candle in the attic
+M 0 9408   1 9430  1 * frau bluecher 
+M 0 9409   1 9432  1 * frank N furter 
 S
 
 #SHOPS
@@ -988,6 +990,8 @@ S
 S
 
 #OMPROGS
+M 9408 death_prog death_frau_bluecher
+M 9409 death_prog death_frank_n_furter
 O 9401 get_prog get_prog_candle * close the bookshelf
 O 9401 put_prog put_prog_open_bookshelf * open the bookshelf
 S
