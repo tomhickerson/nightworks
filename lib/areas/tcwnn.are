@@ -2948,10 +2948,6 @@ if you look at him.
 
 ~
 0 8|1024 0
-D1
-~
-~
-0 -1 5216
 D2
 The Temple of Anon~
 ~
@@ -3376,10 +3372,6 @@ D0
 The Circuit Road~
 ~
 0 -1 31026
-D1
-Dark Passage~
-~
-0 -1 9588
 D2
 The Circuit Road~
 ~
@@ -4465,10 +4457,6 @@ D3
 Valiant Street~
 ~
 0 -1 31080
-D5
-A Grate leading to the Sewer~
-grate~
-1 0 7001
 S
 #31082
 Outside the Kender Guild~
@@ -5003,7 +4991,7 @@ S
 *
 *D 0 31013 2 2
 D 0 31195 0 2
-D 0 31081 5 1  *    CLOSES GRATE TO SEWER
+* D 0 31081 5 1  *    CLOSES GRATE TO SEWER
 D 0 31082 2 1  *    CLOSES CURTAIN TO KENDER GUILD
 D 0 31016 0 1  *    GATE TOWER DOORS
 D 0 31016 2 1
