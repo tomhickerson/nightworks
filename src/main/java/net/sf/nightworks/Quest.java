@@ -791,7 +791,7 @@ class Quest {
         int found;
 
         //room	=	new ROOM_INDEX_DATA();
-        int mob_buf[] = new int[300];
+        int[] mob_buf = new int[300];
 
         mob_count = 0;
         for (i = 0; i < MAX_KEY_HASH; i++) {
@@ -992,6 +992,9 @@ class Quest {
                     ch.pcdata.countdown = 0;
                     ch.pcdata.questmob = 0;
                     ch.pcdata.questobj = 0;
+                    ch.pcdata.questnumtokill = 0;
+                    ch.pcdata.questobjnum = 0;
+                    ch.pcdata.questid = 0;
                 }
                 if (ch.pcdata.countdown > 0 && ch.pcdata.countdown < 6) {
                     send_to_char("{eBetter hurry, you're almost out of time for your quest!{h\n", ch);

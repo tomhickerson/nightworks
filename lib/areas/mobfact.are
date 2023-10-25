@@ -939,6 +939,26 @@ The Secret Laboratory Entrance
 ~
 ~
 0 -1 9430
+D4 
+Up to the unknown
+~
+~
+0 -1 9433
+S
+#9433
+The roof-top Laboratory~
+You are on the platform of an additional annex of the secret Laboratory, built 
+on the top of the Factory.  Diodes and antennas are all around here, meant to 
+attract all sorts of lightning and electric phenomena from the sky.  These are 
+all wired to chains leading down into the lab, through a hole in this wooden 
+platform.  The wood would hopefully insulate you against any shocks... maybe.
+~
+0 AD 0 
+D5 
+Down the stairs to the Secret Laboratory 
+~
+~
+0 -1 9432
 S
 #0
 

@@ -264,6 +264,7 @@ class MobProg {
         ch.pcdata.questobj = 0;
         ch.pcdata.questid = 0;
         ch.pcdata.questobjnum = 0;
+        ch.pcdata.questnumtokill = 0;
         ch.pcdata.nextquest = 5;
     }
 
@@ -283,7 +284,7 @@ class MobProg {
                     } else if (q instanceof SimpleCollectQuest || q instanceof SimpleGetQuest) {
                         do_say(mob, "Maybe you have something for me...?");
                     } else if (q instanceof SimpleDefendQuest || q instanceof SimpleHuntQuest) {
-                        if (ch.pcdata.questnumtokill == 0) {
+                        if (ch.pcdata.questnumtokill == -1 && ch.pcdata.questmob == -1) {
                             finish_the_quest(ch, mob, q);
                         }
                     }
@@ -419,30 +420,41 @@ class MobProg {
             return;
         }
         ArrayList<SimpleQuest> quests = quest_table.get(mob.pIndexData.vnum);
+        boolean accepted = false;
+        SimpleQuest acceptedQuest = null;
         if (quests != null && !IS_SET(ch.act, PLR_QUESTOR)) {
-            for (SimpleQuest q : quests) {
-                if (q.getQualifier(ch) &&
-                        !str_cmp(speech, q.getAcceptPhrase()) &&
-                        q.getAchievement() == ch.pcdata.questid) {
+            for (SimpleQuest q2 : quests) {
+                System.out.println("looking for " + q2.getAcceptPhrase() + " and found " + speech);
+                System.out.println("Looking for " + q2.getAchievement() + " and we have " + ch.pcdata.questid);
+                if (q2.getQualifier(ch) &&
+                        !str_cmp(speech, q2.getAcceptPhrase()) &&
+                        q2.getAchievement() == ch.pcdata.questid) {
+                    accepted = true;
+                    acceptedQuest = q2;
+                    break;
+                }
+            }
+                if (accepted) {
                     // assign the quest to the character
-                    do_say(mob, q.getAcceptMessage());
+                    do_say(mob, acceptedQuest.getAcceptMessage());
                     ch.act = SET_BIT(ch.act, PLR_QUESTOR);
-                    ch.pcdata.countdown = q.getDuration();
+                    ch.pcdata.countdown = acceptedQuest.getDuration();
                     ch.pcdata.questgiver = mob.id;
-                    if (q instanceof SimpleGetQuest) {
-                        ch.pcdata.questobj = ((SimpleGetQuest) q).getVnumToGet();
+                    if (acceptedQuest instanceof SimpleGetQuest) {
+                        ch.pcdata.questobj = ((SimpleGetQuest) acceptedQuest).getVnumToGet();
                         // put the object on the map?
-                    } else if (q instanceof SimpleKillQuest) {
-                        ch.pcdata.questmob = ((SimpleKillQuest) q).getVnumToKill();
+                    } else if (acceptedQuest instanceof SimpleKillQuest) {
+                        ch.pcdata.questmob = ((SimpleKillQuest) acceptedQuest).getVnumToKill();
                         // put the mob on the map
-                    } else if (q instanceof SimpleCollectQuest) {
-                        ch.pcdata.questobj = ((SimpleCollectQuest) q).getVnumToCollect();
-                        ch.pcdata.questobjnum = ((SimpleCollectQuest) q).getNumberToCollect();
+                    } else if (acceptedQuest instanceof SimpleCollectQuest) {
+                        ch.pcdata.questobj = ((SimpleCollectQuest) acceptedQuest).getVnumToCollect();
+                        ch.pcdata.questobjnum = ((SimpleCollectQuest) acceptedQuest).getNumberToCollect();
                         // place all the objects everywhere
-                        ((SimpleCollectQuest) q).getQuestSetup().run();
-                    } else if (q instanceof SimpleHuntQuest) {
-                        ch.pcdata.questnumtokill = ((SimpleHuntQuest) q).getNumberToKill();
-                        ch.pcdata.questmob = ((SimpleHuntQuest) q).getVnumToKill();
+                        ((SimpleCollectQuest) acceptedQuest).getQuestSetup().run();
+                    } else if (acceptedQuest instanceof SimpleHuntQuest) {
+                        ch.pcdata.questnumtokill = ((SimpleHuntQuest) acceptedQuest).getNumberToKill();
+                        ch.pcdata.questmob = ((SimpleHuntQuest) acceptedQuest).getVnumToKill();
+                        ((SimpleHuntQuest) acceptedQuest).getQuestSetup().run();
                     }
                     // set kill multiples here?
                     // add an id for the quest itself, get achievement
@@ -455,7 +467,7 @@ class MobProg {
                     return;
                 }
             }
-        }
+
         do_say(mob, "Looks like you may be on another quest!  Best sort out that first.");
     }
 

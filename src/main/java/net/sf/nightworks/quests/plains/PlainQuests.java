@@ -178,6 +178,7 @@ public class PlainQuests {
         shq.setAcceptPhrase("yes");
         shq.setAchievement(PlayerAchievement.KILL_MORE_RABBITS_FOR_THE_HERMIT.getId());
         shq.setAcceptMessage("Great, now get out there and kill them rabbits!");
+        shq.setEpilogue("You did it, whew!  I thought they were getting ready to eat *us*!");
         shq.setQualify(qualifyMoreRabbits());
         return shq;
     }

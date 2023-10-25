@@ -2646,10 +2646,15 @@ class Fight {
             gch = ch;
         }
         if (!IS_NPC(gch) && IS_QUESTOR(gch) && IS_NPC(victim)) {
-            if (gch.pcdata.questmob == victim.pIndexData.vnum) {
+            if (gch.pcdata.questmob == victim.pIndexData.vnum && gch.pcdata.questnumtokill > 1) {
+                gch.pcdata.questnumtokill--;
+                send_to_char("You have killed one, only " + gch.pcdata.questnumtokill +" more to go!\n", gch);
+
+            } else if (gch.pcdata.questmob == victim.pIndexData.vnum && gch.pcdata.questnumtokill == 1) {
                 send_to_char("You have almost completed your QUEST!\n", gch);
-                send_to_char("Return to questmaster before your time runs out!\n", gch);
+                send_to_char("Return to your questmaster before your time runs out!\n", gch);
                 gch.pcdata.questmob = -1;
+                gch.pcdata.questnumtokill = -1;
             }
         }
 /* end quest */
