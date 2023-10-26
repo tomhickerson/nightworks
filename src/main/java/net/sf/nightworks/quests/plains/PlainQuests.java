@@ -180,6 +180,7 @@ public class PlainQuests {
         shq.setAcceptMessage("Great, now get out there and kill them rabbits!");
         shq.setEpilogue("You did it, whew!  I thought they were getting ready to eat *us*!");
         shq.setQualify(qualifyMoreRabbits());
+        shq.setReward(killMoreRabbitsReward());
         return shq;
     }
 
