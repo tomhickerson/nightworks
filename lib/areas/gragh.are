@@ -992,11 +992,27 @@ hewn into the rock.
 D1 
 ~
 ~
-0 -1 -1
+0 -1 13127
 D2 
 ~
 ~
 0 -1 13125
+S
+#13127
+A Stone Stairway~
+These steps lead down into another passage, away from the network
+of caves.  They look to be carved by hand and are very smooth and 
+cool to the touch
+~
+0 AD 0
+D3 
+~
+~
+0 -1 13126
+D1 
+~
+~
+0 -1 -1 
 S
 #0
 
