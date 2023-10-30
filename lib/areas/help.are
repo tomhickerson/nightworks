@@ -3682,7 +3682,7 @@ If any problem occurs, you are RESPONSIBLE.
 ~
 
 -1 RELIG RELIGION~
-	Find the Templeman in the Midgaard, and say the name of your god.
+	Find the Templeman in the city of Midgaard, and say the name of your chosen god.
 Syntax : say <god_name> 
 	The list of religions.
      Leader		  Ethos	
@@ -3705,14 +3705,15 @@ Syntax : say <god_name>
     "Enki",	 		"God of Knowledge"
     "Eros",	 		"God of Love"
 
-	For more information about the tattoos  
+	Havng a tattoo from a God or Goddess will aid in combat.
+	For more information about the tattoos, type HELP <GOD> like so:  
 Syntax : help 'atum-ra'
 Syntax : help 'zeus'
 Syntax : help 'siebele'
-                      So on
+                      And so on...
 
-	Don't forget that some of the tattoos can be seen powerful with respect
-to the others, but their probabilities is much lower.
+	Don't forget that some of the tattoos can be seen as more powerful with respect
+to the others, but their probabilities to act are much lower.
 ~
 0 'ATUM-RA' RA~
 .

@@ -1363,8 +1363,8 @@ M 0 8318   2 8312  2	* a shambling mound
 G 1 8307  -1     	*   a murky green potion
 M 0 8318   2 8312  2	* a shambling mound
 G 1 8307  -1     	*   a murky green potion
-M 0 8321   2 8318  2	* a gargoyle
-M 0 8321   2 8318  2	* a gargoyle
+*M 0 8321   2 8318  2	* a gargoyle, removing for now
+*M 0 8321   2 8318  2	* a gargoyle
 M 0 8320   5 8307  1	* a marsh giant
 G 1 8301  10     	*   a long spear
 M 0 8320   5 8309  1	* a marsh giant
