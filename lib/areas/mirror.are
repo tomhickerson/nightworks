@@ -2345,15 +2345,9 @@ wind can howl undisturbed since nothing but you bars its way. However you
 are not the first to wander here. Before you somebody has left footprints.
 The footprints make a path that looks rather bewildered and is not the kind
 of path to lead to anywhere significant or important but it seems to have
-made up its mind to enter the hills far away north.  A little distance
-further, you lose the trail and decide not to get lost.
+made up its mind to enter the hills far away west.
 ~
 0 0 1
-D0
-You see the gateway to Solace.
-~
-~
-1 10306 10201
 D2
 ~
 ~
@@ -2363,10 +2357,6 @@ D3
 The Path to the Keep
 ~
 0 0 15700
-D5
-~
-door~
-1 -1 3603
 S
 #5366
 The holy grove~
@@ -3650,7 +3640,6 @@ G 1 3373  -1     	*   a small pearl
 M 0 5343   1 5394  1	* the guildmaster (Necromencar)
 M 0 5344   1 5396  1	* the guildmaster (Vampire)
 O 0 3135   2 5380	* a fountain
-D 0 5365   5  1
 *D 0 5365   0  2
 S
 

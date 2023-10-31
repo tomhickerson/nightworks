@@ -67,7 +67,7 @@ hound graghtok~
 Hound of Graghtok~
 A huge hound is here showing his six inch teeth at you.
 ~
-This hound has definately been bread for killing.
+This hound has definately been bred for killing.
 ~
 unique~
 ACF CDEFK -1000 0
@@ -574,7 +574,7 @@ S
 #13107
 Base of Stairs~
 You are in a small room with barely enough space to walk through.  In the
-center of this room you see a shaky spiral staircase leading into a small
+center of this room you see a shaky spiral staircase leading up into a small
 hole in the ceiling.  The floor is covered with a crimson liquid which
 appears to be dripping down from a large crack in the east wall.  Other then
 that this room is completely empty.  
@@ -714,7 +714,7 @@ S
 Graghtok's Pit~
 Once inside this ghastly room you can see a large candelabra hanging 
 from the ceiling, lighting the room with a brilliant yellow.  A large 
-podium is on the north wall where an important looking monks of Graghtok 
+podium is on the north wall where an important looking monk of Graghtok 
 sits.  In the center of this room appears to be a bottomless pit in 
 which the mindless monks are falling into without hesitation.  You 
 can hear the sound of death coming from below.  Suddenly, you feel 
@@ -1002,7 +1002,8 @@ S
 A Stone Stairway~
 These steps lead down into another passage, away from the network
 of caves.  They look to be carved by hand and are very smooth and 
-cool to the touch
+cool to the touch.  There is a strange mist floating up from the 
+area below.
 ~
 0 AD 0
 D3 
@@ -1018,9 +1019,15 @@ S
 
 #SPECIALS
 M 13104 spec_cast_cleric * elder monk 
+M 13106 spec_cast_mage * Graghtok himself 
 S
 
 #RESETS
+M 0 13103 1 13116 1 * statue above the pond 
+G 1 13101 1 * statue holds the ruby key 
+M 0 13105 1 13114 4 * hounds in the pit 
+M 0 13105 1 13114 4 * put two of them there 
+M 0 13102 1 13109 2 * blood beast taking his blood bath 
 S
 
 
