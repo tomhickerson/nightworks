@@ -3540,7 +3540,7 @@ class ActInfo {
         }
         send_to_char("{x", ch);
 
-        buf.sprintf("You have a %s ethos.", ethos_table[ch.ethos]);
+        buf.sprintf("You have a %s ethos.  ", ethos_table[ch.ethos].name);
         send_to_char(buf, ch);
         if (IS_NPC(ch)) {
             ch.religion = 0;

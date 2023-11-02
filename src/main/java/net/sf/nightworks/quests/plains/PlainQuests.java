@@ -23,7 +23,7 @@ public class PlainQuests {
         sgq.setAdvancedPreamble(null);
         sgq.setPreamble("{WDear Adventurer, glad to see you!  Could you help me find some {Yfennel{W for a stew I'm making?  Please say '{YI accept{W' if so...{x");
         sgq.setDuration(30);
-        sgq.setEpilogue("Thank you so much!  I'll really enjoy this stew!");
+        sgq.setEpilogue("Thank you so much!  I'll really enjoy this stew!  Come back in a little while, I may need you to find something else for me...");
         sgq.setAcceptMessage("So excellent!  Please stay on the plains and you should find it somewhere nearby!");
         // setting how to qualify here
         sgq.setQualify(qualifiesFennel());
@@ -33,7 +33,8 @@ public class PlainQuests {
     }
     
     private static SimpleQuest.qualify qualifiesFennel() {
-        return ch -> ch.level >= 5 && (IS_GOOD(ch) || IS_NEUTRAL(ch)) && !IS_NPC(ch) && !ch.pcdata.achievements.contains(PlayerAchievement.FIND_FENNEL_FOR_THE_DRUID);
+        return ch -> ch.level >= 5 && (IS_GOOD(ch) || IS_NEUTRAL(ch)) && !IS_NPC(ch)
+                && !ch.pcdata.achievements.contains(PlayerAchievement.FIND_FENNEL_FOR_THE_DRUID);
     }
 
     private static SimpleQuest.reward deliverFennel() {
@@ -115,7 +116,8 @@ public class PlainQuests {
         scq.setQualify(qualifyPilgrim());
         scq.setReward(getTheAlms());
         scq.setQuestSetup(setupPilgrim());
-        scq.setEpilogue("I'm so happy you were able to do it!  Now I can deliver these to Ofcol!  Thank you again, kind stranger!");
+        scq.setEpilogue("I'm so happy you were able to do it!  " +
+                "Now I can deliver these to Ofcol!  Thank you again, kind stranger!");
         return scq;
     }
 
@@ -126,6 +128,9 @@ public class PlainQuests {
             send_to_char("You receive {W10{x quest points and {W150{x experience.\n", ch);
             // update some compassion
             updateCompassion(ch);
+            // setup for little girls lost
+            send_to_char("The Pilgrim turns his head this way and that, " +
+                    "and mumbles '{WThere's some trouble in the orphanage, I can feel it...{x'\n", ch);
         };
     }
 
