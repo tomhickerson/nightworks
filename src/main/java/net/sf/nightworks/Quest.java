@@ -1,5 +1,7 @@
 package net.sf.nightworks;
 
+import net.sf.nightworks.enums.PlayerAchievement;
+
 import java.util.Formatter;
 
 import static net.sf.nightworks.Comm.act;
@@ -125,7 +127,9 @@ class Quest {
         String arg1Str = arg1.toString();
         if (!str_prefix(arg1Str, "info")) {
             if (IS_SET(ch.act, PLR_QUESTOR)) {
-                if (ch.pcdata.questmob == -1) {
+                if (ch.pcdata.questid > 0) {
+                    send_to_char(PlayerAchievement.lookupAchievement(new Integer(ch.pcdata.questid)).getDescription(), ch);
+                } else if (ch.pcdata.questmob == -1) {
                     send_to_char("Your quest is ALMOST complete!\nGet back to Questor before your time runs out!\n", ch);
                 } else if (ch.pcdata.questobj > 0) {
                     questinfoobj = get_obj_index(ch.pcdata.questobj);
