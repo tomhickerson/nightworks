@@ -9,12 +9,43 @@ Ofcol~
 #0
 
 #ROOMS
+#5500
+Entrance to the Orphanage of the Morning Sun~
+You stand in front of a humble, wooden building with a sign 
+over its door: ORPHANAGE OF THE MORNING SUN.  A door leads 
+into the building and the village road is to the east.
+~
+0 0 1
+D1
+The way to the village road.
+~
+~
+0 -1 5550
+D3 
+The door into the orphanage.
+~
+door~
+1 -1 5501
+S
+#5501 
+First landing of the Orphanage~
+You are in a small, wood-paneled entry room of the orphanage.
+The floor is carpeted in green fabric, and the walls are dark
+mahogany.  
+~
+0 0 1
+D1 
+The way out of the orphanage.
+~
+door~ 
+1 -1 5500
+S
 #5550
 Village street~
 You stand at the small village street in Ofcol.
-From here you see small houses and only few people.
+From here you see small houses and only a few people.
 North of here the village street continues up to the small
-square where some people are gathered as always.
+square, where some people are gathered.
 ~
 0 0 1
 D0
@@ -32,7 +63,8 @@ S
 Village street~
 You are standing on the village street of Ofcol.
 East from here is a small alley and north you enter the village
-square. Towards the south you can leave Ofcol.
+square. There is the town orphanage to the west, and towards 
+the south you can leave Ofcol.
 ~
 0 0 1
 D0
@@ -41,22 +73,27 @@ The village square is as usual not overcrowded.
 ~
 0 -1 5552
 D1
-The small alley looks relative peaceful.
+The small alley looks relatively peaceful.
 ~
 ~
 0 -1 5553
 D2
-You see the village street eventually becoming the wide road.
+You see the village street eventually becoming the wide road into the plains.
 ~
 ~
 0 -1 5550
+D3 
+You see the entrance to the Orphanage.
+~
+~
+0 -1 5500
 S
 #5552
 Village square~
 The village square is a place where inhabitants of Ofcol gather
 to talk, trade and sell items and just have a good time.
 You see a small shop to the west and the local inn to the north.
-If you leave south you go to village street.
+If you leave south you can go to the village street.
 ~
 0 0 1
 D0
@@ -126,7 +163,7 @@ S
 The Local Inn~
 You are in the local inn, where the peaceful citizens of Ofcol
 gather to have a drink or 5 if they have dry throats.
-You can't help thinking that Ofcol is a dry city, when you see the
+You can't help thinking that Ofcol is a dry city, when you see this
 many people here.
 The only exit is south to the village square.
 ~
@@ -177,7 +214,10 @@ M 0  308   1 5556  1	* the Innkeeper
 G 1 3000 100     	*   a barrel of beer
 G 1 3001 100     	*   a bottle of beer
 M 0  350   1 5577  1	* the pet dragon
+D 0 5500   3 1 * orphanage door west 
+D 0 5501   1 1 * orphanage door east 
 S
+
 #SHOPS
 0
 #SPECIALS
