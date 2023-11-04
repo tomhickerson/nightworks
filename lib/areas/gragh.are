@@ -880,9 +880,9 @@ Elder's Study~
 This room houses a rather large library of books.  All dust covered from
 lack of use.  There are bookcases on every wall, each overfilled with such
 material as "Blodgeoning For Pleasure".  Your attention is drawn to one
-bookcase on the west wall in which is a large untouched book.  An unpleasant
-musty smell fills your nose urging you to leave.  South goes back to the
-meeting room.  
+bookcase on the west wall in which there sits a large untouched book.  An 
+unpleasant musty smell fills your nose urging you to leave.  South goes 
+back to the meeting room.  
 ~
 0 AD 0
 D0
@@ -1014,6 +1014,18 @@ D1
 ~
 ~
 0 -1 -1 
+S
+#13128
+A Small Shrine~
+You are in a small side chamber, hewn out of the rock and hidden
+behind a secret door.  Strange symbols cover the walls, ceiling 
+and floor, etched in a dark color.
+~
+0 AD 0
+D1 
+~
+~
+0 -1 13121
 S
 #0
 

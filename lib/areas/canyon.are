@@ -1210,7 +1210,8 @@ The Floor of the Canyon~
 Various elemental forms wander the floor of the canyon.  Some seem to be
 going about their business, while others seem to have no business at
 all.  In general, it is calm, yet there is always an incessant buzz of
-things going on about.  The Canyon floor extends north, south and west.
+things going on about.  The Canyon floor extends north, south and west,
+and you can see stairs cut into the canyon face leading upwards.
 ~
 0 0 3
 D0
@@ -1225,6 +1226,10 @@ D3
 ~
 ~
 0 -1 9215
+D4 
+~
+~
+0 -1 13273
 S
 #9217
 The Floor of the Canyon~
@@ -1939,7 +1944,7 @@ G 1 9231  30     	*   anti-cyclops elixir
 M 0 9201   3 9203  3	* the mountain climber
 M 0 9238   1 9203  1	* the elixir vendor
 G 1 9231  30     	*   anti-cyclops elixir
-M 0 9202   0 9204  0	* the cyclops
+M 0 9202   1 9204  1	* the cyclops
 E 1 9213  10   10	*   a platinum arm band
 E 1 9214  10    7	*   some platinum leg bands
 M 0 9204   1 9209  1	* the elemental guardian

@@ -1,0 +1,1970 @@
+#AREA
+elementemp.are~
+Elemental Temple~
+{35 51} Amlaruil	Elemental Temple~
+13200 13299
+
+
+#MOBILES
+#13200
+elite draconian soldier~
+an elite draconian soldier~
+An elite draconian soldier is standing ready.
+~
+He looks as though he has been through many years of training and servitude to
+the temple. His long face seems to give way to his dark eyes and hair, making his
+somewhat pale complexion distort the contours of his face.
+~
+unique~
+AGT 0 -1000 0
+50 0 50d10+4500 0d0+0 5d8+19 smash
+-20 -20 -20 -20
+CDFIO 0 0 0
+stand stand male 0
+AHMV ABCDEF medium 0
+#13201
+draconian elder~
+a draconian elder~
+A draconian elder is standing here with a look of fatigue.
+~
+Standing before you appears to be the first draconian whom is bathed, the stench
+of blood and decay is not upon this Elder. He seems rather aged with his heavily
+fatigued face. Long heavy robes flow from his shoulder down to his feet.
+~
+unique~
+AGR HU -1000 0
+55 0 50d10+7000 0d0+0 10d4+23 pound
+-25 -25 -25 -25
+EFJK 0 0 0
+stand stand male 0
+AHMV ABCDEF medium 0
+#13202
+arch-bishop kraken~
+the Arch-Bishop Kraken~
+(Covered in Dew) An Arch-Bishop is here muttering something to himself.
+~
+Muttering something incoherent, this massive draconian looks up at your
+approach.  With a Derisive sneer he quickly turns with his robes flowing and
+starts towards you.  Every fluidic motion brings him closer to you and you to
+believe that entering here might not have been in your best interest.
+~
+unique~
+ABGR DFH -1000 0
+60 0 50d10+9500 0d0+0 8d6+28 blast
+-30 -30 -30 -30
+AEFJK 0 0 0
+stand stand male 0
+AHMV ABCDEF medium 0
+#13203
+arch-bishop lirthyn~
+the Arch-Bishop Lirthyn~
+(Crackling with Electricity) An Arch-Bishop is here with a look of disdain upon
+his face.
+~
+With an intelligent gleam in his eye, this draconian regards your with disdain. 
+He stands the same height as any other of his race but carries himself as if he
+were king.  With your intrusion, the gleam in his eyes quickly turns to rage as
+he charges towards you.
+~
+unique~
+AGR DFH -1000 0
+60 0 50d10+9500 0d0+0 8d6+28 shbite
+-30 -30 -30 -30
+AEFJK 0 0 0
+stand stand male 0
+AHMV ABCDEF medium 0
+#13204
+arch-bishop wyndstrom~
+the Arch-Bishop Wyndstrom~
+(Surrounded by Winds) An Arch-Bishop is standing here.
+~
+An unusually lithe draconian stands here with his face hooded in darkness. His
+robes seem to flow as if touched by a light breeze, yet none can be felt. 
+Hearing your intrusion the figure jumps to his feet and snarls in your
+direction.
+~
+unique~
+ABGR DFH -1000 0
+60 0 50d10+9500 0d0+0 8d6+28 suction
+-30 -30 -30 -30
+AEFJK 0 0 0
+stand stand male 0
+AHMV ABCDEF medium 0
+#13205
+arch-bishop~
+the Arch-Bishop Shiamoor~
+(Solid) An Arch-Bishop is here red with anger.
+~
+A haggard looking draconian stands before you, obviously a bit perturbed with
+your interruption.  As you scrutinize upon him you notice that his eyes
+immediatly began to glow a cold blue. 'You should not have come here fool,' the
+man states flatly.
+~
+unique~
+ABGR DFH -1000 0
+60 0 50d10+9500 0d0+0 8d6+28 chomp
+-30 -30 -30 -30
+ACDEFJK 0 0 0
+stand stand male 0
+AHMV ABCDEF medium 0
+#13206
+arch-bishop magmus~
+the Arch-Bishop Magmus~
+(Surrounded by Flames) A stout Arch-Bishop is pacing here.
+~
+Before you stands a stout looking Draconian, standing of average height for his
+race.  Upon your entrance he looks up from his gaze with a cold stare and begins
+mumbling about his need to
+reprimand the servant outside.  All at once you realize that walking in here
+might not have been a good idea.
+~
+unique~
+ABGR DFH -1000 0
+60 0 50d10+9500 0d0+0 8d6+28 flbite
+-30 -30 -30 -30
+AEFJK 0 0 0
+stand stand male 0
+AHMV ABCDEF medium 0
+#13207
+arch-bishop amiboshi~
+the Arch-Bishop Amiboshi~
+(Covered in Frost) An Arch-Bishop is here chanting softly.
+~
+Before you stands a regal Looking Draconian, a bit larger than any that have
+been spoken of in the Dragon Tower. She immediately grimaces upon your intrusion
+and glares towards you in fury. All Her features seemingly Darken at once as she
+begins to chant in deep tones.
+~
+unique~
+ABGR DFH -1000 0
+60 0 50d10+9500 0d0+0 8d6+28 frbite
+-30 -30 -30 -30
+AEFJK 0 0 0
+stand stand male 0
+AHMV ABCDEF medium 0
+#13208
+pope medius~
+Pope Medius~
+An awe-inspiring figure is floating here.
+~
+Before you stands an awe-inspiring figure.  He is obviously a draconian by
+heritage, but has a similar build to that of a tree trunk.  At first glance you
+conceive that his battle prowess must be unparalleled.  As you continue to study
+the Pope you come upon his aged eyes.  These eyes seem to contain a depth and
+understanding that almost seem impossible, however somewhere in that depth you
+sense a dark foreboding chaos present that sends shivers down your spine.  What
+is it you see in his eyes?
+~
+unique~
+ABGR DFHTU -1000 0
+65 2 50d10+20000 0d0+0 9d7+30 thrust
+-40 -40 -40 -40
+AFJK 0 0 0
+stand stand male 0
+AHMV ABCDEF medium 0
+#13209
+draconian spy~
+the Draconian Spy~
+A mid-sized draconian is standing here in the shadows.
+~
+Before you stands a draconian dressed in the same garb as the other acolytes in
+the temple.  This draconian's robe hangs unusually loose and seems to be badly
+mid-sized.  He seems completely aware of his surroundings and everything in it.
+He nervously turns towards you and acknowledges your entrance.  Could he be
+hiding something?
+~
+unique~
+AGS DFHPQ -1000 0
+60 0 50d10+15500 0d0+0 8d6+28 stab
+-30 -30 -30 -30
+ABFHKN 0 0 0
+stand stand male 0
+AHMV ABCDEF medium 0
+#13210
+draconian warrior~
+a well-built draconian warrior~
+A well-built draconian is standing here mumbling.
+~
+Before you stands a healthy looking form in heavy robes standing about. You
+cannot discern whether it is male or female but you can see that it is of the
+Draconian heritage.  The form mumbles something incoherent in a guttural tone as
+you continue to study it in scrutiny.  The being seems oblivious to your
+presence.
+~
+unique~
+AGT DF -1000 0
+60 0 50d10+15500 0d0+0 8d6+28 slash
+-30 -30 -30 -30
+CDEFJKO 0 0 0
+stand stand male 0
+AHMV ABCDEF medium 0
+#13211
+draconian acolyte~
+a draconian acolyte~
+A draconian acolyte is standing here.
+~
+Standing before you is a young draconian chanting a prayer to himself. He is
+dressed in dark clothing, though is cloaked from head to toe, so his features,
+except his large fangs are undetected.
+~
+unique~
+ABGQ U -1000 0
+40 0 15d10+1850 0d0+0 4d8+13 pierce
+-13 -13 -13 -13
+EFJKN 0 0 0
+stand stand male 0
+AHMV ABCDEF medium 0
+#0
+
+
+
+#OBJECTS
+#13200
+heavy robe~
+a heavy hooded robe~
+A heavy leather robe with an attached hood lies here.~
+~
+armor A AK
+5 5 5 5 0
+0 5 0 P
+A
+24 0
+#13201
+pike adamantite~
+a adamantite pike inscribed with a dragon~
+An adamantite polearm with dragon inscriptions lies here, collecting dust.~
+~
+weapon A AN
+polearm 8 6 chop F
+0 28 0 P
+A
+18 5
+A
+19 8
+#13202
+arcane robe~
+a heavy hooded robe with Arcane symbols~
+An ancient robe with Arcane symbols about it is here.~
+~
+armor AB AK
+15 15 15 20 0
+0 5 0 P
+A
+12 100
+A
+13 50
+A
+18 -5
+A
+19 -8
+A
+17 -20
+#13203
+mantle water~
+the mantle of water~
+Covered with sprinkles of water, a mantle piece lies here.~
+~
+armor A AC
+10 10 10 10 0
+0 5 0 P
+A
+12 50
+A
+13 10
+#13204
+mace water~
+a mace made of shimmering water~
+A shimmering mound of water formed into a mace lies here.~
+~
+weapon B AN
+mace 9 5 frbite 0
+0 5 0 P
+A
+12 25
+A
+13 10
+#13205
+mantle electricity~
+the mantle of electricity~
+Crackling and sparkling with electricity, a mantle piece lies.~
+~
+armor A AC
+10 10 10 10 0
+0 5 0 P
+A
+1 3
+A
+13 10
+#13206
+hammer electricity~
+a hammer crackling with electricity~
+Loud cracks and pops come from a halo of electricity formed into a mace.~
+~
+weapon B AN
+mace 9 5 shbite G
+0 5 0 P
+A
+1 5
+A
+13 5
+#13207
+mantle air~
+the mantle of air~
+A gust of air swirls a mantle that lies here on the ground.~
+~
+armor A AC
+10 10 10 10 0
+0 5 0 P
+A
+2 3
+A
+13 10
+#13208
+mace air~
+a mace surrounded by a swirling vortex~
+A cloud of gases and swirling vortexes hum over a mace figure.~
+~
+weapon B AN
+mace 9 5 suction 0
+0 5 0 P
+A
+2 5
+A
+19 5
+#13209
+mantle earth~
+the mantle of earth~
+A mound of earth is collected here to form a mantle.~
+~
+armor A AC
+10 10 10 10 0
+0 5 0 P
+A
+5 3
+A
+13 60
+#13210
+hammer earth~
+a large hammer made of solid earth~
+Solid earth and rock in the form of a hammer lies here.~
+~
+weapon B AN
+mace 9 5 smash 0
+0 5 0 P
+A
+13 30
+A
+19 4
+#13211
+mantle fire~
+the mantle of fire~
+Ablazing hot mantle lies here.~
+~
+armor A AC
+10 10 10 10 0
+0 5 0 P
+A
+13 10
+A
+19 4
+#13212
+mace flame~
+a mace pulsating with flames~
+A fiery mace lies here pulsating with pure energy.~
+~
+weapon B AN
+mace 9 5 flbite A
+0 5 0 P
+A
+19 5
+A
+13 5
+#13213
+mantle ice~
+the mantle of ice~
+An ice-cold mantle lies here.~
+~
+armor A AC
+10 10 10 10 0
+0 5 0 P
+A
+18 5
+A
+13 10
+#13214
+mace freezing~
+a freezing cold mace~
+A freezing cold mace lies here.~
+~
+weapon B AN
+mace 9 5 frbite B
+0 5 0 P
+A
+18 5
+A
+13 5
+#13215
+ring draco draconian~
+the ring of Draconian Kind~
+An evil looking ring lies here radiating with darkness.~
+~
+armor AB AB
+0 0 0 0 0
+0 5 0 P
+A
+13 40
+A
+12 40
+A
+19 6
+A
+17 -20
+#13216
+mantle pope medius~
+the mantle of Pope Medius~
+A large mantle with the inscriptions 'Pope Medius' is resting here.~
+~
+armor AB AC
+20 20 20 20 0
+0 5 0 P
+A
+12 50
+A
+13 50
+A
+18 3
+A
+19 4
+A
+1 1
+A
+2 -3
+#13217
+staff pope medius~
+the staff of pope medius~
+An exotic looking staff with the inscriptions 'Pope Medius' is sitting here.~
+~
+weapon AB AN
+staff 10 6 smash AD
+0 5 0 P
+A
+13 50
+A
+12 50
+A
+19 2
+A
+18 1
+#13218
+wristguard crimson spiked~
+a spiked crimson wristguard~
+A hoop of deep crimson color with large spikes lies here.~
+~
+armor AEG AM
+0 0 0 0 0
+0 5 0 P
+A
+13 20
+A
+19 4
+A
+18 2
+A
+1 -2
+#13219
+katana crimson~
+a razor sharp crimson katana~
+A crimson katana awaits to be held.~
+~
+weapon AE AN
+sword 10 5 slice AD
+0 50 0 P
+A
+19 7
+A
+18 2
+A
+1 -2
+#13220
+incinerator large axe~
+a blazing axe named 'Incinerator'~
+A deadly looking axe surrounded by heat sits here.~
+~
+weapon AE AN
+axe 11 5 chop A
+0 80 0 P
+A
+19 5
+A
+13 50
+#13221
+dragon tooth~
+a dragon's tooth~
+a large tooth is here on the ground.~
+~
+weapon AEJ AN
+dagger 5 6 pierce C
+0 5 0 P
+A
+19 2
+#0
+
+
+
+#ROOMS
+#13200
+The Holy of Holy's~
+You have stepped into a place feeling unlike any other.  Your very being seems
+questioned.  In every direction you glance, there seems to be endless stars. 
+The floor that had been present suddenly begins wavering in an eerie fashion.
+~
+0 4202496 0
+D2
+~
+~
+0 -1 13201
+S
+#13201
+A waiting room~
+This room is lined with many luxurious furnishings and wall hangings.  The
+floor is decorated in the same checkered layout that is found in other sections
+of the temple.  To the north is a door that reads 'All Power to Pope Medius.'
+~
+0 1024 0
+D0
+~
+~
+0 -1 13200
+D1
+~
+~
+0 -1 13208
+D2
+~
+~
+0 -1 13220
+D3
+~
+~
+0 -1 13202
+S
+#13202
+A waiting room~
+This room is lined with many luxurious furnishings and wall hangings.  The floor
+is decorated in the same checkered layout that is found in other sections of the
+temple.
+~
+0 0 0
+D1
+~
+~
+0 -1 13201
+D2
+~
+~
+0 -1 13221
+D3
+~
+~
+0 -1 13203
+S
+#13203
+The Holy Chamber of Frost~
+This room is very plain and unfurnished.  The floor seems to have concentric
+circles drawn upon it.  In the center of these circles there stands a small
+pyramid shaped structure that flashes with energy.
+~
+0 0 0
+D1
+~
+~
+0 -1 13202
+D2
+~
+~
+0 -1 13222
+D3
+~
+~
+0 -1 13204
+S
+#13204
+A waiting room~
+This room is lined with many luxurious furnishings and wall hangings.  The floor
+is decorated in the same checkered layout that is found in other sections of the
+temple.
+~
+0 0 0
+D1
+~
+~
+0 -1 13203
+D2
+~
+~
+0 -1 13223
+D3
+~
+~
+0 -1 13205
+S
+#13205
+The Holy Chamber of Water~
+This room is very plain and unfurnished.  The floor seems to have concentric
+circles drawn upon it.  In the center of these circles there stands a small
+pyramid shaped structure that flashes with energy.
+~
+0 0 1
+D1
+~
+~
+0 -1 13204
+D2
+~
+~
+0 -1 13224
+D3
+~
+~
+0 -1 13206
+S
+#13206
+A waiting room~
+This room is lined with many luxurious furnishings and wall hangings.  The floor
+is decorated in the same checkered layout that is found in other sections of the
+temple.
+~
+0 0 0
+D1
+~
+~
+0 -1 13205
+D2
+~
+~
+0 -1 13225
+D3
+~
+~
+0 -1 13207
+S
+#13207
+The Holy Chamber of Earth~
+This room is very plain and unfurnished.  The floor seems to have concentric
+circles drawn upon it.  In the center of these circles there stands a small
+pyramid shaped structure that flashes with energy.
+~
+0 0 0
+D1
+~
+~
+0 -1 13206
+D2
+~
+~
+0 -1 13226
+S
+#13208
+A waiting room~
+This room is lined with many luxurious furnishings and wall hangings.  The floor
+is decorated in the same checkered layout that is found in other sections of the
+temple.
+~
+0 0 0
+D1
+~
+~
+0 -1 13209
+D2
+~
+~
+0 -1 13219
+D3
+~
+~
+0 -1 13201
+S
+#13209
+The Holy Chamber of Air~
+This room is very plain and unfurnished.  The floor seems to have concentric
+circles drawn upon it.  In the center of these circles there stands a small
+pyramid shaped structure that flashes with energy.
+~
+0 0 0
+D1
+~
+~
+0 -1 13210
+D2
+~
+~
+0 -1 13218
+D3
+~
+~
+0 -1 13208
+S
+#13210
+A waiting room~
+This room is lined with many luxurious furnishings and wall hangings.  The floor
+is decorated in the same checkered layout that is found in other sections of the
+temple.
+~
+0 0 0
+D1
+~
+~
+0 -1 13211
+D2
+~
+~
+0 -1 13217
+D3
+~
+~
+0 -1 13209
+S
+#13211
+The Holy Chamber of Fire~
+This room is very plain and unfurnished.  The floor seems to have concentric
+circles drawn upon it.  In the center of these circles there stands a small
+pyramid shaped structure that flashes with energy.
+~
+0 0 0
+D1
+~
+~
+0 -1 13212
+D2
+~
+~
+0 -1 13216
+D3
+~
+~
+0 -1 13210
+S
+#13212
+A waiting room~
+This room is lined with many luxurious furnishings and wall hangings.  The floor
+is decorated in the same checkered layout that is found in other sections of the
+temple.
+~
+0 0 0
+D1
+~
+~
+0 -1 13213
+D2
+~
+~
+0 -1 13215
+D3
+~
+~
+0 -1 13211
+S
+#13213
+The Holy Chamber of Electricity~
+This room is very plain and unfurnished.  The floor seems to have concentric
+circles drawn upon it.  In the center of these circles there stands a small
+pyramid shaped structure that flashes with energy.
+~
+0 0 0
+D2
+~
+~
+0 -1 13214
+D3
+~
+~
+0 -1 13212
+S
+#13214
+A candlelit hallway~
+Candles line the walls here.  The artwork is exquisite depicting many scenes of
+dragons and mages.  The hallway is silent, lacking even the most basic of sound. 
+Every step you take fails to emit any resounding echo. Barely discernable to the
+north is a heavy oaken door.
+~
+0 0 0
+D0
+~
+~
+0 -1 13213
+D3
+~
+~
+0 -1 13215
+S
+#13215
+A candlelit hallway~
+Candles line the walls here.  The artwork is exquisite depicting many scenes of
+dragons and mages.  The hallway is silent, lacking even the most basic of sound. 
+Every step you take fails to emit any resounding echo.
+~
+0 0 0
+D0
+~
+~
+0 -1 13212
+D1
+~
+~
+0 -1 13214
+D3
+~
+~
+0 -1 13216
+S
+#13216
+A candlelit hallway~
+Candles line the walls here.  The artwork is exquisite depicting many scenes of
+dragons and mages.  The hallway is silent, lacking even the most basic of sound. 
+Every step you take fails to emit any resounding echo. Barely discernable to the
+north is a heavy oaken door.
+~
+0 0 0
+D0
+~
+~
+0 -1 13211
+D1
+~
+~
+0 -1 13215
+D3
+~
+~
+0 -1 13217
+S
+#13217
+A candlelit hallway~
+Candles line the walls here.  The artwork is exquisite depicting many scenes of
+dragons and mages.  The hallway is silent, lacking even the most basic of sound. 
+Every step you take fails to emit any resounding echo.
+~
+0 0 0
+D0
+~
+~
+0 -1 13210
+D1
+~
+~
+0 -1 13216
+D3
+~
+~
+0 -1 13218
+S
+#13218
+A candlelit hallway~
+Candles line the walls here.  The artwork is exquisite depicting many scenes of
+dragons and mages.  The hallway is silent, lacking even the most basic of sound. 
+Every step you take fails to emit any resounding echo. Barely discernable to the
+north is a heavy oaken door.
+~
+0 0 0
+D0
+~
+~
+0 -1 13209
+D1
+~
+~
+0 -1 13217
+D3
+~
+~
+0 -1 13219
+S
+#13219
+A candlelit hallway~
+Candles line the walls here.  The artwork is exquisite depicting many scenes of
+dragons and mages.  The hallway is silent, lacking even the most basic of sound. 
+Every step you take fails to emit any resounding echo.
+~
+0 0 0
+D0
+~
+~
+0 -1 13208
+D1
+~
+~
+0 -1 13218
+D2
+~
+~
+0 -1 13227
+D3
+~
+~
+0 -1 13220
+S
+#13220
+A candlelit hallway~
+Candles line the walls here.  The artwork is exquisite depicting many scenes of
+dragons and mages.  The hallway is silent, lacking even the most basic of sound. 
+Every step you take fails to emit any resounding echo.
+~
+0 0 0
+D0
+~
+~
+0 -1 13201
+D1
+~
+~
+0 -1 13219
+D3
+~
+~
+0 -1 13221
+S
+#13221
+A candlelit hallway~
+Candles line the walls here.  The artwork is exquisite depicting many scenes of
+dragons and mages.  The hallway is silent, lacking even the most basic of sound. 
+Every step you take fails to emit any resounding echo.
+~
+0 0 0
+D0
+~
+~
+0 -1 13202
+D1
+~
+~
+0 -1 13220
+D3
+~
+~
+0 -1 13222
+S
+#13222
+A candlelit hallway~
+Candles line the walls here.  The artwork is exquisite depicting many scenes of
+dragons and mages.  The hallway is silent, lacking even the most basic of sound. 
+Every step you take fails to emit any resounding echo. Barely discernable to the
+north is a heavy oaken door.
+~
+0 0 0
+D0
+~
+~
+0 -1 13203
+D1
+~
+~
+0 -1 13221
+D3
+~
+~
+0 -1 13223
+S
+#13223
+A candlelit hallway~
+Candles line the walls here.  The artwork is exquisite depicting many scenes of
+dragons and mages.  The hallway is silent, lacking even the most basic of sound. 
+Every step you take fails to emit any resounding echo.
+~
+0 0 0
+D0
+~
+~
+0 -1 13204
+D1
+~
+~
+0 -1 13222
+D3
+~
+~
+0 -1 13224
+S
+#13224
+A candlelit hallway~
+Candles line the walls here.  The artwork is exquisite depicting many scenes of
+dragons and mages.  The hallway is silent, lacking even the most basic of sound. 
+Every step you take fails to emit any resounding echo. Barely discernable to the
+north is a heavy oaken door.
+~
+0 0 0
+D0
+~
+~
+0 -1 13205
+D1
+~
+~
+0 -1 13223
+D3
+~
+~
+0 -1 13225
+S
+#13225
+A candlelit hallway~
+Candles line the walls here.  The artwork is exquisite depicting many scenes of
+dragons and mages.  The hallway is silent, lacking even the most basic of sound. 
+Every step you take fails to emit any resounding echo.
+~
+0 0 0
+D0
+~
+~
+0 -1 13206
+D1
+~
+~
+0 -1 13224
+D3
+~
+~
+0 -1 13226
+S
+#13226
+A candlelit hallway~
+Candles line the walls here.  The artwork is exquisite depicting many scenes of
+dragons and mages.  The hallway is silent, lacking even the most basic of sound. 
+Every step you take fails to emit any resounding echo. Barely discernable to the
+north is a heavy oaken door.
+~
+0 0 0
+D0
+~
+~
+0 -1 13207
+D1
+~
+~
+0 -1 13225
+S
+#13227
+A candlelit hallway~
+Candles line the walls here.  The artwork is exquisite depicting many scenes of
+dragons and mages.  The hallway is silent, lacking even the most basic of sound. 
+Every step you take fails to emit any resounding echo. Barely discernable to the
+north is a heavy oaken door.
+~
+0 0 0
+D0
+~
+~
+0 -1 13219
+D2
+~
+~
+0 -1 13228
+S
+#13228
+A candlelit hallway~
+Candles line the walls here.  The artwork is exquisite depicting many scenes of
+dragons and mages.  The hallway is silent, lacking even the most basic of sound. 
+Every step you take fails to emit any resounding echo.
+~
+0 0 0
+D0
+~
+~
+0 -1 13227
+D2
+~
+~
+0 -1 13229
+S
+#13229
+The Temple Alter~
+This section of the sanctuary seems much like all the rest.  It holds the same
+beautifully laid checkerboard pattern upon the floor.  Here in the center of
+this area, you find a large golden altar.  Barely discernible here you can make
+out the shape of a door behind the altar.
+~
+0 0 0
+D0
+~
+~
+0 -1 13228
+D1
+~
+~
+0 -1 13244
+D2
+~
+~
+0 -1 13252
+D3
+~
+~
+0 -1 13230
+S
+#13230
+Northern Section of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place.  To the east there stands a large altar, while to the
+south there can been seen a statue standing. Standing before you is a large
+statue of a cloaked figure with the name 'Arch-Bishop Lirthyn' inscribed at its
+base.
+~
+0 0 0
+D1
+~
+~
+0 -1 13229
+D2
+~
+~
+0 -1 13253
+D3
+~
+~
+0 -1 13231
+S
+#13231
+Northern Section of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place.  To the east there stands a large altar, while to the
+south there can been seen a statue standing.
+~
+0 0 0
+D1
+~
+~
+0 -1 13230
+D2
+~
+~
+0 -1 13254
+D3
+~
+~
+0 -1 13232
+S
+#13232
+Northwest Corner of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place.
+~
+0 0 0
+D1
+~
+~
+0 -1 13231
+D2
+~
+~
+0 -1 13255
+D3
+~
+~
+0 -1 13233
+S
+#13233
+A small hallway~
+The passageway here is simple and humble.  Unlike other areas of the Temple
+there are no signs of expense or extravagance.
+~
+0 0 0
+D1
+~
+~
+0 -1 13232
+D3
+~
+~
+0 -1 13234
+S
+#13234
+A small hallway~
+The passageway here is simple and humble.  Unlike other areas of the Temple
+there are no signs of expense or extravagance.  There are doors here leading
+elsewhere.
+~
+0 0 0
+D0
+~
+~
+0 -1 13236
+D1
+~
+~
+0 -1 13233
+D2
+~
+~
+0 -1 13243
+D3
+~
+~
+0 -1 13235
+S
+#13235
+An Acolyte's Chambers~
+The lighting in this room is considerably dimmer than the rest of the temple.
+There is a small cot sitting on one corner of this room.  In the other there is
+a small area with a pillow.  The walls are plain and simple with nothing
+adorning them.
+~
+0 0 0
+D1
+~
+~
+0 -1 13234
+S
+#13236
+An Acolyte's Chambers~
+The lighting in this room is considerably dimmer than the rest of the temple.
+There is a small cot sitting on one corner of this room.  In the other there is
+a small area with a pillow.  The walls are plain and simple with nothing
+adorning them.
+~
+0 0 0
+D2
+~
+~
+0 -1 13234
+S
+#13243
+An Acolyte's Chambers~
+The lighting in this room is considerably dimmer than the rest of the temple.
+There is a small cot sitting on one corner of this room.  In the other there is
+a small area with a pillow.  The walls are plain and simple with nothing
+adorning them.
+~
+0 0 0
+D0
+~
+~
+0 -1 13234
+S
+#13244
+Northern Section of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place.  To the west there stands a large altar, while to the
+south there can been seen a statue standing. Standing before you is a large
+statue of a cloaked figure with the name 'Arch-Bishop Wyndstrom' inscribed at
+its base.
+~
+0 0 0
+D1
+~
+~
+0 -1 13245
+D3
+~
+~
+0 -1 13229
+S
+#13245
+Northern Section of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place.  To the west there stands a large altar, while to the
+south there can been seen a statue standing.
+~
+0 0 0
+D1
+~
+~
+0 -1 13246
+D2
+~
+~
+0 -1 13256
+D3
+~
+~
+0 -1 13244
+S
+#13246
+Northeast Corner of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place.
+~
+0 0 0
+D1
+~
+~
+0 -1 13247
+D2
+~
+~
+0 -1 13257
+D3
+~
+~
+0 -1 13245
+S
+#13247
+A small hallway~
+The passageway here is simple and humble.  Unlike other areas of the Temple
+there are no signs of expense or extravagance.
+~
+0 0 0
+D1
+~
+~
+0 -1 13248
+D2
+~
+~
+0 -1 13258
+D3
+~
+~
+0 -1 13246
+S
+#13248
+A small hallway~
+The passageway here is simple and humble.  Unlike other areas of the Temple
+there are no signs of expense or extravagance.  There are doors here leading
+elsewhere.
+~
+0 0 0
+D0
+~
+~
+0 -1 13250
+D1
+~
+~
+0 -1 13249
+D2
+~
+~
+0 -1 13251
+D3
+~
+~
+0 -1 13247
+S
+#13249
+An Acolyte's Chambers~
+The lighting in this room is considerably dimmer than the rest of the temple.
+There is a small cot sitting on one corner of this room.  In the other there is
+a small area with a pillow.  The walls are plain and simple with nothing
+adorning them.
+~
+0 0 0
+D3
+~
+~
+0 -1 13248
+S
+#13250
+An Acolyte's Chambers~
+The lighting in this room is considerably dimmer than the rest of the temple.
+There is a small cot sitting on one corner of this room.  In the other there is
+a small area with a pillow.  The walls are plain and simple with nothing
+adorning them.
+~
+0 0 0
+D2
+~
+~
+0 -1 13248
+S
+#13251
+An Acolyte's Chambers~
+The lighting in this room is considerably dimmer than the rest of the temple.
+There is a small cot sitting on one corner of this room.  In the other there is
+a small area with a pillow.  The walls are plain and simple with nothing
+adorning them.
+~
+0 0 0
+D0
+~
+~
+0 -1 13248
+S
+#13252
+Center Section of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place. Standing before you is a large statue. This statue
+stands taller than all the others in the sanctuary.  Upon the base of this
+structure lies the name 'Pope Medius' at its base.
+~
+0 0 0
+D0
+~
+~
+0 -1 13229
+D1
+~
+~
+0 -1 13256
+D2
+~
+~
+0 -1 13259
+D3
+~
+~
+0 -1 13253
+S
+#13253
+Center Section of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place.
+~
+0 0 0
+D0
+~
+~
+0 -1 13230
+D1
+~
+~
+0 -1 13252
+D2
+~
+~
+0 -1 13260
+D3
+~
+~
+0 -1 13254
+S
+#13254
+Western Section of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place. Standing before you is a large statue of a cloaked
+figure with the name 'Arch-Bishop Kraken' inscribed at its base.
+~
+0 0 0
+D0
+~
+~
+0 -1 13231
+D1
+~
+~
+0 -1 13253
+D2
+~
+~
+0 -1 13261
+D3
+~
+~
+0 -1 13255
+S
+#13255
+Western Section of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place.
+~
+0 0 0
+D0
+~
+~
+0 -1 13232
+D1
+~
+~
+0 -1 13254
+D2
+~
+~
+0 -1 13262
+S
+#13256
+Center Section of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place.
+~
+0 0 0
+D0
+~
+~
+0 -1 13245
+D1
+~
+~
+0 -1 13257
+D2
+~
+~
+0 -1 13263
+D3
+~
+~
+0 -1 13252
+S
+#13257
+Eastern Section of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place. To the west and south there can been seen statues
+standing.  Standing before you is a large statue of a cloaked figure with the
+name 'Arch-Bishop Shiamoor' inscribed at its base.
+~
+0 0 0
+D0
+~
+~
+0 -1 13246
+D1
+~
+~
+0 -1 13258
+D2
+~
+~
+0 -1 13264
+D3
+~
+~
+0 -1 13256
+S
+#13258
+Eastern Section of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place.  To the west and south there can been seen statues
+standing.
+~
+0 0 0
+D0
+~
+~
+0 -1 13247
+D2
+~
+~
+0 -1 13265
+D3
+~
+~
+0 -1 13257
+S
+#13259
+Southern Section of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place.
+~
+0 0 0
+D0
+~
+~
+0 -1 13252
+D1
+~
+~
+0 -1 13263
+D3
+~
+~
+0 -1 13260
+S
+#13260
+Southern Section of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place.  Standing before you is a large statue of a cloaked
+figure with the name 'Arch-Bishop Shiamoor' inscribed at its base.  To the south
+is the largest iron door inside the temple.
+~
+0 0 0
+D0
+~
+~
+0 -1 13253
+D1
+~
+~
+0 -1 13259
+D2
+~
+~
+0 -1 13266
+D3
+~
+~
+0 -1 13261
+S
+#13261
+Southwest Section of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place.  To your west stands a simple wooden door while to your
+north and east stand large statues.
+~
+0 0 0
+D0
+~
+~
+0 -1 13254
+D1
+~
+~
+0 -1 13260
+D3
+~
+~
+0 -1 13262
+S
+#13262
+Southwest Corner of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place.  In the southern side, the wall is somewhat broken down
+to where you might be able to squeeze through.
+~
+0 0 0
+D0
+~
+~
+0 -1 13255
+D1
+~
+~
+0 -1 13261
+D2
+~
+~
+0 -1 13267
+S
+#13263
+Southern Section of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place.  Standing before you is a large statue of a cloaked
+figure with the name 'Arch-Bishop Shiamoor' inscribed at its base.
+~
+0 0 0
+D0
+~
+~
+0 -1 13256
+D1
+~
+~
+0 -1 13264
+D3
+~
+~
+0 -1 13259
+S
+#13264
+Southern Section of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place.  To the south is the exit of the Elemental Temple, while
+to the west stands a large statue.
+~
+0 0 0
+D0
+~
+~
+0 -1 13257
+D1
+~
+~
+0 -1 13265
+D2
+~
+~
+0 -1 13271
+D3
+~
+~
+0 -1 13263
+S
+#13265
+Southeastern Corner of the Sanctuary~
+This room is spacious and heavily adorned.  The ceilings are incredibly high,
+seemingly able to house even the largest of dragons.  The floor is tiled in a
+checkerboard fashion of silver and gold.  There resounds the echoes of lightly
+uttered sounds all about.  The air carries a light scent of burned incense that
+is impossible to place.
+~
+0 0 0
+D0
+~
+~
+0 -1 13258
+D3
+~
+~
+0 -1 13264
+S
+#13266
+A Blood Stained Hall~
+You find yourself caught in a moment of morbid fascination as you behold a vast
+hall of Polished marble. Bas-reliefs and corded stone sequences dance and frolic
+in splendid array around the base of both the floor and ceiling. The decorative
+trim is set in pictograms depicting jolly cherubs and harp wielding angels,
+seemingly calm and serene. As you gaze to the floor however, your stomach
+wretches. A thick sticky trail of old blood streaks the once proud marble floor.
+Splatters of blood line the once chaste pillars as pools of dried caked blood
+pool about their base. This room has been desecrated in ways only read about in
+faerie tale. Streaks of blood paint the cold marble wall, you think you see a
+hand print, forever caught upon it.
+~
+0 0 0
+D0
+~
+~
+0 -1 13260
+S
+#13267
+A Dark Hallway~
+Dark marble covers this room, on either side of you there are pillars that hold
+up this hallway. It too dark to make much of anything out, but as you walk, you
+hear a crunching sound, like the sound of stepped on pests.
+~
+0 0 0
+D0
+~
+~
+0 -1 13262
+D2
+~
+~
+0 -1 13268
+S
+#13268
+A Dark Hallway~
+Dark marble covers this room, on either side of you there are pillars that hold
+up this hallway. It too dark to make much of anything out, but as you walk, you
+hear a crunching sound, like the sound of stepped on pests.
+~
+0 0 0
+D0
+~
+~
+0 -1 13267
+D2
+~
+~
+0 -1 13269
+S
+#13269
+A Dark Hallway~
+Dark marble covers this room, on either side of you there are pillars that hold
+up this hallway. It too dark to make much of anything out, but as you walk, you
+hear a crunching sound, like the sound of stepped on pests. Through the cracks
+of a large wooden door, you see a faint shimmer of light.
+~
+0 0 0
+D0
+~
+~
+0 -1 13268
+D3
+~
+~
+0 -1 13270
+S
+#13270
+A Shadowy Room~
+A stout wooden perimeter encircles this room. The center area has been dropped
+down about a foot and a half with a single step leading down. The lowered floor
+seems oddly warm to the touch. Upon close inspection you notice the wood has
+been worn to a fine grain, save for the occasional knick and gouge caused by
+weapons. A tattered war banner of a forgotten general flaps in a gentle breeze,
+mounted on a sturdy iron bar in the northern part of the room. While standing on
+the raised perimeter you get the impression that you're in an audience, the view
+of the center seems prominent, and functional.
+~
+0 0 0
+D1
+~
+~
+0 -1 13269
+S
+#13271
+Hallway leading to the Sanctuary~
+This room is considerably smaller than the foyer entrance next to it. The walls
+are plain and unadorned, drastically contrasting with the exquisite murals found
+elsewhere.  To the north there is a large door leading to a dimly lit sanctuary. 
+Light murmers and gutteral tones can be heard coming from beyond the door.
+~
+0 0 0
+D0
+~
+~
+0 -1 13264
+D2
+~
+~
+0 -1 13272
+S
+#13272
+The Foyer of the Temple~
+You are in a large room leading to a large golden door to the north. As you
+look around you notice that barely discernible in the dankly lit foyer there is a
+mural etched into the ceiling with great care.  The floor beneath your feet is
+also of the highest quality being tiled in the finest of stones and pearls.  In 
+the center of the foyer there stands a small {Yplaque{x.
+~
+0 0 0
+E
+plaque ~
+This Temple was Erected by Amlaruil and Deomanix~
+D0
+~
+~
+0 -1 13271
+D2
+~
+~
+0 -1 13273
+S
+#13273
+The Entry to the Temple~ 
+You are standing before an archway leading into a large and expansive Temple,
+perched on the canyon's edge, overlooking the entirety of the elemental canyon.
+This platform is carved of smooth stone and rock.  The archway leads north into 
+the temple itself, while stairs carved into the side of the canyon lead down.
+~
+0 0 3
+D0
+~
+~
+0 -1 13272
+D5
+~
+~
+0 -1 9216
+S 
+#0
+
+
+
+#SPECIALS
+M 13201 spec_cast_mage
+M 13202 spec_cast_mage
+M 13203 spec_breath_lightning
+M 13204 spec_cast_mage
+M 13205 spec_cast_mage
+M 13206 spec_breath_fire
+M 13207 spec_breath_frost
+M 13208 spec_cast_mage
+M 13209 spec_thief
+S
+
+
+
+#RESETS
+M 0 13208 1 13200 1
+E 0 13215 0 1
+E 0 13216 0 3
+E 0 13217 0 16
+M 0 13207 1 13203 1
+E 0 13214 0 16
+E 0 13213 0 3
+M 0 13202 1 13205 1
+E 0 13203 0 3
+E 0 13204 0 16
+M 0 13205 1 13207 1
+E 0 13210 0 16
+E 0 13209 0 3
+M 0 13204 1 13209 1
+E 0 13208 0 16
+E 0 13207 0 3
+M 0 13206 1 13211 1
+E 0 13211 0 3
+E 0 13212 0 16
+M 0 13203 1 13213 1
+E 0 13206 0 16
+E 0 13205 0 3
+M 0 13211 6 13235 6
+E 0 13221 0 16
+E 0 13200 0 12
+M 0 13211 6 13236 6
+E 0 13221 0 16
+E 0 13200 0 12
+M 0 13211 6 13243 6
+E 0 13221 0 16
+E 0 13200 0 12
+M 0 13211 6 13249 6
+E 0 13221 0 16
+E 0 13200 0 12
+M 0 13201 1 13249 1
+E 0 13202 0 12
+E 0 13221 0 16
+M 0 13211 6 13250 6
+E 0 13221 0 16
+E 0 13200 0 12
+M 0 13211 6 13251 6
+E 0 13221 0 16
+E 0 13200 0 12
+M 0 13200 5 13255 5
+E 0 13201 0 16
+M 0 13200 5 13258 5
+E 0 13201 0 16
+M 0 13200 5 13260 5
+E 0 13201 0 16
+M 0 13200 5 13263 5
+E 0 13201 0 16
+M 0 13200 5 13265 5
+E 0 13201 0 16
+M 0 13209 1 13266 1
+E 0 13200 0 12
+E 0 13218 0 15
+E 0 13219 0 16
+M 0 13210 1 13270 1
+E 0 13200 0 12
+E 0 13220 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+#$
