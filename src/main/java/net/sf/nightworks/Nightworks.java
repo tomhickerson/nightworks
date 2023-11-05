@@ -1894,13 +1894,13 @@ public final class Nightworks {
  * This is the in-memory version of #MOBILES.
  */
 
-    static final class MOB_INDEX_DATA {
+    public static final class MOB_INDEX_DATA {
         MOB_INDEX_DATA next;
         SPEC_FUN spec_fun;
         MPROG_DATA mprogs;
         int progtypes;
         SHOP_DATA pShop;
-        int vnum;
+        public int vnum;
         int group;
         boolean new_format;
         int count;
@@ -1999,7 +1999,7 @@ public final class Nightworks {
         CHAR_DATA guarded_by;
         MEM_DATA memory;
         SPEC_FUN spec_fun;
-        MOB_INDEX_DATA pIndexData;
+        public MOB_INDEX_DATA pIndexData;
         DESCRIPTOR_DATA desc;
         AFFECT_DATA affected;
         NOTE_DATA pnote;
