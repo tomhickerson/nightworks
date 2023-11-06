@@ -1,6 +1,6 @@
 #AREA   
 isles.are~
-Isles~
+Isles of Pirate Lords~
 {40 90} Lok     Isles of Pirate Lords~
 17000 17300
 
@@ -1600,6 +1600,10 @@ D0
 The jungle~
 ~
 0 -1 17175
+D1 
+On the Dragon Sea.~
+~
+0 -1 9804
 D3
 The jungle~
 ~

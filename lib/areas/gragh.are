@@ -441,17 +441,18 @@ Base of Stairs
 #13101
 Entrance to the lair~
 Before you is a large cast iron gate, and beyond lies a dimly lit hallway
-leading into the lair of Graghtok.  The wind seems to whistle out a warning
-to you to not proceed any further.  A wretched smell of decaying flesh fills
-your nostrils.  As you think of what lies inside this unholy place you hear
-a shriek of a hideous nature from behind.  Looking back you see only the
-trail from which you have travelled.  Then the shriek is heard again, this
+leading into the lair.  A chill wind seems to whistle through the corridor, 
+as if to warn you to not proceed any further.  
+A wretched smell of decaying flesh fills your nostrils.  As you think 
+of what lies inside this unholy place you hear a shriek of a hideous 
+nature from behind.  Looking back, you see only the cave entrance to 
+this chamber.  Then the shriek is heard again, this
 time from inside the lair, followed by a death cry.  There are words
-engraved on a metal plate on the gate.  
+{Wengraved{x on a metal plate on the gate.  
 ~
 0 AD 0
 E
-engraving~
+engraving plate gate~
 _________________________
 |                        |
 |   Beyond this gate     |
@@ -468,7 +469,7 @@ D0
 D2
 ~
 ~
-0 -1 5279
+0 -1 9999
 S
 #13102
 A Long Hallway~

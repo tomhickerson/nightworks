@@ -4028,10 +4028,6 @@ D3
 ~
 ~
 0 -1 9585
-D0
-~
-~
-0 -1 8100
 S
 #9585
 Ishtar River~
@@ -6663,7 +6659,7 @@ D3
 0 -1 9726
 S
 #9785
-The river delta~
+The River Delta~
 This is where the river empties out into the Dragon Sea. The backrush
 of water has kicked up a lot of sand and the blue sea is stained where
 the river empties. Looking east, all you can see is water....all the way
@@ -6693,6 +6689,10 @@ D0
 ~
 ~
 0 -1 9787
+D2
+~
+~
+0 -1 9801
 D3
 ~
 ~
@@ -6882,9 +6882,9 @@ S
 The Dragon Sea~
  You are on the clear blue seas of the Dragon Sea.
  Water extends in all directions as far as the eye
- can see. Off in the distance you think you might
+ can see. Off in the far distance, you think you might
  see a small dock to the west. To the east you see  
- a cold river flows quickly through the Dragon Sea. 
+ the shores of a green, grassy island. 
 ~
 0 0 7
 D0
@@ -6959,6 +6959,75 @@ D2
 ~
 0 -1 9523
 S
+#9801
+The Dragon Sea~
+You are on the clear blue seas of the Dragon Sea.
+ Water extends in all directions as far as the eye
+ can see. Off in the distance you think you might
+ see a small dock to the north.
+~
+0 0 7
+D0
+~
+~
+0 -1 9786
+D2
+~
+~
+0 -1 9802
+S 
+#9802
+The Dragon Sea~ 
+You are on the clear blue seas of the Dragon Sea.
+ Water extends in all directions as far as the eye
+ can see. You can see the distant shores of the 
+ coast to your east, and nothing but endless ocean 
+ to your west.
+~
+0 0 7
+D0
+~
+~
+0 -1 9801
+D2
+~
+~
+0 -1 9803
+S
+#9803
+The Dragon Sea~
+You are on the clear blue seas of the Dragon Sea.
+ Water extends in all directions.  You can see the 
+ distant shores of the coast to your east, and 
+ several islands are visible to the south.
+~
+0 0 7
+D0 
+~
+~
+0 -1 9802
+D2 
+~
+~
+0 -1 9804
+S
+#9804
+The Dragon Sea~
+You are on the clear blue seas of the Dragon Sea.
+ Water extends in all directions.  You are sailing
+ around several islands, and spy a place to come ashore
+ to your west.
+~
+0 0 7
+D0
+~
+~
+0 -1 9803
+D3 
+On a sandy beach.~
+~
+0 -1 17171
+S 
 #0
 #RESETS
 M 0 9594   1 9800  1    * The Samurai Weaponsmaster
