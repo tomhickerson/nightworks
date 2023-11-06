@@ -558,9 +558,11 @@ D2
 0 -1 9915
 S
 #9915
-South flowing river~
-The cold river, heavy with grasses stripped from the river bank,
-flows quickly in a western direction.
+Fast Flowing river~
+You find yourself on a cold river, heavy with grasses stripped 
+from the river bank.  The riven flows inland quickly in a 
+western direction, but you can make your way out of the river
+mouth and onto the sea, to the east.
 ~
 0 0 7
 D0
@@ -2076,9 +2078,13 @@ S
 Cave entrance~
 You are standing in the entrance of a cave within Bald Mountain.
 Several small offerings are scattered about the room.  To the
-rear of the room is a door.  A door which doesn't open.
+north of the chamber is an ominous gate.
 ~
 0 8 0
+D0
+~
+~
+0 -1 13101
 D3
 ~
 ~
