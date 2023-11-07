@@ -538,8 +538,10 @@ warp_stone T AO
 #ROOMS
 #5001
 A long tunnel~
-You encounter some rapids as you enter this tunnel cut out of
-the mountains by the river.
+You are in a long, cavernous tunnel, carved through the rock by the passage of
+water and time.  The walls and ceiling are all white, powdery limestone, soft and
+spongy to the touch.  The river here turns into rapids, its water moving quickly 
+and carrying you along.
 ~
 0 AD 7
 D1
@@ -553,7 +555,8 @@ D3
 S
 #5002
 A long tunnel~
-The tunnel branches off north.
+You find yourself at a junction, as the main tunnel goes east and west, but
+there is a smaller tunnel branching off to the north.
 ~
 0 AD 7
 D0
@@ -571,7 +574,9 @@ D3
 S
 #5003
 A long tunnel~
-The tunnel branches off south.
+You are in the long round tunnel carved into the rock, the rushing waters 
+filling in the cave with splashing and gurgling sounds.  The main tunnel 
+leads east and west but there is a branch off to the south here. 
 ~
 0 AD 7
 D1
@@ -589,7 +594,8 @@ D3
 S
 #5004
 A long tunnel~
-The tunnel branches off to the south.
+The tunnel extends far to the east and west, but you see a small branch 
+leading to the south, away from the main rush of the river.
 ~
 0 AD 7
 D1
@@ -609,8 +615,8 @@ S
 An underground lake~
 You are floating on a jet-black underground lake fed by dripping
 water and lime from above. The tunnel continues to the east and the river
-leads back west. To the north is a roughly-hewn hallway. There is also
-a tunnel south.
+leads back west. To the north is a roughly-hewn hallway, rising out of 
+the lake. There is also a dry tunnel heading south.
 ~
 0 AD 7
 D0
@@ -632,7 +638,7 @@ D3
 S
 #5006
 A long narrow tunnel~
-The tunnel rises sharply to the east.
+The tunnel rises sharply to the east, out of the river and onto dry floors.
 ~
 0 AD 5
 D1
@@ -721,7 +727,7 @@ D4
 S
 #5012
 Narrow bend~
-The tunnel turns to the south and west.
+The tunnel becomes narrower here, and turns to the south and west.
 ~
 0 AD 5
 D2
@@ -735,7 +741,8 @@ D3
 S
 #5013
 Large cave~
-You are standing in a large cave. Many furs are spread out on the floor.
+You are standing in a large cave, supported by pillars of ancient limestone. 
+Many furs are spread out on the floor.
 ~
 0 AD 5
 D0
@@ -763,7 +770,8 @@ D3
 S
 #5015
 Underground pool~
-You are wading in a knee deep pool of lime-water.
+You are wading in a knee deep pool of lime-water.  The splashing and 
+movement breaks the silence in this part of the cavern.
 ~
 0 AD 6
 D2
@@ -792,8 +800,8 @@ D2
 S
 #5017
 Narrow crawlway~
-This crawlway is just big enough for a human to crawl through or a
-halfling to walk through.
+The tunnel ceiling begins to get close here.  This crawlway is just big enough 
+for a human to crawl through or a halfling to walk through.
 ~
 0 AD 5
 D0
@@ -811,7 +819,8 @@ You smell the fragrant odor of fungus.~
 S
 #5018
 Large cavern~
-You have entered a very large cavern. The rock formations would amaze
+You have entered a very large cavern. Pillars of limestone rise on all sides of 
+you, supporting the ceiling far above.  The rock formations would amaze
 almost any dwarf.
 ~
 0 AD 5
@@ -826,8 +835,10 @@ D3
 S
 #5019
 Fungus patch~
-As you walk through the fungus patch, you are shot at by many millions of
-spores. You can hardly breathe.
+This part of the cave opens up, and a large patch of fungus, mushrooms, and algae 
+grow here in different places.  As you walk through the fungus patch, you are shot 
+at by many millions of spores. You can hardly breathe. 
+As you wheeze a bit, you think you can catch movement out of the corner of your eye.
 ~
 0 AD 5
 D0
@@ -841,8 +852,9 @@ The fragrant smell of fungus spores continues to the east~
 S
 #5020
 Fungus path~
-As you walk along the path, millions of spores are shot at you. You can
-hardly breathe.
+The fungus in this part of the cave grows on the floor, walls and ceiling here.  
+You can find a small path through this fungus forest.  As you walk along the 
+path, millions of spores are shot at you. You can hardly breathe.
 ~
 0 AD 5
 D2
@@ -857,7 +869,8 @@ S
 #5021
 Fungus temple~
 You find yourself standing inside of a giant mushroom. The inside
-is decorated in the fashion of a temple.
+is decorated in the fashion of a temple, with a fungus icon and different
+offerings laid out in front of it.
 ~
 0 AD 5
 D0
