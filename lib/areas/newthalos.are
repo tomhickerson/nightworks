@@ -6747,10 +6747,6 @@ D0
 ~
 ~
 0 -1 9797
-D1 
-~
-~
-0 -1 738
 D2
 ~
 ~
@@ -6816,8 +6812,8 @@ S
 On a road~
 This is the main land route through the land. Merchants can bring their goods
 to the coastline and have them ferried onto ships for export. Travel
-by foot west will take you through New Thalos up and over the Eastern
-Mountains and down into Midgaard.
+by foot west will take you through New Thalos through the eastern
+desert, and into Midgaard.
 ~
 0 0 1
 D1
@@ -6833,7 +6829,7 @@ S
 Near the shore~
 The road ends here turning into a small dirt path leading down the
 beach and onto a dock. To the north and south you see the coastline
-stretching out before you. West of here the lowlands roll up into
+stretching out before you. Northwest of here the lowlands roll up into
 huge snow capped mountains.
 ~
 0 0 1
@@ -6904,8 +6900,8 @@ S
 The Dragon Sea~
 The ocean spreads out in all directions rolling gently. In the distance
 you can see two islands on the horizon. To the west you see the mainland.
-To the east ocean ends turning into a small dirt path leading down
-the beach of the cursed island.
+To the east the ocean leads into a small cove where a beach can 
+be seen on one of the islands.
 ~
 0 0 7
 D1
@@ -6948,10 +6944,10 @@ grate~
 S
 #9800
 The weaponsmaster's room~
-	You are at the place, where maybe the best, to learn what the weapon is 
+	You are at the place, maybe the best place, to learn what the weapon is 
 and how they can be controlled. The walls are decorated with large and 
 valuable tapestries. One great sword and one axe are standing near the 
-opposite walls. Short swords and light shields are hangingon the wall. 
+opposite walls. Short swords and light shields are hanging on the wall. 
 ~
 0 0 1
 D2 
@@ -6981,8 +6977,8 @@ The Dragon Sea~
 You are on the clear blue seas of the Dragon Sea.
  Water extends in all directions as far as the eye
  can see. You can see the distant shores of the 
- coast to your east, and nothing but endless ocean 
- to your west.
+ coast to your west, and nothing but endless ocean 
+ to your east.
 ~
 0 0 7
 D0
@@ -6998,7 +6994,7 @@ S
 The Dragon Sea~
 You are on the clear blue seas of the Dragon Sea.
  Water extends in all directions.  You can see the 
- distant shores of the coast to your east, and 
+ distant shores of the coast to your west, and 
  several islands are visible to the south.
 ~
 0 0 7
@@ -7028,6 +7024,75 @@ On a sandy beach.~
 ~
 0 -1 17171
 S 
+#9805
+The Dragon Sea~
+You are on the clear blue seas of the Dragon Sea.
+ Water extends in all directions as far as the eye
+ can see. You can see the distant shores of the 
+ coast to your east, and nothing but endless ocean 
+ to your west.
+~
+0 0 7
+D0 
+~
+~
+0 -1 9806
+D2 
+~
+~
+0 -1 9797
+S 
+#9806
+The Dragon Sea~
+You are on the clear blue seas of the Dragon Sea.
+ Water extends in all directions as far as the eye
+ can see. You can see the distant shores of the 
+ coast to your east, and nothing but endless ocean 
+ to your west.
+~
+0 0 7
+D0 
+~
+~
+0 -1 9807
+D2
+~
+~
+0 -1 9805
+S
+#9807
+The Dragon Sea~
+You are on the clear blue seas of the Dragon Sea.
+ Water extends in all directions as far as the eye
+ can see. You can see the far distant shores of the 
+ coast to your east, and you think you can spy a 
+ distant coastline to the west as well.
+~
+D0
+~
+~
+0 -1 9808
+D2
+~
+~
+0 -1 9806
+S 
+#9808
+The Dragon Sea~
+You are on the clear blue seas of the Dragon Sea.
+ Water extends in all directions as far as the eye
+ can see. You can see a city in the distance to the 
+ east.
+~
+D1 
+~
+~
+0 -1 738
+D2 
+~
+~ 
+0 -1 9807
+S
 #0
 #RESETS
 M 0 9594   1 9800  1    * The Samurai Weaponsmaster
