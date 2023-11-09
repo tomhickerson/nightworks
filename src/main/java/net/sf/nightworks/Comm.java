@@ -726,8 +726,14 @@ public class Comm {
                                 && (can_see_room(ch, pexit.to_room)
                                 || (IS_AFFECTED(ch, AFF_INFRARED)
                                 && !IS_AFFECTED(ch, AFF_BLIND)))
-                                && !IS_SET(pexit.exit_info, EX_CLOSED)) {
-                            doors.append(dir_name_char[door]);
+                                && (!IS_SET(pexit.exit_info, EX_CLOSED)
+                                || IS_SET(ch.act, PLR_HOLYLIGHT))) {
+                            if (IS_SET(pexit.exit_info, EX_CLOSED)) {
+                                doors.append("{y" + dir_name_char[door] + "{c");
+                            } else {
+                                doors.append(dir_name_char[door]);
+                            }
+
                         }
                     }
                     i = doors.length() == 0 ? "none" : doors.toString();

@@ -36,6 +36,8 @@ public class MobDeath {
     public static ArrayList<String> returnGenericActions() {
         ArrayList<String> doing = new ArrayList<>();
         doing.add("%n clutches its chest as it dies!");
+        doing.add("%n shudders, and is still.");
+        doing.add("%n thrashes for a moment, and then stops.");
         return doing;
     }
 }
