@@ -2323,11 +2323,12 @@ S
 #651
 The end of Swiftest Way~
 You are on Swiftest Way, the commoner's residential area.  Small houses
-are north, south, and west of you.  Swiftest Way continues east.
+are south and west of you.  There is a dirt road leaving town to the 
+north.  Swiftest Way leads east.
 ~
 0 0 1
 D0
-You see a small house.
+You see a dirt road.
 ~
 ~
 0 0 663
@@ -2491,12 +2492,18 @@ You see Swiftest Way.
 0 0 650
 S
 #663
-Small House~
-You are in a small house, owned by a commoner of Ofcol.  There isn't much
-of value here to you, but you'd bet that the owner really cherishes the pile
-of stuff here.  The exit is to the south.
+Dirt Road~
+You are on a dirt road which turns off of the paved street and leads out 
+of Ofcol, into the plains to the north of the village.  In the distance 
+you can see the mountains, and a reddish-brown castle.  Swiftest Way is 
+to the south.
 ~
 0 D 0
+D0
+You can see the road out of town.
+~
+~
+0 -1 19400
 D2
 You see the end of Swiftest Way.
 ~

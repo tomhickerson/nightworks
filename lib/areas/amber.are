@@ -1076,9 +1076,23 @@ AHMV ABCDEFGHIJK giant unknown
 
 #ROOMS
 #19400
-~
+Road to Amber Palace~ 
+You are on the road to the Amber Palace, which you can see
+rising to the north, a reddish structure towering over the grassy
+plains on the fields to either side of you.  Surprisingly, the road
+here is rather simple packed earth, which has not been well
+maintained.
+The road leads north to the Palace and south towards Ofcol.
 ~
 0 4 0
+D0 
+~
+~
+0 -1 19401
+D2 
+~
+~
+0 -1 663
 S
 #19401
 Entrance to Amber Palace~
@@ -1086,7 +1100,7 @@ You are at the entrance of the Amber Palace.  Before you lies the
 majestic spires and towers of the palace.  The reddish brown material it is
 made of glows translucently in the bright sunlight.  The whole of the palace
 rises far above your head, impressing awe into your thoughts and very mind. 
-The main gate is north, the path away is south.  
+The main gate is north, the road away is south.  
 ~
 0 12 0
 D0
@@ -1096,7 +1110,7 @@ D0
 D2
 ~
 ~
-0 0 6144
+0 0 19400
 S
 #19402
 The Amber Gate~
