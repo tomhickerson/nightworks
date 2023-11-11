@@ -1118,7 +1118,7 @@ to open air space. The wind here is blowing more swiftly and the
 sun is even hotter. You notice the giant waywarrd pines that loom
 overhead. You wonder where such wonderous trees came from. The
 path up the mountain looks like a nice and easy one to take. You
-could retrun to the east or go up the mountain.
+could return to the east or go up the mountain.
 ~
 0 0 5 
 D1
@@ -1137,7 +1137,7 @@ The Trail up the Mountain.~
 The trail is an easy one to climb and you enjoy the lovely
 walk. As you come to the top of the trail you realize that you
 are now in Upper Ven. Upper Ven is the mountain before the city.
-The path look quite clear and easy to pass. The rocks are warm in
+The path looks quite clear and easy to pass. The rocks are warm in
 the suns' rays and is just gleaming with the heated mirage.  You
 may go north or down.
 ~
@@ -1160,8 +1160,8 @@ The path leads back into another forest and seems appealing to
 you to get out of the sun. The forest is filled with trees and
 shrubs all changed colors by the on comming season. The gold and
 bronze colors of the leaves are quite beautiful and look as if
-they are each worth morth then life itself. The mountaint air is
-freash and cooling and makes you feel like you want to sit down
+they are each worth morth then life itself. The mountain air is
+fresh and cooling and makes you feel like you want to sit down
 and rest. You may go down or south.
 ~
 0 0 5 
@@ -1180,10 +1180,10 @@ S
 The Trail in the Forest.~
 You have entered the forest near the town of Hartland. The
 path is outlined with bright yellow flowers and little purple
-plants. There is a little shack to the east that doesn't look to
+plants. There is a little shack to the east that doesn't look too
 welcoming. The forest isn't very thick and you can see all around
 you. There are wild ferns and other plants that you have never
-seen before. You see one plant you recconize, but it is from a
+seen before. You see one plant you recognize, but it is from a
 book. This forest seems to be quite a sanctuary. The trail goes
 north to the outskirts of Hartland or up back to the mountain. 
 ~
@@ -1203,7 +1203,7 @@ S
 The Out-Skirts of Hartland.~
 You are on the out skirts of a little town called Hartland.
 The road you walk on is dry and dust covered. Its seems like it
-hasn't rained for quite sometime. Up ahead you can see the town
+hasn't rained for quite some time. Up ahead you can see the town
 begining to form. The town has many people in the streets
 gathering for some kind of bizzard but there is nothing for sale
 here. All the villagers are gathering around a speaker who is
@@ -1253,8 +1253,8 @@ your way to South Haven. Near South Haven is where the Narrows
 are. In order to get to South Haven you must cross the swamps on
 the way. The air here is suprizingly still and peaceful. There
 are few trees around and even fewer animals. The trail leads
-south to a swamp that steals your breath away with stench, and
-north back to the town you came from.
+north to a swamp that steals your breath away with stench, and
+south back to the town you came from.
 ~
 0 0 2 
 D0
@@ -1321,8 +1321,8 @@ your only choice..or fight. The swamp looks univiting and you
 don't know what sort of creatures live under the murky waters.
 There is a small island in the center of the swamp that seems
 deserted. The waters in the swamp are shallow enough to pass by
-foot. You better make diside fast, fight or get to the island.
-The exits are back east or west.
+foot. You better make decide fast, fight or get to the island.
+The exits are east or west.
 ~
 0 0 3
 D1
@@ -1343,7 +1343,7 @@ you.  The water is refreashing and cool.  The island is just up ahead and
 you can't wait to get there.  You notice the water starts to move and then
 you see them.  Snakes.  Little yellow deadly snakes.  All over the place. 
 You start to run as fast as you can towards the island.  You could go east
-to the island or back west.  
+to the island or west.  
 ~
 0 0 6 
 D1
@@ -1384,7 +1384,7 @@ As you set out again through the swamp, you notice that the sun is coming
 out and the mist is clearing.  The snakes haven't bothered you yet and the
 hounds have returned back to their home, in the boundary.  The swamp gets
 shallower as you approach the land again and the sky goes clear.  The exits
-are east the shore or back west to the island.  
+are east to the shore or west to the island.  
 ~
 0 0 6 
 D1
@@ -1403,8 +1403,8 @@ On The Shore Again.~
 Now that you have reached the shore you breath a sigh of
 reliefe that the hounds have gone away. You look down to the
 south towards SouthHaven and you can hear the faint sounds of the
-city life. You continue your hike to SouthHaven. You may go back
-to the swamps (north) or continue south.
+city life. You continue your hike to SouthHaven. You may go
+to the swamps (west) or continue east.
 ~
 0 0 3  
 D1
@@ -1424,7 +1424,7 @@ The woods seem to have come alive since you last saw them.
 The trees here are big and full of colorful leaves, the road is
 dry again and there are plants growing in the woods. The trip to
 South Haven isn't as bad as you thought. You can see the village
-up ahead. The exits are north to the shore or south to the
+up ahead. The exits are west to the shore or east to the
 village.
 ~
 0 0 3  
@@ -1445,7 +1445,7 @@ As you approach this village the giant gates open up to
 welcome you. The city is alive with action in the streets. There
 are children everywhere and people at the stores. The village
 road continues on south and offers you a place to rest for a cup
-of ale. You may go north to the forest or south into the village.
+of ale. You may go west to the forest or east into the village.
 ~
 0 0 1 
 D1
@@ -1462,11 +1462,11 @@ S
 #10022
 The Road Along the Village.~
 As you walk down the street you notice a nice bar to the
-east. It looks quite welcoming and you sure are thirsty. There is
-faint singing comming from the bar..drunken men you suppose. You
+north. It looks quite welcoming and you sure are thirsty. There is
+faint singing coming from the bar..drunken men you suppose. You
 hear some people talking about their weekends and what they want
 to do. There is a fresh cool breeze floating through the city.
-The exits are north to the gates, east to the bar, or south to
+The exits are west to the gates, north to the bar, or east to
 the path to the Narrows.
 ~
 0 0 1 
@@ -1491,9 +1491,7 @@ The Bar.~
 You enter a small smoke filled room just filled with people
 all drinking and enjoying themselves. There is a bartender
 selling drinks and a lady on stage singing her favorite little
-number. The drunken men are big and strong but, are covered with
-ale stains on their shirts. The exit is back out to the west onto
-the road again.
+number.  The exit is back out to the south onto the road again.
 ~
 0 0 0 
 D2
@@ -1512,8 +1510,8 @@ The humidity begins to rise and it starts to feel hotter. Your
 legs start to get tired when you see the Bone Woman's shack up
 ahead. It would be good to visit her. Her shack is about oh..
 twenty or so yards ahead and will take no time to reach it. You
-spot the Narrows up ahead. The exits are north to the village or
-south to the Bone Woman.
+spot the Narrows up ahead. The exits are west to the village or
+east to the Bone Woman.
 ~
 0 0 3 
 D1
@@ -1534,8 +1532,8 @@ the sky is starting to become over cast again. The woods look
 ready for rain and the trees have their leaves turned upwards.
 There is a shack to the west of you which must belong to the Bone
 Woman. The shack looks nice and cosy. It would be nice to stay and have
-a visit with the old Bone Woman. The exits are north to the
-forest, west to the bone Woman, and south to the Narrows.
+a visit with the old Bone Woman. The exits are west to the
+forest, north to the Bone Woman, and east to the Narrows.
 ~
 0 0 3  
 D0
@@ -1562,7 +1560,7 @@ light. A oil lamp is hanging from a beam in the roof and gives
 the room an eerie glow. There are bones in little piles on the
 floors and an old lady stands in the center of the room. She has
 a big smile on her face and offerse you to stay in her home for
-as long as you wish. The exit is back to the east, out on the
+as long as you wish. The exit is back to the south, out on the
 trail.
 ~
 0 0 0 
@@ -1577,7 +1575,7 @@ The Narrows.~
 You have reached the Narrows. This is a very dangerous place
 to be in. There are many underworld beasts that live in the
 narrows. You should stay on guard and not fall asleep. The exits
-are west to continue into the narrows, or north to return to the
+are east to continue into the narrows, or west to return to the
 bone woman for a cup of tea.
 ~
 0 0 10  
@@ -1594,11 +1592,11 @@ Back to the bone woman's hut.
 S
 #10028
 The Path Through The Narrows.~
-The trail you are following is an easy on to follow. There
+The trail you are following is an easy one to follow. There
 is no sound which frightens you a little but then the fear
-passes. As you continue west you can see the center of the
+passes. As you continue east you can see the center of the
 narrows approaching. Apparently they are the most dangerous part
-of the whole narrows. The exits are west to the center or east to
+of the whole narrows. The exits are east to the center or west to
 the entrance of the narrows.
 ~
 0 0 10 
@@ -1681,7 +1679,7 @@ The plains are quite massive and reach as far as your eyes can see.
 In the distance, you see the home of Darken Rahl, the Peoples Palace.
 You have to cross the Azrith Plains in order to get to Darken
 Rahl in his massive palace.
-The exits are north and east.
+The exits are north and west.
 ~
 0 0 2  
 D0
