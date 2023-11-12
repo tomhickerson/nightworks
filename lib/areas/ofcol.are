@@ -115,7 +115,7 @@ S
 #5553
 The small alley~
 You are in a small, quiet alley.  From here you see the village street
-to the west and a small room lies to the south.
+to the west and a side exit to a large tower to the south.
 ~
 0 0 1
 D1
@@ -124,7 +124,7 @@ You see a big intersection.
 ~
 0 0 601
 D2
-It looks like the future site of a training room.
+The entrace to the Guildsmen's Tower.
 ~
 ~
 0 -1 5554
@@ -135,9 +135,15 @@ You notice the village street.
 0 -1 5551
 S
 #5554
-The future training room~
-This is the future site of a training room.  The only exit is north
-leading to the small alley.
+The Guildsmen's Tower~
+An unobtrusive exit to a side alley opens up to a large, circular 
+wooden tower, with a stairway leading around the side of it.
+The smell of sawdust and new mortar for bricks hits you as you 
+realize this place is a recent addition to Ofcol.
+All around the sides of the tower you see offices of the 
+different Guildsmen, some on this floor and some on an upper floor.
+The main center of this tower is a training area of sorts, with 
+equipment in racks for you to work on yourself.
 ~
 0 D 1
 D0
@@ -145,6 +151,31 @@ You are able to see the small alley.
 ~
 ~
 0 -1 5553
+D1 
+You see the office of the Warrior's Guild.
+~
+~
+0 -1 -1
+D2
+You see the alcove dedicated to the Samurai Guild.
+~
+~
+0 -1 -1
+D3 
+You see the office of the Ranger's Guild.
+~
+~
+0 -1 -1
+D4
+You see a stairway to the next level of the Tower.
+~
+~
+0 -1 -1
+D5
+You see a stairway leading down into the lower chambers.
+~
+~
+0 -1 -1
 S
 #5555
 Luxan's mixed shop~
@@ -174,6 +205,28 @@ The village square is as usual not overcrowded.
 ~
 0 -1 5552
 S
+#5557
+The Lower Chambers of the Guildsmen Tower~
+You are in a well-built, stone basement of the Guildsmen's Tower.
+Here the walls are of rough brick and there seems to be a large
+round table in the middle of the room, ideal for learning about
+some of the mystical arts and sciences.
+Around the walls of the room you see archways to different 
+Guildsmen offices.  There is also a stairway the continues
+downward from here.
+~
+0 D 1
+D4 
+You see a stairway leading up to the main floor of the tower.
+~
+~
+0 -1 5554
+D5
+You see a stairway leading deeper into the lower parts of the tower.
+~
+~
+0 -1 -1
+S 
 #5577
 Ravan's hideout~
 This place is a small, cosy place where no one disturbs you all
