@@ -2254,7 +2254,7 @@ Forest of  |     Mage  Armoury   |     Jeweler    Warrior       |
 Haon-Dor   |     Guild           .                 Guild        |
            |                   High --Butcher                   |
          Wall--Temple   Grocer- Road                         Wall Road
-         Road Of Stupid          .       --Warlock G.           |
+         Road 		             .       --Warlock G.           |
            |                     |      |                       |
            |    Leather  Map     |    Grebe's  Pet   Apothecary |
            |     Shop    Shop    |    Tavern   Shop  (Potions)  |
@@ -2292,13 +2292,13 @@ map anatolia~
      Mountain          \     Olympus /        New    |    Dwarven--Mines
 Mage            Elven Valley    |  /  Ofcol--Ofcol   +----Kingdom
 Tower                       \   |/      |            |       |    \Catacombs
-  |    Dragon Tower          Plains-----+        |   Day-Care
-  |   /                         |       |            | Mirkwood    Void---Old
-Shadow -Galaxy   Titan      Northern  Stones of      |  \Nirvana    |   Thalos
+  |    Dragon Tower          Plains-----+        	 |   Day-Care
+  |   /                         |       |            |            Void---Old
+Shadow -Galaxy   Titan      Northern  Stones of      |   Nirvana    |   Thalos
  Grove            |         Midgaard   G'harne       |         `--\Holy
-  |  Ciquala      |                     |     Realms |    Smurf   Grove
-   \  \  Arachnos | Shire  Asgard | In the Air   of \|    Village    |
-     \  \ |       |   |         \ | /         Mirror |       |       |    Check
+  |  Ciquala      |                     |     		 |    Old     Grove
+   \  \  Arachnos | Shire  		  | In the Air   	 |    Village    |
+     \  \ |       |   |         \ | /          		 |       |       |    Check
       Forest Of--/---+-------Midgaard---------------Cross---Eastern Road---Point
       Haon Dor  Gerg.  Chess-/| \-|-\-Goblin.SHold  Roads            |
      /  |  |     Mob-Factory/ | | |  Machine            \        Gnome Village
@@ -3199,9 +3199,9 @@ Val.  |  /  Ofcol-Ofcol  +----Kingdom       			  |      Solace
   \   |/      |          |     |   \Catacombs   Nirvana   |      City  Newbie Z.
     Plains----+-Camelot  |  Day-Care             |        |    /
       |       |          |                       `/-----Void--- Old Midgaard
-   Northern  Isles of    +- Mirror of Realm 	Holy             |
-   Midgaard  P. Lords    |                      Grove     Old ---+\    
-      |          |          		Smurf        |        Thalos   Antharia
+   Northern  			 |   				 	Holy             |
+   Midgaard  		     |                      Grove     Old ---+\    
+      |          |       |   		Old          |        Thalos   Antharia
       | In the Air       |         Village       |
     \ | /                |            |          |        Check    NEW
 --Midgaard--------------Cross------------Eastern Road-----Point---Thalos
@@ -3250,7 +3250,7 @@ map newbie~
         from MSM  :>>>> 6s e 3s e.................................
     --->Valley of Elves          { 5 - 20}
         from MSM  :>>>> 4e 3n 2w 5n w n...........................
-    --->Smurf Village
+    --->Abandoned Village
         from MSM  :>>>> 7e n......................................
     --->Sands of Sorrow          { 10 - 20}
         from MSM  :>>>> 3s 2e 2s 3e
@@ -3280,9 +3280,7 @@ map newbie~
         from MSM   :>>>> 4e 3n 2w 5n w n w 2u e 4n en en es es w3n...
     --->The Shire            { 5 - 35}
         from MSM   :>>>> 5w n...
-    --->Greater Gerighelm        { 1 - 30}
-        from MSM   :>>>> 7w u...
-        --->Goblin Nation        { 10 - 20}
+    --->Goblin Nation        { 10 - 20}
                 from MSM   :>>>> 35e s e
 
     MSM : Market Square of Midgaard.
@@ -3300,9 +3298,6 @@ map green~
 .                     
 Old Troy - Ilium        { 30 - 45}
 from MSM :>>>> 4e 3n 2w 6n 2u 8n d...
-
-Ghost Town          { 45 - 65}
-from MSM :>>>> 21e 5s d e n...
 
 Ilium               { 30 - 45}
 from MSM :>>>> 4e 3n 2w 6n 2u 8n d...
@@ -3345,9 +3340,6 @@ map 0 A
 E
 map yellow~
 .                     
-Isles of the Pirate Lords   { 40 - 90}
-from MSM :>>>> 4e 3n 2w 3n e 2n 4e 4s w...
-
 Prison of Midgaard      { 5 - 90}
 from MSM :>>>> 6s 3w...
 
@@ -3362,12 +3354,6 @@ from MSM :>>>> 13w s 2w n w u w 4n e u s 2e s w s d n e u n d s 5w n...
 
 Ciquala's Lair          { 40 - 62}
 from MSM :>>>> 13w 2n 2e n...
-
-King's Castle           { 30 - 50}
-from MSM :>>>> 4e 3n 2w 5n e n...
-
-Mirror Realm            { 20 - 50}
-from MSM :>>>> 6e 2n e...
 
 Lair of Jher            { 35 - 55}
 from MSM :>>>> 13w 2n 2e d 5n u 2w n 2w d 2s d...
@@ -3400,9 +3386,6 @@ from MSM :>>>>  3s 2e 2s 20e n e n 2e...
 Redferne's Residence        { 20 - 30}
 from MSM :>>>>  6s e 3s w s u...
 
-Blight              { 35 - 50}
-from MSM :>>>> 6e 10n 2e 8n..............
-
 Westland            { 40 - 90}
 from MSM :>>>> 13w 2n e 3n................
 
@@ -3411,9 +3394,6 @@ from MSM :>>>> 6e 4s 2e s 2e d 3n e 4s 2w
 
 Caverns             { 25 - 45}
 from MSM :>>>> 6e 4s 2e s 2e d 3n e 4s 4w s w 2s d 2s d
-
-Armageddon          { 70 - 95}
-from MSM :>>>> 34e n 4e 2s 3e n e n 5e s 2e....
 
 MSM : Market Square of the Midgaard.
 ~
@@ -3474,12 +3454,6 @@ from MSM :>>>> 34e n 2e.....
 Aarakocran City         { 15 - 30}
 from MSM :>>>> 6e 4s 2e s 2e d s 4u n d 4n e 3n e u...
 
-Antharia            { 9 - 42}
-from MSM :>>>> 8e 2n e n 2e 3n s 3w 4s d...
-
-Astral/Githyanki        { 10 - 35}
-from MSM :>>>> n 2u n 2u...
-
 Chessboard of Midgaard      { 10 - 35}
 from MSM :>>>> 3w 2s w...
 
@@ -3517,14 +3491,8 @@ from MSM :>>>> 6s e 3s w s 4u s...
 Galaxy              { 20 - 30}
 from MSM :>>>> 3s 2e 2s 6w n w n 3w n w 3n w e...
 
-Greater Gerighelm       { 1 - 30}
-from MSM :>>>> 7w u...
-
 Drow City           { 15 - 25}
 from MSM :>>>> 6e 4s 2e s 2e d w s 2d...
-
-Goblin Stronghold       { 10 - 20}
-from MSM :>>>> 3s 2w u...
 
 High Tower of Sorcery       { 10 - 30}
 from MSM :>>>>  3s 2e 2s 6w n w n 3w n w n...
@@ -3615,15 +3583,6 @@ Affects strength by 1.
 ~
 E
 page2~
------------------>General area : Armageddon
-Object 'sword war', extra flags evil anti-good noremove.
-Weight is 2, value is 14000, level is 85.
-LIMITED by number ? 
-Weapon type is sword.
-Damage is 11d12 (average 71).
-Affects hit roll by 10.
-Affects damage roll by 10.
-Weapons flags : sharp, vorpal, poison, two-handed
 
 ----------------->General area : Mirror Realm 
 Object 'sword obsidian eclipse',extra flags invis anti-good nodrop noremove magic.
@@ -3636,15 +3595,6 @@ Affects mana by ???
 Affects hp   by ???
 Weapons flags : sharp, shocking
 
------------------->General area : either Armageddon or Blight (undetermined)
-Object 'sword heron market blade ',extra flags bless noremove magic.
-Weight is 1, value is 600, level is 60.
-LIMITED by number ? 
-Weapon type is sword.
-Damage is 10d11 (average 60).
-Affects hit roll by 10.
-Affects hp       by 50.
-Weapons flags     : sharp, vorpal
 ~
 E
 page3~
@@ -3657,17 +3607,6 @@ Damage is 12d11 (average 72).
 Weapons flags        : vampiric sharp
 Affects damage roll by 25.
 Affects hit roll    by 25.
-
------------------->General area : Blight
-Object 'cuendillar heartstone dagger', extra flags magic noremove.
-Weight is 0, value is 600, level is 60.
-LIMITED by number ???? 
-Weapon type is dagger.
-Damage is 10d11 (average 60).
-Weapons flags        : sharp
-Affects damage roll by 10.
-Affects hit roll    by 10.
-Affects wisdom      by 3
 
 -------------------->General area : Mirror Realm
 Object 'blood red dagger', extra flags magic evil anti-good.
@@ -3704,13 +3643,6 @@ Affects damage roll by 5.
 ~
 E
 page5~
--------------------->General area : Greater Gerighelm
-Object 'scythe', extra flags magic.
-Weight is 20, value is 50000, level is 60.
-LIMITED by number 2 
-Weapon type is exotic.
-Damage is 10d8 (average 45).
-Weapons flags: sharp vorpal ????
 
 -------------------->General area : The Great Pyramid
 Object 'lion paw', extra flags magic.
