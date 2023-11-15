@@ -2010,7 +2010,7 @@ public final class Nightworks {
         AREA_DATA zone;
         public PC_DATA pcdata;
         boolean valid;
-        String name;
+        public String name;
         int id;
         String short_descr;
         String long_descr;

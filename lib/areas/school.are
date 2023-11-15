@@ -2219,6 +2219,8 @@ O 3719 fight_prog fight_prog_sub_weapon		* axe
 O 3720 fight_prog fight_prog_sub_weapon		* flail
 O 3721 fight_prog fight_prog_sub_weapon		* whip
 O 3722 fight_prog fight_prog_sub_weapon		* polearm
+M 3703 death_prog load_death_prog_saying    * wimpy monster
+M 3704 death_prog load_death_prog_action    * aggro monster 
 
 S
 #PRACTICERS

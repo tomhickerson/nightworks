@@ -1,5 +1,6 @@
 package net.sf.nightworks;
 
+import net.sf.nightworks.behave.MobProg2;
 import net.sf.nightworks.enums.PlayerAchievement;
 import net.sf.nightworks.enums.PlayerMessage;
 import net.sf.nightworks.quests.*;
@@ -98,7 +99,17 @@ class MobProg {
     }
 
     private static Method resolveMethod(String name, Class... params) throws NoSuchMethodException {
-        return MobProg.class.getDeclaredMethod(name, params);
+        Method m;
+        try {
+            m = MobProg.class.getDeclaredMethod(name, params);
+        } catch (NoSuchMethodException nsme) {
+            m = MobProg2.class.getDeclaredMethod(name, params);
+        }
+        if (m != null) {
+            return m;
+        } else {
+            throw new NoSuchMethodException("did not find method " + name);
+        }
     }
 
     private static MPROG_FUN_BRIBE create_bribe_prog(String name) throws NoSuchMethodException {
