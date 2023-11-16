@@ -4304,6 +4304,54 @@ E
 basket~
 This is where you put items to help fellow Clerics in Ofcol, or take an item to help yourself.
 ~
+#26534
+basket~
+the donation basket~
+A small basket for donations is sitting here.~
+~
+container o 0
+10000 0 0 1000 100
+0 0 0 P
+E
+basket~
+This is where you put items to help fellow Thieves in Ofcol, or take an item to help yourself.
+~
+#26535
+basket~
+the donation basket~
+A small basket for donations is sitting here.~
+~
+container o 0
+10000 0 0 1000 100
+0 0 0 P
+E
+basket~
+This is where you put items to help fellow Warriors in Ofcol, or take an item to help yourself.
+~
+#26536
+basket~
+the donation basket~
+A small basket for donations is sitting here.~
+~
+container o 0
+10000 0 0 1000 100
+0 0 0 P
+E
+basket~
+This is where you put items to help fellow Rangers in Ofcol, or take an item to help yourself.
+~
+#26533
+basket~
+the donation basket~
+A small basket for donations is sitting here.~
+~
+container o 0
+10000 0 0 1000 100
+0 0 0 P
+E
+basket~
+This is where you put items to help fellow Samurai in Ofcol, or take an item to help yourself.
+~
 #0
 
 
