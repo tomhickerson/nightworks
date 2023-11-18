@@ -155,7 +155,7 @@ D1
 You see the office of the Warrior's Guild.
 ~
 ~
-0 -1 -1
+0 -1 5558
 D2
 You see the alcove dedicated to the Samurai Guild.
 ~
@@ -241,6 +241,18 @@ You see a stairway leading deeper into the lower parts of the tower.
 ~
 ~
 0 -1 -1
+S 
+#5558
+The Warrior Guild Office~
+You are in a small, simple room, made of rough wood and brick, where
+you can practice some of your skills.
+~
+0 D 1
+D3 
+You see the main room of the Guilds.
+~
+~
+0 -1 5554
 S 
 #5577
 Ravan's hideout~
