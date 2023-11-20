@@ -160,12 +160,12 @@ D2
 You see the alcove dedicated to the Samurai Guild.
 ~
 ~
-0 -1 -1
+0 -1 5559
 D3 
 You see the office of the Ranger's Guild.
 ~
 ~
-0 -1 -1
+0 -1 5560
 D4
 You see a stairway to the next level of the Tower.
 ~
@@ -217,20 +217,20 @@ downward from here.
 ~
 0 D 1
 D1 
-You see the office of the Wizard Guild.
+You see the office of the Warlock Guild.
 ~
 ~
-0 -1 -1
+0 -1 5561
 D2
 You see the alcove dedicated to the Witch Guild.
 ~
 ~
-0 -1 -1
+0 -1 5562
 D3 
 You see the office of the Thieve's Guild.
 ~
 ~
-0 -1 -1
+0 -1 5563
 D4 
 You see a stairway leading up to the main floor of the tower.
 ~
@@ -254,6 +254,66 @@ You see the main room of the Guilds.
 ~
 0 -1 5554
 S 
+#5559
+The Samurai Guild Office~
+You are in a small, simple room, made of rough wood and brick, where
+you can meditate and practice some of your skills.
+~
+0 D 1
+D0 
+You see the main room of the Guilds.
+~
+~
+0 -1 5554
+S
+#5560
+The Ranger Guild Office~
+You are in a small, simple room, made of rough wood and brick, where
+you can focus on nature and practice some of your skills.
+~
+0 D 1
+D1 
+You see the main room of the Guilds.
+~
+~
+0 -1 5554
+S
+#5561
+The Warlock Guild Office~
+You are in a small, simple room, made of rough stone and brick, where
+you can concentrate on magickal arts and practice some of your skills.
+~
+0 D 1
+D3 
+You see the main chambers of the Guilds.
+~
+~
+0 -1 5557
+S
+#5562
+The Witch Guild Office~
+You are in a small, simple room, made of rough stone and brick, where
+you can focus on your inner powers and practice some of your skills.
+~
+0 D 1
+D0 
+You see the main room of the Guilds.
+~
+~
+0 -1 5557
+S
+#5563
+The Thief Guild Office~
+You are in a small, simple room, made of rough stone and brick, where
+you can focus on your stealthiness and practice some of your skills.
+~
+0 D 1
+D1 
+You see the main room of the Guilds.
+~
+~
+0 -1 5557
+S
 #5577
 Ravan's hideout~
 This place is a small, cosy place where no one disturbs you all
