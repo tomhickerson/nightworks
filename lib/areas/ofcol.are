@@ -356,6 +356,7 @@ G 1 3001 100     	*   a bottle of beer
 M 0  350   1 5577  1	* the pet dragon
 D 0 5500   3 1 * orphanage door west 
 D 0 5501   1 1 * orphanage door east 
+O 0 26534  1 5563 * donation basket for thieves
 S
 
 #SHOPS
