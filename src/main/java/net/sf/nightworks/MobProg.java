@@ -27,12 +27,7 @@ import static net.sf.nightworks.Comm.act;
 import static net.sf.nightworks.Comm.send_to_char;
 import static net.sf.nightworks.Const.hometown_table;
 import static net.sf.nightworks.Const.religion_table;
-import static net.sf.nightworks.DB.bug;
-import static net.sf.nightworks.DB.create_object;
-import static net.sf.nightworks.DB.get_obj_index;
-import static net.sf.nightworks.DB.number_bits;
-import static net.sf.nightworks.DB.number_percent;
-import static net.sf.nightworks.DB.number_range;
+import static net.sf.nightworks.DB.*;
 import static net.sf.nightworks.Fight.do_murder;
 import static net.sf.nightworks.Fight.do_slay;
 import static net.sf.nightworks.Handler.can_see;
@@ -435,8 +430,8 @@ class MobProg {
         SimpleQuest acceptedQuest = null;
         if (quests != null && !IS_SET(ch.act, PLR_QUESTOR)) {
             for (SimpleQuest q2 : quests) {
-                System.out.println("looking for " + q2.getAcceptPhrase() + " and found " + speech);
-                System.out.println("Looking for " + q2.getAchievement() + " and we have " + ch.pcdata.questid);
+                log_string("looking for " + q2.getAcceptPhrase() + " and found " + speech);
+                log_string("Looking for " + q2.getAchievement() + " and we have " + ch.pcdata.questid);
                 if (q2.getQualifier(ch) &&
                         !str_cmp(speech, q2.getAcceptPhrase()) &&
                         q2.getAchievement() == ch.pcdata.questid) {
