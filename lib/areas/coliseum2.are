@@ -1244,7 +1244,7 @@ upholstry are lined up against the back wall.  A small plain wooden table
 sits off to the side, covered with bottles of lotion, perfume, spices, and
 oils; the tools of a masseur's trade.  
 ~
-0 D inside
+0 D 0 
 D0
 ~
 ~
@@ -1260,7 +1260,7 @@ scenes of battle and mortal combat hang on the walls to your left and right.
 
 The hallway opens into the atrium to the north, south lies the arena.
 ~
-0 D inside
+0 D 0 
 D0
 ~
 ~
@@ -1522,7 +1522,7 @@ filled with water.  Red and purple tiles form an intricate mosaic inside the
 first, and you notice waves of heat rising from the water.  The second looks
 rather cold, and the tiles are a lovely green and blue.  
 ~
-0 D inside
+0 D 0 
 D2
 ~
 ~
@@ -1643,7 +1643,7 @@ and lowered from a vantage point up above.  Apparently the ones working the
 lift don't want to be standing in it when it is hoisted up with its cargo,
 whatever that may be...  
 ~
-0 CD inside
+0 CD 0 
 D0
 You can see the arena through the thick iron bars to the north.
 ~
@@ -2039,7 +2039,7 @@ You are in the bottom of the lift shaft.  A vertical row of iron rungs
 lead up out of the dungeon beneath the arena.  Several torches placed in
 rusted iron sconces along the rock walls give off a dim light.  
 ~
-0 D inside
+0 D 0 
 D0
 The damp, dark hallways of the dungeon are to the north.
 ~
@@ -2061,7 +2061,7 @@ The little light there is down here comes from the smokey flames of the
 wooden torches hanging from the walls.  There is a room off to the east, and
 you think you can hear the sounds of snoring coming from it.  
 ~
-0 D inside
+0 D 0 
 D0
 A dark, stone hallway leads north.
 ~
@@ -2088,7 +2088,7 @@ truly foul, smelling of blood, urine, and animal waste.  The poor light
 given from the wooden torches hanging on the stone walls dimly illuminates
 the passageway.  
 ~
-0 D inside
+0 D 0 
 D2
 A dark, stone hallway leads south.
 ~
@@ -2109,7 +2109,7 @@ truly foul, smelling of blood, urine, and animal waste.  Water drips from
 the cold stone ceiling above you head, gathering in small pools on the
 floor.  You see the bars of a cell north and south of you.  
 ~
-0 D inside
+0 D 0 
 D0
 You see the rusting iron bars of a dark cell.
  
@@ -2144,7 +2144,7 @@ arena.  The dim light reveals a damp, moss covered passageway.  Ahead of you
 a brown sewer rat scampers across the floor and scrambles through a hole in
 the wall.  Good Lord, that thing must have been the size of a small dog!. 
 ~
-0 D inside
+0 D 0 
 D0
 A dark, stone hallway leads north.
 ~
@@ -2164,7 +2164,7 @@ You are walking the hallways of the dungeons beneath the arena.  Shadows
 dance menacingly on the walls, enlarged by your imagination.  You see the
 bars of a cell to your left and right.  
 ~
-0 D inside
+0 D 0 
 D0
 A dark, stone hallway leads north.
 ~
@@ -2199,7 +2199,7 @@ fills the air, and flies buzz irritatingly around you head, trying to land
 on your nose.  The passageway curves off to the east, the floor dimly lit by
 the smokey torches hanging on the walls.  
 ~
-0 D inside
+0 D 0 
 D1
 A dark, stone hallway leads east.
 ~
@@ -2221,7 +2221,7 @@ flagstones.  As you clamber to your feet, muttering to yourself, you hear a
 groan from behind the cell bars to the north.  That didn't sound like any
 animal you've ever encountered, that sounded human...  
 ~
-0 D inside
+0 D 0 
 D0
 You see the rusting iron bars of a dark cell.
  
@@ -2256,7 +2256,7 @@ south are badly scorched and bent.  You hear the deep rumble of heavy
 breathing coming from behind them.  There is another cell to the north, the
 hallway west leads back out of the dungeon.  
 ~
-0 D inside
+0 D 0 
 D0
 You see the rusting iron bars of a dark cell.
  
@@ -2309,7 +2309,7 @@ clothing, armor, weapons, and weapon harnesses have been tossed carelessly
 on the floor around the room.  The bath house is to the north, the massage
 parlor to the south.  
 ~
-0 D inside
+0 D 0 
 D0
 ~
 ~
@@ -2334,7 +2334,7 @@ the walls bathe the room in a cheerful glow.  The heady aroma of burning
 incense wafts to your nostrils through the beaded curtain to the south.  You
 hear the sounds of giggling coming from behind the closed north door. 
 ~
-0 D inside
+0 D 0 
 D0
 ~
 ~
@@ -2357,7 +2357,7 @@ floor to soak up the waste matter from the inhabitant.  The awful smell
 causes you to instinctively cover your mouth and nose with your forearm. 
  The only exit lies to the south.
 ~
-0 AD inside
+0 AD 0 
 D2
 You see the rusting, iron bars of the cell, and celldoor.
 ~
@@ -2372,7 +2372,7 @@ floor to soak up the waste matter from the inhabitant.  The awful smell
 causes you to instinctively cover your mouth and nose with your forearm. 
  The only exit lies to the south.
 ~
-0 AD inside
+0 AD 0 
 D2
 You see the rusting, iron bars of the cell, and celldoor.
 ~
@@ -2387,7 +2387,7 @@ floor to soak up the waste matter from the inhabitant.  The awful smell
 causes you to instinctively cover your mouth and nose with your forearm. 
  The only exit lies to the north.
 ~
-0 AD inside
+0 AD 0 
 D0
 You see the rusting, iron bars of the cell, and celldoor.
 ~
@@ -2402,7 +2402,7 @@ floor to soak up the waste matter from the inhabitant.  The awful smell
 causes you to instinctively cover your mouth and nose with your forearm. 
  The only exit lies to the north.
 ~
-0 AD inside
+0 AD 0 
 D0
 You see the rusting, iron bars of the cell, and celldoor.
 ~
@@ -2417,7 +2417,7 @@ floor to soak up the waste matter from the inhabitant.  The awful smell
 causes you to instinctively cover your mouth and nose with your forearm. 
  The only exit lies to the east.
 ~
-0 AD inside
+0 AD 0 
 D1
 You see the rusting, iron bars of the cell, and celldoor.
 ~
@@ -2432,7 +2432,7 @@ floor to soak up the waste matter from the inhabitant.  The awful smell
 causes you to instinctively cover your mouth and nose with your forearm. 
  The only exit lies to the west.
 ~
-0 AD inside
+0 AD 0 
 D3
 You see the rusting, iron bars of the cell, and celldoor.
 ~
@@ -2447,7 +2447,7 @@ floor to soak up the waste matter from the inhabitant.  The awful smell
 causes you to instinctively cover your mouth and nose with your forearm. 
  The only exit lies to the south.
 ~
-0 AD inside
+0 AD 0 
 D2
 You see the rusting, iron bars of the cell, and celldoor.
 ~
@@ -2462,7 +2462,7 @@ floor to soak up the waste matter from the inhabitant.  The awful smell
 causes you to instinctively cover your mouth and nose with your forearm. 
  The only exit lies to the north.
 ~
-0 AD inside
+0 AD 0 
 D0
 You see the rusting, iron bars of the cell, and celldoor.
 ~
@@ -2477,7 +2477,7 @@ unfurnished except for the battered wooden table, and rickety chair beside
 it.  Hanging from a row of iron hooks, along the back wall, you see a ring
 of keys, a battered longsword, and a knobbed wooden club.  
 ~
-0 D inside
+0 D 0 
 D3
 A dark, stone hallway lies to the west.
 ~
@@ -2492,7 +2492,7 @@ special games.  Many brave gladiators enter the arena through this
 vestibule, few leave it alive.  A set of marble stairs lead upwards to the
 spectator stands, the battle arena itself lies to the east.  
 ~
-0 CD inside
+0 CD 0 
 D1
 Twin redwood gates hang in the entryway to the arena.
 ~
@@ -2516,7 +2516,7 @@ as people shove past you, looking for an empty seat.
  
  A set of marble stairs lead down to the vestibule below.
 ~
-0 0 city
+0 0 1
 D0
 ~
 ~
@@ -2541,7 +2541,7 @@ repulsion for the mindless fools that you see around you, and your hatred
 begins to mount.  
                  Kill them...   {RKill them ALL!{x
 ~
-0 0 city
+0 0 1
 D0
 ~
 ~
@@ -2562,7 +2562,7 @@ repulsion for the mindless fools that you see around you, and your hatred
 begins to mount.  
                  Kill them...   {RKill them ALL!{x
 ~
-0 0 city
+0 0 1
 D0
 ~
 ~
@@ -2583,7 +2583,7 @@ repulsion for the mindless fools that you see around you, and your hatred
 begins to mount.  
                  Kill them...   {RKill them ALL!{x
 ~
-0 0 city
+0 0 1
 D1
 ~
 ~
@@ -2604,7 +2604,7 @@ repulsion for the mindless fools that you see around you, and your hatred
 begins to mount.  
                  Kill them...   {RKill them ALL!{x
 ~
-0 0 city
+0 0 1
 D1
 ~
 ~
@@ -2622,7 +2622,7 @@ project from the front of the podium, hanging out over the arena with their
 fluttering, cheerfully colored {mmaroon{x, {Bblue{x, {ggreen{x, and {Yyellow{x pendants.
 This section has obviously been reserved for patrons of great importance.
 ~
-0 CD city
+0 CD 1
 D1
 ~
 ~
@@ -2643,7 +2643,7 @@ repulsion for the mindless fools that you see around you, and your hatred
 begins to mount.  
                  Kill them...   {RKill them ALL!{x
 ~
-0 0 city
+0 0 1
 D1
 ~
 ~
@@ -2664,7 +2664,7 @@ repulsion for the mindless fools that you see around you, and your hatred
 begins to mount.  
                  Kill them...   {RKill them ALL!{x
 ~
-0 0 city
+0 0 1
 D2
 ~
 ~
@@ -2685,7 +2685,7 @@ repulsion for the mindless fools that you see around you, and your hatred
 begins to mount.  
                  Kill them...   {RKill them ALL!{x
 ~
-0 0 city
+0 0 1
 D0
 ~
 ~
@@ -2706,7 +2706,7 @@ repulsion for the mindless fools that you see around you, and your hatred
 begins to mount.  
                  Kill them...   {RKill them ALL!{x
 ~
-0 0 city
+0 0 1
 D0
 ~
 ~
@@ -2727,7 +2727,7 @@ repulsion for the mindless fools that you see around you, and your hatred
 begins to mount.  
                  Kill them...   {RKill them ALL!{x
 ~
-0 0 city
+0 0 1
 D0
 ~
 ~
@@ -2748,7 +2748,7 @@ repulsion for the mindless fools that you see around you, and your hatred
 begins to mount.  
                  Kill them...   {RKill them ALL!{x
 ~
-0 0 city
+0 0 1
 D0
 ~
 ~
@@ -2769,7 +2769,7 @@ repulsion for the mindless fools that you see around you, and your hatred
 begins to mount.  
                  Kill them...   {RKill them ALL!{x
 ~
-0 0 city
+0 0 1
 D0
 ~
 ~
@@ -2790,7 +2790,7 @@ repulsion for the mindless fools that you see around you, and your hatred
 begins to mount.  
                  Kill them...   {RKill them ALL!{x
 ~
-0 0 city
+0 0 1
 D0
 ~
 ~
@@ -2811,7 +2811,7 @@ repulsion for the mindless fools that you see around you, and your hatred
 begins to mount.  
                  Kill them...   {RKill them ALL!{x
 ~
-0 0 city
+0 0 1
 D1
 ~
 ~
@@ -2833,7 +2833,7 @@ repulsion for the mindless fools that you see around you, and your hatred
 begins to mount.  
                  Kill them...   {RKill them ALL!{x
 ~
-0 0 city
+0 0 1
 D1
 ~
 ~
@@ -2854,7 +2854,7 @@ repulsion for the mindless fools that you see around you, and your hatred
 begins to mount.  
                  Kill them...   {RKill them ALL!{x
 ~
-0 0 city
+0 0 1
 D1
 ~
 ~
@@ -2875,7 +2875,7 @@ repulsion for the mindless fools that you see around you, and your hatred
 begins to mount.  
                  Kill them...   {RKill them ALL!{x
 ~
-0 0 city
+0 0 1
 D0
 ~
 ~
@@ -2896,7 +2896,7 @@ repulsion for the mindless fools that you see around you, and your hatred
 begins to mount.  
                  Kill them...   {RKill them ALL!{x
 ~
-0 0 city
+0 0 1
 D0
 ~
 ~
@@ -2917,7 +2917,7 @@ repulsion for the mindless fools that you see around you, and your hatred
 begins to mount.  
                  Kill them...   {RKill them ALL!{x
 ~
-0 0 city
+0 0 1
 D0
 ~
 ~
@@ -2935,7 +2935,7 @@ a dozen different locations in the room.  Your head begins to swim, and
 you're not sure if it's the intoxicating smell, or the marvelous sights that
 are making you so dizzy...  
 ~
-0 D inside
+0 D 0 
 D0
 ~
 ~
@@ -2948,7 +2948,7 @@ Wooden reclining benches have been placed against the walls, all of the way
 around the room.  You hear the sound of giggling, and as you turn your head
 about, you notice several human forms near you.  
 ~
-0 D inside
+0 D 0 
 D2
 ~
 ~
@@ -2973,7 +2973,7 @@ eternity, you find yourself in a vast subterranean cavern.  Your lungs are
 beginning to burn from the lack of oxygen, and you still have to swim back
 to the surface.  Hmm, perhaps you'd better turn back now.  
 ~
-0 Dc swim
+0 Dc 6
 E
 stones wall bricks mortar~
 Staring hard into the murky water you see the outline of a hole in the
@@ -3000,7 +3000,7 @@ The murky water is cool and refreshing, but your lungs are bursting from
 lack of oxygen, and really don't care how good the water feels.  The only
 thing on your mind is {CAIR{x!!!  
 ~
-0 Dc swim
+0 Dc 6
 D4
 ~
 ~
@@ -3012,7 +3012,7 @@ The murky water is cool and refreshing, but your lungs are bursting from
 lack of oxygen, and really don't care how good the water feels.  The only
 thing on your mind is {CAIR{x!!!  
 ~
-0 Dc swim
+0 Dc 6
 D4
 ~
 ~
@@ -3024,7 +3024,7 @@ The murky water is cool and refreshing, but your lungs are bursting from
 lack of oxygen, and really don't care how good the water feels.  The only
 thing on your mind is {CAIR{x!!!  
 ~
-0 Dc swim
+0 Dc 6
 D4
 ~
 ~
@@ -3036,7 +3036,7 @@ The murky water is cool and refreshing, but your lungs are bursting from
 lack of oxygen, and really don't care how good the water feels.  The only
 thing on your mind is {CAIR{x!!!  
 ~
-0 Dc swim
+0 Dc 6
 D4
 ~
 ~
@@ -3050,7 +3050,7 @@ lies mostly buried in the mud, and your curiosity is piqued, but something
 is wrong about this place.  Something is VERY wrong, and your mind screams
 for you to leave.  
 ~
-0 ACDJNc swim
+0 ACDJNc 6
 D1
 ~
 wall secret stones~
