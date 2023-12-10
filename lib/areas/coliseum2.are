@@ -543,9 +543,8 @@ pillar post wooden~
 a wooden pillar~
 ~
 wood~
-~
 trash O P
-0 0 0 0 0 0 0
+0 0 0 0 0
 0 897921 3092 P
 E
 pillar post wooden~
@@ -557,9 +556,8 @@ net fishingnet~
 a fishing net~
 This weighted fishing net looks perfect for ensnaring someone.~
 hemp~
-~
 wand G AO
-13 5 5 'web'
+13 5 5 'web' 0
 13 155 324 P
 A
 3 2
@@ -574,7 +572,6 @@ trident~
 a trident~
 A long steel shaft with three prongs fixed on the end, lies here.~
 steel~
-~
 weapon 0 AN
 spear 2 10 thrust 0
 20 21 8810 P
@@ -587,9 +584,8 @@ row hooks iron~
 a row of iron hooks~
 ~
 iron~
-~
 container O P
-100 E 0 100 100 0
+100 E 0 100 100
 1 0 10 P
 E
 row hooks iron~
@@ -600,7 +596,6 @@ pool water~
 {Ba pool of water{x~
 ~
 water~
-~
 portal OT 0
 0 0 0 20482 0
 1 0 0 P
@@ -615,9 +610,8 @@ casket obsidian black~
 {Wan obsidian casket{x~
 ~
 energy~
-~
 container CEOT P
-100 AC 0 100 100 0
+100 AC 0 100 100
 1 0 0 P
 E
 casket obsidian black~
@@ -627,11 +621,10 @@ The casket is made of pure obsidian, and probably weighs a couple of tons.
 mask charon~
 {Wthe Mask of Charon{x~
 A heavy black stone mask lies here grinning at you.~
-unknown~
 obsidian~
 armor CEGIJLT AE
-33 33 33 32 'none' 0
-91 92 1610567 P
+33 33 33 32 0
+91 92 161056 P
 A
 20 -1
 A
@@ -653,11 +646,10 @@ you feel your sanity start to edge away...
 #20407
 peanuts bag~
 a bag of peanuts~
-~
+A bag of peanuts is lying here on the ground.~
 food~
-~
 food 0 A
-ADE BDF 0 0 0 ADE BDF
+15 15 0 0 0
 1 35 237 P
 E
 bag peanuts~
@@ -668,9 +660,8 @@ gauntlets spiked mail~
 spiked mail gauntlets~
 A shiny pair of spiked gauntlets are lying here.~
 steel~
-~
 armor GI AH
-24 24 24 23 'none' 0
+24 24 24 23 0
 65 66 103528 P
 A
 19 6
@@ -687,7 +678,6 @@ club wooden~
 a heavy wooden club~
 A heavy wooden club lies on the ground.~
 wood~
-~
 weapon I AN
 mace 3 28 blast F
 65 66 92916 G
@@ -704,9 +694,8 @@ sword bastard~
 a HEAVY bastard sword~
 A monstrous steel sword lies, gleaming dully in the light.~
 steel~
-~
 weapon BI AN
-bastardsword 1 23 cleave F
+sword 1 23 cleave F
 16 50 7664 P
 A
 19 3
@@ -721,10 +710,9 @@ You'll need two hands to swing this thing!
 loincloth~
 a loincloth~
 A tan bathing suit lies here sopping wet.~
-unknown~
 cloth~
 clothing M AF
-0 0 0 0 0 0 0
+0 0 0 0 0
 5 135 341 P
 A
 14 -65
@@ -737,7 +725,6 @@ loosely around your waist and threatens to fall down around your ankles.
 vial spices~
 a small vial of spices~
 A tiny multicolored glass vial lies here.~
-unknown~
 spice~
 pill GI A
 20 'cure disease' 'refresh' 'cure light' 'cure poison'
@@ -752,9 +739,8 @@ keys keyring~
 a large keyring~
 A large keyring lies here with several keys on it.~
 steel~
-~
 key 0 AO
-0 0 0 0 0 0 0
+0 0 0 0 0
 1 55 45 P
 E
 keys keyring~
@@ -765,9 +751,8 @@ longsword sword battered~
 a battered longsword~
 A battered longsword lies here, the blade nicked and scarred.~
 iron~
-~
 weapon 0 AN
-longsword 1 15 slash 0
+sword 1 15 slash 0
 13 55 785 D
 A
 19 -5
@@ -780,9 +765,8 @@ oak table~
 an oak table~
 An old oak table with a single chair sits here.~
 wood~
-~
 furniture O P
-A DFGHIJ 0 ADE 0 A DFGHIJ
+3 2000 BEHK 105 105
 1 500 231 P
 E
 oak table chair~
@@ -793,9 +777,8 @@ wire metal pick lockpick~
 a lockpick~
 A small stiff piece of wire lies here...you almost missed it.~
 steel~
-~
 key F AO
-0 0 0 0 0 0 0
+0 0 0 0 0
 7 1 0 P
 E
 pick lockpick metal steel wire~
@@ -806,7 +789,6 @@ tooth dragons dragon's~
 {Ga d{gr{Gag{gon{G's {wtooth{x~
 A foot long razor sharp tooth lies here.~
 bone~
-~
 weapon QT AN
 dagger 5 8 pierce D
 20 21 237992 A
@@ -819,16 +801,14 @@ bed fourposter~
 a fourposter bed~
 A huge, fourposter bed, with satin sheets sits against the far wall.~
 wood~
-~
 furniture O P
-BC GIJKLM BEHKN DEFG BCG BC GIJKLM
+3 2000 BEHK 105 105
 1 100 12398 P
 #20420
 voulge~
 a voulge~
 A heavy iron cleaver is fixed onto the end of this wooden pole.~
 wood~
-~
 weapon EI AN
 polearm 1 24 chop DF
 16 40 6414 P
@@ -846,7 +826,6 @@ chainmail vest~
 an iron chainmail vest~
 A large, very heavy vest of iron chainmail lies here.~
 iron~
-~
 armor 0 AD
 6 6 6 5 'none' 0
 16 17 6400 P
@@ -864,9 +843,8 @@ ring gold signet~
 {Ya gold signet ring{x~
 A {Yshiny gold signet ring{x lies on the ground.~
 gold~
-~
 jewelry A AB
-0 0 0 0 0 0 0
+0 0 0 0 0
 1 15 8723 P
 A
 20 -1
@@ -880,9 +858,8 @@ toga robe purple~
 {ma purple toga{x~
 A bright {mpurple{x robe lies here.~
 unknown~
-~
 clothing 0 AK
-0 0 0 0 0 0 0
+0 0 0 0 0
 10 57 13217 P
 A
 14 -15
@@ -896,7 +873,6 @@ fingernails nails~
 sharp fingernails~
 Long, sharp, bloodstained fingernails are lying here.  Ewww!~
 unknown~
-keratin~
 weapon EM AN
 exotic 1 14 stab 0
 14 15 4104 P
@@ -915,9 +891,8 @@ helmet bronze visored~
 a visored helmet~
 A visored bronze helmet lies here.~
 bronze~
-~
 armor 0 AE
-8 8 8 7 'none' 0
+8 8 8 7 0
 20 21 3360 P
 A
 17 -2
@@ -933,9 +908,8 @@ shield bronze round~
 a round shield~
 An unremarkable bronze shield lies here.~
 bronze~
-~
 armor 0 AJ
-8 8 8 7 'none' 0
+8 8 8 7 0
 20 21 1281 G
 A
 17 -3
@@ -949,9 +923,8 @@ sabre sword curved~
 a curved sabre~
 A two foot long curved sword lies here.~
 iron~
-~
 weapon 0 AN
-bastardsword 1 29 slash F
+sword 1 29 slash F
 20 75 3581 A
 A
 19 1
@@ -965,9 +938,8 @@ wristguard bronze~
 an elbowlength wristguard~
 A shiny bronze wristguard lies here.~
 bronze~
-~
 armor 0 AM
-7 7 7 6 'none' 0
+7 7 7 6 0
 20 19 8956 A
 A
 17 -3
@@ -984,9 +956,8 @@ helmet bronze visored fish~
 a visored helmet~
 A visored bronze helmet with a fish crest lies here.~
 bronze~
-~
 armor 0 AE
-8 8 8 7 'none' 0
+8 8 8 7 0
 20 21 10243 P
 A
 17 -2
@@ -1002,9 +973,8 @@ shield bronze oblong~
 an oblong shield~
 An unremarkable oblong, bronze shield lies here.~
 bronze~
-~
 armor 0 AJ
-8 8 8 7 'none' 0
+8 8 8 7 0
 20 21 1116 G
 A
 17 -3
@@ -1018,9 +988,8 @@ sword shortsword~
 a double-edged shortsword~
 A double-edged shortsword lies here covered in blood.~
 unknown~
-~
 weapon 0 AN
-shortsword 3 6 stab H
+sword 3 6 stab H
 22 22 8920 P
 A
 18 2
@@ -1182,17 +1151,14 @@ D0
 ~
 ~
 0 -1 20425
-0 0
 D1
 ~
 ~
 0 -1 20406
-0 0
 D2
 ~
 ~
 0 -1 20430
-0 0
 D3
 Twin redwood gates hang in the entryway of the vestibule.
 ~
@@ -1211,12 +1177,10 @@ D0
 ~
 ~
 0 -1 20430
-0 0
 D1
 ~
 ~
 0 -1 20407
-0 0
 S
 #20402
 The Northwestern Corner~
@@ -1230,12 +1194,10 @@ D1
 ~
 ~
 0 -1 20405
-0 0
 D2
 ~
 ~
 0 -1 20425
-0 0
 S
 #20403
 The Massage Parlor~
@@ -1249,7 +1211,6 @@ D0
 ~
 ~
 0 -1 20445
-0 0
 S
 #20404
 Entrance to the Gladiator's Sanctum~
@@ -1265,13 +1226,11 @@ D0
 ~
 ~
 0 -1 20444
-0 0
 D2
 A heavy gate constructed of solid iron is fixed firmly into the marble wall.
 ~
 gate~
-ABZ 0 20408
-0 0
+1 0 20408
 S
 #20405
 Inside the Arena~
@@ -1285,22 +1244,18 @@ D0
 ~
 ~
 0 -1 20409
-0 0
 D1
 ~
 ~
 0 -1 20410
-0 0
 D2
 ~
 ~
 0 -1 20426
-0 0
 D3
 ~
 ~
 0 -1 20402
-0 0
 S
 #20406
 Inside the Arena~
@@ -1314,22 +1269,18 @@ D0
 ~
 ~
 0 -1 20426
-0 0
 D1
 ~
 ~
 0 -1 20411
-0 0
 D2
 ~
 ~
 0 -1 20431
-0 0
 D3
 ~
 ~
 0 -1 20400
-0 0
 S
 #20407
 Inside the Arena~
@@ -1343,22 +1294,18 @@ D0
 ~
 ~
 0 -1 20431
-0 0
 D1
 ~
 ~
 0 -1 20412
-0 0
 D2
 ~
 ~
 0 -1 20418
-0 0
 D3
 ~
 ~
 0 -1 20401
-0 0
 S
 #20408
 The North Gate~
@@ -1372,23 +1319,19 @@ D0
 A heavy gate constructed of solid iron is fixed firmly into the marble wall.
 ~
 gate~
-ABZ 0 20404
-0 0
+1 0 20404
 D1
 ~
 ~
 0 -1 20413
-0 0
 D2
 ~
 ~
 0 -1 20410
-0 0
 D3
 ~
 ~
 0 -1 20409
-0 0
 S
 #20409
 The North Wall~
@@ -1402,12 +1345,10 @@ D1
 ~
 ~
 0 -1 20408
-0 0
 D2
 ~
 ~
 0 -1 20405
-0 0
 S
 #20410
 Inside the Arena~
@@ -1421,22 +1362,19 @@ D0
 ~
 ~
 0 -1 20408
-0 0
 D1
 ~
 ~
 0 -1 20415
-0 0
 D2
 ~
 ~
 0 -1 20427
-0 0
+
 D3
 ~
 ~
 0 -1 20405
-0 0
 S
 #20411
 The Center of the Arena~
@@ -1445,27 +1383,23 @@ around you are too busy sparring with each other to notice you.  A huge
 wooden post rises from the ground at the very center of the arena, manacled
 chains hang suspended from giant hooks set into it.  
 ~
-0 C field
+0 C 2
 D0
 ~
 ~
 0 -1 20427
-0 0
 D1
 ~
 ~
 0 -1 20416
-0 0
 D2
 ~
 ~
 0 -1 20432
-0 0
 D3
 ~
 ~
 0 -1 20406
-0 0
 S
 #20412
 Inside the Arena~
@@ -1479,22 +1413,18 @@ D0
 ~
 ~
 0 -1 20432
-0 0
 D1
 ~
 ~
 0 -1 20417
-0 0
 D2
 ~
 ~
 0 -1 20423
-0 0
 D3
 ~
 ~
 0 -1 20407
-0 0
 S
 #20413
 The North Wall~
@@ -1508,12 +1438,10 @@ D2
 ~
 ~
 0 -1 20415
-0 0
 D3
 ~
 ~
 0 -1 20408
-0 0
 S
 #20414
 The Bath House~
@@ -1527,7 +1455,6 @@ D2
 ~
 ~
 0 -1 20445
-0 0
 S
 #20415
 Inside the Arena~
@@ -1541,22 +1468,18 @@ D0
 ~
 ~
 0 -1 20413
-0 0
 D1
 ~
 ~
 0 -1 20420
-0 0
 D2
 ~
 ~
 0 -1 20428
-0 0
 D3
 ~
 ~
 0 -1 20410
-0 0
 S
 #20416
 Inside the Arena~
@@ -1570,22 +1493,19 @@ D0
 ~
 ~
 0 -1 20428
-0 0
 D1
 ~
 ~
 0 -1 20421
-0 0
 D2
 ~
 ~
 0 -1 20433
-0 0
 D3
 ~
 ~
 0 -1 20411
-0 0
+
 S
 #20417
 Inside the Arena~
@@ -1599,22 +1519,20 @@ D0
 ~
 ~
 0 -1 20433
-0 0
+
 D1
 ~
 ~
 0 -1 20422
-0 0
+
 D2
 ~
 ~
 0 -1 20424
-0 0
 D3
 ~
 ~
 0 -1 20412
-0 0
 S
 #20418
 The South Wall~
@@ -1628,12 +1546,10 @@ D0
 ~
 ~
 0 -1 20407
-0 0
 D1
 ~
 ~
 0 -1 20423
-0 0
 S
 #20419
 The Lift~
@@ -1648,14 +1564,12 @@ D0
 You can see the arena through the thick iron bars to the north.
 ~
 gate bars~
-ABZ 0 20423
-0 0
+1 0 20423
 D5
 The iron rungs of a ladder, embedded into the east wall descend the shaft.
 ~
 ~
 0 -1 20435
-0 0
 S
 #20420
 The Northeast Corner~
@@ -1669,12 +1583,10 @@ D2
 ~
 ~
 0 -1 20429
-0 0
 D3
 ~
 ~
 0 -1 20415
-0 0
 S
 #20421
 The East Entrance~
@@ -1687,17 +1599,14 @@ D0
 ~
 ~
 0 -1 20429
-0 0
 D2
 ~
 ~
 0 -1 20434
-0 0
 D3
 ~
 ~
 0 -1 20416
-0 0
 S
 #20422
 The Southeast Corner~
@@ -1711,12 +1620,10 @@ D0
 ~
 ~
 0 -1 20434
-0 0
 D3
 ~
 ~
 0 -1 20417
-0 0
 S
 #20423
 The South Gate~
@@ -1730,23 +1637,19 @@ D0
 ~
 ~
 0 -1 20412
-0 0
 D1
 ~
 ~
 0 -1 20424
-0 0
 D2
 Peering through the bars, you see a wooden lift with a pulley system.
 ~
 gate bars~
-ABZ 0 20419
-0 0
+1 0 20419
 D3
 ~
 ~
 0 -1 20418
-0 0
 S
 #20424
 The South Wall~
@@ -1760,12 +1663,11 @@ D0
 ~
 ~
 0 -1 20417
-0 0
+
 D3
 ~
 ~
 0 -1 20423
-0 0
 S
 #20425
 The West Wall~
@@ -1779,17 +1681,14 @@ D0
 ~
 ~
 0 -1 20402
-0 0
 D1
 ~
 ~
 0 -1 20426
-0 0
 D2
 ~
 ~
 0 -1 20400
-0 0
 S
 #20426
 Inside the Arena~
@@ -1802,22 +1701,18 @@ D0
 ~
 ~
 0 -1 20405
-0 0
 D1
 ~
 ~
 0 -1 20427
-0 0
 D2
 ~
 ~
 0 -1 20406
-0 0
 D3
 ~
 ~
 0 -1 20425
-0 0
 S
 #20427
 Inside the Arena~
@@ -1830,22 +1725,18 @@ D0
 ~
 ~
 0 -1 20410
-0 0
 D1
 ~
 ~
 0 -1 20428
-0 0
 D2
 ~
 ~
 0 -1 20411
-0 0
 D3
 ~
 ~
 0 -1 20426
-0 0
 S
 #20428
 Inside the Arena~
@@ -1859,22 +1750,18 @@ D0
 ~
 ~
 0 -1 20415
-0 0
 D1
 ~
 ~
 0 -1 20429
-0 0
 D2
 ~
 ~
 0 -1 20416
-0 0
 D3
 ~
 ~
 0 -1 20427
-0 0
 S
 #20429
 The East Wall~
@@ -1888,17 +1775,14 @@ D0
 ~
 ~
 0 -1 20420
-0 0
 D2
 ~
 ~
 0 -1 20421
-0 0
 D3
 ~
 ~
 0 -1 20428
-0 0
 S
 #20430
 The West Wall~
@@ -1912,17 +1796,14 @@ D0
 ~
 ~
 0 -1 20400
-0 0
 D1
 ~
 ~
 0 -1 20431
-0 0
 D2
 ~
 ~
 0 -1 20401
-0 0
 S
 #20431
 Inside the Arena~
@@ -1936,22 +1817,18 @@ D0
 ~
 ~
 0 -1 20406
-0 0
 D1
 ~
 ~
 0 -1 20432
-0 0
 D2
 ~
 ~
 0 -1 20407
-0 0
 D3
 ~
 ~
 0 -1 20430
-0 0
 S
 #20432
 Inside the Arena~
@@ -1964,22 +1841,18 @@ D0
 ~
 ~
 0 -1 20411
-0 0
 D1
 ~
 ~
 0 -1 20433
-0 0
 D2
 ~
 ~
 0 -1 20412
-0 0
 D3
 ~
 ~
 0 -1 20431
-0 0
 S
 #20433
 Inside the Arena~
@@ -1992,22 +1865,18 @@ D0
 ~
 ~
 0 -1 20416
-0 0
 D1
 ~
 ~
 0 -1 20434
-0 0
 D2
 ~
 ~
 0 -1 20417
-0 0
 D3
 ~
 ~
 0 -1 20432
-0 0
 S
 #20434
 The East Wall~
@@ -2186,7 +2055,6 @@ A dark, stone hallway leads east.
 ~
 ~
 0 -1 20442
-0 0
 D2
 A dark, stone hallway leads south.
 ~
@@ -2219,7 +2087,6 @@ You see the rusting iron bars of a dark cell.
 ~
 celldoor bars~
 2 20413 20450
-0 0
 D3
 A dark, stone hallway leads west.
 ~
@@ -2259,7 +2126,7 @@ tall, stately marble pillars at the pool's edge rise to an opening in the
 ceiling, directly above the pool.  A low doorway leads east into the private
 chambers of the victor, west you see the changing and equipment room. 
 ~
-0 0 inside
+0 0 0
 D1
 ~
 ~
@@ -2268,12 +2135,10 @@ D2
 ~
 ~
 0 -1 20404
-0 0
 D3
 ~
 ~
 0 -1 20445
-0 0
 S
 #20445
 The Changing Room~
@@ -2330,8 +2195,7 @@ D2
 You see the rusting, iron bars of the cell, and celldoor.
 ~
 celldoor bars~
-ABCIZ 20413 20443
-0 0
+2 20413 20443
 S
 #20448
 A Beast Cage~
@@ -2345,8 +2209,7 @@ D2
 You see the rusting, iron bars of the cell, and celldoor.
 ~
 celldoor bars~
-ABCIZ 20413 20442
-0 0
+2 20413 20442
 S
 #20449
 A Beast Cage~
@@ -2360,8 +2223,7 @@ D0
 You see the rusting, iron bars of the cell, and celldoor.
 ~
 celldoor bars~
-ABCJZ 20413 20443
-0 0
+2 20413 20443
 S
 #20450
 A Beast Cage~
@@ -2375,8 +2237,7 @@ D0
 You see the rusting, iron bars of the cell, and celldoor.
 ~
 celldoor bars~
-ABCIZ 20413 20442
-0 0
+2 20413 20442
 S
 #20451
 A Beast Cage~
@@ -2390,8 +2251,7 @@ D1
 You see the rusting, iron bars of the cell, and celldoor.
 ~
 celldoor bars~
-ABCIZ 20413 20440
-0 0
+2 20413 20440
 S
 #20452
 A Beast Cage~
@@ -2405,8 +2265,7 @@ D3
 You see the rusting, iron bars of the cell, and celldoor.
 ~
 celldoor bars~
-ABCIZ 20413 20440
-0 0
+2 20413 20440
 S
 #20453
 A Beast Cage~
@@ -2420,8 +2279,7 @@ D2
 You see the rusting, iron bars of the cell, and celldoor.
 ~
 celldoor bars~
-ABCIZ 20413 20438
-0 0
+2 20413 20438
 S
 #20454
 A Beast Cage~
@@ -2435,8 +2293,7 @@ D0
 You see the rusting, iron bars of the cell, and celldoor.
 ~
 celldoor bars~
-ABCIZ 20413 20438
-0 0
+2 20413 20438
 S
 #20455
 The Keeper's Room~
@@ -2451,7 +2308,6 @@ A dark, stone hallway lies to the west.
 ~
 ~
 0 -1 20436
-0 0
 S
 #20456
 The Vestibule~
@@ -2784,7 +2640,6 @@ D1
 ~
 ~
 0 -1 20470
-0 0
 D3
 ~
 ~
@@ -2925,12 +2780,12 @@ S
 #20480
 A SPARE ROOM~
 ~
-0 CD swim
+0 CD 6
 S
 #20481
 A SPARE ROOM~
 ~
-0 CD swim
+0 CD 6
 S
 #20482
 {bA Subterranean Cavern{x~
@@ -2941,7 +2796,7 @@ eternity, you find yourself in a vast subterranean cavern.  Your lungs are
 beginning to burn from the lack of oxygen, and you still have to swim back
 to the surface.  Hmm, perhaps you'd better turn back now.  
 ~
-0 Dc 6
+0 D 6
 E
 stones wall bricks mortar~
 Staring hard into the murky water you see the outline of a hole in the
@@ -2956,7 +2811,7 @@ upon closer inspection you notice a strange symbol on the middle of it.
  
 ~
 wall secret stones~
-ABCDFZ 0 20487
+1 0 20487
 D4
 ~
 ~
@@ -3027,7 +2882,7 @@ S
 #20488
 A SPARE ROOM~
 ~
-0 C inside
+0 C 0
 S
 #0
 
