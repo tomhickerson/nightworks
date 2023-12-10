@@ -827,7 +827,7 @@ an iron chainmail vest~
 A large, very heavy vest of iron chainmail lies here.~
 iron~
 armor 0 AD
-6 6 6 5 'none' 0
+6 6 6 5 0
 16 17 6400 P
 A
 13 10
@@ -1007,9 +1007,8 @@ platemail iron~
 iron platemail~
 An extremely heavy suit of iron platemail lies here.~
 iron~
-~
 armor 0 AD
-9 9 9 8 'none' 0
+9 9 9 8 0
 23 200 24612 P
 A
 13 20
@@ -1027,9 +1026,8 @@ shield rectangular iron~
 a rectangular shield~
 An extremely heavy rectangular iron shield lies here.~
 iron~
-~
 armor 0 AJ
-9 9 9 8 'none' 0
+9 9 9 8 0
 23 24 4957 P
 A
 19 1
@@ -1047,9 +1045,8 @@ helmet visored iron~
 a visored iron helmet~
 An extremely heavy visored iron helmet lies here.~
 iron~
-~
 armor 0 AE
-9 9 9 8 'none' 0
+9 9 9 8 0
 23 300 6071 P
 A
 2 -1
@@ -1065,7 +1062,6 @@ axe iron waraxe~
 a HUGE waraxe~
 A HUGE iron war axe lies here.~
 iron~
-~
 weapon 0 AN
 axe 1 36 cleave F
 25 300 37634 P
@@ -1082,10 +1078,9 @@ This iron waraxe is one of the largest that you have ever seen.
 veil blue silk~
 {Ba blue veil{x~
 A long blue silk veil flutters on the ground.~
-unknown~
-~
+silk~
 clothing GI AE
-0 0 0 0 0 0 0
+0 0 0 0 0 
 20 13 10997 P
 A
 4 1
@@ -1100,10 +1095,9 @@ A woman's blue silk veil.  It smells of incense and perfume!
 pendant bone~
 a bone pendant~
 A leather thong passes through this tiny bone pendant.~
-unknown~
-~
+bone~
 jewelry BGIY AC
-0 0 0 0 0 0 0
+0 0 0 0 0
 17 10 100 P
 A
 17 -3
@@ -1121,7 +1115,6 @@ pocketknife knife~
 a pocketknife~
 A small closeable knife lies here, the blade honed to a fine edge.~
 steel~
-~
 weapon C AN
 dagger 2 3 slice D
 10 15 1402 P
