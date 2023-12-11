@@ -7158,7 +7158,8 @@ S
 On the Concourse~
 The strong stone walls of Midgaard rise up to the west, keeping evil at bay.
 The concourse heads towards a bridge to the north, and continues south 
-alongside a beautiful park.
+alongside a beautiful park.  In the distance, you can hear the cheers and 
+jeers coming from the Coliseum's arena.
 ~
 0 0 1
 D0
@@ -7166,6 +7167,11 @@ The concourse continues to the north, along the city wall.
 ~
 ~
 0 -1 3100
+D1
+A path leads to the Midgaard Coliseum.
+~
+~
+0 -1 20456
 D2
 The concourse heads south, passing by a beautiful park.
 ~

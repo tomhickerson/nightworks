@@ -357,8 +357,8 @@ stand stand male 57
 0 0 large flesh
 #20422
 packrat pakrat~
-A {yBrown{x pakrat~
-A huge {ybrown{x rat regards you with evil red eyes.
+A Brown pakrat~
+A huge brown rat regards you with evil red eyes.
 ~
 You see a small pakrat here.  He stands about ankle high and has beady
 little red eyes.  His fur is matted with gunk from crawling around the beast
@@ -2316,9 +2316,10 @@ Twin redwood gates hang in the entryway to the arena.
 gate gates~
 1 0 20400
 D3
+The road exits onto Midgaard's Concourse.
 ~
 ~
-0 -1 3047
+0 -1 3270
 D4
 ~
 ~
