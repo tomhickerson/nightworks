@@ -1,0 +1,1216 @@
+#AREA
+fawrcoed.are~
+Fawrcoed~
+{33 99} Fluffy Fawrcoed~
+20500 20599
+
+#RESETMESSAGE
+A soft breeze wafts through the city, rustling the leaves on the trees...~
+
+
+#MOBILES
+#20500
+Gwallog elf sylvan merry~
+Gwallog the Sylvan Gossip~
+A merry-looking elf smiles from behind the bar.
+~
+Gwallog is a merry fellow, an Honorary Sylvan elf.  Really, he appears to
+be a simple wood-elf with sparkling emerald eyes and long dark hair.  His
+clothing is simple, soft suede leggings and an even softer tunic dyed to
+match his mischevious eyes.  With his infectious sense of humor and his
+flirtatious spirit, it is no wonder Gwallog has found a home among the
+Sylvan elves.  
+~
+unique~
+AG H 1000 0
+275 25 25d10+10 25d10+10 25d10+10 none
+0 0 0 0
+0 AB B Z
+sit sit male 100000
+AGMV ABCDEFGHIJK medium unknown
+#20501
+irwen sylvan elf healer quiet~
+Irwen the Sylvan Healer~
+A quiet elf perches upon the platform with softly transfixed eyes.
+~
+A halo of soft brown curls frames the delicate face of this elven
+goddess.  Her slim fingers are folded in her lap, a robe of white satin her
+only garment.  Blue eyes the color of the ocean at dawn are focused on some
+distant point.  Irwen's chidlish lips are parted in a dreamy smile.  
+~
+unique~
+Aa HTV 1000 0
+150 1000 50d50+500 50d50+500 50d50+500 none
+0 0 0 0
+0 AB B Z
+sit sit female 0
+AHMV ABCDEFGHIJK medium unknown
+#20502
+sentry elf sylvan~
+Sentry of Adian~
+A beautiful Sylvan stands sentry outside the Fane, watching carefully.
+~
+Shapely, perfect.  This demure looking Sylvan stands proudly at
+attention, serving her purpose as sentry to the Fane.  
+~
+unique~
+ABNT HLVc 500 0
+215 0 0d0+0 0d0+0 0d0+0 thrust
+0 0 0 0
+CEFJKRVX AB BQ Z
+stand stand female 5151
+AHMV ABCDEFGHIJK medium unknown
+#20503
+sylvan child ~
+a sylvan child~
+A sylvan child plays happily here.
+~
+A beautiful young girl with wide blue eyes and long dark hair.  This
+sylvan child seems happy and satisfied with her world.  
+~
+unique~
+AGH V 750 0
+200 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FHV B F Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#20504
+high elf visiting~
+a visiting high elf~
+A visiting high elf eyes the Sylvans greedily.
+~
+With a lecherous sneer, this high elf, handsome though he may be, seems
+quite out of place in the Sylvan village.  
+~
+unique~
+AGT Vc 250 0
+210 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+CFINQW AB C Z
+stand stand male 6055
+AHMV ABCDEFGHIJK medium unknown
+#20505
+squirrel frisky cute~
+a cute, frisky squirrel~
+A cute, frisky squirrel collects nuts from the trees above.
+~
+Fuzzy, furry and cute, this squirrel is collecting nuts here.  
+~
+unique~
+AGU c 0 0
+235 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+FHVW AB F 0
+stand stand male 0
+AGV ACDEFHJK medium unknown
+#20506
+farmer squirrel grey~
+a squirrel farmer~
+A grey elf walks here, herding squirrels.
+~
+A rugged looking fellow, hair drab brown underneath a wide straw hat,
+this farmer is looking quite determined as he hunts his herd of squirrels.  
+~
+unique~
+AG c 0 0
+240 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CFJNVX AB L Z
+stand stand male 7000
+AHMV ABCDEFGHIJK medium unknown
+#20507
+old woman crotchety~
+a crotchety old woman~
+A crotchety old woman hobbles about here.
+~
+A human from a visiting town, this old woman hobbles about on her cane. 
+She does not look pleased to be here.  Her back is bent with labor.  
+~
+unique~
+AG 0 -250 0
+205 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+IJN AB I Q
+stand stand none 750
+AHMV ABCDEFGHIJK medium unknown
+#20508
+Kaylie armorer pixie~
+Kaylie the Armorer~
+A tiny pixie, the armorer, flutters about, examining her wares.
+~
+A small pixie with eyes that dance merrily smiles brightly whenever she
+looks at the pieces of armor she sells.  Her tiny body looks too small to
+deal in such a trade, yet her strength is apparent in the sinewy muscles and
+grace of movement.  
+~
+unique~
+AB 0 1000 0
+309 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 CDF 0
+stand stand female 100000
+AHMV ABCDEFGHIJK medium unknown
+#20509
+maelgwyn old mother elf~
+Maelgwyn~
+A harried old mother elf watches anxiously over her brood.
+~
+Obviously, she was once beautiful, but now old Maeglwyn has the look of
+one in extreme stress about her.  Her hair is unkempt, her home untidy. 
+Poor old girl!  
+~
+unique~
+AB Hc 1000 0
+240 0 0d0+0 0d0+0 0d0+0 slap
+0 0 0 0
+CFHNOR AB CP NZ
+stand stand female 9500
+AHMV ABCDEFGHIJK medium unknown
+#20510
+fussy baby ~
+a very fussy baby~
+A very fussy baby wails from a spot on the floor.
+~
+A beautiful baby, with a wide open screaming mouth.  
+~
+unique~
+AB Hd 750 0
+220 0 0d0+0 0d0+0 0d0+0 slap
+0 0 0 0
+INR AB 0 DQ
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#20511
+serious child~
+a serious child~
+A serious child studies studiously in a corner.
+~
+Beautiful, with a high-browed intellectual look.  This very young elf is
+gangly, long arms, long legs, skinny.  
+~
+unique~
+AB Vc 750 0
+225 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+FHIJN AB C DZ
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#20512
+merry child sylvan~
+a merry child~
+A merry sylvan child dances about the room gaily.
+~
+A lovely sylvan elf, just on the brink of becoming a woman.  This girl
+finds delight in everything.  
+~
+unique~
+AB Vc 1000 0
+230 0 0d0+0 0d0+0 0d0+0 slap
+0 0 0 0
+FIKN AB CQ GLZ
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#20513
+sylvan maiden woman~
+a sylvan maiden~
+A curvaceous, lovely maiden saunters by, taking no notice of you.
+~
+Dressed in a simple blouse that accentuates the white skin of her
+shoulders, the length of her neck, and the contrasting beauty of her
+chestnut curls, this maiden is entirely too enticing.  
+~
+unique~
+AG V 850 0
+220 0 0d0+0 0d0+0 0d0+0 slap
+0 0 0 0
+FHIJNUW AB CG FZ
+stand stand female 7500
+AHMV ABCDEFGHIJK medium unknown
+#20514
+attendant sylvan woman~
+a bath attendant~
+Kneeling quietly, a bath attendant waits patiently here to serve you.
+~
+Wrapped loosely in a soft, fluffy towel, this lovely lady gazes around
+with huge brown eyes.  Soft red curls are tied up on her head.  A smattering
+of freckles across her nose adds to her aura of innocence and beauty.  
+~
+unique~
+AB V 250 0
+222 0 0d0+0 0d0+0 0d0+0 thrust
+0 0 0 0
+CFHJNU AB 0 Z
+stand stand female 8000
+AHMV ABCDEFGHIJK medium unknown
+#20515
+stallion horse wild pony~
+a wild stallion~
+A wild stallion prances happily about.
+~
+A pure white stallion, very large as horses go.  This horse is a fine
+example of the innate bond Sylvans have with animals.  
+~
+unique~
+AGU Vc 150 0
+215 0 0d0+0 0d0+0 0d0+0 charge
+0 0 0 0
+DEFHIO AB EI H
+stand stand male 0
+AGV ABCDEFHJKQUV medium unknown
+#20516
+sylvan student kid~
+a sylvan student~
+A pretty sylvan student sits with her nose in a book.
+~
+This student seems entirely too interested in her work.  She pays no
+attention to anything around her.  
+~
+unique~
+AB V 0 0
+219 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CFJNUVW AB 0 Z
+sit sit female 2000
+AHMV ABCDEFGHIJK medium unknown
+#20517
+Aerona magic student sylvan~
+Aerona~
+Aerona the Magic Student practices here... duck!
+~
+Soft blonde waves of hair and pale blue eyes belie the mischevious nature
+of this magic student.  A doll she is not.  
+~
+unique~
+ABR HTVc 333 0
+235 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CFHIJKN AB C FZ
+stand stand female 9200
+AHMV ABCDEFGHIJK medium unknown
+#20518
+saffir trainer sylvan strong~
+Saffir~
+Saffir, the physical trainer of the Sylvans, awaits your attack.
+~
+Clad simply in a tight blue catsuit, leaving nothing to the imagination,
+this highly experienced woman looks both haughty and fearsome.  
+~
+unique~
+AB H 1000 0
+245 0 0d0+0 0d0+0 0d0+0 wrath
+0 0 0 0
+EFINOVX AB DHQ KZ
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#20519
+shadowed elf shadow dark~
+Shaddaral~
+Two bright eyes peer from the shadows.
+~
+A silent, shadowed elf.  The eyes are the only visible attribute, and
+they give no clue to the face or the identity of the wrach.  
+~
+unique~
+AB 0 0 0
+309 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 B Z
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#20520
+Elystan high elf ~
+Elystan~
+Elystan smiles widely as he sees potential customers.
+~
+Elystan is tall and lanky.  His handsome form is exquisitely dressed - a
+cravat of red satin and a suit of fine cloth.  His wide smile and effeminate
+way of speaking have made him popular with the Sylvans.  
+~
+unique~
+AB 0 0 0
+310 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 B Z
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#20521
+Idris Gawr grey elf~
+Idris Gawr~
+Idris Gawr sits on his heels, kneeling over a cauldron.
+~
+Idris Gwar is an old grey elf.  His long silver hair is tied at the nape
+of his neck to prevent it from falling in his many potions.  His eyes are
+kindly, if a bit absent-minded in their foggy appearance.  
+~
+unique~
+AB 0 0 0
+400 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 B Z
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#20522
+acolyte sylvan~
+a sylvan acolyte~
+A small sylvan acolyte busies herself in the Fane.
+~
+Dressed in a very simple silver robe, this young Sylvan has dedicated
+herself to the service of Adian.  
+~
+unique~
+AG Dc 0 0
+227 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+CFIJV AB C EGZ
+stand stand female 200
+AHMV ABCDEFGHIJK medium unknown
+#20523
+high priestess sylvan holy~
+The High Priestess~
+The High Priestess, holy ward of the Sylvans, stands before you.
+~
+The High Priestess stands proudly.  Blazing green eyes focus the power of
+all natural forest elements, her tall, slim figure appears like that of a
+willow tree.  Her lips are curled in a soft smile, as she finds pleasure and
+amusement in the acolytes and elves of her village.  
+~
+unique~
+ABQ HVc 10000 0
+239 0 0d0+0 0d0+0 0d0+0 wrath
+0 0 0 0
+FGHKV AB D CFZ
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#20524
+high priest wood elf~
+The High Priest~
+A wood elf, the High Priest, meditates here.
+~
+Chosen by the High Priestess to be mate and warden of Adian, this wood
+elf is both handsome and wise.  Dressed simply, he embodies the hidden male
+essence of the Sylvans.  
+~
+unique~
+ABR HVc 10000 0
+238 0 0d0+0 0d0+0 0d0+0 wrath
+0 0 0 0
+EFKNVX AB C EHZ
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#20525
+Aeronwy girl young~
+Aeronwy~
+A young girl plays with her knife, sitting crosslegged on the floor.
+~
+Aeronwy is a young Sylvan elf, who is being groomed to be the next High
+Priestess of Adian.  She has jet black hair, lotus-soft skin, and dark grey
+eyes, which appear full of intelligence and mischief.  
+~
+unique~
+ABQ HVc 1000 0
+225 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+EFHIJNV AB GHKNP HZ
+stand stand female 15000
+AHMV ABCDEFGHIJK medium unknown
+#20526
+falcon bird~
+a falcon~
+A falcon soars high overhead.
+~
+A mighty bird, the falcon spreads his wings in the act of graceful
+flight.  His eyes scan the ground, seeking fieldmice and squirrels for his
+dinner.  
+~
+unique~
+AGUW TVc 0 0
+212 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+FHVW AB FH EG
+stand stand male 0
+AGW ACDEFHKP medium unknown
+#20527
+street merchant~
+a street merchant~
+A street merchant looks for a place to peddle his wares.
+~
+A weather-beaten half-elf is looking for a place to peddle his wares. 
+Perhaps if his wares were not stolen, he'd have better luck...  
+~
+unique~
+AG V -200 0
+208 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CFHIN AB D CZ
+stand stand male 8000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#20500
+{GGateway{g to the {GWood{X~
+Six trees form a circle here, their trunks far thicker than the average
+tree.  These six trees, two ash, two maple and two oak, wind their branches
+together at the top to form a high, broad canopy.  The mossy ground here is
+as thick and luxurious as any carpet in the hall of kings.  
+~
+0 9220 3
+D1
+~
+~
+0 0 20501
+D3
+~
+~
+0 0 6150
+M 250 H 250
+S
+#20501
+{YC{Ga{gnopi{Ge{Yd {YE{Gn{gtran{Gc{Ye{X~
+Overhead, the trees spread out into a leafy canopy, pierced by one thick
+oak tree.  Rows of birch trees with slim boles, virginal and pristine in
+their white beauty, reach out to one another over the heads of adventurers
+along this east-west path.  In the center of the path, the hard knotted oak
+tree beckons climbers.  
+~
+0 0 3
+D1
+~
+~
+0 0 20516
+D3
+~
+~
+0 0 20500
+D4
+~
+~
+0 0 20502
+S
+#20502
+{YG{yw{Yal{yl{Yo{yg'{Ys {gT{Ga{gve{Gr{gn{X: Main Room~
+Inside the hollowed-out oak tree, this tavern seems teeming with natural
+energy.  The walls are finely polished, knotholes providing plenty of light
+in moonlight or sunshine.  A well-stocked bar along one wall boasts a fine
+selection of {GSylvan{X wines, from the finest vintages of Willow-wine to
+extremely rare wines cultivated from the lichen discarded in the process of
+crafting Rowan wands.  
+~
+0 1024 0
+D0
+~
+~
+0 0 20505
+D1
+~
+~
+0 0 20504
+D3
+~
+~
+0 0 20503
+D4
+~
+~
+0 0 20506
+D5
+~
+~
+0 0 20501
+S
+#20503
+{YG{yw{Yal{yl{Yo{yg'{Ys {gT{Ga{gve{Gr{gn{X: Irwen's Sanctuary~
+White walls, draped with morning glory vines and softly creeping ivy, are
+entirely devoid of decoration in this chamber.  A highly polished floor is
+strewn with soft green and white cushions and blankets for the weary
+adventurer.  A slightly raised platform is visible, behind two curtains of
+soft white lace.  
+~
+0 9216 0
+D1
+~
+~
+0 0 20502
+M 1000 H 1000
+S
+#20504
+{YG{yw{Yal{yl{Yo{yg'{Ys {gT{Ga{gve{Gr{gn{X: Aeronwy's Bedroom~
+The furniture in this room is simple and elegant, from the hand woven rug
+of red and yellow on the floor to the polished brass candelabra on the oak
+dresser.  Feminine artifacts of all sorts are noticeably lacking in this
+room.  A collection of swords on the far wall looks quite out of place in
+what should be a young girl's bedroom.  
+~
+0 0 0
+D3
+~
+~
+0 0 20502
+S
+#20505
+{YG{yw{Yal{yl{Yo{yg'{Ys {gT{Ga{gve{Gr{gn{X: Storyteller's Chamber and Gaming Room~
+This room was designed with comfort in mind.  Benches and couches are
+conveniently placed near tables for beverages.  Tables in the center of the
+room invite card playing and other games.  A fire in a stone fireplace is
+set into the wall, warming the room with a cheerful air.  
+~
+0 0 0
+D2
+~
+~
+0 0 20502
+S
+#20506
+{XFane of {WA{Cd{ci{Ca{Wn{X~
+Silence - pure, simple, peaceful silence.  The Fane of {WA{Cd{ci{Ca{Wn{X
+is a wide open space - within the Sacred Tree.  Runic writing on the walls
+describes the life cycle of the dryad, delicately painted carvings in
+natural tones.  A small depression in the center of the room holds a crystal
+blue pond, clearer than any mirror.  It is rumored that one can see one's
+reflection deep in the glass - the reflection of the soul.  
+~
+0 8192 0
+D4
+~
+~
+0 0 20507
+D5
+~
+~
+0 0 20502
+S
+#20507
+{XFane of {WA{Cd{ci{Ca{Wn{X: Great Hall~
+Columns crafted from the trunks of several trees line each side of this
+room, flanked by benches covered in luxurious white and silver satin.  Each
+column depicts a scene of daily life - cooking, hunting, music and merriment
+among them.  A raised dais holds a small figurine crafted of clay and willow
+switches.  
+~
+0 0 0
+E
+figure~
+A voluptous figure of a dryad.  The lips of the figurine are full
+and parted slightly, smiling in a warm and enticing manner.  The
+breasts and hips are full and round, the hair a firey cloud engulfing
+the pure, untouched flesh.  The Virgin Goddess in all her glory, she
+embodies the purity and grace of the Sylvan race.
+~
+D1
+~
+~
+0 0 20508
+D5
+~
+~
+0 0 20506
+S
+#20508
+{XFane of {WA{Cd{ci{Ca{Wn{X: Hallway~
+The hallway is carpeted with moss.  Hollows on each side seem perfect for
+holding armored sentries.  
+~
+0 0 0
+D1
+~
+~
+0 0 20509
+D3
+~
+~
+0 0 20507
+S
+#20509
+{XFane of {WA{Cd{ci{Ca{Wn{X: Indoor Topiary~
+Cobblestone pathways weave this room in a hexagon.  Six creations; an
+elven maiden wielding a bow, a wild stallion rearing, a large phoenix with
+outstretched wings, a pixie riding the back of a snow-owl, a mischievous
+troll in mid-prank, and a raccoon playing in the branches of a tree are
+featured around the pathways.  Flowers and small bushes of all types are
+planted strategically.  The air is heady with moisture.  
+~
+0 0 0
+D0
+~
+~
+0 0 20511
+D1
+~
+~
+0 0 20512
+D2
+~
+~
+0 0 20510
+D3
+~
+~
+0 0 20508
+D4
+~
+~
+0 0 20513
+S
+#20510
+{XFane of {WA{Cd{ci{Ca{Wn{X: Chamber of the High Priestess~
+This room is lined with ivy, featuring a bed shaped like a lilypad.  The
+wide window opens to a view of Fawrcoed, a lush green Sylvan paradise.  A
+silver wardrobe with elvish writing is half-obscured by the ivy.  
+~
+0 0 0
+D0
+~
+~
+0 0 20509
+S
+#20511
+{XFane of {WA{Cd{ci{Ca{Wn{X: Chamber of the High Priest~
+The floor of this room is covered in soft cool sand.  From the sand,
+creeping morning glories weave over trellises in the walls.  A simple wooden
+bed and dresser are the only furniture to be seen.  
+~
+0 0 0
+D2
+~
+~
+0 0 20509
+S
+#20512
+{XFane of {WA{Cd{ci{Ca{Wn{X: {YPenitence{X~
+This room is stark and bare.  The floor is cold - no pains taken to sand
+it smooth.  Splinters of wood at odd angles look dangerous.  Shackles are
+attached to the walls in pairs.  A dirty smell, that of the guilty, vile
+penitents, wafts up from grates in the floor.  
+~
+0 8192 0
+D3
+~
+~
+0 0 20509
+S
+#20513
+{XFane of {WA{Cd{ci{Ca{Wn{X: Upper Branches~
+A wide open terrace at the top of the tree, this place overlooks all
+Fawrcoed and the surrounding lands.  Each direction shows a vast landscape
+of greenery.  A soft mist seems to hang in the air here.  A spiral
+staircase, carved in marble, leads to a platform visible above.  
+~
+0 0 0
+D4
+~
+~
+0 0 20514
+D5
+~
+~
+0 0 20509
+S
+#20514
+{XFane of {WA{Cd{ci{Ca{Wn{X: Observatory~
+This platform provides a viewing of Fawrcoed.  Telescopes focus on both
+sky and land.  In one of the telescopes, the villagers can be seen at close
+range.  This observatory is used by the Priests and Priestesses to keep
+watch over the Sylvan population.  
+~
+0 0 0
+D1
+~
+~
+0 0 20515
+D5
+~
+~
+0 0 20513
+S
+#20515
+{XFane of {WA{Cd{ci{Ca{Wn{X: High Council Chamber~
+The center of this room is occupied by a large circular table, flanked by
+twelve chairs.  Upon the far east wall, a large map of the surrounding lands
+hangs, pinpointed with sticks of willow and oak.  The floor and ceiling are
+painted to resemble the astral plane.  
+~
+0 8192 0
+D3
+~
+~
+0 0 20514
+S
+#20516
+{gY{Gstwyt{gh L{Gan{ge{X  ~
+This cobblestone street winds its way through the forest here, among
+shops carved into the trunks of trees and pushcarts being tended by
+beautiful Sylvan maidens.  
+~
+0 0 3
+D1
+~
+~
+0 0 20517
+D3
+~
+~
+0 0 20501
+S
+#20517
+{gY{Gstwyt{gh L{Gan{ge{X  ~
+Overhead, the trees part to allow the sky to shine through over this busy
+section of Ystwyth Lane.  
+~
+0 0 3
+D1
+~
+~
+0 0 20518
+D3
+~
+~
+0 0 20516
+D5
+~
+~
+0 0 20537
+S
+#20518
+{gY{Gstwyt{gh L{Gan{ge{X  ~
+The well-worn cobblestone street is surrounded by irrigation ditches on
+either side - pure water flows through the vitality of Fawrcoed's business
+district.  
+~
+0 0 3
+D1
+~
+~
+0 0 20519
+D2
+~
+~
+0 0 20528
+D3
+~
+~
+0 0 20517
+S
+#20519
+{gY{Gstwyt{gh L{Gan{ge{X  ~
+Nearing the center of town, the businesses grow taller and more grand
+here.  High up in the trees, birds call through all hours of the day and
+night.  
+~
+0 0 3
+D1
+~
+~
+0 0 20520
+D2
+~
+~
+0 0 20535
+D3
+~
+~
+0 0 20518
+S
+#20520
+{XThe intersection of {gY{Gstwyt{gh L{Gan{ge{X and {CU{Yc{Wh{Ya{Cf S{Yt{Wre{Ye{Ct{X ~
+The center of this busy Sylvan village is actually a spacious garden. 
+The two main roads intersect here in a circle, with a garden sanctuary in
+the center, surrounding a pristine pool of water.  
+~
+0 0 3
+D0
+~
+~
+0 0 20524
+D1
+~
+~
+0 0 20521
+D2
+~
+~
+0 0 20526
+D3
+~
+~
+0 0 20519
+S
+#20521
+{gY{Gstwyt{gh L{Gan{ge{X  ~
+The cobblestone turns into a small wooden bridge that crosses the small
+river that runs through this Sylvan dell.  The gurgling from the river as it
+races over the stones can be heard throughout the town.  
+~
+0 0 3
+D1
+~
+~
+0 0 20522
+D3
+~
+~
+0 0 20520
+S
+#20522
+{gY{Gstwyt{gh L{Gan{ge{X  ~
+The cobblestone at this end of the lane is overrun with weeds and ivy. 
+Though unkempt, it has a wild charm, with various wildflowers scattered
+among the weeds.  
+~
+0 0 3
+D1
+~
+~
+0 0 20523
+D3
+~
+~
+0 0 20521
+S
+#20523
+{cM{gae{clg{gwyn'{cs C{gottag{ce{X~
+This simple cottage is covered in layers of dust, yet looks lived in, as
+though the inhabitants never clean.  A washbasin filled with dishes is next
+to a small kitchen table with three chairs.  A fire crackles in the
+fireplace, and some enticing soup cooks in a pot near the flames.  An unused
+broom rests in the far corner, near two comfortable-looking beds.  
+~
+0 0 0
+D3
+~
+~
+0 0 20522
+S
+#20524
+{CU{Yc{Wh{Ya{Cf S{Yt{Wre{Ye{Ct{X~
+Wheel tracks can be seen alongside the cobblestone roadway here,
+indicating the presence of horse-drawn carriages of some sort.  Blackberry
+brambles in a patch alongside the road and blueberries and strawberries
+growing on the ground nearby invite picking.  
+~
+0 0 3
+D0
+~
+~
+0 0 20525
+D1
+~
+~
+0 0 20529
+D2
+~
+~
+0 0 20520
+S
+#20525
+{CU{Yc{Wh{Ya{Cf S{Yt{Wre{Ye{Ct{X ~
+The forest thickens to the north - dense underbrush preventing easy
+passage.  The cobblestone ends abruptly, with two benches for resting at the
+very end of the road.  
+~
+0 0 3
+D2
+~
+~
+0 0 20524
+D3
+~
+~
+0 0 20538
+S
+#20526
+{CU{Yc{Wh{Ya{Cf S{Yt{Wre{Ye{Ct{X ~
+Shops are formed in the branches of the trees above.  Ladders of vines
+and willow branches allow passage to the upper limbs by the Sylvan
+population, but seem to light for the average adventurer.  
+~
+0 0 3
+D0
+~
+~
+0 0 20520
+D1
+~
+~
+0 0 20534
+D2
+~
+~
+0 0 20527
+S
+#20527
+{CU{Yc{Wh{Ya{Cf S{Yt{Wre{Ye{Ct{X ~
+The nobility among the Sylvans live at this end of Uchaf Street.  Large
+trellised homes crafted of tanglevines and planks of ash trees can be seen
+in the distance.  The river, nearby to the east, ends in a waterfall-fed
+pool nearby.  The rushing sound of the rapids is all around.  
+~
+0 0 3
+D0
+~
+~
+0 0 20526
+D2
+~
+~
+0 0 20536
+D3
+~
+~
+0 0 20530
+S
+#20528
+Elystan's Implements of Aggression  ~
+A luxurious store, this place would do better as a House of Fashion than
+a weaponsmasters shop.  Near the entrance, three couches made of soft
+deerhide are decorated with sumptuous cushions.  A thickly padded carpet on
+the floor is warm and inviting.  Flowerpots in the windowsills look too
+cheerful.  Despite the frilly appearance, the weapons located behind the
+glass counter look like they mean business.  
+~
+0 8 0
+D0
+~
+~
+0 0 20518
+S
+#20529
+Forested Armament ~
+The walls of this shop are painted pale green.  Curtains made of ivy and
+carpeting of moss are quite in keeping with the theme.  There are no chairs
+for shoppers, only stones and boulders, strategically placed to resemble
+tables and chairs.  A stone counter along the back wall holds bits and
+pieces of armor.  
+~
+0 0 0
+D3
+~
+~
+0 0 20524
+S
+#20530
+{GB{Cranwen {gA{ccademy{X: Entrance~
+By the entrance, the wall is hung with hooks.  A statue of a Sylvan
+maiden holding a pen in one hand and a sword in the other bears the
+inscription: Which do you fear more?  The halls of learning of Fawrcoed are
+open to all.  
+~
+0 0 0
+D1
+~
+~
+0 0 20527
+D3
+~
+~
+0 0 20531
+S
+#20531
+{GB{Cranwen {gA{ccademy{X: Hall of Scholars ~
+This room is a simple classroom.  Rows of wooden desks with soft chairs
+sit, with knifemarks and inkwells on each desk.  Parchment piles in the
+front of the room sit on a main desk.  
+~
+0 0 0
+D1
+~
+~
+0 0 20530
+D2
+~
+~
+0 0 20532
+S
+#20532
+{GB{Cranwen {gA{ccademy{X: Chamber of Magic ~
+The walls of this room are singed in some areas, shining in others.  Jars
+on a high shelf are filled with mysterious substances.  A cauldron in the
+center of the room simmers with a foul-smelling ooze: could be soup, could
+be deadly.  
+~
+0 0 0
+D0
+~
+~
+0 0 20531
+D3
+~
+~
+0 0 20533
+S
+#20533
+{GB{Cranwen {gA{ccademy{X: Training Room ~
+A room with four bare walls and a thin carpeting on the floor, this room
+looks perfect for training physical attributes.  
+~
+0 8 0
+D1
+~
+~
+0 0 20532
+S
+#20534
+House of Dyfri ~
+The air in this room is heady with steam.  Built over a hotspring, with
+towelracks everywhere, soothing hot baths are found sunken in the floor. 
+Hothouse flowers grow on vines, partially obscuring the windows, keeping the
+lighting dim and intimate.  
+~
+0 0 0
+D3
+~
+~
+0 0 20526
+S
+#20535
+Hideout of the Wrach  ~
+A mysteriously empty building with a lone table in the center.  Upon the
+table a crystal ball alights.  Inside the crystal ball, a list of items can
+be seen.  
+~
+0 0 0
+D0
+~
+~
+0 0 20519
+S
+#20536
+Ceinwen's Cafe~
+A cheerful building with lace curtains and bright sunny wallpaper, this
+cafe serves the population of Fawrcoed.  The menu is covered with a
+tastefully appointed sign: Gone Fishing.  
+~
+0 8 0
+D0
+~
+~
+0 0 20527
+S
+#20537
+The Apothecary of Idris Gawr  ~
+A ladder along one wall is the only way in or out of Gawr's Apothecary. 
+The room is round and branches off like the trunks of a tree.  The branches
+hold roots and leaves used to make potions.  Over a small fire, six
+different pots are simmering.  The smell of sulfur and rose-hips permeates
+the air.  
+~
+0 0 0
+D4
+~
+~
+0 0 20517
+S
+#20538
+Broken Hovel~
+This home smells and looks as if it has not been used in ages.  The
+furniture, what little there is, is broken and molded.  Moss covers the
+water basin, the bed is covered in spiderwebs.  A family of squirrels has
+nested in what was once a cradle.  
+~
+0 0 0
+D1
+~
+~
+0 0 20525
+S
+#0
+
+
+
+#SPECIALS
+M 20517 spec_cast_mage
+M 20523 spec_cast_cleric
+M 20524 spec_cast_mage
+M 20525 spec_cast_cleric
+S
+
+
+
+#RESETS
+M 0 20526 4 20501 2
+M 0 20503 4 20501 2
+M 0 20505 4 20501 2
+M 0 20507 5 20502 2
+M 0 20500 1 20502 1
+M 0 20501 1 20503 1
+M 0 20525 1 20504 1
+M 0 20502 4 20506 1
+M 0 20502 4 20507 1
+M 0 20502 4 20508 2
+M 0 20502 4 20508 2
+M 0 20522 4 20509 2
+M 0 20522 4 20509 2
+M 0 20523 1 20510 1
+M 0 20524 1 20511 1
+M 0 20522 4 20513 2
+M 0 20522 4 20514 2
+M 0 20503 4 20516 2
+M 0 20527 4 20517 2
+M 0 20507 5 20517 2
+M 0 20507 5 20517 2
+M 0 20513 3 20518 2
+M 0 20504 4 20518 2
+M 0 20513 3 20519 2
+M 0 20506 2 20519 2
+M 0 20506 2 20519 2
+M 0 20526 4 20520 2
+M 0 20507 5 20520 2
+M 0 20505 4 20520 2
+M 0 20527 4 20521 2
+M 0 20526 4 20521 2
+M 0 20515 4 20521 2
+M 0 20504 4 20521 2
+M 0 20513 3 20522 2
+M 0 20505 4 20522 2
+M 0 20509 4 20523 1
+M 0 20510 4 20523 1
+M 0 20511 4 20523 1
+M 0 20512 4 20523 1
+M 0 20515 4 20524 2
+M 0 20504 4 20524 2
+M 0 20515 4 20525 2
+M 0 20507 5 20525 2
+M 0 20503 4 20525 2
+M 0 20527 4 20526 2
+M 0 20507 5 20526 2
+M 0 20503 4 20526 2
+M 0 20527 4 20527 2
+M 0 20526 4 20527 2
+M 0 20515 4 20527 2
+M 0 20526 4 20528 2
+M 0 20520 1 20528 1
+M 0 20508 1 20529 1
+M 0 20516 3 20531 3
+M 0 20516 3 20531 3
+M 0 20516 3 20531 3
+M 0 20517 1 20532 1
+M 0 20518 1 20533 1
+M 0 20514 3 20534 3
+M 0 20514 3 20534 3
+M 0 20514 3 20534 3
+M 0 20504 4 20535 2
+M 0 20519 1 20535 1
+M 0 20505 4 20536 2
+M 0 20521 1 20537 1
+S
+
+
+
+#SHOPS
+20500 19 17 0 0 0 100 50 0 23
+20508 0 0 0 0 0 100 50 0 23
+20519 0 0 0 0 0 100 50 0 23
+20520 0 0 0 0 0 100 50 0 23
+20521 0 10 0 0 0 100 50 0 23
+0
+
+
+
+#$
