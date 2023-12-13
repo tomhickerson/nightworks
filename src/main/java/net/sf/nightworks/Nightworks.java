@@ -1153,6 +1153,9 @@ public final class Nightworks {
     static final long AFF_DETECT_LIFE = BIT_52;
     static final long AFF_DARK_VISION = BIT_53;
     static final long AFF_ACUTE_VISION = BIT_54;
+    // using for two new sectors, underwater and climbing surface
+    static final long AFF_BREATHE_WATER = BIT_55;
+    static final long AFF_CLIMBING = BIT_56;
 
     /*
     * *AFF* bits for rooms
@@ -1594,7 +1597,7 @@ public final class Nightworks {
     static final int SECT_MAX = 11;
 
     /*
-    * Equpiment wear locations.
+    * Equipment wear locations.
     * Used in #RESETS.
     */
     static final int OWEAR_NONE = -1;
