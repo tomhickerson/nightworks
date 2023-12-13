@@ -5238,12 +5238,12 @@ ch.quest=    SET_BIT(ch.quest,QUEST_EYE);
         af.modifier = 0;
 
         if (ch.in_room.sector_type == SECT_FOREST) {
-            send_to_char("You starts to be seen a nearby tree!\n", ch);
-            act("$n starts to be seen a nearby tree!", ch, null, null, TO_ROOM);
+            send_to_char("You start to be seen as a nearby tree!\n", ch);
+            act("$n start to be seen as a nearby tree!", ch, null, null, TO_ROOM);
             af.bitvector = AFF_FORM_TREE;
         } else {
-            send_to_char("You starts to be seen some grass!\n", ch);
-            act("$n starts to be seen some grass!", ch, null, null, TO_ROOM);
+            send_to_char("You start to be seen as some grass!\n", ch);
+            act("$n start to be seen as some grass!", ch, null, null, TO_ROOM);
             af.bitvector = AFF_FORM_GRASS;
         }
         affect_to_char(ch, af);
