@@ -21,13 +21,13 @@ lips.  Donara is a graceful and demure elven woman, full of stately pride
 and regal bearing.  She is wrapped in an elegant sleeveless gown of
 moonstruck blue that hangs loose from her lithe frame.  
 ~
-unique~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+elf~
+ABG 0 0 8500
+35 0 6d12+928 6d12+928 4d6+9 crush
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand female 2800
+A ABCDEFGHIJK medium 0
 #8501
 Araneid wizard~
 Araneid the wizard~
@@ -43,13 +43,13 @@ living.  His wraith-thin arms yet move with a certain mystical elegance; as
 he slowly trods about they sway in time to an archaic chant that seeps from
 his thin lips.  
 ~
-unique~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+elf~
+ABG 0 0 8500
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand male 3400
+A ABCDEFGHIJK medium 0
 #8502
 Korelleus wizard~
 Korelleus, the grey-elf wizard~
@@ -62,13 +62,13 @@ have twisted his frame and tainted his soul beyond recognition.  Yet to this
 elf, no price is too great to pay for power.  For his sacrifice, Korelleus
 holds a high place within the Aku'rhaie.  
 ~
-unique~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+elf~
+ABG 0 -750 8500
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand male 3400
+A ABCDEFGHIJK large 0
 #8503
 Rael wizard~
 grey elf wizard~
@@ -80,13 +80,13 @@ always distant, and others whisper that she gazes into distant realms
 unimagined and unknown to mortal beings.  Rael is a student of Rejuvination
 Magicks, having the ability to bring back that which has ceased to be.  
 ~
-unique~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+elf~
+ABGQa 0 0 8500
+35 0 6d12+928 6d12+928 4d6+9 crush
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand female 2800
+A ABCDEFGHIJK medium 0
 #8504
 form victim~
 human citizen~
