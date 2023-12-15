@@ -6,6 +6,18 @@ Ofcol~
 #MOBILES
 #0
 #OBJECTS
+#5500
+blue crystal cube~
+a blue crystal cube~
+A blue crystal cube is lying here on the ground.~
+crystal~
+treasure 0 A
+0 0 0 0 0
+5 15 250 P
+E 
+crystal~
+You see a crystal cube the size of a fist, pulsing a faint blue from some kind of magical 
+source within.~
 #0
 
 #ROOMS
