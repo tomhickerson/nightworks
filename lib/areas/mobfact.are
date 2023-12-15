@@ -123,10 +123,10 @@ lab, as if looking for something.
 ~
 human~
 ABG DFH 2 0
-12 0 2d10+130 6d9+100 1d10+3 none
+12 0 2d10+130 6d9+100 1d10+3 stab
 0 0 0 8
 EFNU 0 0 0
-stand stand female 50
+stand stand female 120
 0 0 medium 0
 #9409
 oldstyle doctor frank furter~
@@ -139,7 +139,7 @@ antici..............pation!
 ~
 human~
 ABG DFH 2 0
-15 1 2d10+150 6d9+100 1d10+3 none
+15 1 2d10+150 6d9+100 1d10+3 scratch
 0 0 0 8
 EFNU 0 0 0
 stand stand male 50
@@ -241,6 +241,43 @@ iron golem head~
 An iron golem head is on the ground here, and while it is unmovable, 
 you can see some openings in the back of it for several memory tubes.
 ~
+#9409
+red memory crystal rod~
+a red memory crystal rod~
+A small red crystal rod is lying here on the ground.~
+crystal~
+treasure 0 A 
+0 0 0 0 0
+5 5 250 P 
+E
+crystal~
+You see a small round crystal rod, pulsing red with some kind of knowledge hidden
+within.
+~
+#9410
+blue memory crystal rod~
+a blue memory crystal rod~
+A small blue crystal rod is lying here on the ground.~
+crystal~
+treasure 0 A
+0 0 0 0 0
+5 5 250 P
+E 
+crystal~
+You see a small round crystal rod, pulsing a faint blue from some kind of magical 
+source within.~
+#9411
+yellow memory crystal rod~
+a yellow memory crystal rod~
+A small yellow crystal rod is lying here on the ground.~
+crystal~
+treasure 0 A
+0 0 0 0 0
+5 5 250 P 
+E
+crystal~ 
+You see a small round crystal rod, pulsing a faint yellow from a magical force 
+held within.~
 #0
 
 #ROOMS
