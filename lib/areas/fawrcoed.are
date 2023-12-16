@@ -5,7 +5,7 @@ Fawrcoed~
 20500 20599
 
 #RESETMESSAGE
-A soft breeze wafts through the city, rustling the leaves on the trees...~
+A soft breeze wafts through here, rustling the leaves on the trees...~
 
 
 #MOBILES
@@ -21,12 +21,12 @@ match his mischevious eyes.  With his infectious sense of humor and his
 flirtatious spirit, it is no wonder Gwallog has found a home among the
 Sylvan elves.  
 ~
-unique~
+elf~
 AG H 1000 0
-275 25 25d10+10 25d10+10 25d10+10 none
-0 0 0 0
-0 AB B Z
-sit sit male 100000
+35 0 6d12+928 6d12+928 4d6+9 crush
+-10 -11 -11 -11
+EFINR B 0 0
+sit sit male 2000
 AGMV ABCDEFGHIJK medium unknown
 #20501
 irwen sylvan elf healer quiet~
@@ -40,10 +40,10 @@ distant point.  Irwen's chidlish lips are parted in a dreamy smile.
 ~
 unique~
 Aa HTV 1000 0
-150 1000 50d50+500 50d50+500 50d50+500 none
-0 0 0 0
-0 AB B Z
-sit sit female 0
+35 0 6d12+928 6d12+928 4d6+9 crush
+-10 -11 -11 -11
+EFINR B 0 0
+sit sit female 300
 AHMV ABCDEFGHIJK medium unknown
 #20502
 sentry elf sylvan~
@@ -55,8 +55,8 @@ attention, serving her purpose as sentry to the Fane.
 ~
 unique~
 ABNT HLVc 500 0
-215 0 0d0+0 0d0+0 0d0+0 thrust
-0 0 0 0
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
 CEFJKRVX AB BQ Z
 stand stand female 5151
 AHMV ABCDEFGHIJK medium unknown
@@ -70,8 +70,8 @@ sylvan child seems happy and satisfied with her world.
 ~
 unique~
 AGH V 750 0
-200 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+45 0 6d12+928 6d12+928 4d6+9 crush
+-10 -11 -11 -11
 FHV B F Z
 stand stand female 0
 AHMV ABCDEFGHIJK medium unknown
@@ -85,8 +85,8 @@ quite out of place in the Sylvan village.
 ~
 unique~
 AGT Vc 250 0
-210 0 0d0+0 0d0+0 0d0+0 slash
-0 0 0 0
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
 CFINQW AB C Z
 stand stand male 6055
 AHMV ABCDEFGHIJK medium unknown
@@ -99,8 +99,8 @@ Fuzzy, furry and cute, this squirrel is collecting nuts here.
 ~
 unique~
 AGU c 0 0
-235 0 0d0+0 0d0+0 0d0+0 bite
-0 0 0 0
+45 0 6d12+928 6d12+928 4d6+9 bite
+-10 -11 -11 -11
 FHVW AB F 0
 stand stand male 0
 AGV ACDEFHJK medium unknown
@@ -114,8 +114,8 @@ this farmer is looking quite determined as he hunts his herd of squirrels.
 ~
 unique~
 AG c 0 0
-240 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+45 0 6d12+928 6d12+928 4d6+9 bite
+-10 -11 -11 -11
 CFJNVX AB L Z
 stand stand male 7000
 AHMV ABCDEFGHIJK medium unknown
@@ -127,10 +127,10 @@ A crotchety old woman hobbles about here.
 A human from a visiting town, this old woman hobbles about on her cane. 
 She does not look pleased to be here.  Her back is bent with labor.  
 ~
-unique~
+human~
 AG 0 -250 0
-205 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
 IJN AB I Q
 stand stand none 750
 AHMV ABCDEFGHIJK medium unknown
@@ -146,10 +146,10 @@ grace of movement.
 ~
 unique~
 AB 0 1000 0
-309 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
 0 0 CDF 0
-stand stand female 100000
+stand stand female 400
 AHMV ABCDEFGHIJK medium unknown
 #20509
 maelgwyn old mother elf~
@@ -162,8 +162,8 @@ Poor old girl!
 ~
 unique~
 AB Hc 1000 0
-240 0 0d0+0 0d0+0 0d0+0 slap
-0 0 0 0
+55 0 6d12+928 6d12+928 4d6+9 slap
+-10 -11 -11 -11
 CFHNOR AB CP NZ
 stand stand female 9500
 AHMV ABCDEFGHIJK medium unknown
@@ -176,8 +176,8 @@ A beautiful baby, with a wide open screaming mouth.
 ~
 unique~
 AB Hd 750 0
-220 0 0d0+0 0d0+0 0d0+0 slap
-0 0 0 0
+15 0 6d12+928 6d12+928 4d6+9 slap
+-10 -11 -11 -11
 INR AB 0 DQ
 stand stand female 0
 AHMV ABCDEFGHIJK medium unknown
@@ -191,8 +191,8 @@ gangly, long arms, long legs, skinny.
 ~
 unique~
 AB Vc 750 0
-225 0 0d0+0 0d0+0 0d0+0 punch
-0 0 0 0
+20 0 6d12+928 6d12+928 4d6+9 punch
+-10 -11 -11 -11
 FHIJN AB C DZ
 stand stand female 0
 AHMV ABCDEFGHIJK medium unknown
@@ -206,8 +206,8 @@ finds delight in everything.
 ~
 unique~
 AB Vc 1000 0
-230 0 0d0+0 0d0+0 0d0+0 slap
-0 0 0 0
+22 0 6d12+928 6d12+928 4d6+9 slap
+-10 -11 -11 -11
 FIKN AB CQ GLZ
 stand stand female 1000
 AHMV ABCDEFGHIJK medium unknown
@@ -222,8 +222,8 @@ chestnut curls, this maiden is entirely too enticing.
 ~
 unique~
 AG V 850 0
-220 0 0d0+0 0d0+0 0d0+0 slap
-0 0 0 0
+45 0 6d12+928 6d12+928 4d6+9 slap
+-10 -11 -11 -11
 FHIJNUW AB CG FZ
 stand stand female 7500
 AHMV ABCDEFGHIJK medium unknown
@@ -238,8 +238,8 @@ of freckles across her nose adds to her aura of innocence and beauty.
 ~
 unique~
 AB V 250 0
-222 0 0d0+0 0d0+0 0d0+0 thrust
-0 0 0 0
+45 0 6d12+928 6d12+928 4d6+9 thrust
+-10 -11 -11 -11
 CFHJNU AB 0 Z
 stand stand female 8000
 AHMV ABCDEFGHIJK medium unknown
@@ -253,8 +253,8 @@ example of the innate bond Sylvans have with animals.
 ~
 unique~
 AGU Vc 150 0
-215 0 0d0+0 0d0+0 0d0+0 charge
-0 0 0 0
+45 0 6d12+928 6d12+928 4d6+9 charge
+-10 -11 -11 -11
 DEFHIO AB EI H
 stand stand male 0
 AGV ABCDEFHJKQUV medium unknown
@@ -268,8 +268,8 @@ attention to anything around her.
 ~
 unique~
 AB V 0 0
-219 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+23 0 6d12+928 6d12+928 4d6+9 punch
+-10 -11 -11 -11
 CFJNUVW AB 0 Z
 sit sit female 2000
 AHMV ABCDEFGHIJK medium unknown
@@ -283,8 +283,8 @@ of this magic student.  A doll she is not.
 ~
 unique~
 ABR HTVc 333 0
-235 0 0d0+0 0d0+0 0d0+0 punch
-0 0 0 0
+40 0 6d12+928 6d12+928 4d6+9 punch
+-10 -11 -11 -11
 CFHIJKN AB C FZ
 stand stand female 9200
 AHMV ABCDEFGHIJK medium unknown
@@ -298,8 +298,8 @@ this highly experienced woman looks both haughty and fearsome.
 ~
 unique~
 AB H 1000 0
-245 0 0d0+0 0d0+0 0d0+0 wrath
-0 0 0 0
+55 0 6d12+928 6d12+928 4d6+9 crush
+-15 -15 -15 -16
 EFINOVX AB DHQ KZ
 stand stand female 10000
 AHMV ABCDEFGHIJK medium unknown
@@ -311,13 +311,13 @@ Two bright eyes peer from the shadows.
 A silent, shadowed elf.  The eyes are the only visible attribute, and
 they give no clue to the face or the identity of the wrach.  
 ~
-unique~
-AB 0 0 0
-309 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
-0 0 B Z
-stand stand male 100000
-AHMV ABCDEFGHIJK medium unknown
+elf~
+ABG 0 -750 0
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand male 3400
+A ABCDEFGHIJK medium 0
 #20520
 Elystan high elf ~
 Elystan~
@@ -328,12 +328,12 @@ cravat of red satin and a suit of fine cloth.  His wide smile and effeminate
 way of speaking have made him popular with the Sylvans.  
 ~
 unique~
-AB 0 0 0
-310 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
-0 0 B Z
-stand stand male 100000
-AHMV ABCDEFGHIJK medium unknown
+ABG 0 0 0
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand male 3400
+A ABCDEFGHIJK medium 0
 #20521
 Idris Gawr grey elf~
 Idris Gawr~
@@ -344,12 +344,12 @@ of his neck to prevent it from falling in his many potions.  His eyes are
 kindly, if a bit absent-minded in their foggy appearance.  
 ~
 unique~
-AB 0 0 0
-400 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
-0 0 B Z
-stand stand male 100000
-AHMV ABCDEFGHIJK medium unknown
+ABG 0 -750 8500
+65 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 Z
+stand stand male 6400
+A ABCDEFGHIJK medium 0
 #20522
 acolyte sylvan~
 a sylvan acolyte~
@@ -360,8 +360,8 @@ herself to the service of Adian.
 ~
 unique~
 AG Dc 0 0
-227 0 0d0+0 0d0+0 0d0+0 slash
-0 0 0 0
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
 CFIJV AB C EGZ
 stand stand female 200
 AHMV ABCDEFGHIJK medium unknown
@@ -377,8 +377,8 @@ amusement in the acolytes and elves of her village.
 ~
 unique~
 ABQ HVc 10000 0
-239 0 0d0+0 0d0+0 0d0+0 wrath
-0 0 0 0
+55 0 6d12+928 6d12+928 4d6+9 stab
+-15 -15 -15 -11
 FGHKV AB D CFZ
 stand stand female 10000
 AHMV ABCDEFGHIJK medium unknown
@@ -393,10 +393,10 @@ essence of the Sylvans.
 ~
 unique~
 ABR HVc 10000 0
-238 0 0d0+0 0d0+0 0d0+0 wrath
-0 0 0 0
+55 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
 EFKNVX AB C EHZ
-stand stand male 0
+stand stand male 1000
 AHMV ABCDEFGHIJK medium unknown
 #20525
 Aeronwy girl young~
@@ -409,10 +409,10 @@ eyes, which appear full of intelligence and mischief.
 ~
 unique~
 ABQ HVc 1000 0
-225 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
 EFHIJNV AB GHKNP HZ
-stand stand female 15000
+stand stand female 1500
 AHMV ABCDEFGHIJK medium unknown
 #20526
 falcon bird~
@@ -425,8 +425,8 @@ dinner.
 ~
 unique~
 AGUW TVc 0 0
-212 0 0d0+0 0d0+0 0d0+0 claw
-0 0 0 0
+45 0 6d12+928 6d12+928 4d6+9 claw
+-10 -11 -11 -11
 FHVW AB FH EG
 stand stand male 0
 AGW ACDEFHKP medium unknown
@@ -440,8 +440,8 @@ Perhaps if his wares were not stolen, he'd have better luck...
 ~
 unique~
 AG V -200 0
-208 0 0d0+0 0d0+0 0d0+0 punch
-0 0 0 0
+45 0 6d12+928 6d12+928 4d6+9 punch
+-10 -11 -11 -11
 CFHIN AB D CZ
 stand stand male 8000
 AHMV ABCDEFGHIJK medium unknown
