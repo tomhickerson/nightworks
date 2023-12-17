@@ -101,10 +101,10 @@ opens her mouth, ready to scream until a flood of insects belches out.  Her
 eyes reflect her soul-deep and unwavering fear.  
 ~
 unique~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
+AGH 0 0 0
+51 0 50d10+4500 50d10+4500 5d8+20 smash
+-21 -15 -15 -21
+C 0 0 0
 stand stand none 0
 A ABCDEFGHIJK large unknown
 #8505
@@ -119,9 +119,9 @@ floats without its mate.  The disturbing mass of skin slimes its way about,
 leaving a trail of vomitous digestion behind as it slithers slowly about.  
 ~
 unique~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
+AGH 0 0 0
+41 0 50d10+4500 50d10+4500 5d8+20 crush
+-1 -1 -1 -1
 0 0 0 0
 stand stand none 0
 A ABCDEFGHIJK large unknown
@@ -137,13 +137,13 @@ solutions with a dramatic flare that only one of his years could muster.  He
 is devoted to two things in life: his equal of many ages and the city
 itself.  
 ~
-unique~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+elf~
+ABG 0 0 8500
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand male 3400
+A ABCDEFGHIJK medium 0
 #8507
 Keyaira~
 grey elf diplomat~
@@ -156,13 +156,13 @@ accused before her associates.  Her favorite pastime is engaging in long
 philosophical discussions with her mate of many ages, in which both usually
 talk and listen for hours at a time.  
 ~
-unique~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+elf~
+ABG 0 0 8500
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand female 3400
+A ABCDEFGHIJK medium 0
 #8508
 Belisama~
 grey elf priest~
@@ -175,13 +175,13 @@ attuned to the magicks that dwell within the city.  She leads the citizens
 in arcane rituals of spiritualistic magicks that rejuvenate the people and
 glorify her soul.  
 ~
-unique~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+elf~
+ABG 0 0 8500
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand female 3400
+A ABCDEFGHIJK medium 0
 #8509
 Pactolus~
 grey elf cartographer~
@@ -194,13 +194,13 @@ Yet remarkably the elder elf's pots are always full and his child well fed,
 as if some spectral guardian kept watch over the pair, lending its aid when
 needed.  
 ~
-unique~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+elf~
+ABG 0 0 8500
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand male 3400
+A ABCDEFGHIJK medium 0
 #8510
 Anverin~
 grey elf banker~
@@ -212,13 +212,13 @@ chance to tell a long and boisterous tale of his youth.  When he was young,
 Anverin journeyed the world over, and was even bold enough to voyage into
 the bowels of despised Zzir.  
 ~
-unique~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+elf~
+ABG 0 0 8500
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand male 3400
+A ABCDEFGHIJK medium 0
 #8511
 Marsilius~
 grey elf scribe~
@@ -230,13 +230,13 @@ magical power to sell to those who patronize his humble shoppe.  Marsilius'
 hands often ache from the hours of holding the small quill and his nose is
 constantly a-drip from years of smelling the acrid ink.  
 ~
-unique~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+elf~
+ABG 0 0 8500
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand male 3400
+A ABCDEFGHIJK medium 0
 #8512
 Nepenthe~
 grey elf bulk merchant~
@@ -450,26 +450,6 @@ perhaps pilfering a thick coin from an unsuspecting bystander just to keep
 in practice.  Ganelon prefers to keep a low profile, dressing in common
 clothes even though he is certainly wealthy enough to afford all the best
 that life has to offer.  
-~
-unique~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
-#8524
-kitten~
-cat domestic animal~
-Kitten.
-~
-Lying upon the flooris a sickening display of cruelty and hideousness.  A
-small kitten with pleading eyes lets out soft mewls as you approach, her
-empty chest heaving slightly.  The poor creature is held together by magicks
-that keep her alive despite the fact that her intestines have burst through
-her stomach and her fur has fallen out in clumps, leaving patches of dry,
-flaking skin.  The kitten tries to crawl away to hide in the shadows,
-dragging her guts along and she claws at the floor.  
 ~
 unique~
 A 0 0 0
@@ -2297,8 +2277,7 @@ M 0 8507 1 8562 1
 M 0 8503 1 8577 1
 M 0 8504 1 8579 1
 M 0 8505 1 8581 1
-M 0 8502 1 8582 1
-M 0 8524 1 8582 1
+M 0 8502 1 8582 1 * removed the undead kitten
 M 0 8501 1 8585 1
 S
 

@@ -2445,9 +2445,10 @@ been for the size you could have sworn it was part of a spider web.
 S
 #6150
 The narrow trail.~
-This trail looks much spookier than any other thats you have seen.  The usual
-animal claw marks and bites on the trees are getting far and few between. The
-trail continues north.
+This trail looks darker and more foreboding than any other that you have seen.  
+The usual animal claw marks and bites on the trees are getting far and few 
+between. The main trail continues north and south, with a slight trail heading
+east into a circle of trees.
 ~
 0 AD 3
 D0
@@ -2455,6 +2456,11 @@ the narrow trail continues north.
 ~
 ~
 0 -1 6151
+D1 
+the trail branches off to a circle of trees.
+~
+~
+0 -1 20500
 D2
 the trail intersects the main forest path.
 ~
