@@ -1,0 +1,2615 @@
+#AREA
+dock.are~
+Calinth Docks~
+{ 5 35} Grehyton/Hilgamar Calinth Docks~
+4600 4699
+
+
+#MOBILES
+#4600
+madame~
+the madame~
+The madame stands here looking seductive.
+~
+The madame, the keeper of the girls in this
+brothel is wearing a red satin robe. Her eyes
+are covered in eyeliner and blue shadow.
+~
+human~
+ABG 0 0 0
+10 0 10d10+46 0d0+0 2d4+5 pound
+2 2 2 2
+JQ 0 0 0
+stand stand female 20
+ABHMV ABCDEFGHIJK medium unknown
+#4601
+vegetarian merchant~
+the vegetarian~
+The vegetarian merchant stands here smiling.
+~
+The merchant here is wearing loose fitting 
+hemp clothes. He tells you of the benefits
+of not eating so much meat.
+~
+elf~
+ABG 0 0 0
+5 3 10d5+30 0d0+0 3d6+7 pound
+2 3 2 1
+ER 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#4602
+dirty youth~
+the dirty youth~
+The dirty youth asks you for some change.
+~
+A filthy little kid, caught in the poor 
+tenament district due to economic burdens.
+~
+human~
+AG 0 0 0
+1 0 2d6+20 0d0+0 1d4+2 pound
+2 2 2 2
+F 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4603
+young girl~
+the young girl~
+The young girl is standing around suspiciously.
+~
+A young girl who might turn out to be quite
+beautiful, but these conditions are hard on
+young kids.
+~
+elf~
+AG 0 -460 0
+1 0 2d10+20 0d0+0 0d0+0 pound
+2 2 3 4
+J 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#4604
+sad orphan~
+the sad orphan~
+The sad orphan cries on the street.
+~
+This youth is looking pretty bad, he lost his
+parents and now lives on the street.
+~
+human~
+AG J 200 0
+1 0 2d10+46 0d0+0 1d3+5 pound
+1 1 1 1
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4605
+opium merchant~
+the opium merchant~
+The opium merchant stands here smiling.
+~
+The merchant here is wearing loose fitting
+red satin clothes. He has a shifty look in
+his eyes.
+~
+elf~
+ABG 0 0 0
+5 3 10d5+30 0d0+0 3d6+7 pound
+2 3 2 1
+ER 0 0 0
+stand stand male 460
+AHMV ABCDEFGHIJK medium unknown
+#4606
+coffee merchant~
+the coffee merchant~
+The coffee merchant stands here smiling.
+~
+The merchant here is wearing loose fitting
+blue weaved clothes. He has a wired look
+in  his eyes.
+~
+elf~
+ABG 0 0 0
+5 3 10d5+30 0d0+0 3d6+7 pound
+2 3 2 1
+ER 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium unknown
+#4607
+chips merchant~
+the chips merchant~
+The chips merchant stands here smiling.
+~
+The merchant here is wearing filthy and
+stinking clothes.
+~
+elf~
+ABG 0 0 0
+5 3 10d5+30 0d0+0 3d6+7 pound
+2 3 2 1
+ER 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4608
+paintings merchant~
+the art merchant~
+The paintings merchant stands here smiling.
+~
+The merchant here is in a frilly looking
+deco outfit.
+~
+elf~
+ABG 0 0 0
+5 3 10d5+30 0d0+0 3d6+7 pound
+2 3 2 1
+ER 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium unknown
+#4609
+leather merchant~
+the leather merchant~
+The leather merchant stands here smiling.
+~
+The merchant here is in a nicely tanned
+leather outfit.
+~
+elf~
+ABG 0 0 0
+5 3 10d5+30 0d0+0 3d6+7 pound
+2 3 2 1
+ER 0 0 0
+stand stand male 400
+AHMV ABCDEFGHIJK medium unknown
+#4610
+dime merchant~
+the dime merchant~
+The dime store merchant stands here smiling.
+~
+The merchant here is in a dirty looking shirt
+from the local free clothes center.
+~
+elf~
+ABG 0 0 0
+5 3 10d5+30 0d0+0 3d6+7 pound
+2 3 2 1
+ER 0 0 0
+stand stand male 400
+AHMV ABCDEFGHIJK medium unknown
+#4611
+boat merchant~
+the boat merchant~
+The boat merchant stands here smiling.
+~
+The merchant here is wearing no shirt
+and is quite sweaty from working.
+~
+elf~
+ABG 0 0 0
+5 3 10d5+30 0d0+0 3d6+7 pound
+2 3 2 1
+ER 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium unknown
+#4612
+dagger merchant~
+the dagger merchant~
+The dagger merchant stands here smiling.
+~
+The merchant here is wearing a long black
+cape and nice clothes.
+~
+elf~
+ABG 0 0 0
+5 3 10d5+30 0d0+0 3d6+7 pound
+2 3 2 1
+ER 0 0 0
+stand stand male 400
+AHMV ABCDEFGHIJK medium unknown
+#4613
+large rat~
+a large rat~
+A large rat scurries on the street.
+~
+Filthy and covered with disease.
+~
+dog~
+AG 0 0 0
+6 0 2d7+71 0d0+0 1d8+10 bite
+4 4 4 4
+H 0 0 0
+stand stand male 0
+AGHMV ABCDEFHJKUV medium unknown
+#4614
+medium rat~
+a medium sized rat.~
+A medium sized rat scurries around here.
+~
+The rat is filthy and disgusting.
+~
+bat~
+AG TZ 0 0
+3 0 2d6+35 0d0+0 1d8+0 bite
+2 2 2 2
+FH 0 0 S
+stand stand male 0
+AGHMV ABCDEFHJKP medium unknown
+#4615
+small rat~
+a small rat.~
+A small rat runs around here.
+~
+Filthy, dirty and quite vicious.
+~
+bat~
+AG TZ 0 0
+1 0 2d6+10 0d0+0 1d5+1 bite
+1 2 2 2
+FH 0 0 S
+stand stand male 0
+AGHMV ABCDEFHJKP medium unknown
+#4616
+meat merchant~
+the meat merchant~
+The dagger merchant stands here smiling.
+~
+The merchant here is wearing a white
+overcoat smeared with dirt and blood.
+~
+elf~
+ABG 0 0 0
+5 3 10d5+30 0d0+0 3d6+7 pound
+2 3 2 1
+ER 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4617
+pawn broker~
+the pawn broker~
+The pawn broker stands here smiling.
+~
+The pawn broker is here, eyeing your wares.
+~
+elf~
+ABG 0 0 0
+5 3 10d5+30 0d0+0 3d6+7 pound
+2 3 2 1
+ER 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4618
+sword dealer~
+the sword dealer~
+The sword dealer stands here grinning.
+~
+The sword dealer is a sharp and straight
+merchant.
+~
+elf~
+ABG 0 0 0
+5 3 10d5+30 0d0+0 3d6+7 pound
+2 3 2 1
+ER 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4619
+pets dealer~
+the pets dealer~
+The pets dealer stands here smuggly.
+~
+The pet store owner has lots of
+connections and can get all kinds of
+strange pets.
+~
+elf~
+ABG 0 0 0
+5 3 10d5+30 0d0+0 3d6+7 pound
+2 3 2 1
+ER 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4620
+beer bellied merchant~
+the beer bellied merchant~
+The beer bellied merchant stands here smuggly.
+~
+The merchant is fat and kinda gross looking,
+he obviously drinks too much.
+~
+elf~
+ABG 0 0 0
+5 3 10d5+30 0d0+0 3d6+7 pound
+2 3 2 1
+ER 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4621
+wine merchant~
+the wine merchant~
+The wine merchant eyes you suavely.
+~
+A slick character, used to the finer
+side of life.
+~
+elf~
+ABG 0 0 0
+5 3 10d5+30 0d0+0 3d6+7 pound
+2 3 2 1
+ER 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4622
+fish merchant~
+the fish merchant~
+The fish merchant chews on some sushi.
+~
+A foreign looking man who enjoys raw fish.
+~
+elf~
+ABG 0 0 0
+5 3 10d5+30 0d0+0 3d6+7 pound
+2 3 2 1
+ER 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4623
+clothing merchant~
+the clothing merchant~
+The clothing merchant checks your size.
+~
+A tubby looking character.
+~
+elf~
+ABG 0 0 0
+5 3 10d5+30 0d0+0 3d6+7 pound
+2 3 2 1
+ER 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4624
+armor merchant~
+the armor merchant~
+The armor merchant laughs at your armor.
+~
+A wise cracking freak who only deals in
+the best of armors.
+~
+elf~
+ABG 0 0 0
+5 3 10d5+30 0d0+0 3d6+7 pound
+2 3 2 1
+ER 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4625
+water merchant~
+the water merchant~
+The water merchant offers you a drink.
+~
+A man who knows he is one who has a product
+that must sell.
+~
+elf~
+ABG 0 0 0
+5 3 10d5+30 0d0+0 3d6+7 pound
+2 3 2 1
+ER 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#4600
+sword~
+a sword~
+A sword rests here.~
+~
+weapon 0 AN
+exotic 0 0 none 0
+0 5 0 P
+#4601
+opium ball tar~
+a ball of tar~
+A small ball of black tar is here.~
+balm~
+pill 0 A
+1 'calm' 'slow' '' ''
+0 1 110 P
+#4602
+red pill~
+a red pill~
+A small red pill sits on the ground.~
+balm~
+pill 0 A
+1 'frenzy' '' '' ''
+0 1 200 P
+#4603
+blue pill~
+a blue pill~
+A small blue pill rests here.~
+~
+pill 0 A
+1 'haste' '' '' ''
+0 1 210 P
+#4604
+white rock~
+a white rock~
+A small white rock sits here.~
+balm~
+pill 0 A
+1 'sanctuary' '' '' ''
+1 1 400 P
+#4605
+condom rubber black~
+a black condom~
+A black rubber condom sits here.~
+rubber~
+treasure K AO
+0 0 0 0 0
+0 1 85 P
+A
+4 2
+#4606
+garter belt~
+a set of garter belts~
+A set of frilly garter belts.~
+cloth~
+armor 0 AF
+AB AB AB A A
+0 1 131 P
+A
+14 10
+#4607
+seaweed salad~
+a seaweed salad~
+A green seaweed salad sits here in a bowl.~
+sponge~
+food 0 A
+AB A 0 0 0
+0 1 30 P
+#4608
+collard greens~
+a pile of collard greens~
+A pile of collard greens sits here.~
+bamboo~
+food 0 A
+AC B 0 0 0
+0 1 26 P
+#4609
+snake dagger~
+a snake dagger~
+A snake shaped dagger rests here.~
+bone~
+weapon KL AN
+dagger 2 4 pierce 0
+0 3 246 P
+#4610
+glass dagger~
+a glass dagger~
+A thin glass dagger sits here.~
+glass~
+weapon 0 AN
+dagger 3 6 pierce 0
+0 4 310 P
+#4611
+jewelled dagger~
+a jewelled dagger~
+A large jewelled dagger sits here.~
+brass~
+weapon J AN
+dagger 2 5 slash 0
+0 5 333 P
+#4612
+wooden sticker~
+a wooden sticker~
+A thin wooden sticker rests here.~
+bamboo~
+weapon 0 AN
+dagger 1 3 pierce 0
+0 2 110 P
+#4613
+black burnt dagger~
+a black burnt dagger~
+A black burnet dagger rests here.~
+bone~
+weapon 0 AN
+dagger 4 3 pierce 0
+0 7 446 P
+#4614
+floating barrel~
+a floating barrel~
+A floating barrel sits here.~
+coral~
+boat 0 A
+0 0 0 0 0
+0 25 80 P
+#4615
+huge cork~
+a huge cork~
+A huge piece of cork rests here.~
+cork~
+boat 0 A
+0 0 0 0 0
+0 13 46 P
+#4616
+rotting reed raft~
+a rotting reed raft~
+A rotting raft made from reeds sits here.~
+hemp~
+boat P A
+0 0 0 0 0
+0 17 23 P
+#4617
+small idol~
+a small idol~
+A small idol sits here smiling.~
+bamboo~
+treasure G AO
+0 0 0 0 0
+0 5 200 P
+F
+V 0 0 G
+F
+A 0 0 Z
+#4618
+horse shoe rusty~
+a horse shoe~
+A rusty looking horse shoe sits here.~
+brass~
+treasure 0 AO
+0 0 0 0 0
+0 3 210 P
+F
+V 0 0 L
+F
+A 0 0 N
+#4619
+ancient book~
+an ancient book~
+An ancient looking book sits here.~
+canvas~
+treasure 0 AO
+0 0 0 0 0
+0 10 2753 P
+F
+V 0 0 DLQZ
+A
+12 100
+E
+book~
+An ancient looking book made out of some sort
+of leather. On the cover is a star with an eye
+in the center of it.~
+#4620
+leather mask~
+a leather mask~
+A leather mask rests on the ground.~
+elastic~
+armor 0 AER
+B B B A AB
+1 5 100 P
+#4621
+comfortable boots~
+a pair of comfy boots~
+A pair of comfortable looking boots.~
+felt~
+armor 0 AG
+C C AB B AC
+0 7 214 P
+#4622
+espresso cup~
+a cup of espresso~
+A cup of espresso steams here.~
+glass~
+potion 0 AO
+1 'haste' '' '' ''
+0 1 100 P
+#4623
+cup joe~
+a cup of joe~
+A cup of joe rests here.~
+pottery~
+potion 0 AO
+1 'frenzy' '' '' ''
+0 1 321 P
+#4624
+green tea~
+a cup of green tea~
+A cup of delicious green tea sits here.~
+bone~
+fountain 0 AO
+1 1 'tea' 0 0
+0 1 85 P
+#4625
+puddle~
+a puddle~
+A puddle is here, the water looks refreshing.~
+water~
+fountain 0 0
+300 300 'water' 0 0
+0 800 0 P
+F
+A 0 0 M
+#4626
+large crate~
+a large crate~
+A large wooden crate rests here.~
+wood~
+container 0 AO
+200 0 0 10 100
+0 20 0 P
+#4627
+small crate~
+a small crate~
+A small crate rests here.~
+bamboo~
+container 0 AO
+20 0 0 4 100
+0 10 0 P
+#4628
+green weed~
+a green weed~
+A green weed grows here through the cobblestones.~
+bread~
+food 0 A
+D BC 0 0 0
+0 1 0 P
+#4629
+dead tree~
+a dead tree~
+A large dead tree stands here.~
+wood~
+furniture 0 N
+ABCD DFGHIJ FIL 0 0
+0 460 0 P
+#4630
+loose stone~
+a loose stone~
+A loose stone is rising out of the street.~
+granite~
+weapon 0 AN
+mace 1 4 crush 0
+0 10 0 P
+#4631
+wooden bench~
+a wooden bench~
+A long wooden bench is here.~
+bamboo~
+furniture 0 A
+AC DGH BEHKN 0 0
+0 300 0 P
+#4632
+metal stool~
+a metal stool~
+An old metal stool is here.~
+brass~
+furniture 0 A
+A CFG EH 0 0
+0 46 0 P
+#4633
+long bar~
+a long bar~
+A long serving bar is here.~
+wood~
+furniture 0 0
+CE DFGHIJ BEHKN 0 0
+0 400 0 P
+#0
+
+
+
+#ROOMS
+#4600
+{YWharf District{x~
+You are at the southern intersection that divides the main City
+of Calinth from the seedy wharf section of town.  The buildings
+are starting to look a bit more run down in this area and the
+people are shadowy and keeping to themselves. Large warehouses
+can be seen a bit further south, while a road is just south of
+here.
+~
+0 0 1
+E
+sign~
+This area written and designed by Grehyton of
+Infernal Realms MUD, and -*WURM*- A rom based
+code system.
+
+Respects and Inspirations go out to.
+CarrionFields MUD
+~
+D0
+You see the south gate.
+~
+~
+0 -1 20270
+D2
+You see Wharf Road.
+~
+~
+0 -1 4601
+S
+#4601
+{YWharf Road{x~
+You are standing on Wharf road. You can smell
+the salty air, and all around you rough looking
+types move about. To the east and west Wharf road
+continues and to the south lie the main docks.
+~
+0 0 1
+D0
+You see the entrance to the docks.
+~
+~
+0 -1 4600
+D1
+You see Wharf road.
+~
+~
+0 -1 4602
+D2
+You see the main docks.
+~
+~
+0 -1 4644
+D3
+You see Wharf road.
+~
+~
+0 -1 4609
+S
+#4602
+{YWharf Road{x~
+You are standing on Wharf road. To the south over
+the tops of run down shops you can see the masts
+of large sailing ships. To the north of here is
+a butcher shop and to the south is a mercenarys
+guild. Wharf road continues to the east and west.
+~
+0 0 1
+D0
+You see the butchers.
+~
+~
+0 -1 4623
+D1
+You see Wharf road.
+~
+~
+0 -1 4603
+D2
+You see the mercenarys guild.
+~
+~
+0 -1 4616
+D3
+You see Wharf road.
+~
+~
+0 -1 4601
+S
+#4603
+{YWharf Road{x~
+You are standing on Wharf road. Faint smells of 
+fish and seaweed are in the air. Rough looking 
+characters move in and out of the shops that line
+this road. To the north is a back street and to the
+south is a fish store.
+~
+0 0 1
+D0
+You see a back street.
+~
+~
+0 -1 4646
+D1
+You see Wharf road.
+~
+~
+0 -1 4604
+D2
+You see the fish store.
+~
+~
+0 -1 4617
+D3
+You see Wharf road.
+~
+~
+0 -1 4602
+S
+#4604
+{YWharf Road{x~
+You are on an eastern section of Wharf road. To 
+the north is a side wall of a shop. To the
+south you see a clothing shop. Wharf road continues
+to the east and west.
+~
+0 0 1
+D1
+You see Wharf road.
+~
+~
+0 -1 4605
+D2
+You see a clothing shop.
+~
+~
+0 -1 4618
+D3
+You see Wharf road.
+~
+~
+0 -1 4603
+S
+#4605
+{YWharf Road{x~
+You are standing on Wharf road. Salty smells and
+briney breezes catch your nose. To the north of
+here lies a small inlet and to the south you
+see the beginning of a small alley.
+~
+0 0 1
+D0
+You see a small inlet.
+~
+~
+0 -1 4684
+D1
+You see Wharf road.
+~
+~
+0 -1 4606
+D2
+You see a dark alleyway.
+~
+~
+0 -1 4619
+D3
+You see Wharf road.
+~
+~
+0 -1 4604
+S
+#4606
+{YWharf Road{x~
+You are starting to reach the eastern most end of
+Wharf road. This road is known for its shops and 
+items brought in from foreign places. To the north
+of here is a bar and to the south is a armor dealer.
+Wharf road continues east and west.
+~
+0 0 1
+D0
+You see a bar.
+~
+~
+0 -1 4627
+D1
+You see Wharf road.
+~
+~
+0 -1 4607
+D2
+You see an armor shop.
+~
+~
+0 -1 4620
+D3
+You see Wharf road.
+~
+~
+0 -1 4605
+S
+#4607
+{YWharf Road{x~
+You are nearing the end of Wharf road. To the north
+of you is a narrow and dark alley and to the south is 
+a water shop. Wharf road continues east and west.
+~
+0 0 1
+D0
+You see a narrow alley.
+~
+~
+0 -1 4650
+D1
+You see Wharf road.
+~
+~
+0 -1 4608
+D2
+You see a water shop.
+~
+~
+0 -1 4621
+D3
+You see Wharf road.
+~
+~
+0 -1 4606
+S
+#4608
+{YWharf Road{x~
+You are at the eastern end of Wharf road. Directly
+east is the city wall. To the north of here you see
+a wine shop, and to the south you see the guild hall
+of the Astari, the protectors of this section of town.
+Wharf road heads back west from here.
+~
+0 0 1
+D0
+You see a wine shop.
+~
+~
+0 -1 4629
+D2
+You see guild hall astari.
+~
+~
+0 -1 4622
+D3
+You see Wharf road.
+~
+~
+0 -1 4607
+S
+#4609
+{YWharf Road{x~
+You are on a dirty street that smells of fish also
+known as Wharf road. To the north of you is a leather
+shop. To the south you see a large warehouse. Wharf
+road continues east and west.
+~
+0 0 1
+D0
+You see a leather shop.
+~
+~
+0 -1 4636
+D1
+You see Wharf road.
+~
+~
+0 -1 4601
+D2
+You see a warehouse.
+~
+~
+0 -1 4643
+D3
+You see Wharf road.
+~
+~
+0 -1 4610
+S
+#4610
+{YWharf Road{x~
+You are standing on Wharf road. It smells of fish
+and decay brought on by being next to the water.
+To the north you see a 5&10 store and to the south
+you see a picture shop. Wharf road continues east
+and west.
+~
+0 0 1
+D0
+You see a 5&10 store.
+~
+~
+0 -1 4635
+D1
+You see Wharf road.
+~
+~
+0 -1 4609
+D2
+You see a painting shop.
+~
+~
+0 -1 4642
+D3
+You see Wharf road.
+~
+~
+0 -1 4611
+S
+#4611
+{YWharf Road{x~
+You are standing on Wharf road. The cobblestone
+street is very slippery and muddy. To the north
+of you is a boat maker and to the south is a small
+chips store. Wharf road continues east and west.
+~
+0 0 1
+D0
+You see a boatshop.
+~
+~
+0 -1 4634
+D1
+You see Wharf road.
+~
+~
+0 -1 4610
+D2
+You see a Chips & Fish.
+~
+~
+0 -1 4641
+D3
+You see Wharf road.
+~
+~
+0 -1 4612
+S
+#4612
+{YWharf Road{x~
+You are standing on Wharf road. Rugged sailors and
+seafaring men are moving about enjoying a few days
+of shore leave. To the north of here is a small inn.
+To the south you see the entrance to a dark alleyway.
+Wharf road continues east and west.
+~
+0 0 1
+D0
+You see a small Inn.
+~
+~
+0 -1 4633
+D1
+You see Wharf road.
+~
+~
+0 -1 4611
+D2
+You see a dark alleyway.
+~
+~
+0 -1 4640
+D3
+You see Wharf road.
+~
+~
+0 -1 4613
+S
+#4613
+{YWharf Road{x~
+You are standing on a western section of Wharf road.
+To the north is a vacant lot, and to the south is
+a coffee house. Wharf road continues east and west.
+~
+0 0 1
+D0
+~
+~
+0 0 4687
+D1
+You see Wharf road.
+~
+~
+0 -1 4612
+D2
+You see a coffee house.
+~
+~
+0 -1 4639
+D3
+You see Wharf road.
+~
+~
+0 -1 4614
+S
+#4614
+{YWharf Road{x~
+You are nearing the western end of Wharf road. To
+the north of here is a short road. To the
+south is a run down bar. Wharf road continues to 
+the east and west.
+~
+0 0 1
+D0
+You see a short road.
+~
+~
+0 -1 4685
+D1
+You see Wharf road.
+~
+~
+0 -1 4613
+D2
+You see a small bar.
+~
+~
+0 -1 4638
+D3
+You see Wharf road.
+~
+~
+0 -1 4615
+S
+#4615
+{YWharf Road{x~
+You are at the western end of Wharf road. To the
+west the city wall rises up and blocks your way.
+To the north of here is a vacant lot and to the
+south is an opium den. Wharf road heads back
+east from here.
+~
+0 0 1
+D1
+You see Wharf road.
+~
+~
+0 -1 4614
+D2
+You see an opium den.
+~
+~
+0 -1 4637
+S
+#4616
+{YMercenary's For Hire{x~
+This is a run down looking shop. The walls are 
+covered with old papers showing the prime times of
+this district of Calinth. There is a counter here
+with a sign in sheet. Towards the back of the room
+you see a bunch of rugged looking mercenarys waiting
+to be hired.
+~
+0 0 1
+D0
+You see Wharf road.
+~
+~
+0 -1 4602
+D4
+~
+~
+0 -1 4673
+S
+#4617
+{YFried Fish Bungalow{x~
+The scent of grouper and crappie and other strange 
+cold blooded sea creatures fill your nostrils. Behind
+the counter is a large metal grill where a dirty 
+looking cook is frying up some filets.
+~
+0 0 1
+D0
+You see Wharf road.
+~
+~
+0 -1 4603
+D4
+~
+~
+0 -1 4674
+S
+#4618
+{YClothes Mart{x~
+You are inside a well kept shop filled with racks of
+clothes. Alot of the styles are from foreign ports 
+brought here by travelling merchants from far off lands.
+A counter is towards the rear.
+~
+0 0 1
+D0
+You see Wharf road.
+~
+~
+0 -1 4604
+D4
+~
+~
+0 -1 4675
+S
+#4619
+{YDark Alley{x~
+All around you are piles of trash and the stench of 
+urine and shit. This dark alley continues south or
+you can go north to Wharf road.
+~
+0 0 1
+D0
+You see Wharf road.
+~
+~
+0 -1 4605
+S
+#4620
+{YArmor Is Us{x~
+This shop specializes in strange armors from around
+the world. Battered and torn older pieces decorate
+the walls. A counter is close to the front if you
+wish to purchase anything.
+~
+0 0 1
+D0
+You see Wharf road.
+~
+~
+0 -1 4606
+D4
+~
+~
+0 -1 4676
+S
+#4621
+{YWater Of Life{x~
+This profitable business is part of a large guild of
+water purifiers that work various parts of the city.
+They know that the market is cornered. Various
+skins and water holders line the shelves, a bubbling
+fountain is seen behind the counter to the rear of
+the shop.
+~
+0 0 1
+D0
+You see Wharf road.
+~
+~
+0 -1 4607
+S
+#4622
+{YGuild Hall Astari{x~
+This is the guild hall of the protectors of this section
+of town, the Astari. Red velvet curtains cover the walls
+and comfortable pillows are on the floor. A small room
+can be seen through the curtain to the south.
+~
+0 0 1
+D0
+You see Wharf road.
+~
+~
+0 -1 4608
+D2
+You see a small room.
+~
+~
+0 -1 4645
+S
+#4623
+{YStrange Meats{x~
+You are standing inside a filthy butcher shop. Pools
+of blood are on the floor and the stench of rotting
+meat fills your nose. You cant quite tell what kind
+of meat is on the hooks but some of it looks tasty.
+~
+0 0 1
+D2
+You see Wharf road.
+~
+~
+0 -1 4602
+D4
+~
+~
+0 -1 4677
+S
+#4624
+{YThe Pawn Shop{x~
+Various items line the shelves of this pawn shop.
+You kind buy or sell just about any strange item you
+might have here. You have heard rumors that this
+place is under direct control of the Astari.
+~
+0 0 1
+D3
+You see a back street.
+~
+~
+0 -1 4648
+S
+#4625
+{YSwords And Sharp Things{x~
+This is a well known shop to buy some of the finest
+swords in the city. Brought in by sailors who have
+visited foreign lands, alot of the weapons you see
+are quite exotic.
+~
+0 0 1
+D1
+You see a small inlet.
+~
+~
+0 -1 4684
+S
+#4626
+{YExotic Pets{x~
+So this is where all those parrots come from. All
+around you see cages filled with creatures from far
+off places. Take your pick and take one home.
+~
+0 0 1
+D3
+You see a small inlet.
+~
+~
+0 -1 4684
+D4
+~
+~
+0 -1 4678
+S
+#4627
+{YBegby's Bar{x~
+This is one of the roughest drinking rooms in all of
+Calinth. Begby, the retired captain of the guard runs
+it to keep his fighting skills up. He gets alot of
+pleasure in throwing a drunken oaf out on the street.
+~
+0 0 1
+D2
+You see Wharf road.
+~
+~
+0 -1 4606
+S
+#4628
+{YBarrel Of Beers{x~
+All around you are beer from various corners of the 
+globe. The shelves are lined with dark ones, light
+ones, Thick ones and thin ones. Take a bottle or 
+two with you and enjoy.
+~
+0 0 1
+D2
+You see a narrow alley.
+~
+~
+0 -1 4651
+S
+#4629
+{YWine And Cheese{x~
+Faint smells of delicious grapes and cheese fill your
+nostrils. Dark wines in strange bottles are in the 
+racks all around you. In the back hanging from hooks
+are wheels of different colored cheeses.
+~
+0 0 1
+D2
+You see Wharf road.
+~
+~
+0 -1 4608
+S
+#4630
+{YForbidden Pleasures{x~
+The inside of this building is candlelit and dark. You
+can here sounds of pleasure and pain coming from behind
+curtained off sections of the room. Incense fills the
+air. A counter is directly in front of you.
+~
+0 0 1
+D1
+You see bact street.
+~
+~
+0 -1 4649
+S
+#4631
+{YSeaweed And Salad{x~
+A large self serve salad bar occupies the majority of this
+room. Here you can purchase some of the finest greens and
+seaweed dishes money can buy.
+~
+0 0 1
+D3
+You see a dead end.
+~
+~
+0 -1 4686
+S
+#4632
+{YThe Stilletto{x~
+Glass and wood cases line the walls of this shop. Each is
+filled with black velvet upon which daggers of all shapes
+and sizes lie. The light is placed just right as to make
+each glimmer and catch your eye as you walk through.
+~
+0 0 1
+D3
+You see a short road.
+~
+~
+0 -1 4685
+S
+#4633
+{YLazyBack Inn{x~
+You are in the greeting hall of a small run down inn.
+A counter with a registry book on it sits in front 
+of you. The place is dusty and cobwebs are in the 
+corner. It seems not many people stay here.
+~
+0 0 1
+D2
+You see Wharf road.
+~
+~
+0 -1 4612
+S
+#4634
+{YBoats And Floats{x~
+You are inside a small but flourishing boat makers
+shop. Sounds of sawing and hammering are heard coming
+from the back of the building. A wood counter top is
+directly in front of you.
+~
+0 0 1
+D2
+You see Wharf road.
+~
+~
+0 -1 4611
+S
+#4635
+{YThe Five & Ten Shop{x~
+Small items and Knick-Knacks line the shelves in
+here, you wonder who buys such things. As you 
+browse through you see some interesting items that
+even you might want.
+~
+0 0 1
+D2
+You see Wharf road.
+~
+~
+0 -1 4610
+S
+#4636
+{YThe Leather Shop{x~
+Tanned hides and salted gloves are lining the shelves
+of this leather shop. A sick smell wafts forward from
+the rear of this place, which probably comes from the
+tanning procedures the shopkeep uses.
+~
+0 0 1
+D2
+You see Wharf road.
+~
+~
+0 -1 4609
+D4
+~
+~
+0 -1 4681
+S
+#4637
+{YOpium Den{x~
+Exotic smells confront you as soon as you walk through
+the door. The room is filled with large pillows and 
+red curtains which hang down from the ceiling in a lazy
+way. In the center of the room is a large hookah with 
+many hoses coming off of it.
+~
+0 0 1
+D0
+You see Wharf road.
+~
+~
+0 -1 4615
+D4
+~
+~
+0 -1 4680
+S
+#4638
+{YHenry's Bar{x~
+This bar is nothing more then what is says, a large
+wooden bar, no chairs, tables or seats. Empty and
+dirty glasses line the wooden plank. Large casks of
+various brew are on the back wall.
+~
+0 0 1
+D0
+You see Wharf road.
+~
+~
+0 -1 4614
+S
+#4639
+{YCoffee & Tea{x~
+The fragrant smell of fresh coffee beans fills the air.
+Strange copper brewing instruments are along the 
+counter in the rear. On the west wall are pictures of 
+people enjoying the fresh brews.
+~
+0 0 1
+D0
+You see Wharf road.
+~
+~
+0 -1 4613
+S
+#4640
+{YDark Alleyway{x~
+This is the beginning of a stench filled alley. The
+stones under your feet are slimey, covered with 
+urine and shit from numerous drunks. The alleyway
+continues to the south.
+~
+0 0 1
+D0
+You see Wharf road.
+~
+~
+0 -1 4612
+D2
+You see a dark alleyway.
+~
+~
+0 -1 4652
+S
+#4641
+{YChips & Fish{x~
+A few stools are lined up along an oaken bar. The 
+smell of fried fish and chips fills the air. Have
+a seat and a bit to eat, enjoy your stay.
+~
+0 0 1
+D0
+You see Wharf road.
+~
+~
+0 -1 4611
+S
+#4642
+{YPaintings and Portraits{x~
+The smell of oil paintings and strange chemicals
+fills this small building. Various scenearys and
+costumes line the walls. A stool sits in front of
+an easel and stand.
+~
+0 0 1
+D0
+You see Wharf road.
+~
+~
+0 -1 4610
+D4
+~
+~
+0 -1 4679
+S
+#4643
+{YLarge Warehouse{x~
+Boxes and pallets fill this large warehouse. This
+is a storage space for the goods that come in from
+foreign ports. Workers scurry about and give you
+dirty looks. Maybe you shouldnt be in here.
+~
+0 0 1
+D0
+You see Wharf road.
+~
+~
+0 -1 4609
+S
+#4644
+{YThe Main Docks{x~
+You are standing just south of Wharf road on the 
+main docks. Salty smells fill the air and sailors
+and dockworkers move about. Several large piers 
+head out into the bay all along the dock which heads
+east and west from here. Ships are lined up along
+some of these being loaded and unloaded.
+~
+0 0 1
+D0
+You see Wharf road.
+~
+~
+0 -1 4601
+S
+#4645
+{YAstari Inner Sanctum{x~
+This is the inner sanctum for your guild. Strange guild
+symbols cover the walls. This room is lit by small globes
+of light which float around the ceiling. You can use 
+your time here to practice and better your Astari skills.
+~
+0 0 1
+D0
+You see Guild Hall Astari.
+~
+~
+0 -1 4622
+S
+#4646
+{YBack Street{x~
+You are on a thin back street leading north away from
+Wharf road. North of you the inner south wall of
+Calinth rises above the buildings. This back street
+continues north.
+~
+0 0 1
+D0
+You see the back street.
+~
+~
+0 -1 4647
+D2
+You see Wharf road.
+~
+~
+0 -1 4603
+S
+#4647
+{YBack Street{x~
+You are at a t-intersection on the back street. From
+here you can continue east or west along the southern
+city wall which is just north of you. This small
+street makes its way along the backs of some of the
+Wharf road shops. You can also go back south toward
+Wharf road.
+~
+0 0 1
+D1
+You see the back street.
+~
+~
+0 -1 4648
+D2
+You see the back street.
+~
+~
+0 -1 4646
+D3
+You see the back street.
+~
+~
+0 -1 4649
+S
+#4648
+{YBack Street{x~
+You are in a narrow street between some buildings
+and the southern wall. Trash lines the street and
+mud puddles are under your feet. To the east you
+see a small shop. To the west you can return to
+the t-intersection.
+~
+0 0 1
+D1
+You see a small shop.
+~
+~
+0 -1 4624
+D3
+You see the t-intersection.
+~
+~
+0 -1 4647
+S
+#4649
+{YBack Street{x~
+You are in a narrow street between the back of
+some buildings and the southern wall of Calinth.
+To the west you see a small dark shop. To the
+east you can return to the t-intersection.
+~
+0 0 1
+D1
+You see the t-intersection.
+~
+~
+0 -1 4647
+D3
+You see a dark shop.
+~
+~
+0 -1 4630
+S
+#4650
+{YA Narrow Alley{X~
+You are standing in between some buildings in a
+narrow alleyway. A rotten smell wafts up from the
+piles of trash along the walls. To the south lies
+Wharf road or you can continue to the north.
+~
+0 0 1
+D0
+A narrow alley.
+~
+~
+0 -1 4651
+D2
+You see Wharf road.
+~
+~
+0 -1 4607
+S
+#4651
+{YA Narrow Alley{x~
+This alleyway is growing thin as the buildings on
+each side of you encroach. Just north you see the
+southern wall of Calinth rising above the buildings.
+To the north you see a small shop, and to the south
+you can return to Wharf road.
+~
+0 0 1
+D0
+You see a small shop.
+~
+~
+0 -1 4628
+D2
+You see a narrow alley.
+~
+~
+0 -1 4650
+S
+#4652
+{YA Dark Alleyway{x~
+You are standing in a filth ridden dark alleyway.
+It runs between the buildings along Wharf road.
+To the south you see the entrance to a maze of
+run down houses. To the north you can return to
+Wharf road.
+~
+0 0 1
+D0
+You see a dark alleyway.
+~
+~
+0 -1 4640
+D2
+You see a maze of houses.
+~
+~
+0 -1 4653
+S
+#4653
+{YTenament District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 0 1
+D0
+You see a dark alleyway.
+~
+~
+0 -1 4652
+D2
+You see a maze of houses.
+~
+~
+0 -1 4654
+S
+#4654
+{Tenemant District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 0 1
+D1
+You see a maze of houses.
+~
+~
+0 -1 4661
+D2
+You see a maze of houses.
+~
+~
+0 -1 4655
+D0
+You see a maze of houses.
+~
+~
+0 -1 4653
+S
+#4655
+{Tenemant District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 4654
+D1
+You see a maze of houses.
+~
+~
+0 -1 4665
+D2
+You see a maze of houses.
+~
+~
+0 -1 4656
+S
+#4656
+{Tenemant District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 4655
+D2
+You see a maze of houses.
+~
+~
+0 -1 4657
+S
+#4657
+{YTenement District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 4656
+D1
+You see a maze of houses.
+~
+~
+0 -1 4669
+D2
+You see a maze of houses.
+~
+~
+0 -1 4658
+S
+#4658
+{Tenemant District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 4657
+D2
+You see a maze of houses.
+~
+~
+0 -1 4659
+S
+#4659
+{Tenemant District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 4658
+D2
+You see a maze of houses.
+~
+~
+0 -1 4660
+S
+#4660
+{Tenemant District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 4659
+D2
+You see a maze of houses.
+~
+~
+0 -1 4660
+S
+#4661
+{Tenemant District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 0 1
+D1
+You see a maze of houses.
+~
+~
+0 -1 4662
+D2
+You see a maze of houses.
+~
+~
+0 -1 4668
+D3
+You see a maze of houses.
+~
+~
+0 -1 4654
+S
+#4662
+{Tenemant District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 8192 1
+D2
+You see a maze of houses.
+~
+~
+0 -1 4667
+D0
+~
+~
+0 -1 4682
+D1
+You see a maze of houses.
+~
+~
+0 -1 4663
+D3
+You see a maze of houses.
+~
+~
+0 -1 4661
+S
+#4663
+{Tenemant District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 0 1
+D1
+You see a maze of houses.
+~
+~
+0 -1 4664
+D3
+You see a maze of houses.
+~
+~
+0 -1 4662
+S
+#4664
+{Tenemant District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 0 1
+D3
+You see a maze of houses.
+~
+~
+0 -1 4663
+S
+#4665
+{Tenemant District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 1 1
+D1
+You see a maze of houses.
+~
+~
+0 -1 4666
+D0
+You see a maze of houses.
+~
+~
+0 -1 4663
+D3
+You see a maze of houses.
+~
+~
+0 -1 4655
+S
+#4666
+{Tenemant District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 0 1
+D1
+You see a maze of houses.
+~
+~
+0 -1 4667
+D3
+You see a maze of houses.
+~
+~
+0 -1 4665
+S
+#4667
+{Tenemant District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 4662
+D1
+You see a maze of houses.
+~
+~
+0 -1 4668
+D3
+You see a maze of houses.
+~
+~
+0 -1 4666
+S
+#4668
+{Tenemant District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 4664
+D3
+You see a maze of houses.
+~
+~
+0 -1 4667
+S
+#4669
+{Tenemant District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 0 1
+D1
+You see a maze of houses.
+~
+~
+0 -1 4670
+D3
+You see a maze of houses.
+~
+~
+0 -1 4657
+S
+#4670
+{Tenemant District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 4666
+D1
+You see a maze of houses.
+~
+~
+0 -1 4671
+D3
+You see a maze of houses.
+~
+~
+0 -1 4669
+S
+#4671
+{Tenemant District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 4668
+D1
+You see a maze of houses.
+~
+~
+0 -1 4672
+D2
+~
+~
+0 -1 4683
+D3
+You see a maze of houses.
+~
+~
+0 -1 4670
+S
+#4672
+{Tenemant District{x~
+You are standing at the entrance to a run down
+tenament section of the docks. Here the poor and
+disenfranchised of the city find refuge under the
+protection of the Astari. Crumbling houses are all
+around you.
+~
+0 0 1
+D3
+You see a maze of houses.
+~
+~
+0 -1 4671
+D0
+You see a maze of houses.
+~
+~
+0 -1 4666
+D2
+You see a maze of houses.
+~
+~
+0 -1 4664
+S
+#4673
+{YA Small Room{x~
+You are in a small room above the mercenarys
+guild. This is a good place to relax and
+take a rest.
+~
+0 0 0
+D5
+~
+~
+0 -1 4616
+S
+#4674
+{YA Storage Room{x~
+This is a storage room for the shop below.
+Crates and boxes line the walls. You can
+smell a fishy smell coming from some of 
+these.
+~
+0 0 0
+D5
+~
+~
+0 -1 4617
+S
+#4675
+{YA Room Of Clothe{x~
+This is a medium sized room above the
+clothing shop. There are large rolls of 
+different colored clothe all around you.
+~
+0 0 0
+D5
+~
+~
+0 -1 4618
+S
+#4676
+{YA Tool Room{x~
+This room is full of metal working tools.
+You can feel the heat from the forge below
+rising up through the floorboards.
+~
+0 0 0
+D5
+~
+~
+0 -1 4620
+S
+#4677
+{YA Smelly Room{x~
+You are in a foul smelling room, various
+pieces of unknown meat hang all around you.
+~
+0 0 0
+D5
+~
+~
+0 -1 4623
+S
+#4678
+{YA Noisy Room{x~
+You are in a noisy room full of cages and
+boxes in which strange and exotic pets are
+kept. Some of them dont look so good.
+~
+0 0 0
+D5
+~
+~
+0 -1 4626
+S
+#4679
+{YStorage Room{x~
+This is a storage room for the painting store
+below. Large flat crates and boxes are stacked
+against the walls.
+~
+0 0 0
+D5
+~
+~
+0 -1 4642
+S
+#4680
+{YStrange Temple{x~
+This room above the opium den has been made
+into a strange and foreign temple. Murals
+of creatures only found in dreams are painted
+in blood red paint on the walls.
+~
+0 0 0
+D5
+~
+~
+0 -1 4637
+S
+#4681
+{YChemical Storage{x~
+This is a pungent room full of open and closed
+barrels of chemicals, some of which are 
+probably used in tanning.
+~
+0 0 0
+D5
+~
+~
+0 -1 4636
+S
+#4682
+{YA Run Down Shack{x~
+This is a run down shack of some poor soul.
+Meager furnishings are around you and a 
+small fire pit is in the rear.
+~
+0 0 0
+D2
+You see a maze of houses.
+~
+~
+0 -1 4662
+S
+#4683
+{YA Run Down Shack{x~
+This is a small shack, it could almost be a
+closet. A broken table is in the center and
+a pile of hay for a bed is in the corner.
+~
+0 0 0
+D0
+You see a maze of houses.
+~
+~
+0 -1 4671
+S
+#4684
+{YA Small Inlet{x~
+This is a small inlet in the northern part
+of Wharf road. A shop lies to the east and
+west of here or you can go south.
+~
+0 0 0
+D1
+You see the pet store.
+~
+~
+0 -1 4626
+D2
+You see Wharf road.
+~
+~
+0 -1 4605
+D3
+You see a small shop.
+~
+~
+0 -1 4625
+S
+#4685
+{YA Short Road{x~
+You are on a short road leading north off
+of Wharf road. A shop lies to the east of
+here, or you can go north or south.
+~
+0 0 0
+D0
+You see a dead end.
+~
+~
+0 -1 4686
+D1
+You see a small shop.
+~
+~
+0 -1 4632
+D2
+You see Wharf road.
+~
+~
+0 -1 4614
+S
+#4686
+{YA Dead End{x~
+You are standing on a dead end road that
+ends at the southern wall of Calinth.
+To the east of here is a small shop.
+~
+0 0 0
+D1
+You see a small shop.
+~
+~
+0 -1 4631
+D2
+You see a short road.
+~
+~
+0 -1 4685
+S
+#4687
+{YA Small Alleyway{x~
+This is a small inlet in the northern part
+of Wharf road. A shop lies to the east and
+west of here or you can go south.
+~
+0 0 1
+D0
+~
+~
+0 0 4688
+D2
+~
+~
+0 0 4613
+S
+#4688
+{YA Small Alleyway{x~
+This is a small inlet in the northern part
+of Wharf road. A shop lies to the east and
+west of here or you can go south.
+~
+0 0 1
+D1
+~
+~
+0 0 4689
+D2
+~
+~
+0 0 4687
+S
+#4689
+{YA Small Alleyway{x~
+This is a small inlet in the northern part
+of Wharf road. A shop lies to the east and
+west of here or you can go south.
+~
+0 0 1
+D0
+~
+~
+0 0 20266
+D3
+~
+~
+0 0 4688
+S
+#0
+
+
+
+#SPECIALS
+M 4602 spec_thief
+M 4603 spec_thief
+M 4604 spec_thief
+M 4613 spec_poison
+M 4614 spec_poison
+S
+
+
+
+#RESETS
+M 0 4613 9 4601 9
+M 0 4614 9 4601 9
+O 0 4629 0 4601
+O 0 4625 0 4602
+O 0 4628 0 4602
+M 0 4615 9 4603 9
+M 0 4615 9 4603 9
+M 0 4603 9 4604 9
+O 0 4625 0 4604
+M 0 4613 9 4605 9
+O 0 4628 0 4605
+M 0 4613 9 4606 9
+M 0 4604 9 4606 9
+M 0 4602 9 4606 9
+M 0 4615 9 4607 9
+M 0 4614 9 4608 9
+M 0 4615 9 4608 9
+M 0 4602 9 4609 9
+O 0 4628 0 4609
+M 0 4614 9 4610 9
+O 0 4625 0 4611
+M 0 4613 9 4612 9
+M 0 4615 9 4612 9
+M 0 4603 9 4612 9
+M 0 4613 9 4614 9
+M 0 4614 9 4614 9
+M 0 4615 9 4614 9
+O 0 4628 0 4614
+O 0 4630 0 4614
+M 0 4613 9 4615 9
+M 0 4622 1 4617 1
+M 0 4623 1 4618 1
+O 0 4625 0 4619
+M 0 4624 1 4620 1
+M 0 4625 1 4621 1
+M 0 4616 1 4623 1
+M 0 4617 1 4624 1
+M 0 4618 1 4625 1
+M 0 4619 1 4626 1
+O 0 4633 0 4627
+O 0 4632 0 4627
+O 0 4632 0 4627
+O 0 4631 0 4627
+M 0 4620 1 4628 1
+M 0 4621 1 4629 1
+M 0 4600 1 4630 1
+G 0 4605 0
+G 0 4606 0
+M 0 4601 1 4631 1
+G 0 4607 0
+G 0 4608 0
+M 0 4612 1 4632 1
+G 0 4609 0
+G 0 4610 0
+G 0 4611 0
+G 0 4612 0
+G 0 4613 0
+M 0 4611 1 4634 1
+G 0 4614 0
+G 0 4615 0
+G 0 4616 0
+M 0 4610 1 4635 1
+G 0 4617 0
+G 0 4618 0
+G 0 4619 0
+M 0 4609 1 4636 1
+G 0 4620 0
+G 0 4621 0
+M 0 4605 1 4637 1
+G 0 4601 0
+G 0 4603 0
+G 0 4602 0
+G 0 4604 0
+O 0 4631 0 4638
+O 0 4633 0 4638
+M 0 4606 1 4639 1
+G 0 4622 0
+G 0 4623 0
+G 0 4624 0
+O 0 4630 0 4640
+O 0 4632 0 4641
+O 0 4632 0 4641
+O 0 4632 0 4641
+O 0 4633 0 4641
+M 0 4608 1 4642 1
+O 0 4626 0 4643
+O 0 4626 0 4643
+O 0 4627 0 4643
+O 0 4627 0 4643
+O 0 4625 0 4648
+R 0 4654 4
+O 0 4628 0 4657
+O 0 4629 0 4658
+M 0 4604 9 4659 9
+M 0 4602 9 4660 9
+R 0 4660 4
+O 0 4630 0 4661
+R 0 4662 4
+O 0 4625 0 4662
+O 0 4629 0 4662
+O 0 4628 0 4664
+R 0 4665 4
+O 0 4625 0 4665
+O 0 4628 0 4668
+M 0 4603 9 4670 9
+R 0 4670 4
+R 0 4672 4
+O 0 4629 0 4672
+S
+
+
+
+#SHOPS
+4600 8 0 0 0 0 300 25 0 23
+4601 0 19 0 0 0 100 100 0 23
+4605 0 10 0 0 0 300 460 4 8
+4606 0 17 0 0 0 100 100 0 23
+4607 0 0 0 0 0 65 100 6 23
+4608 0 8 0 0 0 100 100 0 23
+4609 0 0 0 0 9 30 200 8 19
+4610 0 13 0 0 0 100 100 0 23
+4611 0 22 0 0 0 100 100 0 23
+4612 0 5 9 0 0 100 100 0 23
+4616 0 0 0 0 0 25 100 0 15
+4617 5 10 13 12 26 25 300 12 19
+4618 0 0 0 0 0 75 200 9 19
+4620 0 0 0 0 0 25 100 3 23
+4621 19 0 0 0 0 25 100 7 23
+4622 0 0 0 0 0 25 100 9 23
+4623 0 0 0 0 0 25 300 10 23
+4624 0 0 0 0 0 25 400 2 11
+4625 0 0 0 0 0 25 100 2 23
+0
+
+
+#$
