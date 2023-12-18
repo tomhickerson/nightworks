@@ -1541,7 +1541,7 @@ S
 #6110
 A narrow trail through the deep, dark forest~
 You are on a dusty trail winding its way between huge, ancient trees that stand
-close on all sides.  The trail leads east and south.  To the north, a narrow
+close on all sides.  The trails leads east, west and south.  To the north, a narrow
 path leads away from the trail.
 ~
 0 AD 3
@@ -1560,6 +1560,11 @@ The narrow, dusty trail leads south through the forest.
 ~
 ~
 0 -1 6111
+D3 
+A wider trail starts here and leads west through the forest.
+~
+~
+0 -1 19540
 E
 tree trees trunk trunks~
 Some of the trunks to the west are covered in a thin, almost transparent
