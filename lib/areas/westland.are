@@ -1025,7 +1025,7 @@ The long dusty trail.
 ~
 ~
 0 0 18002
-D5
+D4
 A small path heading up the side of the mountain.
 ~
 ~
@@ -1117,8 +1117,8 @@ As you approach the mountains, you leave the forest behind
 to open air space. The wind here is blowing more swiftly and the
 sun is even hotter. You notice the giant waywarrd pines that loom
 overhead. You wonder where such wonderous trees came from. The
-path up the mountain looks like a nice and easy one to take. You
-could return to the east or go up the mountain.
+path up the mountain looks like a nice and easy one to take. Other
+paths lead east into the forest and west between the mountains.
 ~
 0 0 5 
 D1
@@ -1126,6 +1126,11 @@ The path to the forest.
 ~
 ~
 0 0 10005
+D3
+A smaller path leading in between the mountains.
+~
+~
+0 -1 10701
 D4
 The trail up the mountain.
 ~
