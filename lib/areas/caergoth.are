@@ -1,0 +1,3551 @@
+#AREA
+caergoth.are~
+The Port of Caergoth~
+{ 1 100} Mish The Port of Caergoth~
+2500 2599
+
+#MOBILES
+#2500
+butcher man~
+the butcher~
+A butcher stands here, offering his wares.
+~
+The butcher is a large man, dressed simply, also wearing a white apron, which has been stained red with blood. His cleaver is also stained red, but otherwise well-polished and sharp.
+~
+human~
+BGV NO 0 0
+35 5 10d10+1000 10d10+10 6d4+20 cleave
+-20 -20 -20 -20
+0 ABCDEFGLQ 0 0
+stand stand male 0
+0 0 medium 0
+#2501
+grocer man~
+the green grocer~
+A grocer stands behind his counter, offering fresh fruit and vegetables.
+~
+Very clean-cut and tanned, the grocer has a wide selection of fruit and vegetables available, imported from all over Krynn.
+~
+human~
+BGV 0 0 0
+35 6 10d10+1000 10d10+10 6d3+15 punch
+-20 -20 -20 -20
+0 ABCDEFLQ 0 0
+stand stand male 0
+0 0 medium 0
+#2502
+mage shopkeeper lady~
+a lady mage~
+A female wild-elf stands behind her counter, ready to offer help.
+~
+She is quite beautiful, dressed in red robes, with long auburn hair and shockingly green eyes. Behind her is a multitude of potions, scrolls, and pills.
+~
+elf~
+BGRV T 0 0
+35 2 10d10+1000 10d10+10 4d6+26 magic
+-20 -20 -20 -20
+0 ABCDEFGLQ 0 0
+stand stand female 0
+0 0 medium 0
+
+#2503
+baker man~
+the baker~
+A man stands behind his counter, offering baked goods.
+~
+He is covered in flour, and his hands have bits of dough on them. His face is red from the heat of the oven, but it makes him look jolly.
+~
+human~
+BGV JT 0 0
+35 3 10d10+1000 10d10+10 5d6+32 beating
+-20 -20 -20 -20
+0 ABCDEFLQ 0 0
+stand stand male 0
+0 0 medium 0
+#2504
+dockmaster man~
+the dockmaster~
+The dockmaster is sitting at his desk, looking over schedules.
+~
+He looks busy, but he would probably stop his work to sell you a boat or a boat ticket.
+~
+human~
+BGV J 0 0
+35 3 10d10+2000 10d10+10 5d4+25 pound
+-20 -20 -20 -20
+0 ABCDEFGLQ 0 0
+stand stand male 0
+0 0 medium 0
+
+#2505
+healer man cleric~
+a healer-cleric~
+The cleric of the temple is waiting for someone to heal.
+~
+He wears a simple white robe, and leather sandals. His head is adorned with a silver circlet bearing a platinum dragon, and a medallion of the healing hand hangs around his neck.
+~
+human~
+BGVa J 1000 0
+35 3 10d10+1000 10d10+100 4d5+35 punch
+-20 -20 -20 -20
+0 ABCDEFGLQ 0 0
+stand stand male 0
+0 0 medium 0
+#2506
+shopkeeper man~
+the shopkeeper~
+The shopkeeper stands here, waiting to sell what he has.
+~
+He is a simple man who does simple work for an honest living. He sells general supplies to whoever may need them, not overpricing at all.
+~
+human~
+BGV J 0 0
+35 2 10d10+100 10d10+100 6d5+24 punch
+-20 -20 -20 -20
+0 ABCDEFGLQ 0 0
+stand stand male 0
+0 0 medium 0
+
+#2507
+apothecary lady~
+an apothecary~
+An elven apothecary smiles at you.
+~
+She is quite beautiful, but she's not for sale. But if what she offers is of the quality that she is, she'll stay in business for a long time.
+~
+elf~
+BGRV T 0 0
+35 2 10d10+1000 10d10+1000 6d5+24 magic
+-20 -20 -20 -20
+0 ABCDEFGLQ 0 0
+stand stand female 0
+0 0 medium 0
+
+#2508
+blacksmith man~
+the blacksmith~
+The blacksmith stands sweating beside his anvil.
+~
+His arms are thick and solid, his shoulders massive from swinging a hammer to make iron armour and weapons all day long. He is sweating profusely, and his face and hands are covered in black soot.
+~
+human~
+BGV JT 0 0
+35 3 10d10+1000 10d10+10 6d7+25 pound
+-20 -20 -20 -20
+0 ABCDEFGLQ 0 0
+stand stand male 0
+0 0 medium 0
+
+#2509
+packhorse horse~
+a packhorse~
+A packhorse stands here, waiting for his owner.
+~
+
+~
+unique~
+V JT 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
+IL 0 L 0
+stand stand either 0
+AHMV ACDEFKQ medium 0
+#2510
+dog~
+a dog~
+A large dog stands here, looking around.
+~
+
+~
+dog~
+V JT 0 0
+5 5 2d8+134 1d1+1 2d5+3 bite
+-2 -1 0 3
+0 0 0 0
+stand stand male 0
+HM B medium 0
+#2511
+salesclerk~
+a salesclerk~
+A salesclerk stands behind the counter.
+~
+He is ready to sell you animals, and give you tips on how to take care of them.
+~
+human~
+V JT 0 0
+35 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+0 ABCDEFGLQ 0 0
+stand stand male 0
+0 0 medium 0
+
+#2512
+elephant war~
+a war elephant~
+A large war elephant gazes at all below him.
+~
+
+~
+unique~
+V JT 0 0
+25 5 1d1+3199 1d1+1 5d7+5 crush
+-10 -9 -10 -10
+0 0 0 0
+stand stand male 0
+AHMV ACDEFHKY huge 0
+#2513
+kitten~
+a cute kitten~
+A cute little tabby kitten stands here mewing.
+~
+
+~
+cat~
+V JT 0 0
+2 3 1d1+49 1d1+1 1d5+1 claw
+5 5 5 5
+0 0 0 0
+stand stand female 0
+HM B small 0
+#2514
+tavernkeeper man~
+the tavernkeeper~
+A tavernkeeper stands behind the counter, ready to serve you.
+~
+He looks clean, and this establishment is his pride and joy, so he keeps fights to a minimum.
+~
+human~
+BG 0 0 0
+35 6 10d10+1000 1d1+1 4d6+9 punch
+-20 -20 -20 -20
+0 ABCDEFGLQ 0 0
+stand stand male 0
+0 0 medium 0
+
+#2515
+guildmaster~
+the mage guildmaster~
+Your guildmaster stands in the tower, ready to teach you.
+~
+He looks old and wizened, well-learned in the arcane arts.
+~
+human~
+BGJKV DFH 0 0
+35 6 10d10+1000 10d10+10 8d6+20 magic
+-20 -20 -20 -20
+0 ABCDEFGLQ 0 0
+stand stand male 0
+0 0 medium 0
+#2516
+golem red stone~
+a golem of red stone~
+A golem of red stone watches over the invoker's guild.
+~
+It has been magically animated and instructed not to let anyone in, except invokers.
+~
+unique~
+BGTV DFJN 0 0
+22 0 10d10+1210 10d10+10 3d12+14 pound
+-15 -16 -17 -25
+H AB CD 0
+stand stand none 0
+AHJMV ABCDEFGHIK large 0
+#2517
+golem white stone~
+a golem of white stone~
+A white stone golem guards the transmuter's guild.
+~
+It has been magically animated and instructed not to let anyone in but transmuters.
+~
+unique~
+BGTV DFJN 0 0
+22 0 10d10+1210 10d10+10 3d12+14 pound
+-15 -16 -17 -25
+H AB CD 0
+stand stand none 0
+AHJMV ABCDEFGHIK large 0
+#2518
+knight guard~
+the knight guildguard~
+A knight stands vigilant watch over his guild.
+~
+He is strong and well-trained, ready for any attacker daring enough to try to break in.
+~
+human~
+BGV DFJN 1000 0
+22 2 10d10+1210 10d10+10 3d12+14 slash
+-20 -20 -25 -20
+H AB CD 0
+stand stand male 0
+0 0 large 0
+#2519
+guildmaster knight~
+the knight guildmaster~
+An old, powerful knight is ready to teach you.
+~
+He is old and well-learned in the ways of knighthood and chivalry. He proudly bears his mark of the Platinum Dragon.
+~
+human~
+BGJKV DFHJN 1000 0
+35 0 10d10+1000 10d10+10 6d8+32 slash
+-20 -20 -20 -20
+0 ABCDEFGLQ 0 0
+stand stand male 0
+0 0 medium 0
+#2520
+cleric guard~
+the cleric guildguard~
+A powerful cleric watches over his guild.
+~
+Empowered with the help of his god, he watches over his guild to ensure nobody but clerics get in.
+~
+human~
+BGV DFJN 0 0
+23 3 10d10+1210 10d10+10 3d12+14 pound
+-20 -18 -17 -20
+H AB CD 0
+stand stand male 0
+0 0 huge 0
+#2521
+cleric guildmaster~
+the cleric guildmaster~
+An old cleric is ready to assist you with your learning.
+~
+He is old and wise, well-learned in praying and using the granted powers of the gods.
+~
+human~
+BGJKV DFHJN 0 0
+35 0 10d10+1000 10d10+10 6d8+25 pound
+-20 -20 -20 -20
+0 ABCDEFGLQ 0 0
+stand stand male 0
+0 0 medium 0
+#2522
+banker~
+a banker~
+A banker stands patiently behind a counter.
+~
+He is ready to help you make a deposit or withdrawl.
+~
+human~
+BGVe DFJN 0 0
+35 0 10d10+10 10d10+10 6d5+24 punch
+-20 -20 -20 -20
+0 ABCDEFGLQ 0 0
+stand stand male 0
+0 0 medium 0
+
+#2523
+guard gate caergoth~
+a Caergoth gate guard~
+A gate guard of Caergoth keeps watch.
+~
+He is a very strong man, ready to stop any criminals or fights that break out in his presence.
+~
+human~
+BGT DFJNO 0 0
+27 4 25d10+2750 10d10+10 8d4+15 pound
+-16 -15 -17 -15
+CDEFIKNOU AB DHIL 0
+stand stand male 0
+0 0 medium 0
+
+#2524
+cityguard caergoth~
+a Caergoth cityguard~
+A cityguard patrols the town for criminals.
+~
+He is a strong man, ready to help out anyone in trouble, or to catch a criminal. He patrols the city constantly until his watch is over.
+~
+human~
+G DFJN 500 0
+19 4 6d12+853 1d1+1 4d6+8 slash
+-10 -11 -10 -7
+CDEFIKT 0 0 0
+stand stand male 0
+0 0 medium 0
+#2525
+captain guard caergoth~
+Captain of the Caergoth guard~
+The captain of the guard keeps close watch on the streets.
+~
+The captain is dressed in beautiful platemail, and knows that he is the best guard in the city. He has been granted this position as a reward for good work and showing responsibility.
+~
+human~
+G DFHJNO 0 0
+37 2 50d12+9850 10d10+10 8d7+29 charge
+-32 -34 -32 -29
+CDEFHIJKNOT AB DLMQ JR
+stand stand male 0
+0 0 large 0
+
+#2526
+minotaur sailor~
+a minotaur sailor~
+A large minotaur wanders about the town while his ship is in port.
+~
+It is a large minotaur, enjoying the sights and shops of Caergoth while he can. He seems to be lost in the town, taking great notice of what is going on around him.
+~
+unique~
+GT 0 0 0
+16 5 5d10+400 1d1+1 4d4+7 beating
+-5 -6 -5 2
+0 0 DEFGI HP
+stand stand male 4
+AHMV ABCDEFGHIJKQW large 0
+#2527
+citizen~
+a citizen of Caergoth~
+A citizen of Caergoth walks around the town.
+~
+The citizen is taking a leisurely stroll about the town, relaxing in the sea breeze and the clean, safe streets.
+~
+human~
+G 0 0 0
+8 0 2d7+75 1d1+1 1d7+2 punch
+4 5 4 9
+0 0 0 0
+stand stand either 0
+0 0 medium 0
+#2528
+dockhand worker~
+a dockhand~
+A dockhand walks about the harbour, working hard.
+~
+The dockhand is a hard worker, with a strong body from loading and unloading cargo all day long. He looks like he can hold his own in a fight.
+~
+human~
+G 0 0 0
+15 3 3d9+333 1d1+1 2d8+5 pound
+-4 -3 -4 8
+EI 0 0 0
+stand stand male 0
+0 0 medium 0
+#2529
+guard fighter~
+the fighter guildguard~
+A strong and powerful fighter watches his guildhall.
+~
+He is muscled and tough, scarred from countless battles. He has since retired and watches over the fighter guild of Caergoth.
+~
+human~
+BGT DFJ 0 0
+22 3 10d10+1210 1d1+1 3d12+14 pound
+-20 -18 -18 -14
+H AB CD 0
+stand stand male 0
+0 0 medium 0
+#2530
+guildmaster fighter~
+the fighter guildmaster~
+A powerful, aged fighter stands ready to train you.
+~
+He might be getting on in years, but he's still strong and mighty, ready to take any challenge, and also ready to teach you new skills.
+~
+human~
+BGJK DFHJ 0 0
+35 5 10d10+10 1d1+1 6d5+32 beating
+-20 -20 -20 -20
+0 ABCDEFGLQ 0 0
+stand stand male 0
+0 0 medium 0
+#2531
+fisherman~
+a fisherman~
+A man is fishing at the edge of the dock.
+~
+He's suntanned and getting on in years, but he keeps fishing because that's what he likes to do best. That and brag about what he's caught ... or what he thinks he's caught.
+~
+human~
+BCG J 0 0
+8 8 2d7+75 1d1+1 1d7+2 punch
+5 4 4 9
+J 0 0 0
+stand stand male 0
+0 0 medium 0
+
+#2532
+mayor caergoth~
+the mayor of Caergoth~
+The mayor of Caergoth sits at his desk, looking at some papers.
+~
+He is well-dressed, and is very important. He wears the signet ring of Caergoth with pride.
+~
+human~
+BG DFHJNO 0 0
+37 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+0 AB CDLQ 0
+stand stand male 0
+0 0 medium 0
+
+#2533
+saleswoman~
+a young saleswoman~
+A beautiful young salesclerk waits for you to make a decision.
+~
+She is well-dressed, and is ready to help you make a decision on your wedding, possibly the biggest decision of your life.
+~
+human~
+BG DFJN 0 0
+35 4 10d10+10 10d10+10 4d6+31 punch
+-20 -20 -20 -20
+0 ABCDEFGLQ 0 0
+stand stand female 0
+0 0 medium 0
+
+
+#2534
+street cleaner~
+a street cleaner~
+A cleaner walks along the streets, picking up trash.
+~
+He cleans the streets night and day, doing his best to keep the place sanitary and tidy.
+~
+human~
+G 0 0 0
+5 6 2d6+60 1d1+1 1d6+1 pound
+5 6 4 9
+0 0 0 0
+stand stand male 0
+0 0 medium 0
+#2535
+mercenary human~
+a human mercenary~
+A human mercenary stands here, waiting for his master.
+~
+
+~
+human~
+G 0 0 0
+15 0 5d10+500 1d1+1 4d5+6 slash
+-7 -8 -7 -3
+DI 0 0 0
+stand stand male 0
+0 0 medium 0
+#2536
+mercenary minotaur~
+a minotaur mercenary~
+A large minotaur mercenary stands here.
+~
+
+~
+unique~
+G 0 0 0
+21 0 10d10+1000 1d1+1 4d7+10 crush
+-11 -10 -11 -6
+DI 0 D HP
+stand stand male 0
+AHMV ABCDEF large 0
+#2537
+mercenary guildmaster~
+the mercenary guildmaster~
+A strong human sits at his desk.
+~
+He is the leader of the mercenary guild in this town, and he'll sell you whoever you want to do a job, for a price.
+~
+human~
+BGT 0 0 0
+35 1 10d10+1000 1d1+1 5d8+23 stab
+-20 -20 -20 -20
+H ABCDEFGLQ 0 0
+stand stand male 0
+0 0 huge 0
+
+#2538
+peddler fisherman wandering~
+a wandering peddler~
+A fisherman wanders about the town, selling his freshest catches.
+~
+He's an old fisherman, retired from working on the docks. He now catches fish in the waters of the harbour and sells them to visitors and locals alike.
+~
+human~
+G DF 0 0
+35 0 10d10+1000 1d1+1 5d6+25 slice
+-20 -20 -20 -20
+0 ABCDEFGLQ 0 0
+stand stand male 0
+0 0 medium 0
+
+#2539
+sailor drunken~
+a slightly drunken sailor~
+A slightly drunk sailor is sitting at the bar.
+~
+He's a bit drunk, but he knows his captain doesn't approve of heavy drinking before leaving port, so he won't drink much more than he already has. His face has a shaggy beard on it, some foam from the ale hanging onto his moustache. His skin is very tanned and has the appearance of leather. His hands are rough and calloused, result of working on a ship nearly his whole life.
+~
+human~
+BG J 0 0
+15 11 3d9+300 1d1+1 2d7+4 punch
+-5 -4 -5 0
+CIK 0 0 0
+stand stand male 0
+0 0 medium 0
+
+#2540
+dog old~
+an old dog~
+An old dog is wandering about the town.
+~
+The dog looks like it's been on a ship its whole life, which is saying a lot. It looks very old; its fur is turning grey, it obviously can't see that well, and the teeth that haven't fallen out are about to.
+~
+dog~
+G J 0 0
+3 9 2d7+46 1d1+1 1d6+0 bite
+6 7 7 12
+0 0 0 0
+stand stand either 0
+HM B medium 0
+
+#2541
+sailor human~
+a human sailor~
+A human sailor walks the streets.
+~
+He's an old and weathered sailor, with skin tough as leather and looking a lot like it. He's worked on the same ship for over twenty years, and doesn't plan on quitting anytime soon.
+~
+human~
+G J 0 0
+13 0 3d9+220 1d1+1 2d6+4 pound
+-2 -1 -2 3
+CKU 0 0 0
+stand stand male 0
+0 0 medium 0
+#2542
+woman~
+a Caergothian woman~
+A woman of Caergoth is doing some shopping.
+~
+She's busy buying food and conversing with her neighbors. She's a plain beauty, the kind one expects to meet in towns like Caergoth.
+~
+human~
+BG J 0 0
+6 8 2d6+35 1d1+1 1d6+0 scratch
+7 8 7 13
+0 0 0 0
+stand stand female 0
+0 0 medium 0
+#0
+
+#OBJECTS
+#2500
+steak thick meat~
+a thick steak~
+A thick slab of meat lies on the ground.~
+meat~
+food N A
+12 12 0 0 0
+5 10 0 P
+E
+steak thick meat~
+It looks juicy and delicious.~
+#2501
+bacon~
+a few strips of bacon~
+A few pieces of cooked bacon lie here.~
+meat~
+food N A
+4 4 0 0 0
+1 10 0 P
+E
+bacon~
+Trichinosis kills. Always thoroughly cook pork before eating.~
+#2502
+chicken breast~
+a roasted chicken breast~
+A thick, plump chicken breast lies here.~
+~
+food N A
+8 8 0 0 0
+0 10 0 P
+E
+chicken breast~
+It has been slow-roasted over a fire and is ready to eat.~
+#2503
+venison dried~
+some dried venison~
+A few strips of dried venison lie here.~
+meat~
+food N AN
+5 5 0 0 0
+1 10 0 P
+E
+venison dried~
+The tasty meat has been dried and salted so it keeps longer. Just add water.~
+#2504
+apple green~
+a green apple~
+A large green apple lies on the ground.~
+meat~
+food N AN
+3 3 0 0 0
+1 10 0 P
+E
+apple green~
+Probably sour, but sour apples are oh-so-good.~
+#2505
+potato~
+a raw potato~
+A large raw potato lies here.~
+meat~
+food N A
+4 4 0 0 0
+2 10 0 P
+E
+potato~
+Raw potatoes are much better for you than cooked ones. Except the ones sold in the Inn of the Last Home.~
+#2506
+carrots~
+some carrots~
+A bunch of fresh carrots lie here.~
+meat~
+food N AN
+6 6 0 0 0
+1 10 0 P
+E
+carrots~
+Carrots are good-tasting and good for you.~
+#2507
+tomato~
+a large tomato~
+A delicious-looking tomato lies here.~
+meat~
+food N AN
+5 5 0 0 0
+1 10 0 P
+E
+tomato~
+It looks very tempting, very juicy.~
+#2508
+potion homecoming~
+a potion of homecoming~
+A potion bubbles away.~
+glass~
+potion GN A
+10 'word of recall' '' '' ''
+10 10 0 P
+E
+potion homecoming~
+It seems ready to take you back to your hometown.~
+#2509
+antidote vial~
+a vial of an antidote~
+A thin vial filled with blue liquid lies here.~
+glass~
+potion GN AN
+15 'cure poison' 'cure disease' 'cure serious' ''
+7 10 0 P
+E
+antidote vial~
+Quaffing it will probably restore your health.~
+#2510
+wand gleaming red~
+a gleaming red wand~
+A bright red wand lies on the floor.~
+wood~
+wand GN AO
+15 10 10 'fireball' 0
+15 10 0 P
+E
+wand gleaming red~
+It is always slightly warm.~
+#2511
+staff wooden~
+a simple wooden staff~
+A simple wooden staff lies on the ground.~
+wood~
+staff GN AO
+10 5 5 'shield' 0
+10 10 0 P
+E
+staff wooden~
+It is very comforting to hold.~
+#2512
+scroll flight~
+a scroll of flight~
+A scroll of paper lies here.~
+paper~
+scroll GN AO
+10 fly '' '' ''
+10 10 0 P
+E
+scroll flight~
+There is a seal on it of two outspread wings.~
+#2513
+wand glowing~
+a glowing wand~
+A small wand lies here, glowing softly.~
+wood~
+wand AGN AO
+10 10 10 'faerie fire' 0
+10 10 0 P
+E
+wand glowing~
+The light it gives off is pink.~
+#2514
+fountain stone~
+a small stone fountain~
+A small fountain of stone is in the center of the square.~
+stone~
+fountain O 0
+100000 100000 water 0 0
+10 1000 0 P
+E
+fountain stone~
+The fountain is small, but the water is cool and clear.~
+#2515
+wheat bread loaf ~
+a loaf of wheat bread~
+A loaf of wheat bread lies here.~
+bread~
+food N A
+6 6 0 0 0
+1 10 0 P
+E
+bread loaf wheat~
+It is soft and wholesome.~
+#2516
+rye bread loaf~
+a loaf of rye bread~
+A loaf of rye bread lies here.~
+bread~
+food N A
+6 6 0 0 0
+1 10 0 P
+E
+rye bread loaf~
+The bread has that sharp, spicy smell of rye.~
+#2517
+pie cherry~
+a cherry pie~
+A cherry pie tempts you with its aroma.~
+bread~
+food N A
+7 7 0 0 0
+4 10 0 P
+E
+pie cherry~
+There is nothing better than hot cherry pie.~
+#2518
+sugar cookies~
+some sugar cookies~
+A few sugar cookies lie here.~
+bread~
+food N AN
+4 4 0 0 0
+1 10 0 P
+E
+sugar cookies~
+After being baked, they have been sprinkled with MORE SUGAR!~
+#2519
+roll bread~
+a bread roll~
+A bread roll lies here.~
+bread~
+food N A
+5 5 0 0 0
+4 10 0 P
+E
+bread roll~
+After being baked, it was glazed with a lot of butter.~
+#2520
+raft wooden~
+a small wooden raft~
+A small wooden raft lies here.~
+wood~
+boat N AO
+0 0 0 0 0
+15 250 0 P
+E
+raft wooden~
+Small it might be, but it is good enough to sail on.~
+#2521
+ticket palanthas~
+a boat ticket to Palanthas~
+A boat ticket is here.~
+paper~
+trash N A
+0 0 0 0 0
+1 10 0 P
+E
+ticket palanthas~
+It says, "To Palanthas from Caergoth."
+To board a boat, go to the end of the dock and type board.
+When the boat arrives in Palanthas, type disembark.~
+#2522
+sword iron~
+an iron sword~
+An iron sword lies here.~
+iron~
+weapon N AN
+sword 4 5 slash 0
+5 30 0 P
+E
+sword iron~
+It was forged well, ready to use against whoever.~
+#2523
+fountain marble~
+a marble fountain~
+A small fountain of marble gushes out water.~
+marble~
+fountain O 0
+10000 10000 water 0 0
+10 1000 0 P
+E
+fountain marble~
+The marble is polished white, and a bit damp from the water splashing onto it.~
+#2524
+pit donations~
+a donation pit~
+A round donation pit is carved into the center of the temple.~
+marble~
+container O 0
+10000 0 0 1000 10
+10 1000 0 P
+E
+pit donation~
+It is ready for some good will to come along.~
+#2525
+canteen~
+a canteen~
+A canteen of cured leather lies here.~
+hard leather~
+drink N AO
+80 80 water 0 0
+1 10 0 P
+E
+canteen~
+It is quite large, easily able to hold more water than those skimpy skins in Palanthas.~
+#2526
+backpack leather~
+a leather backpack~
+A large backpack of leather lies here.~
+hard leather~
+container GNY AK
+600 A 0 100 100
+13 10 0 P
+A
+17 0
+E
+backpack leather~
+Something about it seems magical, the way it can hold so much.~
+#2527
+bag cloth~
+a cloth bag~
+A small cloth bag is crumpled in a heap.~
+cloth~
+container N A
+100 0 0 100 100
+5 10 0 P
+E
+bag cloth~
+It's not big, but it'll hold some stuff. Plus it looks quite sturdy.~
+#2528
+lantern bronze~
+a bronze lantern~
+A small lantern crafted of bronze lies here.~
+bronze~
+light AN AO
+0 0 36 0 0
+6 10 0 P
+E
+lantern bronze~
+It contains enough oil to burn a day and a half.~
+#2529
+torch~
+a torch~
+A torch lies here.~
+wood~
+light AN AO
+0 0 12 0 0
+1 10 0 P
+E
+torch~
+It won't last for very long, but the price is right.~
+#2530
+herb green~
+some green herbs~
+A bundle of green herbs lie here.~
+meat~
+pill GN A
+10 'cure serious' '' '' ''
+5 10 0 P
+E
+herb green~
+They seem magical.~
+#2531
+herbs red~
+some red herbs~
+A bunch of red herbs lie here.~
+meat~
+pill GN AN
+10 'detect invis' 'detect magic' '' ''
+5 10 0 P
+E
+herbs red~
+Looking at them, your eyes tingle.~
+#2532
+herbs yellow~
+some yellow herbs~
+A bundle of bright yellow herbs lie here.~
+meat~
+pill GN AN
+10 armor shield '' ''
+5 10 0 P
+E
+herbs yellow~
+They feel protective.~
+#2533
+magic ball~
+a ball of magic~
+A crackling ball of magic floats here.~
+nothingness~
+trash AGN AO
+0 0 0 0 0
+1 0 0 P
+E
+magic ball~
+It glows and it's magical. Not much use, until you absorb the magic.~
+#2534
+herbs orange~
+some orange herbs~
+A bunch of orange herbs lie here.~
+meat~
+pill GN A
+10 'cure disease' 'cure poison' '' ''
+5 10 0 P
+E
+herbs orange~
+They give off a pleasant aroma.~
+#2535
+wild herbs~
+some wild herbs~
+A bunch of wild-looking herbs lie here.~
+meat~
+pill GN A
+10 frenzy '' '' ''
+5 10 0 P
+E
+wild herbs~
+They smell like catnip ... that herb that makes cats go crazy.~
+#2536
+map caergoth~
+a map of Caergoth~
+A map of Caergoth lies here.~
+paper~
+trash N AO
+0 0 0 0 0
+1 10 0 P
+E
+map caergoth~
+^^^^^^^^^^^^^^H a r b o u r^^^^^^^^^^^^^^
+                    |
+                    |
+               T e m p l e
+                    |
+                    |             |-Knight
+Mayor's             |             | Guild
+ Office        M a r|k e t        |     Invoker
+   \    Tavern      |             |      | Mage
+    ----------------+-------------+------+ Guilds
+      Fighter       |   Bank             |
+       Guild        |                  Transmuter
+               S q u|a r e
+                    |
+                    |
+               South Gate
+
+(Warning:map not to scale)~
+#2537
+shield iron~
+an iron shield~
+A shield of cast iron lies here.~
+iron~
+armor N AJ
+7 7 8 5 5
+8 20 0 P
+A
+24 -1
+E
+shield iron~
+It is well-made and quite sturdy.~
+#2538
+iron spear~
+an iron spear~
+A long spear of iron is on the floor.~
+iron~
+weapon N AN
+spear 4 5 pierce F
+5 20 0 P
+A
+18 2
+#2539
+knife iron~
+an iron knife~
+A sturdy knife of iron lies at your feet.~
+iron~
+weapon N AN
+dagger 4 5 stab 0
+5 20 0 P
+A
+19 2
+E
+knife iron~
+The blade is quite sharp, and will stay that way for a while.~
+#2540
+morningstar iron mace~
+an iron morningstar~
+A spiked iron mace lies here.~
+iron~
+weapon N AN
+mace 4 5 pound 0
+5 20 0 P
+E
+morningstar mace iron~
+The head is covered with short but sharp spikes.~
+#2541
+flail iron ball-and-chain~
+an iron ball-and-chain~
+A flail of strong iron lies on the ground.~
+iron~
+weapon N AN
+flail 4 5 beating 0
+5 20 0 P
+A
+1 1
+E
+flail iron ball-and-chain~
+Looks perfect for crushing in somebody's skull.~
+#2542
+chainmail iron shirt~
+a shirt of iron chainmail~
+An iron shirt lies on the ground.~
+iron~
+armor N AD
+5 6 4 5 5
+4 30 0 P
+A
+13 15
+E
+chainmail iron shirt~
+The chains are linked so closely together it is hard to see through it.~
+#2543
+chain iron~
+an iron chain~
+A length of chain lies here.~
+iron~
+weapon N AN
+whip 4 5 whip 0
+5 20 0 P
+A
+18 3
+E
+chain iron~
+The chain is hard and cold, and can be dangerous.~
+#2544
+handaxe iron~
+an iron handaxe~
+A small iron handaxe lies here.~
+iron~
+weapon N AN
+axe 4 5 cleave 0
+5 20 0 P
+A
+19 1
+E
+handaxe iron~
+It is small yet sturdy, able to deliver blows quickly.~
+#2545
+platemail iron~
+a suit of iron platemail~
+Heavy-looking iron platemail lies discarded on the ground.~
+iron~
+armor N AN
+8 8 9 7 7
+9 50 0 P
+A
+2 -1
+A
+24 -1
+E
+platemail iron~
+While being sturdy, it is also heavy.~
+#2546
+anvil~
+an anvil~
+An anvil is in the back of the armoury.~
+iron~
+trash O A
+0 0 0 0 0
+35 1000 0 P
+E
+anvil~
+It is beaten and weathered, having seen probably hundreds of pieces of weaponry or armour forged upon it.~
+#2547
+helmet iron~
+a cast-iron helmet~
+A heavy-looking helmet of iron lies here.~
+iron~
+armor N AE
+6 8 8 6 6
+8 40 0 P
+A
+12 15
+E
+helmet iron~
+It looks very protective.~
+#2548
+desk wooden~
+a wooden desk~
+A wooden desk is in the corner, three chairs around it.~
+wood~
+furniture O 0
+2 1000 DG 130 130
+10 1000 0 P
+E
+desk wooden~
+This is the dockmaster's desk, where he does all his paperwork. It is cluttered, but a few chairs opposite it allow a few other people to sit at it.~
+#2549
+mug ale~
+a mug of ale~
+A cold mug of ale is here.~
+glass~
+drink N AO
+30 30 ale 0 0
+10 10 0 P
+E
+ale mug~
+It looks tasty, just right after a long day.~
+#2550
+glass wine~
+a glass of red wine~
+A glass of dark red wine is here.~
+glass~
+drink N AO
+20 20 'red wine' 0 0
+10 10 0 P
+E
+glass wine~
+For those who don't want something as strong as ale.~
+#2551
+keg dark ale~
+a wooden keg~
+A large wooden keg is here.~
+wood~
+drink N AO
+300 300 'dark ale' 0 0
+12 100 0 P
+E
+keg dark ale~
+For those who really want to get drunk. Or for minotaurs.~
+#2552
+hot meal~
+a hot meal~
+A tempting, hot meal has been foolishly forgotten.~
+~
+food N A
+24 24 0 0 0
+0 10 0 P
+E
+hot meal~
+It looks so tempting ... tender-cooked beef, steaming potatoes, a large slice of buttered bread, and gravy covering the beef. *drool*~
+#2553
+table chairs~
+a table and chairs~
+A large table surrounded by chairs is situated in the room.~
+wood~
+furniture O A
+6 10000 ADG 130 130
+10 1000 0 P
+E
+table chairs~
+There's room enough for six people.~
+#2554
+bed feather~
+a feather bed~
+A large feather bed is in the corner.~
+wood~
+furniture O 0
+4 10000 EHK 180 180
+10 1000 0 P
+E
+bed feather~
+It looks comfortable, so comfortable ... after a few hours sleep on this, anyone could be rested completely. And it's huge. Big enough for at least three people, maybe four.~
+#2555
+crates stack~
+a stack of crates~
+A stack of crates is ready to be loaded.~
+wood~
+trash O 0
+0 0 0 0 0
+1 5000 0 P
+E
+crates stack~
+They're full of cargo, ready to be shipped to Palanthas or Naiadia.~
+#2556
+hiking stick wooden~
+a wooden hiking stick~
+A long length of wood lies here.~
+wood~
+weapon 0 AN
+staff 4 5 crust F
+5 20 0 P
+A
+14 20
+A
+18 1
+E
+hiking stick wooden~
+It looks useful for when you've got to walk a while. It's also useful as a weapon.~
+#2557
+shortsword steel~
+a steel shortsword~
+A short steel sword lies here.~
+steel~
+weapon 0 AN
+sword 4 4 slash 0
+12 20 0 P
+A
+19 2
+E
+shortsword steel~
+It's made of well-tempered steel, probably forged in Caergoth. Curious, since he seems to only use iron.~
+#2558
+shield steel~
+a steel shield~
+A round steel shield lies in the dust.~
+steel~
+armor 0 AJ
+7 6 7 4 4
+12 20 0 P
+A
+13 20
+A
+2 1
+E
+shield steel~
+It is thick yet light, and decorated with the emblem of Caergoth.~
+#2559
+boots leather~
+a pair of leather boots~
+Two boots of hard leather sit here.~
+hard leather~
+armor 0 AG
+6 4 4 4 2
+12 10 0 P
+A
+17 -2
+E
+boots leather~
+They are well-worn and look comfortable.~
+#2560
+fishing pole~
+a fishing pole~
+A long fishing pole is here.~
+wood~
+treasure 0 AO
+0 0 0 0 0
+15 10 0 P
+A
+5 1
+A
+12 15
+E
+fishing pole~
+It has seen a lot of fish caught on it.~
+#2561
+bucket~
+a bucket~
+A bucket is here, smelling of fish.~
+metal~
+container 0 AO
+50 0 0 50 50
+10 10 0 P
+E
+bucket~
+It smells of fish. That's probably what's been in here.~
+#2562
+fish~
+a fish~
+A small fish lies here, dead.~
+meat~
+food N A
+4 4 0 0 0
+1 10 0 P
+E
+fish~
+It looks to have been caught recently.~
+#2563
+belt leather~
+a hard leather belt~
+A thick, flat length of leather lies here.~
+hard leather~
+armor 0 AL
+4 5 4 6 6
+11 10 0 P
+A
+19 1
+A
+13 10
+E
+belt leather~
+It's thick and wide, just right for protecting your stomach or holding up your pants.~
+#2564
+sleeves steel~
+a set of steel sleeves~
+Some chainmail sleeves are lying here unused.~
+steel~
+armor 0 AI
+5 6 6 4 4
+12 10 0 P
+A
+18 2
+A
+17 -5
+E
+sleeves steel~
+The chainmail is put together quite well.~
+#2565
+platemail steel fine~
+a suit of fine steel platemail~
+A well-crafted suit of steel platemail lies here.~
+steel~
+armor AK AD
+12 12 11 13 13
+30 30 0 P
+A
+13 25
+A
+5 2
+A
+24 -5
+E
+platemail steel fine~
+It is well-crafted and very beautiful, bearing the emblem of Caergoth.~
+#2566
+longsword glittering steel~
+a glittering steel longsword~
+A beautiful steel sword is going to rust away.~
+steel~
+weapon BM AN
+sword 6 7 slash D
+28 30 0 P
+A
+19 5
+A
+18 5
+#2567
+signet caergoth ring~
+the Caergoth signet ring~
+A beautiful ring lies in the dust.~
+steel~
+armor BG AB
+11 10 10 12 12
+32 10 0 P
+A
+24 -6
+A
+1 2
+A
+18 3
+A
+19 3
+A
+13 30
+A
+12 30
+E
+signet caergoth ring~
+It is well-crafted of steel, inlaid with amethyst and bears the signet of Caergoth.~
+#2568
+shield steel fine~
+a fine steel shield~
+A finely-crafted shield of steel lies here.~
+steel~
+armor A AJ
+12 11 11 13 13
+28 20 0 P
+A
+17 -10
+A
+24 -5
+A
+5 2
+A
+3 2
+E
+shield fine steel~
+It bears the mark of Caergoth, and is crafted quite well.~
+#2569
+key~
+a key~
+A small key lies here.~
+steel~
+key 0 AO
+0 0 0 0 0
+10 10 0 P
+E
+key~
+It looks very important.~
+#2570
+engagement ring diamond~
+a diamond engagement ring~
+A beautiful engagement ring lies here.~
+gold~
+treasure AN AB
+0 0 0 0 0
+20 10 0 P
+A
+17 -10
+A
+4 1
+E
+engagement ring diamond~
+It is beautiful, made of gold and set with a large diamond.~
+#2571
+tuxedo~
+a tuxedo~
+A black and white tuxedo is lying here.~
+cloth~
+clothing N AD
+0 0 0 0 0
+20 10 0 P
+A
+17 -5
+E
+tuxedo~
+It is very good-looking, and would probably make anyone who wore it at least a little handsome.~
+#2572
+wedding dress white~
+a white wedding dress~
+A beautiful white wedding dress has been tossed on the ground.~
+lace~
+clothing N AK
+0 0 0 0 0
+20 10 0 P
+A
+17 -10
+E
+wedding white dress~
+It is sewn with pearls, and decorated with very fine lace.~
+#2573
+veil wedding white~
+a white wedding veil~
+A wedding veil lies on the ground.~
+lace~
+clothing N AE
+0 0 0 0 0
+20 10 0 P
+A
+17 -10
+E
+veil white wedding~
+It is quite sheer and well-crafted of lace.~
+#2574
+bouquet bridal~
+a bridal bouquet~
+A stunning arrangement of flowers lies here.~
+wood~
+treasure N AO
+0 0 0 0 0
+20 10 0 P
+E
+bouquet bridal~
+The flowers are all fresh and good-looking.~
+#2575
+rack display armour weapons~
+a display rack of armour and weapons~
+A large rack displaying the armourer's wares is on the eastern wall.~
+~
+trash O 0
+0 0 0 0 0
+0 1000 0 P
+E
+rack display~
+All the weapons and armour are well-crafted out of iron.~
+#2576
+iron ingots~
+a stack of iron ingots~
+A large stack of iron ingots are beside the anvil.~
+iron~
+trash O A
+0 0 0 0 0
+1 1500 0 P
+E
+stack ingots~
+Collectively, very heavy.~
+#2577
+counter wooden~
+a wooden counter~
+A wooden counter is set up in the store.~
+wood~
+furniture O 0
+4 10000 AG 120 120
+1 5000 0 P
+E
+counter wooden~
+It is made of oak, and decorated with the emblem of Caergoth.~
+#2578
+oven cast iron~
+a cast iron oven~
+A large cast iron oven is at the back of the bakery.~
+iron~
+trash O 0
+0 0 0 0 0
+1 5000 0 P
+E
+oven cast iron~
+The smell of baked bread comes from within.~
+#2579
+clothes rack~
+a clothing rack~
+A rack of dresses and tuxedos is against the north wall.~
+wood~
+trash O 0
+0 0 0 0 0
+1 5000 0 P
+E
+clothing rack~
+All the dresses and tuxedos are hand-made and look very elegant.~
+#2580
+display case glass~
+a glass display case~
+A glass display case containing several engagement rings is beside the counter.~
+glass~
+trash O 0
+0 0 0 0 0
+1 5000 0 P
+E
+display case glass~
+It holds several engagement rings for display to the public.~
+#2581
+desk wooden~
+the mayor's desk~
+A large oaken desk is in the center of the room, two chairs opposite it.~
+wood~
+furniture O 0
+2 1000 DG 140 140
+1 5000 0 P
+E
+desk wooden~
+It's very cluttered with the paperwork of the mayor.~
+#2582
+banner war caergoth~
+a war banner of Caergoth~
+A war banner is here.~
+wood~
+light A AO
+0 0 50 0 0
+13 10 0 P
+A
+19 2
+A
+3 1
+E
+banner war caergoth~
+It is a blue banner, hemmed with white thread and bearing the emblem of Caergoth.~
+#2583
+broom street cleaner~
+a street cleaner's broom~
+A long, weathered broom lies here.~
+wood~
+weapon 0 AO
+polearm 4 5 pound F
+6 20 0 P
+E
+broom street cleaner~
+It has been used a lot over the years.~
+#2584
+desk wooden~
+a wooden desk~
+A small wooden desk is cluttered with work orders.~
+wood~
+furniture O 0
+1 500 DG 130 130
+1 5000 0 P
+E
+desk wooden~
+Cluttered with work orders ... the guy who this belongs to is a busy man.~
+#2585
+spit open~
+an open spit~
+An open spit is slowly cooking meat at the back of the shop.~
+iron~
+trash O 0
+0 0 0 0 0
+1 5000 0 P
+E
+spit open~
+The sound and aroma of various meats being cooked drifts over to you.~
+#2586
+counter bloody wooden ~
+a bloody wooden counter~
+A wooden counter is close to the doorway, a bit bloody.~
+wood~
+furniture O 0
+3 1000 A 120 120
+1 5000 0 P
+E
+counter bloody wooden~
+Its surface is nicked and dented from meat being chopped, and it's a bit blood-stained, but it is otherwise quite clean.~
+#2587
+bins vegetable fruit~
+bins of fruit and vegetables~
+Several large bins full of fruits and vegetables are on the west wall.~
+wood~
+trash O 0
+0 0 0 0 0
+1 5000 0 P
+E
+bins vegetables fruit~
+They are full of potatoes, tomatoes, apples, and carrots. ~
+#2588
+blast furnace~
+the blast furnace~
+A large blast furnace is at the back of the armoury, radiating heat.~
+iron~
+trash O 0
+0 0 0 0 0
+1 5000 0 P
+E
+blast furnace~
+It is always venting large amounts of heat into the shop, despite the chimney leading out into the open sky.~
+#2589
+mushroom dried~
+a dried mushroom~
+A small dried mushroom lies here.~
+wood~
+pill GN A
+8 'pass door' refresh '' ''
+10 10 0 P
+E
+mushroom dried~
+Not much to see about it; it's a small mushroom, dried and black-grey.~
+#2590
+rack drying herbs~
+a rack of drying herbs~
+A large wooden rack filled with drying herbs is suspended from the ceiling.~
+wood~
+trash O AN
+0 0 0 0 0
+1 5000 0 P
+E
+rack drying herbs~
+It's like looking at a rainbow; all manner and colour of herbs are hanging here drying: red, green, yellow, orange ...~
+#2591
+parchment sheet~
+a sheet of parchment~
+A small sheet of parchment lies here.~
+parchment~
+scroll GN A
+10 'create spring' '' '' ''
+10 10 0 P
+E
+parchment sheet~
+Amidst the magical runes, a simple picture of a spring is drawn in blue ink.~
+#2592
+counter wooden~
+a wooden counter~
+A wooden counter, filled with drawers of gold and silver, is close by the door.~
+wood~
+trash O 0
+0 0 0 0 0
+1 5000 0 P
+E
+counter wooden~
+It is securely locked, and the banker can easily protect it should a thief happen to come by.~
+#2593
+charm luck~
+a good luck charm~
+A small charm for luck is lying at your feet.~
+silver~
+treasure GN AC
+0 0 0 0 0
+5 0 0 P
+A
+2 1
+A
+18 2
+A
+17 -4
+E
+charm luck~
+It's a simple little charm, made with folk magic to give it some sort of influence over things.~
+#2594
+ring silver~
+a small silver ring~
+A small silver ring lies in the dust.~
+silver~
+treasure N AB
+0 0 0 0 0
+6 0 0 P
+A
+3 2
+A
+13 10
+E
+ring silver~
+It's small and well-made.~
+#2595
+beds bunk~
+a set of bunk beds~
+Two beds are bunked against the east wall.~
+wood~
+furniture O 0
+2 1000 EHK 170 170
+35 5000 0 P
+E
+beds bunk~
+One person sleeps up top, another down bottom.~
+#2596
+bunk beds~
+a set of bunk beds~
+A set of bunk beds are against the western wall.~
+wood~
+furniture O 0
+2 1000 EHK 170 170
+35 5000 0 P
+E
+bunk beds~
+One person sleeps up top, the other down bottom.~
+#2597
+axe bronze~
+a bronze axe~
+A bronze axe is lying on the ground.~
+bronze~
+weapon 0 AN
+axe 4 4 cleave 0
+6 20 0 P
+A
+19 1
+A
+18 1
+E
+axe bronze~
+The blade is nicked in places, having seen more than a few fights.~
+#2598
+bronze bracelet~
+a bronze bracelet~
+A small bracelet made of bronze glitters a bit.~
+bronze~
+armor 0 AM
+4 5 4 3 3
+6 10 0 P
+A
+24 -1
+E
+bronze bracelet~
+It glitters a bit, but is dulled and a bit dented and chipped.~
+#2599
+fountain stone~
+a small stone fountain~
+A stone fountain shaped like a gargoyle sprays out water.~
+stone~
+fountain O 0
+10000 10000 water 0 0
+1 5000 0 P
+E
+fountain stone~
+There is a small basin underneath the gargoyle, where water collects. The water comes out of the mouth of the gargoyle itself.~
+#6300
+dirk weathered copper~
+a weathered copper dirk~
+A weathered copper dagger lies on the ground.~
+copper~
+weapon B AN
+dagger 1 4 stab 0
+15 10 0 P
+A
+18 2
+A
+2 1
+A
+19 1
+E
+dirk weathered copper~
+It used to shine like new, but constant exposure to the corrosive salt water of the ocean has begun to turn it a bright green.~
+#6301
+collar leather stained~
+a stained leather collar~
+An old dog collar is lying on the floor.~
+kid leather~
+armor 0 AC
+3 4 4 2 2
+4 10 0 P
+A
+1 1
+E
+collar leather stained~
+It's generally discoloured from exposure to water, and looks very old.~
+#6302
+gloves work~
+a pair of work gloves~
+Two worn leather gloves lie here.~
+kid leather~
+armor 0 AH
+3 2 2 1 1
+3 10 0 P
+A
+1 1
+A
+2 1
+E
+gloves work~
+They look like they've been used a lot.~
+#0
+
+
+#ROOMS
+#2590
+Southern gate of Caergoth~
+Inside the south gate of Caergoth, the feel of a busy fishing town and seaport is all around. The smell of the salt air, the calling of seagulls, the shouts of dockhands. It is a quiet town, though, despite its importance as a major port. The town stretches out to the north. There is a carving in one of the stones of
+the gate.
+~
+0 0 1
+D0
+~
+~
+0 -1 2591
+D2
+~
+~
+0 -1 -1
+E
+carving stones gate~
+The Town of Caergoth, built by Mishakal. Permission is granted to use on any ROM MUD, provided credit is solely given to Mishakal in the area listing. - copyright 2001.
+~
+S
+#2591
+North of the gates~
+North of the gates of Caergoth, the call of gulls and the sea breeze are all around. The town looks like a bustling seaport, with cargo coming in from all over the world, and sending cargo out to the same places, but primarily Palanthas. The city gates are to the south, and the market square is a bit further to the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 2502
+D2
+~
+~
+0 -1 2590
+S
+#2502
+South of the market~
+The sounds and smells of the market come at you from here, while you are still mostly out of the market. Baking bread, sizzling meat, the pounding of a blacksmith. People coming and going from the market pass through here occasionally, and a few sailors and travellers also come and go, either out of the town or just coming into it. The market is directly north.
+~
+0 0 1
+D0
+~
+~
+0 -1 2503
+D2
+~
+~
+0 -1 2591
+S
+#2503
+The southern market square~
+In the southern market, the heat from the bakery and the smell of cooking meat from the butcher condenses. It's a pleasant mix. The market square is bustling with locals and sailors in port, as well as other visitors to the town. To the south are the main gates of Caergoth, and the market square is just a short way to the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 2504
+D1
+~
+~
+0 -1 2521
+D2
+~
+~
+0 -1 2502
+D3
+~
+~
+0 -1 2524
+S
+#2504
+The center of the market square of Caergoth~
+The center of the market square. From all around you come the usual sounds and smells of a market: metal being forged into armour and weapons, fresh baked bread, the gossip of the locals, shopkeepers hawking their wares. A small stone fountain has been built here, its spray shooting up in the air and then coming back down.
+~
+0 0 1
+D0
+~
+~
+0 -1 2505
+D1
+~
+~
+0 -1 2515
+D2
+~
+~
+0 -1 2503
+D3
+~
+~
+0 -1 2518
+S
+#2505
+The northern market square~
+The northern market square is just like the rest of it: chaos, people moving here and there, buying and selling, the delicious aromas of food being prepared. Salt air drifts in from the harbour to the north, cool against your skin. The pounding of a hammer against hot iron comes from the west, and the smell of drying herbs and the sound of brewing potions comes from the east.
+~
+0 0 1
+D0
+~
+~
+0 -1 2506
+D1
+~
+~
+0 -1 2522
+D2
+~
+~
+0 -1 2504
+D3
+~
+~
+0 -1 2523
+S
+#2506
+North of the markets~
+The markets make a lot of noise, especially the blacksmith, which is close by. The aromas of all manner of food being cooked and hawked by their vendors all carry up and down the streets. A few locals pass through here, but mostly the traffic through this place is worshippers going to the temple of Paladine, which is north, and sailors, coming to and from the harbour, which is also to the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 2507
+D2
+~
+~
+0 -1 2505
+S
+#2507
+A clean stone street~
+This part of the street leading to the harbour is pleasantly quiet, with the hustle and hubbub of the markets to the south some way. A good-sized temple can be seen up to the north. A few houses surround you to the east and west, most of their doors closed tightly. However, there is one house to the east whose door is open to let the cool air in.
+~
+0 0 1
+D0
+~
+~
+0 -1 2508
+D1
+~
+~
+0 -1 2585
+D2
+~
+~
+0 -1 2506
+S
+#2508
+Before a white temple~
+You stand before a large white marble temple to Paladine. It is not so large as the one in Palanthas, yet is still an impressive structure. Large pillars support the roof, which is angled and peaked. On the front, facing the street, are three emblems: that of Caergoth, a platinum dragon symbol, and the sign of the healing hand. The entrance to the temple is to the north, up a small but wide staircase. The markets are back south.
+~
+0 0 1
+D0
+~
+~
+0 -1 2509
+D2
+~
+~
+0 -1 2507
+S
+#2509
+The temple of Paladine at Caergoth~
+The marble temple is very holy and quiet, with little decoration. A large platinum dragon is engraved into the north wall, and a sign of the healing hand is just below it. A donation pit has been carved into the floor. Those who are of seventh rank or below may go down into the Glade of Beginnings.
+~
+0 D 0
+D1
+~
+~
+0 -1 2510
+D2
+~
+~
+0 -1 2508
+D3
+~
+~
+0 -1 2511
+D5
+~
+~
+0 -1 -1
+S
+#2510
+A narrow stone lane~
+Just outside the eastern entrance to the temple is this narrow stone lane, flat and easy to walk on. The salt air blows through here, and the water condenses in small, shallow pools on the street and in a fine mist on the sides of the buildings. The temple is to the west, and the lane continues north a very short way.
+~
+0 0 1
+D0
+~
+~
+0 -1 2512
+D3
+~
+~
+0 -1 2509
+S
+#2511
+A narrow stone lane~
+Just outside the western entrance to the temple is this narrow stone lane, flat and easy to walk on. The salt air blows through here, and the water condenses in small, shallow pools on the street and in a fine mist on the sides of the buildings. The temple is to the east, and the lane continues north a very short way. Also, to the west seems to be a smaller place of worship, one very special.
+~
+0 0 1
+D0
+~
+~
+0 -1 2514
+D1
+~
+~
+0 -1 2509
+D3
+~
+~
+0 -1 2567
+S
+#2512
+A narrow stone lane~
+The narrow stone lane opens up to the west into a larger, damper and decidedly more worn street. The salt air is getting stronger now, as the harbours and open sea are very close to the north. The shouts of sailors and dockhands alike carry over here, shouting about moving cargo and when the ship will be leaving port. A few come and go through here, either to the markets or the tavern.
+~
+0 0 1
+D2
+~
+~
+0 -1 2510
+D3
+~
+~
+0 -1 2513
+S
+#2513
+A wet, worn road~
+You stand on a worn road leading north to the harbour. The temple is directly south, but there is a thick wall of white marble barring direct passage in. Two very similar narrow streets lead east and west around the temple, eventually leading back to the markets. The waters of the harbour can be seen from here.
+~
+0 0 1
+D0
+~
+~
+0 -1 2534
+D1
+~
+~
+0 -1 2512
+D3
+~
+~
+0 -1 2514
+S
+#2514
+A narrow stone lane~
+The narrow stone lane opens up to the east into a larger, damper and decidedly more worn street. The salt air is getting stronger now, as the harbours and open sea are very close to the north. The shouts of sailors and dockhands alike carry over here, shouting about moving cargo and when the ship will be leaving port. A few come and go through here, either to the markets or the tavern.
+~
+0 0 1
+D1
+~
+~
+0 -1 2513
+D2
+~
+~
+0 -1 2511
+S
+#2515
+The eastern market square~
+The eastern market square is a bit more hurried and rushed, since many homes are on the eastern side of the town. Locals come and go, doing their shopping for the day, and sailors browse the shops while in port. The smell of cooking meat and drying herbs drift around here, carried on the cool salt breeze.
+~
+0 0 1
+D0
+~
+~
+0 -1 2522
+D1
+~
+~
+0 -1 2516
+D2
+~
+~
+0 -1 2521
+D3
+~
+~
+0 -1 2504
+S
+#2516
+On a cobblestone street~
+The cobblestones under your feet are worn and gray, but clean. The buildings around you are mostly small houses, their doors closed to the outside. The market is just to the west, while a small bank is open to the south, a sign hanging above its open door. The cobblestone road continues on both east and west.
+~
+0 0 1
+D1
+~
+~
+0 -1 2517
+D2
+~
+~
+0 -1 2569
+D3
+~
+~
+0 -1 2515
+E
+sign~
+[]==========[]
+ |          |
+ | The bank |
+ |    of    |
+ | Caergoth |
+ |          |
+[]==========[]~
+S
+#2517
+On a cobblestone street~
+The cobblestones under your feet are worn and gray, but clean. The buildings around you are mostly small houses, their doors closed to the outside. The market is a ways to the west. A wider but shorter cobblestone street extends north, and this road continues to the east for a little.
+~
+0 0 1
+D0
+~
+~
+0 -1 2537
+D1
+~
+~
+0 -1 2556
+D2
+~
+~
+0 -1 2588
+D3
+~
+~
+0 -1 2516
+S
+#2518
+The western market square~
+The western market square is the same mix of tempting smells, loud noises and chaos as the rest of the market. People come, people go. The salt breeze is cool against your skin, and a spray of salt water comes with it. The aroma of bread being baked and the heat and noises of a smith at work all come at you.
+~
+0 0 1
+D0
+~
+~
+0 -1 2523
+D1
+~
+~
+0 -1 2504
+D2
+~
+~
+0 -1 2524
+D3
+~
+~
+0 -1 2519
+S
+#2519
+On a cobblestone street~
+The cobblestones under your feet are worn and gray, but clean. The buildings around you are mostly small houses, their doors closed to the outside. The markets are just to the east, their noises carrying and echoing off the buildings around you. A small house with its door open is to the south, and the street continues westward.
+~
+0 0 1
+D1
+~
+~
+0 -1 2518
+D2
+~
+~
+0 -1 2586
+D3
+~
+~
+0 -1 2520
+S
+#2520
+On a cobblestone street~
+The cobblestones under your feet are worn and gray, but clean. The buildings around you are mostly small houses, their doors closed to the outside. There is a tavern to the north, looking very comfortable and relaxing. The street continues to the west, while the markets are a short walk to the east.
+~
+0 0 1
+D0
+~
+~
+0 -1 2540
+D1
+~
+~
+0 -1 2519
+D3
+~
+~
+0 -1 2570
+S
+#2521
+In front of the butchery and grocery~
+The smell of slow-cooked meats comes out of the open door of the butcher's shop, as well as a very faint scent of blood. The grocer is to the south, and bins of vegetables can be seen through the door and window. A lot of people pass through here, buying food and talking with friends and neighbors.
+~
+0 0 1
+D0
+~
+~
+0 -1 2515
+D1
+~
+~
+0 -1 2526
+D2
+~
+~
+0 -1 2525
+D3
+~
+~
+0 -1 2503
+S
+#2522
+Between two shops of magic~
+The sound of potions brewing and bubbling to the east and the smell of drying herbs to the north come to your ears in the northeastern market. The herbs carry a pungent odor, the potions are watery-sounding. The main square is to the southwest.
+~
+0 0 1
+D0
+~
+~
+0 -1 2530
+D1
+~
+~
+0 -1 2529
+D2
+~
+~
+0 -1 2515
+D3
+~
+~
+0 -1 2505
+S
+#2523
+In front of the pet store and the blacksmith~
+A wave of heat from the smithy to the north constantly flows, and the sound of animals drifts over from the west. The pounding sound of metal on metal also comes from the blacksmith, interrupted only by a hissing sound of steam, then the forging continues. The market bustles with all manner of folk, some locals, some sailors, some other visitors.
+~
+0 0 1
+D0
+~
+~
+0 -1 2533
+D1
+~
+~
+0 -1 2505
+D2
+~
+~
+0 -1 2518
+D3
+~
+~
+0 -1 2531
+S
+#2524
+In front of the bakery and general store~
+The heat and smell of baked goods wafts in from the south. It's a bit quieter in this part of the market square, though a lot of people are coming in and out of the stores, and they seem to be either in a complete hurry or have no concept of time whatsoever, stopping to chat with friends and neighbors at their leisure.
+~
+0 0 1
+D0
+~
+~
+0 -1 2518
+D1
+~
+~
+0 -1 2503
+D2
+~
+~
+0 -1 2527
+D3
+~
+~
+0 -1 2528
+S
+#2525
+The grocery~
+The faint smell of damp earth and fresh-picked vegetables and fruit come at you upon entering, but the odor isn't offensive. Large bins full of various produce are inside this shop, and a green grocer awaits your decision on which, if any, of her wares you will purchase and eat.
+~
+0 D 0
+D0
+~
+~
+0 -1 2521
+S
+#2526
+The butcher's shop~
+Inside the butcher's shop, meathooks hang behind the counter, holding large slabs of raw meat to be chopped up, cooked and sold. The sound and smell of cooking meat comes from a spit at the back, and the counter is blood-stained but otherwise clean.
+~
+0 D 0
+D3
+~
+~
+0 -1 2521
+S
+#2527
+The bakery~
+This place is quite hot, due to the cast iron oven at the back of the store always being used. But the aroma of freshly baked breads and pastries is pleasant. A thin coating of flour covers much of the floor and parts of the walls, but its a clean store, well-kept and very much loved by the baker.
+~
+0 D 0
+D0
+~
+~
+0 -1 2524
+S
+#2528
+The general store~
+Basic supplies for adventuring and everyday life are for sale here. The store is quite plain, only holding what is needed for sale, and nothing more. The hardwood floor is polished, and the walls are clean and spotless. It's a bit warm because the bakery is close by.
+~
+0 D 0
+D1
+~
+~
+0 -1 2524
+S
+#2529
+A magic shop~
+The sounds of potions brewing at the back of the store are plain here, and a pile of reagents, probably purchased next door, is waiting to be brewed. A large amount of empty glass vials is at the back, along with stoppers. A rack of staves and wands is on the side wall, for inspection before purchase.
+~
+0 D 0
+D3
+~
+~
+0 -1 2522
+S
+#2530
+A shop of herbs and reagents~
+The pungent smell of dried and fresh herbs fills the air of this simple shop. An aura of peace and magical blessing hangs in the air, as well. Everything here is made of wood. Above the door is a red metal disc, giving you Lunitari's blessing as you are in here. Herbs for all purposes can be bought here.
+~
+0 D 0
+D2
+~
+~
+0 -1 2522
+S
+#2531
+The pet shop~
+The usual smell of pets hangs on the air, but there is not a trace of dirt or filth in the store. It's a pleasant shop, well-maintained by its owner, who makes a good amount of money on the pets he sells, sometimes exotic ones from far away lands. However, most of his pets are of the everyday variety.
+~
+0 DM 0
+D1
+~
+~
+0 -1 2523
+S
+#2532
+Pet storage~
+You know the drill. I've written a few of these rooms. If you're here, pray for release. Don't attack the pets. Don't feed the pets. Don't eat the pets. Don't try to recall, teleport, group teleport, wildhome, or gate out. You can't. Just pray and hope the gods hear you.
+~
+0 CDKNT 0
+S
+#2533
+The smithy~
+A draft of heat from the blast furnace assaults you upon entering. This place is sooty and smells strongly of iron. A smith stands at it, hammering red-hot pieces of iron into various weapons and armour. A rack of what he makes can be seen in here, for inspection before buying.
+~
+0 D 0
+D2
+~
+~
+0 -1 2523
+S
+#2534
+A wet, worn road~
+You stand on a worn road leading north to the harbour. The temple is to the south a bit, but not directly. A few houses line the sides of the road, mostly small and very uninteresting. Two of them have their doors open, though. The waters of the harbour can be seen from here, as well as the northern gates of Caergoth.
+~
+0 0 1
+D0
+~
+~
+0 -1 2535
+D1
+~
+~
+0 -1 2578
+D2
+~
+~
+0 -1 2513
+D3
+~
+~
+0 -1 2579
+S
+#2535
+A wet, worn road~
+You stand on a worn road leading north to the harbour. The temple is a way to the south, down along the road, as is the busy marketplace. Just north, the northern gates of Caergoth rise up before the harbour. The waters of the harbour can be seen from here, as well as ships that are docked, leaving or arriving.
+~
+0 0 1
+D0
+~
+~
+0 -1 2536
+D2
+~
+~
+0 -1 2534
+S
+#2536
+Northern gates of Caergoth~
+At the large northern gates, the busy harbour is just north, while the quieter town is back south. The smell of the salt air is in full force, and the waters of the harbour are swaying gently up and down. This harbour has always been a safe one, and thus makes Caergoth an ideal place for shipping. Busy workers can be seen stacking crates and boxes, getting them ready to load and shipped out to Palanthas.
+~
+0 0 1
+D0
+~
+~
+0 -1 2542
+D2
+~
+~
+0 -1 2535
+S
+#2537
+Solamnic Avenue~
+You walk along a wide, albeit short cobblestone road named Solamnic Avenue. It is well-kept and well-lit. A few houses are all around you, but most of them are mundane, and their doors are closed to outsiders. Back south is the east-west cobblestone road through Caergoth.
+~
+0 0 1
+D0
+~
+~
+0 -1 2538
+D2
+~
+~
+0 -1 2517
+S
+#2538
+Solamnic Avenue~
+You walk along a wide, albeit short cobblestone road named Solamnic Avenue. It is well-kept and well-lit. A few houses are all around you, but most of them are mundane, and their doors are closed to outsiders. A small building of grey stone is to the east, and what looks like the headquarters for the guards of the city is to the west.
+~
+0 0 1
+D0
+~
+~
+0 -1 2539
+D1
+You see the entrance to the knight's guild.~
+~
+0 -1 2565
+D2
+~
+~
+0 -1 2537
+D3
+There's the cityguard headquarters.~
+~
+0 -1 2582
+S
+#2539
+Solamnic Avenue~
+You walk along a wide, albeit short cobblestone road named Solamnic Avenue. It is well-kept and well-lit. A few houses are all around you, but most of them are mundane, and their doors are closed to outsiders. The street ends here, with a wedding boutique to the west and a small house, its door wide open, to the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 2587
+D2
+~
+~
+0 -1 2538
+D3
+~
+~
+0 -1 2577
+S
+#2540
+A comfortable tavern~
+The tavern is dim but warm and comfortable, a place of popularity and good repute in Caergoth. Many a sailor comes here after getting off ship to enjoy the good ale and fine atmosphere of the tavern. The locals often enjoy the ale too, after a day of work in the docks or their shops.
+~
+0 D 0
+D2
+~
+~
+0 -1 2520
+S
+#2541
+A quiet resting room~
+The sounds of Caergoth seem far away now, in this quiet room. A large feather bed is here, looking soft and warm. A small window looks out over the harbour and shingled rooftops of the town. A fireplace maintains a low fire for warmth and light. The tavern is just downstairs.
+~
+0 DK 0
+D5
+~
+~
+0 -1 2540
+S
+#2542
+The entrance to the harbour~
+Underneath a stone arch that marks the entrance to the harbour, the salt air blows from the sea, bringing fine spray with it. The sea rocks up and down gently, no matter in storm or in calm. This is a very safe harbour, and it has contributed immensely, if not totally, to Caergoth's success as a major shipping port.
+~
+0 C 1
+D0
+~
+~
+0 -1 2547
+D1
+~
+~
+0 -1 2543
+D2
+~
+~
+0 -1 2536
+D3
+~
+~
+0 -1 2545
+S
+#2543
+The harbour~
+Standing on the wooden planks of the harbour, which are old but far from breaking, the salt air and the cool breeze always blowing from here can be felt quite distinctly. Salt spray is carried along on the air. The gentle lull of waves crashing against the support poles can be heard, along with the screeching call of gulls and other seabirds. The odor of fish is prevalent, as fishing boats come in daily.
+~
+0 0 1
+D0
+~
+~
+0 -1 2548
+D1
+~
+~
+0 -1 2544
+D3
+~
+~
+0 -1 2542
+S
+#2544
+The harbour~
+Standing on the wooden planks of the harbour, which are old but far from breaking, the salt air and the cool breeze always blowing from here can be felt quite distinctly. Salt spray is carried along on the air. The gentle lull of waves crashing against the support poles can be heard, along with the screeching call of gulls and other seabirds. The odor of fish is prevalent, as fishing boats come in daily. To the north is the dockmaster's office.
+~
+0 0 1
+D0
+~
+~
+0 -1 2549
+D3
+~
+~
+0 -1 2543
+S
+#2545
+The harbour~
+Standing on the wooden planks of the harbour, which are old but far from breaking, the salt air and the cool breeze always blowing from here can be felt quite distinctly. Salt spray is carried along on the air. The gentle lull of waves crashing against the support poles can be heard, along with the screeching call of gulls and other seabirds. The odor of fish is prevalent, as fishing boats come in daily.
+~
+0 0 1
+D0
+~
+~
+0 -1 2550
+D1
+~
+~
+0 -1 2542
+D3
+~
+~
+0 -1 2546
+S
+#2546
+The harbour~
+Standing on the wooden planks of the harbour, which are old but far from breaking, the salt air and the cool breeze always blowing from here can be felt quite distinctly. Salt spray is carried along on the air. The gentle lull of waves crashing against the support poles can be heard, along with the screeching call of gulls and other seabirds. The odor of fish is prevalent, as fishing boats come in daily.
+~
+0 0 1
+D0
+~
+~
+0 -1 2551
+D1
+~
+~
+0 -1 2545
+S
+#2547
+The harbour~
+Standing on the wooden planks of the harbour, which are old but far from breaking, the salt air and the cool breeze always blowing from here can be felt quite distinctly. Salt spray is carried along on the air. The gentle lull of waves crashing against the support poles can be heard, along with the screeching call of gulls and other seabirds. The odor of fish is prevalent, as fishing boats come in daily.
+~
+0 0 1
+D1
+~
+~
+0 -1 2548
+D2
+~
+~
+0 -1 2542
+D3
+~
+~
+0 -1 2550
+S
+#2548
+The harbour~
+Standing on the wooden planks of the harbour, which are old but far from breaking, the salt air and the cool breeze always blowing from here can be felt quite distinctly. Salt spray is carried along on the air. The gentle lull of waves crashing against the support poles can be heard, along with the screeching call of gulls and other seabirds. The odor of fish is prevalent, as fishing boats come in daily. The dockmaster's office is to the east.
+~
+0 0 1
+D0
+~
+~
+0 -1 2552
+D1
+~
+~
+0 -1 2549
+D2
+~
+~
+0 -1 2543
+D3
+~
+~
+0 -1 2547
+S
+#2549
+The dockmaster's room~
+The dockmaster's office is nothing more than a simple wooden construct, designed to keep out the wind and spray of water. All the paperwork the dockmaster has to deal with is the reason for that. This is also where one could buy tickets to Palanthas, were one so inclined. Two small doors lead out to the harbour on the west and south. A small window looks out upon the water to the north.
+~
+0 D 0
+D2
+~
+~
+0 -1 2544
+D3
+~
+~
+0 -1 2548
+E
+window~
+You can see the gentle swells of the harbour's waters, and a ship or two in the distance.~
+S
+#2550
+The harbour~
+Standing on the wooden planks of the harbour, which are old but far from breaking, the salt air and the cool breeze always blowing from here can be felt quite distinctly. Salt spray is carried along on the air. The gentle lull of waves crashing against the support poles can be heard, along with the screeching call of gulls and other seabirds. The odor of fish is prevalent, as fishing boats come in daily.
+~
+0 0 1
+D0
+~
+~
+0 -1 2554
+D1
+~
+~
+0 -1 2547
+D2
+~
+~
+0 -1 2545
+D3
+~
+~
+0 -1 2551
+S
+#2551
+The harbour~
+Standing on the wooden planks of the harbour, which are old but far from breaking, the salt air and the cool breeze always blowing from here can be felt quite distinctly. Salt spray is carried along on the air. The gentle lull of waves crashing against the support poles can be heard, along with the screeching call of gulls and other seabirds. The odor of fish is prevalent, as fishing boats come in daily.
+~
+0 0 1
+D1
+~
+~
+0 -1 2550
+D2
+~
+~
+0 -1 2546
+S
+#2552
+On a wooden dock~
+On this wooden dock, thick support poles stick up beside the boards. It sways slightly under the constant motion of the sea, but not much. The boards are damp with salt spray, the small puddles quickly draining between the wooden slats.
+~
+0 0 1
+D0
+~
+~
+0 -1 2553
+D2
+~
+~
+0 -1 2548
+S
+#2553
+The end of the dock~
+You stand at the end of the dock. Water splashes all around; the open seas lie to the north. Boats can be seen on the horizon and coming into the harbour, from Palanthas and other ports. Some cargo is stacked up here, mostly crates of food and hand-made products to be sold elsewhere.
+~
+0 0 1
+D2
+~
+~
+0 -1 2552
+S
+#2554
+On a wooden dock~
+On this wooden dock, thick support poles stick up beside the boards. It sways slightly under the constant motion of the sea, but not much. The boards are damp with salt spray, the small puddles quickly draining between the wooden slats.
+~
+0 0 1
+D0
+~
+~
+0 -1 2555
+D2
+~
+~
+0 -1 2550
+S
+#2555
+The end of the dock~
+You stand at the end of the dock. Water splashes all around; the open seas lie to the north. Boats can be seen on the horizon and coming into the harbour, from Palanthas and other ports. Some cargo is stacked up here, mostly crates of food and hand-made products to be sold elsewhere.
+~
+0 0 1
+D2
+~
+~
+0 -1 2554
+S
+#2556
+On a cobblestone street~
+The cobblestones under your feet are worn and gray, but clean. The buildings around you are mostly small houses, their doors closed to the outside. A mercenary shop, its door open to the public, sits to the south. The markets are a ways back to the west from here, and the street ends to the east, where two small towers rise up.
+~
+0 0 1
+D1
+~
+~
+0 -1 2557
+D2
+~
+~
+0 -1 2580
+D3
+~
+~
+0 -1 2517
+S
+#2557
+On a cobblestone street~
+The cobblestones under your feet are worn and gray, but clean. The buildings around you are mostly small houses, their doors closed to the outside. The street ends here, leading into a small courtyard, where the sound of splashing water can be heard. The cobblestone street heads only west from here, back into the busy market.
+~
+0 0 1
+D1
+~
+~
+0 -1 2558
+D3
+~
+~
+0 -1 2556
+S
+#2558
+A courtyard between the towers~
+You stand between a red tower and a white one; where the magi of the town practice their spells and learn new ones from the masters living there. It's a pleasant-looking courtyard, with some flowers and grass, and a gargoyle fountain set into the stone of the eastern wall. The red tower of the invokers stands to the north, while the white one of the transmuters is to the south.
+~
+0 D 0
+D0
+~
+~
+0 -1 2563
+D2
+~
+~
+0 -1 2560
+D3
+~
+~
+0 -1 2557
+S
+#2560
+Entrance to the transmuter's guild~
+At the bottom of this tower of white marble are inscribed runes of protection for those who practice and master their spells above. There is also a white disk above the entrance to the tower, symbol of Solinari, god of white-robed mages. Back north is the courtyard between the two towers.
+~
+0 D 0
+D0
+~
+~
+0 -1 2558
+D4
+~
+~
+0 -1 2562
+S
+#2562
+The transmuter guild~
+This tower is actually the humble home of a powerful mage, who is teaching students of transmutation what he knows out of the kindness of his heart. There are a few round windows looking out of the white tower, and a small bed is under one of them. Mystic runes of magical protection are carved into the walls, glowing softly.
+~
+0 DN 0
+D5
+~
+~
+0 -1 2560
+S
+#2563
+Entrance to the invoker's guild~
+At the bottom of this tower of red-stained marble are inscribed runes of protection for those who practice and master their spells above. There is a red circle above the entrance to the tower, symbolic of Lunitari, goddess of the magi of the red robes. To the south is the courtyard.
+~
+0 D 0
+D2
+~
+~
+0 -1 2558
+D4
+~
+~
+0 -1 2564
+S
+#2564
+The invoker guild~
+You stand inside the invoker's guild, which is the home of a master invoker, who is teaching students of the arcane art new spells and techniques. His home is simple, lit with magical light, with a small feather mattress in the corner, and a few windows carved into the red walls. Magical runes have been enscribed all over the inner of the tower, glowing faintly.
+~
+0 DN 0
+D5
+~
+~
+0 -1 2563
+S
+#2565
+Entrance to the knight's guild~
+The entrance to this guildhall has the feel of a temple to it. It is pristine and clean, very spartan. A few torches light the way into the white stone hall, and two signs are emblazoned over the door, those of the platinum dragon and the silver warhammer. Solamnic Avenue is to the west.
+~
+0 D 0
+D1
+~
+~
+0 -1 2566
+D3
+~
+~
+0 -1 2538
+S
+#2566
+The Knight's guild~
+Inside the guildhall of knights, there is nothing that is not necessary. It appears to be the home of a devout member of the knighthood who has opened his doors to squires and veteran knights alike, and trains them in honour, chivalry, and prayers and battle skills. The room has one large window, a small, hard bed, and a small stove. The only exit from this place is to the west.
+~
+0 DN 0
+D3
+~
+~
+0 -1 2565
+S
+#2567
+Entrance to the cleric's guild~
+A few torches line the entrance to this guildhouse, and etchings of divine blessing are inscribed on the walls and especially over the door to the west. This is where clerics come to learn new prayers to their gods, as well as to worship them in peace and quiet.
+~
+0 D 1
+D1
+~
+~
+0 -1 2511
+D3
+~
+~
+0 -1 2568
+S
+#2568
+The cleric's guild~
+Inside the guild is very quiet. The guildmaster is praying silently to his god, but his prayers can be interrupted to teach you something new. He prays all the time. A small altar of wood and cushioned with soft white pillows is at the western wall, and candles surround it. This place has been sanctified by several of Krynn's most powerful clerics, preventing the summoning of worshippers out of their guild.
+~
+0 DN 1
+D1
+~
+~
+0 -1 2567
+S
+#2569
+The First Bank of Caergoth~
+The bank is quiet, with a few posters about depositing your money for safekeeping and the like. Oil lamps are attached to the walls, giving a warm glow to the place. Money deposited is always ready for withdrawl at any other bank in Krynn.
+~
+0 D 0
+D0
+~
+~
+0 -1 2516
+E
+poster~
+[]==========[]
+ |          |
+ | The bank |
+ |    of    |
+ | Caergoth |
+ |          |
+[]==========[]~
+S
+#2570
+On a cobblestone street~
+The cobblestones under your feet are worn and gray, but clean. The buildings around you are mostly small houses, their doors closed to the outside. The street ends here, with the entrance to the town hall to the west, and what looks like a large house to the south.
+~
+0 0 1
+D1
+~
+~
+0 -1 2520
+D2
+~
+~
+0 -1 2571
+D3
+~
+~
+0 -1 2573
+S
+#2571
+Entrance to the warrior's guild~
+Inside a small foyer to a small guildhouse, torches burn in their sconces on the brick walls. Weapons and shields decorate the area just below the torches, and a sign above the door to the east declares this a place for all warriors and fighters to practice their combat skills.
+~
+0 D 0
+D0
+~
+~
+0 -1 2570
+D3
+~
+~
+0 -1 2572
+S
+#2572
+The warrior's guild~
+The salty smell of sweat fills the room, along with the smell of body odor from long hours of practicing weapon techniques and skills. A roll of bandages is sitting in the corner in case of a serious wound, and a guildmaster waits by a rack of wooden weapons and shields, ready to teach you. A few practice dummies, all in various states of being beaten and maimed, line the southern wall.
+~
+0 DN 0
+D1
+~
+~
+0 -1 2571
+S
+#2573
+Entrance to the town hall~
+You stand at the very end of a cobblestone street, with the entrance to the town hall opening up to the north. Its double doors are open to the public, so that they can come and go and talk with the mayor about their problems. The markets are a while back to the east, and the small town hall stretches north a bit.
+~
+0 C 1
+D0
+~
+double-doors~
+1 -1 2574
+D1
+~
+~
+0 -1 2570
+S
+#2574
+Inside the town hall~
+The town hall is an elegant but simple building, with a few paintings on the wall, a soft carpet beneath your feet, and well-lit by windows and oil lamps on the wall. It's warm and cozy, not at all inspiring nervousness. The mayor of Caergoth looks like he very much wants the townsfolk and visitors to feel comfortable with visiting him.
+~
+0 D 0
+D0
+~
+~
+0 -1 2575
+D2
+~
+~
+1 -1 2573
+S
+#2575
+Inside the town hall~
+The town hall is an elegant but simple building, with a few paintings on the wall, a soft carpet beneath your feet, and well-lit by windows and oil lamps on the wall. It's warm and cozy, not at all inspiring nervousness. The mayor of Caergoth looks like he very much wants the townsfolk and visitors to feel comfortable with visiting him. An oak door is to the east, with the symbol of Caergoth painted upon it.
+~
+0 D 0
+D1
+A oaken door is in the wall.~
+door~
+2 2569 2576
+D2
+~
+~
+0 -1 2574
+S
+#2576
+The mayor's office~
+The mayor's office is a small, very comfortable room with hardwood floors and walls, and several oil lamps burning brightly. A small fireplace provides additional light, as well as making the room warm and cozy. The carpet is softer here than it was in the rest of the hall. Paperwork for the town and for shipping is scattered all about his desk.
+~
+0 D 0
+D3
+~
+~
+2 -1 2575
+S
+#2577
+Wedding boutique~
+A well-lit wedding boutique, catering to those who wish to marry. Engagement rings are for sale here, along with wedding dresses and tuxedos. A very pretty young saleswoman is ready to assist you, should you see anything you like. Displays of rings and wedding garb are arranged neatly in the store as well.
+~
+0 D 0
+D1
+~
+~
+0 -1 2539
+S
+#2578
+A small house~
+This small house, just off the road leading to the harbour, is empty. There is no furniture or decoration to suggest someone is living here. It is perhaps a house which is rented out to sailors whose ships cannot leave because of bad weather, or just an empty house, waiting for a someone new to call Caergoth home.
+~
+0 D 0
+D3
+~
+~
+0 -1 2534
+S
+#2579
+A one-room house~
+Just off the road to the harbour of Caergoth is this tiny house, furnished and cramped. It would appear that only one person lives here. The walls are thin and do not provide much insulation, but a wood-burning stove takes care of that. Nobody seems to be home at the moment. The door is to the east.
+~
+0 D 0
+D1
+~
+~
+0 -1 2534
+S
+#2580
+A mercenary shop~
+The mercenary shop is a clean establishment, with mercenaries waiting to be hired for various jobs. The owner of this shop is seated behind a desk, looking over work orders. A locked door is to the south, presumably where the mercenaries are waiting for someone to buy their services. But it is tightly closed and there is no way to open it.
+~
+0 DM 0
+D0
+~
+~
+0 -1 2556
+S
+#2581
+Mercenary room~
+Yet another mess to have gotten into. Here's the rules: do not feed, touch, attack, pet, look at, or lick the mercenaries. They don't like it. Pray to get released. This is a no-recall room so people can't summon mercenaries out of here. Any more questions?
+~
+0 CDKN 0
+S
+#2582
+The cityguard headquarters~
+The headquarters for the guards of the city is a spartan place. Only the bare essentials are here in this small room. A few posters are on the walls, giving names and descriptions of known criminals. Otherwise, besides a few oil lamps, the place is bare and absolutely spotless. A doorway is open to the north, where a sleeping place can be seen, and a closed door is to the west.
+~
+0 D 0
+D0
+You see a sleeping place.~
+door~
+1 -1 2584
+D1
+~
+~
+0 -1 2538
+D3
+The lone jail cell of Caergoth is over there.~
+cell~
+1 -1 2583
+S
+#2583
+A jail cell~
+A small jail cell. Prisoners who are kept here are well-cared for, but only as much as they must be. After all, they are criminals. The room doesn't look like it's been used much, but when it must be used, it is here.
+~
+0 D 0
+D1
+~
+~
+1 -1 2582
+S
+#2584
+Sleeping quarters~
+Once again, like the main room of the headquarters, very bare. An oil lamp is burning on the wall, just above a small window. Two sets of bunked beds are here, accomodating four guards or visitors. The walls and floor are made of hardwood, and completely spotless.
+~
+0 D 0
+D2
+~
+~
+1 -1 2582
+S
+#2585
+Inside a small house~
+This house is nothing special, a very comfortable one-room household, with the essentials of living. It is modestly and simply decorated, with nothing of particular interest. The cobblestone road is back north.
+~
+0 D 0
+D3
+~
+~
+0 -1 2507
+S
+#2586
+Inside a small house~
+This house is nothing special, a very comfortable one-room household, with the essentials of living. It is modestly and simply decorated, with nothing of particular interest. The cobblestone road is back north.
+~
+0 D 0
+D0
+~
+~
+0 -1 2519
+S
+#2587
+A small but clean home~
+This house is nothing special, a very comfortable one-room household, with the essentials of living. It is quite clean, and the furnishing suggests an organised, structured lifestyle. A few windows look out to the harbour to the north, a small herb garden to the east, and two windows out front face Solamnic Avenue. This seems to be the house of the two women who own the magic shops in town.
+~
+0 D 0
+D1
+~
+~
+0 -1 2589
+D2
+~
+~
+0 -1 2539
+S
+#2588
+Inside a quiet home~
+This house is nothing special, a very comfortable one-room household, with the essentials of living. It is very quiet here, and also very warm. The east-west cobblestone street through Caergoth is out the door to the north, as well as Solamnic Avenue, right across the street.
+~
+0 D 0
+D0
+~
+~
+0 -1 2517
+S
+#2589
+A small herb garden~
+The garden is quite small, very well-tended. It looks like most of the herbs have been picked already, for sale or for brewing into potions. The earth is loose and cool, and has been turned over so that the plants will refertilise the soil for next season's crop.
+~
+0 0 2
+D3
+~
+~
+0 -1 2587
+S
+#0
+
+
+#RESETS
+*
+M 1 2505 1 2509 1			the healer to A temple of Paladine
+O 1 2523 100 2509			a marble fountain to A temple of Paladine
+O 1 2524 100 2509			a donation pit to A temple of Paladine
+O 1 2514 100 2504			a small stone fountain to The market square of Caergoth
+*
+M 1 2503 1 2527 1			the baker to The bakery
+G 1 2515 100
+G 1 2516 100
+G 1 2517 100
+G 1 2518 100
+G 1 2519 100
+*
+M 1 2500 1 2526 1			the butcher to The butcher's shop
+G 1 2500 100
+G 1 2501 100
+G 1 2502 100
+G 1 2503 100
+*
+M 1 2501 1 2525 1			the green grocer to The grocery
+G 1 2504 100
+G 1 2505 100
+G 1 2506 100
+G 1 2507 100
+*
+M 1 2506 1 2528 1			the shopkeeper to The general store
+G 1 2529 100
+G 1 2528 100
+G 1 2527 100
+G 1 2526 100
+G 1 2525 100
+G 1 2536 100
+G 1 2556 100
+*
+M 1 2502 1 2529 1			a lady mage to A magic shop
+G 1 2508 100
+G 1 2509 100
+G 1 2510 100
+G 1 2512 100
+G 1 2511 100
+G 1 2513 100
+G 1 2591 100
+*
+M 1 2507 1 2530 1			an apothecary to A shop of herbs and reagents
+G 1 2530 100
+G 1 2531 100
+G 1 2532 100
+G 1 2534 100
+G 1 2535 100
+G 1 2533 100
+G 1 2589 100
+*
+M 1 2508 1 2533 1			the armourer to The armoury
+G 1 2522 100
+G 1 2538 100
+G 1 2539 100
+G 1 2540 100
+G 1 2541 100
+G 1 2543 100
+G 1 2544 100
+G 1 2542 100
+G 1 2537 100
+G 1 2545 100
+G 1 2547 100
+O 1 2546 100 2533			an anvil to The armoury
+*
+M 1 2509 1 2532 1			a packhorse to Pet room
+*
+M 1 2510 1 2532 1			a dog to Pet room
+*
+M 1 2512 1 2532 1			a war elephant to Pet room
+*
+M 1 2513 1 2532 1			a cute kitten to Pet room
+*
+M 1 2504 1 2549 1			the dockmaster to The dockmaster's room
+G 1 2520 100
+G 1 2521 100
+O 1 2548 100 2549			a wooden desk to The dockmaster's room
+*
+M 1 2514 1 2540 1			the tavernkeeper to A comfortable tavern
+G 1 2549 100
+G 1 2550 100
+G 1 2551 100
+G 1 2552 100
+O 1 2553 100 2540			a table and chairs to A comfortable tavern
+O 1 2554 100 2541			a feather bed to A quiet resting room
+*
+M 1 2517 1 2560 1			a golem of white stone to A room
+*
+M 1 2516 1 2563 1			a golem of red stone to A room
+*
+M 1 2515 1 2562 1			the mage guildmaster to The transmuter guild
+*
+M 1 2515 1 2564 1			the mage guildmaster to The invoker guild
+*
+M 1 2519 1 2566 1			the knight guildmaster to The Knight's guild
+*
+M 1 2518 1 2565 1			the knight guildguard to Entrance to the knight's guild
+*
+M 1 2520 1 2567 1			the cleric guildguard to Entrance to the cleric's guild
+*
+M 1 2521 1 2568 1			the cleric guildmaster to The cleric's guild
+*
+M 1 2522 1 2569 1			a banker to The bank of Caergoth
+O 1 2555 100 2553			a stack of crates to The end of the dock
+O 1 2555 100 2555			a stack of crates to The end of the dock
+O 1 2555 100 2551			a stack of crates to The harbour
+*
+M 1 2531 1 2551 1			a fisherman to The harbour
+E 1 2560 100 17
+O 1 2561 100 2551			a bucket to The harbour
+P 1 2562 100 2561 100			a fish to container bucket
+P 1 2562 100 2561 100			a fish to container bucket
+*
+M 1 2523 4 2590 1			a Caergoth gate guard to Southern gate of Caergoth
+E 1 2557 100 16
+E 1 2582 100 17
+*
+M 1 2523 4 2590 1			a Caergoth gate guard to Southern gate of Caergoth
+E 1 2557 100 16
+E 1 2582 100 17
+*
+M 1 2523 4 2536 1			a Caergoth gate guard to Northern gates of Caergoth
+E 1 2557 100 16
+E 1 2582 100 17
+*
+M 1 2523 4 2536 1			a Caergoth gate guard to Northern gates of Caergoth
+E 1 2557 100 16
+E 1 2582 100 17
+*
+M 1 2524 8 2521 1			a Caergoth cityguard to In front of the butchery and grocery
+E 1 2558 100 11
+E 1 2557 100 16
+*
+M 1 2524 8 2520 1			a Caergoth cityguard to A room
+E 1 2559 100 8
+E 1 2564 100 10
+E 1 2557 100 16
+*
+M 1 2524 8 2505 1			a Caergoth cityguard to The northern market square
+E 1 2559 100 8
+E 1 2558 100 11
+E 1 2557 100 16
+*
+M 1 2524 8 2508 1			a Caergoth cityguard to Before a white temple
+E 1 2558 100 11
+E 1 2563 100 13
+E 1 2557 100 16
+*
+M 1 2524 8 2538 1			a Caergoth cityguard to Solamnic Avenue
+E 1 2558 100 11
+E 1 2563 100 13
+E 1 2557 100 16
+*
+M 1 2524 8 2557 1			a Caergoth cityguard to On a cobblestone street
+E 1 2558 100 11
+E 1 2563 100 13
+E 1 2557 100 16
+*
+M 1 2524 8 2591 1			a Caergoth cityguard to North of the gates
+E 1 2564 100 10
+E 1 2558 100 11
+E 1 2557 100 16
+*
+M 1 2524 8 2543 1			a Caergoth cityguard to The harbour
+E 1 2564 100 10
+E 1 2558 100 11
+E 1 2557 100 16
+*
+D 1 2575 1 2			; Inside the town hall Lock East
+*
+M 1 2532 1 2576 1			the mayor of Caergoth to A room
+E 1 2567 100 1
+*
+M 1 2533 1 2577 1			a young saleswoman to Wedding boutique
+G 1 2570 100
+G 1 2571 100
+G 1 2572 100
+G 1 2573 100
+G 1 2574 100
+*
+M 1 2528 7 2550 1			a dockhand to The harbour
+E 1 6302 100 9
+*
+M 1 2528 7 2553 1			a dockhand to The end of the dock
+*
+M 1 2528 7 2544 1			a dockhand to The harbour
+E 1 6302 100 9
+*
+M 1 2528 7 2545 1			a dockhand to The harbour
+E 1 6302 100 9
+*
+M 1 2528 7 2546 1			a dockhand to The harbour
+*
+M 1 2528 7 2555 1			a dockhand to The end of the dock
+E 1 6302 100 9
+*
+M 1 2528 7 2547 1			a dockhand to The harbour
+E 1 6302 100 9
+O 1 2575 100 2533			a display rack of armour and weapons to The armoury
+O 1 2576 100 2533			a stack of iron ingots to The armoury
+O 1 2577 100 2531			a wooden counter to The pet shop
+*
+M 1 2511 1 2531 1			a salesclerk to The pet shop
+O 1 2577 100 2527			a wooden counter to The bakery
+O 1 2578 100 2527			a cast iron oven to The bakery
+O 1 2580 100 2577			a glass display case to Wedding boutique
+O 1 2579 100 2577			a clothing rack to Wedding boutique
+O 1 2581 100 2576			the mayor's desk to The mayor's office
+*
+M 1 2534 2 2516 1			a street cleaner to On a cobblestone street
+E 1 2583 100 17
+*
+M 1 2534 2 2520 1			a street cleaner to A room
+E 1 2583 100 17
+*
+M 1 2537 1 2580 1			the mercenary guildmaster to A mercenary shop
+O 1 2584 100 2580			a wooden desk to A mercenary shop
+*
+M 1 2535 1 2581 1			a human mercenary to Mercenary room
+*
+M 1 2536 1 2581 1			a minotaur mercenary to Mercenary room
+O 1 2585 100 2526			an open spit to The butcher's shop
+O 1 2586 100 2526			a bloody wooden counter to The butcher's shop
+O 1 2587 100 2525			bins of fruit and vegetables to The grocery
+O 1 2588 100 2533			the blast furnace to The armoury
+O 1 2590 100 2530			a rack of drying herbs to A shop of herbs and reagents
+O 1 2592 100 2569			a wooden counter to The First Bank of Caergoth
+*
+M 1 2529 1 2571 1			the fighter guildguard to Entrance to the warrior's guild
+*
+M 1 2530 1 2572 1			the fighter guildmaster to The warrior's guild
+*
+M 1 2538 1 2504 1			a wandering peddler to The center of the market square of Caergoth
+G 1 2562 100
+G 1 2593 100
+D 1 2582 3 1			; The cityguard headquarters Close West
+D 1 2582 0 0			; The cityguard headquarters Open North
+O 1 2595 100 2584			a set of bunk beds to A room
+O 1 2596 100 2584			a set of bunk beds to A room
+*
+M 1 2525 1 2582 1			Captain of the Caergoth guard to The cityguard headquarters
+E 1 2565 100 5
+E 1 2568 100 11
+E 1 2566 100 16
+E 1 2582 100 17
+E 1 2563 100 13
+G 1 2569 100
+*
+M 1 2526 4 2534 1			a minotaur sailor to A room
+E 1 2598 100 15
+*
+M 1 2526 4 2529 1			a minotaur sailor to A magic shop
+E 1 2597 100 16
+*
+M 1 2526 4 2540 1			a minotaur sailor to A comfortable tavern
+E 1 2597 100 16
+*
+M 1 2526 4 2538 1			a minotaur sailor to Solamnic Avenue
+E 1 2598 100 14
+O 1 2599 100 2558			a small stone fountain to A courtyard between the towers
+D 1 2573 0 0			; Entrance to the town hall Open North
+*
+M 1 2539 1 2540 1			a slightly drunken sailor to A comfortable tavern
+E 1 2549 100 17
+E 1 6300 100 16
+*
+M 1 2540 3 2506 1			an old dog to North of the markets
+E 1 6301 100 3
+*
+M 1 2540 3 2537 1			an old dog to Solamnic Avenue
+E 1 6301 100 3
+*
+M 1 2540 3 2543 1			an old dog to The harbour
+E 1 6301 100 3
+*
+M 1 2542 3 2527 1			a Caergothian woman to The bakery
+*
+M 1 2542 3 2526 1			a Caergothian woman to The butcher's shop
+*
+M 1 2542 3 2528 1			a Caergothian woman to The general store
+E 1 2594 100 1
+O 1 2532 100 2589			some yellow herbs to A small herb garden
+*
+M 1 2527 6 2579 1			a citizen of Caergoth to A one-room house
+*
+M 1 2527 6 2510 1			a citizen of Caergoth to A narrow stone lane
+*
+M 1 2527 6 2585 1			a citizen of Caergoth to Inside a small house
+G 1 2507 100
+*
+M 1 2527 6 2524 1			a citizen of Caergoth to In front of the bakery and general store
+G 1 2515 100
+G 1 2515 100
+*
+M 1 2527 6 2556 1			a citizen of Caergoth to On a cobblestone street
+*
+M 1 2527 6 2570 1			a citizen of Caergoth to On a cobblestone street
+*
+M 1 2541 3 2519 1			a human sailor to On a cobblestone street
+E 1 2598 100 15
+*
+M 1 2541 3 2550 1			a human sailor to The harbour
+E 1 6300 100 16
+*
+M 1 2541 3 2517 1			a human sailor to On a cobblestone street
+S
+
+
+#SHOPS
+2500 0 0 0 0 0 100 100 5 20			the butcher
+2501 0 0 0 0 0 100 100 5 20			the green grocer
+2502 0 0 0 0 0 100 100 5 20			a lady mage
+2503 0 0 0 0 0 100 100 5 20			the baker
+2504 0 0 0 0 0 100 100 0 23			the dockmaster
+2506 8 13 0 0 0 100 100 5 20			the shopkeeper
+2507 26 8 13 0 0 100 100 5 20			an apothecary
+2508 9 5 0 0 0 100 100 5 20			the armourer
+2533 0 0 0 0 0 100 100 0 23			a young salesclerk
+2533 0 0 0 0 0 100 100 0 23			a young salesclerk
+2538 0 0 0 0 0 100 100 0 23			a wandering peddler
+0
+
+
+#SPECIALS
+M  2502 spec_cast_mage			a lady mage
+M  2507 spec_cast_mage			an apothecary
+M  2520 spec_cast_cleric			the cleric guildguard
+M  2523 spec_guard			a Caergoth gate guard
+M  2524 spec_guard			a Caergoth cityguard
+M  2525 spec_guard			Captain of the Caergoth guard
+M  2532 spec_mayor			the mayor of Caergoth
+M  2534 spec_janitor			a street cleaner
+M  2540 spec_fido			an old dog
+S
+
+
+
+#$
