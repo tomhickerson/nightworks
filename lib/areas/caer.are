@@ -359,13 +359,13 @@ wrapped in a long silken dress of crimson and azure; her feet are gently
 held by soft leather sandals.  She smiles brightly to those she sees and
 bestows a minor benediction upon others with a gentle wave of her hand.  
 ~
-unique~
+elf~
 A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
+55 0 0d0+0 0d0+0 0d0+0 crush
 0 0 0 0
 0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+stand stand female 0
+A ABCDEFGHIJK medium unknown
 #8519
 Melisseus~
 grey elf soldier officer~
@@ -377,13 +377,13 @@ back from his brow, highlighting his dark yet brilliant eyes.  Melisseus
 prides himself on his intellect, reading any tome he can get his hands on
 and constantly revising the city's policing system.  
 ~
-unique~
+elf~
 A 0 0 0
 75 0 0d0+0 0d0+0 0d0+0 crush
 0 0 0 0
 0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+stand stand male 0
+A ABCDEFGHIJK medium unknown
 #8520
 Erebus~
 grey elf soldier officer~
@@ -394,13 +394,13 @@ by a dark silk shirt that leaves his sinewy arms bare.  Erebus' jaw is
 clenched tight and his face held in a mask of emotionlessness.  His steely
 eyes regard everyone with a chilling glare.  
 ~
-unique~
+elf~
 A 0 0 0
 75 0 0d0+0 0d0+0 0d0+0 crush
 0 0 0 0
 0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+stand stand male 0
+A ABCDEFGHIJK medium unknown
 #8521
 Hyale sentry~
 grey elf town guard~
@@ -413,12 +413,12 @@ throughout the city.  Hyale follows all his orders to the letter, carrying
 out the edicts of the council and the commands of his captain without
 question.  
 ~
-unique~
+elf~
 A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
+55 0 0d0+0 0d0+0 0d0+0 crush
 0 0 0 0
 0 0 0 0
-stand stand none 0
+stand stand male 0
 A ABCDEFGHIJK large unknown
 #8522
 Caelindre sentry~
@@ -431,13 +431,13 @@ seems to betray her talents as a sentry, but Caelindre is quick to enforce
 the laws of the city often disabling wrongdoers with a quick slash of her
 favored quarterstaff.  
 ~
-unique~
+elf~
 A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
+55 0 0d0+0 0d0+0 0d0+0 crush
 0 0 0 0
 0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+stand stand female 0
+A ABCDEFGHIJK medium unknown
 #8523
 Ganelon~
 grey elf thief~
@@ -451,13 +451,13 @@ in practice.  Ganelon prefers to keep a low profile, dressing in common
 clothes even though he is certainly wealthy enough to afford all the best
 that life has to offer.  
 ~
-unique~
+elf~
 A 0 0 0
 75 0 0d0+0 0d0+0 0d0+0 crush
 0 0 0 0
 0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+stand stand male 0
+A ABCDEFGHIJK medium unknown
 #8525
 Boloderus legionnaire~
 grey elf legionnaire~
@@ -470,13 +470,13 @@ strength, near-gleefully charging headlong into battle.  Although he has
 only seen true combat twice in his life, Boloderus believes a great battle
 lies ahead, and that he must keep himself ready.  
 ~
-unique~
+elf~
 A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
+65 0 0d0+0 0d0+0 0d0+0 crush
 0 0 0 0
 0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+stand stand male 0
+A ABCDEFGHIJK medium unknown
 #8526
 Kiltras legionnaire~
 grey elf legionnaire~
@@ -489,13 +489,13 @@ brother, always watchful for Boloderus' recklessness.  While not training
 for war, Kiltras prefers to spend his days in the West Merchant Eatery,
 visiting friends and the occasional lover.  
 ~
-unique~
+elf~
 A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
+45 0 0d0+0 0d0+0 0d0+0 crush
 0 0 0 0
 0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+stand stand male 0
+A ABCDEFGHIJK medium unknown
 #8527
 Palomides legionnaire~
 grey elf legionnaire~
@@ -507,13 +507,13 @@ battlefield.  Having never been defeated, no one thinks to question
 Palomides' odd ways; they suspect they wouldn't get an answer out of them
 even if they did happen to put a question to him.  
 ~
-unique~
+elf~
 A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
+55 0 0d0+0 0d0+0 0d0+0 crush
 0 0 0 0
 0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+stand stand male 0
+A ABCDEFGHIJK medium unknown
 #8528
 Salmira sentry~
 grey elf town guard~
@@ -525,13 +525,13 @@ before her and has never been seen to lose.  She has bested Hyale is a feat
 of strength and has often argued philosophy with her captain, leaving him
 befuddled and confused.  
 ~
-unique~
+elf~
 A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
+45 0 0d0+0 0d0+0 0d0+0 crush
 0 0 0 0
 0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+stand stand female 0
+A ABCDEFGHIJK medium unknown
 #8529
 Spider Monkey~
 human domestic animal~
@@ -544,7 +544,7 @@ primarily moves through trees with the use of its curled tail.
 ~
 unique~
 A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
+35 0 0d0+0 0d0+0 0d0+0 crush
 0 0 0 0
 0 0 0 0
 stand stand none 0
@@ -559,13 +559,13 @@ domesticated cousin.  Its reddish fur is maked by a series of black spots
 and streaks.  Even though small, the margay is an excellent hunter,
 ferocious of claw and devastating with its bite.  
 ~
-unique~
+cat~
 A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
+15 0 0d0+0 0d0+0 0d0+0 crush
 0 0 0 0
 0 0 0 0
 stand stand none 0
-A ABCDEFGHIJK large unknown
+A ABCDEFGHIJK small unknown
 #8531
 King Owl~
 bird domestic animal~
@@ -578,9 +578,9 @@ brow are two cupped ear tufts.  Its wings are many fingers long, enabling
 the King Owl to glide with ease through the skies which is indeed its
 favorite pastime.  
 ~
-unique~
+bird~
 A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
+50 0 0d0+0 0d0+0 0d0+0 crush
 0 0 0 0
 0 0 0 0
 stand stand none 0
@@ -600,11 +600,11 @@ hunters.
 ~
 unique~
 A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
+6 0 0d0+0 0d0+0 0d0+0 crush
 0 0 0 0
 0 0 0 0
 stand stand none 0
-A ABCDEFGHIJK large unknown
+A ABCDEFGHIJK tiny unknown
 #8533
 Tuk~
 grey elf child~
@@ -615,13 +615,13 @@ Hyale.  The boy already wishes to become a sentry to patrol the streets and
 right any wrongs.  He spends many a day travelling about the city with his
 father, keeping an eye out for crime.  
 ~
-unique~
+elf~
 A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
+10 0 0d0+0 0d0+0 0d0+0 crush
 0 0 0 0
 0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+stand stand male 0
+A ABCDEFGHIJK medium unknown
 #8534
 Rasselora~
 grey elf child~
@@ -632,13 +632,13 @@ beginning to learn While he doesn't know it quite yet (and Elera better not
 tell him!)  Rasselora has a deep-felt crush on hapless Tuk and she often
 watches him from across the street with a lazy smile on her face.  
 ~
-unique~
+elf~
 A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
+6 0 0d0+0 0d0+0 0d0+0 crush
 0 0 0 0
 0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+stand stand male 0
+A ABCDEFGHIJK small unknown
 #8535
 Elera~
 grey elf child~
@@ -650,13 +650,13 @@ bestest friend in the world, Elera prides herself on being able to keep up
 with all of the town's gossip, often running clear across town to follow up
 on a rumor she's just heard.  
 ~
-unique~
+elf~
 A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
+14 0 0d0+0 0d0+0 0d0+0 crush
 0 0 0 0
 0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+stand stand female 0
+A ABCDEFGHIJK small unknown
 #0
 
 
