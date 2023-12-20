@@ -20,6 +20,7 @@ public class PlainQuests {
         SimpleGetQuest sgq = new SimpleGetQuest(1,"Find the Fennel for the Druid");
         sgq.setQuestPoints(10); // do we need it any more? or do we set it in the reward?
         sgq.setVnumToGet(313);
+        sgq.setLoadedQuest(null);
         sgq.setAdvancedPreamble(null);
         sgq.setPreamble("{WDear Adventurer, glad to see you!  Could you help me find some {Yfennel{W for a stew I'm making?  Please say '{YI accept{W' if so...{x");
         sgq.setDuration(30);
@@ -50,6 +51,7 @@ public class PlainQuests {
     public static SimpleKillQuest returnHermitQuest() {
         SimpleKillQuest skq = new SimpleKillQuest(2, "Slay a Rabbit for the Hermit");
         skq.setVnumToKill(309); // kill the rabbit
+        skq.setLoadedQuest(null);
         skq.setAdvancedPreamble(getHermitPreamble());
         skq.setDuration(30);
         skq.setEpilogue("Aha, I see you've done it!  Please accept my reward.");
@@ -104,6 +106,7 @@ public class PlainQuests {
         SimpleCollectQuest scq = new SimpleCollectQuest(3, "Find alms for the Blind Pilgrim");
         scq.setNumberToCollect(5);
         scq.setVnumContainer(-1);
+        scq.setLoadedQuest(null);
         scq.setVnumToCollect(314);
         // vnum for the pilgrim is 351
         scq.setAdvancedPreamble(null);
@@ -163,6 +166,7 @@ public class PlainQuests {
     public static SimpleHuntQuest killMoreRabbits() {
         SimpleHuntQuest shq = new SimpleHuntQuest(4, "Kill more rabbits for the Hermit");
         shq.setNumberToKill(5);
+        shq.setLoadedQuest(null);
         shq.setVnumToKill(310); // the mean rabbits
         ArrayList<Integer> rooms = new ArrayList<>();
         rooms.add(301);
