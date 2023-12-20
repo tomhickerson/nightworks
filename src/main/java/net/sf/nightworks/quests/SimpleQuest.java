@@ -1,6 +1,7 @@
 package net.sf.nightworks.quests;
 
 import net.sf.nightworks.Nightworks;
+import net.sf.nightworks.quests.loader.LoadedQuest;
 
 public abstract class SimpleQuest {
 
@@ -11,13 +12,14 @@ public abstract class SimpleQuest {
     private String preamble;
     private String epilogue;
     private String acceptMessage;
-    private String alreadyRunMessage;
+    private String alreadyRunMessage; // maybe don't need it
     private int achievement; // link to an enum to be developed later
     private int duration;
     private qualify qualifier;
     private advPreamble advancedPreamble;
     private reward reward;
     private String acceptPhrase = "i accept"; // default
+    private LoadedQuest loadedQuest;
 
     public String getDescription() {
         return description;
@@ -133,6 +135,15 @@ public abstract class SimpleQuest {
 
     public void showAdvancedPreamble(Nightworks.CHAR_DATA ch, Nightworks.CHAR_DATA mob) {
         this.advancedPreamble.showPreamble(ch, mob);
+    }
+
+    // object exists only if the quest is loaded from a file; otherwise it will be null
+    public LoadedQuest getLoadedQuest() {
+        return loadedQuest;
+    }
+
+    public void setLoadedQuest(LoadedQuest loadedQuest) {
+        this.loadedQuest = loadedQuest;
     }
 
     // add abstract methods for adding quests to players, removing quests from players

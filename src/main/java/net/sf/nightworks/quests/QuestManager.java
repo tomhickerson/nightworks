@@ -30,6 +30,7 @@ public class QuestManager {
         questArray = new ArrayList<>();
         questArray.add(PlainQuests.returnPilgrimQuest());
         quests.put(VNUM_PILGRIM_PLAINS, questArray);
+        // add the quest loader here, pass the entire hashmap to it, return it back
         return quests;
     }
 }
