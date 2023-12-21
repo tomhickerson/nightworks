@@ -249,13 +249,13 @@ or some minor magical power, no one can be certain.  Nepenthe runs her
 ailing uncle's shoppe with subtle ease, the business of selling wares
 running deep within her family's blood.  
 ~
-unique~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+elf~
+ABG 0 0 8500
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand female 3400
+A ABCDEFGHIJK medium 0
 #8513
 Hesperia~
 grey elf cook~
@@ -268,13 +268,13 @@ no loaf of soft bread ever burns under Hesperia's watchful eye.  Perhaps her
 years spent living with the faeriefolk taught her some subtle magicks that
 no one has been able to detect.  
 ~
-unique~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+elf~
+ABG 0 0 8500
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand female 3400
+A ABCDEFGHIJK medium 0
 #8514
 Oromasdes~
 grey elf blacksmith~
@@ -287,13 +287,13 @@ finely balanced and set with edges as sharp as a young elf's wit.  Oromasdes
 clearly enjoys his work, often equipping young adventurers for a quest and
 arming soldiers for battle.  
 ~
-unique~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+elf~
+ABG 0 0 8500
+55 0 6d12+928 6d12+928 4d6+9 crush
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand male 3400
+A ABCDEFGHIJK medium 0
 #8515
 Lausus~
 grey elf armorsmith~
@@ -305,13 +305,13 @@ doesn't speak much of his military past as he prefers to keep his skeletons
 safely secured in a locked closet.  Lausus has spent much of his adult life
 trying to forget the past.  
 ~
-unique~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+elf~
+ABG 0 0 8500
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand male 3400
+A ABCDEFGHIJK medium 0
 #8516
 Gallahent~
 grey elf beastmaster~
@@ -323,13 +323,13 @@ treated well, fed twice a day and left to their own accord in a room behind
 the storefront.  They are well behaved animals for the most part, but there
 is the occasional mess to clean.  
 ~
-unique~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+elf~
+ABG 0 0 8500
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand male 3400
+A ABCDEFGHIJK medium 0
 #8517
 Iphitus~
 grey elf priest~
@@ -341,13 +341,13 @@ in religious rituals.  Iphitus' hair has turned snow white and his face has
 developed its share of deep wrinkles.  His steps may have slowed over the
 years, but his mind is still quite sharp.  
 ~
-unique~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand none 0
-A ABCDEFGHIJK large unknown
+elf~
+ABG 0 0 8500
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand male 3400
+A ABCDEFGHIJK medium 0
 #8518
 Kadyriath~
 grey elf wizard~
@@ -360,12 +360,12 @@ held by soft leather sandals.  She smiles brightly to those she sees and
 bestows a minor benediction upon others with a gentle wave of her hand.  
 ~
 elf~
-A 0 0 0
-55 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand female 0
-A ABCDEFGHIJK medium unknown
+ABG 0 0 8500
+55 0 6d12+928 6d12+928 4d6+9 crush
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand female 3400
+A ABCDEFGHIJK medium 0
 #8519
 Melisseus~
 grey elf soldier officer~
@@ -378,12 +378,12 @@ prides himself on his intellect, reading any tome he can get his hands on
 and constantly revising the city's policing system.  
 ~
 elf~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand male 0
-A ABCDEFGHIJK medium unknown
+ABG 0 0 8500
+65 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand male 3400
+A ABCDEFGHIJK medium 0
 #8520
 Erebus~
 grey elf soldier officer~
@@ -395,12 +395,12 @@ clenched tight and his face held in a mask of emotionlessness.  His steely
 eyes regard everyone with a chilling glare.  
 ~
 elf~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand male 0
-A ABCDEFGHIJK medium unknown
+ABG 0 0 8500
+65 0 6d12+928 6d12+928 4d6+9 crush
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand male 400
+A ABCDEFGHIJK medium 0
 #8521
 Hyale sentry~
 grey elf town guard~
@@ -414,12 +414,12 @@ out the edicts of the council and the commands of his captain without
 question.  
 ~
 elf~
-A 0 0 0
-55 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand male 0
-A ABCDEFGHIJK large unknown
+ABG 0 0 8500
+55 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand male 3400
+A ABCDEFGHIJK medium 0
 #8522
 Caelindre sentry~
 grey elf town guard~
@@ -432,12 +432,12 @@ the laws of the city often disabling wrongdoers with a quick slash of her
 favored quarterstaff.  
 ~
 elf~
-A 0 0 0
-55 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand female 0
-A ABCDEFGHIJK medium unknown
+ABG 0 0 8500
+48 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand female 3400
+A ABCDEFGHIJK medium 0
 #8523
 Ganelon~
 grey elf thief~
@@ -452,12 +452,12 @@ clothes even though he is certainly wealthy enough to afford all the best
 that life has to offer.  
 ~
 elf~
-A 0 0 0
-75 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand male 0
-A ABCDEFGHIJK medium unknown
+ABG 0 0 8500
+75 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand male 3400
+A ABCDEFGHIJK medium 0
 #8525
 Boloderus legionnaire~
 grey elf legionnaire~
@@ -471,12 +471,12 @@ only seen true combat twice in his life, Boloderus believes a great battle
 lies ahead, and that he must keep himself ready.  
 ~
 elf~
-A 0 0 0
-65 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand male 0
-A ABCDEFGHIJK medium unknown
+ABG 0 0 8500
+66 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand male 3400
+A ABCDEFGHIJK medium 0
 #8526
 Kiltras legionnaire~
 grey elf legionnaire~
@@ -490,12 +490,12 @@ for war, Kiltras prefers to spend his days in the West Merchant Eatery,
 visiting friends and the occasional lover.  
 ~
 elf~
-A 0 0 0
-45 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand male 0
-A ABCDEFGHIJK medium unknown
+ABG 0 0 8500
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand male 3400
+A ABCDEFGHIJK medium 0
 #8527
 Palomides legionnaire~
 grey elf legionnaire~
@@ -508,12 +508,12 @@ Palomides' odd ways; they suspect they wouldn't get an answer out of them
 even if they did happen to put a question to him.  
 ~
 elf~
-A 0 0 0
-55 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand male 0
-A ABCDEFGHIJK medium unknown
+ABG 0 0 8500
+45 0 6d12+928 6d12+928 4d6+9 stab
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand male 3400
+A ABCDEFGHIJK medium 0
 #8528
 Salmira sentry~
 grey elf town guard~
@@ -526,12 +526,12 @@ of strength and has often argued philosophy with her captain, leaving him
 befuddled and confused.  
 ~
 elf~
-A 0 0 0
-45 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
-stand stand female 0
-A ABCDEFGHIJK medium unknown
+ABG 0 0 8500
+45 0 6d12+928 6d12+928 4d6+9 crush
+-10 -11 -11 -11
+EFINR B 0 0
+stand stand female 400
+A ABCDEFGHIJK medium 0
 #8529
 Spider Monkey~
 human domestic animal~
