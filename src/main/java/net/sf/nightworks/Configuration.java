@@ -1,6 +1,6 @@
 package net.sf.nightworks;
 
-class Configuration {
+public class Configuration {
 /*
 * Data files used by the server.
 *
@@ -57,14 +57,14 @@ class Configuration {
     String lib_classes_dir;
     String lib_player_dir;
     String lib_god_dir;
-    String lib_quests_dir;
+    public String lib_quests_dir;
 
     String pl_temp_file;
 
     String etc_area_list;
     String etc_races_list;
     String etc_classes_list;
-    String etc_quests_list;
+    public String etc_quests_list;
 
     String var_astat_file;
     String var_ban_file;

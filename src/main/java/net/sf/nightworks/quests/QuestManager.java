@@ -1,9 +1,13 @@
 package net.sf.nightworks.quests;
 
 import net.sf.nightworks.quests.plains.PlainQuests;
+import net.sf.nightworks.util.DikuTextFile;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
+
+import static net.sf.nightworks.Nightworks.nw_config;
 
 public class QuestManager {
 
@@ -31,6 +35,27 @@ public class QuestManager {
         questArray.add(PlainQuests.returnPilgrimQuest());
         quests.put(VNUM_PILGRIM_PLAINS, questArray);
         // add the quest loader here, pass the entire hashmap to it, return it back
+        return quests;
+    }
+
+    private static HashMap<Integer, ArrayList<SimpleQuest>> loadQuests(HashMap<Integer, ArrayList<SimpleQuest>> quests) {
+        try {
+            DikuTextFile questList = new DikuTextFile(nw_config.etc_quests_list);
+            DikuTextFile questFile = null;
+            for ( ; ; ) {
+                String questFileName = questList.fread_word();
+                if (questFileName.charAt(0) == '$') {
+                    break;
+                }
+                if (questFileName.charAt(0) == '#' || questFileName.charAt(0) == '*') {
+                    continue;
+                }
+                questFile = new DikuTextFile(nw_config.lib_quests_dir + "/" + questFileName);
+
+            }
+        } catch (IOException ioex) {
+            ioex.printStackTrace();
+        }
         return quests;
     }
 }
