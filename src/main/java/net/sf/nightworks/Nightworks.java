@@ -2644,7 +2644,7 @@ public final class Nightworks {
     /*
     * Global variables.
     */
-    static final Configuration nw_config = new Configuration();
+    public static final Configuration nw_config = new Configuration();
 
     static AREA_DATA area_first;
     static HELP_DATA help_first;
