@@ -130,6 +130,10 @@ public final class Nightworks {
         void run(OBJ_DATA obj, OBJ_DATA dest, CHAR_DATA ch);
     }
 
+    interface OPROG_FUN_EXAM {
+        void run(OBJ_DATA ojb, CHAR_DATA ch);
+    }
+
     /*
     *  COMMAND extra bits..
     */
@@ -232,6 +236,7 @@ public final class Nightworks {
     static final int OPROG_GET = (K);
     static final int OPROG_AREA = (L);
     static final int OPROG_PUT = (M);
+    static final int OPROG_EXAM = (N);
 
     /*
     * Game parameters.
@@ -1980,6 +1985,7 @@ public final class Nightworks {
         OPROG_FUN_SPEECH speech_prog;
         OPROG_FUN_AREA area_prog;
         OPROG_FUN_PUT put_prog;
+        OPROG_FUN_EXAM exam_prog;
     }
 
 /*

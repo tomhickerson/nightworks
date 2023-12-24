@@ -146,6 +146,9 @@ class ObjProg {
             } else if (!str_cmp(progtype, "put_prog")) {
                 objindex.oprogs.put_prog = create_put_prog(name);
                 objindex.progtypes = SET_BIT(objindex.progtypes, OPROG_PUT);
+            } else if (!str_cmp(progtype, "exam_prog")) {
+                objindex.oprogs.exam_prog = create_exam_prog(name);
+                objindex.progtypes = SET_BIT(objindex.progtypes, OPROG_EXAM);
             } else {
                 found = false;
             }
@@ -168,6 +171,20 @@ class ObjProg {
             public void run(OBJ_DATA obj, OBJ_DATA dest, CHAR_DATA ch) {
                 try {
                     m.invoke(null, obj, dest, ch);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+            }
+        };
+    }
+
+    private static OPROG_FUN_EXAM create_exam_prog(final String name) throws NoSuchMethodException {
+        return new OPROG_FUN_EXAM() {
+            final Method m = resolveMethod(name, OBJ_DATA.class, CHAR_DATA.class);
+            @Override
+            public void run(OBJ_DATA obj, CHAR_DATA ch) {
+                try {
+                    m.invoke(null, obj, ch);
                 } catch (Exception e) {
                     e.printStackTrace();
                 }

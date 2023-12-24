@@ -1,6 +1,5 @@
 package net.sf.nightworks.behave;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.HashMap;
 
