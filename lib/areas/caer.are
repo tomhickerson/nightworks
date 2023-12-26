@@ -12,7 +12,7 @@ A quiet chill settles over the mountain valley.~
 #8500
 Donara~
 Donara, a grey-elf regent~
-Donara, a grey-elf regent.
+Donara, a grey-elf regent, is admiring her own appearance.
 ~
 Radiating from behind raven locks of whisping hair are two shining eyes
 of moon sparkled silver.  Below her dainty nose a smile is formed by two
@@ -31,7 +31,7 @@ A ABCDEFGHIJK medium 0
 #8501
 Araneid wizard~
 Araneid the wizard~
-Araneid the wizard.
+Araneid the ancient wizard, hobbles about here.
 ~
 Araneid is an emaciated elf, bones nearly visible through a covering of
 thin skin that is stretched tight over his hollowed frame.  His eyes have
@@ -53,7 +53,7 @@ A ABCDEFGHIJK medium 0
 #8502
 Korelleus wizard~
 Korelleus, the grey-elf wizard~
-Korelleus, the grey-elf wizard.
+Korelleus, the grey-elf wizard, radiates with a dark energy.
 ~
 A dark shadow given form and life lurches as it slowly walks, the being's
 face ensconced behind a black hood that cloaks it from view.  Korelleus is a
@@ -543,10 +543,10 @@ monkeys only have 4 fingers as opposed to other species of monkeys and
 primarily moves through trees with the use of its curled tail.  
 ~
 unique~
-A 0 0 0
-35 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
-0 0 0 0
+ABG 0 0 0
+35 0 6d12+928 6d12+928 4d6+9 crush
+-5 -5 -5 -5
+EFINR 0 0 0
 stand stand none 0
 A ABCDEFGHIJK large unknown
 #8530
@@ -560,10 +560,10 @@ and streaks.  Even though small, the margay is an excellent hunter,
 ferocious of claw and devastating with its bite.  
 ~
 cat~
-A 0 0 0
-15 0 0d0+0 0d0+0 0d0+0 crush
+ABG 0 0 0
+15 0 6d12+928 6d12+928 4d6+9 crush
 0 0 0 0
-0 0 0 0
+EFINR B 0 0
 stand stand none 0
 A ABCDEFGHIJK small unknown
 #8531
@@ -579,9 +579,9 @@ the King Owl to glide with ease through the skies which is indeed its
 favorite pastime.  
 ~
 bird~
-A 0 0 0
-50 0 0d0+0 0d0+0 0d0+0 crush
-0 0 0 0
+ABG 0 0 0
+50 0 6d12+928 6d12+928 4d6+9 crush
+-12 -12 -12 -12
 0 0 0 0
 stand stand none 0
 A ABCDEFGHIJK large unknown
@@ -599,8 +599,8 @@ Thankfully most chinchillas are fast enough to flee from even the best of
 hunters.  
 ~
 unique~
-A 0 0 0
-6 0 0d0+0 0d0+0 0d0+0 crush
+ABG 0 0 0
+6 0 1d1+50 1d1+40 1d8+6 bite
 0 0 0 0
 0 0 0 0
 stand stand none 0
@@ -616,8 +616,8 @@ right any wrongs.  He spends many a day travelling about the city with his
 father, keeping an eye out for crime.  
 ~
 elf~
-A 0 0 0
-10 0 0d0+0 0d0+0 0d0+0 crush
+ABG 0 0 0
+10 0 1d3+40 1d1+40 1d3+10 punch
 0 0 0 0
 0 0 0 0
 stand stand male 0
@@ -633,8 +633,8 @@ tell him!)  Rasselora has a deep-felt crush on hapless Tuk and she often
 watches him from across the street with a lazy smile on her face.  
 ~
 elf~
-A 0 0 0
-6 0 0d0+0 0d0+0 0d0+0 crush
+ABG 0 0 0
+6 0 1d5+40 1d5+40 1d7+10 slap
 0 0 0 0
 0 0 0 0
 stand stand male 0
@@ -651,8 +651,8 @@ with all of the town's gossip, often running clear across town to follow up
 on a rumor she's just heard.  
 ~
 elf~
-A 0 0 0
-14 0 0d0+0 0d0+0 0d0+0 crush
+ABG 0 0 0
+14 0 2d6+40 2d6+10 1d7+20 slap
 0 0 0 0
 0 0 0 0
 stand stand female 0
