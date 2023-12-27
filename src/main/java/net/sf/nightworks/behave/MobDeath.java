@@ -30,7 +30,7 @@ public class MobDeath {
         say.add("Oof, that hurt!");
         say.add("You got me, stranger!");
         say.add("Oh, the humanity!");
-        say.add("Aww, I'm sure I've got a little more life in me yet...");
+        say.add("Aww, I'm sure I've got a little more life in me yet...maybe not, though");
         return say;
     }
 
