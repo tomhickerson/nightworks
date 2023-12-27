@@ -13,6 +13,7 @@ import java.util.ArrayList;
 import static net.sf.nightworks.ActComm.cabal_area_check;
 import static net.sf.nightworks.ActComm.do_say;
 import static net.sf.nightworks.ActComm.do_yell;
+import static net.sf.nightworks.ActWiz.do_goto;
 import static net.sf.nightworks.Comm.act;
 import static net.sf.nightworks.Comm.send_to_char;
 import static net.sf.nightworks.DB.bug;
@@ -567,6 +568,14 @@ class ObjProg {
 
             obj_to_room(bookcase, ch.in_room);
         }
+    }
+
+    static void exam_prog_painting_of_astral_travel(OBJ_DATA obj, CHAR_DATA ch) {
+        act("{WYour feel your body as it dissolves into elements of color, " +
+                "spinning slowly into the oils of the painting...{x", ch, null, null, TO_CHAR);
+        act("{WStepping forward to examine the painting, $n suddenly fades " +
+                "from view, merging into the oils textures and colors of the painting...{x", ch, obj, null, TO_ROOM);
+        do_goto(ch, "7700");
     }
 
     static void get_prog_candle(OBJ_DATA obj, CHAR_DATA ch) {
