@@ -1,5 +1,6 @@
 package net.sf.nightworks.quests;
 
+import net.sf.nightworks.quests.loader.LoadedQuest;
 import net.sf.nightworks.quests.plains.PlainQuests;
 import net.sf.nightworks.util.DikuTextFile;
 
@@ -42,6 +43,7 @@ public class QuestManager {
         try {
             DikuTextFile questList = new DikuTextFile(nw_config.etc_quests_list);
             DikuTextFile questFile = null;
+            ArrayList<LoadedQuest> loadedQuests = new ArrayList<>();
             for ( ; ; ) {
                 String questFileName = questList.fread_word();
                 if (questFileName.charAt(0) == '$') {
@@ -51,8 +53,14 @@ public class QuestManager {
                     continue;
                 }
                 questFile = new DikuTextFile(nw_config.lib_quests_dir + "/" + questFileName);
-
+                while (!questFile.feof()) {
+                    String word = questFile.fread_word();
+                    if (word.equals("#QUESTS")) {
+                        // read in the quests after this line
+                    }
+                }
             }
+            // after the quests are loaded, transfer them over to the hashmap
         } catch (IOException ioex) {
             ioex.printStackTrace();
         }
