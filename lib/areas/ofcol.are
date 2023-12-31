@@ -51,6 +51,39 @@ The way out of the orphanage.
 ~
 door~ 
 1 -1 5500
+D3
+A small entry hall leads west.
+~
+~
+0 -1 5502
+S
+#5502
+Entrance hall of the Orphanage~
+You are in a small hallway leading east and west.  The walls are 
+paneled in a dark wood, and the carpet here is a dark green color.
+~
+0 0 1
+D1
+~
+~
+0 -1 5501
+D3 
+~
+~
+0 -1 5503
+S 
+#5503
+Small Church in the Orphanage~
+You are in a small, tidy chapel dedicated to the God of the Morning
+Sun, Khapri.  A small symbol of the rising sun is painted on the 
+wooden walls and ceiling.  Stained-glass windows allow the daylight
+to come in.  The only entrance and exit is to the east.
+~
+0 0 1
+D1
+~
+~
+0 0 5502
 S
 #5550
 Village street~
