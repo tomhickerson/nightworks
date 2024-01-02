@@ -4352,6 +4352,18 @@ E
 basket~
 This is where you put items to help fellow Samurai in Ofcol, or take an item to help yourself.
 ~
+#26538
+basket~
+the donation basket~
+A small basket for donations is sitting here.~
+~
+container o 0
+10000 0 0 1000 100
+0 0 0 P
+E
+basket~
+This is where you put items to help fellow Vampires in Ofcol, or take an item to help yourself.
+~
 #0
 
 
