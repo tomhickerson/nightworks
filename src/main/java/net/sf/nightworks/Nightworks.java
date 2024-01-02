@@ -2041,8 +2041,8 @@ public final class Nightworks {
         int timer;
         int wait;
         int daze;
-        int hit;
-        int max_hit;
+        public int hit;
+        public int max_hit;
         int mana;
         int max_mana;
         int move;

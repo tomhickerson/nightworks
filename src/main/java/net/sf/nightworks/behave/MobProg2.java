@@ -40,4 +40,10 @@ public class MobProg2 {
                 "back means opening the way.  All will be uncertain.  The way will be open");
         return false;
     }
+
+    static void fight_prog_roach_adept(Nightworks.CHAR_DATA mob, Nightworks.CHAR_DATA ch) {
+        if (mob.hit < (mob.max_hit * 0.45) && mob.hit > (mob.max_hit * 0.55)) {
+            do_say(mob, "Protect the sacrifice!");
+        }
+    }
 }
