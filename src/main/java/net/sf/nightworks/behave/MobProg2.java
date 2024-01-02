@@ -33,4 +33,17 @@ public class MobProg2 {
         act(doings.get(pick), ch, null, null, TO_ROOM);
         return false;
     }
+
+    public static boolean death_prog_roach_shaman(Nightworks.CHAR_DATA ch) {
+        do_say(ch, "You do not understand.  This is our sacrifice.  " +
+                "This is our tribute.  So that the way is closed.  Taking her " +
+                "back means opening the way.  All will be uncertain.  The way will be open");
+        return false;
+    }
+
+    static void fight_prog_roach_adept(Nightworks.CHAR_DATA mob, Nightworks.CHAR_DATA ch) {
+        if (mob.hit < (mob.max_hit * 0.45) && mob.hit > (mob.max_hit * 0.55)) {
+            do_say(mob, "Protect the sacrifice!");
+        }
+    }
 }
