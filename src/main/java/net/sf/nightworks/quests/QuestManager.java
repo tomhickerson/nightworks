@@ -3,11 +3,14 @@ package net.sf.nightworks.quests;
 import net.sf.nightworks.quests.loader.LoadedQuest;
 import net.sf.nightworks.quests.plains.PlainQuests;
 import net.sf.nightworks.util.DikuTextFile;
+import sun.java2d.pipe.SpanShapeRenderer;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+import static net.sf.nightworks.DB.bug;
+import static net.sf.nightworks.Nightworks.exit;
 import static net.sf.nightworks.Nightworks.nw_config;
 
 public class QuestManager {
@@ -57,6 +60,13 @@ public class QuestManager {
                     String word = questFile.fread_word();
                     if (word.equals("#QUESTS")) {
                         // read in the quests after this line
+                        ArrayList<LoadedQuest> lQuests = loadSingleQuest(questFile);
+                        // return an array list and load each one into the hashmap
+                        for (LoadedQuest lq : lQuests) {
+                            ArrayList<SimpleQuest> sqs = quests.get(lq.getVnumQuestGiver());
+                            sqs.add(convertLoadedQuest(lq));
+                            quests.put(lq.getVnumQuestGiver(), sqs);
+                        }
                     }
                 }
             }
@@ -65,5 +75,24 @@ public class QuestManager {
             ioex.printStackTrace();
         }
         return quests;
+    }
+
+    private static ArrayList<LoadedQuest> loadSingleQuest(DikuTextFile qFile) {
+        ArrayList<LoadedQuest> loadedQuests;
+        char letter;
+        int vnum;
+        for ( ; ; ) {
+            letter = qFile.fread_letter();
+            if (letter != '#') {
+                bug("Load_single_quest: # not found.");
+                System.out.println("found letter " + letter);
+                exit(1);
+            }
+        }
+
+    }
+
+    private static SimpleQuest convertLoadedQuest(LoadedQuest lq) {
+        return null;
     }
 }

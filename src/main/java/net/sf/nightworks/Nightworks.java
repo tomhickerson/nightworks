@@ -2675,7 +2675,7 @@ public final class Nightworks {
     static int iNumPlayers;
 
 
-    static void exit(int code) {
+    public static void exit(int code) {
         new Exception("Exiting with code " + code + " ...").printStackTrace();
         System.exit(1);
     }

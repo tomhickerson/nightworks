@@ -2892,16 +2892,16 @@ public class DB {
 * Reports a bug.
 */
 
-    static void bug(CharSequence str, Object... params) {
+    public static void bug(CharSequence str, Object... params) {
         String str2 = new Formatter().format(str.toString(), params).toString();
         bug(str2, currentFile);
     }
 
-    static void bug(CharSequence str) {
+    public static void bug(CharSequence str) {
         bug(str, currentFile);
     }
 
-    static void bug(CharSequence str, DikuTextFile fp) {
+    public static void bug(CharSequence str, DikuTextFile fp) {
         str = str + "\n" + fp.buildCurrentStateInfo();
         log_string(str);
     }
