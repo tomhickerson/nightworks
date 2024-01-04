@@ -78,18 +78,46 @@ public class QuestManager {
     }
 
     private static ArrayList<LoadedQuest> loadSingleQuest(DikuTextFile qFile) {
-        ArrayList<LoadedQuest> loadedQuests;
+        ArrayList<LoadedQuest> loadedQuests = null;
         char letter;
         int vnum;
         for ( ; ; ) {
             letter = qFile.fread_letter();
-            if (letter != '#') {
-                bug("Load_single_quest: # not found.");
+            if (letter != '#' && letter != 'S' && letter != '$') {
+                bug("Load_single_quest: # or S or $ not found.");
                 System.out.println("found letter " + letter);
                 exit(1);
             }
-        }
+            if (letter == 'S') {
+                // go on to the next quest
+                continue;
+            }
+            if (letter == '$') {
+                // break out and return the array
+                break;
+            }
+            if (letter == '#') {
+                vnum = qFile.fread_number();
+                if (vnum == 0) {
+                    break;
+                }
+                // check for duplicates
+                LoadedQuest loadThisQuest = new LoadedQuest();
+                loadThisQuest.setQuestId(vnum);
+                // load all the strings
+                loadThisQuest.setQuestName(qFile.fread_string());
+                loadThisQuest.setQuestType(qFile.fread_string());
+                loadThisQuest.setPreamble(qFile.fread_string());
+                loadThisQuest.setComeBackLater(qFile.fread_string());
+                loadThisQuest.setAcceptKeyword(qFile.fread_word());
+                loadThisQuest.setAcceptPhrase(qFile.fread_string());
+                loadThisQuest.setEpilogue(qFile.fread_string());
+                // next, load all the numbers
 
+                loadedQuests.add(loadThisQuest);
+            }
+        }
+        return loadedQuests;
     }
 
     private static SimpleQuest convertLoadedQuest(LoadedQuest lq) {
