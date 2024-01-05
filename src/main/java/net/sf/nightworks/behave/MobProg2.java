@@ -41,9 +41,21 @@ public class MobProg2 {
         return false;
     }
 
-    static void fight_prog_roach_adept(Nightworks.CHAR_DATA mob, Nightworks.CHAR_DATA ch) {
+    public static void fight_prog_roach_adept(Nightworks.CHAR_DATA mob, Nightworks.CHAR_DATA ch) {
         if (mob.hit < (mob.max_hit * 0.45) && mob.hit > (mob.max_hit * 0.55)) {
             do_say(mob, "Protect the sacrifice!");
         }
+    }
+
+    public static void greet_prog_loadedquest_mob(Nightworks.CHAR_DATA mob, Nightworks.CHAR_DATA ch) {
+
+    }
+
+    public static void speech_prog_loadedquest_mob(Nightworks.CHAR_DATA mob, Nightworks.CHAR_DATA ch, String speech) {
+
+    }
+
+    public static void give_prog_loadedquest_mob(Nightworks.CHAR_DATA mob, Nightworks.CHAR_DATA ch, Nightworks.OBJ_DATA obj) {
+
     }
 }

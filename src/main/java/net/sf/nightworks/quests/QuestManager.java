@@ -3,7 +3,6 @@ package net.sf.nightworks.quests;
 import net.sf.nightworks.quests.loader.LoadedQuest;
 import net.sf.nightworks.quests.plains.PlainQuests;
 import net.sf.nightworks.util.DikuTextFile;
-import sun.java2d.pipe.SpanShapeRenderer;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -18,6 +17,20 @@ public class QuestManager {
     private static final int VNUM_DRUID_PLAINS = 300;
     private static final int VNUM_HERMIT_PLAINS = 301;
     private static final int VNUM_PILGRIM_PLAINS = 351;
+
+    public static final int RACE_ELF_ONLY = 1;
+    public static final int RACE_DWARF_ONLY = 2;
+    public static final int RACE_HUMAN_ONLY = 3;
+    public static final int RACE_NOT_HUMAN = 4;
+    public static final int RACE_NOT_DWARF = 5;
+    public static final int RACE_NOT_ELF = 6;
+
+    public static final int ALIGN_GOOD = 1;
+    public static final int ALIGN_NEUTRAL = 2;
+    public static final int ALIGN_EVIL = 3;
+    public static final int ALIGN_NOT_EVIL = 4;
+    public static final int ALIGN_NOT_GOOD = 5;
+
     private static HashMap<Integer, ArrayList<SimpleQuest>> quests = new HashMap<>();
 
     /**
@@ -46,7 +59,7 @@ public class QuestManager {
         try {
             DikuTextFile questList = new DikuTextFile(nw_config.etc_quests_list);
             DikuTextFile questFile = null;
-            ArrayList<LoadedQuest> loadedQuests = new ArrayList<>();
+
             for ( ; ; ) {
                 String questFileName = questList.fread_word();
                 if (questFileName.charAt(0) == '$') {
@@ -104,6 +117,7 @@ public class QuestManager {
                 // check for duplicates
                 LoadedQuest loadThisQuest = new LoadedQuest();
                 loadThisQuest.setQuestId(vnum);
+                // above is quest id and achievement id
                 // load all the strings
                 loadThisQuest.setQuestName(qFile.fread_string());
                 loadThisQuest.setQuestType(qFile.fread_string());
@@ -113,7 +127,23 @@ public class QuestManager {
                 loadThisQuest.setAcceptPhrase(qFile.fread_string());
                 loadThisQuest.setEpilogue(qFile.fread_string());
                 // next, load all the numbers
-
+                // first line, four numbers
+                loadThisQuest.setQuestMinLevel(qFile.fread_number());
+                loadThisQuest.setPrereqAchvId(qFile.fread_number());
+                loadThisQuest.setQuestRace(qFile.fread_number());
+                loadThisQuest.setQuestAlign(qFile.fread_number());
+                // next line, five numbers
+                loadThisQuest.setVnumQuestGiver(qFile.fread_number());
+                loadThisQuest.setDuration(qFile.fread_number());
+                loadThisQuest.setVnumToKill(qFile.fread_number());
+                loadThisQuest.setVnumToGet(qFile.fread_number());
+                loadThisQuest.setVnumContainer(qFile.fread_number());
+                // next line, five more numbers
+                loadThisQuest.setQuestPoints(qFile.fread_number());
+                loadThisQuest.setSilver(qFile.fread_number());
+                loadThisQuest.setGold(qFile.fread_number());
+                loadThisQuest.setVirtue(qFile.fread_number());
+                loadThisQuest.setVice(qFile.fread_number());
                 loadedQuests.add(loadThisQuest);
             }
         }
@@ -121,6 +151,37 @@ public class QuestManager {
     }
 
     private static SimpleQuest convertLoadedQuest(LoadedQuest lq) {
-        return null;
+        SimpleKillQuest skq;
+        SimpleGetQuest sgq;
+        if (lq.getQuestType().equals("kill")) {
+            skq = new SimpleKillQuest(lq.getQuestId(), lq.getQuestName());
+            // set kill specific here
+            skq.setVnumToKill(lq.getVnumToKill());
+            skq = (SimpleKillQuest) loadGenericSettings(lq, skq);
+            // then add all generic settings in another function
+            return skq;
+        } else {
+            // add onto this as you add more types
+            sgq = new SimpleGetQuest(lq.getQuestId(), lq.getQuestName());
+            sgq.setVnumToGet(lq.getVnumToGet());
+            // no container yet?
+            sgq = (SimpleGetQuest) loadGenericSettings(lq, sgq);
+            return sgq;
+
+        }
+    }
+
+    private static SimpleQuest loadGenericSettings(LoadedQuest lq, SimpleQuest sq) {
+        sq.setLoadedQuest(lq);
+        sq.setAchievement(lq.getQuestId());
+        sq.setDuration(lq.getDuration());
+        sq.setPreamble(lq.getPreamble());
+        sq.setEpilogue(lq.getEpilogue());
+        sq.setAcceptMessage(lq.getAcceptPhrase());
+        sq.setAcceptPhrase(lq.getAcceptKeyword());
+        sq.setQualify(null);
+        sq.setReward(null);
+        sq.setAdvancedPreamble(null);
+        return sq;
     }
 }
