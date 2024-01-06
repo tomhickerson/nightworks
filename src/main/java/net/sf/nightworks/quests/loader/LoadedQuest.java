@@ -1,5 +1,11 @@
 package net.sf.nightworks.quests.loader;
 
+import net.sf.nightworks.Nightworks;
+import net.sf.nightworks.enums.PlayerAchievement;
+import net.sf.nightworks.quests.QuestManager;
+
+import static net.sf.nightworks.Nightworks.*;
+
 public class LoadedQuest {
 
     public int getQuestId() {
@@ -207,5 +213,64 @@ public class LoadedQuest {
     private int gold;
     private int virtue;
     private int vice;
+
+    public boolean doesQualify(Nightworks.CHAR_DATA ch) {
+        if (doesAlignFit(ch) && doesRaceFit(ch) &&
+                ch.pcdata.achievements.contains(PlayerAchievement.lookupAchievement(this.prereqAchvId)) &&
+                ch.level >= this.getQuestMinLevel()) {
+            return true;
+        }
+        return false;
+    }
+
+    public boolean doesQualifyExceptLevel(Nightworks.CHAR_DATA ch) {
+        if (doesAlignFit(ch) && doesRaceFit(ch) &&
+                ch.pcdata.achievements.contains(PlayerAchievement.lookupAchievement(this.prereqAchvId)) &&
+                ch.level < this.getQuestMinLevel()) {
+            return true;
+        }
+        return false;
+    }
+
+    private boolean doesAlignFit(Nightworks.CHAR_DATA ch) {
+        if (IS_GOOD(ch) &&
+                (this.getQuestAlign() == QuestManager.ALIGN_GOOD || this.getQuestAlign() == QuestManager.ALIGN_NOT_EVIL)) {
+            return true;
+        }
+        if (IS_NEUTRAL(ch) &&
+                (this.getQuestAlign() == QuestManager.ALIGN_NEUTRAL ||
+                        this.getQuestAlign() == QuestManager.ALIGN_NOT_GOOD ||
+                        this.getQuestAlign() == QuestManager.ALIGN_NOT_EVIL)) {
+            return true;
+        }
+        if (IS_EVIL(ch) &&
+                (this.getQuestAlign() == QuestManager.ALIGN_EVIL || this.getQuestAlign() == QuestManager.ALIGN_NOT_GOOD)) {
+            return true;
+        }
+        return false;
+    }
+
+    private boolean doesRaceFit(CHAR_DATA ch) {
+        if (IS_ELF(ch) && (this.getQuestRace() == QuestManager.RACE_ELF_ONLY)) {
+            return true;
+        }
+        if (IS_DWARF(ch) && (this.getQuestRace() == QuestManager.RACE_DWARF_ONLY)) {
+            return true;
+        }
+        if (IS_HUMAN(ch) && (this.getQuestRace() == QuestManager.RACE_HUMAN_ONLY)) {
+            return true;
+        }
+        // already checked three races, what about all the others?
+        if (!IS_HUMAN(ch) && (this.getQuestRace() == QuestManager.RACE_NOT_HUMAN)) {
+            return true;
+        }
+        if (!IS_ELF(ch) && (this.getQuestRace() == QuestManager.RACE_NOT_ELF)) {
+            return true;
+        }
+        if (!IS_DWARF(ch) && (this.getQuestRace() == QuestManager.RACE_NOT_DWARF)) {
+            return true;
+        }
+        return false;
+    }
 
 }

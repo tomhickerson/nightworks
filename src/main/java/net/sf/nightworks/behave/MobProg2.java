@@ -1,6 +1,7 @@
 package net.sf.nightworks.behave;
 
 import net.sf.nightworks.Nightworks;
+import net.sf.nightworks.quests.SimpleQuest;
 import net.sf.nightworks.util.TextBuffer;
 
 import java.util.ArrayList;
@@ -8,7 +9,7 @@ import java.util.ArrayList;
 import static net.sf.nightworks.ActComm.do_say;
 import static net.sf.nightworks.Comm.act;
 import static net.sf.nightworks.DB.number_range;
-import static net.sf.nightworks.Nightworks.TO_ROOM;
+import static net.sf.nightworks.Nightworks.*;
 
 /**
  * MobProg2, where we will add more generic coded actions
@@ -48,7 +49,28 @@ public class MobProg2 {
     }
 
     public static void greet_prog_loadedquest_mob(Nightworks.CHAR_DATA mob, Nightworks.CHAR_DATA ch) {
+        if (IS_NPC(ch)) {
+            return;
+        }
+        ArrayList<SimpleQuest> quests = quest_table.get(mob.pIndexData.vnum);
+        if (quests != null) {
+            for (SimpleQuest q : quests) {
+                if (q.getLoadedQuest() != null) {
+                    if (IS_SET(ch.act, PLR_QUESTOR) && ch.pcdata.questid == q.getAchievement()) {
+                        // figure out if the quest is done
 
+                        // generate the reward
+
+                    } else if (q.getLoadedQuest().doesQualify(ch)) {
+                        // print out the preamble
+
+                    } else if (q.getLoadedQuest().doesQualifyExceptLevel(ch)) {
+                        // print out the come back later phrase
+
+                    }
+                }
+            }
+        }
     }
 
     public static void speech_prog_loadedquest_mob(Nightworks.CHAR_DATA mob, Nightworks.CHAR_DATA ch, String speech) {
