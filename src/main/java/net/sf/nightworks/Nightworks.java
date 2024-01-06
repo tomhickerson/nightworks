@@ -1726,7 +1726,7 @@ public final class Nightworks {
     static final int PLR_FREEZE = (Y);
     static final int PLR_LEFTHAND = (Z);
     static final int PLR_CANREMORT = BIT_26;
-    static final int PLR_QUESTOR = BIT_27;
+    public static final int PLR_QUESTOR = BIT_27;
     static final int PLR_VAMPIRE = BIT_28;
     static final int PLR_HARA_KIRI = BIT_29;
     static final int PLR_BLINK_ON = BIT_30;
@@ -2050,7 +2050,7 @@ public final class Nightworks {
         public int gold;
         public int silver;
         int exp;
-        long act;
+        public long act;
         int comm;   /* RT added to pad the vector */
         int wiznet; /* wiz stuff */
         long imm_flags;
@@ -2385,7 +2385,7 @@ public final class Nightworks {
     }
 
 
-    static boolean IS_SET(long flag, long bit) {
+    public static boolean IS_SET(long flag, long bit) {
         return (flag & bit) != 0;
     }
 
@@ -2557,6 +2557,14 @@ public final class Nightworks {
                 || ch.race.name.equals("half-elf")
                 || ch.race.name.equals("elf");
     }
+
+    public static boolean IS_DWARF(CHAR_DATA ch) {
+        return ch.race.name.equals("dwarf") || ch.race.name.equals("duergar");
+    }
+
+    public static boolean IS_HUMAN(CHAR_DATA ch) {
+        return ch.race.name.equals("human");
+    }
 /*
  * Object macros.
  */
@@ -2645,7 +2653,7 @@ public final class Nightworks {
     */
     static final ArrayList<social_type> social_table = new ArrayList<>(MAX_SOCIALS);
 
-    static HashMap<Integer, ArrayList<SimpleQuest>> quest_table = new HashMap<>();
+    public static HashMap<Integer, ArrayList<SimpleQuest>> quest_table = new HashMap<>();
 
     /*
     * Global variables.
