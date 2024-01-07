@@ -24,12 +24,14 @@ public class QuestManager {
     public static final int RACE_NOT_HUMAN = 4;
     public static final int RACE_NOT_DWARF = 5;
     public static final int RACE_NOT_ELF = 6;
+    public static final int RACE_ALL = -1;
 
     public static final int ALIGN_GOOD = 1;
     public static final int ALIGN_NEUTRAL = 2;
     public static final int ALIGN_EVIL = 3;
     public static final int ALIGN_NOT_EVIL = 4;
     public static final int ALIGN_NOT_GOOD = 5;
+    public static final int ALIGN_ALL = -1;
 
     private static HashMap<Integer, ArrayList<SimpleQuest>> quests = new HashMap<>();
 

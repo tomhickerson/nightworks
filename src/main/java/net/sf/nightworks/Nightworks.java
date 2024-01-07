@@ -2143,7 +2143,7 @@ public final class Nightworks {
         int nextquest;  /* quest */
         int countdown;  /* quest */
         int questobj;   /* quest */
-        int questmob;       /* quest */
+        public int questmob;       /* quest */
         public int questid; // achievement id of quest
         public int questobjnum; // for collect quests
         public int questnumtokill; // for defend quests, hunt quests

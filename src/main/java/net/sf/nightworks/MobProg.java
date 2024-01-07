@@ -47,7 +47,7 @@ import static net.sf.nightworks.util.TextUtils.one_argument;
 import static net.sf.nightworks.util.TextUtils.str_cmp;
 import static net.sf.nightworks.util.TextUtils.str_prefix;
 
-class MobProg {
+public class MobProg {
     public static final int GIVE_HELP_RELIGION = 16;
     public static final int RELIG_CHOSEN = 17;
 
