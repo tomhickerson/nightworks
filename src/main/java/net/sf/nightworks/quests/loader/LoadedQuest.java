@@ -233,6 +233,9 @@ public class LoadedQuest {
     }
 
     private boolean doesAlignFit(Nightworks.CHAR_DATA ch) {
+        if (this.getQuestAlign() == QuestManager.ALIGN_ALL) {
+            return true;
+        }
         if (IS_GOOD(ch) &&
                 (this.getQuestAlign() == QuestManager.ALIGN_GOOD || this.getQuestAlign() == QuestManager.ALIGN_NOT_EVIL)) {
             return true;
@@ -251,6 +254,9 @@ public class LoadedQuest {
     }
 
     private boolean doesRaceFit(CHAR_DATA ch) {
+        if (this.getQuestRace() == QuestManager.RACE_ALL) {
+            return true;
+        }
         if (IS_ELF(ch) && (this.getQuestRace() == QuestManager.RACE_ELF_ONLY)) {
             return true;
         }

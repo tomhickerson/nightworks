@@ -1,7 +1,12 @@
 package net.sf.nightworks.behave;
 
+import net.sf.nightworks.MobProg;
 import net.sf.nightworks.Nightworks;
+import net.sf.nightworks.enums.PlayerAchievement;
+import net.sf.nightworks.quests.SimpleGetQuest;
+import net.sf.nightworks.quests.SimpleKillQuest;
 import net.sf.nightworks.quests.SimpleQuest;
+import net.sf.nightworks.quests.plains.PlainQuests;
 import net.sf.nightworks.util.TextBuffer;
 
 import java.util.ArrayList;
@@ -58,19 +63,39 @@ public class MobProg2 {
                 if (q.getLoadedQuest() != null) {
                     if (IS_SET(ch.act, PLR_QUESTOR) && ch.pcdata.questid == q.getAchievement()) {
                         // figure out if the quest is done
-
-                        // generate the reward
-
+                        if (q instanceof SimpleKillQuest) {
+                            if (ch.pcdata.questmob == -1) {
+                                finish_loaded_quest(ch, mob, q);
+                            }
+                        } else if (q instanceof SimpleGetQuest) {
+                            do_say(mob, "Maybe you have something for me...?");
+                        }
                     } else if (q.getLoadedQuest().doesQualify(ch)) {
                         // print out the preamble
-
+                        do_say(mob, q.getPreamble());
                     } else if (q.getLoadedQuest().doesQualifyExceptLevel(ch)) {
                         // print out the come back later phrase
-
+                        do_say(mob, q.getLoadedQuest().getComeBackLater());
                     }
                 }
             }
         }
+    }
+
+    private static void finish_loaded_quest(CHAR_DATA ch, CHAR_DATA mob, SimpleQuest q) {
+        do_say(mob, q.getEpilogue());
+        MobProg.clear_quest(ch);
+        // add the questpoints
+        // add the exp
+        // add the gold and silver
+        // add the virtue or vice
+        if (q.getLoadedQuest().getVice() >= 0) {
+            // 0-6 is a certain vice
+        }
+        if (q.getLoadedQuest().getVirtue() >= 0) {
+            // 0-6 is a certain virtue
+        }
+        ch.pcdata.achievements.add(PlayerAchievement.lookupAchievement(q.getAchievement()));
     }
 
     public static void speech_prog_loadedquest_mob(Nightworks.CHAR_DATA mob, Nightworks.CHAR_DATA ch, String speech) {
