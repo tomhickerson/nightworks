@@ -125,6 +125,30 @@ public class Update {
         }
     }
 
+    public static void updateLust(CHAR_DATA ch) {
+        int lust = ch.pcdata.vices.updateVice(VICE_LUST);
+        if (lust > 0) {
+            ch.pcdata.vices.lust++;
+            send_to_char(PlayerMessage.CONSUMED_BY_LUST.getMessage(), ch);
+        }
+    }
+
+    public static void updateEnvy(CHAR_DATA ch) {
+        int envy = ch.pcdata.vices.updateVice(VICE_ENVY);
+        if (envy > 0) {
+            ch.pcdata.vices.envy++;
+            send_to_char(PlayerMessage.CONSUMED_BY_ENVY.getMessage(), ch);
+        }
+    }
+
+    public static void updatePride(CHAR_DATA ch) {
+        int pride = ch.pcdata.vices.updateVice(VICE_PRIDE);
+        if (pride > 0) {
+            ch.pcdata.vices.pride++;
+            send_to_char(PlayerMessage.SWELL_BY_PRIDE.getMessage(), ch);
+        }
+    }
+
     public static void updateFortitude(Nightworks.CHAR_DATA ch) {
         int fortitude = ch.pcdata.virtues.updateVirtue(VIRTUE_FORTITUDE);
         if (fortitude > 0) {
@@ -170,6 +194,22 @@ public class Update {
         if (sloth > 0) {
             ch.pcdata.vices.sloth++;
             send_to_char(PlayerMessage.FEEL_BY_SLOTH.getMessage(), ch);
+        }
+    }
+
+    public static void updateAvarice(CHAR_DATA ch) {
+        int avarice = ch.pcdata.vices.updateVice(VICE_AVARICE);
+        if (avarice > 0) {
+            ch.pcdata.vices.avarice++;
+            send_to_char(PlayerMessage.CONSUMED_BY_AVARICE.getMessage(), ch);
+        }
+    }
+
+    public static void updateGluttony(CHAR_DATA ch) {
+        int gluttony = ch.pcdata.vices.updateVice(VICE_GLUTTONY);
+        if (gluttony > 0) {
+            ch.pcdata.vices.gluttony++;
+            send_to_char(PlayerMessage.CONSUMED_BY_GLUTTONY.getMessage(), ch);
         }
     }
 /*

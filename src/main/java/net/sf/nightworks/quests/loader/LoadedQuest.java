@@ -215,8 +215,7 @@ public class LoadedQuest {
     private int vice;
 
     public boolean doesQualify(Nightworks.CHAR_DATA ch) {
-        if (doesAlignFit(ch) && doesRaceFit(ch) &&
-                ch.pcdata.achievements.contains(PlayerAchievement.lookupAchievement(this.prereqAchvId)) &&
+        if (doesAlignFit(ch) && doesRaceFit(ch) && doesAchievementFit(ch) &&
                 ch.level >= this.getQuestMinLevel()) {
             return true;
         }
@@ -224,12 +223,22 @@ public class LoadedQuest {
     }
 
     public boolean doesQualifyExceptLevel(Nightworks.CHAR_DATA ch) {
-        if (doesAlignFit(ch) && doesRaceFit(ch) &&
-                ch.pcdata.achievements.contains(PlayerAchievement.lookupAchievement(this.prereqAchvId)) &&
+        if (doesAlignFit(ch) && doesRaceFit(ch) && doesAchievementFit(ch) &&
                 ch.level < this.getQuestMinLevel()) {
             return true;
         }
         return false;
+    }
+
+    /*
+    there could be no prerequisite achievement, so we're checking first
+     */
+    private boolean doesAchievementFit(CHAR_DATA ch) {
+        if (this.prereqAchvId > 0) {
+            return ch.pcdata.achievements.contains(PlayerAchievement.lookupAchievement(this.prereqAchvId));
+        } else {
+            return true;
+        }
     }
 
     private boolean doesAlignFit(Nightworks.CHAR_DATA ch) {

@@ -1,11 +1,6 @@
 package net.sf.nightworks.player;
 
-import net.sf.nightworks.Nightworks;
-import net.sf.nightworks.enums.PlayerMessage;
-
-import static net.sf.nightworks.Comm.send_to_char;
 import static net.sf.nightworks.DB.number_range;
-import static net.sf.nightworks.Nightworks.VICE_ANGER;
 
 /**
  * Holder class for the Seven Vices.  More to come.

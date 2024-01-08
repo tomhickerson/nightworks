@@ -13,8 +13,11 @@ import java.util.ArrayList;
 
 import static net.sf.nightworks.ActComm.do_say;
 import static net.sf.nightworks.Comm.act;
+import static net.sf.nightworks.Comm.send_to_char;
 import static net.sf.nightworks.DB.number_range;
 import static net.sf.nightworks.Nightworks.*;
+import static net.sf.nightworks.Update.*;
+import static net.sf.nightworks.Update.gain_exp;
 
 /**
  * MobProg2, where we will add more generic coded actions
@@ -86,11 +89,46 @@ public class MobProg2 {
         do_say(mob, q.getEpilogue());
         MobProg.clear_quest(ch);
         // add the questpoints
-        // add the exp
+        if (q.getLoadedQuest().getQuestPoints() > 0) {
+            ch.pcdata.questpoints += q.getLoadedQuest().getQuestPoints();
+            int exp = q.getLoadedQuest().getQuestPoints() * number_range(1 , 5);
+            send_to_char("You receive {W" + exp + "{x experience points.\n", ch);
+            gain_exp(ch, exp);
+        } else {
+            send_to_char("You receive {W100{x experience points.\n", ch);
+            gain_exp(ch, 100);
+        }
+        // add the exp - at this point we get a range between 1 and 5 and multiply QPs
+        // or just a set number of exp
+
         // add the gold and silver
+        if (q.getLoadedQuest().getGold() > 0) {
+            ch.gold += q.getLoadedQuest().getGold();
+            send_to_char("You receive {W" + q.getLoadedQuest().getGold() + "{x gold pieces.\n", ch);
+        }
+        if (q.getLoadedQuest().getSilver() > 0) {
+            ch.silver += q.getLoadedQuest().getSilver();
+            send_to_char("You receive {W" + q.getLoadedQuest().getSilver() + "{x silver pieces.\n", ch);
+        }
         // add the virtue or vice
         if (q.getLoadedQuest().getVice() >= 0) {
             // 0-6 is a certain vice
+            switch(q.getLoadedQuest().getVice()) {
+                case 0:
+                    updateLust(ch);
+                case 1:
+                    updateEnvy(ch);
+                case 2:
+                    updateSloth(ch);
+                case 3:
+                    updatePride(ch);
+                case 4:
+                    updateAvarice(ch);
+                case 5:
+                    updateGluttony(ch);
+                case 6:
+                    updateAnger(ch);
+            }
         }
         if (q.getLoadedQuest().getVirtue() >= 0) {
             // 0-6 is a certain virtue
