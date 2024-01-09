@@ -2142,7 +2142,7 @@ public final class Nightworks {
         public int questpoints;    /* quest */
         int nextquest;  /* quest */
         int countdown;  /* quest */
-        int questobj;   /* quest */
+        public int questobj;   /* quest */
         public int questmob;       /* quest */
         public int questid; // achievement id of quest
         public int questobjnum; // for collect quests
@@ -2185,7 +2185,7 @@ public final class Nightworks {
 * Prototype for an object.  *OID*
 */
 
-    static final class OBJ_INDEX_DATA {
+    public static final class OBJ_INDEX_DATA {
         OBJ_INDEX_DATA next;
         EXTRA_DESCR_DATA extra_descr;
         AFFECT_DATA affected;
@@ -2193,7 +2193,7 @@ public final class Nightworks {
         String name;
         String short_descr;
         String description;
-        int vnum;
+        public int vnum;
         int reset_num;
         String material;
         int item_type;
@@ -2223,12 +2223,12 @@ public final class Nightworks {
         CHAR_DATA carried_by;
         EXTRA_DESCR_DATA extra_descr;
         AFFECT_DATA affected;
-        OBJ_INDEX_DATA pIndexData;
+        public OBJ_INDEX_DATA pIndexData;
         ROOM_INDEX_DATA in_room;
         boolean valid;
         boolean enchanted;
         String owner;
-        String name;
+        public String name;
         String short_descr;
         String description;
         int item_type;

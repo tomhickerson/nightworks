@@ -6,12 +6,11 @@ import net.sf.nightworks.enums.PlayerAchievement;
 import net.sf.nightworks.quests.SimpleGetQuest;
 import net.sf.nightworks.quests.SimpleKillQuest;
 import net.sf.nightworks.quests.SimpleQuest;
-import net.sf.nightworks.quests.plains.PlainQuests;
-import net.sf.nightworks.util.TextBuffer;
 
 import java.util.ArrayList;
 
 import static net.sf.nightworks.ActComm.do_say;
+import static net.sf.nightworks.ActObj.do_drop;
 import static net.sf.nightworks.Comm.act;
 import static net.sf.nightworks.Comm.send_to_char;
 import static net.sf.nightworks.DB.number_range;
@@ -76,6 +75,8 @@ public class MobProg2 {
                     } else if (q.getLoadedQuest().doesQualify(ch)) {
                         // print out the preamble
                         do_say(mob, q.getPreamble());
+                        // assign the quest id temporarily?
+
                     } else if (q.getLoadedQuest().doesQualifyExceptLevel(ch)) {
                         // print out the come back later phrase
                         do_say(mob, q.getLoadedQuest().getComeBackLater());
@@ -92,7 +93,8 @@ public class MobProg2 {
         if (q.getLoadedQuest().getQuestPoints() > 0) {
             ch.pcdata.questpoints += q.getLoadedQuest().getQuestPoints();
             int exp = q.getLoadedQuest().getQuestPoints() * number_range(1 , 5);
-            send_to_char("You receive {W" + exp + "{x experience points.\n", ch);
+            send_to_char("You receive {W" + exp + "{x experience points and {W" +
+                    q.getLoadedQuest().getQuestPoints() + "{x quest points.\n", ch);
             gain_exp(ch, exp);
         } else {
             send_to_char("You receive {W100{x experience points.\n", ch);
@@ -132,6 +134,22 @@ public class MobProg2 {
         }
         if (q.getLoadedQuest().getVirtue() >= 0) {
             // 0-6 is a certain virtue
+            switch (q.getLoadedQuest().getVirtue()) {
+                case 0:
+                    updateFaith(ch);
+                case 1:
+                    updateHope(ch);
+                case 2:
+                    updateCompassion(ch);
+                case 3:
+                    updateHumility(ch);
+                case 4:
+                    updateJustice(ch);
+                case 5:
+                    updateSacrifice(ch);
+                case 6:
+                    updateFortitude(ch);
+            }
         }
         ch.pcdata.achievements.add(PlayerAchievement.lookupAchievement(q.getAchievement()));
     }
@@ -141,6 +159,21 @@ public class MobProg2 {
     }
 
     public static void give_prog_loadedquest_mob(Nightworks.CHAR_DATA mob, Nightworks.CHAR_DATA ch, Nightworks.OBJ_DATA obj) {
-
+        ArrayList<SimpleQuest> quests = quest_table.get(mob.pIndexData.vnum);
+        if (quests != null) {
+            for (SimpleQuest q : quests) {
+                if (q.getLoadedQuest() != null && q instanceof SimpleGetQuest) {
+                    if (IS_SET(ch.act, PLR_QUESTOR) && ch.pcdata.questid == q.getAchievement()) {
+                        if (obj.pIndexData.vnum == ch.pcdata.questobj) {
+                            finish_loaded_quest(ch, mob, q);
+                        } else {
+                            do_say(mob, "This doesn't look like anything to me?");
+                            do_drop(mob, obj.name);
+                        }
+                        return;
+                    }
+                }
+            }
+        }
     }
 }
