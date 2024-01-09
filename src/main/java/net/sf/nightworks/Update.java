@@ -165,6 +165,22 @@ public class Update {
         }
     }
 
+    public static void updateHope(CHAR_DATA ch) {
+        int hope = ch.pcdata.virtues.updateVirtue(VIRTUE_HOPE);
+        if (hope > 0) {
+            ch.pcdata.virtues.hope++;
+            send_to_char(PlayerMessage.FEEL_BY_HOPE.getMessage(), ch);
+        }
+    }
+
+    public static void updateSacrifice(CHAR_DATA ch) {
+        int sacrifice = ch.pcdata.virtues.updateVirtue(VIRTUE_SACRIFICE);
+        if (sacrifice > 0) {
+            ch.pcdata.virtues.sacrifice++;
+            send_to_char(PlayerMessage.FEEL_BY_SACRIFICE.getMessage(), ch);
+        }
+    }
+
     public static void updateCompassion(CHAR_DATA ch) {
         int compassion = ch.pcdata.virtues.updateVirtue(VIRTUE_COMPASSION);
         if (compassion > 0) {

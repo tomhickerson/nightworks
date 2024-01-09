@@ -103,7 +103,7 @@ import static net.sf.nightworks.util.TextUtils.smash_tilde;
 import static net.sf.nightworks.util.TextUtils.str_cmp;
 import static net.sf.nightworks.util.TextUtils.str_prefix;
 
-class ActObj {
+public class ActObj {
 /* RT part of the corpse looting code */
 
     private static boolean _loot = true;
@@ -781,7 +781,7 @@ class ActObj {
     }
 
 
-    static void do_drop(CHAR_DATA ch, String argument) {
+    public static void do_drop(CHAR_DATA ch, String argument) {
         OBJ_DATA obj;
         OBJ_DATA obj_next;
         boolean found;
