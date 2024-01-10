@@ -3241,7 +3241,7 @@ public class Handler {
 * true if char can see victim.
 */
 
-    static boolean can_see(CHAR_DATA ch, CHAR_DATA victim) {
+    public static boolean can_see(CHAR_DATA ch, CHAR_DATA victim) {
 /* RT changed so that WIZ_INVIS has levels */
         assert (ch != null && victim != null);
 

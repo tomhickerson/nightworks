@@ -14,9 +14,11 @@ import static net.sf.nightworks.ActObj.do_drop;
 import static net.sf.nightworks.Comm.act;
 import static net.sf.nightworks.Comm.send_to_char;
 import static net.sf.nightworks.DB.number_range;
+import static net.sf.nightworks.Handler.can_see;
 import static net.sf.nightworks.Nightworks.*;
 import static net.sf.nightworks.Update.*;
 import static net.sf.nightworks.Update.gain_exp;
+import static net.sf.nightworks.util.TextUtils.str_cmp;
 
 /**
  * MobProg2, where we will add more generic coded actions
@@ -56,7 +58,7 @@ public class MobProg2 {
     }
 
     public static void greet_prog_loadedquest_mob(Nightworks.CHAR_DATA mob, Nightworks.CHAR_DATA ch) {
-        if (IS_NPC(ch)) {
+        if (!can_see(mob, ch) || IS_NPC(ch) || IS_IMMORTAL(ch)) {
             return;
         }
         ArrayList<SimpleQuest> quests = quest_table.get(mob.pIndexData.vnum);
@@ -155,7 +157,36 @@ public class MobProg2 {
     }
 
     public static void speech_prog_loadedquest_mob(Nightworks.CHAR_DATA mob, Nightworks.CHAR_DATA ch, String speech) {
-
+        if (IS_NPC(ch)) {
+            return;
+        }
+        ArrayList<SimpleQuest> quests = quest_table.get(mob.pIndexData.vnum);
+        boolean accepted = false;
+        SimpleQuest acceptedQuest = null;
+        if (quests != null && !IS_SET(ch.act, PLR_QUESTOR)) {
+            for (SimpleQuest q : quests) {
+                if (q.getLoadedQuest().doesQualify(ch) && !str_cmp(speech, q.getAcceptPhrase())) {
+                    accepted = true;
+                    acceptedQuest = q;
+                    break;
+                }
+            }
+        }
+        if (accepted) {
+            do_say(mob, acceptedQuest.getAcceptMessage());
+            ch.act = SET_BIT(ch.act, PLR_QUESTOR);
+            ch.pcdata.countdown = acceptedQuest.getDuration();
+            ch.pcdata.questgiver = mob.id;
+            if (acceptedQuest instanceof SimpleGetQuest) {
+                ch.pcdata.questobj = ((SimpleGetQuest) acceptedQuest).getVnumToGet();
+                // assumed that item is already on the map
+            } else if (acceptedQuest instanceof SimpleKillQuest) {
+                ch.pcdata.questmob = ((SimpleKillQuest) acceptedQuest).getVnumToKill();
+                // assumed that mob is already on the map
+            }
+        } else {
+            do_say(mob, "Sorry, didn't quite make that out?");
+        }
     }
 
     public static void give_prog_loadedquest_mob(Nightworks.CHAR_DATA mob, Nightworks.CHAR_DATA ch, Nightworks.OBJ_DATA obj) {
