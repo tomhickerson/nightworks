@@ -2020,7 +2020,7 @@ public final class Nightworks {
         public PC_DATA pcdata;
         boolean valid;
         public String name;
-        int id;
+        public int id;
         String short_descr;
         String long_descr;
         String description;
@@ -2138,10 +2138,10 @@ public final class Nightworks {
         int played;
         int anti_killed;
         int has_killed;
-        int questgiver; /* quest */
+        public int questgiver; /* quest */
         public int questpoints;    /* quest */
         int nextquest;  /* quest */
-        int countdown;  /* quest */
+        public int countdown;  /* quest */
         public int questobj;   /* quest */
         public int questmob;       /* quest */
         public int questid; // achievement id of quest
@@ -2393,7 +2393,7 @@ public final class Nightworks {
         return (flag & bit) != 0;
     }
 
-    static long SET_BIT(long var, long bit) {
+    public static long SET_BIT(long var, long bit) {
         return var | bit;
     }
 
@@ -2425,7 +2425,7 @@ public final class Nightworks {
         return IS_SET(ch.act, ACT_IS_NPC);
     }
 
-    static boolean IS_IMMORTAL(CHAR_DATA ch) {
+    public static boolean IS_IMMORTAL(CHAR_DATA ch) {
         return get_trust(ch) >= LEVEL_IMMORTAL;
     }
 
