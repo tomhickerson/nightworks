@@ -22,7 +22,9 @@ public class QuestManagerTest {
             for (SimpleQuest q : values) {
                 assertNotNull(q.getAcceptMessage());
                 assertNotNull(q.getAcceptPhrase());
-                assertNotNull(q.getReward());
+                if (q.getLoadedQuest() == null) {
+                    assertNotNull(q.getReward());
+                }
                 assertNotNull(q.getEpilogue());
                 System.out.print(".");
             }

@@ -54,6 +54,7 @@ public class QuestManager {
         questArray.add(PlainQuests.returnPilgrimQuest());
         quests.put(VNUM_PILGRIM_PLAINS, questArray);
         // add the quest loader here, pass the entire hashmap to it, return it back
+        quests = loadQuests(quests);
         return quests;
     }
 
@@ -64,6 +65,7 @@ public class QuestManager {
 
             for ( ; ; ) {
                 String questFileName = questList.fread_word();
+                // System.out.println("++ Found " + questFileName);
                 if (questFileName.charAt(0) == '$') {
                     break;
                 }
@@ -79,6 +81,9 @@ public class QuestManager {
                         // return an array list and load each one into the hashmap
                         for (LoadedQuest lq : lQuests) {
                             ArrayList<SimpleQuest> sqs = quests.get(lq.getVnumQuestGiver());
+                            if (sqs == null) {
+                                sqs = new ArrayList<>();
+                            }
                             sqs.add(convertLoadedQuest(lq));
                             quests.put(lq.getVnumQuestGiver(), sqs);
                         }
@@ -93,7 +98,7 @@ public class QuestManager {
     }
 
     private static ArrayList<LoadedQuest> loadSingleQuest(DikuTextFile qFile) {
-        ArrayList<LoadedQuest> loadedQuests = null;
+        ArrayList<LoadedQuest> loadedQuests = new ArrayList<>();
         char letter;
         int vnum;
         for ( ; ; ) {
