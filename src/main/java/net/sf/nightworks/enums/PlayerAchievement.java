@@ -12,7 +12,8 @@ public enum PlayerAchievement {
     FIND_ALMS_FOR_THE_PILGRIM(6, "Find alms for the Blind Pilgrim", false),
     KILL_MORE_RABBITS_FOR_THE_HERMIT(7, "Kill more rabbits for the Hermit in the Plains", false),
     TALK_TO_FOREST_GARGOYLE(8, "Meet the Gargoyle in the Forest", false),
-    LITTLE_GIRLS_LOST(9, "Find out what happened to the girls in the Orphanage", false);
+    LITTLE_GIRLS_LOST(9, "Find out what happened to the girls in the Orphanage", false),
+    FIND_THE_KERCHIEF(1001, "Find the handkerchief for the noblewoman", false);
 
 
     PlayerAchievement(int id, String desc) {

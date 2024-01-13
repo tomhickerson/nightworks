@@ -208,7 +208,7 @@ public class DikuTextFile {
         while (tmpBuf.length() < MAX_WORD_LENGTH) {
             char c = read();
             if (c == END_OF_STREAM_CHAR || (cEnd == ' ' ? isSpace(c) : (c == cEnd))) {
-//                System.err.println("Word '"+word+"'");
+                // System.err.println("Word '" + tmpBuf + "'");
                 if (isSpace(c)) {
                     ungetc();
                 }
