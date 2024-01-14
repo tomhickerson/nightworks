@@ -77,7 +77,7 @@ Small Church in the Orphanage~
 You are in a small, tidy chapel dedicated to the God of the Morning
 Sun, Khapri.  A small symbol of the rising sun is painted on the 
 wooden walls and ceiling.  Stained-glass windows allow the daylight
-to come in.  The only entrance and exit is to the east.
+to come in.  The only exit is to the east.
 ~
 0 0 1
 D1
@@ -426,6 +426,7 @@ M 0  350   1 5577  1	* the pet dragon
 D 0 5500   3 1 * orphanage door west 
 D 0 5501   1 1 * orphanage door east 
 O 0 26534  1 5563 * donation basket for thieves
+O 0 26537  1 5559 * donation basket for samurai
 S
 
 #SHOPS
