@@ -1,6 +1,7 @@
 package net.sf.nightworks;
 
 import net.sf.nightworks.enums.PlayerAchievement;
+import net.sf.nightworks.enums.PlayerLore;
 import net.sf.nightworks.player.Vices;
 import net.sf.nightworks.player.Virtues;
 import net.sf.nightworks.quests.SimpleQuest;
@@ -2130,6 +2131,8 @@ public final class Nightworks {
         String lineAchievement = "0"; // contains all the achievements in one CSV line,
         // can then use 'contains'? maybe not
         public ArrayList<PlayerAchievement> achievements = new ArrayList<>();
+        String linelore = "0";
+        public ArrayList<PlayerLore> playerLores = new ArrayList<>();
         public Virtues virtues = new Virtues();
         public Vices vices = new Vices();
         int bank_s;

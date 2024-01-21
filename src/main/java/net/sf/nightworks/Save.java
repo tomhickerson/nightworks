@@ -1,6 +1,7 @@
 package net.sf.nightworks;
 
 import net.sf.nightworks.enums.PlayerAchievement;
+import net.sf.nightworks.enums.PlayerLore;
 import net.sf.nightworks.util.DikuTextFile;
 import net.sf.nightworks.util.TextBuffer;
 
@@ -946,7 +947,7 @@ class Save {
                             } catch (NumberFormatException nfe) {
                                 bug("fread_char: found bad Achv " + achieves[j]);
                             }
-                            PlayerAchievement pa = PlayerAchievement.achieveMap.get(new Integer(achievedId));
+                            PlayerAchievement pa = PlayerAchievement.achieveMap.get(achievedId);
                             // System.out.println(" ### Looking in a hashmap of " + PlayerAchievement.achieveMap.size() +
                                //     " and looking for " + achievedId);
                             if (pa != null) {
@@ -1087,6 +1088,24 @@ class Save {
                     break;
 
                 case 'L':
+                    // find player lore
+                    if (!str_cmp(word, "Lore")) {
+                        ch.pcdata.linelore = fp.fread_word();
+                        String[] lores = ch.pcdata.linelore.split(",");
+                        for (int j = 0; j < lores.length; j++) {
+                            int loreId = 0;
+                            try {
+                                loreId = Integer.parseInt(lores[j]);
+                            } catch (NumberFormatException nfe) {
+                                bug("fread_char: found bad Lore " + lores[j]);
+                            }
+                            PlayerLore pl = PlayerLore.lookupLore(loreId);
+                            if (pl != null) {
+                                ch.pcdata.playerLores.add(pl);
+                            }
+                        }
+                        break;
+                    }
                     ch.pcdata.last_level = fp.NKEY("LastLevel", word, ch.pcdata.last_level);
                     ch.pcdata.last_level = fp.NKEY("LLev", word, ch.pcdata.last_level);
                     ch.level = fp.NKEY("Level", word, ch.level);
