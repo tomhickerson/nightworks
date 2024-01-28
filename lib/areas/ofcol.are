@@ -18,6 +18,17 @@ E
 crystal~
 You see a crystal cube the size of a fist, pulsing a faint blue from some kind of magical 
 source within.~
+#5501
+dark codex initiate~
+the dark codex of the initiate~
+The dark codex of the initiate is open here on a podium.~
+wood~
+treasure 0 A 
+0 0 0 0 0
+5 15000 250 P 
+E
+codex~
+With a black cover of leather, and light grey pages of paper, the book radiates a minor magical aura.  Perhaps if you EXAMINE it you may gain some insight...~
 #0
 
 #ROOMS
@@ -371,18 +382,55 @@ D1
 You see the halls of the Necromancer's Guild.
 ~
 ~
-0 -1 -1
+0 -1 5565
 D2 
 You see the darkened halls of the Vampire's Guild.
 ~
 ~
-0 -1 -1
+0 -1 5566
 D3 
 You see the halls of the Anti-Paladin's Guild.
 ~
 ~
-0 -1 -1
+0 -1 5567
 S  
+#5565
+The Necromancer Guild Chambers~
+You are in a dark, brroding chamber which is the small center of 
+activity for all Necromancers in the area.  A long, detailed 
+portrait of a living corpse stretches along one wall.~
+0 D 1
+D3 
+You see the main Guild hall.
+~
+~
+0 -1 5564
+S 
+#5566
+The Vampire Guild Chambers~ 
+You are in a cold, clammy chamber below the earth, where 
+you can plot and plan in peace, away from the sunlight and 
+bother of the living world.
+~
+0 D 1
+D0
+You see the main Guild hall, leading back to the surface world.
+~
+~
+0 -1 5564
+S 
+#5567 
+The Anti-Paladin Guild Chambers~ 
+You are in a low-ceilinged room underground, walls covered in 
+parchment and papers, outlining all sorts of fiendish plans.
+~
+0 D 1
+D1
+You see the main Guild hall.
+~
+~
+0 -1 5564
+S
 #5577
 Ravan's hideout~
 This place is a small, cosy place where no one disturbs you all
@@ -429,10 +477,16 @@ O 0 26534  1 5563 * donation basket for thieves
 O 0 26537  1 5559 * donation basket for samurai
 O 0 26536  1 5560 * donation basket for rangers
 O 0 26535  1 5558 * donation basket for warriors 
+O 0 5501   1 5503 * place the codex in the orphanage 
 S
 
 #SHOPS
 0
 #SPECIALS
 S
+
+#OMPROGS
+O 5501 exam_prog exam_prog_codex_of_the_initiate
+S
+
 #$
