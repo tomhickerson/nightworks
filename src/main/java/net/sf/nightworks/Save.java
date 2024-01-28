@@ -295,6 +295,14 @@ class Save {
             // might have to fix this later to read the arraylists
             // fp.sprintf("Achv %s~\n", Arrays.stream(ch.pcdata.achievements).toString());
         }
+        if (ch.pcdata.playerLores.size() > 0) {
+            String lores = "";
+            for (PlayerLore pl : ch.pcdata.playerLores) {
+                lores += pl.getId() + ",";
+            }
+            fp.sprintf(false,"Lore %s~\n", lores);
+            ch.pcdata.linelore = lores;
+        }
         fp.sprintf(false, "Titl %s~\n", ch.pcdata.title);
         fp.sprintf(false, "Pnts %d\n", ch.pcdata.points);
         fp.sprintf(false, "TSex %d\n", ch.pcdata.true_sex);

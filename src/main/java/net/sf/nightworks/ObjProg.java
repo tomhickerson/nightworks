@@ -2,6 +2,7 @@ package net.sf.nightworks;
 
 
 import net.sf.nightworks.enums.PlayerAchievement;
+import net.sf.nightworks.enums.PlayerLore;
 import net.sf.nightworks.enums.PlayerMessage;
 import net.sf.nightworks.quests.SimpleCollectQuest;
 import net.sf.nightworks.quests.SimpleQuest;
@@ -571,11 +572,19 @@ class ObjProg {
     }
 
     static void exam_prog_painting_of_astral_travel(OBJ_DATA obj, CHAR_DATA ch) {
-        act("{WYour feel your body as it dissolves into elements of color, " +
+        act("{WYou feel your body as it dissolves into elements of color, " +
                 "spinning slowly into the oils of the painting...{x", ch, null, null, TO_CHAR);
         act("{WStepping forward to examine the painting, $n suddenly fades " +
-                "from view, merging into the oils textures and colors of the painting...{x", ch, obj, null, TO_ROOM);
+                "from view, merging into the oils, textures and colors of the painting...{x", ch, obj, null, TO_ROOM);
         do_goto(ch, "7700");
+    }
+
+    static void exam_prog_codex_of_the_initiate(OBJ_DATA obj, CHAR_DATA ch) {
+        ch.pcdata.playerLores.add(PlayerLore.MINOR_KNOWLEDGE_SOULCUBE);
+        act("{WYou examine the codex, and begin to understand the " +
+                "intricate workings of the {RSoul Cube{W.{x", ch, null, null, TO_CHAR);
+        act("{W$n studies the codex and nods their " +
+                "head in understanding.{x", ch, obj, null, TO_ROOM);
     }
 
     static void get_prog_candle(OBJ_DATA obj, CHAR_DATA ch) {
