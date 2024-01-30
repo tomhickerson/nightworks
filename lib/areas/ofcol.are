@@ -43,7 +43,7 @@ D1
 The way to the village road.
 ~
 ~
-0 -1 5550
+0 -1 5551
 D3 
 The door into the orphanage.
 ~
@@ -232,7 +232,7 @@ D5
 You see a stairway leading down into the lower chambers.
 ~
 ~
-0 -1 -1
+0 -1 5557
 S
 #5555
 Luxan's mixed shop~
@@ -297,7 +297,7 @@ D5
 You see a stairway leading deeper into the lower parts of the tower.
 ~
 ~
-0 -1 -1
+0 -1 5564
 S 
 #5558
 The Warrior Guild Office~
@@ -393,6 +393,11 @@ You see the halls of the Anti-Paladin's Guild.
 ~
 ~
 0 -1 5567
+D4 
+You see a stairway up to the Guild basement.
+~
+~
+0 -1 5557
 S  
 #5565
 The Necromancer Guild Chambers~
