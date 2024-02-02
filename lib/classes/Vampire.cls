@@ -8,6 +8,7 @@ GuildRoom 5396
 GuildRoom 9618
 GuildRoom 9617
 GuildRoom 9648
+GuildRoom 5566
 SkillAdept 75
 Thac0_00 18
 Thac0_32 -6
