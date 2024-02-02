@@ -4,6 +4,7 @@ ShortName A-P~
 PrimeStat str
 SchoolWeapon 3702
 GuildRoom 3061
+GuildRoom 5567
 SkillAdept 75
 Thac0_00 18
 Thac0_32 -6
