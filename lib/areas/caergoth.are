@@ -24,7 +24,7 @@ grocer man~
 the green grocer~
 A grocer stands behind his counter, offering fresh fruit and vegetables.
 ~
-Very clean-cut and tanned, the grocer has a wide selection of fruit and vegetables available, imported from all over Krynn.
+Very clean-cut and tanned, the grocer has a wide selection of fruit and vegetables available, imported from all over the known lands.
 ~
 human~
 BGV 0 0 0
@@ -1898,8 +1898,7 @@ They look like they've been used a lot.~
 #ROOMS
 #2590
 Southern gate of Caergoth~
-Inside the south gate of Caergoth, the feel of a busy fishing town and seaport is all around. The smell of the salt air, the calling of seagulls, the shouts of dockhands. It is a quiet town, though, despite its importance as a major port. The town stretches out to the north. There is a carving in one of the stones of
-the gate.
+Inside the south gate of Caergoth, the feel of a busy fishing town and seaport is all around. The smell of the salt air, the calling of seagulls, the shouts of dockhands. It is a quiet town, though, despite its importance as a major port. The town stretches out to the north. There is a {Wcarving{x in one of the {Wstones{x of the gate.
 ~
 0 0 1
 D0
@@ -1909,7 +1908,7 @@ D0
 D2
 ~
 ~
-0 -1 -1
+0 -1 2592
 E
 carving stones gate~
 The Town of Caergoth, built by Mishakal. Permission is granted to use on any ROM MUD, provided credit is solely given to Mishakal in the area listing. - copyright 2001.
@@ -2780,6 +2779,10 @@ The end of the dock~
 You stand at the end of the dock. Water splashes all around; the open seas lie to the north. Boats can be seen on the horizon and coming into the harbour, from Palanthas and other ports. Some cargo is stacked up here, mostly crates of food and hand-made products to be sold elsewhere.
 ~
 0 0 1
+D0 
+~
+~
+0 -1 29501
 D2
 ~
 ~
@@ -2804,6 +2807,10 @@ The end of the dock~
 You stand at the end of the dock. Water splashes all around; the open seas lie to the north. Boats can be seen on the horizon and coming into the harbour, from Palanthas and other ports. Some cargo is stacked up here, mostly crates of food and hand-made products to be sold elsewhere.
 ~
 0 0 1
+D0
+~
+~
+0 -1 29500
 D2
 ~
 ~
@@ -3205,6 +3212,91 @@ D3
 ~
 ~
 0 -1 2587
+S
+#2592
+The road leading up to the port~
+You are standing on the paved road before a busy port city, with stout stone walls and a solid wood-and-iron gate.  You can already hear the call of the seagulls from here.  To the south the road winds through the forested hills.
+~
+0 0 10
+D0 
+~
+~
+0 -1 2590
+D2
+~
+~
+0 -1 2593 
+S
+#2593
+The road leading through the hills~
+You are making your way through rocky hills and forests.  While the road is paved with flat rocks you can see where the forest trees are spreading their roots on the stones, like fingers from a hand.
+The road seems to open up to the north and go deeper into the hills to the south.
+~
+0 0 4
+D0
+~
+~
+0 -1 2592
+D2
+~
+~ 
+0 -1 2594
+S 
+#2594 
+The road leading through the hills~
+You are on a rough, rocky road leading through the forested hills.  You are at a good vantage point, where you can see Haven Lake far to the south of you.  Further south you can see the domes and spires of New Thalos, and yellow desert after that.  To the north you can only see more hills and forest.
+~
+0 0 4
+D0 
+~
+~
+0 -1 2593
+D2
+~
+~
+0 -1 2595
+S
+#2595
+The road on the side of a hill~
+You are on a rough road, lined with small rocks and shrubs, working its way up the south side of a hill.  Small trees and bushes give way to grasslands to the south.  To the north the road rises into the hills.
+~
+0 0 4
+D0
+~
+~
+0 -1 2594
+D2 
+~
+~
+0 -1 2596
+S 
+#2596
+The dirt road through the grasslands~
+You are on a dark dirt road that runs through the grassy field.  Some of the grasses reach as high as a man's chest.  The wind blows here, rustling the grasses in the distance.  The road runs north, turning much rougher, and to the south, towards the lake.
+~
+0 0 2
+D0 
+~
+~
+0 -1 2595
+D2 
+~
+~
+0 -1 2597
+S
+#2597
+A curve in the trail~
+You are on a trail which turns north and widens into a larger dirt road, heading north through the grasslands into the distance.  To the west, the trail heads towards Haven Lake.
+~
+0 0 2
+D0
+~
+~
+0 -1 2596
+D3
+~
+~
+0 -1 10627
 S
 #0
 
