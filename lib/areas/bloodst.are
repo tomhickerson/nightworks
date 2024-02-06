@@ -1,0 +1,158 @@
+#AREA	
+bloodst.are~
+Bloodstone Pass~
+{ 5 35} Starhunter Bloodstone Pass~
+3800 3899
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#3800
+The steep foothills~
+You are walking in the steep foothills. The stones clatter under your feet.
+To the north you can see more mountains.  Pine trees are growing here.
+~
+0 0 4
+D0
+The path continues up the mountain.
+~
+~
+0 -1 3801
+D2
+The foothills extend downwards to the south. On the horizon you can
+see the City Of Midgaard.
+~
+~
+0 -1 324
+E
+pine tree trees pines~
+The all too quiet trees suggest that something roams these woods.
+~
+S
+#3801
+The crest of the hill~
+You are on the top of a rocky hill, above the tree line, at the beginning of 
+the mountain ridge extending upwards to the north of you.  To the south, the 
+trail winds down through some piney woods, into the plains, and on to 
+the city of Midgaard.
+~
+0 0 5
+D0 
+The path winds gradually down off the hill, towards a valley.
+~
+~
+0 -1 3802
+D2 
+The trail goes down the hill to the plains.
+~
+~
+0 -1 3800
+S
+#3802
+The valley entrance~
+You are at the southern end of a wide, grassy valley flanked by impressive mountain peaks.
+The path you are on affords a good view to the north, where you see that the valley 
+extends through a narrow mountain pass, which looks dark and foreboding.  To the south,
+the trail gently rises to a hill's crest.
+~
+0 0 4
+D0
+The path runs through the valley grasslands.
+~
+~
+0 -1 -1
+D1
+A side trail runs along the side of the hill.
+~
+~
+0 -1 3803
+D2 
+The trail here rises to a hill's crest.
+~
+~
+0 -1 3801
+S 
+#3803
+A dark side trail~
+You are on a dirt path which winds along the side of the hill, lined by rocks and
+small, brushy trees.  
+~
+0 0 4
+D1 
+The trail runs to the east, around the bend of the hill and out of sight.
+~
+~
+0 -1 3804
+D3
+The trail meets the main descent into the valley.
+~
+~
+0 -1 3802
+S 
+#3804
+A bend in the trail~ 
+You are on a dark dirt path that is winding its way down in between the hills 
+that make up the southern part of this valley.  It looks like the trail to the
+north takes you into another small valley, which the path to the west leads to
+the hill's crest.
+~
+0 0 4
+D0 
+The trail turns north and heads into a small settlement.
+~
+~
+0 -1 3805
+D3 
+The trail winds through the hilltops and to the valley entrance.
+~
+~
+0 -1 3803
+S 
+#3805
+Before a small town~
+You are heading down off the hillside into a dry, dusty valley, where in the 
+distance you see a small town.  However, you don't hear any sounds coming from 
+the settlement, which gives this area an uneasy feeling.
+~
+0 0 4
+D0
+Heading into the silent town.
+~
+~
+0 -1 8100
+D2 
+Heading up and along the hillside.
+~
+~
+0 -1 3804
+S 
+#0
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#SPECIALS
+S
+
+
+
+#$
