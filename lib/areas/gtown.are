@@ -876,7 +876,7 @@ A
 #ROOMS
 #8100
 A Dusty Trail~
-You are heading along a dusty trail that runs toward the town ahead. There
+You are heading along a dusty trail that runs toward the town to the north. There
 is a horrid stench detectable even here. You see a sign up ahead.
 ~
 0 4 2
@@ -887,7 +887,7 @@ D0
 D2
 ~
 ~
-0 -1 -1
+0 -1 3805
 E
 sign~
 W E L C O M E    T O    G H O S T T O W N
