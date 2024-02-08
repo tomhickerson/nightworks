@@ -1,0 +1,146 @@
+#AREA	
+southlnd.are~
+The Southlands~
+{ 5 35} Starhunter The Southlands~
+4300 4399
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#4300
+The low path~
+You are on a dirt path running through the dark forest. From here you can go 
+to the north, south or east. The trees are large and quiet.
+~
+0 0 3
+D0
+The path runs into the woods.
+~
+~
+0 -1 3522
+D1 
+A path leads through the dark woods, hardly noticeable.
+~
+~
+0 -1 -1
+D2
+The path heads south through the woods.
+~
+~
+0 -1 -1
+E
+tree trees forest~
+The all too quiet trees suggest that something roams the woods around you.
+~
+S
+#4301
+The faint path~ 
+You are on a small path leading through the woods.  The sky is not visible from 
+all the trees and branches, and the ground is made up of soft dirt, lichens and 
+mud.  
+~
+0 0 3
+D1 
+The path heads east into the woods.
+~
+~
+0 -1 4302
+D3
+The path heads west into the woods.
+~
+~
+0 -1 4300
+S 
+#4302
+The grim path~
+You are on a path leading through the woods. Large rocks and boulders lie about
+here, covered in roots and moss. The trees tower above you, large and silent.
+~
+0 0 3
+D1 
+The path leads further east, into the forest.
+~
+~
+0 -1 4303
+D3 
+The path leads west, through the forest.
+~
+~
+0 -1 4301
+E
+tree trees forest~
+The all too quiet trees suggest that something roams the woods around you.
+~
+E
+rock rocks boulders boulder~
+These rocks are round and smooth, and you suspect they were originally manmade.
+~
+S 
+#4303
+The forest ruins~
+You are on a forested path, skirting your way around a large hole in the earth.
+Rocks and collapsed pillars, covered in vines and moss, show you that this place
+was once inhabited.  You can hear some movement in the hole below.
+~
+0 0 3
+D3 
+The path leads west, away from the ruin.
+~
+~
+0 -1 4302
+D5
+You can climb down into the foundations of this ruin.
+~
+~
+0 -1 4304
+S 
+#4304
+The Collapsed Building~
+You are in a earthen pit which used to be a large basement of some kind. Large,
+stone pillars lay haphazardly this way and that, allowing you to climb further 
+down.  The floor of this chamber is loose earth, but you can see that it is 
+a light cover for the solid stonework of the beings that used to live here.  
+There seems to be light and activity to the south.
+~
+0 0 3
+D2 
+The entrance to some kind of cavern...
+~
+~
+0 -1 29001
+D4 
+A way to climb out of this pit.
+~
+~
+0 -1 4303  
+S
+#0
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#SPECIALS
+S
+
+
+
+#$
