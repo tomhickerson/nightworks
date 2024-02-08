@@ -700,7 +700,8 @@ S
 Deep in the Forest of Miden'nir~
 There is a sickening stench here. It smells of blood and death.
 To the north, you catch glimpses of daylight. To the east, you
-simply cannot see. The trees are close and stifling.
+simply cannot see far, as the trees are close and stifling.
+Another path goes through the trees to the south.
 ~
 0 0 3
 D0
@@ -713,6 +714,11 @@ The stench seems to becoming from this direction.
 ~
 ~
 0 0 3521
+D2 
+A low path goes into the dark part of the woods.
+~
+~
+0 0 4300
 S
 #3523
 The Dark Forest~
