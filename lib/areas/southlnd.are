@@ -32,12 +32,12 @@ D1
 A path leads through the dark woods, hardly noticeable.
 ~
 ~
-0 -1 -1
+0 -1 4301
 D2
 The path heads south through the woods.
 ~
 ~
-0 -1 -1
+0 -1 4305
 E
 tree trees forest~
 The all too quiet trees suggest that something roams the woods around you.
@@ -124,6 +124,23 @@ A way to climb out of this pit.
 ~
 0 -1 4303  
 S
+#4305
+The path through the woods~
+You are in a dark part of the woods that is quiet and calm. The trees cover the
+sky with their branches and leaves, and the ground is solid, dark earth.
+~
+0 0 3
+D0
+The path continues to the north.
+~
+~
+0 -1 4300
+D2
+The path continues to the south.
+~
+~
+0 -1 -1
+S 
 #0
 
 

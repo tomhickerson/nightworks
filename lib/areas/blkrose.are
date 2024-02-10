@@ -1,0 +1,2015 @@
+#AREA
+blkrose.are~
+Blackrose Keep~
+{15 45} Fluffy Blackrose Keep~
+22500 22599
+
+
+#MOBILES
+#22500
+Rea~
+Rea~
+Rea stands here ready for battle.
+~
+Rea stands here protecting the entrance to her mistress' stronghold. 
+Well muscled, long limbed and strong willed, she would give her life to
+protecting those within.  Steel grey eyes stare ahead waiting for an
+intruder.  
+~
+unique~
+ABGT 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+AJUX 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK large unknown
+#22501
+Almea~
+Almea~
+Almea the half elf stands here.
+~
+Aleama is most unusual of the female warriors.  She is feared by all and
+one look from her black fanthomless eyes is all it takes to paralyze her
+prey.  
+~
+unique~
+AGR 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FH 0 B Z
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#22503
+Midir~
+Midir~
+Midir stands here ready for batte.
+~
+~
+unique~
+ABGT 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK large unknown
+#22504
+Tathan~
+Tathan~
+Tathan stands here guarding the castle.
+~
+Tathan is second in command to Moriath.  Very muscular and tough looking,
+she makes sure to protect her charges with her life.  
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK large unknown
+#22505
+Mikela~
+Mikela~
+Mikela stands here guarding her tower.
+~
+~
+unique~
+ABR 0 1000 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK giant unknown
+#22506
+Gabriela~
+Gabriela~
+Gabriela stands here guarding her tower.
+~
+~
+unique~
+ABGR 0 1000 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK giant unknown
+#22507
+Myta~
+Myta~
+A large cat watches carefully.
+~
+This lithe and graceful cat watches you with eyes the color of jade, and
+a look in them that portrays wisdom beyond that of a normal cat.  Her
+muscles ripple as she moves, her coat of darkest midnight fur shining and
+almost hypnotizing.  Long ears suggest this cat doesn't miss much, and being
+three feet tall, she can be deadly if provoked.  There is no doubt that this
+cat is a familiar.  
+~
+unique~
+AGT 0 -1000 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FH 0 0 0
+stand stand female 0
+AGV ACDEFHJKQUV medium unknown
+#22508
+gelding~
+A gelding~
+A gelding stands here waiting for its mistress.
+~
+~
+unique~
+AGT 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+DEO 0 EI 0
+stand stand none 0
+AGV ACDEFHJK large unknown
+#22509
+Rhyanidd~
+Rhyanidd~
+Rhyanidd stands here ready to protect.
+~
+A dark-skinned, muscular warrior bearing the marks of both darkness and
+light.  Her icy eyes, one blue as the ocean, the other of the deepest green,
+cast a cold gaze at you.  Long dark hair, wartorn and tattered flows across
+strong shoulders.  Muscular arms bulge as she lifts her weapon ready to
+attack if necessary.  
+~
+unique~
+ABST 0 1000 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK large unknown
+#22510
+Slave~
+A slave~
+A slave of the keep stands here ready to serve.
+~
+~
+unique~
+AT 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK large unknown
+#22511
+warrior~
+A warrior~
+A female warrior stands here ready to defend the keep.
+~
+~
+unique~
+AGT 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK large unknown
+#22512
+Moraith~
+Moraith~
+Moraith stands here ready to fight to the death.
+~
+~
+unique~
+AGT 0 1000 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#22513
+Raud~
+Raud~
+Raud stands here ready to take on any intruders.
+~
+Standing at well over 6'3", Ruad is one of the tallest female warriors. 
+Coppery locks are pulled back with a leather thong, and bright emerald eyes
+stare ahead.  
+~
+unique~
+ABFGNT 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK huge unknown
+#22514
+Taliesin~
+Taliesin~
+Taliesin stands here waiting for his next order.
+~
+~
+unique~
+AGT 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#22515
+Ura~
+Ura~
+Ura stands here guarding her tower.
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK huge unknown
+#22516
+Raphaela~
+Raphaela~
+Raphaela stands here guarding her tower.
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK huge unknown
+#22517
+warhorse~
+Warhorse~
+A warhorse stands here stomping his feet ready to go.
+~
+~
+unique~
+AGT 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+DEO 0 EI 0
+stand stand male 0
+AGV ABCDEFHJKQ huge unknown
+#22518
+mare~
+mare~
+A mare stands here ready to fight for her mistress.
+~
+~
+unique~
+AGT 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+DEO 0 EI 0
+stand stand female 0
+AGV ABCDEFHJKQ medium unknown
+#22519
+Stable hand~
+A stable hand~
+A stable hand stands here feeding the horses.
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#22520
+wolfhound~
+Wolfhound~
+A wolfhound looks for scraps to eat.
+~
+~
+unique~
+AGT 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+H 0 0 0
+stand stand male 0
+AGV ACDEFHJKQUV medium unknown
+#22521
+dragon~
+a dragon~
+A dragon lies here resting.
+~
+~
+unique~
+AGNRT 0 -1000 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHZ ACDEFHJKLOPQUVWXY huge unknown
+#22522
+red dragon~
+a red dragon~
+A red dragon lies here sunning herself.
+~
+~
+unique~
+AGRT 0 -1000 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHZ ACDEFHJKLOPQUVWXY huge unknown
+#22523
+crystal dragon~
+crystal dragon~
+A crystal dragon lies here sunning herself.
+~
+~
+unique~
+AFGRT 0 -1000 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHZ ACDEFHJKLOPQUVWXY huge unknown
+#22524
+a chef~
+a Chef~
+A chef stands here cooking for the warriors.
+~
+~
+unique~
+A 0 1000 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#22525
+Fildais' ghost~
+Fildais' ghost~
+The ghost of the once mighty Fildais' roams the halls of Blackrose Keep.
+~
+~
+unique~
+AFGNT 0 1000 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK large unknown
+#22526
+ghost~
+{x~
+{x
+~
+~
+unique~
+AGNT 0 -1000 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#22528
+Hallway~
+Just like the main hall, this smaller version is perfectly cut into a
+square, with stone walls and a couple of tapestries.  There are more torches
+here, so it is easier to see in this hall.  To the north is what appears to
+be a library, and to the east is a tower room.  
+~
+0 794632 0
+D0
+~
+~
+0 0 22525
+D1
+~
+~
+0 0 22527
+D3
+~
+~
+0 0 22502
+S
+#22529
+Tathan's Room~
+This is a fairly simple room, suitable for warriors.  There is a small
+bed with a couple of sheets, and a small trunk to hold personal belongings
+and small weapons.  There is a large and colorful tapestry hanging against
+the wall opposite the bed, which depicts a brave battle.  There are several
+pieces of steel upon the floor.  
+~
+0 794632 0
+D2
+~
+~
+0 0 22525
+S
+#22530
+Gabriela's Tower Room~
+Just as sparsely furnished as the room below, this room has hardly
+anything in it.  Off to one side is a bedroll, and a large trunk to hold
+clothing.  To the other side is an old and ragged practice dummy, worn down
+to almost nothing.  There is dust everywhere, as this room has been vacant
+for some time.  
+~
+0 794632 0
+D2
+~
+~
+0 0 22511
+D5
+~
+~
+0 0 22527
+S
+#22531
+Una's Tower Room~
+This room is filled with several racks of weapons, ranging from small
+throwing knives to heavy battle axes.  The person who used to live here
+obviously has a love for war.  On a small table off to the side there are
+several scrolls detailing ancient battles.  There is an old and rusted
+hearth at the end of the room.  A ladder goes up.  
+~
+0 794632 0
+D2
+~
+~
+0 0 22533
+D3
+~
+~
+0 0 22521
+D4
+~
+~
+0 0 22532
+S
+#22532
+Una's Tower Room~
+This magnificent room is one giant painting.  The walls, ceiling, and
+floors all represent the end of a big battle.  All around the walls are
+female warriors cheering, holding their weapons high.  On one wall is a tent
+where the victors are dancing and singing, and in the distance, gliding high
+overhead, watching, is a red dragon and a white gryphon.  
+~
+0 794632 0
+D1
+~
+~
+0 0 22511
+D5
+~
+~
+0 0 22531
+S
+#22533
+Hallway~
+A cold wind whistle through the small cracks in the walls.  Old
+tapestries try to cover them only to be blown out of the way.  A strange
+wailing is caused by this making the hallway chilly and damp.  
+~
+0 794632 0
+D0
+~
+~
+0 0 22531
+D2
+~
+~
+0 0 22534
+S
+#22534
+Hallway~
+Darkness hides little things that scurry around in this hallway.  Shadows
+play games on those that would dare walk down this way.  Faint noises can be
+heard coming from somewhere around here.  
+~
+0 794632 0
+D0
+~
+~
+0 0 22533
+D1
+~
+~
+0 0 22535
+D2
+~
+~
+0 0 22537
+S
+#22535
+Almea's Workroom~
+Vials of all shapes, colors, and sizes line the east wall.  The shelves
+the vials are kept on are carefully labeled, so that anyone may identify
+what is in the vials.  There is a smell of sweet spices in the air that
+fireplace on the west wall adds a little bit of mystery to the room.  A
+small caldron bubbles on the low fire.  	A small table in the middle of the
+room holds the alchemist tools belonging to the owner of these rooms.  
+~
+0 794632 0
+D0
+~
+~
+0 0 22536
+D3
+~
+~
+0 0 22534
+S
+#22536
+Almea's Bedroom~
+The fireplace on the far wall gives off a soft glowing light which makes
+the room seem cozy.  Beside the fireplace is a comfortable chair with a
+small table holding a book and candle.  	The fourposter bed sits on a raised
+dias, taking up most of the room.  
+~
+0 794632 0
+D2
+~
+~
+0 0 22535
+S
+#22537
+Hallway~
+This is a small hallway with very little torches in it.  A place that
+isn't inviting to anybody.  The tapestries here are old and moth eaten.  	A
+scent of crushed herb and oils perfumes the air.  
+~
+0 794632 0
+D0
+~
+~
+0 0 22534
+D2
+~
+~
+0 0 22527
+S
+#22538
+Loft~
+Dust motes drift in from the slightly opened loft doors, illuminating the
+area slightly.  The smell of dust and sweet clovers hangs heavy in the air. 
+Pitchforks are hung on the wall ready to be used by the grooms when it comes
+time to feed the horses.  The hay looks inviting enough for a pair of lovers
+to run and hide in it, yet this place is different.  There is no laughter of
+young girls in love, just the noise of steel screeching against steel.  
+~
+0 532488 0
+D5
+~
+~
+0 0 22539
+S
+#22539
+stable~
+{WFierce warriors guard the seven foot wooden doors that lead to the
+stable belonging to Fildais' Keep.  Each stall is ample made for the horses
+comfort.  The doors have plaques on them naming each horse.  {x 
+~
+0 532488 0
+D1
+~
+~
+0 0 22540
+D4
+~
+~
+0 0 22538
+S
+#22540
+a path~
+
+~
+0 532480 0
+D1
+~
+~
+0 0 22541
+D3
+~
+~
+0 0 22539
+S
+#22541
+A path~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22542
+D3
+~
+~
+0 0 22540
+S
+#22542
+A path~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22543
+D2
+~
+~
+0 0 22541
+S
+#22543
+A path~
+
+~
+0 532480 0
+D2
+~
+~
+0 0 22542
+D3
+~
+~
+0 0 22544
+S
+#22544
+Foggy Clearing~
+
+~
+0 532480 0
+D1
+~
+~
+0 0 22543
+D3
+~
+~
+0 0 22545
+S
+#22545
+Foggy Path~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22546
+D1
+~
+~
+0 0 22544
+S
+#22546
+A path~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22548
+D1
+~
+~
+0 0 22547
+D2
+~
+~
+0 0 22545
+S
+#22547
+A Pond~
+
+~
+0 532480 0
+D3
+~
+~
+0 0 22546
+S
+#22548
+Foggy path~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22549
+D2
+~
+~
+0 0 22546
+S
+#22549
+Foggy path~
+
+~
+0 532480 0
+D2
+~
+~
+0 0 22548
+D3
+~
+~
+0 0 22550
+S
+#22550
+Foggy path~
+
+~
+0 532480 0
+D1
+~
+~
+0 0 22549
+D3
+~
+~
+0 0 22551
+S
+#22551
+Foggy path~
+
+~
+0 532480 0
+D1
+~
+~
+0 0 22550
+D3
+~
+~
+0 0 22552
+S
+#22552
+A ruin~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22553
+D1
+~
+~
+0 0 22551
+D2
+~
+~
+0 0 22564
+S
+#22553
+A path~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22554
+D2
+~
+~
+0 0 22552
+S
+#22554
+A path~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22555
+D2
+~
+~
+0 0 22553
+S
+#22555
+A path~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22556
+D2
+~
+~
+0 0 22554
+S
+#22556
+Cavern Exit~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22557
+D2
+~
+~
+0 0 22555
+S
+#22557
+Cavern Path~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22558
+D2
+~
+~
+0 0 22556
+S
+#22558
+Cavern Path~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22560
+D2
+~
+~
+0 0 22557
+D3
+~
+~
+0 0 22559
+S
+#22559
+Drop off~
+
+~
+0 532484 0
+S
+#22560
+Cavern Path~
+
+~
+0 532480 0
+D2
+~
+~
+0 0 22558
+D3
+~
+~
+0 0 22561
+S
+#22561
+Cavern Entrance~
+
+~
+0 532480 0
+D1
+~
+~
+0 0 22560
+D3
+~
+~
+0 0 22562
+S
+#22562
+Forgotten path~
+
+~
+0 532480 0
+D1
+~
+~
+0 0 22561
+D3
+~
+~
+0 0 22563
+S
+#22563
+Forgotten Path~
+
+~
+0 532480 0
+D1
+~
+~
+0 0 22562
+S
+#22564
+Entrance to the ruins~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22552
+D2
+~
+~
+0 0 22565
+S
+#22565
+Inside the ruins~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22564
+D2
+~
+~
+0 0 22566
+S
+#22566
+Main road~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22565
+D1
+~
+~
+0 0 22572
+D2
+~
+~
+0 0 22580
+D3
+~
+~
+0 0 22567
+S
+#22567
+Dark Alley~
+
+~
+0 532480 0
+D1
+~
+~
+0 0 22566
+D3
+~
+~
+0 0 22568
+S
+#22568
+Dark Alley~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22569
+D1
+~
+~
+0 0 22567
+S
+#22569
+Dark Alley~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22570
+D2
+~
+~
+0 0 22568
+S
+#22570
+Dark Alley~
+
+~
+0 532480 0
+D2
+~
+~
+0 0 22569
+D3
+~
+~
+0 0 22571
+S
+#22571
+Dead End~
+
+~
+0 532480 0
+D1
+~
+~
+0 0 22570
+S
+#22572
+Dark Alley~
+
+~
+0 532480 0
+D1
+~
+~
+0 0 22573
+D3
+~
+~
+0 0 22566
+S
+#22573
+Dark Alley~
+
+~
+0 532480 0
+D1
+~
+~
+0 0 22574
+D3
+~
+~
+0 0 22572
+S
+#22574
+Dark Alley~
+
+~
+0 532480 0
+D1
+~
+~
+0 0 22575
+D3
+~
+~
+0 0 22573
+S
+#22575
+Dark Alley~
+
+~
+0 532480 0
+D2
+~
+~
+0 0 22576
+D3
+~
+~
+0 0 22574
+S
+#22576
+Dark Alley~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22575
+D2
+~
+~
+0 0 22577
+S
+#22577
+Dark Alley~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22576
+D2
+~
+~
+0 0 22578
+S
+#22578
+Dark Alley~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22577
+D1
+~
+~
+0 0 22579
+S
+#22579
+Dead End~
+
+~
+0 532480 0
+D3
+~
+~
+0 0 22578
+S
+#22580
+Main road~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22566
+D2
+~
+~
+0 0 22581
+S
+#22581
+Ruined Square~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22580
+D1
+~
+~
+0 0 22582
+D2
+~
+~
+0 0 22584
+D3
+~
+~
+0 0 22583
+S
+#22582
+Ruined Inn~
+
+~
+0 532480 0
+D3
+~
+~
+0 0 22581
+S
+#22583
+Ruined Pub~
+
+~
+0 532480 0
+D1
+~
+~
+0 0 22581
+S
+#22584
+Main road~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22581
+D2
+~
+~
+0 0 22585
+S
+#22585
+Main road~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22584
+D1
+~
+~
+0 0 22588
+D3
+~
+~
+0 0 22586
+S
+#22586
+Old alley~
+
+~
+0 532480 0
+D1
+~
+~
+0 0 22585
+D3
+~
+~
+0 0 22587
+S
+#22587
+Old alley~
+
+~
+0 532480 0
+D1
+~
+~
+0 0 22586
+S
+#22588
+Forgotten street~
+
+~
+0 532480 0
+D1
+~
+~
+0 0 22589
+D3
+~
+~
+0 0 22585
+S
+#22589
+Ruined Tower~
+
+~
+0 532480 0
+D3
+~
+~
+0 0 22588
+D5
+~
+~
+0 0 22590
+S
+#22590
+Stairs~
+
+~
+0 532480 0
+D4
+~
+~
+0 0 22589
+D5
+~
+~
+0 0 22591
+S
+#22591
+Bottom of Stairs~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22592
+D4
+~
+~
+0 0 22590
+S
+#22592
+Entrance To Dungeon~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22593
+D2
+~
+~
+0 0 22591
+S
+#22593
+Inside the Dungeon~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22594
+D2
+~
+~
+0 0 22592
+S
+#22594
+Dungeon Hallway~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22595
+D2
+~
+~
+0 0 22593
+S
+#22595
+Dungeon Hallway~
+
+~
+0 532480 0
+D0
+~
+~
+0 0 22598
+D1
+~
+~
+0 0 22596
+D2
+~
+~
+0 0 22594
+D3
+~
+~
+0 0 22597
+S
+#22596
+Dungeon Cell~
+
+~
+0 532480 0
+D3
+~
+~
+0 0 22595
+S
+#22597
+Dungeon Cell~
+
+~
+0 532480 0
+D1
+~
+~
+0 0 22595
+S
+#22598
+Dungeon Hallway~
+
+~
+0 532480 0
+D1
+~
+~
+0 0 22599
+D2
+~
+~
+0 0 22595
+D3
+~
+~
+0 0 22600
+S
+#22599
+Dungeon Cell~
+
+~
+0 532480 0
+D3
+~
+~
+0 0 22598
+S
+#22600
+Dungeon Cell~
+
+~
+0 532480 0
+D1
+~
+~
+0 0 22598
+S
+#22500
+Entrance Gate~
+{xCenturies-old statues of warriors stand here supporting a giant arch
+over the entrance to the {8Blackrose{x Keep.  Years of weathering the
+elements has only succeeded in making the rock look and feel like marble.  A
+giant oak {Rgate{x is closed to all travelers.  No strangers are allowed
+into the {8Blackrose{x Keep without Moriath's permission.  
+~
+0 532480 0
+E
+gate~
+Strong weathered panels form this mighty gate.  Two rings are set into
+the center of each side for opening the gate.  The figure of a dragon
+can be seen in the background fading with time.  
+~
+D0
+~
+~
+0 0 22501
+S
+#22501
+Entrance Arch~
+{x Upon entrance to the {8Blackrose{x Keep one is struck by the
+simplicity of the surroundings.  The keep itself is made of large stones
+that have been polished by the winds of time.  	A decoration of {Rmosaic{x
+tile covers the whole courtyard keeping trees and grass from growing here,
+less chance of a fire starting during war.  To the north is the entrance to
+the keep, proceed at your own risk.  Back to the south is the safe way out. 
+~
+0 794624 0
+E
+mosaic~
+The stones were laid carefully creating a picture of a huge red dragon
+holding off a line of armoured warriors.  
+~
+D0
+~
+~
+0 0 22502
+D2
+~
+~
+0 0 22500
+S
+#22502
+Main Hall~
+The inside of the keep is just as simple as the outside.  The hall
+extends in all directions, with a trap door going down.  The hall is made of
+stone, and some of the wall is covered with modest tapestries.  	The only
+light here consists of a couple of torches spaced far apart, so it may be
+hard to see well.  
+~
+0 794632 0
+D0
+~
+~
+0 0 22503
+D1
+~
+~
+0 0 22528
+D2
+~
+~
+0 0 22501
+D3
+~
+~
+0 0 22505
+D5
+~
+~
+0 0 22504
+S
+#22503
+Kitchen~
+A bright place, with stoves burning hot, cooking some very sweet-smelling
+food.  Chefs and helpers scurry about preparing the meals for the hungry
+warriors.  Several slaves gather trays of food and hurry out the door,
+heading for the barracks.  
+~
+0 794632 0
+D2
+~
+~
+0 0 22502
+S
+#22504
+Slave Pit~
+A dark dank smelling room.  The stench of filth and unwashed bodies is
+almost unbearable.  Male slaves only fit for manual labor, or those being
+punished, end up in this pit.  Vermin infested, tired and weakened, these
+slaves are kept where their spirits can be broken.  
+~
+0 794632 0
+D4
+~
+~
+0 0 22502
+S
+#22505
+Hallway~
+This hallway is the exact opposite of the hallway across the main hall. 
+Different stone cut, different size, even the tapestries appear to be
+designed differently.  There is a slight breeze running through this hall,
+and one might wonder where it is coming from.  
+~
+0 794632 0
+D0
+~
+~
+0 0 22506
+D1
+~
+~
+0 0 22502
+D3
+~
+~
+0 0 22509
+S
+#22506
+War Room~
+This room has not been used in ages, and everything is caked in dust. 
+There are old maps on the walls detailing the outside terrain, with glowing
+pins stuck in several regions of each map.  A large table is in the middle
+of the room, with a giant map, showing the Keep in the middle, and several
+red and blue glowing pins around it.  
+~
+0 794624 0
+D0
+~
+~
+0 0 22507
+D2
+~
+~
+0 0 22505
+S
+#22507
+Fildais' Sitting Room~
+No one has been here for some time, the warriors consider coming here
+disturbing the dead.  There is a large hearth against one wall, and there is
+a large couch facing it.  There is a large scroll datailing the final battle
+for Fildais' keep, up on the wall, honoring her soul.  Nothing has disturbed
+this room, not even a speck of dust, as if nothing would dare anger the soul
+of Fildais.  
+~
+0 794624 0
+D0
+~
+~
+0 0 22508
+D2
+~
+~
+0 0 22506
+S
+#22508
+Fildais' Bedroom~
+There is a magical fire still going in the large fireplace built into the
+wall.  There is a large, overstuffed bed in the corner, with a large blanket
+on it, white with a huge tiger stitched into it.  On one wall, there is a
+large rack holding many weapons, with a sword named "Stormblade" on the
+sheath in the middle.  
+~
+0 794624 0
+D2
+~
+~
+0 0 22507
+S
+#22509
+Raphaela's Tower Room~
+This room is bland, a couple of chairs against the wall, and a couch by
+the hearth.  There are no paintings, no tapestries, just stone walls and
+ceiling.  In the corner of the room is a small desk, upon which is a quill
+and scroll.  A thick layer of dust covers everything, which suggests that no
+one has touched anything in some time.  There is a ladder going up.  
+~
+0 794632 0
+D0
+~
+~
+0 0 22512
+D1
+~
+~
+0 0 22505
+D4
+~
+~
+0 0 22510
+S
+#22510
+Raphaela's Tower Room~
+This room has the customary bedroll in the corner.  There are secret
+poles fastened to the floor here that could have been perches for pet
+raptors.  This room has been long abandoned.  There are some cobwebs going
+from the ceiling to the floor, making it seem very unkempt.  
+~
+0 794624 0
+D3
+~
+~
+0 0 22511
+D5
+~
+~
+0 0 22509
+S
+#22511
+Battlements~
+Overlooking all of the forest outside, the battlements are where the
+warriors would shoot their bows at the enemy.  From this viewpoint one can
+see the pond, stable, ruins, even the carved trees, although they are very
+small.  	Nothing can get past a wary warrior up here, and rarely did
+anything go unnoticed.  
+~
+0 794624 0
+D0
+~
+~
+0 0 22530
+D1
+~
+~
+0 0 22510
+D2
+~
+~
+0 0 22516
+D3
+~
+~
+0 0 22532
+D5
+~
+~
+0 0 22522
+S
+#22512
+Training Room~
+Covering much of the walls are scrolls with pictures of human and animal
+bodies, showing the various strengths and weaknesses of each foe.  There are
+several large practice dummies strewn about the room, some of which appear
+to be very old and others which look brand new.  The large floor is covered
+with matting, which prevented injury should a warrior fall.  There are
+several colored rings, of varying sizes, painted upon the floor as guides
+for the warriors to practice close-quarter combat, long range war tactics,
+and teamwork.  
+~
+0 794632 0
+D0
+~
+~
+0 0 22513
+D2
+~
+~
+0 0 22509
+S
+#22513
+Weapons Room~
+This room is filled with racks of weapons and armor.  One side of the
+room contains racks of small blades, the other side has racks containing
+long sharp lances.  At the back of the room sit racks of blunt weapons, and
+at the front of the room are the racks of normal issue weapons.  There are
+scrolls against the wall which detail ancient and lost weapons.  Off to the
+side are several pieces of clothing which were tailored to hold small
+daggers.  
+~
+0 794632 0
+D0
+~
+~
+0 0 22514
+D2
+~
+~
+0 0 22512
+S
+#22514
+Rhiannon's Room~
+This room is just like the barracks, but to a much smaller degree.  A
+standard issue bedroll lays in one corner, and in the opposite corner stands
+a practice dummy.  A large box holding her weapon of choice is located next
+to the practice dummy.  	There is a small trunk to hold personal belongings
+and armor at the foot of the bedroll.  Exits are north to a tower room, and
+south to the weapons room.  
+~
+0 794632 0
+D0
+~
+~
+0 0 22515
+D2
+~
+~
+0 0 22513
+S
+#22515
+Mikela's Tower Room ~
+This room is made for a king.  Plush rugs lay upon the floor, the walls
+are nicely painted, and an overstuffed couch piled with pillows is located
+by the hearth.  	This room just screams comfort, and one could easily sit
+and relax in here forever.  	There is a ladder that goes up to the second
+level, but this particular ladder has been painted the exact same color as
+the walls, making it difficult to see.  
+~
+0 794632 0
+D1
+~
+~
+0 0 22517
+D2
+~
+~
+0 0 22514
+D4
+~
+~
+0 0 22516
+S
+#22516
+Mikela's Tower Room ~
+Like the room below, this room was designed to be comfortable.  	There
+are several couches upon which to relax, and the bedroll in the corner is
+not the modest little mat so common around here, but instead has been
+altered and stuffed to make it soft and comfortable.  
+~
+0 794624 0
+D0
+~
+~
+0 0 22511
+D5
+~
+~
+0 0 22515
+S
+#22517
+Hallway~
+This is a relatively small hallway.  There is a crack running up the
+wall, but most of the crack is covered with a tapestry of a female red
+dragon knight, with a male white gryphon standing obediently behind her. 
+Even with the tapestry covering the crack, a cool breeze is wafting through,
+battling with the warm air from the bathing room.  
+~
+0 794632 0
+D1
+~
+~
+0 0 22518
+D3
+~
+~
+0 0 22515
+S
+#22518
+Hallway~
+This hallway is smaller than the others.  Steam is wafting in here from
+the bathing room, and the floor is rather slippery.  It is stuffy in here,
+with all the steam and moisture, so this may not be the greatest hall to
+stay and rest in for long periods of time.  To the east is the bathing room,
+and to the west the hallway continues.  
+~
+0 794632 0
+D1
+~
+~
+0 0 22521
+D2
+~
+~
+0 0 22519
+D3
+~
+~
+0 0 22517
+S
+#22519
+Guest Sitting Room~
+Winged back chairs and couches adorn this room.  A large fireplace takes
+up almost all of the west wall.  A fur rug made out of white bear lies in
+front of the fireplace.  Small tables placed around the room hold books of
+various subjects.  A bell rope, used for summoning slaves, hangs next to the
+door.  
+~
+0 794624 0
+D0
+~
+~
+0 0 22518
+D1
+~
+~
+0 0 22520
+S
+#22520
+Guest Bedroom ~
+A large bed dominates the entire room.  	Dark bedcurtains are used to
+keep the cold and light out.  On the east wall is a large window, with a
+window seat under it, looking over the courtyard.  Behind the bed is a large
+picture of Fildai standing ready with her weapons in hand.  
+~
+0 794624 0
+D3
+~
+~
+0 0 22519
+S
+#22521
+Bathing Room~
+The steam is so thick here, it is hard to breath.  The entire room is one
+great pool.  Extending from the ceiling are four spouts with hot water
+pouring into the bath, keeping it ever warm.  If the warriors want a nice
+hot bath, they come here.  If they want a cool, refreshing swim, they go to
+the secluded pool outside.  There is a small marble walkway going around the
+bath.  
+~
+0 794632 0
+D1
+~
+~
+0 0 22531
+D3
+~
+~
+0 0 22518
+S
+#22522
+Moriath's Room~
+{wFine silks and plush pillows mark this room as a center of luxury.  The
+finest of tapestries cover most of the walls, while thick carpets soften the
+hard floor.  Against the southern wall sits a plush chair facing a small
+fireplace.  The fire creates shadowy figures which dance along the walls in
+a ballet of light.  On a small table rests a decanter of fine wine and two
+delicate crystal glasses.  A cool breeze wafts through the room from the
+open battlements above and the warm glow of a candle lights the stairs
+leading down into the heart of the fortress.  
+~
+0 794632 0
+D0
+~
+~
+0 0 22523
+D2
+~
+~
+0 0 22524
+D4
+~
+~
+0 0 22511
+S
+#22523
+Moraith's Bathing Room ~
+This is a relatively small room compared to the warrior's bathing room. 
+Half the room makes up a large, elegant marble block with a half oval cut
+out of it, where the hot water is.  A small spout extends from the wall with
+hot water pouring into the tub.  The other half is a plush carpet floor with
+a small chair to sit in and a mirror against the wall.  
+~
+0 794632 0
+D2
+~
+~
+0 0 22522
+S
+#22524
+Moriath's Study~
+This rooms has numerous bookshelves on the walls, filled with books about
+anything from battle tactics to foot care.  The books range from brand new,
+to old and ragged.  One could spend hours in here just browsing, and many
+more hours should an interesting book be found.  In the middle of the room
+sits a table, upon which is a candle.  
+~
+0 794632 0
+D0
+~
+~
+0 0 22522
+D1
+~
+~
+0 0 22525
+D2
+~
+~
+0 0 22526
+S
+#22525
+Hallway~
+This hallway is well lighted, and comfortably warm.  Hanging on the wall
+is a large painting of a single female warrior standing on top of a pile of
+ogre bodies, blood all over her body.  She holds her battle axe as if it was
+an extention of her arms, and the look on her face with the amount of
+corpses around her shows she is not afraid to use it.  To the north is a
+room.  
+~
+0 794632 0
+D0
+~
+~
+0 0 22529
+D2
+~
+~
+0 0 22528
+D3
+~
+~
+0 0 22524
+S
+#22526
+Hallway~
+Just like the main hall, this smaller version is perfectly cut into a
+square, with stone walls and a couple of tapestries.  There are more torches
+here, so it is easier to see in this hall.  To the north is what appears to
+be a library, and to the east is a tower room.  
+~
+0 794632 0
+D0
+~
+~
+0 0 22524
+D1
+~
+~
+0 0 22527
+S
+#22527
+Garbriela's Tower Room~
+This room has but a few sparse furnishings, and the person who lives here
+obviously does not care about luxuries.  A hearth is burning against the
+wall, which provides heat and light.  Against another wall is a ladder going
+up to the next floor, to what seems to be the bedroom.  	The ladder looks
+dangerous, one might take caution while climbing it.  
+~
+0 794632 0
+D0
+~
+~
+0 0 22537
+D3
+~
+~
+0 0 22528
+D4
+~
+~
+0 0 22530
+S
+#0
+
+
+
+#SPECIALS
+M 22501 spec_cast_adept
+M 22505 spec_cast_adept
+M 22506 spec_cast_adept
+M 22520 spec_fido
+M 22521 spec_cast_mage
+M 22522 spec_cast_adept
+M 22523 spec_cast_mage
+S
+
+
+
+#RESETS
+M 0 22526 1 22538 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

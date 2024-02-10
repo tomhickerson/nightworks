@@ -70,7 +70,7 @@ D0
 The path runs through the valley grasslands.
 ~
 ~
-0 -1 -1
+0 -1 3806
 D1
 A side trail runs along the side of the hill.
 ~
@@ -135,6 +135,25 @@ Heading up and along the hillside.
 ~
 ~
 0 -1 3804
+S 
+#3806
+Through the grasslands~
+You are on a trail that runs through the base of a valley, with large impressive 
+mountains rising on the east and west of you.  The valley extends far to the north,
+through imposing jagged peaks which appear in the distance.  To the south you 
+see the trail head towards a gentle rise.
+~
+0 0 2
+D0 
+The trail heads north to the valley.
+~
+~
+0 -1 -1
+D2 
+The trail heads towards the gentle rise to the south.
+~
+~
+0 -1 3802
 S 
 #0
 
