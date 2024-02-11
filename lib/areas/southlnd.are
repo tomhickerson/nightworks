@@ -139,8 +139,32 @@ D2
 The path continues to the south.
 ~
 ~
-0 -1 -1
+0 -1 4306
 S 
+#4306
+Paths in the woods~
+You are in the forest on a dirt path, made of packed earth.  Trees rise on
+either side of you, with branches and brambles that reach out and snatch 
+at your clothes. The main path runs north and south, and a smaller 
+trail heads east.
+~
+0 0 3
+D0 
+The path heads to the north.
+~
+~
+0 -1 4305
+D1 
+The smaller trail leads to the east.
+~
+~
+0 -1 -1
+D2 
+The path heads to the south.
+~
+~
+0 -1 -1
+S  
 #0
 
 
