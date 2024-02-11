@@ -586,8 +586,11 @@ D4
 0 0 22538
 S
 #22540
-a path~
-
+A small path~
+You are on a small path make of packed earth that winds through
+the trees of the forest.  To the west, the forest ends and you see
+the stables, built next to the large keep.  To the east, the 
+path continues deeper into the forest.
 ~
 0 532480 0
 D1
@@ -600,8 +603,10 @@ D3
 0 0 22539
 S
 #22541
-A path~
-
+A small path~
+You are on a bend of a forested path, running through the woods.  You can see a keep
+hewn of black stone in the distance to the west.  To the north, the path continues into
+the forest.
 ~
 0 532480 0
 D0
