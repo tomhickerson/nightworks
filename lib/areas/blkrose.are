@@ -588,11 +588,11 @@ S
 #22540
 A small path~
 You are on a small path make of packed earth that winds through
-the trees of the forest.  To the west, the forest ends and you see
+the trees of the light forest.  To the west, the forest ends and you see
 the stables, built next to the large keep.  To the east, the 
 path continues deeper into the forest.
 ~
-0 532480 0
+0 532480 3
 D1
 ~
 ~
@@ -608,7 +608,7 @@ You are on a bend of a forested path, running through the woods.  You can see a 
 hewn of black stone in the distance to the west.  To the north, the path continues into
 the forest.
 ~
-0 532480 0
+0 532480 3
 D0
 ~
 ~
@@ -913,14 +913,22 @@ D3
 0 0 22563
 S
 #22563
-Forgotten Path~
-
+A Forgotten Path~
+You are on a very faint trail, leading through the dark and quiet woods.
+The trail leads over and around some very large trunks, which have
+been felled over the years and are nov covered with green spongy moss.
 ~
-0 532480 0
+0 532480 3
 D1
+The trail leads east through the woods.
 ~
 ~
 0 0 22562
+D3
+The trail leads west to meet up with a larger, well-trod path.
+~
+~
+0 -1 4306
 S
 #22564
 Entrance to the ruins~
