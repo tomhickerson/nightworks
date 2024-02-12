@@ -7,8 +7,8 @@ Moors of Doom~
 #MOBILES
 #50000
 skeleton undead warrior~
-~
-~
+A skeleton warrior.~
+A ghastly undead skeleton warrior is here, ready to attack.~
 ~
 undead~
 AOe 0 -1000 0
@@ -20,7 +20,7 @@ stand stand either 300
 #50010
 werewolf wolf manwolf shapeshifter~
 A large wolf-like man.~
-A werewolf stands before you his fangs gleaming in the moonlight
+A werewolf stands before you, his fangs gleaming in the moonlight.
 ~
 ~
 human~
@@ -70,6 +70,11 @@ along the top which seem to seperate the road from a large graveyard.
 ~
 ~
 0 0 50001
+D2
+The path heads towards the plains to the crossroads to the south.
+~
+~
+0 -1 5365
 S
 #50001
 The Dark Path Begins~
@@ -85,6 +90,7 @@ forest.
 ~
 0 0 0
 D0
+Entering the Graveyard!
 ~
 ~
 0 0 50002

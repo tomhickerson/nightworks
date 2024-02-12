@@ -1093,13 +1093,13 @@ map old~
       |         	Temple altar                                    
   W - + - E       	  |			
       |         	Temple of Midgaard           GraveYard
-      S			  |			         |
+      S			 		  |			                     |
                  Wizard	  |    Bakery  Weaponsmith       |            
     Necromencar G. |    Market    |         |          Cross    
          |------------- Square ----------------------- Roads -- Forest
-	 |         |              |         |	         |
-      Vampire  Jeweller        Genral   Armourer       Village
-     Guildroom  	       Store		       guarded
+	     |         |              |         |	         |
+      Vampire  Jeweller        General   Armourer       Village
+     Guildroom  	           Store		       guarded
 						         by
 						    Imperial Guards
 						  
@@ -2348,13 +2348,18 @@ of path to lead to anywhere significant or important but it seems to have
 made up its mind to enter the hills far away west.
 ~
 0 0 1
+D0
+The path to the graveyard...
+~
+~
+0 -1 50000
 D2
 ~
 ~
 0 0 5363
 D3
+The path to the Keep.
 ~
-The Path to the Keep
 ~
 0 0 15700
 S
@@ -2385,18 +2390,18 @@ shoulders. From here, pleasant-looking paths lead east, west and south.
 ~
 0 0 3
 D1
-The path wind its way through the tall trees, towards a clearing faintly seen.
+The path winds its way through the tall trees, towards a clearing.
 ~
 ~
 0 -1 5368
 D2
-The path wind its way through the tall trees, towards an open area barely
+The path winds its way through the tall trees, towards an open area barely
 visible in the distance.
 ~
 ~
 0 -1 5370
 D3
-The path wind its way through the tall trees, disappearing out of sight.
+The path winds its way through the tall trees, disappearing out of sight.
 ~
 ~
 0 -1 5366
@@ -2410,7 +2415,7 @@ severely strained in the fabric of reality here.
 0 C 3
 D0
 A small, narrow path winds north, and is quickly lost in the bushes. It
-looks quite a wilderness there!
+looks like quite a wilderness there!
 ~
 ~
 0 -1 5375
@@ -2436,17 +2441,17 @@ site.
 ~
 0 C 3
 D0
-The path wind its way through the tall trees, disappearing out of sight.
+The path winds its way through the tall trees, disappearing out of sight.
 ~
 ~
 0 -1 5366
 D1
-The path wind its way through the tall trees, towards a clearing faintly seen.
+The path winds its way through the tall trees, towards a clearing faintly seen.
 ~
 ~
 0 -1 5370
 D2
-The path wind its way through the tall trees, into the grove.
+The path winds its way through the tall trees, into the grove.
 ~
 ~
 0 -1 5372
@@ -2469,12 +2474,12 @@ slopes down to a sparkling lake.
 ~
 0 0 3
 D0
-The path wind its way north, disappearing through the tall trees.
+The path winds its way north, disappearing through the tall trees.
 ~
 ~
 0 -1 5367
 D1
-The path wind its way through the tall trees, disappearing out of sight.
+The path winds its way through the tall trees, disappearing out of sight.
 ~
 ~
 0 -1 5371
@@ -2485,7 +2490,7 @@ glittering lake.
 ~
 0 -1 5373
 D3
-The path wind its way west between stately poplars and oaks.
+The path winds its way west between stately poplars and oaks.
 ~
 ~
 0 -1 5369
@@ -2499,7 +2504,7 @@ area through the trees, while paths lead away north and west.
 ~
 0 0 3
 D0
-The path wind its way through the tall trees, disappearing out of sight.
+The path winds its way through the tall trees, disappearing out of sight.
 ~
 ~
 0 -1 5368
@@ -2511,7 +2516,7 @@ for a structure.
 ~
 0 -1 5374
 D3
-The path wind its way through the tall trees, disappearing out of sight.
+The path winds its way through the tall trees, disappearing out of sight.
 ~
 ~
 0 -1 5370
@@ -2592,7 +2597,7 @@ You are standing on a immaculately manicured green lawn, the kind you only
 get after 200 years of meticulous work. There is a winding stone path leading
 from the wood's edge to the north, to the softly shimmering, rainbow-colored
 dome covering construction to the south. This place enjoys a perpetual cool,
-sunny summers after-noon.
+sunny summer after-noon.
 ~
 0 C 2
 D0
@@ -2614,7 +2619,7 @@ The Red-curtained Room~
 You are standing in the middle of something you cannot explain.  You see 
 red curtains on all the walls around you, yet you cannot make out where 
 these curtains end or begin.  The floors are paved in black and white 
-stones which leave jagged lines around your feet. You see the ceiling is
+stones which weave jagged lines around your feet. You see the ceiling is
 covered in stars and looks like a clear night sky.  You feel that you 
 are not standing on any sort of physical 'ground' as if in a dream, yet 
 you are not floating either.  Occasionally, the starry 'sky' fades into 
@@ -2653,7 +2658,7 @@ The Red-curtained Room~
 You are standing in the middle of something you cannot explain.  You see 
 red curtains on all the walls around you, yet you cannot make out where 
 these curtains end or begin.  The floors are paved in black and white 
-stones which leave jagged lines around your feet. You see the ceiling is
+stones which weave jagged lines around your feet. You see the ceiling is
 covered in stars and looks like a clear night sky.  You feel that you 
 are not standing on any sort of physical 'ground' as if in a dream, yet 
 you are not floating either.  Occasionally, the starry 'sky' fades into 
