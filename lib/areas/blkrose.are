@@ -576,6 +576,11 @@ stable belonging to Fildais' Keep.  Each stall is ample made for the horses
 comfort.  The doors have plaques on them naming each horse.  {x 
 ~
 0 532488 0
+D0 
+The main road leading around the side of the keep.
+~
+~
+0 -1 4311 
 D1
 ~
 ~
@@ -588,11 +593,11 @@ S
 #22540
 A small path~
 You are on a small path make of packed earth that winds through
-the trees of the light forest.  To the west, the forest ends and you see
+the grassy fields and enters the forest.  To the west, you see
 the stables, built next to the large keep.  To the east, the 
-path continues deeper into the forest.
+path goes into the woods.
 ~
-0 532480 3
+0 532480 2
 D1
 ~
 ~

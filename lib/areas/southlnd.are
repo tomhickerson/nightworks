@@ -163,7 +163,104 @@ D2
 The path heads to the south.
 ~
 ~
+0 -1 4307
+S  
+#4307
+A path in the forest~
+You are in the forest on a hard dirt path.  To the north the forest
+seems closer and darker, while it looks to be lighter to the south.
+In the distance to the south, you can make out a stone keep.
+~
+0 0 3
+D0 
+The path goes to the north, to the dark woods.
+~
+~
+0 -1 4306
+D2
+The path goes to the south, to the ligher woods.
+~
+~
+0 -1 4308
+S 
+#4308
+A track through the woods~
+You are on a woddy track through the woods, which is lined with small 
+stones and made of flat, packed earth.  The track leaves the forest to 
+the south, leading up to a keep made of black stone.  To the north, the 
+track heads into a dark, quiet part of the forest.
+~
+0 0 3
+D0
+The track heads north, turning into a well-traveled path.
+~
+~
+0 -1 4307
+D2
+The track heads south, turning into a road.
+~
+~
+0 -1 4309
+S  
+#4309
+A fork in the road~
+You are on a road at the very edge of the forest, which leads to 
+the Miden'nir to the north, and Midgaard beyond that.  To the south, 
+the road leads around a well-defended keep hewn of black rock, while 
+another road forks off and runs east along the forest's edge.
+~
+0 0 2
+D0 
+The road heads into the woods.
+~
+~
+0 -1 4308
+D1 
+The road skirts the woods.
+~
+~
 0 -1 -1
+D2 
+The road heads through a grassy field, encircling a black keep.
+~
+~
+0 -1 -1
+S  
+#4310
+The road along the woods~
+You are on a dirt road running east-west along the edge of the woods.
+The north is lines with a small fence of flat, stacked stones,
+while to the south, there is a well-built keep, and grassy fields 
+extend to the horizon.
+~
+0 0 2
+D1 
+The road turns around the corner of the keep.
+~
+~
+0 -1 -1
+D3 
+There is a fork in the road to the west.
+~
+~
+0 -1 4309
+S 
+#4311
+The stable road~
+The road here turns away from the wood's edge and leads up to the wooden 
+stables, standing next to the stone keep.
+~
+0 0 2
+D2
+The road leads up to the stable entrance.
+~
+~
+0 -1 22539
+D3 
+The road leads around the keep, next to the woods.
+~
+~
+0 -1 4310
 S  
 #0
 
