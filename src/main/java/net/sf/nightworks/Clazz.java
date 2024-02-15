@@ -45,8 +45,8 @@ public class Clazz {
     final int id;
     final ArrayList<Pose> poses = new ArrayList<>();
 
-    String femaleTitles[] = new String[MAX_LEVEL + 1];
-    String maleTitles[] = new String[MAX_LEVEL + 1];
+    String[] femaleTitles = new String[MAX_LEVEL + 1];
+    String[] maleTitles = new String[MAX_LEVEL + 1];
 
     Clazz(String className) {
         assert (!clazzByName.containsKey(className));
