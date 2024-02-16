@@ -615,47 +615,59 @@ the forest.
 ~
 0 532480 3
 D0
+Heading north into the forest.
 ~
 ~
 0 0 22542
 D3
+Exiting the woods, approaching a black keep.
 ~
 ~
 0 0 22540
 S
 #22542
-A path~
-
+A small path~
+You are on a small path leading north-south through a thick forest. The path
+appears to have not been used in years, but was obviously at one time used to
+travel to Midgaard.
 ~
-0 532480 0
+0 532480 3
 D0
+The path leads to the north.
 ~
 ~
 0 0 22543
 D2
+The path leads to the south.
 ~
 ~
 0 0 22541
 S
 #22543
-A path~
-
+A rise in the path~
+You are on a winding path through the forest.  A small rise here affords you
+a view of the black keep to the southwest and a misty ponds, next to the ruins 
+of a village to the northwest.
 ~
-0 532480 0
+0 532480 3
 D2
+The path leads to the south.
 ~
 ~
 0 0 22542
 D3
+Heading west down the trail, you enter into some foggy woods.
 ~
 ~
 0 0 22544
 S
 #22544
 Foggy Clearing~
-
+You are in a small clearing in the woods, at the edge of an 
+area cloaked in a foggy shroud.  You can head east to the 
+rise of a hill or go deeper into the fog. 
 ~
-0 532480 0
+0 532480 3
 D1
 ~
 ~
@@ -667,9 +679,11 @@ D3
 S
 #22545
 Foggy Path~
-
+You are in a twisty set of paths through the woods, covered in 
+a mysterious fog which chills your bones.  You can only see about
+ten feet in any direction.
 ~
-0 532480 0
+0 532480 3
 D0
 ~
 ~
@@ -680,10 +694,12 @@ D1
 0 0 22544
 S
 #22546
-A path~
-
+A Bend in the Path~
+You are on a path in the fog-shrouded woods, which obscures your
+vision and makes you shiver with cold.  You can go north, east 
+and south from here.
 ~
-0 532480 0
+0 532480 3
 D0
 ~
 ~
@@ -699,9 +715,12 @@ D2
 S
 #22547
 A Pond~
-
+You find yourself on the shore of a small pond, surrounded by 
+the woods and the fog.  Green scum floats on the top of the 
+water, giving this place a distinctive... smell.  Under the 
+surface of the pond you think you can see something moving.
 ~
-0 532480 0
+0 532480 3
 D3
 ~
 ~
