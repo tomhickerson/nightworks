@@ -728,7 +728,9 @@ D3
 S
 #22548
 Foggy path~
-
+You are on a dirt path, surrounded by woods and fog.  The fog is
+an impenetrable wall of white that hinders your vision and makes 
+your blood run cold.  This path runs north and south. 
 ~
 0 532480 0
 D0
@@ -742,7 +744,8 @@ D2
 S
 #22549
 Foggy path~
-
+You are on a misty path, unable to see very far into the woods,
+as you are surrounded by pearly white plumes of fog and mist.
 ~
 0 532480 0
 D2
@@ -1487,6 +1490,10 @@ D0
 ~
 ~
 0 0 22501
+D2
+~
+~
+0 0 4313
 S
 #22501
 Entrance Arch~

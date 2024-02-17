@@ -219,12 +219,12 @@ D1
 The road skirts the woods.
 ~
 ~
-0 -1 -1
+0 -1 4310
 D2 
 The road heads through a grassy field, encircling a black keep.
 ~
 ~
-0 -1 -1
+0 -1 4312
 S  
 #4310
 The road along the woods~
@@ -238,7 +238,7 @@ D1
 The road turns around the corner of the keep.
 ~
 ~
-0 -1 -1
+0 -1 4311
 D3 
 There is a fork in the road to the west.
 ~
@@ -262,6 +262,49 @@ The road leads around the keep, next to the woods.
 ~
 0 -1 4310
 S  
+#4312
+The road circling the keep~
+You are on a road made of dirt, speckled with white stones here
+and there.  The grass along both sides of the road has been 
+trimmed back to give it a sense of order.  You are near the 
+southwest corner of the black keep, and can feel the eyes of 
+the watchmen on you.
+Here you can go north directly into the woods, or east to the 
+front gate of the keep.
+~
+0 0 2
+D0 
+~
+~
+0 -1 4309
+D1 
+~
+~
+0 -1 4313
+S 
+#4313
+The road along the keep~
+You are on a road made of dirt and rocks, though it has been 
+swept smooth by some invisible caretaker.  To the north, you
+see the gates of the keep hewn of black stone, rising out of 
+the green gressy fields.  Behind it, further north, are the 
+dark woods of the Goblins.  The road leads around the keep 
+to the west, and extends through the fields to the south.
+~
+0 0 2
+D0 
+~
+~
+0 -1 22500
+D2 
+~
+~
+0 -1 -1
+D3 
+~
+~
+0 -1 4312
+S 
 #0
 
 
