@@ -1509,55 +1509,49 @@ class ActInfo {
             return;
         }
         String arg = argb.toString();
-        do_look(ch, arg);
+        OBJ_DATA obj2 = get_obj_here(ch, arg);
+        if (obj2 != null && IS_SET(obj2.progtypes, OPROG_EXAM)) {
+            obj2.pIndexData.oprogs.exam_prog.run(obj2, ch);
+        } else {
+            do_look(ch, arg);
+            // now to remove this if we have an exam prog?  maybe we don't?
 
-        if ((obj = get_obj_here(ch, arg)) != null) {
-            TextBuffer buf = new TextBuffer();
-            switch (obj.item_type) {
-                default:
-                    if (IS_SET(obj.progtypes, OPROG_EXAM)) {
-                        obj.pIndexData.oprogs.exam_prog.run(obj, ch);
-                    }
-                    break;
-
-                case ITEM_MONEY:
-                    if (obj.value[0] == 0) {
-                        if (obj.value[1] == 0) {
-                            buf.append("Odd...there's no coins in the pile.\n");
-                        } else if (obj.value[1] == 1) {
-                            buf.append("Wow. One gold coin.\n");
+            if ((obj = get_obj_here(ch, arg)) != null) {
+                TextBuffer buf = new TextBuffer();
+                switch (obj.item_type) {
+                    default:
+                        break;
+                    case ITEM_MONEY:
+                        if (obj.value[0] == 0) {
+                            if (obj.value[1] == 0) {
+                                buf.append("Odd...there's no coins in the pile.\n");
+                            } else if (obj.value[1] == 1) {
+                                buf.append("Wow. One gold coin.\n");
+                            } else {
+                                buf.sprintf("There are %d gold coins in the pile.\n", obj.value[1]);
+                            }
+                        } else if (obj.value[1] == 0) {
+                            if (obj.value[0] == 1) {
+                                buf.append("Wow. One silver coin.\n");
+                            } else {
+                                buf.sprintf("There are %d silver coins in the pile.\n", obj.value[0]);
+                            }
                         } else {
-                            buf.sprintf("There are %d gold coins in the pile.\n", obj.value[1]);
-                        }
-                    } else if (obj.value[1] == 0) {
-                        if (obj.value[0] == 1) {
-                            buf.append("Wow. One silver coin.\n");
-                        } else {
-                            buf.sprintf("There are %d silver coins in the pile.\n", obj.value[0]);
-                        }
-                    } else {
-                        buf.sprintf("There are %d gold and %d silver coins in the pile.\n",
+                            buf.sprintf("There are %d gold and %d silver coins in the pile.\n",
                                 obj.value[1], obj.value[0]);
-                    }
-                    send_to_char(buf, ch);
-                    // no exam allowed for money?  it could happen
-                    if (IS_SET(obj.progtypes, OPROG_EXAM)) {
-                        obj.pIndexData.oprogs.exam_prog.run(obj, ch);
-                    }
-                    break;
+                        }
+                        send_to_char(buf, ch);
+                        break;
 
-                case ITEM_DRINK_CON:
-                case ITEM_CONTAINER:
-                case ITEM_CORPSE_NPC:
-                case ITEM_CORPSE_PC:
-                    buf.sprintf("in %s", argument);
-                    do_look(ch, buf.toString());
-                    if (IS_SET(obj.progtypes, OPROG_EXAM)) {
-                        obj.pIndexData.oprogs.exam_prog.run(obj, ch);
-                    }
+                    case ITEM_DRINK_CON:
+                    case ITEM_CONTAINER:
+                    case ITEM_CORPSE_NPC:
+                    case ITEM_CORPSE_PC:
+                        buf.sprintf("in %s", argument);
+                        do_look(ch, buf.toString());
+                }
             }
         }
-
     }
 
 /*
