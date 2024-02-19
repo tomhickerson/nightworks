@@ -372,6 +372,14 @@ AHMV ABCDEFGHIJK medium unknown
 
 
 #OBJECTS
+#22500
+key~
+a black polished key~
+You see a black polished key on the ground here.~
+brass~
+key P A
+0 0 0 0 0
+0 10 0 P
 #0
 
 
@@ -732,7 +740,7 @@ You are on a dirt path, surrounded by woods and fog.  The fog is
 an impenetrable wall of white that hinders your vision and makes 
 your blood run cold.  This path runs north and south. 
 ~
-0 532480 0
+0 532480 3
 D0
 ~
 ~
@@ -747,7 +755,7 @@ Foggy path~
 You are on a misty path, unable to see very far into the woods,
 as you are surrounded by pearly white plumes of fog and mist.
 ~
-0 532480 0
+0 532480 3
 D2
 ~
 ~
@@ -759,23 +767,29 @@ D3
 S
 #22550
 Foggy path~
-
+You are on a dirt path, surrounded by the thick white fog 
+which seems to flow and ebb around you.  You can only follow
+the path on the ground to lead your way.
 ~
-0 532480 0
+0 532480 3
 D1
+The path leads to the east.
 ~
 ~
 0 0 22549
 D3
+The path leads to the west.
 ~
 ~
 0 0 22551
 S
 #22551
 Foggy path~
-
+You are on a dirt path in the forest, with a thick fog 
+ebbing around you.  Large pillars of a ruin can be seen 
+to the west.  The fog looks thicker to the east.
 ~
-0 532480 0
+0 532480 3
 D1
 ~
 ~
@@ -787,9 +801,12 @@ D3
 S
 #22552
 A ruin~
-
+You are picking your way through the forest along the 
+edge of a ruined village.  The black stone walls lie here
+overgrown and collapsed.  To the east, you see a thick 
+foggy path.
 ~
-0 532480 0
+0 532480 3
 D0
 ~
 ~
@@ -805,9 +822,11 @@ D2
 S
 #22553
 A path~
-
+You are making your way on a faint path through the woods.  You see
+some kind of ruin to the south, overgrown with ivy and moss.  The 
+forest is thick on all sides.
 ~
-0 532480 0
+0 532480 3
 D0
 ~
 ~
@@ -819,9 +838,10 @@ D2
 S
 #22554
 A path~
-
+You are on a small forested path, running north and south.  To the 
+north it looks like the path leads into a rocky outcrop.
 ~
-0 532480 0
+0 532480 3
 D0
 ~
 ~
@@ -832,10 +852,11 @@ D2
 0 0 22553
 S
 #22555
-A path~
-
+A path in front of a cave~
+You are on a dirt path, leading into the mouth of a cave.  The cave looks 
+to be natural, but you see some marks on the front of the rocky outcrop.
 ~
-0 532480 0
+0 532480 3
 D0
 ~
 ~
@@ -844,10 +865,15 @@ D2
 ~
 ~
 0 0 22554
+E
+mark marks markings~
+On careful inspection, you can see the cavern tunnel here has been widened artificially.  
+~
 S
 #22556
 Cavern Exit~
-
+You are in a cavern tunnel with an even dirt floor.  To the north is darkness, while
+to the south is an exit and some fresh air.
 ~
 0 532480 0
 D0
