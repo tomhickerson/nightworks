@@ -887,7 +887,8 @@ D2
 S
 #22557
 Cavern Path~
-
+You are in a small cave, with a smooth dirt floor and passages leading north 
+and south.
 ~
 0 532480 0
 D0
@@ -901,7 +902,8 @@ D2
 S
 #22558
 Cavern Path~
-
+You are in a larger cave, traversing through the side of a mountain.  There
+are dark passages leading north, south, and west.
 ~
 0 532480 0
 D0
@@ -918,14 +920,27 @@ D3
 0 0 22559
 S
 #22559
-Drop off~
-
+Gates to deeper within the mountain...~
+You are in a cave passage, which is dominated by a pair of large 
+black steel doors, which lead south into the heart of the 
+mountain.  The floor here is smooth stone, evidently worn flat by 
+the passage of many over time.
 ~
 0 532484 0
+D1
+~
+~
+0 0 22558
+D2 
+~
+~
+1 22500 -1
 S
 #22560
 Cavern Path~
-
+You are in a small, damp tunnel that is curving through the rock.
+You can hear the sound of dripping or splashing to the west of you,
+and various molds and lichens can be seen on the cavern walls.
 ~
 0 532480 0
 D2
@@ -939,7 +954,10 @@ D3
 S
 #22561
 Cavern Entrance~
-
+You are standing before a cavern entrance into the side of a small 
+mountain.  The moss and lichens cover the area, and are so thick 
+that moisture drips from the walls onto the dirt and pebbles on the 
+ground.
 ~
 0 532480 0
 D1
@@ -953,7 +971,8 @@ D3
 S
 #22562
 Forgotten path~
-
+You are on a faint, moss-covered trail which leads east and west from here.
+To the east, the trail leads up to the side of a rocky escarpment.  
 ~
 0 532480 0
 D1
