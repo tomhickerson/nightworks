@@ -1,0 +1,87 @@
+#AREA	
+darkelf.are~
+Grotto of Darkness~
+{25 55} Starhunter Grotto of Darkness~
+22600 22699
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#22601
+The steep tunnel~
+You enter a series of caves and tunnels leading south into the underdark.
+The underdark is very quiet, and from the shine of your light source, you
+notice a slight glow to the cavern walls and roof. Almost as if the rock
+itself where magical in nature. In the distance you hear the flow of water. You
+notice that as you travel further south there is a gentle slope downward. You
+can exit the underdark through a door to your north.
+~
+0 0 0
+D0
+The tunnel slopes upwards into a cave entrance.
+~
+door~
+2 22500 22559
+D2
+The tunnel slopes deeper into the earth.
+~
+~
+0 -1 22602
+S
+#22602
+Entry to the Underdark...~
+The caves and tunnels continue in all directions here. There is a disquieting
+feeling here, as if something is about to happen. To the west you hear the
+distinct sound of water flowing, from the east you hear the sound of a fire
+crackling. To the north and south there is no sound at all.
+~
+0 0 0
+D0
+The tunnel slopes deeper into the earth.
+~
+~
+0 -1 -1
+D1
+The tunnel slopes deeper into the earth.
+~
+~
+0 -1 -1
+D2
+The tunnel slopes deeper into the earth.
+~
+~
+0 -1 -1
+D3
+The tunnel slopes deeper into the earth.
+~
+~
+0 -1 -1
+S
+#0
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#SPECIALS
+S
+
+
+
+#$

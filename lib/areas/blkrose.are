@@ -932,9 +932,10 @@ D1
 ~
 0 0 22558
 D2 
+The tunnel slopes down into darkness.
 ~
-~
-1 22500 -1
+door~
+2 22500 22601
 S
 #22560
 Cavern Path~
