@@ -148,12 +148,30 @@ D0
 The trail heads north to the valley.
 ~
 ~
-0 -1 -1
+0 -1 3807
 D2 
 The trail heads towards the gentle rise to the south.
 ~
 ~
 0 -1 3802
+S 
+#3807
+Through the grasslands~
+You are on a wide dirt trail, running through the grasslands at the bottom
+of a valley.  The grass is brown and dry, and very brittle.  Mountains rise
+to the north, east and west, covering the valley in gloom and shadow.
+~
+0 0 2
+D0 
+The trail leads north.
+~
+~
+0 -1 -1
+D2 
+The trail leads south.
+~
+~
+0 -1 3806
 S 
 #0
 
