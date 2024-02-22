@@ -65,6 +65,41 @@ The tunnel slopes deeper into the earth.
 ~
 0 -1 -1
 S
+#22603
+Tunnels in the underdark~
+The caves and tunnels continue east-west here. You feel the pressure of
+tons of rock all around you, it is very disquieting. From the west you
+hear flowing water, perhaps there is an underground river here.
+~
+0 0 0
+D1 
+The tunnel runs to the east.
+~
+~
+0 -1 22602
+D3
+The tunnel runs to the west.
+~
+~
+0 -1 22604
+S
+#22604
+Caverns deep underground~
+The caves and tunnels continue east-west here. Directly to the west there
+is the sound of flowing water, and you can here a 'bleep' sound, you cannot
+fanthom what could be making it though. The walls here are coated with
+persperation, and the air is thick with humidity.
+~
+0 0 0
+D1
+~
+~
+0 -1 22603
+D3
+~
+~
+0 -1 -1
+S 
 #0
 
 
