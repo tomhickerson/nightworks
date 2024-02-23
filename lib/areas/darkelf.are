@@ -98,7 +98,91 @@ D1
 D3
 ~
 ~
+0 -1 22605
+S 
+#22605
+A T-intersection passage~
+You come to a T-intersection in the tunnels. Passageways lead east, west
+and south. To the west you see a huge cavern opening up to a large mushroom
+patch. To the south you see the source of the sound of water flowing, a large
+underground river flows into a huge cavern full of underground plant life.
+To the east the curving tunnels and caverns continue.
+~
+0 0 0
+D1
+~
+~
+0 -1 22604
+D2 
+~
+~
+0 -1 22606
+D3 
+~
+~
+0 -1 22607
+E
+patch~
+The patch is several hundred square yard in size, and is made of huge, giant
+mushrooms, measuring 6 to 15 feet in height!~
+E 
+river~
+The river is dark and flowing exceptionally fast from one end of the cavern
+to the next. It enters and exits the cavern from large slits in the side of
+the cavern walls. The river flows across the far end of the cavern, and would
+be deadly to enter.~
+E
+plant life~
+The plant life is completely unknown to you, but most seems to be a type of
+phosphoresent bush that radiates a pale blue light. All would see to not need
+sunlight to survive.~
+S 
+#22606
+The River in the Cavern~
+This is a huge cavern in the underdark, in which a large river flows through
+on the far side. The room is filled with underground plant life, most of which
+glow in a soft blue glow, bathing the entire chamber in a soft blue aura. It
+is by far the most beautiful sight you have seen so far in this underground
+maze of the underdark. As you examine the room closer, you believe it may
+be used as an area to raise some sort of cattle type creature, you see signs
+of the presence of some type of grazing animal. You can enter the river to
+the west, or exit this cavern to the north.
+~
+0 0 0
+D0
+~
+~
+0 -1 22605
+D3
+~
+~
 0 -1 -1
+E
+river~
+The river flows fast from one end of the cavern to the other, entering and
+exiting through large slits in the cavern walls.~
+E
+plants~
+The plants seem to need no sunlight, and glow with an inner aura of blue.~
+S 
+#22607
+Mushroom Cavern~
+You have entered a huge cavern of mushrooms. The mushrooms seem to be
+cultivated, for you see a cart-like device and some tools used to cut down
+the mushrooms.~
+0 0 0
+D1 
+~
+~
+0 -1 22605
+E
+mushrooms~
+The mushrooms are huge, ranging from 6-15 feet tall. The are a deep dark,
+purple colour, and seem to absorb light.~
+E
+device~
+The device is a cart of some kind, seemingly used to carry off mushroom
+bulk to some unknown destination.~
 S 
 #0
 
