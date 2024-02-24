@@ -53,7 +53,7 @@ D1
 The tunnel slopes deeper into the earth.
 ~
 ~
-0 -1 -1
+0 -1 22608
 D2
 The tunnel slopes deeper into the earth.
 ~
@@ -63,7 +63,7 @@ D3
 The tunnel slopes deeper into the earth.
 ~
 ~
-0 -1 -1
+0 -1 22603
 S
 #22603
 Tunnels in the underdark~
@@ -183,6 +183,64 @@ E
 device~
 The device is a cart of some kind, seemingly used to carry off mushroom
 bulk to some unknown destination.~
+S 
+#22608
+A downward slope...~
+The tunnels and caves continue their downward slope in this direction. The
+caves and tunnels begin to take on a slight sheen as you traverse this
+direction, and you notice tiny spiders moving here and there. You get the
+distinct impression that you are heading someplace dangerous.
+~
+0 0 0
+D1 
+~
+~
+0 -1 22609
+D3 
+~
+~
+0 -1 22602
+E
+sheen walls~
+The sheen on the walls seems to be a strange, sticky substance.~
+E
+spider~
+The spiders are small and black, and instead of walking to their
+destination, seem to spring about like a frog.~
+S
+#22609
+A sticky tunnel~
+The tunnels and caves continue east-west here, and to the east there is a
+downward slope. The sheen on the walls increases here, and you get the
+distinct feeling of danger, as the hairs on your neck rise up.
+~
+0 0 0
+D1 
+~
+~
+0 -1 -1
+D3 
+~
+~
+0 -1 22608
+S
+#22610
+The slimy tunnel~
+The tunnel here is much like it is everywhere else in the underdark, with the
+exception of some rope-like webs begin to appear in the southern part of the
+tunnel. Your skin begins to prickle as you sense possible danger.
+~
+0 0 0
+D2 
+You see the beginnings of a rather large spiderweb. You believe that whatever
+made that web must be pretty large, because it stretches for hundreds of
+yards.~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 22609
 S 
 #0
 
