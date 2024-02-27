@@ -288,8 +288,8 @@ You are on a road made of dirt and rocks, though it has been
 swept smooth by some invisible caretaker.  To the north, you
 see the gates of the keep hewn of black stone, rising out of 
 the green gressy fields.  Behind it, further north, are the 
-dark woods of the Goblins.  The road leads around the keep 
-to the west, and extends through the fields to the south.
+dark woods of the Goblins.  This road also leads around the 
+keep to the west, and extends through the fields to the south.
 ~
 0 0 2
 D0 
@@ -299,11 +299,29 @@ D0
 D2 
 ~
 ~
-0 -1 -1
+0 -1 4314
 D3 
 ~
 ~
 0 -1 4312
+S 
+#4314
+The road approaching the keep~
+You are on a road of dirt and rocks, winding through the 
+deep green fields of grass.  In the distance to the north
+you see a keep made of black stone, and the line of the 
+dark forest behind it.  To the south the road and the 
+grass extend through soft, rolling hills.
+~
+0 0 2
+D0 
+~
+~
+0 -1 4313
+D2
+~
+~
+0 -1 -1
 S 
 #0
 
