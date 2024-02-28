@@ -236,11 +236,96 @@ You see the beginnings of a rather large spiderweb. You believe that whatever
 made that web must be pretty large, because it stretches for hundreds of
 yards.~
 ~
-0 -1 -1
+0 -1 22611
 D3
 ~
 ~
 0 -1 22609
+S 
+#22611
+Spiderwebs across a rift~
+There is a huge rift here stretching as far down as your light extends. A huge
+spider web is affixed to the rift and leads downwards. You can just make out a
+passage way about 50 feet down in the rift leading west. The only way to reach
+it would be to crawl down on the web, but you are not sure if you want to meet
+this web's creator.
+~
+0 0 0
+D0 
+~
+~
+0 -1 22610
+D5
+~
+~
+0 -1 -1
+E
+rift~
+The rift seems to extend downward into infinity, and was probably created
+be an ancient earth quake. The tunnel at one time would seem to have continued,
+but the rift seems to have moved the rest of the tunnels down several hundred
+feet.~
+E
+web~
+The web expands hundreds of feet, up and down and across the rift, and down
+into the continuing passage ways.~
+S 
+#22612
+On the huge spiderwab~
+The web strands are massive, giving you more than enough room to maneuver on.
+Whatever made these webs must be big indeed!
+~
+0 0 0
+D3
+Following the web, you can enter a spiraling whirlpool of web leading into
+a cave. You detect movement from the cave and suddenly feel vibration on the
+web, as if some giant hand was plucking at the strand.~
+~
+0 -1 22613
+D4
+~
+~
+0 -1 22611
+S
+#22613
+Gargantuan spider lair~
+You have entered a huge cave filled with a giant web of interconnecting
+strands. Each strand is the diameter of a tree trunk! To the west, you notice
+the passage continues out of the web.
+~
+0 0 0 
+D1
+You can go out and walk on the spider web above a deep chasm in this
+direction.~
+~
+0 -1 22612
+D3
+~
+~
+0 -1 22614
+E
+web~
+The web forms a whirlpool type effect into the western part of this cave. If
+the sight wasnt so frightning, it would be quite beautiful indeed.~
+S
+#22614
+The Underdark~
+The caves and tunnels continue in an east-west direction. To the east, you
+see the begginings of a massive spiderweb. to the west, you notice the air
+is beggining to warm.
+~
+0 0 0
+D1
+~
+~
+0 -1 22613
+D3 
+~
+~
+0 -1 -1
+E
+web spiderweb~
+The web continues to the east, and seems huge in size.~
 S 
 #0
 
