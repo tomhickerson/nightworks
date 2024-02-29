@@ -2346,10 +2346,10 @@ claws has been tearing at them in rage.
 ~
 S
 #6137
-At the end of the trail through the deep, dark forest~
+On the trail through the deep, dark forest~
 You are on a dusty trail leading through the deep, dark forest.  Ancient grey
 trees loom all around you.  You see a dark grove north of you.
-The other exits are east and south.
+The other exits are east and west.
 ~
 0 AD 3
 D0
@@ -2362,10 +2362,30 @@ The dusty trail leads east through the trees.
 ~
 ~
 0 -1 6136
+D3
+The dusty trail leads to the west.
+~
+~
+0 -1 6138
 E
 tree trees trunk trunks~
 The ancient grey giants seem to observe you silently.
 ~
+S
+#6138 
+Heading through the deep, dark woods~
+You are on a dusty trail leading through the dark forest.  You see a lighter 
+part of the woods to the west, while the east is cloaked in oppressive gloom.
+~
+0 AD 3
+D1 
+~
+~
+0 -1 6137
+D3 
+~
+~
+0 -1 -1
 S
 #6142
 Outside a cave in the deep, dark forest~
