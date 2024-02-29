@@ -1005,7 +1005,11 @@ The trail leads west to meet up with a larger, well-trod path.
 S
 #22564
 Entrance to the ruins~
-
+Upon entering the ruined village, you get the uncomfortable feeling that something
+is very wrong. There are no children running in the streets, no wives going
+off to do errands, no husbands doing work. The place seems completely
+deserted, or so it would seem. Also, there is no sound of animals, wild
+or domesticated; everything is dead quiet. Paths lead north and south.
 ~
 0 532480 0
 D0
@@ -1019,7 +1023,10 @@ D2
 S
 #22565
 Inside the ruins~
-
+You are on a road leading north-south through the deserted village.
+To the north is the village entrance, and to the west you see a stone building
+with a sign posted on its wall. The road continues further into the village
+to the south.
 ~
 0 532480 0
 D0
@@ -1030,10 +1037,16 @@ D2
 ~
 ~
 0 0 22566
+E
+sign~
+Ranthor the Blacksmith 
+Best this side of Haon Dor~
 S
 #22566
-Main road~
-
+Main cross roads~
+You are standing at the village fountain. It is long dried out. You can exit
+to the north towards the exit, south onto the village road, or onto a dark 
+alley that runs east-west.
 ~
 0 532480 0
 D0
@@ -1052,6 +1065,9 @@ D3
 ~
 ~
 0 0 22567
+E
+fountain water~
+The fountain has been dried out for some time.~
 S
 #22567
 Dark Alley~

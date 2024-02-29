@@ -322,11 +322,35 @@ D1
 D3 
 ~
 ~
-0 -1 -1
+0 -1 22615
 E
 web spiderweb~
 The web continues to the east, and seems huge in size.~
 S 
+#22615
+The Underdark~
+The tunnels twist south and east here. You also see streaks of dried liquid
+on the ground here.
+~
+0 0 0 
+D0
+You can just make out the outline of a door on the north wall.
+~
+door~
+1 -1 -1 
+D1 
+~
+~
+0 -1 22614
+D2 
+~
+~
+0 -1 -1
+E
+streak liquid streaks~
+The streaks look to be long dried blood, and lead from the southern exit to
+the north wall.~
+S
 #0
 
 
