@@ -2385,8 +2385,57 @@ D1
 D3 
 ~
 ~
-0 -1 -1
+0 -1 6139
 S
+#6139
+On the edge of the deep, dark woods~
+You are on a trail of gray dust, leading through a wooded copse of trees.  To 
+the west you can see the edge of the forest, and beyond it, a small city.  To
+the east the path goes deeper into the forest.
+~
+0 AD 3
+D1 
+~
+~
+0 -1 6138
+D3
+~
+~
+0 -1 6140
+S 
+#6140 
+The entrance to the forest~
+You are on the edge of the fields.  To the west you see the dirt trail lead 
+towards the gates of a city.  To the east the dark forest looms over you, 
+with tall grey trees that are ominously still and silent.
+~
+0 0 2
+D1
+~
+~
+0 -1 6139
+D3
+~
+~
+0 -1 6141
+S 
+#6141
+The fields before the city~
+You are on a path in the fields heading east-west, made of dirt but lined 
+with small stones and pebbles.  Short, stubby grasses grow on all sides, but
+the ground looks hard and dry.  To the east you can see the dark entry to 
+the forest beyond.
+~
+0 0 2
+D1
+~
+~
+0 -1 6140
+D3
+~
+~
+0 -1 31019
+S 
 #6142
 Outside a cave in the deep, dark forest~
 You are at the end of a broad, irregular path.  To the north is a very large
