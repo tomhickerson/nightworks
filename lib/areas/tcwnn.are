@@ -3365,13 +3365,17 @@ persistent of intruders out. Guards wander back and forth both on the
 below and the battlements high above, where they are barely visible through
 the crenelations.
 
-Paths lead to the north, south and east.
+Paths lead to the north, south, east and west.
 ~
 0 4 2
 D0
 The Circuit Road~
 ~
 0 -1 31026
+D1 
+The grassy fields~
+~
+0 -1 6141
 D2
 The Circuit Road~
 ~
