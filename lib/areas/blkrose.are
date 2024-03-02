@@ -1071,7 +1071,10 @@ The fountain has been dried out for some time.~
 S
 #22567
 Dark Alley~
-
+You are in a dark alleyway, running east and west between the walls of 
+several collapsed buildings.  The ground is strewn with rubble, overgrown
+with grasses and moss over many years.  The main cross-roads is to your
+east.
 ~
 0 532480 0
 D1
@@ -1085,7 +1088,10 @@ D3
 S
 #22568
 Dark Alley~
-
+You are in a darkened alley, running between the crumbling walls of
+this ruined settlement.  Mosses and lichens cover the walls on both 
+sides, and you can hear water dripping somewhere.  This part of the 
+alley turns north, and the cross-roads can be seen to the east.
 ~
 0 532480 0
 D0
