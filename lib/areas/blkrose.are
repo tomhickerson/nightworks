@@ -1104,8 +1104,9 @@ D1
 0 0 22567
 S
 #22569
-Dark Alley~
-
+Dark Alley before a building~
+You are standing in a dark alley which runs north and south, between
+the ruins.  To the north you see some kind of collapsed building.
 ~
 0 532480 0
 D0
@@ -1118,8 +1119,12 @@ D2
 0 0 22568
 S
 #22570
-Dark Alley~
-
+Collapsed weapon storeroom~
+This building appears to have been reduced to rubble by a great explosion.
+There are bits and pieces of the walls and roof thrown several feet from the
+edge of its foundation. You would guess that magic involved in this building's
+destruction, and you realize you will find nothing of value here. You can
+exit to the dark alley to the south, and you see an exit to the west.
 ~
 0 532480 0
 D2
@@ -1127,19 +1132,40 @@ D2
 ~
 0 0 22569
 D3
+To the west you get the distinct impression of danger. It is very dark, and
+you feel the presence of possibly another creature, or perhaps your imagination
+is just playing tricks on you.
 ~
 ~
 0 0 22571
 S
 #22571
-Dead End~
-
+A lair of spiders~
+Upon entering this room you see huge spider webs blanketing the room. Dried
+husks of both humans and animals are hung like macabre trophies throughout
+the room. You believe this room may be dangerous to stay in for long.
 ~
 0 532480 0
 D1
 ~
 ~
 0 0 22570
+E
+web webs~
+The webs are thick and strong. The blanket what once would seem to be the
+council chamber of the town hall, and through them on the far wall you see a
+large hole in the wall, covered with the web.~
+E
+hole~
+The hole leads to the outside, and you assume that is how whatever made these
+webs entered the building. It is impossible to reach without hacking through
+several feet thick of web.~
+E
+husk husks trophies~
+The husks are wrapped in tight bonds of steel strong silk, and appear to have
+been dead a long time. You can just make out the look of pain filled expressions
+on the faces of the humans. You get a frightning feeling that maybe the
+occupants of this room are hungry.~
 S
 #22572
 Dark Alley~
