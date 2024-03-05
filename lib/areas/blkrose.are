@@ -1164,7 +1164,7 @@ E
 husk husks trophies~
 The husks are wrapped in tight bonds of steel strong silk, and appear to have
 been dead a long time. You can just make out the look of pain filled expressions
-on the faces of the humans. You get a frightning feeling that maybe the
+on the faces of the humans. You get a frightening feeling that maybe the
 occupants of this room are hungry.~
 S
 #22572
@@ -1312,18 +1312,43 @@ D3
 0 0 22583
 S
 #22582
-Ruined Inn~
-
+Ruined Bank~
+You are inside an old building that at one time served as a bank. Broken
+chests litter the floor, and the skeletal remains of who you assume was the
+banker are in the corner. The only exit is through a doorway west.
 ~
 0 532480 0
 D3
 ~
 ~
 0 0 22581
+E
+skeleton skeletal remains~
+The skeleton is lying on the ground. Close inspection shows laceration marks
+upon the bone, and the remains of many dart like objects lying among the
+ribcage. You discern that the poor chap was attacked with small, dart-like
+missles and very sharp slashing weapons. There is nothing of value in or
+around the remains.~
+E
+dart~
+The dart seems like a minature crossbow bolt, and is covered with a sticky
+substance.~
+E
+safe chest~
+The safe-like chest's are broken open and any valuables they once contained
+have long been gone.~
+E
+floor~
+The floor is made of cool grey stone, but is covered with patches of what
+you assume is dried blood.~
 S
 #22583
-Ruined Pub~
-
+Ruined Inn~
+You are inside a ruined inn, most of which has been burned and broken into 
+pieces. Parts of the burned tables and chairs are placed to block windows and
+doors but that apparently did not help the defenders, as you see several 
+charred corpses and remains still lying here.  The only exit is to the 
+east.
 ~
 0 532480 0
 D1
