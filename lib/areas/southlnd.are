@@ -321,6 +321,54 @@ D0
 D2
 ~
 ~
+0 -1 4315
+S 
+#4315
+Road through the rolling hills~
+You are on a road making its way through a field of grass, 
+with gentle rolling hills rising to the east and west.  The 
+road runs north to a stone keep in the distance, and south 
+through some hills.
+~
+0 0 2
+D0 
+You see a black stone keep and a line of trees beyond it.
+~
+~
+0 -1 4314
+D2
+You think you can see a crossroads in the distance.
+~
+~
+0 -1 4316
+S
+#4316
+A crossroads in the fields~
+You are at a crossing of the roads in the middle of a 
+green, grassy field.  The road here is of dirt but level
+and lined with round rocks and pebbles.  You can go 
+north, south, east and west from here.
+~
+0 0 2
+D0 
+You see some kind of keep in the distance.
+~
+~
+0 -1 4315
+D1 
+You see the road wind through the rolling hills.
+~
+~
+0 -1 -1
+D2 
+You see a darkened plain in the distance.
+~
+~
+0 -1 -1
+D3 
+You see the road turn through some hills and disappear.
+~
+~
 0 -1 -1
 S 
 #0

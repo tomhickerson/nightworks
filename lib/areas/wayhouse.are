@@ -1,0 +1,1602 @@
+#AREA
+wayhouse.are~
+Werith's Wayhouse~
+{55 85} Fluffy Werith's Wayhouse~
+14000 14099
+
+
+#MOBILES
+#14000
+Farlenian~
+Farlenian~
+Farlenian the soldier stands and watches quietly.
+~
+Farlenian is a dark-haired, blue-eyed man with an extremely grave expression
+drawn upon his face.  He wears a bright blue set of overalls, with some
+protective layers of leather overtop and a white cloak to round it out.  His
+crossbow looks well-used and cared for.
+~
+unique~
+ABT 0 400 0
+73 1 1d1+599 0d0+0 2d4+14 pierce
+0 0 0 0
+DFIX 0 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium 0
+#14001
+Koofy gerbil~
+Koofy~
+A small gerbil is eating some peanuts on a table here.
+~
+It's a small, well-groomed and well-cared for brown
+gerbil.  Its sniffing around some peanuts quietly,
+and then promptly shoves the lot of them in its mouth!
+~
+unique~
+ABH 0 0 0
+55 20 1d1+0 0d0+0 1d3+0 none
+0 0 0 0
+FH 0 0 0
+stand stand either 0
+AGHMV ABCDEFGHIJKQUV tiny 0
+#14002
+Alerka~
+Alerka~
+Alerka Bardbane is resting here.
+~
+Alerka looks rather non-descript and plain, just an ordinay man taking a
+break.  His knives do not look ordinary at all, however.
+~
+unique~
+ABGT 0 -1000 0
+75 11 3d5+120 0d0+0 1d6+4 pierce
+0 0 0 0
+FK 0 0 0
+rest rest male 4000
+AHMV ABCDEFGHIJK medium flesh
+#14003
+drogo dwarf~
+Drogo~
+Drogo the Dwarf is polishing his axe here.
+~
+Drogo Bloodstain, dwarf at large.  He polishes his battle axe with a fervor,
+more than once licking the blade to put a shine on it.  He seems to be having
+fun.
+~
+unique~
+ABG J 0 0
+73 6 3d5+200 0d0+0 1d1+1 none
+0 0 0 0
+0 0 LQ F
+stand stand male 8000
+AHMV ABCDEFGHIJK medium 0
+#14004
+desslok mage~
+Desslok~
+Desslok stands against the wall, watching.
+~
+This mage stays close to the wall, alone, observing all the patrons and
+visitors to the wayhouse.  He seems to have his eye on one of them.
+~
+unique~
+ABR D -500 0
+76 9 3d5+130 0d0+0 2d7+5 pound
+0 0 0 0
+FN 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium 0
+#14005
+dog~
+a dog~
+A dog sits here, protecting his master.
+~
+The dog growls at anybody that gets too close to it.  It is a very big dog,
+standing at least three feet and well over 100 pounds.
+~
+unique~
+AB V 0 0
+60 16 3d5+60 0d0+0 2d5+0 pound
+0 0 0 0
+HU 0 0 0
+stand stand male 0
+AGHMV ABCDEFGHIJKUV medium 0
+#14006
+Airden~
+Airden the Wanderer~
+Airden the Wanderer is taking a break from wandering here.
+~
+Airden is a tall, skinny human, dressed in simple clothes.  He smiles and
+nods at you in greeting.  The dust on his clothes tells tales of many strange
+lands and stranger adventures.
+~
+unique~
+AT 0 750 0
+72 12 3d5+110 0d0+0 2d5+2 pound
+0 0 0 0
+F 0 0 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0
+#14007
+Seemie kid~
+Seemie~
+A young kid stands out of the way here.
+~
+This twelve-year old kid is completely drunk.  He wobbles in place, trying to
+stand still, and gives a wide smile to everyone that passes by.
+~
+unique~
+AB 0 250 0
+60 17 3d5+100 0d0+0 1d6+2 none
+0 0 0 0
+F 0 0 0
+stand stand male 50
+AHMV ABCDEFGHIJK medium 0
+#14008
+Eshiay woman~
+Eshiay~
+Eshiay sits here, a confused expression upon her face.
+~
+Eshiay seems somewhat pretty, but very confused.  She moves
+a little awkwardly, as if her body doesn't fit her very well.
+She smiles at you uncertainly, and then ignores you.
+~
+unique~
+ABQ 0 900 0
+80 12 3d5+90 0d0+0 2d4+4 pound
+0 0 0 0
+FN 0 0 0
+stand stand female 8
+AHMV ABCDEFGHIJK medium 0
+#14009
+Jordo engineer~
+Jordo~
+Jordo the Engineer is just hanging out here.
+~
+Jordo's eyes glint viciously as he looks across the room.  From the way his
+hands tighten on his weapon, you can tell he is on edge.
+~
+unique~
+AB 0 0 0
+80 9 3d5+145 0d0+0 2d7+3 thrust
+0 0 0 0
+DFV 0 0 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium 0
+#14010
+horse~
+a horse~
+A horse stands in its stall here, munching on some grain.
+~
+It's a fairly plain, nondescript horse.  Brown hair, brown
+eyes, quiet and pretty well-mannered.
+~
+unique~
+ABH 0 0 0
+58 15 3d5+70 0d0+0 3d4+0 pound
+0 0 0 0
+FH 0 0 0
+stand stand none 0
+AGHMV ABCDEFGHIJKUV medium 0
+#14011
+waiter~
+a waiter~
+A waiter rushes by, intent on his business.
+~
+He looks harried from the way he hastily takes orders and rushes
+in the back to get food, and to the bar for drinks.  He doesn't even
+spare you a glance as he passes by.
+~
+unique~
+A 0 0 0
+62 16 3d5+60 0d0+0 2d4+0 pound
+0 0 0 0
+F 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0
+#14012
+waitress~
+a waitress~
+A waitress rushes by, intent on her business.
+~
+She looks harried from the way she hastily takes orders and rushes
+in the back to get food, and to the bar for drinks.  She doesn't even
+spare you a glance as she passes by.
+~
+unique~
+A 0 0 0
+62 16 3d5+60 0d0+0 2d4+0 pound
+0 0 0 0
+F 0 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium 0
+#14013
+farmer~
+a farmer~
+A tired farmer relaxes here, for awhile.
+~
+The dust and dirt of the land cover this man head to toe.  His
+eyes look weary, his hands calloused, and those big workboots he's
+wearing just can't be comfortable.  This man is one of the citizenry
+elite: he feeds the people through his own hard work.
+~
+unique~
+A 0 0 0
+64 14 3d5+85 0d0+0 2d4+1 pound
+0 0 0 0
+0 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium 0
+#14014
+Werith~
+Werith~
+Werith tends bar here, listening but not talking very much.
+~
+From the size of those arms, this man must have once been a blacksmith.
+~
+unique~
+AB 0 750 0
+85 1 1d1+749 0d0+0 3d6+10 slash
+0 0 0 0
+CDFK 0 0 0
+stand stand male 50
+AHMV ABCDEFGHIJK medium 0
+#14015
+bartender~
+a bartender~
+A bartender pours a drink while advising his patrons.
+~
+He nods, smiles, and asks you what you would like to drink.
+As you decide, he mixes a Franjie Deluxe for the guy down the
+ways a bit, his hands quickly and surely spinning the lemon over
+the sides of the glass.
+~
+unique~
+AB 0 200 0
+60 6 3d5+180 0d0+0 2d8+2 pound
+0 0 0 0
+FK 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium 0
+#14016
+chef~
+a chef~
+A chef struggles to get the food out quickly.
+~
+With on hand he sprinkles some seasoning on a prepared dish, and with the
+other he flips the meat over in a skillet.  He is good.
+~
+unique~
+AB 0 350 0
+64 11 3d5+120 0d0+0 2d6+1 pound
+0 0 0 0
+FN 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0
+#14017
+adventurer~
+an adventurer~
+An adventurer babbles about some monster she killed.
+~
+You hear her babble about killing some monster that doesn't even exist.
+She is pretty animated, but you see that she has no bruises, cuts, or scars
+to prove she actually went on any adventure in her life.
+~
+unique~
+A 0 0 0
+68 12 3d5+100 0d0+0 2d5+2 slash
+0 0 0 0
+CF 0 0 0
+stand stand female 2000
+AHMV ABCDEFGHIJK medium 0
+#14018
+adventurer~
+an adventurer~
+An adventurer babbles about some monster he killed.
+~
+You see an adventurer, boasting about his latest deeds.  He looks very drunk,
+and most of the stuff he is saying doesn't make any sense at all.
+~
+unique~
+A 0 0 0
+68 12 3d5+100 0d0+0 2d5+2 pierce
+0 0 0 0
+CF 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium 0
+#14019
+Marketeer Black woman black-marketeer~
+The woman~
+A young woman watches the crowd go by.
+~
+She seems rather secretive and keeps to herself.  Some people approach her
+but she waves them in dismissal.  She eyes her belongings every so often.
+~
+unique~
+AB 0 -500 0
+73 3 3d5+220 0d0+0 3d6+2 slap
+0 0 0 0
+0 0 0 0
+stand stand female 14000
+AHMV ABCDEFGHIJK medium 0
+#14020
+bartender~
+a bartender~
+A bartender pours a drink while advising his patrons.
+~
+He nods, smiles, and asks you what you would like to drink.
+As you decide, he mixes a Franjie Deluxe for the guy down the
+ways a bit, his hands quickly and surely spinning the lemon over
+the sides of the glass.
+~
+unique~
+AB 0 200 0
+60 6 3d5+180 0d0+0 2d8+2 pound
+0 0 0 0
+F 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium 0
+#14021
+bartender~
+a bartender~
+A bartender pours a drink while advising his patrons.
+~
+He nods, smiles, and asks you what you would like to drink.
+As you decide, he mixes a Franjie Deluxe for the guy down the
+ways a bit, his hands quickly and surely spinning the lemon over
+the sides of the glass.
+~
+unique~
+AB 0 200 0
+60 6 3d5+180 0d0+0 2d8+2 pound
+0 0 0 0
+F 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium 0
+#14022
+wayhouse guard~
+a Wayhouse guard~
+A guard of Werith's Wayhouse patrols the area.
+~
+He seems to be relaxed and walks peacefully around the perimeter of the
+wayhouse.  From the looks of his armor and weapons, it doesn't seem like
+he has gotten into much skirmishes.
+~
+unique~
+AGT 0 200 0
+75 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+CFU 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#14023
+drunkard~
+a sleeping drunk~
+A drunkard has pass out on the floor.
+~
+He wears normal commoner's clothing.  His shirt is stained and smells from
+all the alcohol he's consumed.
+~
+unique~
+AFT 0 0 0
+65 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+C 0 0 0
+sleep rest male 0
+AHMV ABCDEFGHIJK medium unknown
+#14024
+shadow~
+(no short description)~
+(no long description)
+~
+~
+unique~
+ABGOT U -750 0
+85 0 0d0+0 0d0+0 0d0+0 drain
+0 0 0 0
+DFIKNV CDL 0 N
+stand stand none 0
+AHMV ABCDEFGHIJK medium shadow
+#14025
+shade~
+{Da shade{x~
+{DA shade stands here, omninously.{x
+~
+{DThis shade stands very still in position, as though it is locked into it.
+It vaguely resembles that of a humanoid form.  It doesn't seem to stir as
+you study it, much less do anything else.{x
+~
+unique~
+ABT TUZ -1000 0
+85 0 0d0+0 0d0+0 0d0+0 drain
+0 0 0 0
+EFHNX ABCDE 0 N
+stand stand none 0
+AHMV ABCDEFGHIJK medium light
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#14000
+Outside the Wayhouse~
+You are outside a large, two-story building which proports to be
+'Werith's Wayhouse' on a brightly lettered sign out front.  You hear
+laughing and revelry from inside -- sounds like a lively place.  The main
+doors are directly south of you, and small paths lead east and west around
+the building.  Eastward is another smaller building; obviously a stable. 
+Northward is a small footpath, providing all the traffic and customers for
+this establishment.  
+~
+0 0 2
+E
+path paths~
+Well-trodden paths around the sides of the building.  Not 
+much of interest.
+~
+E
+stable~
+A place to keep your horses while you enjoy yourself inside...
+~
+E
+sign~
+it says,
+
+		"WERITH'S WAYHOUSE"
+
+~
+D0
+~
+~
+0 0 8201
+D1
+~
+~
+0 0 14007
+D2
+~
+door wooden~
+1 0 14015
+D3
+~
+~
+0 0 14001
+S
+#14001
+Near a Large Building~
+You are north-west of the Wayhouse.  This section of the path seems less
+used, possibly because there's nothing really over here.  The trees crowd in
+towards the clearing, making the general area seem rather eerie somehow. 
+The voices coming from inside are clearly audible, and by listening hard you
+can almost make out the words.  The path around the building continues to
+the west and south.  
+~
+0 0 2
+D1
+~
+~
+0 0 14000
+D2
+~
+~
+0 0 14002
+S
+#14002
+Near a Large Building~
+You are standing on the path that runs around the Wayhouse to the west. 
+A window spills light onto the trees that block out all available light
+overhead.  You hear general merryment and alcoholism from inside.  
+~
+0 0 2
+D0
+~
+~
+0 0 14001
+D2
+~
+~
+0 0 14003
+S
+#14003
+Near a Large Building~
+You are south-west of the main structure of the Wayhouse.  A lone rain
+barrel catches run-off from the roof eaves by the corner of the building,
+and you spy a small white fence cordoning off an herb garden nearby.  The
+path around the building leads to the north and east.  
+~
+0 0 2
+D0
+~
+~
+0 0 14002
+D1
+~
+~
+0 0 14004
+S
+#14004
+Outside the Wayhouse~
+You are standing just south of Werith's Wayhouse, right where the kitchen
+entrance is.  A well-trodden path leads east, towards a small shack that is
+unmistakeably an outhouse.  You hear the unmistakeable sound of clanging
+pots and pans from the inside, the warning of an upcoming meal.  The path
+around the building here runs east and west.  
+~
+0 4 2
+D0
+~
+~
+0 0 14026
+D1
+~
+~
+0 0 14005
+D3
+~
+~
+0 0 14003
+S
+#14005
+Near a Large Building~
+The Wayhouse is just north-west of you here, and you are right by the
+facility's outhouse to the south.  The wooden planks of the stable form an
+alley to the north, with the path leading right in-between.  Westwards is
+the kitchen entrance to the Wayhouse, kept wide open to let the heat inside
+escape.  
+~
+0 0 2
+D0
+~
+~
+0 0 14006
+D2
+~
+~
+0 0 14040
+D3
+~
+~
+0 0 14004
+S
+#14006
+Near a Large Building~
+This is a small, outdoors 'alley' formed by the Wayhouse's stone walls to
+the west, and the wooden planked walls of the stable to the east.  The path
+around the building leads north and south of here.  
+~
+0 0 2
+D0
+~
+~
+0 0 14007
+D2
+~
+~
+0 0 14005
+S
+#14007
+Near a Large Building~
+You are on a small, well-travelled path that leads between Werith's
+Wayhouse to the west, and the stables to the east.  Another path breaks off
+to the south, between the two buildings, towards what appears to be an
+outhouse.  
+~
+0 0 2
+D1
+~
+~
+0 0 14008
+D2
+~
+~
+0 0 14006
+D3
+~
+~
+0 0 14000
+S
+#14008
+Just Outside the Stable~
+The stable of the Wayhouse is just south of you, its wooden doors spread
+open and inviting.  Inside you can hear the snorting of horses, and the
+occasional hoof scraping against the ground.  The path leads to the west,
+towards the Wayhouse.  
+~
+0 4 2
+D2
+~
+~
+0 0 14009
+D3
+~
+~
+0 0 14007
+S
+#14009
+Inside the Stable~
+You are standing inside the dusty confines of the stable.  Stalls line
+the aisle, some with horses, some empty.  A pail filled with water and a
+stack of grain are heaped up against the interior wall, dimly illuminated by
+a lantern hanging from a rafter.  Seems rather quiet in here.  
+~
+0 8 2
+D0
+~
+~
+0 0 14008
+D1
+~
+~
+0 0 14012
+D2
+~
+~
+0 0 14010
+S
+#14010
+Inside the Stable~
+You are standing inside the dusty confines of the stable.  Stalls line
+the aisle, some with horses, some empty.  A pail filled with water and a
+stack of grain are heaped up against the interior wall, dimly illuminated by
+a lantern hanging from a rafter.  Seems rather quiet in here...  
+~
+0 8 1
+D0
+~
+~
+0 0 14009
+D1
+~
+~
+0 0 14011
+S
+#14011
+A Horse Pen~
+You enter a horse pen.  Inside there are straw and hay spread about on
+the floor.  Off to the corner you see a water rough half-full.  To the west
+leads back into the main part of the stable.  
+~
+0 8 1
+D3
+~
+~
+0 0 14010
+S
+#14012
+A Horse Pen~
+You enter a horse pen.  Inside there are straw and hay spread about on
+the floor.  Off to the corner you see a water rough half-full.  To the west
+leads back into the main part of the stable.  
+~
+0 8 1
+D3
+~
+~
+0 0 14009
+S
+#14013
+Main Room~
+The bar runs south here all along the western wall.  A few smaller tables
+here are set up with various board games, ready to play.  There's also a
+shelf along the wall, lined with a few popular books; light reading all of
+them.  The patrons here seem to be a bit quieter than the rowdy bunch in the
+rest of the building.  
+~
+0 8 0
+E
+board games~
+Chess, checkers, stomp-the-orc...that sort of thing.
+~
+D1
+~
+~
+0 0 14014
+D2
+~
+~
+0 0 14020
+S
+#14014
+Main Room~
+A window here offers a view outside, where it doesn't seem near as social
+as it is inside.  Tables filled with laughing customers eat and drink and
+generally be merry, not caring what the weather is like, and probably not
+even knowing.  There's a general sense of joy in the room; the joy of still
+being alive in such a dangerous world as this one.  
+~
+0 8 0
+D1
+~
+~
+0 0 14015
+D2
+~
+~
+0 0 14019
+D3
+~
+~
+0 0 14013
+S
+#14015
+Main Room~
+You stand just inside the Main Room of Werith's Wayhouse.  The whole
+place stretches out all around you, a conglomeration of people, food, and
+alcohol.  
+~
+0 8 0
+D0
+~
+door wooden~
+1 0 14000
+D1
+~
+~
+0 0 14016
+D2
+~
+~
+0 0 14018
+D3
+~
+~
+0 0 14014
+S
+#14016
+Main Room~
+The giant fireplace here sends a great amount of heat throughout the
+room.  The sheer massiveness of the stone edifice and the literal bonfire
+inside demands people give it a safe distance.  A few of the older and less
+human residents of the inn seem to be enjoying these tables, however.  
+~
+0 8 0
+D2
+~
+~
+0 0 14017
+D3
+~
+~
+0 0 14015
+S
+#14017
+Main Room~
+Several dart boards line the wall to the south, and darts are scattered
+all about on the tables and stuck in the wall.  The people coming up and
+down the stairs to the east carefully walk by the wall to avoid being
+pin-cushioned involuntarily.  
+~
+0 8 0
+D0
+~
+~
+0 0 14016
+D1
+~
+~
+0 0 14029
+D3
+~
+~
+0 0 14018
+S
+#14018
+Main Room~
+The tables seem to thin out around here, to give room for the traffic
+going in and out of the kitchen through the archway to the south.  Waiters
+and waitresses march in and out with empty plates and sumptuous platters,
+hardly stopping to breathe in their business.  You hear the distant clank of
+a pot banging against something -- the chefs are busy too it seems.  
+~
+0 8 0
+D0
+~
+~
+0 0 14015
+D1
+~
+~
+0 0 14017
+D2
+~
+~
+0 0 14023
+D3
+~
+~
+0 0 14019
+S
+#14019
+Main Room~
+This seems to be a central part of the room, where many people congregate
+to talk or sing or dance or whatever they feel like at that exact moment. 
+The people seem just on the edge of being completely carried away at every
+moment.  
+~
+0 8 0
+D0
+~
+~
+0 0 14014
+D1
+~
+~
+0 0 14018
+D2
+~
+~
+0 0 14022
+D3
+~
+~
+0 0 14020
+S
+#14020
+Main Room~
+The wooden bar runs along the length of the western wall, just in front
+of the many shelves of different colored alcohol in different shaped
+bottles.  You espy drunkards and waitresses, adventurers and farmers all
+throughout the building from this vantage point.  
+~
+0 8 0
+D0
+~
+~
+0 0 14013
+D1
+~
+~
+0 0 14019
+D2
+~
+~
+0 0 14021
+S
+#14021
+Main Room~
+The bar continues along the length of the western wall.  An empty bottle
+with some spare coppers in it lies on top of its polished surface; tip
+collection evidently.  The tables nearby seem mostly filled with people and
+food, the bar appears at times to be either packed, or merely elbow-to-
+elbow.  A lantern hanging from a rafter overhead casts shadows among the
+beerstains on the floor and gives the complexion of everyone around a sort
+of glow.  
+~
+0 8 0
+D0
+~
+~
+0 0 14020
+D1
+~
+~
+0 0 14022
+D2
+~
+~
+0 0 14028
+S
+#14022
+Main Room~
+In the clutter of the main room of the Wayhouse, is a path leading out
+from the kitchen to the east.  A wide archway allows admittance to the back
+room, from which you hear the distant clank of a pan hitting another.  There
+aren't very many tables here, due to the amount of traffic coming in and
+out.  
+~
+0 8 0
+D0
+~
+~
+0 0 14019
+D1
+~
+~
+0 0 14023
+D2
+~
+~
+0 0 14027
+D3
+~
+~
+0 0 14021
+S
+#14023
+Kitchen~
+This is the main entranceway of the kitchen.  Two archways serve as an
+entry and exit point from the main room of the wayhouse, one north, one
+west.  The kitchen is a room roughly thirty feet by thirty feet, extending
+from the south and east from here.  You see many pots on the stove bubbling
+away and hear the whistle of a kettle somewhere off to the left...  Business
+must be good.  
+~
+0 8 0
+D0
+~
+~
+0 0 14018
+D1
+~
+~
+0 0 14024
+D2
+~
+~
+0 0 14026
+D3
+~
+~
+0 0 14022
+S
+#14024
+Kitchen~
+You are standing in a more quiet area of the kitchen, where various
+supplies of flour, grain and meats are kept.  The kitchen extends south and
+west from here; that's where the main clutter seems to be.  A steady
+thump-thump-thump from the north wall reminds you that the main room is
+where are the fun and action seems to be...  
+~
+0 8 0
+D2
+~
+~
+0 0 14025
+D3
+~
+~
+0 0 14023
+S
+#14025
+Kitchen~
+The south-eastern section of the kitchen here is a veritable whirlwind of
+activity!  The entire area is comprised of cooking surfaces and ovens;
+enough to keep a massive amount of food ready at any one time.  The aisles
+are large, allowing room for frantic chefs and waiters to hurtle through the
+kitchen with only a small amount of collisions.  Seems hectic, yet
+efficient.  The rest of the kitchen is to the north and west from here.  
+~
+0 8 0
+D0
+~
+~
+0 0 14024
+D3
+~
+~
+0 0 14026
+S
+#14026
+Kitchen~
+This is the back entranceway to the kitchen, where the door is kept
+seasonally open to allow the hot air to escape.  Some trash is piled up near
+the door, waiting to be taken out.  The main area of the kitchen extends to
+the north and east from here, a hodge-podge of business and insanity in
+motion.  The place has a general cleanliness about it.  
+~
+0 8 0
+D0
+~
+~
+0 0 14023
+D1
+~
+~
+0 0 14025
+D2
+~
+~
+0 0 14004
+S
+#14027
+Main Room~
+This is a quiet, darkened corner.  It appears someone has put out the
+lantern here on purpose.  It feels a bit chilly in this corner.  There's a
+table set near the corner, a single chair behind it in the shadowy of
+shadows.  
+~
+0 8 0
+D0
+~
+~
+0 0 14022
+D3
+~
+~
+0 0 14028
+S
+#14028
+Main Room~
+The bar runs along the length of the west wall here, dispensing drinks to
+all customers with impunity.  A few tables are empty here in the southern
+part of the wayhouse, but the whole place still has that 'mostly filled' air
+to it.  
+~
+0 8 0
+D0
+~
+~
+0 0 14021
+D1
+~
+~
+0 0 14027
+S
+#14029
+Stairwell~
+Some sturdy wooden stairs lead up to the second floor of the wayhouse,
+where there are a few rooms for rent.  A lonely lantern lights the way up,
+glinting off the polished handrail.  An arch to the west opens up into the
+main room, where the noise informs you that the revelry hasn't stopped yet. 
+~
+0 8 0
+D3
+~
+~
+0 0 14017
+D4
+~
+~
+0 0 14030
+S
+#14030
+Stairwell~
+A stairwell here leads back down to the first floor and the main room of
+the wayhouse.  A hallway leads west along the second floor here, lined with
+doors to private bedrooms.  The floors, stairs, and walls are all made with
+sturdy oak in contrast of the heavy stone of the exterior walls.  A light at
+the top of the stairs throws illumination down the hall.  
+~
+0 8 0
+D3
+~
+~
+0 0 14031
+D5
+~
+~
+0 0 14029
+S
+#14031
+Hallway~
+This is a plain hallway on the second floor.  The stairs leading down are
+to the east, and the hall continues to the west.  On either side to the
+north and south are doors to private rooms.  You can hear a dull roar coming
+from below in the main room, but the thick wooden floorboards do a good job
+of blocking the majority of the noise out.  
+~
+0 8 0
+D0
+~
+door north wooden~
+1 0 14038
+D1
+~
+~
+0 0 14030
+D2
+~
+door south wooden~
+1 0 14039
+D3
+~
+~
+0 0 14032
+S
+#14032
+Hallway~
+This is a plain hallway on the second floor.  The stairs leading down are
+down the hall to the east, and westwards the hall continues.  On either side
+to the north and south are doors to private rooms.  You can hear a dull roar
+coming from below in the main room, but the thick wooden floorboards do a
+good job of blocking the majority of the noise out.  
+~
+0 8 0
+D0
+~
+door north wooden~
+1 0 14036
+D1
+~
+~
+0 0 14031
+D2
+~
+door south wooden~
+1 0 14037
+D3
+~
+~
+0 0 14033
+S
+#14033
+Hallway~
+This is a plain hallway on the second floor.  The hall continues to the
+east, all the way down to where the stairs are.  On either side to the north
+and south are doors to private rooms.  You can hear a dull roar coming from
+below in the main room, but the thick wooden floorboards do a good job of
+blocking the majority of the noise out.  
+~
+0 8 0
+D0
+~
+door north wooden~
+1 0 14034
+D1
+~
+~
+0 0 14032
+D2
+~
+door south wooden~
+1 0 14035
+S
+#14034
+Private Room~
+This is a smallish private room, with an adequate bed with clean sheets,
+a rather beat-up-but-serviceable clothes chest, and a table and chair. 
+Plain and simple, yet nice in a strange sort of way.  
+~
+0 8 0
+D2
+~
+door south wooden~
+1 0 14033
+S
+#14035
+Private Room~
+This is a smallish private room, with an adequate bed with clean sheets,
+a rather beat-up-but-serviceable clothes chest, and a table and chair. 
+Plain and simple, yet nice in a strange sort of way.  
+~
+0 8 0
+D0
+~
+door north wooden~
+1 0 14033
+S
+#14036
+Private Room~
+This is a smallish private room, with an adequate bed with clean sheets,
+a rather beat-up-but-serviceable clothes chest, and a table and chair. 
+Plain and simple, yet nice in a strange sort of way.  
+~
+0 8 0
+D2
+~
+door south wooden~
+1 0 14032
+S
+#14037
+Private Room~
+This is a small, private room, with an adequate bed with clean sheets, a
+worn clothes chest, and a table and chair.  Plain and simple, yet nice and
+comfortable.  
+~
+0 8 0
+D0
+~
+door north wooden~
+1 0 14032
+S
+#14038
+Private Room~
+This is a smallish private room, with an adequate bed with clean sheets,
+a rather beat-up-but-serviceable clothes chest, and a table and chair. 
+Plain and simple, yet nice in a strange sort of way.  
+~
+0 8 0
+D2
+~
+door south wooden~
+1 0 14031
+S
+#14039
+Private Room~
+This is a smallish private room, with an adequate bed with clean sheets,
+a rather beat-up-but-serviceable clothes chest, and a table and chair. 
+Plain and simple, yet nice in a strange sort of way.  
+~
+0 8 0
+D0
+~
+door north wooden~
+1 0 14031
+S
+#14040
+Outhouse~
+You enter the outhouse of Werith's Wayhouse.  The smell is horrible. 
+There is a wooden plank with a few convenient holes cut in it for service,
+and several curtains hung up for privacy.  A bowl with a large cake of soap
+next to it serve as sanitary measures.  
+~
+0 8 0
+D0
+~
+~
+0 0 14005
+D1
+~
+~
+0 0 -1
+S
+#14041
+{DMain Room{x~
+{DYou stand just inside the main room of Werith's Wayhouse.  The whole
+place stretches out all around you, but the area is a deathly shade of grey.
+Humanoid shadows seem to hang in the air eerily.  To the north you see a
+collage of dark violet and blue swirls.  
+~
+0 532489 0
+D0
+~
+~
+0 0 14054
+D1
+~
+~
+0 0 14051
+D2
+~
+~
+0 0 14042
+D3
+~
+~
+0 0 14050
+S
+#14042
+{DMain Room{x~
+{DThe tables seem to thin out around here, to give room for the traffic
+going in and out of the kitchen through the archway to the south.  There
+isn't any activity at all.  Eerie shadows of people are all over the place. 
+~
+0 532489 0
+D0
+~
+~
+0 0 14041
+D1
+~
+~
+0 0 14052
+D2
+~
+~
+0 0 14043
+D3
+~
+~
+0 0 14053
+S
+#14043
+{DKitchen{x~
+{DThis is the main entrance way of the kitchen.  Two archways serves as
+an entry and exit point from the main room of the wayhouse - one north, one
+west.  Almost all of the kitchen is missing, being replaced by a swirl of
+dark violet-blue colors.  
+~
+0 532489 0
+D0
+~
+~
+0 0 14042
+D1
+~
+~
+0 0 14054
+D2
+~
+~
+0 0 14054
+D3
+~
+~
+0 0 14044
+S
+#14044
+{DMain Room{x~
+{DIn the clutter of the main room of the Wayhouse is a path leading out
+from the kitchen to the east.  A wide archway allows admittance to the back
+room.  There aren't many tables here, but you do see shadows slowly moving
+across the floor.  
+~
+0 532489 0
+D0
+~
+~
+0 0 14053
+D1
+~
+~
+0 0 14043
+D2
+~
+~
+0 0 14048
+D3
+~
+~
+0 0 14045
+S
+#14045
+{DMain Room{x~
+{DThe bar continues along the length of the western wall.  The tables
+nearby seem occupied by many shadows, as well as the bar.  They do not seem
+to take notice of your presence.  
+~
+0 532489 0
+D0
+~
+~
+0 0 14047
+D1
+~
+~
+0 0 14044
+D2
+~
+~
+0 0 14046
+S
+#14046
+{DMain Room{x~
+{DThe bar runs along the length of the west wall here.  A few tables
+occupy the room, but nothing else.  
+~
+0 532489 0
+D0
+~
+~
+0 0 14045
+D1
+~
+~
+0 0 14048
+S
+#14047
+{DMain Room{x~
+{DThe bar runs along the length of the west wall here.  A few tables
+occupy the space here, but other than that this room is bereft of anything. 
+~
+0 532489 0
+D0
+~
+~
+0 0 14049
+D1
+~
+~
+0 0 14053
+D2
+~
+~
+0 0 14045
+S
+#14048
+{DMain Room{x~
+{DThis part of the wayhouse is the darkest.  The air is very cold, and
+there is only a single chair here.  
+~
+0 532489 0
+D0
+~
+~
+0 0 14044
+D3
+~
+~
+0 0 14046
+S
+#14049
+{DMain Room{x~
+{DThe bar runs south here all along the western wall.  A few smaller
+tables here are set up with various board games, ready to play.  There's
+shelf along the wall, lined with a few popular books, all light reading.  
+~
+0 532489 0
+D1
+~
+~
+0 0 14050
+D2
+~
+~
+0 0 14047
+S
+#14050
+{DMain Room{x~
+{DA window here offers a view outside, which looks surreaslistic, with
+many colors of dark violet and blue swirling together.  This room is deathly
+silent, shadows resembling humanish outlines all over the floor.  
+~
+0 532489 0
+D1
+~
+~
+0 0 14041
+D2
+~
+~
+0 0 14053
+D3
+~
+~
+0 0 14049
+S
+#14051
+{DMain Room{x~
+{DThe giant hearth here contains no wood or evidence of it ever being
+used.  It looks cold to the touch, like everything else in the room.  A few
+tables seem to be darkened with shadowy occupants.  
+~
+0 532489 0
+D2
+~
+~
+0 0 14052
+D3
+~
+~
+0 0 14041
+S
+#14052
+{DMain Room{x~
+{DSeveral dart boards line the wall to the south, and darts are scattered
+all about on the tables and stuck in the wall.  There seems to be a faint
+outline of a staircase to the east, but it is covered with swirling mists of
+violet and blue.  
+~
+0 532489 0
+D0
+~
+~
+0 0 14051
+D1
+~
+~
+0 0 14054
+D3
+~
+~
+0 0 14042
+S
+#14053
+{DMain Room{x~
+{DThis seems to be a central part of the room, where many people should
+congregate to do social activities, but only eerie shadows are here.  
+~
+0 532489 0
+D0
+~
+~
+0 0 14050
+D1
+~
+~
+0 0 14042
+D2
+~
+~
+0 0 14044
+D3
+~
+~
+0 0 14047
+S
+#14054
+{mSwir{bls of Co{mlor{x~
+{mYou've stepped into a{bn area filled with sw{mirls of {bblue and
+{mviolet.  You float{b in the air peac{mefully.  The only way out{b is down.
+{x 
+~
+0 524288 0
+D5
+~
+~
+0 0 14000
+S
+#14055
+{DPure Darkness{x~
+{DYou step through the portal and are brought into the Shadow Realm.  The
+place is very cold and devoid of any light source.  Occasionally you feel a
+very, very cold breeze coming from above.  {x 
+~
+0 532993 0
+D4
+~
+~
+0 0 14042
+S
+#0
+
+
+
+#SPECIALS
+M 14004 spec_cast_mage
+M 14008 spec_cast_cleric
+M 14024 spec_cast_undead
+S
+
+
+
+#RESETS
+D 0 14000 2 1
+D 0 14015 0 1
+D 0 14031 0 1
+D 0 14031 2 1
+D 0 14032 0 1
+D 0 14032 2 1
+D 0 14033 0 1
+D 0 14033 2 1
+D 0 14034 2 1
+D 0 14035 0 1
+D 0 14036 2 1
+D 0 14037 0 1
+D 0 14038 2 1
+D 0 14039 0 1
+M 0 14022 5 14000 2
+M 0 14022 5 14003 2
+M 0 14010 3 14009 1
+M 0 14010 3 14010 1
+M 0 14010 3 14011 1
+M 0 14010 3 14012 1
+M 0 14004 1 14013 1
+M 0 14005 1 14013 1
+M 0 14021 1 14013 1
+M 0 14018 2 14013 2
+M 0 14012 3 14014 3
+M 0 14017 2 14015 2
+M 0 14003 1 14016 1
+M 0 14013 5 14016 5
+M 0 14000 1 14017 1
+M 0 14001 1 14017 1
+M 0 14013 5 14017 5
+M 0 14009 1 14018 1
+M 0 14011 3 14018 3
+M 0 14007 1 14019 1
+M 0 14013 5 14019 5
+M 0 14013 5 14019 5
+M 0 14014 1 14020 1
+M 0 14006 1 14021 1
+M 0 14011 3 14021 3
+M 0 14013 5 14021 5
+M 0 14020 1 14021 1
+M 0 14018 2 14021 2
+M 0 14012 3 14022 3
+M 0 14017 2 14022 2
+M 0 14011 3 14023 3
+M 0 14016 5 14024 5
+M 0 14012 3 14025 3
+M 0 14016 5 14025 5
+M 0 14016 5 14025 5
+M 0 14016 5 14025 5
+M 0 14016 5 14026 5
+M 0 14002 1 14027 1
+M 0 14019 1 14027 1
+M 0 14008 1 14028 1
+M 0 14015 1 14028 1
+M 0 14023 1 14036 1
+M 0 14025 6 14046 1
+M 0 14025 6 14047 1
+M 0 14025 6 14048 1
+M 0 14025 6 14049 1
+M 0 14025 6 14051 1
+M 0 14025 6 14052 1
+S
+
+
+
+#SHOPS
+14015 0 17 0 0 0 100 50 0 23
+14020 0 17 0 0 0 100 50 0 23
+14021 5 17 0 0 0 100 50 0 23
+0
+
+
+
+#$
