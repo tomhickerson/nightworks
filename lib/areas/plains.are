@@ -799,7 +799,7 @@ S
 Grassy plains~
 You walk in the beautiful grassy plains. The wind is strong and rough.
 Far to the north you can see the foothills and further on mountain peaks
-are visible.
+are visible.  To the west there is a small copse of pine trees.
 ~
 0 0 4
 D0
@@ -818,10 +818,10 @@ The plains extend far to the south.
 ~
 0 -1 316
 D3
-To the west, you see the road to Elvanhame.
+To the west, you see the road to Elvanhame through a copse of pine trees.
 ~
 ~
-0 -1 40100
+0 -1 40199
 S
 #319
 Grassy plains~

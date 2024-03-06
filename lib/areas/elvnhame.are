@@ -1591,7 +1591,7 @@ west is the gate itself.
 D1
 ~
 ~
-0 0 318
+0 0 40199
 D3
 ~
 ~
@@ -3531,7 +3531,7 @@ Heading further down to the mountain lake
 0 -1 40198
 S
 #40198
-A road sloping up the mountainsite~
+A road sloping up the mountainside~
 You are on a small, clean road that is gradually sloping up and down
 the site of this mountain pass.  Somewhere above you, you can see the 
 walls of a city, and below you, the road turns into a set of steps leading
@@ -3549,6 +3549,24 @@ Descending to a mountain lake
 ~
 0 -1 10001
 S
+#40199
+A road through the woods~
+You are on the road approaching the city of Elves, which is clean and 
+well-maintained.  Pine trees line this way, which leads onto the 
+Plains to the east and up to the city gates to the west.
+~
+0 0 3
+D1 
+Heading into the plains
+~
+~
+0 -1 318
+D3 
+Approaching the East Gate
+~
+~
+0 -1 40100
+S 
 #0
 
 #SPECIALS
