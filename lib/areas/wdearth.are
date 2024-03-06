@@ -47,6 +47,10 @@ D2
 ~
 ~
 0 -1 30310
+D3
+~
+~
+0 -1 1932
 S
 #30301
 The DearthWood~
@@ -767,6 +771,10 @@ D2
 ~
 ~
 0 -1 30340
+D3
+~
+~
+0 -1 1930
 S
 #30331
 The DearthWood~
@@ -1298,7 +1306,7 @@ Twisted Trunks.
 D3
 ~
 ~
-0 0 1628
+0 0 1928
 S
 #30351
 {YThe DearthWood Trail{x~
@@ -1794,7 +1802,9 @@ S
 #30369
 {YThe DearthWood Trail{x~
 The trail leaves the DearthWood here and heads out onto
-the eastern road and parts unknown. 
+the eastern road and parts unknown.  You don't think you 
+will be able to find your way back here once you get on 
+the road...
 ~
 0 0 11
 D0
@@ -1806,7 +1816,7 @@ D1
 The Eastern Road.
 ~
 ~
-0 -1 8400
+0 -1 8419
 D2
 Twisted Trunks.
 ~

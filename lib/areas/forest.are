@@ -1,0 +1,6777 @@
+#AREA
+forest.are~
+Forest Castle~
+{21 85} Genjuro Forest Castle~
+34100 34399
+
+
+
+#MOBILES
+#34100
+monster moat~
+The Moat Monster~
+The Moat Monster is swimming here.
+~
+Once a normal man in the employ of the Forest Kingdom, he was sent on a
+mission to talk to the High Warlock, who was in self exile.  The warlock,
+annoyed at the interruption, transformed the man into the monster you see
+before you.  The moat monster returned and lived in the moat of the Forest
+Castle, enjoying his new form and the joys of pure nature.  It now keeps the
+castle safe from intruders, such as yourself.  
+~
+unique~
+ABCFT DFHJQTUVZbce 0 0
+73 1 1d1+599 0d0+0 2d4+14 pierce
+0 0 0 0
+ADEFGHKMO 0 CD 0
+stand stand none 0
+AHMV ABCDEFGHIJK huge unknown
+#34101
+guard sentry~
+The Sentry~
+A sentry of Forest Castle has been posted here.
+~
+This sentry has been posted here to ensure that no trouble makers like
+yourself will wreak havoc inside Forest Castle.  Wielding a wicked looking
+sword, the guard glares at you menacingly and hefts a shield.  
+~
+unique~
+ABCT DFJZ 0 0
+53 1 1d1+499 0d0+0 2d4+14 pierce
+-5 -5 -5 -5
+CEFJKT 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#34102
+guard forest castle~
+The Forest Castle Guard~
+A guard of Forest Castle is keeping watch.
+~
+This guard watches you very carefully, noticing your equipment and
+weapons as you wander about Forest Castle.  He readies his own weapons and
+glare cautiously at you.  
+~
+unique~
+ACGT DFJZ 0 0
+33 1 1d1+399 0d0+0 2d4+14 pierce
+-4 -4 -4 -4
+CEFIJKN 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#34103
+guard outpost~
+the outpost guard~
+An outpost guard is here.
+~
+This outpost guard stands tall, watching for enemies of the Forest
+Kingdom.  As you walk up to him, he levels his pike at you, looking for any
+signs of evil.  
+~
+unique~
+ABCT DFJZ 0 0
+25 1 1d1+299 0d0+0 2d4+4 pierce
+-5 -5 -5 -5
+CDEFHKV 0 B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#34104
+servant~
+the servant~
+A servant of Forest Castle is here.
+~
+This servant is one of the many indentured erfs, serving tenure by
+working at Forest Castle.  They clean all day and all night, endlessly
+toiling into the wee hours of the morn.  
+~
+unique~
+ACGT JZ 0 0
+21 0 3d22+96 10d10+100 2d5+5 pound
+4 4 4 7
+FK 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#34105
+courtier~
+the courtier~
+A courtier of Forest Castle is here.
+~
+This courtier is here trying to seem important.  Dressed in the latest
+fashions, he tries to involve himself in the schemes and intrigue that
+permeate the court.  As you try to move past him, he elbows you in the ribs
+and smirks.  
+~
+unique~
+ABCT DFJZ 0 0
+23 5 200d1+1 1000d1+1 5d6+1 slap
+-1 -1 -1 -1
+EFNO 0 0 0
+stand stand male 50
+AHMV ABCDEFGHIJK medium unknown
+#34106
+lady waiting~
+the lady in waiting~
+A lady in waiting is here.
+~
+This lady in waiting flutters her lashes as you approach her.  She
+curtseys gracefully and smiles winsomely at you.  You can only wonder how
+she can breathe in the gown she is in.  
+~
+unique~
+ABCT DFJZ 0 0
+29 4 199d1+1 990d1+1 5d6+1 slap
+-9 -9 -9 -9
+EFN 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#34107
+farmer~
+a farmer~
+A farmer is here, requesting guards to protect his family.
+~
+This hardworking farmer has traveled a great distance to talk to the
+King.  He wishes to request for some troops to help guard his farm and
+family from the demons that attack at night.  
+~
+unique~
+AG 0 1000 0
+23 8 205d1+1 100d1+1 5d6+1 pierce
+-1 -1 -1 -1
+EFIJNV 0 0 0
+stand stand male 0
+ABHMV ABCDEFGHIJKQ medium unknown
+#34108
+king roland~
+King Roland~
+King Roland is here, sitting upon his throne.
+~
+King Roland is the ruler of the Forest Kingdom.  He tries his best to
+rule the kingdom fairly, listening to the advice of his long time friend
+Thomas Grey.  He never wanted to be a ruler, but without a choice, he tries
+to make the best out of the situation.  
+~
+unique~
+ABCT DFHJNVZc 1000 0
+75 175 1500d1+1 1500d1+1 10d20+5 pierce
+-40 -40 -40 -40
+DEFGHJKORV AB CDL 0
+stand stand male 100
+ABHMV ABCDEFGHIJKQ large unknown
+#34109
+astrologer thomas grey~
+Thomas Grey~
+The Court Astrologer is here, advising the King.
+~
+Thomas Grey is the advisor to the King.  Unknown, however, is his burning
+ambition to rule the Forest Kingdom himself.  He has traitored himself over
+to the forces of evil and secretly hates King Roland.  
+~
+unique~
+ABCT DFHJOTUVZ -1000 0
+80 80 2000d1+1 2000d1+1 5d30+9 pierce
+-45 -45 -45 -45
+DEFHKORV AB CDHKLMOPS 0
+stand stand none 0
+ABHMV ABCDEFGHIJKQ large unknown
+#34110
+horse~
+a horse~
+A horse is stabled here.
+~
+The horse is a bright, brushed chestnut color and neighs at you.
+~
+unique~
+ABT 0 0 0
+21 0 3d22+110 100d1+1 2d5+5 crush
+0 0 0 0
+FIJO 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#34111
+rat~
+a rat~
+A rat is squeaking at you.
+~
+Squeak!
+~
+unique~
+ABC JZ 0 0
+10 0 1d17+42 0d0+0 2d3+2 bite
+1 1 1 1
+FM 0 0 0
+stand stand either 0
+AGXc ACDEFHKQV medium unknown
+#34112
+Lord Darios~
+Lord Darius~
+Lord Darius, the Minister of War, is here.
+~
+The Minister of War, a hereditary post, is a short fat man in gorgeous
+gravy-stained robes.  Sharp, piggy eyes peer from under plucked eyebrows,
+and his rouged mouth is in a constant scowl.  He has traitored over the side
+of the Demon Prince, and now bars your path, ready to attack!  
+~
+unique~
+ABCFT DFHJOVZ -1000 0
+50 7 500d1+15 500d1+15 5d10+5 pierce
+-15 -15 -15 -15
+DEFJKOV AB CD 0
+stand stand male 5
+AHMV ABCDEFGHIJK large unknown
+#34113
+guest~
+a guest~
+A guest of Forest Castle is here.
+~
+This person is a guest of Forest Castle.  As the guest wanders around,
+you wonder if killing guests is allowed here.  
+~
+unique~
+ACGT DFJVZ 0 0
+23 6 130d1+1 120d1+1 5d6+7 slash
+-10 -10 -10 -10
+DEFJKOV 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#34114
+lady cecelia~
+Lady Cecelia~
+Lady Cecelia is here, looking for Gregory.
+~
+Lady Cecelia looks rich, gorgeous, and aristocratic.  Dressed in the
+latest fashions, she can barely walk normally.  Instead, she takes tiny,
+mincing little steps, too constricted in her corset to move properly.  While
+married to Lord Darius, the Minister of War, almost everyone knows that she
+is in love with Gregory, a guardsman.  This is fine with Lord Darius, who
+has married her only for convenience.  
+~
+unique~
+ABCT DFJVZ 0 0
+45 20 430d1+1 430d1+1 5d5+20 smash
+-20 -20 -20 -20
+DEFIJKO AB CDL C
+stand stand female 50
+ABHMV ABCDEFGHIJKQ medium unknown
+#34115
+Gregory~
+Gregory~
+Gregory is here.
+~
+Gregory is a young man in the guard.  Ruggedly handsome and quick of wit
+and sword, he makes for a fine figure of a man.  He is deeply in love with
+Lady Cecelia and will protect her to whatever extent he can.  
+~
+unique~
+ABCT DFJVZ 0 0
+24 20 450d1+1 450d1+1 5d5+23 pierce
+-20 -20 -20 -20
+DEFIKOR AB CDL 0
+stand stand male 0
+ABHMV ABCDEFGHIJKQ medium unknown
+#34116
+sir blays landsgrave~
+Sir Blays~
+Sir Blays is here, conspiring.
+~
+Sir Blays represents the Gold Barons of the Forest Kingdom.  He is here
+now to discuss disposing the current king and seat Prince Harald as a
+figurehead puppet.  While essential a fair man, he sees a need to remove
+King Roland from power, no matter what the cost.  Fear motivates him.  
+~
+unique~
+ABCT DFHJVZc -1000 0
+50 5 500d1+1 500d1+1 5d10+1 slice
+-20 -20 -20 -20
+DEFHKOV AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#34117
+sir bedivere landsgrave~
+Sir Bedivere~
+Sir Bedivere is here, conspiring.
+~
+Sir Bedivere represents the Copper Barons of the Forest Kingdom.  He is a
+large and unstable man, willing to die for his cause.  He conspires with the
+other Landsgraves and Barons to depose the current King and place Harald
+upon the throne as a figurehead puppet.  
+~
+unique~
+ABCT DFHJVZ -1000 0
+55 5 600d1+1 600d1+1 6d5+3 crush
+-25 -25 -25 -25
+DEFHKOV AB CDEFG 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant unknown
+#34118
+sir guillam landsgrave~
+Sir Guillam~
+Sir Guillam is here, conspiring.
+~
+Sir Guillam is a slight man that represents the Silver Barons.  He is
+also a Bladesmaster, almost unbeatable with a sword in his hand.  He
+conspires to depose of King Roland and install Harald as a figurehead
+puppet.  
+~
+unique~
+ABCT DFHJVZc -1000 0
+60 10 600d1+1 600d1+1 7d5+5 pierce
+-30 -30 -30 -30
+DEFHJKOV AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#34119
+lord vivian~
+Lord Vivian~
+Lord Vivian is here.
+~
+Lord Vivian is in charge of the castle guards while the Champion is away.
+He wishes to become the High Commander of the Guard, and so plots with the
+other conspirators to overthrow King Roland.  
+~
+unique~
+ABCT DFHJVZc 0 0
+49 4 490d1+1 490d1+1 5d5+5 pierce
+-25 -25 -25 -25
+EFJKNO AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#34120
+lord rakel~
+Lord Rakel~
+Lord Rakel is drinking punch here.
+~
+Lord Rakel is one of the local nobles, a short portly man that enjoys
+drinking a little TOO much.  Right now he is busy guzzling as much alcholoic
+party punch as he can get his pudgy fingers around.  
+~
+unique~
+ABCT DFJVZc 0 0
+45 5 430d1+1 430d1+1 5d5+2 slice
+-20 -20 -20 -20
+DEFHKNOV AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#34121
+Minister Rabber~
+Minister Rabber~
+Minister Rabber is here, talking animatedly.
+~
+Minister Rabber is a medium sized man with long black hair tied back
+fashionably in a ponytail.  He enjoys all the Royal parties and attends each
+one with a vengeance.  
+~
+unique~
+ABCT DFJVZc 0 0
+45 5 430d1+1 430d1+1 5d6+2 slice
+-20 -20 -20 -20
+DEFHKNOV AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#34122
+Duchess Willamsby~
+Duchess Willamsby~
+Duchess Willamsby is here, being fashionable.
+~
+Duchess Willamsby is a haughty, arrogant woman, with dreams of grandeur. 
+As she stalks about the hall, she tries to make sure everyone notices the
+sequinned party gown she has on.  
+~
+unique~
+ABCT DFJVZc 0 0
+24 5 300d1+1 300d1+1 5d2+2 slice
+-20 -20 -20 -20
+DEFHKNOV AB CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#34123
+Lord Mykal~
+Lord Mykal~
+Lord Mykal is here.
+~
+Lord Mykal is a smallish man who enthusiastically attends every social
+function.  He flirts incessantly with all the women, trying to find himself
+a suitable match.  
+~
+unique~
+ABCT DFJVZc 0 0
+24 2 300d1+1 300d1+1 5d2+20 slice
+-2 -2 -2 -20
+DEFHKNOV AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#34124
+count christopher~
+Count Christopher~
+Count Christopher is here.
+~
+Count Christopher is the big talking dreamer with grand ideas.  He
+attends the parties at Forest Castle, hoping to find supporters and
+contributors.  
+~
+unique~
+ABCT DFJVZc 0 0
+24 2 300d1+1 300d1+1 5d1+20 slice
+-2 -2 -2 -20
+DEFHKNOV AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#34125
+Lady Flynn~
+Lady Flynn~
+Lady Flynn is dancing here.
+~
+Lady Flynn is the widowed wife of a noble.  She searches for a new
+husband to provide her with more wealth.  
+~
+unique~
+ABCT DFJVZc 0 0
+24 5 400d1+1 400d1+1 5d1+20 slice
+-2 -2 -2 -20
+DEFHKNOV AB CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#34126
+captain hawk~
+Captain Hawk~
+Captain Hawk is here, fixing you with his one eyed glare.
+~
+Captain Hawk is a captain of the guard in the city of Calinth.  Originally
+from the Forest Kingdom, he has returned to take watch over this party. 
+Once a tall, dark, and handsome man, he is now older and become fatter.  One
+of his eyes is missing, covered with a single black eyepatch, but the gleam
+in his remaining eye tells you that you better not mess with him.  
+~
+unique~
+ABCT DFHJVZc 1000 0
+66 10 600d1+1 600d1+1 7d5+5 slice
+-3 -5 -5 -5
+DEFHKNOV AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#34127
+captain fisher~
+Captain Fisher~
+Captain Fisher is here, watching you closely.
+~
+Captain Fisher is Hawk's wife an a captain of the city guard in Calinth. 
+She has accompanied her husband in watching over the party at Forest Castle.
+She is a tall blonde woman, with striking features and a glint in her eyes
+that makes you shiver.  
+~
+unique~
+ABCT DFHJVZc 1000 0
+60 0 600d1+1 610d1+1 7d5+40 pierce
+-10 -10 -10 -4
+DEFHKNOV AB CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#34128
+giles dancer~
+The Dancer~
+Giles Dancer is here, watching you.
+~
+Giles Dancer is one of the rangers of the Forest Kingdom.  He is Jessica
+Flint's partner and a Bladesmaster as well.  He is a tad shorter than
+average with a slight build and a flat, bland face that would blend in any
+crowd.  
+~
+unique~
+ABCT DFHJVZc 0 0
+55 1 500d1+1 550d1+1 7d5+50 slice
+-3 -3 -3 -10
+DEFHKNOV AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#34129
+jessica flint~
+Jessica Flint~
+Jessica Flint is here, watching you.
+~
+Jessica Flint is a good looking brunette in her late twenties.  She is a
+little over average height, wears her hair cropped like a man's, and has a
+figure that would be considered voluptuous if she wasn't so muscular.  She
+is a trained swordswoman and looks like it.  
+~
+unique~
+ABCT DFHJVZc 100 0
+53 10 530d1+1 530d1+1 6d6+5 slice
+-3 -3 -3 -3
+DEFHKNOV AB CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#34130
+duncan macneil~
+Duncan MacNeil~
+Duncan MacNeil is here.
+~
+Duncan MacNeil is one of the group leaders of the Rangers of the Forest
+Kingdom.  He is a tall and muscular man in his late twenties, a well trained
+swordsman who lied about his age to get into the guard.  
+~
+unique~
+ABCT DFHJVZc 0 0
+56 6 600d1+1 600d1+1 7d4+4 slice
+-3 -3 -3 -10
+DEFHKNOV AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#34131
+constance~
+Constance~
+Constance is here, watching you.
+~
+Constance is one of the Rangers of the Forest Kingdom.  Trained at the
+Academy of the Sisters of the Moon, she is a formidable witch.  She wishes
+to impressed Duncan MacNeil, and he is one of the main reasons why she
+joined the Rangers.  
+~
+unique~
+ABCT DFHJVZc 100 0
+50 7 500d1+1 500d1+1 6d2+10 none
+-2 -2 -2 -2
+DEFHKNOV AB CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#34132
+Duchess Blacker~
+Duchess Blacker~
+Duchess Blacker is here.
+~
+Duchess Blacker is a small woman with not much to do.  In her late
+sixties, she is old and tired.  
+~
+unique~
+ABCT DFJVZc 0 0
+45 2 400d1+1 300d1+1 5d2+20 slice
+-2 -2 -2 -2
+DEFHKNOV AB CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#34133
+Lord Birden~
+Lord Birden~
+Lord Birden is here.
+~
+~
+unique~
+ABCT DFJVZc 0 0
+45 5 430d1+1 430d1+1 5d10+1 slice
+-2 -2 -2 -20
+DEFHKNOV AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#34134
+Lord Travest~
+Lord Travest~
+Lord Travest is here.
+~
+~
+unique~
+ABCT DFJVZc 0 0
+45 2 300d1+1 300d1+1 5d10+2 slice
+-2 -2 -2 -20
+DEFHKNOV AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#34135
+Sir Wells~
+Sir Wells~
+Sir Wells is here.
+~
+~
+unique~
+ABCT DFJVZc 0 0
+45 2 430d1+1 430d1+1 5d1+20 slice
+-2 -2 -2 -20
+DEFHKNOV AB CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#34136
+guest royal~
+a royal guest~
+A royal guest is here.
+~
+This person is a royal guest of the Forest Castle.  
+~
+unique~
+ABCT DFJVZc 0 0
+24 0 200d1+1 200d1+1 5d3+20 slice
+-2 -2 -2 -2
+DEFHKNOV 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#34137
+prince harald~
+Prince Harald~
+Prince Harald is here.
+~
+Prince Harald, like the rest of the Royal family, knows his duty.  While
+sometimes seeming to be a total prick, he does seem to do his job well.  He
+is the oldest son of King Roland, and although he does not seem to bear
+anyone except his younger brother, Rupert, malice, at times he seems to have
+his own agenda.  
+~
+unique~
+ABCT DFHJVZc 0 0
+70 3 3000d1+1 3000d1+1 7d9+1 slice
+-3 -3 -3 -35
+DEFHKNORV AB CDL C
+stand stand male 0
+ABHMV ABCDEFGHIJKQ medium unknown
+#34138
+sir seneschal~
+Sir Seneschal~
+The royal Seneschal is here, exploring.
+~
+The royal Seneschal is in charge of the domestic services of the castle. 
+This old man is currently exploring the lost South Wing of Forest Castle. 
+Haughty and arrogant, he is sure of foot and senses and is almost completely
+oblivious to any threats about him.  
+~
+unique~
+ABCT DFHJVZc 0 0
+60 9 600d1+1 600d1+1 6d3+35 slice
+-4 -4 -4 -40
+DEFHKNORV AB CDL C
+stand stand male 0
+ABHMV ABCDEFGHIJKQ medium unknown
+#34139
+bodeen~
+Bodeen~
+Bodeen is here.
+~
+Bodeen is one of the castle guard, assigned to help the Seneschal explore
+the South Wing.  He is a strong man, willing to help, but is also in need of
+money.  
+~
+unique~
+ABCT DFHJVZc 0 0
+65 9 600d1+1 600d1+1 6d5+4 slice
+-4 -4 -4 -40
+DEFHKNORV AB CDL C
+stand stand male 0
+ABHMV ABCDEFGHIJKQ medium unknown
+#34140
+julia princess~
+Princess Julia~
+Princess Julia is here, exploring.
+~
+Princess Julia is a handsome woman, medium height with long blonde hair. 
+She has a strong jaw, set with determination.  Originally from Hillsdown,
+she was sent off to be eaten by a dragon when it was learned that she was
+not a virgin.  Rescued by Prince Rupert, she fell in love with him, only to
+find that she was engaged to Prince Harald.  
+~
+unique~
+ABCT DFHJVZc 1000 0
+70 17 900d1+1 900d1+1 7d5+5 slice
+-8 -4 -4 -4
+DEFHKNORV AB CDL C
+stand stand female 0
+ABHMV ABCDEFGHIJKQ medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#34100
+The Path to Forest Castle~
+You are walking along a small path that leads north towards a small
+castle.  The turrets fly multicolored banners, flapping in the wind.  The
+moat is to the north, and you wonder if you would be welcome there.  The way
+back from the castle is to the east.  
+~
+0 0 2
+D0
+~
+~
+0 0 34101
+S
+#34101
+The Moat~
+You have reached the moat of the Forest Castle.  Luckily the drawbridge
+has been lowered, as the greenish slime that passes as the water in the moat
+does not look all that safe.  You sense a presence within the water.  
+~
+0 4 2
+D0
+~
+~
+0 0 34103
+D2
+~
+~
+0 0 34100
+D5
+~
+~
+0 0 34102
+S
+#34102
+Inside the Moat~
+You are swimming inside the moat of the Forest Castle.  Something rather
+large brushes your leg, but it is rather hard to see what it was. 
+Remembering that whatever lives in the moat most likely was placed there to
+discourage intruders, you wonder if it would be more prudent to leave.  
+~
+0 0 6
+D4
+~
+~
+0 0 34101
+S
+#34103
+The Entrance to Forest Castle~
+You have reached the outer gates to the Forest Castle.  The castle itself
+has been built from slabs of solid rock, fashioned into a strong fortress. 
+Its spires and towers are somewhat inspiring, but all in all the castle
+seems rather small from the outside.  You wonder if it is more impressive
+inside.  There is a small plaque bolted to the side of the gates.  
+~
+0 0 0
+E
+plaque~
+The plaque reads "This area, along with some of the connecting areas, is
+based upon Simon R Green's book 'Blue Moon Rising' and other books he has
+written.  -- Genjuro 
+~
+D0
+~
+~
+0 0 34104
+D2
+~
+~
+0 0 34101
+S
+#34104
+The Main Gates~
+You have reached the main gates of Forest Castle.  These gates are huge,
+easily twenty feet tall, and tower above you.  They have been cast from an
+steel alloy and are about a foot thick.  It would take a number of men to
+open and shut these gates.  Luckily for you, they are open.  
+~
+0 0 0
+D0
+~
+~
+0 0 34105
+D2
+~
+~
+0 0 34103
+S
+#34105
+The Courtyard~
+You have entered a large courtyard inside the Forest Castle.  The ground
+has been paved with smooth, flat stones, and a number of potted trees grow
+to either side.  The gates that lead outside of the castle are to the south,
+and a set of doors lead the way into the castle to the north.  
+~
+0 4 0
+D0
+~
+entrance~
+1 0 34106
+D2
+~
+~
+0 0 34104
+S
+#34106
+The Entrance Hall~
+You are standing inside a spacious entrance hall within Forest Castle. 
+Colorful banners and elegant tapestries line the walls all about you and the
+windows let in a cool breeze.  Slow burning torches gutter lightly in the
+wind but remain steady enough to provide a constant light.  
+~
+0 0 0
+D0
+~
+~
+0 0 34107
+D2
+~
+~
+1 0 34105
+S
+#34107
+The Foyer of Forest Castle~
+You are inside the main foyer of Forest Castle.  Huge stone pillars and
+columns support the high ceilings with elegance and grace as well as
+strength.  A number of paintings of past kings and royal family members hang
+upon the walls and a large silver brazier in the center of the room glows
+brightly, filling the room with a luminescent light.  
+~
+0 0 0
+D0
+~
+~
+0 0 34108
+D2
+~
+~
+0 0 34106
+D4
+~
+~
+0 0 34144
+S
+#34108
+The Intersection~
+You are at an intersection on the main floor of Forest Castle.  Two
+hallways meet here, from south to north and east to west.  A few tapestries
+and paintings hang upon the walls, depicting loyal nobles and barons.  The
+main foyer is to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 34109
+D1
+~
+~
+0 0 34129
+D2
+~
+~
+0 0 34107
+D3
+~
+~
+0 0 34126
+S
+#34109
+The Northern Hallway~
+You are at the northern part of the hallway on the main floor of Forest
+Castle.  There are doors to the east and west and another door that leads
+outside to the north.  Two torches set on either wall provide the lighting
+and you can see that this section of the hall is as well kept as the rest of
+the castle.  A set of stairs lead up to a door above here.  
+~
+0 0 0
+D0
+~
+outside~
+1 0 34112
+D1
+~
+bedroom~
+1 0 34111
+D2
+~
+~
+0 0 34108
+D3
+~
+bedroom~
+1 0 34110
+D4
+~
+guard~
+1 0 34166
+S
+#34110
+The Servants' Quarters~
+You have entered the servants' quarters inside Forest Castle.  A number
+of beds are lined up along the wall, along with large chests and dressers
+for clothes and other possessions.  
+~
+0 0 0
+D1
+~
+~
+1 0 34109
+S
+#34111
+The Servants' Quarters~
+You have entered the servants' quarters inside Forest Castle.  A number
+of beds are lined up along the wall, along with large chests and dressers
+for clothes and other possessions.  
+~
+0 0 0
+D3
+~
+~
+1 0 34109
+S
+#34112
+Path to the Stables~
+You are walking along a well kept dirt path that leads from Forest Castle
+to the stables.  Fields of green lawn are to either side of the path and
+spruce trees grow periodically.  You can smell the scent of horses to the
+north, getting stronger with each step closer.  
+~
+0 0 2
+D0
+~
+~
+0 0 34113
+D2
+~
+~
+1 0 34109
+S
+#34113
+Path to the Stables~
+You are walking along a well kept dirt path that leads from Forest Castle
+to the stables.  Fields of green lawn are to either side of the path and
+spruce trees grow periodically.  You can smell the scent of horses to the
+north, getting stronger with each step closer.  
+~
+0 0 2
+D0
+~
+~
+0 0 34114
+D2
+~
+~
+0 0 34112
+S
+#34114
+Path to the Stables~
+You are walking along a well kept dirt path that leads from Forest Castle
+to the stables.  Fields of green lawn are to either side of the path and
+spruce trees grow periodically.  You can smell the scent of horses to the
+north, getting stronger with each step closer.  
+~
+0 0 2
+D0
+~
+~
+0 0 34115
+D2
+~
+~
+0 0 34113
+S
+#34115
+Entrance to the Stables~
+You have reached the entrance to the stables.  The stables are housed
+within a large building constructed of wood.  Bales of hay and sacks of
+grain line the walls, protected from rain by a large overhang above them.  A
+number of tomcats prowl about, searching for mice.  
+~
+0 0 0
+D0
+~
+~
+0 0 34116
+D2
+~
+~
+0 0 34114
+S
+#34116
+The Stables~
+You are walking inside the royal stables of Forest Castle.  Stalls line
+the stables on the west and east.  A long iron water trough fills the center
+walkway with cool water.  The floor is covered with stray pieces of hay and
+a pail of oats hangs from each stall door.  
+~
+0 0 2
+D0
+~
+~
+0 0 34117
+D1
+~
+stall~
+1 0 34125
+D2
+~
+~
+0 0 34115
+D3
+~
+stall~
+1 0 34124
+S
+#34117
+The Stables~
+You are walking inside the royal stables of Forest Castle.  Stalls line
+the stables on the west and east.  A long iron water trough fills the center
+walkway with cool water.  The floor is covered with stray pieces of hay and
+a pail of oats hangs from each stall door.  
+~
+0 0 2
+D0
+~
+~
+0 0 34118
+D1
+~
+stall~
+1 0 34123
+D2
+~
+~
+0 0 34116
+D3
+~
+stall~
+1 0 34122
+S
+#34118
+The Stables~
+You are walking inside the royal stables of Forest Castle.  Stalls line
+the stables on the west and east.  A long iron water trough fills the center
+walkway with cool water.  The floor is covered with stray pieces of hay and
+a pail of oats hangs from each stall door.  
+~
+0 0 2
+D0
+~
+~
+0 0 34119
+D1
+~
+stall~
+1 0 34121
+D2
+~
+~
+0 0 34117
+D3
+~
+stall~
+1 0 34120
+S
+#34119
+Outside the Royal Stables~
+You are walking along a dirt path outside of the royal stables of Forest
+Castle.  The path leads north from here, into the fields of grass that
+stretch out towards the Tanglewood.  To the south are the stables.  
+~
+0 0 2
+D0
+~
+~
+0 0 34370
+D2
+~
+~
+0 0 34118
+S
+#34120
+A Stall~
+You are inside a stall within the stables of Forest Castle.  This stall
+houses the royal riding animals of the royalty.  A few thick blankets hang
+upon the stall doors, ready to give the riding beasts a rubdown if they need
+it.  A thick brush and riding tackle also hang from pegs inside the stall.  
+~
+0 0 2
+D1
+~
+~
+1 0 34118
+S
+#34121
+A Stall~
+You are inside a stall within the stables of Forest Castle.  This stall
+houses the royal riding animals of the royalty.  A few thick blankets hang
+upon the stall doors, ready to give the riding beasts a rubdown if they need
+it.  A thick brush and riding tackle also hang from pegs inside the stall.  
+~
+0 0 2
+D3
+~
+~
+1 0 34118
+S
+#34122
+A Stall~
+You are inside a stall within the stables of Forest Castle.  This stall
+houses the royal riding animals of the royalty.  A few thick blankets hang
+upon the stall doors, ready to give the riding beasts a rubdown if they need
+it.  A thick brush and riding tackle also hang from pegs inside the stall.  
+~
+0 0 2
+D1
+~
+~
+1 0 34117
+S
+#34123
+A Stall~
+You are inside a stall within the stables of Forest Castle.  This stall
+houses the royal riding animals of the royalty.  A few thick blankets hang
+upon the stall doors, ready to give the riding beasts a rubdown if they need
+it.  A thick brush and riding tackle also hang from pegs inside the stall.  
+~
+0 0 2
+D3
+~
+~
+1 0 34117
+S
+#34124
+A Stall~
+You are inside a stall within the stables of Forest Castle.  This stall
+houses the royal riding animals of the royalty.  A few thick blankets hang
+upon the stall doors, ready to give the riding beasts a rubdown if they need
+it.  A thick brush and riding tackle also hang from pegs inside the stall.  
+~
+0 0 2
+D1
+~
+~
+1 0 34116
+S
+#34125
+A Stall~
+You are inside a stall within the stables of Forest Castle.  This stall
+houses the royal riding animals of the royalty.  A few thick blankets hang
+upon the stall doors, ready to give the riding beasts a rubdown if they need
+it.  A thick brush and riding tackle also hang from pegs inside the stall.  
+~
+0 0 2
+D3
+~
+~
+1 0 34116
+S
+#34126
+The Guest Hall~
+You are walking along a west-east hallway on the main floor of Forest
+Castle.  This hallway houses the guest rooms for visitors to the Forest
+Castle with royal invitations.  The floor is carpeted with a lush blue
+carpet and fine paintings hang upon the walls.  A small torch is set into
+the walls outside each guest room door.  
+~
+0 0 0
+D0
+~
+guest~
+1 0 34138
+D1
+~
+~
+0 0 34108
+D2
+~
+guest~
+1 0 34139
+D3
+~
+~
+0 0 34127
+S
+#34127
+The Guest Hall~
+You are walking along a west-east hallway on the main floor of Forest
+Castle.  This hallway houses the guest rooms for visitors to the Forest
+Castle with royal invitations.  The floor is carpeted with a lush blue
+carpet and fine paintings hang upon the walls.  A small torch is set into
+the walls outside each guest room door.  
+~
+0 0 0
+D0
+~
+guest~
+1 0 34140
+D1
+~
+~
+0 0 34126
+D2
+~
+guest~
+1 0 34141
+D3
+~
+~
+0 0 34128
+S
+#34128
+The Guest Hall~
+You are walking along a west-east hallway on the main floor of Forest
+Castle.  This hallway houses the guest rooms for visitors to the Forest
+Castle with royal invitations.  The floor is carpeted with a lush blue
+carpet and fine paintings hang upon the walls.  A small torch is set into
+the walls outside each guest room door.  A small set of stairs leads down
+from here.  
+~
+0 0 0
+D0
+~
+guest~
+1 0 34142
+D1
+~
+~
+0 0 34127
+D2
+~
+guest~
+1 0 34143
+D5
+~
+dungeon~
+1 0 34268
+S
+#34129
+The Guest Hall~
+You are walking along a west-east hallway on the main floor of Forest
+Castle.  This hallway houses the guest rooms for visitors to the Forest
+Castle with royal invitations.  The floor is carpeted with a lush blue
+carpet and fine paintings hang upon the walls.  A small torch is set into
+the walls outside each guest room door.  
+~
+0 0 0
+D0
+~
+guest~
+1 0 34136
+D1
+~
+~
+0 0 34130
+D2
+~
+guest~
+1 0 34137
+D3
+~
+~
+0 0 34108
+S
+#34130
+The Guest Hall~
+You are walking along a west-east hallway on the main floor of Forest
+Castle.  This hallway houses the guest rooms for visitors to the Forest
+Castle with royal invitations.  The floor is carpeted with a lush blue
+carpet and fine paintings hang upon the walls.  A small torch is set into
+the walls outside each guest room door.  
+~
+0 0 0
+D0
+~
+guest~
+1 0 34134
+D1
+~
+~
+0 0 34131
+D2
+~
+guest~
+1 0 34135
+D3
+~
+~
+0 0 34129
+S
+#34131
+The Guest Hall~
+You are walking along a west-east hallway on the main floor of Forest
+Castle.  This hallway houses the guest rooms for visitors to the Forest
+Castle with royal invitations.  The floor is carpeted with a lush blue
+carpet and fine paintings hang upon the walls.  A small torch is set into
+the walls outside each guest room door.  A small set of stairs leads down
+from here.  
+~
+0 0 0
+D0
+~
+guest~
+1 0 34132
+D2
+~
+guest~
+1 0 34133
+D3
+~
+~
+0 0 34130
+D5
+~
+dungeon~
+1 0 34262
+S
+#34132
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.  A
+massive full length mirror sits on the opposite wall and a small brazier has
+been lit in the corner of the room.  
+~
+0 0 0
+D2
+~
+~
+1 0 34131
+S
+#34133
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.  A
+massive full length mirror sits on the opposite wall and a small brazier has
+been lit in the corner of the room.  
+~
+0 0 0
+D0
+~
+~
+1 0 34131
+S
+#34134
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.  A
+massive full length mirror sits on the opposite wall and a small brazier has
+been lit in the corner of the room.  
+~
+0 0 0
+D2
+~
+~
+1 0 34130
+S
+#34135
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.  A
+massive full length mirror sits on the opposite wall and a small brazier has
+been lit in the corner of the room.  
+~
+0 0 0
+D0
+~
+~
+1 0 34130
+S
+#34136
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.  A
+massive full length mirror sits on the opposite wall and a small brazier has
+been lit in the corner of the room.  
+~
+0 0 0
+D2
+~
+~
+1 0 34129
+S
+#34137
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.  A
+massive full length mirror sits on the opposite wall and a small brazier has
+been lit in the corner of the room.  
+~
+0 0 0
+D0
+~
+~
+1 0 34129
+S
+#34138
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.  A
+massive full length mirror sits on the opposite wall and a small brazier has
+been lit in the corner of the room.  
+~
+0 0 0
+D2
+~
+~
+1 0 34126
+S
+#34139
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.  A
+massive full length mirror sits on the opposite wall and a small brazier has
+been lit in the corner of the room.  
+~
+0 0 0
+D0
+~
+~
+1 0 34126
+S
+#34140
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.  A
+massive full length mirror sits on the opposite wall and a small brazier has
+been lit in the corner of the room.  
+~
+0 0 0
+D2
+~
+~
+1 0 34127
+S
+#34141
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.  A
+massive full length mirror sits on the opposite wall and a small brazier has
+been lit in the corner of the room.  
+~
+0 0 0
+D0
+~
+~
+1 0 34127
+S
+#34142
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.  A
+massive full length mirror sits on the opposite wall and a small brazier has
+been lit in the corner of the room.  
+~
+0 0 0
+D2
+~
+~
+1 0 34128
+S
+#34143
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.  A
+massive full length mirror sits on the opposite wall and a small brazier has
+been lit in the corner of the room.  
+~
+0 0 0
+D0
+~
+~
+1 0 34128
+S
+#34144
+The Second Floor~
+You have reached the second floor of Forest Castle.  Coats of arms and
+other sigils of the barons and nobles hang high upon the stone walls.  A
+huge fireplace lights the room and fills it with gentle warmth.  Rugs made
+from animal furs lie upon the floor and a number of comfortable couches and
+chairs have been placed here for your comfort.  
+~
+0 0 0
+D0
+~
+~
+0 0 34146
+D1
+~
+banquet~
+1 0 34149
+D2
+~
+banquet~
+1 0 34145
+D3
+~
+banquest~
+1 0 34150
+D4
+~
+~
+0 0 34151
+D5
+~
+~
+0 0 34107
+S
+#34145
+The Cherrywood Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor, surrounded
+with high back chairs.  Lights fills the room from the many braziers lit on
+small shelves inset into the stone walls.  Upon each wall hangs a banner of
+Forest Castle.  
+~
+0 0 0
+D0
+~
+~
+1 0 34144
+S
+#34146
+The Antechamber~
+You are in a large chamber that serves as the waiting room to the Throne.
+A comfortable bench is here and fine paintings oof the past members of
+royalty hang upon the walls.  Several of these paintings have gaping knife
+marks, as if someone has been using them for target practice.  
+~
+0 0 0
+D0
+~
+north~
+1 0 34147
+D2
+~
+~
+0 0 34144
+S
+#34147
+The Great Hall~
+You are standing in the Great Hall of Forest Castle.  Half a hundred
+glowing foxfire lamps provide silver lighting for the entire Hall.  On the
+far side of the Hall, the gorgeous stained-glass windows lets the outside
+light fall upon the massive throne, set high on a raised dais and carved in
+its entirity from a single block of oak.  
+~
+0 4 0
+D0
+~
+~
+0 0 34148
+D2
+~
+~
+1 0 34146
+S
+#34148
+Before the Throne~
+You stand before the throne of the Forest Kingdom.  The throne itself is
+a massive chair carved from a single block of oak.  The light from the
+foxfire lamps makes the throne glow with a silvery light and the stained
+glass windows offset the silver with a bluish cast.  A decorous banner
+behind the throne bears the sigil of the Forest Kingdom.  
+~
+0 4 0
+D2
+~
+~
+0 0 34147
+S
+#34149
+The Pine Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor, surrounded
+with high back chairs.  Light fills the room from the many braziers lit on
+small shelves inset into the stone walls.  Upon each wall hangs a banner of
+Forest Castle.  
+~
+0 0 0
+D3
+~
+~
+1 0 34144
+S
+#34150
+The Spruce Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor, surrounded
+with high back chairs.  Light fills the room from the many braziers lit on
+small shelves inset into the stone walls.  Upon each wall hangs a banner of
+Forest Castle.  
+~
+0 0 0
+D1
+~
+~
+1 0 34144
+S
+#34151
+The Third Floor~
+You have reached the third floor of Forest Castle.  Coats of arms and
+other sigils of the barons and nobles hang high upon the stone walls. 
+Massive wooden doors surround you at each entrance north, south, east, and
+west.  Loud music and incessant talking can be heard all around and the
+smell of food permeates the air.  
+~
+0 0 0
+D0
+~
+ballroom~
+1 0 34155
+D1
+~
+banquet~
+1 0 34153
+D2
+~
+banquet~
+1 0 34152
+D3
+~
+banquet~
+1 0 34154
+D4
+~
+~
+0 0 34156
+D5
+~
+~
+0 0 34144
+S
+#34152
+The Oak Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor, surrounded
+with high back chairs.  Light fills the room from the many braziers lit on
+small shelves inset into the stone walls.  Upon each wall hangs a banner of
+Forest Castle.  
+~
+0 0 0
+D0
+~
+~
+1 0 34151
+S
+#34153
+The Rowan Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor, surrounded
+with high back chairs.  Light fills the room from the many braziers lit on
+small shelves inset into the stone walls.  Upon each wall hangs a banner of
+Forest Castle.  
+~
+0 0 0
+D3
+~
+~
+1 0 34151
+S
+#34154
+The Fir Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor, surrounded
+with high back chairs.  Light fills the room from the many braziers lit on
+small shelves inset into the stone walls.  Upon each wall hangs a banner of
+Forest Castle.  
+~
+0 0 0
+D1
+~
+~
+1 0 34151
+S
+#34155
+The Carnation Hall~
+You have entered a huge and spacious ballroom in Forest Castle.  The
+floor has been covered with a polished white marble and the ceiling with a
+massive circular mirror.  Foxfire lamps fill the room with silver light,
+seeming to enhance the music being played by the minstrels sitting in the
+corner.  
+~
+0 0 0
+D2
+~
+~
+1 0 34151
+S
+#34156
+The Fourth Floor~
+You have reached the fourth floor of Forest Castle.  A number of small
+windows cuts into the corners show a magnificent view of the Forest Kingdom.
+The sounds of music and festivities fill the room, along with the smells of
+food.  There must be quite a party going on.  
+~
+0 0 0
+D0
+~
+ballroom~
+1 0 34160
+D1
+~
+banquet~
+1 0 34158
+D2
+~
+banquet~
+1 0 34157
+D3
+~
+banquet~
+1 0 34159
+D4
+~
+~
+0 0 34161
+D5
+~
+~
+0 0 34151
+S
+#34157
+The Ash Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor, surrounded
+with high back chairs.  Light fills the room from the many braziers lit on
+small shelves inset into the stone walls.  Upon each wall hangs a banner of
+Forest Castle.  
+~
+0 0 0
+D0
+~
+~
+1 0 34156
+S
+#34158
+The Acorn Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor, surrounded
+with high back chairs.  Light fills the room from the many braziers lit on
+small shelves inset into the stone walls.  Upon each wall hangs a banner of
+Forest Castle.  
+~
+0 0 0
+D3
+~
+~
+1 0 34156
+S
+#34159
+The Willow Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor, surrounded
+with high back chairs.  Light fills the room from the many braziers lit on
+small shelves inset into the stone walls.  Upon each wall hangs a banner of
+Forest Castle.  
+~
+0 0 0
+D1
+~
+~
+1 0 34156
+S
+#34160
+The Tulip Hall~
+You have entered a huge and spacious ballroom in Forest Castle.  The
+floor has been covered with a polished white marble and the ceiling with a
+massive circular mirror.  Foxfire lamps fill the room with silver light,
+seeming to enhance the music being played by the minstrels sitting in the
+corner.  
+~
+0 0 0
+D2
+~
+~
+1 0 34156
+S
+#34161
+The Fifth Floor~
+You have reached the fifth floor of Forest Castle.  This castle seems
+incredible large from the inside and you can only wonder how they managed to
+make the castle look so small from the outside.  An ornate full length
+mirror is set into the ceiling and a number of foxfire lamps glow silvery
+light througout the room.  
+~
+0 0 0
+D0
+~
+ballroom~
+1 0 34165
+D1
+~
+banquet~
+1 0 34163
+D2
+~
+banquet~
+1 0 34162
+D3
+~
+banquet~
+1 0 34164
+D4
+~
+~
+0 0 34167
+D5
+~
+~
+0 0 34156
+S
+#34162
+The Gold Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor, surrounded
+with high back chairs.  Light fills the room from the many braziers lit on
+small shelves inset into the stone walls.  Upon each wall hangs a banner of
+Forest Castle.  
+~
+0 0 0
+D0
+~
+~
+1 0 34161
+S
+#34163
+The Silver Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor, surrounded
+with high back chairs.  Light fills the room from the many braziers lit on
+small shelves inset into the stone walls.  Upon each wall hangs a banner of
+Forest Castle.  
+~
+0 0 0
+D3
+~
+~
+1 0 34161
+S
+#34164
+The Copper Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor, surrounded
+with high back chairs.  Light fills the room from the many braziers lit on
+small shelves inset into the stone walls.  Upon each wall hangs a banner of
+Forest Castle.  
+~
+0 0 0
+D1
+~
+~
+1 0 34161
+S
+#34165
+The Rose Hall~
+You have entered a huge and spacious ballroom in Forest Castle.  The
+floor has been covered with a polished white marble and the ceiling with a
+massive circular mirror.  Foxfire lamps fill the room with silver light,
+seeming to enhance the music being played by the minstrels sitting in the
+corner.  
+~
+0 0 0
+D2
+~
+~
+1 0 34161
+S
+#34166
+The Guards' Quarters~
+You have entered a huge hall that serves as the guards' barracks.  A
+number of utilitarian cots serve as the beds for the guards of Forest
+Castle.  Each cot has a small chest before it, to hold a variety of
+possessions.  A medium length mirror is next to the door and a rack to hold
+a hundred swords.  
+~
+0 0 0
+D5
+~
+~
+1 0 34109
+S
+#34167
+The Sixth Floor Intersection~
+You have reached the sixth floor.  This room is the intersection of three
+wings of Forest Castle.  The north, west, and east wings stretch out,
+disappearing to the darkness of each direction.  The south wing, however, is
+not here.  During a freak accident playing with magic, the south wing was
+lost many years ago.  There is simply space to the south, a couple hundred
+foot drop down to the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 34169
+D1
+~
+~
+0 0 34232
+D2
+~
+~
+0 0 34168
+D3
+~
+~
+0 0 34202
+D5
+~
+~
+0 0 34161
+S
+#34168
+Falling~
+You have stupidly stepped south into mid air.  You plummet a couple
+hundred feet, managing to admire the construction of the castle on you way
+down, and finally smash into the courtyard beneath you.  
+~
+0 4 0
+S
+#34169
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor is
+covered with a lush royal blue carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+~
+0 0 34170
+D1
+~
+bedroom~
+1 0 34181
+D2
+~
+~
+0 0 34167
+D3
+~
+bedroom~
+1 0 34180
+S
+#34170
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor is
+covered with a lush royal blue carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+~
+0 0 34171
+D1
+~
+bedroom~
+1 0 34183
+D2
+~
+~
+0 0 34169
+D3
+~
+bedroom~
+1 0 34182
+S
+#34171
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor is
+covered with a lush royal blue carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+~
+0 0 34172
+D1
+~
+bedroom~
+1 0 34185
+D2
+~
+~
+0 0 34170
+D3
+~
+bedroom~
+1 0 34184
+S
+#34172
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor is
+covered with a lush royal blue carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+~
+0 0 34173
+D1
+~
+bedroom~
+1 0 34187
+D2
+~
+~
+0 0 34171
+D3
+~
+bedroom~
+1 0 34186
+S
+#34173
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor is
+covered with a lush royal blue carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+~
+0 0 34174
+D1
+~
+bedroom~
+1 0 34189
+D2
+~
+~
+0 0 34172
+D3
+~
+bedroom~
+1 0 34188
+S
+#34174
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor is
+covered with a lush royal blue carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+~
+0 0 34175
+D1
+~
+bedroom~
+1 0 34191
+D2
+~
+~
+0 0 34173
+D3
+~
+bedroom~
+1 0 34190
+S
+#34175
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor is
+covered with a lush royal blue carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+~
+0 0 34176
+D1
+~
+bedroom~
+1 0 34193
+D2
+~
+~
+0 0 34174
+D3
+~
+bedroom~
+1 0 34192
+S
+#34176
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor is
+covered with a lush royal blue carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+~
+0 0 34177
+D1
+~
+bedroom~
+1 0 34195
+D2
+~
+~
+0 0 34175
+D3
+~
+bedroom~
+1 0 34194
+S
+#34177
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor is
+covered with a lush royal blue carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+~
+0 0 34178
+D1
+~
+bedroom~
+1 0 34197
+D2
+~
+~
+0 0 34176
+D3
+~
+bedroom~
+1 0 34196
+S
+#34178
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor is
+covered with a lush royal blue carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+~
+0 0 34179
+D1
+~
+bedroom~
+1 0 34199
+D2
+~
+~
+0 0 34177
+D3
+~
+bedroom~
+1 0 34198
+S
+#34179
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor is
+covered with a lush royal blue carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+~
+0 0 34176
+D1
+~
+bedroom~
+1 0 34201
+D2
+~
+~
+0 0 34178
+D3
+~
+bedroom~
+1 0 34200
+S
+#34180
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D1
+~
+~
+1 0 34169
+S
+#34181
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D3
+~
+~
+1 0 34169
+S
+#34182
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D1
+~
+~
+1 0 34170
+S
+#34183
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D3
+~
+~
+1 0 34170
+S
+#34184
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D1
+~
+~
+1 0 34171
+S
+#34185
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D3
+~
+~
+1 0 34171
+S
+#34186
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D1
+~
+~
+1 0 34172
+S
+#34187
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D3
+~
+~
+1 0 34172
+S
+#34188
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D1
+~
+~
+1 0 34173
+S
+#34189
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D3
+~
+~
+1 0 34173
+S
+#34190
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D1
+~
+~
+1 0 34174
+S
+#34191
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D3
+~
+~
+1 0 34174
+S
+#34192
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D1
+~
+~
+1 0 34175
+S
+#34193
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D3
+~
+~
+1 0 34175
+S
+#34194
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D1
+~
+~
+1 0 34176
+S
+#34195
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D3
+~
+~
+1 0 34176
+S
+#34196
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D1
+~
+~
+1 0 34177
+S
+#34197
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D3
+~
+~
+1 0 34177
+S
+#34198
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D1
+~
+~
+1 0 34178
+S
+#34199
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D3
+~
+~
+1 0 34178
+S
+#34200
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D1
+~
+~
+1 0 34179
+S
+#34201
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D3
+~
+~
+1 0 34179
+S
+#34202
+The West Wing~
+You are walking along the west wing inside Forest Castle.  The floor is
+covered with a lush royal red carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34212
+D1
+~
+~
+0 0 34167
+D2
+~
+bedroom~
+1 0 34213
+D3
+~
+~
+0 0 34203
+S
+#34203
+The West Wing~
+You are walking along the west wing inside Forest Castle.  The floor is
+covered with a lush royal red carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34214
+D1
+~
+~
+0 0 34202
+D2
+~
+bedroom~
+1 0 34215
+D3
+~
+~
+0 0 34204
+S
+#34204
+The West Wing~
+You are walking along the west wing inside Forest Castle.  The floor is
+covered with a lush royal red carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34216
+D1
+~
+~
+0 0 34203
+D2
+~
+bedroom~
+1 0 34217
+D3
+~
+~
+0 0 34205
+S
+#34205
+The West Wing~
+You are walking along the west wing inside Forest Castle.  The floor is
+covered with a lush royal red carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34218
+D1
+~
+~
+0 0 34204
+D2
+~
+bedroom~
+1 0 34219
+D3
+~
+~
+0 0 34206
+S
+#34206
+The West Wing~
+You are walking along the west wing inside Forest Castle.  The floor is
+covered with a lush royal red carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34220
+D1
+~
+~
+0 0 34205
+D2
+~
+bedroom~
+1 0 34221
+D3
+~
+~
+0 0 34207
+S
+#34207
+The West Wing~
+You are walking along the west wing inside Forest Castle.  The floor is
+covered with a lush royal red carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34222
+D1
+~
+~
+0 0 34206
+D2
+~
+bedroom~
+1 0 34223
+D3
+~
+~
+0 0 34208
+S
+#34208
+The West Wing~
+You are walking along the west wing inside Forest Castle.  The floor is
+covered with a lush royal red carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34224
+D1
+~
+~
+0 0 34207
+D2
+~
+bedroom~
+1 0 34225
+D3
+~
+~
+0 0 34209
+S
+#34209
+The West Wing~
+You are walking along the west wing inside Forest Castle.  The floor is
+covered with a lush royal red carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34226
+D1
+~
+~
+0 0 34208
+D2
+~
+bedroom~
+1 0 34227
+D3
+~
+~
+0 0 34210
+S
+#34210
+The West Wing~
+You are walking along the west wing inside Forest Castle.  The floor is
+covered with a lush royal red carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34228
+D1
+~
+~
+0 0 34209
+D2
+~
+bedroom~
+1 0 34229
+D3
+~
+~
+0 0 34211
+S
+#34211
+The West Wing~
+You are walking along the west wing inside Forest Castle.  The floor is
+covered with a lush royal red carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34230
+D1
+~
+~
+0 0 34210
+D2
+~
+bedroom~
+1 0 34231
+D3
+~
+~
+0 0 34209
+S
+#34212
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34202
+S
+#34213
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34202
+S
+#34214
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34203
+S
+#34215
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34203
+S
+#34216
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34204
+S
+#34217
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34204
+S
+#34218
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34205
+S
+#34219
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34205
+S
+#34220
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34206
+S
+#34221
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34206
+S
+#34222
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34207
+S
+#34223
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34207
+S
+#34224
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34208
+S
+#34225
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34208
+S
+#34226
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34209
+S
+#34227
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34209
+S
+#34228
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34210
+S
+#34229
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34210
+S
+#34230
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34211
+S
+#34231
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34211
+S
+#34232
+The East Wing~
+You are walking along the east wing inside Forest Castle.  The floor is
+covered with a lush royal green carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34242
+D1
+~
+~
+0 0 34233
+D2
+~
+bedroom~
+1 0 34243
+D3
+~
+~
+0 0 34167
+S
+#34233
+The East Wing~
+You are walking along the east wing inside Forest Castle.  The floor is
+covered with a lush royal green carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34244
+D1
+~
+~
+0 0 34234
+D2
+~
+bedroom~
+1 0 34245
+D3
+~
+~
+0 0 34232
+S
+#34234
+The East Wing~
+You are walking along the east wing inside Forest Castle.  The floor is
+covered with a lush royal green carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34246
+D1
+~
+~
+0 0 34235
+D2
+~
+bedroom~
+1 0 34247
+D3
+~
+~
+0 0 34233
+S
+#34235
+The East Wing~
+You are walking along the east wing inside Forest Castle.  The floor is
+covered with a lush royal green carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34248
+D1
+~
+~
+0 0 34236
+D2
+~
+bedroom~
+1 0 34249
+D3
+~
+~
+0 0 34234
+S
+#34236
+The East Wing~
+You are walking along the east wing inside Forest Castle.  The floor is
+covered with a lush royal green carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34250
+D1
+~
+~
+0 0 34237
+D2
+~
+bedroom~
+1 0 34251
+D3
+~
+~
+0 0 34235
+S
+#34237
+The East Wing~
+You are walking along the east wing inside Forest Castle.  The floor is
+covered with a lush royal green carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34252
+D1
+~
+~
+0 0 34238
+D2
+~
+bedroom~
+1 0 34253
+D3
+~
+~
+0 0 34236
+S
+#34238
+The East Wing~
+You are walking along the east wing inside Forest Castle.  The floor is
+covered with a lush royal green carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34254
+D1
+~
+~
+0 0 34239
+D2
+~
+bedroom~
+1 0 34255
+D3
+~
+~
+0 0 34237
+S
+#34239
+The East Wing~
+You are walking along the east wing inside Forest Castle.  The floor is
+covered with a lush royal green carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34256
+D1
+~
+~
+0 0 34240
+D2
+~
+bedroom~
+1 0 34257
+D3
+~
+~
+0 0 34238
+S
+#34240
+The East Wing~
+You are walking along the east wing inside Forest Castle.  The floor is
+covered with a lush royal green carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34258
+D1
+~
+~
+0 0 34241
+D2
+~
+bedroom~
+1 0 34259
+D3
+~
+~
+0 0 34239
+S
+#34241
+The East Wing~
+You are walking along the east wing inside Forest Castle.  The floor is
+covered with a lush royal green carpet and solid oak doors line the hall.  A
+small foxfire lamp hangs outside each door, providing the lighting for your
+endless trek.  It is said that each wing in Forest Castle holds over a
+thousand rooms.  
+~
+0 0 0
+D0
+~
+bedroom~
+1 0 34260
+D1
+~
+~
+0 0 34239
+D2
+~
+bedroom~
+1 0 34261
+D3
+~
+~
+0 0 34240
+S
+#34242
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34232
+S
+#34243
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34232
+S
+#34244
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34233
+S
+#34245
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34233
+S
+#34246
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34234
+S
+#34247
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34234
+S
+#34248
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34235
+S
+#34249
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34235
+S
+#34250
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34236
+S
+#34251
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34236
+S
+#34252
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34237
+S
+#34253
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34237
+S
+#34254
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34238
+S
+#34255
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34238
+S
+#34256
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34239
+S
+#34257
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34239
+S
+#34258
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34240
+S
+#34259
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34240
+S
+#34260
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D2
+~
+~
+1 0 34241
+S
+#34261
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like all
+the others, is organized very neatly.  A large canopy bed sits in the middle
+of the room, surround by an ornately carved wooden dresser, a closet, desk,
+and a vanity mirror.  A small foxfire lamp lights the room, echoing off the
+mirror to illuminate all the walls.  
+~
+0 0 0
+D0
+~
+~
+1 0 34241
+S
+#34262
+The Corridor to the Dungeons~
+You are walking along an ill-kept corridor that leads to the dungeons of
+Forest Castle.  Small torches light your path dimly and you can feel rather
+than see the cobwebs that brush against your feet at every step.  A thick
+layer of dust has accumulated over everything, and you can hear the
+squeaking of rats in the distance.  
+~
+0 1 0
+D3
+~
+~
+0 0 34263
+D4
+~
+~
+1 0 34131
+S
+#34263
+The Corridor to the Dungeons~
+You are walking along an ill-kept corridor that leads to the dungeons of
+Forest Castle.  Small torches light your path dimly and you can feel rather
+than see the cobwebs that brush against your feet at every step.  A thick
+layer of dust has accumulated over everything, and you can hear the
+squeaking of rats in the distance.  
+~
+0 1 0
+D1
+~
+~
+0 0 34262
+D3
+~
+~
+0 0 34264
+S
+#34264
+The Corridor to the Dungeons~
+You are walking along an ill-kept corridor that leads to the dungeons of
+Forest Castle.  Small torches light your path dimly and you can feel rather
+than see the cobwebs that brush against your feet at every step.  A thick
+layer of dust has accumulated over everything, and you can hear the
+squeaking of rats in the distance.  
+~
+0 1 0
+D1
+~
+~
+0 0 34263
+D3
+~
+~
+0 0 34265
+S
+#34265
+The Dungeon Hall~
+You have entered the beginning of the dungeon hall which extends from
+north to south.  A small steel gate is here, closed but unlocked, and almost
+rusting off its hinges.  A small torch gutters at your presence, sending
+flickers of light into the darkness beyond.  
+~
+0 1 0
+D0
+~
+gate~
+1 0 34273
+D1
+~
+~
+0 0 34264
+D2
+~
+gate~
+1 0 34269
+D3
+~
+~
+0 0 34266
+S
+#34266
+The Corridor to the Dungeons~
+You are walking along an ill-kept corridor that leads to the dungeons of
+Forest Castle.  Small torches light your path dimly and you can feel rather
+than see the cobwebs that brush against your feet at every step.  A thick
+layer of dust has accumulated over everything, and you can hear the
+squeaking of rats in the distance.  
+~
+0 1 0
+D1
+~
+~
+0 0 34265
+D3
+~
+~
+0 0 34267
+S
+#34267
+The Corridor to the Dungeons~
+You are walking along an ill-kept corridor that leads to the dungeons of
+Forest Castle.  Small torches light your path dimly and you can feel rather
+than see the cobwebs that brush against your feet at every step.  A thick
+layer of dust has accumulated over everything, and you can hear the
+squeaking of rats in the distance.  
+~
+0 1 0
+D1
+~
+~
+0 0 34266
+D3
+~
+~
+0 0 34268
+S
+#34268
+The Corridor to the Dungeons~
+You are walking along an ill-kept corridor that leads to the dungeons of
+Forest Castle.  Small torches light your path dimly and you can feel rather
+than see the cobwebs that brush against your feet at every step.  A thick
+layer of dust has accumulated over everything, and you can hear the
+squeaking of rats in the distance.  
+~
+0 1 0
+D1
+~
+~
+0 0 34267
+D4
+~
+~
+1 0 34128
+S
+#34269
+The Dungeon Hallway~
+You are walking along the dungeon cells within Forest Castle.  The cells
+line the walls to west and east, while the hallway extends from north to
+south.  The cells look molding and in bad repair, rusting iron bars and damp
+hay stinking up the air.  The dungeon obviously has not been used in quite a
+while.  
+~
+0 1 0
+D0
+~
+~
+1 0 34265
+D1
+~
+cell~
+1 0 34282
+D2
+~
+~
+0 0 34271
+D3
+~
+cell~
+1 0 34283
+S
+#34270
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 34269
+S
+#34271
+The Dungeon Hallway~
+You are walking along the dungeon cells within Forest Castle.  The cells
+line the walls to west and east, while the hallway extends from north to
+south.  The cells look molding and in bad repair, rusting iron bars and damp
+hay stinking up the air.  The dungeon obviously has not been used in quite a
+while.  
+~
+0 1 0
+D0
+~
+~
+0 0 34269
+D1
+~
+cell~
+1 0 34284
+D2
+~
+~
+0 0 34272
+D3
+~
+cell~
+1 0 34285
+S
+#34272
+The Dungeon Cell~
+You are walking along the dungeon cells within Forest Castle.  The cells
+line the walls to west and east, while the hallway extends from north to
+south.  The cells look molding and in bad repair, rusting iron bars and damp
+hay stinking up the air.  The dungeon obviously has not been used in quite a
+while.  
+~
+0 0 0
+D0
+~
+~
+0 0 34271
+D1
+~
+cell~
+1 0 34286
+D3
+~
+cell~
+1 0 34287
+S
+#34273
+The Dungeon Hallway~
+You are walking along the dungeon cells within Forest Castle.  The cells
+line the walls to west and east, while the hallway extends from north to
+south.  The cells look molding and in bad repair, rusting iron bars and damp
+hay stinking up the air.  The dungeon obviously has not been used in quite a
+while.  
+~
+0 1 0
+D0
+~
+~
+0 0 34274
+D1
+~
+cell~
+1 0 34281
+D2
+~
+~
+1 0 34265
+D3
+~
+cell~
+1 0 34280
+S
+#34274
+The Dungeon Hallway~
+You are walking along the dungeon cells within Forest Castle.  The cells
+line the walls to west and east, while the hallway extends from north to
+south.  The cells look molding and in bad repair, rusting iron bars and damp
+hay stinking up the air.  The dungeon obviously has not been used in quite a
+while.  
+~
+0 1 0
+D0
+~
+~
+0 0 34275
+D1
+~
+cell~
+1 0 34279
+D2
+~
+~
+0 0 34273
+D3
+~
+cell~
+1 0 34278
+S
+#34275
+The Dungeon Hallway~
+You are walking along the dungeon cells within Forest Castle.  The cells
+line the walls to west and east, while the hallway extends from north to
+south.  The cells look molding and in bad repair, rusting iron bars and damp
+hay stinking up the air.  The dungeon obviously has not been used in quite a
+while.  
+~
+0 1 0
+D1
+~
+cell~
+1 0 34277
+D2
+~
+~
+0 0 34274
+D3
+~
+cell~
+1 0 34276
+S
+#34276
+The Dungeon Cell~
+You are inside a small cell deep within the dungeon of Forest Castle. 
+This cell is filled with damp hay, molding and rancid with slime and dank
+water.  The cell is barred from outside with iron bars that seem on the
+verge of collapsing from the rust that eat at them from within.  You can
+hear the sounds of rats in the hay, burrowing their nests deep.  
+~
+0 1 0
+D1
+~
+~
+1 0 34275
+S
+#34277
+The Dungeon Cell~
+You are inside a small cell deep within the dungeon of Forest Castle. 
+This cell is filled with damp hay, molding and rancid with slime and dank
+water.  The cell is barred from outside with iron bars that seem on the
+verge of collapsing from the rust that eat at them from within.  You can
+hear the sounds of rats in the hay, burrowing their nests deep.  
+~
+0 1 0
+D3
+~
+~
+1 0 34275
+S
+#34278
+The Dungeon Cell~
+You are inside a small cell deep within the dungeon of Forest Castle. 
+This cell is filled with damp hay, molding and rancid with slime and dank
+water.  The cell is barred from outside with iron bars that seem on the
+verge of collapsing from the rust that eat at them from within.  You can
+hear the sounds of rats in the hay, burrowing their nests deep.  
+~
+0 1 0
+D1
+~
+~
+1 0 34274
+S
+#34279
+The Dungeon Cell~
+You are inside a small cell deep within the dungeon of Forest Castle. 
+This cell is filled with damp hay, molding and rancid with slime and dank
+water.  The cell is barred from outside with iron bars that seem on the
+verge of collapsing from the rust that eat at them from within.  You can
+hear the sounds of rats in the hay, burrowing their nests deep.  
+~
+0 1 0
+D3
+~
+~
+1 0 34274
+S
+#34280
+The Dungeon Cell~
+You are inside a small cell deep within the dungeon of Forest Castle. 
+This cell is filled with damp hay, molding and rancid with slime and dank
+water.  The cell is barred from outside with iron bars that seem on the
+verge of collapsing from the rust that eat at them from within.  You can
+hear the sounds of rats in the hay, burrowing their nests deep.  
+~
+0 1 0
+D1
+~
+~
+1 0 34273
+S
+#34281
+The Dungeon Cell~
+You are inside a small cell deep within the dungeon of Forest Castle. 
+This cell is filled with damp hay, molding and rancid with slime and dank
+water.  The cell is barred from outside with iron bars that seem on the
+verge of collapsing from the rust that eat at them from within.  You can
+hear the sounds of rats in the hay, burrowing their nests deep.  
+~
+0 1 0
+D3
+~
+~
+1 0 34273
+S
+#34282
+The Dungeon Cell~
+You are inside a small cell deep within the dungeon of Forest Castle. 
+This cell is filled with damp hay, molding and rancid with slime and dank
+water.  The cell is barred from outside with iron bars that seem on the
+verge of collapsing from the rust that eat at them from within.  You can
+hear the sounds of rats in the hay, burrowing their nests deep.  
+~
+0 1 0
+D3
+~
+~
+1 0 34269
+S
+#34283
+The Dungeon Cell~
+You are inside a small cell deep within the dungeon of Forest Castle. 
+This cell is filled with damp hay, molding and rancid with slime and dank
+water.  The cell is barred from outside with iron bars that seem on the
+verge of collapsing from the rust that eat at them from within.  You can
+hear the sounds of rats in the hay, burrowing their nests deep.  
+~
+0 1 0
+D1
+~
+~
+1 0 34269
+S
+#34284
+The Dungeon Cell~
+You are inside a small cell deep within the dungeon of Forest Castle. 
+This cell is filled with damp hay, molding and rancid with slime and dank
+water.  The cell is barred from outside with iron bars that seem on the
+verge of collapsing from the rust that eat at them from within.  You can
+hear the sounds of rats in the hay, burrowing their nests deep.  
+~
+0 1 0
+D3
+~
+~
+1 0 34271
+S
+#34285
+The Dungeon Cell~
+You are inside a small cell deep within the dungeon of Forest Castle. 
+This cell is filled with damp hay, molding and rancid with slime and dank
+water.  The cell is barred from outside with iron bars that seem on the
+verge of collapsing from the rust that eat at them from within.  You can
+hear the sounds of rats in the hay, burrowing their nests deep.  
+~
+0 1 0
+D1
+~
+~
+1 0 34271
+S
+#34286
+The Dungeon Cell~
+You are inside a small cell deep within the dungeon of Forest Castle. 
+This cell is filled with damp hay, molding and rancid with slime and dank
+water.  The cell is barred from outside with iron bars that seem on the
+verge of collapsing from the rust that eat at them from within.  You can
+hear the sounds of rats in the hay, burrowing their nests deep.  
+~
+0 1 0
+D3
+~
+~
+1 0 34272
+S
+#34287
+The Dungeon Cell~
+You are inside a small cell deep within the dungeon of Forest Castle. 
+This cell is filled with damp hay, molding and rancid with slime and dank
+water.  The cell is barred from outside with iron bars that seem on the
+verge of collapsing from the rust that eat at them from within.  You can
+hear the sounds of rats in the hay, burrowing their nests deep.  
+~
+0 1 0
+D1
+~
+~
+1 0 34272
+D5
+~
+~
+0 0 34288
+S
+#34288
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34289
+D4
+~
+~
+0 0 34287
+S
+#34289
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34290
+D2
+~
+~
+0 0 34288
+S
+#34290
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34291
+D2
+~
+~
+0 0 34289
+S
+#34291
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34292
+D2
+~
+~
+0 0 34290
+S
+#34292
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34293
+D2
+~
+~
+0 0 34291
+S
+#34293
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34294
+D3
+~
+~
+0 0 34292
+S
+#34294
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34295
+D3
+~
+~
+0 0 34293
+S
+#34295
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34296
+D2
+~
+~
+0 0 34294
+S
+#34296
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34360
+D2
+~
+~
+0 0 34295
+D3
+~
+~
+0 0 34297
+S
+#34297
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34298
+D1
+~
+~
+0 0 34296
+S
+#34298
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34299
+D2
+~
+~
+0 0 34297
+S
+#34299
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D2
+~
+~
+0 0 34298
+D5
+~
+~
+0 0 34300
+S
+#34300
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D2
+~
+~
+0 0 34301
+D4
+~
+~
+0 0 34299
+S
+#34301
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34300
+D2
+~
+~
+0 0 34302
+S
+#34302
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34301
+D2
+~
+~
+0 0 34303
+S
+#34303
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34302
+D2
+~
+~
+0 0 34304
+S
+#34304
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34303
+D2
+~
+~
+0 0 34305
+S
+#34305
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34304
+D3
+~
+~
+0 0 34306
+S
+#34306
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34305
+D2
+~
+~
+0 0 34307
+D3
+~
+~
+0 0 34356
+S
+#34307
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34306
+D5
+~
+~
+0 0 34308
+S
+#34308
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D2
+~
+~
+0 0 34310
+D4
+~
+~
+0 0 34307
+S
+#34309
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 34308
+S
+#34310
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34308
+D2
+~
+~
+0 0 34311
+S
+#34311
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34310
+D2
+~
+~
+0 0 34312
+D3
+~
+~
+0 0 34347
+S
+#34312
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34311
+D2
+~
+~
+0 0 34313
+S
+#34313
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34312
+D2
+~
+~
+0 0 34314
+S
+#34314
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34313
+D2
+~
+~
+0 0 34315
+S
+#34315
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34314
+D1
+~
+~
+0 0 34317
+D2
+~
+~
+0 0 34342
+S
+#34317
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34318
+D3
+~
+~
+0 0 34315
+S
+#34318
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34319
+D3
+~
+~
+0 0 34317
+S
+#34319
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D2
+~
+~
+0 0 34320
+D3
+~
+~
+0 0 34318
+S
+#34320
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  There is a door south.  
+~
+0 1 0
+D0
+~
+~
+0 0 34319
+D2
+~
+south~
+1 0 34321
+S
+#34321
+The Entrance to the South Tower~
+This room used to house the entrance to the South Tower.  However, for
+some reason, the south tower has vanished.  Before you is a view from the
+south tower, inverted.  The sky is below while the ground is above.  Above
+you can see the door to the Treasury, but how to get there is another
+question.  
+~
+0 0 0
+D0
+~
+~
+1 0 34320
+D4
+~
+~
+0 0 34322
+S
+#34322
+Entrance to the Treasury~
+You are standing before a door to the treasure.  A small inverted arch
+supports you, barely, and while your stomache turns flips at your view of
+the world upside down, your footing seems solid.  Perhaps you had better get
+out of this place, quickly, before you lose your balance.  
+~
+0 1 9
+D2
+~
+treasury~
+1 0 34323
+D5
+~
+~
+0 0 34321
+S
+#34323
+The Treasury~
+You have found the old treasury lost within the south wing of Forest
+Castle.  This is the room that stored the treasures and coins of the Forest
+Castle.  Old tapestries cover the dust-laden walls and a number of chests
+have been stacked around.  
+~
+0 1 0
+D0
+~
+~
+1 0 34322
+D2
+~
+south~
+1 0 34324
+S
+#34324
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+1 0 34323
+D2
+~
+~
+0 0 34325
+S
+#34325
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34324
+D2
+~
+~
+0 0 34326
+S
+#34326
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34325
+D1
+~
+~
+0 0 34327
+S
+#34327
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34339
+D2
+~
+~
+0 0 34328
+D3
+~
+~
+0 0 34326
+S
+#34328
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34327
+D2
+~
+~
+0 0 34329
+S
+#34329
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34328
+D2
+~
+~
+0 0 34330
+S
+#34330
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34329
+D3
+~
+~
+0 0 34331
+S
+#34331
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34330
+D2
+~
+~
+0 0 34332
+D3
+~
+~
+0 0 34334
+S
+#34332
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  There is a door to the south.  
+~
+0 1 0
+D0
+~
+~
+0 0 34331
+D2
+~
+armoury~
+1 0 34333
+S
+#34333
+The Armoury~
+You have reached the old armoury.  This massive room contains piles of
+weapons and armor, now rusted into uselessness.  A number of torches lie
+about, sodden with dampness, and bins of metal equipment have rusted into
+complete dust.  A silver scabbard sits against the south wall on a plaque. 
+The fabled Curtana, the sword of compulsion, used to be kept here.  It seems
+to have been stolen.  
+~
+0 1 0
+D0
+~
+~
+1 0 34332
+S
+#34334
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34331
+D3
+~
+~
+0 0 34335
+S
+#34335
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34338
+D1
+~
+~
+0 0 34334
+D3
+~
+~
+0 0 34336
+S
+#34336
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34337
+D1
+~
+~
+0 0 34335
+S
+#34337
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D2
+~
+~
+0 0 34336
+D3
+~
+~
+0 0 34338
+S
+#34338
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34337
+D2
+~
+~
+0 0 34335
+S
+#34339
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34340
+D3
+~
+~
+0 0 34327
+S
+#34340
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34341
+D3
+~
+~
+0 0 34339
+S
+#34341
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34339
+D3
+~
+~
+0 0 34340
+S
+#34342
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34315
+D2
+~
+~
+0 0 34343
+S
+#34343
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34342
+D2
+~
+~
+0 0 34344
+S
+#34344
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34343
+D1
+~
+~
+0 0 34345
+S
+#34345
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D2
+~
+~
+0 0 34346
+D3
+~
+~
+0 0 34344
+S
+#34346
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34345
+D2
+~
+~
+0 0 34343
+S
+#34347
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34311
+D2
+~
+~
+0 0 34348
+S
+#34348
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34347
+D1
+~
+~
+0 0 34349
+S
+#34349
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D3
+~
+~
+0 0 34348
+D5
+~
+~
+0 0 34350
+S
+#34350
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34351
+D4
+~
+~
+0 0 34349
+S
+#34351
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34352
+D3
+~
+~
+0 0 34350
+S
+#34352
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34353
+D3
+~
+~
+0 0 34351
+S
+#34353
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D2
+~
+~
+0 0 34354
+D3
+~
+~
+0 0 34352
+S
+#34354
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34353
+D2
+~
+~
+0 0 34355
+S
+#34355
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34354
+D2
+~
+~
+0 0 34349
+S
+#34356
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34306
+D3
+~
+~
+0 0 34357
+S
+#34357
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34356
+D3
+~
+~
+0 0 34358
+S
+#34358
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34357
+D3
+~
+~
+0 0 34359
+S
+#34359
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34358
+D3
+~
+~
+0 0 34357
+S
+#34360
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34361
+D2
+~
+~
+0 0 34296
+S
+#34361
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34362
+D2
+~
+~
+0 0 34360
+S
+#34362
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34363
+D2
+~
+~
+0 0 34361
+S
+#34363
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 34364
+D2
+~
+~
+0 0 34362
+S
+#34364
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34365
+D3
+~
+~
+0 0 34363
+S
+#34365
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34366
+D2
+~
+~
+0 0 34364
+S
+#34366
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34367
+D2
+~
+~
+0 0 34365
+S
+#34367
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34368
+D2
+~
+~
+0 0 34366
+S
+#34368
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 1 0
+D0
+~
+~
+0 0 34369
+D2
+~
+~
+0 0 34367
+S
+#34369
+The South Wing~
+You have found your way to the lost south wing of Forest Castle.  This
+wing was displaced long ago during a freak accident with magic, and has
+since been changed, by sorcery.  It no longer follows any sense of structure
+or order.  The walls are damp and thick with mold and dust while the carpet
+has been ripped asunder, showing the stone floor underneath.  In the
+distance you can hear the sounds of strange noises, emanating from the
+darkness.  
+~
+0 0 0
+D0
+~
+~
+0 0 34361
+D2
+~
+~
+0 0 34368
+S
+#34370
+The Forest Land~
+You are walking along a densely wooded land north of the Forest Castle. 
+The woods here are pleasant, the wind cool against your face and the songs
+of birds chirping in the wind.  You wonder what could be out here.  You have
+heard tales speaking of the Tanglewood somewhere to the north, and beyond
+that, the dreaded Darkwood.  
+~
+0 0 2
+D0
+~
+~
+0 0 34371
+D2
+~
+~
+0 0 34119
+S
+#34371
+The Forest Land~
+You are walking along a densely wooded land north of the Forest Castle. 
+The woods here are pleasant, the wind cool against your face and the songs
+of birds chirping in the wind.  You wonder what could be out here.  You have
+heard tales speaking of the Tanglewood somewhere to the north, and beyond
+that, the dreaded Darkwood.  
+~
+0 0 2
+D0
+~
+~
+0 0 34372
+D2
+~
+~
+0 0 34370
+S
+#34372
+The Forest Land~
+You are walking along a densely wooded land north of the Forest Castle. 
+The woods here are pleasant, the wind cool against your face and the songs
+of birds chirping in the wind.  You wonder what could be out here.  You have
+heard tales speaking of the Tanglewood somewhere to the north, and beyond
+that, the dreaded Darkwood.  
+~
+0 0 2
+D2
+~
+~
+0 0 34371
+D3
+~
+~
+0 0 34373
+S
+#34373
+The Forest Land~
+You are walking along a nice path through the wooded land of the Forest
+Kingdom.  The stables of the Forest Castle are to the south and to the north
+lies the forests, ready to be explored.  
+~
+0 0 2
+D0
+~
+~
+0 0 34374
+D1
+~
+~
+0 0 34372
+S
+#34374
+The Forest Land~
+You are walking along a densely wooded land north of the Forest Castle. 
+The woods here are pleasant, the wind cool against your face and the songs
+of birds chirping in the wind.  You wonder what could be out here.  You have
+heard tales speaking of the Tanglewood somewhere to the north, and beyond
+that, the dreaded Darkwood.  
+~
+0 0 2
+D2
+~
+~
+0 0 34373
+D3
+~
+~
+0 0 34375
+S
+#34375
+The Forest Land~
+You are walking along a densely wooded land north of the Forest Castle. 
+The woods here are pleasant, the wind cool against your face and the songs
+of birds chirping in the wind.  You wonder what could be out here.  You have
+heard tales speaking of the Tanglewood somewhere to the north, and beyond
+that, the dreaded Darkwood.  
+~
+0 0 2
+D0
+~
+~
+0 0 34376
+D1
+~
+~
+0 0 34374
+S
+#34376
+The Forest Land~
+You are walking along a forest land filled with trees of all kinds.  The
+forest itself is light, not being densely populated with vegetation, and
+leaves you with a relatively clear view of the sky.  Squirrels chatter
+loudly in the trees and birds swoop down to get a quick glance at you.  
+~
+0 0 3
+D1
+~
+~
+0 0 34379
+D2
+~
+~
+0 0 34375
+D3
+~
+~
+0 0 34377
+S
+#34377
+The Forest Land~
+You are exploring the Forest Kingdom which is spread all about you.  It
+is easy to see where the Kingdom gets it name, since this entire land is one
+massive forest.  The weather here is decent, not being too hot nor too cold
+and the traveling is easy.  
+~
+0 0 3
+D1
+~
+~
+0 0 34376
+D3
+~
+~
+0 0 34378
+S
+#34378
+The Forest Land~
+You are surrounded lightly by trees of all types.  You recognized mostly
+firs and pines, but catch view of other trees, like rowans, acorns, and even
+a few spruce trees.  The wind is cool and refreshing, making you almost want
+to set up camp here for the rest of the day.  
+~
+0 0 3
+D1
+~
+~
+0 0 34377
+D3
+~
+~
+0 0 34378
+S
+#34379
+The Forest Land~
+You are in the forest that comprises most of the Forest Kingdom.  The
+underbrush of dried leaves and needles crunch under your foot, sending
+skitterish animals fleeing at the sounds.  Other animals are not as easy
+scared, however, and a bluejay screeches at you from above.  
+~
+0 0 3
+D0
+~
+~
+0 0 34380
+D3
+~
+~
+0 0 34376
+S
+#34380
+The Forest Land~
+You are exploring the Forest Kingdom which is spread all about you.  It
+is easy to see where the Kingdom gets it name, since this entire land is one
+massive forest.  The weather here is decent, not being too hot nor too cold
+and the traveling is easy.  
+~
+0 0 3
+D0
+~
+~
+0 0 34381
+D2
+~
+~
+0 0 34379
+S
+#34381
+The Forest Land~
+You are walking along a forest land filled with trees of all kinds.  The
+forest itself is light, not being densely populated with vegetation, and
+leaves you with a relatively clear view of the sky.  Squirrels chatter
+loudly in the trees and birds swoop down to get a quick glance at you.  
+~
+0 0 3
+D2
+~
+~
+0 0 34380
+D3
+~
+~
+0 0 34382
+S
+#34382
+The Forest Land~
+You are surrounded lightly by trees of all types.  You recognized mostly
+firs and pines, but catch view of other trees, like rowans, acorns, and even
+a few spruce trees.  The wind is cool and refreshing, making you almost want
+to set up camp here for the rest of the day.  
+~
+0 0 3
+D0
+~
+~
+0 0 34383
+D1
+~
+~
+0 0 34381
+S
+#34383
+The Forest Land~
+You are in the forest that comprises most of the Forest Kingdom.  The
+underbrush of dried leaves and needles crunch under your foot, sending
+skitterish animals fleeing at the sounds.  Other animals are not as easy
+scared, however, and a bluejay screeches at you from above.  
+~
+0 0 3
+D1
+~
+~
+0 0 34384
+D2
+~
+~
+0 0 34382
+S
+#34384
+The Forest Land~
+You are exploring the Forest Kingdom which is spread all about you.  It
+is easy to see where the Kingdom gets it name, since this entire land is one
+massive forest.  The weather here is decent, not being too hot nor too cold
+and the traveling is easy.  
+~
+0 0 3
+D1
+~
+~
+0 0 34385
+D3
+~
+~
+0 0 34383
+S
+#34385
+The Forest Land~
+You are walking along a forest land filled with trees of all kinds.  The
+forest itself is light, not being densely populated with vegetation, and
+leaves you with a relatively clear view of the sky.  Squirrels chatter
+loudly in the trees and birds swoop down to get a quick glance at you.  
+~
+0 0 3
+D0
+~
+~
+0 0 34386
+D3
+~
+~
+0 0 34384
+S
+#34386
+The Forest Land~
+You are in the forest that comprises most of the Forest Kingdom.  The
+underbrush of dried leaves and needles crunch under your foot, sending
+skitterish animals fleeing at the sounds.  Other animals are not as easy
+scared, however, and a bluejay screeches at you from above.  
+~
+0 0 3
+D0
+~
+~
+0 0 34382
+D1
+~
+~
+0 0 34387
+D2
+~
+~
+0 0 34385
+S
+#34387
+The Forest Land~
+You are surrounded lightly by trees of all types.  You recognized mostly
+firs and pines, but catch view of other trees, like rowans, acorns, and even
+a few spruce trees.  The wind is cool and refreshing, making you almost want
+to set up camp here for the rest of the day.  
+~
+0 0 3
+D1
+~
+~
+0 0 34388
+D2
+~
+~
+0 0 34394
+D3
+~
+~
+0 0 34386
+S
+#34388
+The Forest Land~
+You are exploring the Forest Kingdom which is spread all about you.  It
+is easy to see where the Kingdom gets it name, since this entire land is one
+massive forest.  The weather here is decent, not being too hot nor too cold
+and the traveling is easy.  
+~
+0 0 3
+D1
+~
+~
+0 0 34389
+D3
+~
+~
+0 0 34387
+S
+#34389
+The Forest Land~
+You are walking along a forest land filled with trees of all kinds.  The
+forest itself is light, not being densely populated with vegetation, and
+leaves you with a relatively clear view of the sky.  Squirrels chatter
+loudly in the trees and birds swoop down to get a quick glance at you.  
+~
+0 0 3
+D0
+~
+~
+0 0 34390
+D3
+~
+~
+0 0 34388
+S
+#34390
+The Forest Land~
+You are surrounded lightly by trees of all types.  You recognized mostly
+firs and pines, but catch view of other trees, like rowans, acorns, and even
+a few spruce trees.  The wind is cool and refreshing, making you almost want
+to set up camp here for the rest of the day.  
+~
+0 0 3
+D2
+~
+~
+0 0 34389
+D3
+~
+~
+0 0 34391
+S
+#34391
+The Forest Land~
+You are in the forest that comprises most of the Forest Kingdom.  The
+underbrush of dried leaves and needles crunch under your foot, sending
+skitterish animals fleeing at the sounds.  Other animals are not as easy
+scared, however, and a bluejay screeches at you from above.  
+~
+0 0 3
+D0
+~
+~
+0 0 34392
+D1
+~
+~
+0 0 34390
+S
+#34392
+The Forest Land~
+You are surrounded lightly by trees of all types.  You recognized mostly
+firs and pines, but catch view of other trees, like rowans, acorns, and even
+a few spruce trees.  The wind is cool and refreshing, making you almost want
+to set up camp here for the rest of the day.  
+~
+0 0 3
+D0
+~
+~
+0 0 34393
+D2
+~
+~
+0 0 34391
+S
+#34393
+The Forest Land~
+You are exploring the Forest Kingdom which is spread all about you.  It
+is easy to see where the Kingdom gets it name, since this entire land is one
+massive forest.  The weather here is decent, not being too hot nor too cold
+and the traveling is easy.  
+~
+0 0 3
+D0
+~
+~
+0 0 34396
+D2
+~
+~
+0 0 34392
+S
+#34394
+The Forest Land~
+You are exploring the Forest Kingdom which is spread all about you.  It
+is easy to see where the Kingdom gets it name, since this entire land is one
+massive forest.  The weather here is decent, not being too hot nor too cold
+and the traveling is easy.  
+~
+0 0 3
+D0
+~
+~
+0 0 34387
+D2
+~
+~
+0 0 34395
+S
+#34395
+The Forest Land~
+You are walking along a forest land filled with trees of all kinds.  The
+forest itself is light, not being densely populated with vegetation, and
+leaves you with a relatively clear view of the sky.  Squirrels chatter
+loudly in the trees and birds swoop down to get a quick glance at you.  
+~
+0 0 3
+D0
+~
+~
+0 0 34394
+S
+#34396
+The Forest Land~
+You are walking along a forest land filled with trees of all kinds.  The
+forest itself is light, not being densely populated with vegetation, and
+leaves you with a relatively clear view of the sky.  Squirrels chatter
+loudly in the trees and birds swoop down to get a quick glance at you.  
+~
+0 0 3
+D0
+~
+~
+0 0 34397
+D2
+~
+~
+0 0 34393
+S
+#34397
+The Forest Land~
+You are in the forest that comprises most of the Forest Kingdom.  The
+underbrush of dried leaves and needles crunch under your foot, sending
+skitterish animals fleeing at the sounds.  Other animals are not as easy
+scared, however, and a bluejay screeches at you from above.  
+~
+0 0 3
+D2
+~
+~
+0 0 34396
+D3
+~
+~
+0 0 34398
+S
+#34398
+The Forest Land~
+You are surrounded lightly by trees of all types.  You recognized mostly
+firs and pines, but catch view of other trees, like rowans, acorns, and even
+a few spruce trees.  The wind is cool and refreshing, making you almost want
+to set up camp here for the rest of the day.  
+~
+0 0 3
+D0
+~
+~
+0 0 34399
+D1
+~
+~
+0 0 34397
+S
+#34399
+The Forest Land~
+You are exploring the Forest Kingdom which is spread all about you.  It
+is easy to see where the Kingdom gets it name, since this entire land is one
+massive forest.  The weather here is decent, not being too hot nor too cold
+and the traveling is easy.  To the north lies the boundary of the
+Tanglewood.  
+~
+0 0 3
+D2
+~
+~
+0 0 34398
+S
+#0
+
+
+
+#SPECIALS
+M 34101 spec_guard
+S
+
+
+
+#RESETS
+D 0 34105 0 1
+D 0 34106 2 1
+D 0 34109 0 1
+D 0 34109 1 1
+D 0 34109 3 1
+D 0 34109 4 1
+D 0 34110 1 1
+D 0 34111 3 1
+D 0 34112 2 1
+D 0 34116 1 1
+D 0 34116 3 1
+D 0 34117 1 1
+D 0 34117 3 1
+D 0 34118 1 1
+D 0 34118 3 1
+D 0 34120 1 1
+D 0 34121 3 1
+D 0 34122 1 1
+D 0 34123 3 1
+D 0 34124 1 1
+D 0 34125 3 1
+D 0 34126 0 1
+D 0 34126 2 1
+D 0 34127 0 1
+D 0 34127 2 1
+D 0 34128 0 1
+D 0 34128 2 1
+D 0 34128 5 1
+D 0 34129 0 1
+D 0 34129 2 1
+D 0 34130 0 1
+D 0 34130 2 1
+D 0 34131 0 1
+D 0 34131 2 1
+D 0 34131 5 1
+D 0 34132 2 1
+D 0 34133 0 1
+D 0 34134 2 1
+D 0 34135 0 1
+D 0 34136 2 1
+D 0 34137 0 1
+D 0 34138 2 1
+D 0 34139 0 1
+D 0 34140 2 1
+D 0 34141 0 1
+D 0 34142 2 1
+D 0 34143 0 1
+D 0 34144 1 1
+D 0 34144 2 1
+D 0 34144 3 1
+D 0 34145 0 1
+D 0 34146 0 1
+D 0 34147 2 1
+D 0 34149 3 1
+D 0 34150 1 1
+D 0 34151 0 1
+D 0 34151 1 1
+D 0 34151 2 1
+D 0 34151 3 1
+D 0 34152 0 1
+D 0 34153 3 1
+D 0 34154 1 1
+D 0 34155 2 1
+D 0 34156 0 1
+D 0 34156 1 1
+D 0 34156 2 1
+D 0 34156 3 1
+D 0 34157 0 1
+D 0 34158 3 1
+D 0 34159 1 1
+D 0 34160 2 1
+D 0 34161 0 1
+D 0 34161 1 1
+D 0 34161 2 1
+D 0 34161 3 1
+D 0 34162 0 1
+D 0 34163 3 1
+D 0 34164 1 1
+D 0 34165 2 1
+D 0 34166 5 1
+D 0 34169 1 1
+D 0 34169 3 1
+D 0 34170 1 1
+D 0 34170 3 1
+D 0 34171 1 1
+D 0 34171 3 1
+D 0 34172 1 1
+D 0 34172 3 1
+D 0 34173 1 1
+D 0 34173 3 1
+D 0 34174 1 1
+D 0 34174 3 1
+D 0 34175 1 1
+D 0 34175 3 1
+D 0 34176 1 1
+D 0 34176 3 1
+D 0 34177 1 1
+D 0 34177 3 1
+D 0 34178 1 1
+D 0 34178 3 1
+D 0 34179 1 1
+D 0 34179 3 1
+D 0 34180 1 1
+D 0 34181 3 1
+D 0 34182 1 1
+D 0 34183 3 1
+D 0 34184 1 1
+D 0 34185 3 1
+D 0 34186 1 1
+D 0 34187 3 1
+D 0 34188 1 1
+D 0 34189 3 1
+D 0 34190 1 1
+D 0 34191 3 1
+D 0 34192 1 1
+D 0 34193 3 1
+D 0 34194 1 1
+D 0 34195 3 1
+D 0 34196 1 1
+D 0 34197 3 1
+D 0 34198 1 1
+D 0 34199 3 1
+D 0 34200 1 1
+D 0 34201 3 1
+D 0 34202 0 1
+D 0 34202 2 1
+D 0 34203 0 1
+D 0 34203 2 1
+D 0 34204 0 1
+D 0 34204 2 1
+D 0 34205 0 1
+D 0 34205 2 1
+D 0 34206 0 1
+D 0 34206 2 1
+D 0 34207 0 1
+D 0 34207 2 1
+D 0 34208 0 1
+D 0 34208 2 1
+D 0 34209 0 1
+D 0 34209 2 1
+D 0 34210 0 1
+D 0 34210 2 1
+D 0 34211 0 1
+D 0 34211 2 1
+D 0 34212 2 1
+D 0 34213 0 1
+D 0 34214 2 1
+D 0 34215 0 1
+D 0 34216 2 1
+D 0 34217 0 1
+D 0 34218 2 1
+D 0 34219 0 1
+D 0 34220 2 1
+D 0 34221 0 1
+D 0 34222 2 1
+D 0 34223 0 1
+D 0 34224 2 1
+D 0 34225 0 1
+D 0 34226 2 1
+D 0 34227 0 1
+D 0 34228 2 1
+D 0 34229 0 1
+D 0 34230 2 1
+D 0 34231 0 1
+D 0 34232 0 1
+D 0 34232 2 1
+D 0 34233 0 1
+D 0 34233 2 1
+D 0 34234 0 1
+D 0 34234 2 1
+D 0 34235 0 1
+D 0 34235 2 1
+D 0 34236 0 1
+D 0 34236 2 1
+D 0 34237 0 1
+D 0 34237 2 1
+D 0 34238 0 1
+D 0 34238 2 1
+D 0 34239 0 1
+D 0 34239 2 1
+D 0 34240 0 1
+D 0 34240 2 1
+D 0 34241 0 1
+D 0 34241 2 1
+D 0 34242 2 1
+D 0 34243 0 1
+D 0 34244 2 1
+D 0 34245 0 1
+D 0 34246 2 1
+D 0 34247 0 1
+D 0 34248 2 1
+D 0 34249 0 1
+D 0 34250 2 1
+D 0 34251 0 1
+D 0 34252 2 1
+D 0 34253 0 1
+D 0 34254 2 1
+D 0 34255 0 1
+D 0 34256 2 1
+D 0 34257 0 1
+D 0 34258 2 1
+D 0 34259 0 1
+D 0 34260 2 1
+D 0 34261 0 1
+D 0 34262 4 1
+D 0 34265 0 1
+D 0 34265 2 1
+D 0 34268 4 1
+D 0 34269 0 1
+D 0 34269 1 1
+D 0 34269 3 1
+D 0 34271 1 1
+D 0 34271 3 1
+D 0 34272 1 1
+D 0 34272 3 1
+D 0 34273 1 1
+D 0 34273 2 1
+D 0 34273 3 1
+D 0 34274 1 1
+D 0 34274 3 1
+D 0 34275 1 1
+D 0 34275 3 1
+D 0 34276 1 1
+D 0 34277 3 1
+D 0 34278 1 1
+D 0 34279 3 1
+D 0 34280 1 1
+D 0 34281 3 1
+D 0 34282 3 1
+D 0 34283 1 1
+D 0 34284 3 1
+D 0 34285 1 1
+D 0 34286 3 1
+D 0 34287 1 1
+D 0 34320 2 1
+D 0 34321 0 1
+D 0 34322 2 1
+D 0 34323 0 1
+D 0 34323 2 1
+D 0 34324 0 1
+D 0 34332 2 1
+D 0 34333 0 1
+M 0 34103 10 34101 2
+M 0 34103 10 34101 2
+M 0 34100 1 34102 1
+M 0 34101 30 34103 3
+M 0 34101 30 34103 3
+M 0 34103 30 34103 1
+M 0 34102 50 34103 5
+M 0 34102 50 34103 5
+M 0 34101 50 34104 3
+M 0 34101 50 34104 3
+M 0 34103 30 34104 1
+M 0 34103 30 34104 2
+M 0 34102 50 34104 5
+M 0 34102 50 34104 5
+M 0 34101 30 34105 3
+M 0 34102 50 34105 5
+M 0 34101 50 34106 3
+M 0 34101 50 34106 3
+M 0 34102 50 34106 5
+M 0 34102 50 34106 5
+M 0 34104 50 34106 5
+M 0 34101 50 34107 3
+M 0 34101 50 34107 3
+M 0 34102 50 34107 5
+M 0 34102 50 34107 5
+M 0 34102 50 34107 5
+M 0 34104 50 34107 5
+M 0 34102 50 34108 5
+M 0 34104 50 34108 5
+M 0 34104 50 34108 5
+M 0 34104 50 34108 5
+M 0 34105 60 34108 3
+M 0 34106 60 34108 3
+M 0 34101 20 34109 3
+M 0 34102 20 34109 5
+M 0 34104 50 34109 5
+M 0 34104 50 34110 5
+M 0 34104 50 34110 5
+M 0 34104 50 34110 5
+M 0 34104 50 34110 5
+M 0 34104 15 34111 5
+M 0 34104 50 34111 5
+M 0 34104 50 34111 5
+M 0 34102 20 34112 5
+M 0 34102 20 34113 5
+M 0 34102 20 34114 5
+M 0 34101 20 34115 3
+M 0 34110 10 34120 2
+M 0 34110 10 34121 2
+M 0 34110 10 34122 2
+M 0 34110 10 34123 2
+M 0 34110 10 34124 2
+M 0 34110 10 34125 2
+M 0 34102 20 34126 5
+M 0 34104 50 34126 5
+M 0 34113 50 34126 5
+M 0 34104 50 34127 50
+M 0 34105 60 34127 30
+M 0 34106 60 34127 30
+M 0 34101 20 34128 30
+M 0 34101 20 34128 30
+M 0 34102 20 34128 50
+M 0 34104 50 34128 50
+M 0 34104 50 34129 50
+M 0 34113 50 34129 100
+M 0 34102 20 34130 50
+M 0 34104 50 34130 50
+M 0 34105 60 34130 30
+M 0 34106 60 34130 30
+M 0 34101 30 34131 30
+M 0 34101 30 34131 30
+M 0 34102 30 34131 50
+M 0 34104 50 34131 50
+M 0 34113 50 34131 100
+M 0 34113 50 34132 100
+M 0 34113 50 34133 100
+M 0 34113 50 34134 100
+M 0 34113 50 34135 100
+M 0 34105 60 34136 30
+M 0 34106 60 34136 30
+M 0 34113 50 34136 100
+M 0 34113 50 34137 100
+M 0 34113 50 34138 100
+M 0 34113 50 34139 100
+M 0 34113 50 34140 100
+M 0 34113 50 34141 100
+M 0 34113 50 34142 100
+M 0 34113 50 34143 100
+M 0 34101 30 34144 30
+M 0 34102 30 34144 50
+M 0 34104 50 34144 50
+M 0 34102 30 34145 50
+M 0 34105 60 34145 30
+M 0 34106 60 34145 30
+M 0 34113 50 34145 100
+M 0 34113 50 34145 100
+M 0 34101 30 34146 30
+M 0 34102 30 34146 50
+M 0 34105 60 34146 30
+M 0 34106 60 34146 30
+M 0 34105 60 34146 30
+M 0 34106 60 34146 30
+M 0 34113 50 34146 100
+M 0 34113 50 34146 100
+M 0 34102 30 34147 50
+M 0 34105 60 34147 30
+M 0 34106 60 34147 30
+M 0 34105 60 34147 30
+M 0 34106 60 34147 30
+M 0 34105 60 34147 30
+M 0 34106 60 34147 30
+M 0 34105 60 34147 30
+M 0 34106 60 34147 30
+M 0 34105 60 34147 30
+M 0 34106 60 34147 30
+M 0 34105 50 34147 60
+M 0 34105 50 34147 60
+M 0 34106 50 34147 60
+M 0 34107 3 34148 3
+M 0 34107 3 34148 3
+M 0 34107 3 34148 3
+M 0 34108 1 34148 1
+M 0 34109 1 34148 1
+M 0 34137 1 34148 1
+M 0 34102 30 34149 50
+M 0 34105 60 34149 30
+M 0 34106 60 34149 30
+M 0 34113 50 34149 100
+M 0 34113 50 34149 100
+M 0 34113 50 34149 100
+M 0 34102 30 34150 50
+M 0 34105 60 34150 30
+M 0 34106 60 34150 30
+M 0 34113 50 34150 100
+M 0 34113 50 34150 100
+M 0 34113 50 34150 100
+M 0 34101 30 34151 30
+M 0 34102 50 34151 50
+M 0 34104 50 34151 50
+M 0 34104 50 34151 50
+M 0 34113 50 34151 100
+M 0 34113 50 34151 100
+M 0 34113 50 34151 100
+M 0 34113 50 34151 100
+M 0 34102 30 34152 50
+M 0 34105 60 34152 30
+M 0 34106 60 34152 30
+M 0 34113 50 34152 100
+M 0 34113 50 34152 100
+M 0 34113 50 34152 100
+M 0 34131 1 34152 1
+M 0 34102 30 34153 50
+M 0 34105 60 34153 30
+M 0 34106 60 34153 30
+M 0 34102 30 34154 50
+M 0 34105 60 34154 30
+M 0 34106 60 34154 30
+M 0 34102 30 34155 50
+M 0 34105 60 34155 30
+M 0 34106 60 34155 30
+M 0 34105 60 34155 30
+M 0 34106 60 34155 30
+M 0 34113 50 34155 100
+M 0 34113 50 34155 100
+M 0 34130 1 34155 1
+M 0 34101 30 34156 30
+M 0 34102 30 34156 50
+M 0 34104 50 34156 50
+M 0 34104 50 34156 50
+M 0 34104 50 34156 50
+M 0 34102 30 34157 50
+M 0 34105 60 34157 30
+M 0 34106 60 34157 30
+M 0 34105 60 34157 30
+M 0 34106 60 34157 30
+M 0 34113 50 34157 100
+M 0 34128 1 34157 1
+M 0 34102 30 34158 50
+M 0 34105 60 34158 30
+M 0 34106 60 34158 30
+M 0 34113 50 34158 100
+M 0 34113 50 34158 100
+M 0 34113 50 34158 100
+M 0 34126 1 34158 1
+M 0 34102 30 34159 50
+M 0 34105 60 34159 30
+M 0 34106 60 34159 30
+M 0 34113 50 34159 100
+M 0 34113 50 34159 100
+M 0 34113 50 34159 100
+M 0 34127 1 34159 1
+M 0 34102 30 34160 50
+M 0 34105 60 34160 30
+M 0 34106 60 34160 30
+M 0 34105 60 34160 30
+M 0 34106 60 34160 30
+M 0 34129 1 34160 1
+M 0 34101 30 34161 30
+M 0 34102 30 34161 50
+M 0 34104 50 34161 50
+M 0 34104 50 34161 50
+M 0 34104 50 34161 50
+M 0 34104 50 34161 50
+M 0 34102 30 34162 50
+M 0 34105 60 34162 30
+M 0 34106 60 34162 30
+M 0 34105 60 34162 30
+M 0 34106 60 34162 30
+M 0 34116 1 34162 1
+M 0 34119 1 34162 1
+M 0 34102 30 34163 50
+M 0 34105 60 34163 30
+M 0 34106 60 34163 30
+M 0 34113 50 34163 100
+M 0 34113 50 34163 100
+M 0 34118 1 34163 1
+M 0 34122 1 34163 1
+M 0 34123 1 34163 1
+M 0 34102 30 34164 50
+M 0 34105 60 34164 30
+M 0 34106 60 34164 30
+M 0 34117 1 34164 1
+M 0 34124 1 34164 1
+M 0 34125 1 34164 1
+M 0 34102 30 34165 50
+M 0 34105 60 34165 30
+M 0 34106 60 34165 30
+M 0 34114 1 34165 1
+M 0 34115 1 34165 1
+M 0 34120 1 34165 1
+M 0 34121 1 34165 1
+M 0 34102 50 34166 50
+M 0 34102 50 34166 50
+M 0 34102 50 34166 50
+M 0 34102 50 34166 50
+M 0 34102 50 34166 50
+M 0 34102 50 34166 50
+M 0 34101 50 34167 30
+M 0 34102 50 34167 50
+M 0 34102 50 34167 50
+M 0 34104 50 34167 50
+M 0 34104 50 34167 50
+M 0 34104 50 34167 50
+M 0 34104 50 34167 50
+M 0 34104 50 34167 50
+M 0 34102 50 34169 50
+M 0 34102 50 34169 50
+M 0 34105 60 34169 30
+M 0 34106 60 34169 30
+M 0 34133 1 34180 1
+M 0 34132 1 34181 1
+M 0 34134 1 34182 1
+M 0 34135 1 34183 1
+M 0 34136 60 34184 1
+M 0 34136 60 34185 1
+M 0 34136 60 34186 1
+M 0 34136 60 34187 1
+M 0 34136 60 34188 1
+M 0 34136 60 34189 1
+M 0 34136 60 34190 1
+M 0 34136 60 34191 1
+M 0 34136 60 34192 1
+M 0 34136 60 34193 1
+M 0 34136 60 34194 1
+M 0 34136 60 34195 1
+M 0 34136 60 34196 1
+M 0 34136 60 34197 1
+M 0 34136 60 34198 1
+M 0 34136 60 34199 1
+M 0 34136 60 34200 1
+M 0 34136 60 34201 1
+M 0 34102 50 34202 50
+M 0 34102 50 34202 50
+M 0 34136 60 34212 1
+M 0 34136 60 34213 1
+M 0 34136 60 34214 1
+M 0 34136 60 34215 1
+M 0 34136 60 34216 1
+M 0 34136 60 34217 1
+M 0 34136 60 34218 1
+M 0 34136 60 34219 1
+M 0 34136 60 34220 1
+M 0 34136 60 34221 1
+M 0 34136 60 34222 1
+M 0 34136 60 34223 1
+M 0 34136 60 34224 1
+M 0 34136 60 34225 1
+M 0 34136 60 34226 1
+M 0 34136 60 34227 1
+M 0 34136 60 34228 1
+M 0 34136 60 34229 1
+M 0 34136 60 34230 1
+M 0 34136 60 34231 1
+M 0 34102 50 34232 50
+M 0 34102 50 34232 50
+M 0 34136 60 34242 1
+M 0 34136 60 34243 1
+M 0 34136 60 34244 1
+M 0 34136 60 34245 1
+M 0 34136 60 34246 1
+M 0 34136 60 34247 1
+M 0 34136 60 34248 1
+M 0 34136 60 34249 1
+M 0 34136 60 34250 1
+M 0 34136 60 34251 1
+M 0 34136 60 34252 1
+M 0 34136 60 34253 1
+M 0 34136 60 34254 1
+M 0 34136 60 34255 1
+M 0 34136 60 34256 1
+M 0 34136 60 34257 1
+M 0 34136 60 34258 1
+M 0 34136 60 34259 1
+M 0 34136 60 34260 1
+M 0 34136 60 34261 1
+M 0 34102 50 34262 50
+M 0 34102 50 34268 50
+M 0 34111 20 34276 20
+M 0 34111 20 34277 20
+M 0 34111 20 34278 20
+M 0 34111 20 34279 20
+M 0 34111 20 34280 20
+M 0 34111 20 34281 20
+M 0 34111 20 34282 20
+M 0 34111 20 34283 20
+M 0 34111 20 34284 20
+M 0 34111 20 34285 20
+M 0 34111 20 34286 20
+M 0 34111 20 34287 20
+M 0 34112 1 34327 1
+M 0 34138 1 34333 1
+M 0 34139 1 34333 1
+M 0 34140 1 34333 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$
