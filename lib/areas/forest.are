@@ -683,13 +683,17 @@ The Path to Forest Castle~
 You are walking along a small path that leads north towards a small
 castle.  The turrets fly multicolored banners, flapping in the wind.  The
 moat is to the north, and you wonder if you would be welcome there.  The way
-back from the castle is to the east.  
+to the magic forest from the castle lies to the south.  
 ~
 0 0 2
 D0
 ~
 ~
 0 0 34101
+D2
+~
+~
+0 -1 1897
 S
 #34101
 The Moat~
@@ -1047,7 +1051,7 @@ S
 Outside the Royal Stables~
 You are walking along a dirt path outside of the royal stables of Forest
 Castle.  The path leads north from here, into the fields of grass that
-stretch out towards the Tanglewood.  To the south are the stables.  
+stretch out towards the Dearthwood.  To the south are the stables.  
 ~
 0 0 2
 D0
@@ -5665,7 +5669,7 @@ The Forest Land~
 You are walking along a densely wooded land north of the Forest Castle. 
 The woods here are pleasant, the wind cool against your face and the songs
 of birds chirping in the wind.  You wonder what could be out here.  You have
-heard tales speaking of the Tanglewood somewhere to the north, and beyond
+heard tales speaking of the Dearthwood somewhere to the north, and beyond
 that, the dreaded Darkwood.  
 ~
 0 0 2
@@ -5683,7 +5687,7 @@ The Forest Land~
 You are walking along a densely wooded land north of the Forest Castle. 
 The woods here are pleasant, the wind cool against your face and the songs
 of birds chirping in the wind.  You wonder what could be out here.  You have
-heard tales speaking of the Tanglewood somewhere to the north, and beyond
+heard tales speaking of the Dearthwood somewhere to the north, and beyond
 that, the dreaded Darkwood.  
 ~
 0 0 2
@@ -5701,7 +5705,7 @@ The Forest Land~
 You are walking along a densely wooded land north of the Forest Castle. 
 The woods here are pleasant, the wind cool against your face and the songs
 of birds chirping in the wind.  You wonder what could be out here.  You have
-heard tales speaking of the Tanglewood somewhere to the north, and beyond
+heard tales speaking of the Dearthwood somewhere to the north, and beyond
 that, the dreaded Darkwood.  
 ~
 0 0 2
@@ -5735,7 +5739,7 @@ The Forest Land~
 You are walking along a densely wooded land north of the Forest Castle. 
 The woods here are pleasant, the wind cool against your face and the songs
 of birds chirping in the wind.  You wonder what could be out here.  You have
-heard tales speaking of the Tanglewood somewhere to the north, and beyond
+heard tales speaking of the Dearthwood somewhere to the north, and beyond
 that, the dreaded Darkwood.  
 ~
 0 0 2
@@ -5753,7 +5757,7 @@ The Forest Land~
 You are walking along a densely wooded land north of the Forest Castle. 
 The woods here are pleasant, the wind cool against your face and the songs
 of birds chirping in the wind.  You wonder what could be out here.  You have
-heard tales speaking of the Tanglewood somewhere to the north, and beyond
+heard tales speaking of the Dearthwood somewhere to the north, and beyond
 that, the dreaded Darkwood.  
 ~
 0 0 2
@@ -6171,7 +6175,7 @@ You are exploring the Forest Kingdom which is spread all about you.  It
 is easy to see where the Kingdom gets it name, since this entire land is one
 massive forest.  The weather here is decent, not being too hot nor too cold
 and the traveling is easy.  To the north lies the boundary of the
-Tanglewood.  
+Dearthwood.  
 ~
 0 0 3
 D2
