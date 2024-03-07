@@ -3241,7 +3241,7 @@ Winding Path~
 To the north and west you see more of the path, surrounded by thicket so
 dense and sharp that nobody wants to take the time to cut a path through it.
 In the trees above are birds; you can hear their singing. Looking north, you
-think you see a building.
+think you see a castle.
 ~
 0 0 3
 D0
@@ -3255,19 +3255,15 @@ D3
 S
 #1897
 Winding Path~
-South of you is a path leading through impenetrable thicket. North is a
-building, a most magnificent building, for a structure built close to the
-ground.
+South of you is a path leading through impenetrable thicket. To the north,
+you see a castle in the middle of a forest.
 ~
 0 0 3
-E
-building magnificent~
-As far as you can tell, it is made entirely of faceted crystals,
-refracting the light into rainbows, dazzling to the sight. Peering
-closely at the crystaline columns which form the entrance, you think
-you see movement inside.
+D1
 ~
-D0
+~
+0 -1 34100
+D2
 ~
 ~
 0 -1 1896

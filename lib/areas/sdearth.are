@@ -2389,6 +2389,10 @@ D1
 ~
 ~
 0 -1 30096
+D2
+~
+~
+0 -1 30100
 D3
 ~
 ~
@@ -2475,7 +2479,7 @@ You see twisted trunks.
 D2
 ~
 ~
-0 0 29001
+0 -1 -1
 D3
 You see twisted trunks.
 ~
@@ -2486,11 +2490,20 @@ S
 The DearthWood~
 The trees of the DearthWood are thick and ancient, 
 all around you, the noises of the forest beckon.
-Gnarled trunks, and moss covered paths. The 
+Gnarled trunks grow among moss covered paths. The 
 light is shut out by the canopy making the woods
-seem even darker.
+seem even darker.  To the south, a faint path 
+leads to another part of the forest.
 ~
 0 4 0
+D0
+~
+~
+0 -1 30095
+D2 
+~
+~
+0 -1 34399
 S
 #0
 
