@@ -347,7 +347,8 @@ A crossroads in the fields~
 You are at a crossing of the roads in the middle of a 
 green, grassy field.  The road here is of dirt but level
 and lined with round rocks and pebbles.  You can go 
-north, south, east and west from here.
+north, south, east and west from here.  A {Wsignpost{x
+stands here on one side of the road.
 ~
 0 0 2
 D0 
@@ -370,6 +371,12 @@ You see the road turn through some hills and disappear.
 ~
 ~
 0 -1 -1
+E
+signpost~
+TO THEE NORTH: Blackrose Keep
+TO THEE SOUTH: Obsidian City
+TO THEE EAST: (unreadable scrawl)
+TO THEE WEST: Crescent Road ~
 S 
 #0
 

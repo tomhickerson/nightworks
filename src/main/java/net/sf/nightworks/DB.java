@@ -615,7 +615,7 @@ public class DB {
             }
 
             currentFile = new DikuTextFile(nw_config.lib_area_dir + "/" + strArea);
-
+            bug("found area: " + strArea);
             for (; ; ) {
                 if (currentFile.fread_letter() != '#') {
                     bug("Boot_db: # not found.");

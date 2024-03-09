@@ -1169,7 +1169,9 @@ occupants of this room are hungry.~
 S
 #22572
 Dark Alley~
-
+You are on a small alley weaving its way among ruined buildings and 
+bare walls, covered in debris.  Most of the area looks burned and 
+looted.
 ~
 0 532480 0
 D1
@@ -1183,7 +1185,8 @@ D3
 S
 #22573
 Dark Alley~
-
+You are winding your way between buildings that have been caved in,
+from some kind of attack.  The alley goes east and west.
 ~
 0 532480 0
 D1
@@ -1253,7 +1256,8 @@ D2
 S
 #22578
 Dark Alley~
-
+The alley ends here, but you can see the remains of a desecrated shrine
+to Odin to the east.  The way out of here is to the north.
 ~
 0 532480 0
 D0
@@ -1264,16 +1268,42 @@ D1
 ~
 ~
 0 0 22579
+E
+shrine~
+The shrine seems to have been desecrated greatly. It is slightly burned, and
+symbols have been marred across its surface. There is a presence of evil
+emenating from it.~
 S
 #22579
-Dead End~
-
+Desecrated Shrine~
+The shrine has been desecrated in every possible way. A dark substance has
+been smeared all along the walls and pictures of spiders have been drawn along
+the walls, floor, ceiling, and windows. The altar has been completely dowsed
+in the substance, and the statue of Odin has been melted to a slab of
+unreconizable stone. The touch of Odin has been forced from this place, and
+you detect the presense of evil in the air.
 ~
 0 532480 0
 D3
 ~
 ~
 0 0 22578
+E
+altar~
+The altar looks as if people have been sacrificed upon it. The substance would
+appear to be blood, and a lot of it. Whatever rituals where conducted here,
+you dont want to even think about.~
+E
+dark substance~
+The substance appears to be long dried blood.~
+E
+stone statue~
+The once proud image of Odin has been melted by a tremondous heat, and you
+can detect none of his normal features due to the damage.~
+E
+pictures~
+The pictures are of spiders in a grand contenance. You would suspect that
+thay have some religous signifigance to the person who drew them.~
 S
 #22580
 Main road~
