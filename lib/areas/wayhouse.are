@@ -385,13 +385,14 @@ sleep rest male 0
 AHMV ABCDEFGHIJK medium unknown
 #14024
 shadow~
-(no short description)~
-(no long description)
+A formless shadown is skulking about here.~
+A shadow is slowly moving about here, a part of the darkness which seems 
+to take the form of a man.
 ~
 ~
 unique~
 ABGOT U -750 0
-85 0 0d0+0 0d0+0 0d0+0 drain
+85 0 2d10+199 1d1+99 2d4+9 drain
 0 0 0 0
 DFIKNV CDL 0 N
 stand stand none 0
@@ -407,7 +408,7 @@ you study it, much less do anything else.{x
 ~
 unique~
 ABT TUZ -1000 0
-85 0 0d0+0 0d0+0 0d0+0 drain
+85 0 3d6+299 1d1+99 2d8+2 drain
 0 0 0 0
 EFHNX ABCDE 0 N
 stand stand none 0
@@ -452,7 +453,7 @@ it says,
 D0
 ~
 ~
-0 0 8201
+0 0 4320
 D1
 ~
 ~

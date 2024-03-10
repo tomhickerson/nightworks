@@ -1,0 +1,1547 @@
+#AREA
+spawn.are~
+The Spawning Pit~
+{20 60} Rossarian   The Spawning Pit~
+7600 7649
+
+
+#MOBILES
+#7600
+berserker raging~
+a raging berserker~
+A berserker storms around violently.
+~
+A wild berserker storms around furiously looking for something
+to release some of that built up tension on.
+Pity to whoever it comes across.
+~
+unique~
+ABCDEFG ABCDEFGIV 0 0
+21 1 10d24+60 1d1+49 25d1+6 smash
+-8 -8 -8 -4
+ABCDEFGKVX ABCP ABCDLQ ABCIK
+stand stand male 12000
+ABCHMV ABCDEFGHIJKNUVW medium unknown
+#7601
+scavenger chabrat~
+a chabrat~
+A warty scavenger sniffs for food.
+~
+One of the more disgusting scavengers of the realms, the chabrat was the
+result of some magical crossbreeding of crabs and giant rats.  Its hard
+shell is pocked with oozing warts, and its mouth constantly drips a fetid
+slime as it searches for food.  
+~
+unique~
+ABCDEFGH ABCDEFGVZ -100 0
+18 1 10d7+400 1d1+49 4d8+5 claw
+-6 -6 -6 -3
+ABCDEFGHKV ABC ABCL ABCI
+stand stand either 50
+ABCGXc ABCDEFHKQV medium unknown
+#7602
+dust cloud~
+a dust cloud~
+A cloud of dust flits around the room.
+~
+An indistinct cloud of grey dust flies around the room, spending its time
+examining the weapons.  Faint whispers of an unknown language reach your
+ears whenever it comes near, and although you do not know the words, you
+feel the bitter regret and loneliness in them.  
+~
+unique~
+ABCDEFGHO ABCDEFGNTUZ 500 0
+9 0 10d17+400 1d1+49 6d8+5 wrath
+-6 -6 -6 -3
+ABCDEFGHV ABCLQ ABCJQ ABCDHNS
+stand stand female 2000
+ABCHMV ABCDEFGHIJK medium unknown
+#7603
+mage golan darr~
+Golan Darr~
+A powerful mage searches for the secrets of the archives.
+~
+He acknowledges your presence with only a sneer, and then somehow you
+know his name is Golan Darr, here to unlock the mysteries of the ancient
+library.  Somehow he has placed the knowledge directly into your mind
+without speaking.  His robes are black as pitch, covered with a pattern of
+stars so realistic it appears as though he wears the night sky on his body. 
+~
+unique~
+ABCDEFGHR ABCDEFGV -700 0
+40 4 10d80+500 1d1+99 2d10+6 pierce
+-7 -7 -7 -3
+ABCDEFGKNV ABC ABC ABC
+stand stand male 11000
+ABCHMV ABCDEFGHIJK medium unknown
+#7604
+vitriol essence~
+the Vitriol Essence~
+The Vitriol Essence arises from the pool in wrath.
+~
+A giant made of gelatinous acid arises from its pool.  Its face is
+dominated by a massive mouth of needle-like fangs, and its arms are tipped
+with claws that could crush a hobbit with little trouble.  Its eyes glare at
+you and a thunderous voice booms out: "You fool!  You have awakened me too
+soon!  You must die, just as you have killed our hope of salvation!"  
+~
+unique~
+ABCDEFGT ABCDEFG 0 0
+25 2 10d80+500 1d1+49 3d10+5 acbite
+-3 -8 -8 -4
+ABCDEFGHKV ABCKL ABC ABC
+stand stand none 12000
+ABCHMV ABCDEFGHIJK huge unknown
+#7605
+flying polyp~
+a flying polyp~
+A flying polyp flails its tentacles at you.
+~
+A two-hundred pound mass of pulpy flesh and tentacles, it resembles a
+mutant jellyfish floating on air.  The rubbery skin has a mottled red and
+black pattern which changes from moment to moment.  A strange burbling
+sound, like the laughter of a drowning man, comes from the creature as it
+turns in your direction.  
+~
+unique~
+ABCDEFGHT ABCDEFGTV -800 0
+15 1 10d7+60 1d1+49 1d12+5 suction
+0 0 0 0
+ABCDEFGKV ABC ABCFI ABCE
+stand stand either 11000
+ABCGHSZ ABCDEFHJKLNOPQUVWXY medium unknown
+#7606
+statue iron golem~
+the iron golem~
+A reddish statue stands motionless.
+~
+This statue stands out from all the others.  At a mere twenty feet high,
+it is a quarter their height, as well as being a rusty red in colour.  Its
+features are rudely carved to resemble a squat humanoid standing at
+attention.  
+~
+unique~
+ABCDEFGT ABCDEFGNO 0 0
+95 95 10d130+5000 1d1+499 18d10+42 crush
+-11 -11 -11 -31
+ABCDEFGIJOVWX ABCLQ ABC ABC
+stand stand none 0
+ABCHJMV ABCDEFGHIJK huge iron
+#7607
+shabbath n'or nor~
+Shabbath N'or~
+Shabbath N'or awaits you.
+~
+Shabbath N'or, the Beast of Leng, rises up to its sixty foot height..  A
+mass of squirming, grey ropes glued together with black slime, dozens of
+gaping mouths devouring its own flesh, only to be excreted and attached
+elsewhere on the foul body, hundreds of staring eyes..  This is Shabbath
+N'or.  Its thoughts force their way into your mind and tell you: 
+{R"You are mine.."{x
+~
+unique~
+ABCDEFGR ABCDEFGHJZ -1000 0
+85 1 10d30+7000 1d1+99 5d7+66 wrath
+-8 -8 -8 -4
+ABCDEFGHKO ABC ABC ABC
+stand stand none 20000
+ABCHSZc ABCDEFHJKLOPQUVWXY giant unknown
+#7608
+oozing mass slime~
+an oozing mass~
+An oozing mass of slime sticks to the ceiling.
+~
+Dark green with patches of white, the slime sticks to whatever it
+touches.  And now it is reaching for you..  
+~
+unique~
+ABCDEFGT ABCDEFGPZc -100 0
+90 90 10d150+4000 1d1+499 18d8+40 slime
+-20 -20 -20 -30
+ABCDEFGHKV ABC ABCDFI ABCEI
+stand stand none 5000
+ABCGOS ABCEFK medium unknown
+#7609
+blood lurcher~
+a blood lurcher~
+The blood lurcher searches for prey.
+~
+A bulbous, distended stomach appears out of the darkness..  It is
+followed by huge talons on ropey arms, clawed feet, and a low, eyeless head.
+Its gaping mouth is filled with writhing tentacles.  The blood lurcher seeks
+to shred your body and suck you dry.  
+~
+unique~
+ABCDEFGHT ABCDEFGJc -600 0
+50 5 10d150+50 1d1+99 9d10+5 slash
+-6 -6 -6 -33
+ABCDEFGJKNV ABC ABC ABC
+stand stand either 4000
+ABCHMV ABCDEFGHIJK large unknown
+#7610
+mirror demon~
+a mirror demon~
+A mirror demon screams obscenities at you!
+~
+The mirror demon is shaped vaguely like a pretty, lithe woman, but that
+is where the resemblance ends.  Four faces sprout from a single head, and
+four arms curl from the same shoulders.  Its hips sport two pairs of legs,
+muscled like a dancer's.  
+~
+unique~
+ABCDEFGR ABCDEFG -500 0
+100 100 10d100+500 1d1+499 19d10+55 stab
+-66 -66 -66 -33
+ABCDEFGJKV ABC ABC ABC
+stand stand none 8000
+ABCHMV ABCDEFGHIJK medium unknown
+#7611
+head h'sin hsin varu~
+the head of H'sin Varu~
+A gigantic head is nailed to the floor.
+~
+A six-foot-tall head has been severed from its body at the neck, and
+nailed onto the horrid floor.  Its eyes have been stitched shut, but the
+head snaps up to attention at the sound of your footfalls.  The head speaks
+unto you: {W"Know well that I am H'sin Varu, the undying.  Do not resist
+those that come from Outside, lest you suffer a worse fate.."  {x Having
+said his piece, he closes his mouth and remains silent.  
+~
+unique~
+ABCDEFGT ABCDEFGc 600 0
+75 1 10d10+500 1d1+499 2d10+53 bite
+-7 -7 -7 -3
+ABCDEFGHKN ABC ABC ABC
+stand stand male 20000
+ABCHMV ABCDEFGHIJKV medium unknown
+#7612
+burning beetle~
+a burning beetle~
+{RA large beetle flickers with inner fire.{x
+~
+A huge black beetle glares menacingly at you with its dark eyes.  Under
+its carapace, red light flickers as though the insect was on fire.  The same
+glow burns along the length of its thin antennae.  
+~
+unique~
+ABCDEFGH ABCDEFGZ -300 0
+78 1 10d40+500 1d1+49 2d10+60 chomp
+-9 -9 -7 -3
+ABCDEFGV ABC ABCFHI ABCEI
+stand stand either 100
+ABCGO ABCKM medium unknown
+#7613
+living stump~
+a living stump~
+{gA mossy, rotten stump crumbles into the water.{x
+~
+A thick stump lays half-submerged in the water.  The crumbling wood has
+left ragged holes in the stump that resemble a face.  To your great
+surprise, its roots twist and curl, and the stump rears into motion right at
+you!  
+~
+unique~
+ABCDEFGT ABCDEFG -250 0
+68 1 10d16+5600 1d1+49 18d10+5 none
+-65 -65 -65 -32
+ABCDEFGKNVW ABC ABC ABC
+stand stand none 2000
+ABCHMV ABCDEFGHIJK medium unknown
+#7614
+little person~
+a wee little person~
+A little person glares at you.
+~
+This little person is no more than three feet high.
+However, this little person is holding a very BIG rock and looking
+at you in an extremely unfriendly fashion.
+~
+unique~
+ABCDEFGT ABCDEFGJc -550 0
+92 2 10d230+4800 1d1+499 15d8+48 pound
+0 0 0 0
+ABCDEFGHJKLUV ABC ABCLQ ABCFR
+stand stand either 3500
+ABCHMV ABCDEFGHIJK small unknown
+#7615
+snippeth n'mor dragon large~
+Snippeth N'mor~
+A large dragon stands here eagerly.
+~
+This is Shabbath N'or's older, more common brother.  You've probably seen
+somthing like him just about everywhere you have travelled.  He sure gets
+around.  
+~
+unique~
+ABCDEFGR ABCDEFGJZ -1000 0
+88 8 10d130+600 1d1+99 5d12+10 wrath
+-13 -13 -13 -41
+ABCDEFGKO ABC ABC ABC
+stand stand none 50000
+ABCHZc ABCDEFHJKLOPQUVWXY giant unknown
+#7616
+noble djinni~
+a Djinni Noble~
+A noble Djinni grins proudly.
+~
+A large Djinni, a genie from the elemental plane of air
+looks down and grins mockingly.
+A truly fine example of warrior finesse.
+~
+unique~
+ABCDEFGR ABCDEFGT 750 0
+55 4 10d130+1300 1d1+99 5d20+66 pound
+-70 -70 -70 -70
+ABCDEFGH ABC ABC ABCD
+stand stand male 75000
+ABCHMV ABCDEFGHIJK medium unknown
+#7617
+rager ~
+a fierce rager~
+A fierce rager charges forth.
+~
+A warrior of great reknown, this rager is dressed in fine armors
+and wields a dangerous looking large sword.
+~
+unique~
+ABCDEFGT ABCDEFGV 0 0
+55 2 10d20+600 1d1+199 5d23+7 pierce
+-7 -7 -7 -7
+ABCDEFGHKW ABC ABC ABC
+stand stand male 15000
+ABCHMV ABCDEFGHIJK medium unknown
+#7618
+big hydra~
+{GThe Giant Hydra{g~
+A {gHydra{G of giant proportions looms over you.{X
+~
+Foul smelling saliva drips from the yellowed teeth that line each of this
+massive reptillian creature's five maws.  It's dark, thick leathery hide is
+pulled taught over its well musced and obviously strong form.  Whilst being
+slow on its feet, its serpentine heads move with frightening fluidity.  
+~
+unique~
+ABCDEFGT ABCDEFGJVZ 0 0
+60 0 10d20+5000 1d1+99 5d5+50 bite
+-8 -8 -8 -8
+ABCDEFGH ABC ABC ABC
+stand stand either 7500
+ABCHMV ABCDEFGHIJK small unknown
+#7619
+skeleton figure skeletal lich~
+The Lich~
+A richly attired skeletal figure broods in silence.
+~
+Grey sinewy strips of decaying flesh hang from the skeletal figures dank
+rancid bones.  From within the depths of it's eye sockets burns a most
+unholy flame of a poisonous emerald hue.  
+~
+unique~
+ABCDEFGR ABCDEFG -1000 0
+75 6 10d20+6800 1d1+999 5d5+50 wrath
+-75 -75 -75 -75
+ABCDEFG ABCMP ABCFLQ ABCNY
+stand stand none 0
+ABCHMV ABCGHIJ medium unknown
+#7620
+man hybrid manscorpion scorpion~
+The Manscorpion~
+A hybrid of man and scorpion clicks its claws at you.
+~
+The beast, bearing its chitinous clad form upon six similarly armored
+legs, fixes you with an anger filled glare with its pupil-less yellow eyes. 
+Emitting a sub-vocal growl, it slowly advances forward, flexing its talonous
+clawed arms.  
+~
+unique~
+ABCDEFGR ABCDEFG -750 0
+50 1 10d200+75 1d1+99 5d10+50 smash
+-7 -7 -7 -7
+ABCDEFGKM ABC ABCDHL ABCK
+stand stand none 20000
+ABCHMV ABCDEFGHIJKQU large unknown
+#7621
+death knight~
+a death knight~
+A knight clad in darken plate stands in a shadow.
+~
+The most evil of all knights, this vile undead warrior personifies terror
+as its blazen eyes scan the room.  Feared throughout generations these
+cursed knights are deserved of everything feared in them.  
+~
+unique~
+ABCDEFGT ABCDEFGKQc -1000 0
+66 2 10d13+1100 1d1+99 5d20+5 wrath
+-7 -7 -7 -7
+ABCDEFGK ABC ABC ABC
+stand stand none 10000
+ABCHMV ABCEGHIJ medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#7600
+A Reeking Gorge~
+Like a jagged wound cut into the flesh of the earth, the ground falls
+away here, as though some primordial titan stabbed the earth with its
+trident in wrath.  From the deeps below rises a thin mist, pale yellow in
+colour, reeking of fungus, of rot, and of the uncounted years this place has
+decayed, far from the sight of the world.  A pale white boulder stands out
+from the rest of the terrain, both by its colour and its soft roundness.  On
+its side, in letters the size of a minotaur, you can just make out an
+inscription.  At your feet, a crumbling stair with steps six feet high picks
+its way down the canyon wall.  
+~
+0 0 4
+E
+inscription~
+{Y===========================
+{y....How mightily we wrought...
+In t.. bowels of earth..  ...
+ ...... it our sanctuary. .....
+Lit..e knew we of  ....   ..
+The Others that would covet...
+ ...y..lahothep...fr.m..Outside..
+{Y==========================={x
+The rest of the inscription is worn away, ravaged by time.
+~
+D1
+~
+~
+0 0 7639
+D5
+~
+~
+0 0 7601
+S
+#7601
+The Gate~
+Before you lies the spectacular remains of a mammoth gate of stone,
+banded with iron.  Some 70 feet tall, the titan doors were obviously meant
+to last for eternity and protect from all comers.  But now the gates lay
+twisted on their adamant hinges, nearly ripped from the cliffside they bar
+by some vast force, a sickly yellow mist flowing thickly from the darkness
+within.  They were meant to guard forever from any threat the world could
+bring.  But not all dangers come from outside..  
+~
+0 0 4
+E
+gate~
+The sight of the mighty doors twisted on the ground, like lovers slain in
+the throes of passion, sends a chill through you.  What manner of colossal
+force could wreak such destruction?  
+~
+D2
+~
+~
+0 0 7602
+D4
+~
+~
+0 0 7600
+S
+#7602
+Anteroom~
+Empty.  That is the best word to describe the room you stand in.  With a
+ceiling over fifty feet high and walls twice that far apart, the room's
+emptiness exudes a near-palpable menace.  The walls are lined with large
+globes of violet crystal, bathing you in an eerie light that makes parts of
+your clothing and equipment seem to glow of their own accord.  But you are
+the only things the light has to illuminate.  Aside from a staircase, and a
+doorway to the east, the room is barren.  
+~
+0 8 0
+E
+crystal~
+Just out of your reach, the globe is the size of a giant's skull, and has
+been melted into the very rock.  Its center burns with an unholy light that
+leaps towards your face as you peer at it, but cannot escape its crystal
+prison.  
+~
+D0
+~
+~
+0 0 7601
+D1
+~
+~
+0 0 7603
+D3
+You see the faint outlines of a hidden door.
+~
+trapdoor~
+1 7620 7637
+D5
+~
+~
+0 0 7606
+S
+#7603
+Guardhouse~
+The room you have entered seems as though it was designed for guardsmen. 
+Racks for spears and shields line one wall, a map of the surrounding area
+carved in stone adorns another, a cell occupies the east wall, and various
+obscenities and limerics are scrawled over them all.  A typical guardhouse. 
+Except that these guards would have had to have been thirty feet tall.  
+~
+0 12 0
+E
+map~
+The map shows landmarks of the area that you recognize, that you yourself
+have seen.  Yet it also shows a range of mountains, stretching clear
+overhead, where the land is now flat and barren for miles around.  Where
+could the very mountains go?  
+~
+E
+limerics~
+{wI woz ere.
+Ere I woz.
+Woz I ere?
+Yes I woz.{x
+~
+E
+obscenities~
+"Thy mother was an unwashed fire giant" and "Thy father's poetry is the
+screeching of a hydra" seem to be the highlights.  
+~
+D1
+A large metal grate blocks the way.
+~
+grate~
+1 0 7605
+D2
+~
+~
+0 0 7604
+D3
+~
+~
+0 0 7602
+S
+#7604
+Weapons Locker~
+This appears to be the armoury of the guardsmen.  Rusting racks of arms
+line the walls, the weight of your footsteps bringing puffs of dust from the
+rotten weapons.  You see mostly swords, polearms, and other implements
+suitable for hacking off limbs, all practically falling apart before your
+eyes.  
+~
+0 8 0
+D0
+~
+~
+0 0 7603
+S
+#7605
+The Cell Block~
+Large quantities of stone, thick metal bars, chains and manacles attached
+to the wall opposite the door, and an enormous skeleton mark this nearly
+lightless room as a prison cell.  A pack of large rats is gnawing at the
+skeleton.  Strange.  Surely, after all these years, even the marrow has
+rotted away from those old bones.  
+~
+0 9 0
+D3
+~
+~
+1 0 7603
+S
+#7606
+Landing~
+The staircase stops here for a moment and opens onto a landing before
+continuing up and down.  A few of the crystal globes which have lit the
+darkness are cracked and have gone out.  South of you is a strange hole in
+the wall, seemingly melted out of the rock into a doorway.  To the west, the
+wall has been broken down to reveal a small chamber.  High on that same
+wall, a rectangular slit has been cut into the stone.  
+~
+0 8 0
+E
+slit~
+About twenty feet off the floor, it is perhaps three feet across.  It
+seems to have been cut straight through the wall into the chamber behind.  
+~
+D2
+The rock has been melted away here.
+~
+~
+0 0 7608
+D3
+~
+~
+0 0 7607
+D4
+~
+~
+0 0 7602
+D5
+The stairway is crumbling away.
+~
+~
+0 0 7611
+S
+#7607
+Murder Slit~
+Directly in front of the wall is a huge stone roughly carved to resemble
+a chair.  A large, misshapen skeleton seems to have been melted into that
+seat.  High on the east wall is a slit cut into the rock.  Scattered around
+the floor is some rubble from the collapsed wall, and a few spears with odd
+fletchings.  You notice that there is no sign of any door.  If that wall
+hadn't collapsed, how would anyone get in or out of here?  
+~
+0 9 0
+E
+spears~
+Upon closer inspection, these 'spears' in fact seem to be huge crossbow
+bolts.  
+~
+E
+slit~
+It is cut through the wall to the landing on the other side of the wall,
+and reminds you of something you have seen in certain castles, murder slits
+they were called, places to safely fire arrows at invaders.  
+~
+E
+skeleton~
+Looking closer, the skeleton doesn't seem to have melted into the chair
+as much as grown out of it.  Its skull resembles a dragon's, while its body
+is more reminiscent of a large ogre.  Out the wrist of its right arm sprouts
+a boney protuberance, almost like a large crossbow grown from bone and
+sinew.  
+~
+D1
+~
+~
+0 0 7606
+S
+#7608
+Eaten Away~
+The walls of this chamber are irregularly shaped, like a cave washed out
+by water for thousands of years.  The floor, however, is perfectly flat,
+half of its area taken up by an enormous pentagram, surrounded by strange
+writing and oddly warped circles.  Beyond the pentagram on the far side of
+the chamber is a large gate built directly into the floor, covered with a
+host of magical sigils.  The crystal globes in this area glow with a blood
+red light, and seem to pulsate slowly with a life of their own.  
+~
+0 12 0
+E
+sigils~
+They seem oddly related to the language of magic, but more archaic and
+strangely frightening.  Looking at them, they seem to squirm and writhe
+under your gaze.  
+~
+E
+gate~
+A single metal door bolted down onto the floor, every available surface
+on it has been covered with magical sigils.  Whatever its designers created
+it for, they were certainly thorough.  
+~
+E
+writing~
+You cannot recognize a word of the strange script, though looking at it
+fills you with an faint sense of rememberance, as if recalling a
+long-forgotten dream.  
+~
+E
+pentagram~
+Grooves have been cut into the floor with absolute precision and filled
+with a dark blue variety of marble to create the pentagram.  The circle one
+would expect to surround it is instead a number of ovals that have been
+cunningly placed to create a circular pattern.  
+~
+D0
+~
+~
+0 0 7606
+D5
+A gate is built into the floor.
+~
+gate~
+1 7614 7609
+S
+#7609
+A Narrow Ledge~
+You stand on a small ledge of rock overlooking a deep pit, from which is
+coming a constant, soft scratching sound, like sand being blown over
+parchment.  The walls of the nearly round pit extend up perhaps ten feet,
+and down into blackness.  The wall near you has been polished to a shine,
+and is punched with innumerable holes.  
+~
+0 8 0
+E
+holes~
+It looks almost as though some breed of worm has burrowed through the
+rock, back and forth a million times.  
+~
+D4
+~
+gate~
+1 7614 7608
+D5
+Something is moving... everywhere.
+~
+~
+0 0 7610
+S
+#7610
+Ants Ants Everywhere And Only You To Eat~
+You land in their midst, ants the size of a man's finger, in their
+millions eating away at the very stone as they have for uncounted years,
+carving for themselves an inescapable pit, their monument to hunger.  Up to
+your waist in the creeping mass, they burrow into your flesh, ripping the
+meat of your eyes, gnawing you to the marrow.  If you have a god, pray they
+answer your calls...  
+~
+0 13 0
+E
+ants~
+Yes, take a closer look, that one is chewing on your eye.
+~
+S
+#7611
+Crumbling Stairway~
+The stone stairway here has crumbled and broken in places, making the
+acsent and descent much easier, given that the steps here are normally six
+feet high.  The ruin has spread to some of the violet crystals, some of
+which are now shattered.  A faint reek of rotted meat fills the air.  
+~
+0 9 0
+E
+crystals~
+The rocks beside the crystals that have shattered are coated with a pale
+white fungus that has eaten into the stone.  
+~
+D4
+~
+~
+0 0 7606
+D5
+~
+~
+0 0 7612
+S
+#7612
+Collapsed Stairway~
+The stairway has collapsed in this section, now a confusing jumble of
+rectangular stones, girded with shallow pits in the earth.  From far below,
+you hear water dripping.  
+~
+0 9 0
+D0
+~
+~
+0 0 7600
+D4
+~
+~
+0 0 7611
+D5
+~
+~
+0 0 7613
+S
+#7613
+Cyclopean Pillars~
+A vast hall spreads out into the darkness before you.  Massive pillars of
+black stone, taller and greater than the mightiest trees of Alanthia, line
+the hall as far as the eye can see.  The floor, made of blocks of dark
+masonry, is covered with slippery fungal growths, fed by the constant drips
+of water from the high ceiling.  Almost hidden by the constant drip are
+voices, soft and gentle as a feather, whispering amongst themselves of
+horrid things.  {W"Hastur.....  Ord of the Wells..  Let them be... 
+Tsathoggua....  E well of night..  Fleshy ones...  Not our concern....  Our
+time will come again.."  {x Looking up, you strain to make out the huge
+graven images carved into the pillars where your light fades away, massive,
+twisted faces of stone, but as still as the rock which spawned them.  
+~
+0 0 0
+D0
+~
+~
+0 0 7616
+D1
+~
+~
+0 0 7615
+D3
+~
+~
+0 0 7614
+D4
+~
+~
+0 0 7612
+S
+#7614
+Fountain Room~
+At the center of this once-opulent room stands a simple fountain of
+stone, now dry.  However, the floor is covered with a steadily-flowing
+current of dark water which creeps from cracks in the northern wall, and
+seeps away again in the south.  Floating in the current you catch a glimpse
+of a few bloated maggots, swollen and drowned.  The crystal globes in this
+room have long since been smashed.  
+~
+0 9 0
+D1
+~
+~
+0 0 7613
+S
+#7615
+Too Bright!~
+Blinding light spills into your eyes from the thousands of candles lining
+the room.  The walls, the ceiling, even the floor are mirrored with polished
+metal, and you see reflections of yourself cascading everywhere you look,
+extending to infinity.  
+~
+0 8 0
+E
+reflections~
+As you peer closely at your images, one of them, far in the distance,
+waves its hand and runs out of view.  Another one, just below your feet,
+grins mirthlessly, and then returns to normal.  
+~
+D3
+~
+~
+0 0 7613
+S
+#7616
+Shattered Altar~
+A huge altarstone dominates the center of the room, the only thing that
+has been spared destruction here.  A towering set of statues at the southern
+end of the room have been toppled and defaced, carvings on pillars have been
+hacked with blades, and a river has eroded its way through the northern
+wall, the foul water spilling over the floor and disappearing through large
+cracks at the opposite side of the chamber.  Embedded in the floor just
+beside the intruding water lays a stained metal plaque.  
+~
+0 9 0
+E
+plaque~
+The strange letters twist under your gaze, reforming themselves into
+words you can understand..
+{R"Gaze Upon The Might of The Ones That Were Before And Shall Be Again"{x
+~
+E
+altarstone~
+It is some twenty feet high and over eighty feet across, a mammoth
+obsidian altar carved to resemble a disembodied mouth screaming curses to
+the skies far above.  Gaps between the teeth lead into shallow channels
+which empty into copper pots at each corner, where the blood of sacrifices
+was likely collected for some unknown and horrible purpose.  
+~
+E
+statues~
+If these are the gods of the builders of this structure, they long ago
+abandoned these halls to their fate.  Now toppled to the ground, the twisted
+monstrosities resemble nothing more than the horrid spawn of squid, spider,
+and snake.  
+~
+D0
+~
+~
+0 0 7622
+D1
+~
+~
+0 0 7617
+D2
+~
+~
+0 0 7613
+D3
+~
+~
+0 0 7619
+S
+#7617
+Faces of the Enemy~
+Everything is looking at you.  The walls, the floor, the ceiling..  The
+entire room has been constructed, by some magic the likes of which are only
+whispered, of living faces.  Humans, dwarves, ogres, dragons, goblins, faces
+of all the races of Alanthia and many you cannot recognize, some unholy
+magic has torn away the heads of thousands of living things and created this
+place with them.  A howling rips at your ears, the voices of all of the
+creatures trapped here, screaming at you, some in hatred, some pleading,
+others simply mad from the untold stretches of time spent imprisoned.  
+~
+0 8201 0
+E
+goblins~
+This goblin says nothing. It just cries to itself.
+~
+E
+dragons~
+"..  Am the wisest here..  Why do they not see?  YOU must see that!  Free
+me!  Must..  Free...  Falling downfallingdownalwaysincircles.."  
+~
+E
+ogres~
+"..  WILL KILL YOU!  Rip meat from bones and devour!  Will KILL you!"  
+~
+E
+dwarf~
+"..  Must work the stone, work, will be freed when it is done, work the
+stone, work the stone, work the stone, work the stone, work.."  
+~
+E
+dwarves~
+"..  Must work the stone, work, will be freed when it is done, work the
+stone, work the stone, work the stone, work the stone, work.."  
+~
+E
+humans~
+"..help me I cannot go on like this.."
+~
+D0
+~
+~
+0 0 7618
+D3
+~
+~
+0 0 7616
+S
+#7618
+Conjuring Room~
+The floor disappears beneath your feet, but you do not fall.  Somehow,
+here, far beneath the earth, the stars have come out.  All around you, above
+and below, ten thousand pinpoints of light dot the midnight sky.  Brightest
+of all the constellations in the surrounding dark is one directly below you,
+a perfectly formed pentagram.  Intermittently, streaks of purple lightning
+flash around the edge of the magical star-symbol.  
+~
+0 9228 0
+D2
+~
+~
+0 0 7617
+M 200 H 200
+S
+#7619
+Hall of Heroes~
+Over one hundred statues line this massive hall, their eighty-foot
+heights forged from some variety of bluish metal which has remained unharmed
+and unstained all these years.  A silvery path cuts its way through the
+center of the room into another hall in the north.  The crystal globes that
+light the rest of the structure have been replaced with odd torches, which
+seem to burn with an almost ethereal silver fire.  
+~
+0 8 0
+E
+statues~
+Perhaps these were the heroes of this ancient land.  They certainly are
+an awe-inspring sight, formed with perfect detail to resemble warriors,
+scholars, and workers of magic.  Curiously there are no statues of priests. 
+Maybe the gods of this dead race communicated directly with them, not
+needing the services of priests to spread their word.  
+~
+D0
+~
+~
+0 0 7620
+D1
+~
+~
+0 0 7616
+S
+#7620
+Hall of the Vanquished~
+Some thirty statues are scattered randomly through this hall.  They seem
+to have been formed with perfect detail, right down to the skin tone and the
+moistness of their eyes....  Eyes which seem to follow you as you move. 
+They appear to be depictions of the former occupants of these lands.  In the
+western wall, the stone has been shattered, carving out a rough cavern. 
+Hanging high above in mid-air, with no visible means of support, is a
+warning written in flame.  {R"Yith And Jotunheim Fell Before Us, As Did
+These.  As Will All."  {x 
+~
+0 0 0
+E
+statues~
+Examining more carefully, you see that these cannot be statues, unless
+their creators could carve hairs and pores of the skin onto their works. 
+They could only be, then, the living, somehow trapped here motionless for
+all the ages since this place fell.  Looking again, you see the terror and
+despair in their eyes, the only thing about them which moves.  
+~
+D2
+~
+~
+0 0 7619
+D3
+~
+~
+0 0 7621
+S
+#7621
+Last Stand~
+Bones fill this rough cavern which has been brutally torn from the rock. 
+The lives of hundreds must have ended here in horrific fashion.  Most of the
+massive skeletons are incomplete, as if ripped limb from limb, and some are
+simply shattered.  The far western wall has been melted and many bones are
+stuck inside the now-frozen rock.  A powerful odour of fungus permeates the
+air.  
+~
+0 9 0
+D1
+~
+~
+0 0 7620
+S
+#7622
+Portal Room~
+The floor of this room is completely awash with foul-smelling water which
+floods in from a hole in the eastern wall.  To the north, three huge hoops
+of stone stand free on pedestals, flickers of old magic spitting off them. 
+Images flash inside the portals irregularly, scenes of distant lands and
+ruined cities.  A rickety staircase of wood seems to have been constructed
+within the last few hundred years, leading up to a small hole in the wall.  
+~
+0 8 0
+E
+portals~
+You catch glimpses of a circle of stones somewhere to the northeast of
+Midgaard, the lands outside Old Thalos, a mountaintop, and a vast, empty
+city somewhere beneath the ocean.  The flickering images only last fractions
+of a second at a time, otherwise you can see straight through the stone
+hoops to the wall behind.  
+~
+D0
+~
+~
+0 0 7625
+D1
+~
+~
+0 0 7629
+D2
+~
+~
+0 0 7616
+D4
+A crumbling wood staircase ends at a hole high in the wall
+A crumbling wood staircase ends at a hole high in the wall.
+~
+~
+0 0 7623
+S
+#7623
+A Narrow Passage~
+You stand in a plain rectangular passageway, which leads to a door in the
+north, while a wooden stairway leads down.  The air is filled with a soft,
+regular thumping like a heartbeat.  
+~
+0 8 0
+D0
+~
+door~
+1 0 7624
+D5
+~
+~
+0 0 7622
+S
+#7624
+Catwalk~
+You stand on a catwalk overlooking a large metal pool, filled to
+overflowing with a caustic green sludge which bubbles madly, the vapours
+from which painfully burn your eyes.  
+~
+0 8200 0
+D2
+~
+door~
+1 0 7623
+S
+#7625
+Blasted Remains~
+Craters pit the floor, and smashed pillars lay on their sides where they
+were toppled in this blasted room.  The cracked bottoms of the deeper
+craters spew forth a sulphurous vapour into the air.  Passageways lead to
+the west and south, while a smooth hole has been carved in the northern
+wall.  
+~
+0 9 0
+D0
+~
+~
+0 0 7632
+D2
+~
+~
+0 0 7622
+D3
+~
+~
+0 0 7626
+S
+#7626
+An Empty Passageway~
+A dusty passageway winds its way into the darkness before you.  Small
+drippings of moisture and glowing fungal growths provide the only relief on
+the bare walls.  
+~
+0 9 0
+D0
+~
+~
+0 0 7627
+D1
+~
+~
+0 0 7625
+S
+#7627
+An Echoing Hallway~
+Every noise you make in this hollow passageway echoes back to you, and it
+seems as though the very rocks are watching you silently.  The hallway at
+this point stretches south and curls around to the west.  
+~
+0 0 0
+D2
+~
+~
+0 0 7626
+D3
+~
+~
+0 0 7628
+S
+#7628
+The Archives~
+Thousands upon thousands of gigantic shelves fill this colossal room from
+floor to ceiling, filled with hundreds of thousands of books.  The volumes
+are bound in a bluish metal, and stamped with the strange runes common to
+this place.  A complex locking mechanism seems to keep the books in place,
+one which works very well, for you can see only one or two scattered volumes
+which have fallen over the millenia.  
+~
+0 8200 0
+E
+shelves~
+The shelves disappear into the dark depths of the library, near-limitless
+in their extent.  What knowledge must be sealed up in these volumes!  
+~
+D1
+~
+~
+0 0 7627
+S
+#7629
+Underwater!~
+An underground river has carved for itself a tube to flow through the
+rock here.  The current pulls you strongly to the west, but you could still
+swim to the east with some effort.  
+~
+0 9 6
+D1
+~
+~
+0 0 7630
+D3
+~
+~
+0 0 7622
+S
+#7630
+A Tight Squeeze~
+The underground river narrows here and the current increases greatly. 
+Large slimy objects ooze around your body in the raging torrent, and the
+water exudes a foul reek.  From here the river flows north and west.  
+~
+0 9 6
+D0
+~
+~
+0 0 7631
+D3
+~
+~
+0 0 7629
+S
+#7631
+A Turn in the River~
+The sludgy water extends up to the ceiling here, where the river bends
+sharply, extending to the west and south.  Small pieces of bone and meat
+drift past your vision, drawn by the current to some unknown destination
+downstream.  
+~
+0 0 0
+D2
+~
+~
+0 0 7630
+D3
+~
+~
+0 0 7632
+S
+#7632
+A Dark Pool~
+Stalagtites pierce the darkness above your head, their faint reflections
+glimmering in the dark pool of scummy water below.  A strange scent, foul
+like milk left in the sun for a week, and yet strangely beguiling, fills the
+air.  A hole in the wall is to the south, while the river flows through
+openings in the north and east walls.  
+~
+0 9 0
+D0
+~
+~
+0 0 7633
+D1
+~
+~
+0 0 7631
+D2
+~
+~
+0 0 7625
+S
+#7633
+Pale Boulders~
+A wide, low cave stretches out before you.  Small stalagtites hang from
+the ceiling, and the floor is littered with hundreds of wide boulders,
+dusted with pale-coloured fungus.  The stream flowing in from the north
+widens to fill the room with a few feet of sticky water.  
+~
+0 9 0
+D0
+~
+~
+0 0 7634
+D2
+~
+~
+0 0 7632
+S
+#7634
+Swampy Growths~
+The water here flows very slowly, and a strange pool of life has sprung
+up.  Thick carpets of algae, pale white reeds, and some breed of floating
+mushroom dominate the cave, while a few examples of stumpy trees lay
+scattered around the perimiter.  A soft, regular thumping sound fills the
+otherwise silent cave.  
+~
+0 9 0
+E
+trees~
+No more than 10 feet high, the tree seems made up more of roots than
+anything else, while its bark is spongy and slimy.  So that's what happens
+to a tree left underground for so long.  
+~
+D1
+~
+~
+0 0 7635
+D2
+~
+~
+0 0 7633
+S
+#7635
+Waterfall~
+A 30-foot waterfall tumbles down into a deep pool, and might have been
+beautiful were it not for the grey, slimy water, and the chunks of stinking
+meat floating in the pool.  A carved set of steps lead up the side of the
+waterfall, from where you can hear a wet thump, rhythmically pounding in
+your ears.  
+~
+0 8 0
+D3
+~
+~
+0 0 7634
+D4
+~
+~
+0 0 7636
+S
+#7636
+Heart of the River~
+A large cave spreads out into the darkness here.  Cracks in the walls and
+ceiling leak a strong current of spring water into the pool your feet stand
+in.  A foul waterfall cascades down just behind you, spraying a fine mist in
+the air and coating you with a slippery ooze.  And hanging high in the air
+is..  A hole.  A hole has been torn in the fabric of space, lending you a
+glimpse into some dark and chaotic realm.  A rumble which you feel more than
+hear emanates from within.  
+~
+0 8 0
+E
+hole~
+A ragged tear in the fabric of reality, it appears to be a gate from some
+other place.  You can see blurred images, flashes of what might be tentacles
+or faces, but your eyes can perceive nothing clearly within.  A magical
+sigil or ward of some sort traces faintly over the hole, blocking any
+passage in or out.  
+~
+D0
+~
+~
+0 0 7640
+D5
+~
+~
+0 0 7635
+S
+#7637
+A Tiny Passageway~
+You can barely squeeze your body into this small passageway.  The floor
+is covered with many small footprints, going back and forth.  To the east
+lies a small, partially hidden door.  
+~
+0 8 0
+D0
+~
+~
+0 0 7638
+D1
+~
+trapdoor~
+1 7620 7602
+S
+#7638
+Pygmy Haven~
+A wide, low-ceilinged cave has been crudely cut out of the rock.  The
+walls and floor are covered with paintings of great skill however, depicting
+tiny people killing beasts and people many times their own size, and eating
+them.  In the far recesses of the cave are a few bones scattered about.  
+~
+0 8 0
+E
+paintings~
+The paintings are stories, depicting the tiny people attacking large
+white bears, elves wandering the forest, small groups of minotaurs, and many
+other creatures.  All the stories end with the pygmies roasting and eating
+their victims.  
+~
+D2
+~
+~
+0 0 7637
+S
+#7639
+A Crack in the Mountainside~
+The stone of the mountain has cracked here, leaving a natural passageway
+to the other side.  To the east you hear the sound of running water, while
+an odour of fungus wafts in on the breeze from the west.  
+~
+0 4 0
+D4
+~
+~
+0 0 8840
+D3
+~
+~
+0 0 7600
+S
+#7640
+A dripping tunnel~
+The tunnel walls are coated with a purplish fungus which drip with
+moisture.  The sound of the falling drops of water echoes in your ears.  
+~
+0 8 0
+D0
+~
+~
+0 0 7641
+D2
+~
+~
+0 0 7636
+S
+#7641
+A drippy tunnel~
+Drops of water fall regularly from the ceiling, and in places,
+stalagtites have begun to grow.  On the floor, a foul-smelling pile of dead
+skin rots slowly.  
+~
+0 8 0
+D0
+~
+~
+0 0 7642
+D2
+~
+~
+0 0 7640
+S
+#7642
+A really drippy tunnel~
+A few cracks in the ceiling of the tunnel allow water to fall heavily to
+the floor, making it seem as though it were raining here, far underground. 
+The floor is slick with a reeking white pus which does not wash away with
+the water.  
+~
+0 8 0
+D0
+~
+~
+0 0 7643
+D2
+~
+~
+0 0 7641
+S
+#7643
+A blue cavern~
+The air is moist and cool in this large cavern.  The walls stretch high
+into the air, and all around, a dull blue glow emanates from the rocks.  
+~
+0 8 0
+D0
+~
+~
+0 0 7644
+D2
+~
+~
+0 0 7642
+S
+#7644
+Heartfelt longings~
+The cavern is filled with a ruddy glow from no apparent source.  The
+walls are covered with long, clinging vines which, so slowly as almost to be
+unnoticeable, begin to reach out for you.  
+~
+0 8 0
+D0
+~
+~
+0 0 7645
+D2
+~
+~
+0 0 7643
+S
+#7645
+Flickering lights~
+The rocky walls of this small, dry cave are covered with large, glassy
+windows, from which magically spring flashing and flickering images of
+far-away people and places.  The effect is quite disconcerting, and you feel
+your intellect begin to slowly drain away.  
+~
+0 8 0
+D0
+~
+~
+0 0 7646
+D2
+~
+~
+0 0 7644
+S
+#7646
+A dark room~
+The end of the tunnel is brought forth suddenly by a dark wall.  This
+room, covered in moss and vines is small in size, though echos boom forth,
+emminating from any sound even vaguelly audible.  Near the north wall of
+this room there is a drop into a pit of total darkness, sounds of soft
+chewing echo around the tunnel.  
+~
+0 8 0
+D2
+~
+~
+0 0 7645
+D5
+~
+~
+0 0 7647
+S
+#7647
+The End~
+After he drop down from the room above, this dark pit stretches out for
+quite a distance around.  Many bones and torn clothing lie around the floor,
+scattered in a most careless fashion.  A few rocks clatter down the sides of
+this pit and onto its rugged floor.  
+~
+0 8 0
+D4
+~
+~
+0 0 7646
+S
+#0
+
+
+
+#SPECIALS
+M 7603 spec_cast_mage
+M 7604 spec_breath_acid
+M 7605 spec_breath_frost
+M 7607 spec_breath_any
+M 7609 spec_cast_adept
+M 7610 spec_cast_mage
+M 7611 spec_cast_cleric
+M 7612 spec_breath_fire
+M 7613 spec_cast_undead
+M 7616 spec_cast_mage
+M 7618 spec_breath_any
+M 7619 spec_cast_mage
+M 7620 spec_poison
+M 7621 spec_cast_undead
+S
+
+
+
+#RESETS
+D 0 7602 3 2
+D 0 7603 1 1
+D 0 7605 3 1
+D 0 7608 5 2
+D 0 7609 4 2
+D 0 7623 0 1
+D 0 7624 2 1
+D 0 7637 1 2
+M 0 7602 1 7604 1
+M 0 7601 1 7605 1
+M 0 7605 4 7611 1
+M 0 7609 3 7612 1
+M 0 7609 3 7614 1
+M 0 7605 4 7615 1
+M 0 7610 1 7615 1
+M 0 7611 1 7617 1
+M 0 7606 1 7619 1
+M 0 7607 1 7621 1
+M 0 7604 1 7624 1
+M 0 7605 4 7625 1
+M 0 7609 3 7625 1
+M 0 7612 2 7626 1
+M 0 7605 4 7627 1
+M 0 7603 1 7628 1
+M 0 7608 2 7630 1
+M 0 7608 2 7632 1
+M 0 7612 2 7633 1
+M 0 7613 1 7634 1
+M 0 7600 1 7636 1
+M 0 7614 3 7638 3
+M 0 7614 3 7638 3
+M 0 7614 3 7638 3
+M 0 7615 1 7640 1
+M 0 7621 1 7642 1
+M 0 7616 1 7643 1
+M 0 7619 1 7644 1
+M 0 7620 1 7645 1
+M 0 7618 1 7647 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$
