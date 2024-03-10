@@ -343,7 +343,7 @@ You think you can see a crossroads in the distance.
 0 -1 4316
 S
 #4316
-A crossroads in the fields~
+A Crossroads in the fields~
 You are at a crossing of the roads in the middle of a 
 green, grassy field.  The road here is of dirt but level
 and lined with round rocks and pebbles.  You can go 
@@ -370,13 +370,98 @@ D3
 You see the road turn through some hills and disappear.
 ~
 ~
-0 -1 -1
+0 -1 4317 
 E
 signpost~
-TO THEE NORTH: Blackrose Keep
-TO THEE SOUTH: Obsidian City
-TO THEE EAST: (unreadable scrawl)
-TO THEE WEST: Crescent Road ~
+{YTO THEE NORTH: Blackrose Keep (and thee city of {WMidgaard{Y)
+TO THEE SOUTH: {9Obsidian City{Y
+TO THEE EAST: {R(unreadable scrawl){Y 
+TO THEE WEST: Crescent Road{x ~
+S 
+#4317
+A Road curving through the Hilly fields~
+You are on a lavel dirt road, lined with round white stones as
+large as a man's head.  Hills rise to the south, and you can see 
+that the road gently curves through the hilly fields, bypassing 
+the woods visible far to the north.
+~
+0 0 2
+D1 
+You see a crossroads with a signpost in the distance.
+~
+~
+0 -1 4316
+D3 
+You see the road crest a hill.
+~
+~
+0 -1 4318
+S 
+#4318 
+Crest of a Hill~
+You are standing on the top of a small hill in the fields, 
+which gives you an excellent vantage point in the area.  To 
+the west you see the road curve through grassy fields, passing
+a small two-story building before curving out of sight.  To the 
+north you see an impassable line of the forests of Middenir, and
+beyond that the distant spires of Midgaard.  To the east you 
+see a crossroads, and a road leading towards a black stone 
+keep, standing watch against the forest.  To the south, the plains
+are shrouded in a gloomy cloud cover, and you think you can see the 
+flash of lightning in the far distance.
+~
+0 0 4
+D1 
+Coming down the hill to the east, you will approach the crossroads.
+~
+~
+0 -1 4317
+D3 
+Coming down the hill to the west, you will approach the building.
+~
+~
+0 -1 4319
+S 
+#4319
+A Road curving through the Hills~
+You are on a dirt road, wide enough for a cart, making your way 
+through a hilly field.  You see a small building in the distance 
+to the west, and the road rises to a hill's crest in the east.
+~
+0 0 4
+D1 
+Approaching the crest of a hill.
+~
+~
+0 -1 4318 
+D3
+Approaching a small way house.
+~
+~
+0 -1 4320
+S 
+#4320
+Passing by the Way House~
+You are on a road running through the hills.  To the south you can see a 
+small two-story house, meant to be a way station between different civilized
+lands.  The road continues east and west.
+~
+0 0 4
+D1 
+Heading east through the hills.
+~
+~
+0 -1 4319
+D2 
+Approaching the way house.
+~
+~
+0 -1 14000
+D3
+Heading west through the hills.
+~
+~
+0 -1 -1 
 S 
 #0
 

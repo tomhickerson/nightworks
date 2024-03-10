@@ -1,0 +1,795 @@
+#AREA
+devane.are~
+Devane Manor~
+{15 25} Dex 	Devane Manor~
+25100 25149
+
+
+
+#MOBILES
+#25100
+dryad Allyria ~
+Allyria~
+A dryad peeks out from behind a tree and giggles
+~
+Allyria is a dryad, slim and lythe.   Her hair, green like the forested
+trees, sweeps back off her face gracefully.  She smiles and hides among
+the greenery.
+~
+unique~
+AGQ HVZ 1000 0
+13 0 2d10+170 2d10+17 2d5+4 wrath
+0 0 0 0
+HKSV AFL FIN EL
+stand stand female 1500
+CHMV ABCDEFGHIJK medium unknown
+#25101
+snow owl~
+snow owl~
+A snow owl hoots from high in a tree.
+~
+Covered with fluffy white feathers, this owl looks as though it wouldn't
+hurt a fly.  
+~
+unique~
+AGW 0 500 0
+10 0 2d10+170 2d10+17 2d4+5 claw
+0 0 0 0
+FHKUVW B AI EH
+stand stand none 0
+AGW ACDEFHKP small unknown
+#25102
+Pixie~
+a pixie~
+A beautiful pixie cheerfully flits by.
+~
+An enchanting creature indeed!  This pixie is perfectly formed, long red
+hair curling up at the ends, big blue eyes batting sweetly at you.  Her
+perfect wings seem almost too perfect.  
+~
+unique~
+AGR HQT 750 0
+11 0 2d10+170 2d10+170 2d5+2 stab
+0 0 0 0
+0 0 AF GJL
+stand stand none 750
+AHMV ABCDEFGHIJK tiny unknown
+#25103
+wraith commander~
+the wraith commander~
+An unusually large wraith hovers here, a sneer on his lips.
+~
+The Wraith Commander stands here, looking authoritative.  His cold eyes
+scan the room, letting none escape his attention.  
+~
+unique~
+ACGS HTVa -1000 0
+20 0 3d9+333 3d9+333 2d8+5 wrath
+-4 -4 -4 -4
+EFK L JQ FHN
+stand stand male 3000
+AHMV ABCDEFGHIJK medium unknown
+#25104
+wraith sentry~
+a wraith sentry~
+A wraith guards the entrance to the manor.
+~
+This wraith is big and stands at military heightened attention.  
+~
+unique~
+ABGT HTV 0 0
+15 0 2d9+233 3d9+33 2d7+1 wrath
+0 0 0 0
+CEUX L JQ FHN
+stand stand male 750
+AHMV ABCDEFGHIJK medium unknown
+#25105
+raven~
+a raven~
+A black raven swoops down from the trees.
+~
+Feathers the color of midnight, this raven has the heightened senses of
+night awareness.  
+~
+unique~
+AFG QTVZ -666 0
+15 0 1d9+233 3d9+33 2d8+1 claw
+0 0 0 0
+FHRVX E BO H
+stand stand female 500
+AGW ACDEFHKP medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#25100
+A Winding Path~
+The grass is worn down here, where a small path has been cut through the
+field and forest.  In the distance, a large manor looms over the charming
+deciduous bounty of the forest.  The path has been lined with smooth stones,
+dappled with wildflowers.  
+~
+0 1024 2
+D0
+~
+~
+0 0 25101
+D1
+~
+~
+0 0 25109
+D3
+~
+~
+0 0 25108
+S
+#25101
+A Winding Path~
+The path wends through a golden field, arriving at last in a lush green
+forest.  Slim birch trees raise from the ground, their virginial arms
+resting upon the boles of willows and poplar trees.  A stream burbles to the
+west, while the path continues through the forest to the north.  
+~
+0 1024 3
+D0
+~
+~
+0 0 25103
+D2
+~
+~
+0 0 25100
+D3
+~
+~
+0 0 25102
+S
+#25102
+The Banks of Chessantra's Stream~
+The soft, silty banks of the forest stream are right with vegetation,
+lichen and roots from the looming willows peek through the soil.  Rocks
+through the shallow part of the stream create a delightful giggling sound in
+the running water.  
+~
+0 0 3
+D1
+~
+~
+0 0 25101
+D2
+~
+~
+0 0 25108
+S
+#25103
+A Winding Path~
+Willow branches overhead link together, forming a canopy of green over
+the forested path.  The stream to the west giggles, winding through the
+greenery.  A clearing to the east looks to be filled with lilies.  
+~
+0 0 3
+D0
+~
+~
+0 0 25106
+D1
+~
+~
+0 0 25104
+D2
+~
+~
+0 0 25101
+S
+#25104
+Clearing in the Forest~
+The trees part above to reveal the sky.  A field of lillies flourishes
+here, nestled among rocks and small bushes.  Nettle grows along the edge of
+the clearing, roses to the north.  As breezes blow, the intoxicating scent
+of lillies pervades the air.  
+~
+0 0 3
+D0
+~
+~
+0 0 25105
+D3
+~
+~
+0 0 25103
+S
+#25105
+Thick Forest~
+All around, trees close in, locking together at their tops.  The cry of a
+falcon can be heard high overhead.  There is no ground cover here, as little
+light can get through the canopy above.  
+~
+0 4 3
+D0
+~
+~
+0 0 25110
+D1
+~
+~
+0 0 25107
+D2
+~
+~
+0 0 25104
+D3
+~
+~
+0 0 25106
+S
+#25106
+In the Forest~
+Acorns fall from above as squirrels scuttle in the trees.  Ferns line a
+small path leading towards the Manor, to the north.  The air is perceptably
+colder here.  
+~
+0 0 3
+D1
+~
+~
+0 0 25105
+D2
+~
+~
+0 0 25103
+S
+#25107
+Deepest Forest~
+No light can get in through the trees above.  A barren wasteland lies
+beneath the forested glory, not even covered by lichen.  Cold rocks keep
+company with the massive roots of the forest giants here.  
+~
+0 0 3
+D0
+~
+~
+0 0 25113
+D3
+~
+~
+0 0 25105
+S
+#25108
+By Chessantra's Stream~
+This cheerful stream is teeming with life.  Trout swim among the rocks,
+darting after fleeting minnows.  Cattails grow up on the wet bank,
+interspersed with water lillies and marsh grasses.  Scant trees are found
+along the west side of the river.  
+~
+0 0 2
+D0
+~
+~
+0 0 25102
+D1
+~
+~
+0 0 25100
+S
+#25109
+Light Meadow~
+Soft golden grasses wave in the wind, creating a natural melody.  The sky
+is bright above, and birds soar, watching over the landscape.  Far to the
+north, a manor looms over the horizon, beyond a thick forest.  
+~
+0 0 2
+D3
+~
+~
+0 0 25100
+S
+#25110
+Deep in the Dark Forest~
+Several of the trees here have been strangled by the giants overhead,
+their lifeless branches roosts for snow owls and snakes.  A rattle and hiss
+warns of impending danger above, while the forest seems only to grow more
+dense to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 25111
+D1
+~
+~
+0 0 25113
+D2
+~
+~
+0 0 25105
+S
+#25111
+Deep in the Dark Forest~
+The stark contrast between the lush forested arch overhead and the grey,
+desolate soil below is brought to light by the eyes peeking out from inside
+the trunks of massive trees in this unnatural darkness.  
+~
+0 0 3
+D0
+~
+~
+0 0 25112
+D2
+~
+~
+0 0 25110
+D3
+~
+~
+0 0 25114
+S
+#25112
+At the Edge of the Dark Forest~
+The trees give way here to a desolate foreground, unkempt vines wrap
+around a gate to the north, behind which the manor can be seen.  
+~
+0 0 3
+D0
+~
+~
+1 0 25115
+D2
+~
+~
+0 0 25111
+S
+#25113
+Deepest Forest~
+The soil here has been disrupted, dug up as though by a creature in a
+frenzy.  Leaves are fallen from the trees above, providing the only cover
+for the ravaged earth.  A howling can be heard in the distance.  
+~
+0 0 3
+D2
+~
+~
+0 0 25107
+D3
+~
+~
+0 0 25110
+S
+#25114
+Deep in the Dark Forest~
+A stillness pervades, marred only by the scuttle of spiders along the
+needle-covered ground.  A large pine tree to the north is the cause of this
+carpeting.  The smell of dying fir envelopes the area.  
+~
+0 0 3
+D1
+~
+~
+0 0 25111
+S
+#25115
+Inside the Front Gate~
+A path leads from the gate, dead ending at a large cluster of bushes. 
+Beyond the thicket, to the north, a grand manor can be seen.  
+~
+0 0 3
+D2
+~
+~
+1 0 25112
+S
+#25116
+In the Bushes~
+Thick bushes enclose this small area, lit with soft white blossoms.  The
+scent of lilacs wafts in from the east.  A large iron gate can be seen far
+to the south.  To the north, in the distance, the manor lights upon the
+horizon.  
+~
+0 8196 4
+D0
+~
+~
+0 0 25118
+D1
+~
+~
+0 0 25120
+D2
+~
+~
+0 0 25117
+D3
+~
+~
+0 0 25119
+S
+#25117
+In the Bushes~
+Thick bushes enclose this small area, lit with soft blue blossoms.  The
+smell of roses pervades to the south.  A long iron fence lines the south
+wall here, overgrown with tea roses.  A manor to the north looms
+mysteriously.  
+~
+0 8192 4
+D0
+~
+~
+0 0 25116
+S
+#25118
+In the Bushes~
+Thick bushes enclose this small area, lit with soft yellow blossoms.  The
+heady aroma of poppies to the north is carried in on a warm wind.  Far to
+the south, a gate can be seen.  
+~
+0 8192 4
+D2
+~
+~
+0 0 25116
+S
+#25119
+In the Bushes~
+Thick bushes enclose this small area, lit with orange blossoms.  The
+scent of gardenias pervades the area.  To the south there is an iron gate,
+to the north, a large manor.  
+~
+0 8192 4
+D1
+~
+~
+0 0 25116
+S
+#25120
+In the Bushes~
+Thick bushes enclose this small area, lit with purple blossoms.  The pure
+scent of oriental lilies watfs on the southern wind, near an iron gate.  To
+the north, a manor looms on the horizon.  
+~
+0 8192 4
+D3
+~
+~
+0 0 25116
+S
+#25121
+In the Bushes~
+The bushes are three feet off the ground here, topped sharply as though
+chopped to death with shears.  The smell of fresh cut grass surrounds the
+area with a pungent autumn aroma.  
+~
+0 8192 4
+D0
+~
+~
+0 0 25125
+D1
+~
+~
+0 0 25122
+D2
+~
+~
+0 0 25123
+D3
+~
+~
+0 0 25124
+S
+#25122
+In the Bushes~
+The bushes are two feet off the ground here, topped sharply as though
+chopped to death with shears.  The smell of fresh cut grass surrounds the
+area with a pungent autumn aroma.  
+~
+0 8192 4
+D3
+~
+~
+0 0 25121
+S
+#25123
+In the Bushes~
+The bushes are one foot off the ground here, topped sharply as though
+chopped to death with shears.  The smell of fresh cut grass surrounds the
+area with a pungent autumn aroma.  
+~
+0 8192 4
+D0
+~
+~
+0 0 25121
+S
+#25124
+In the Bushes~
+The bushes are four feet off the ground here, topped sharply as though
+chopped to death with shears.  The smell of fresh cut grass surrounds the
+area with a pungent autumn aroma.  
+~
+0 8192 4
+D1
+~
+~
+0 0 25121
+S
+#25125
+In the Bushes~
+The bushes are five feet off the ground here, topped sharply as though
+chopped to death with shears.  The smell of fresh cut grass surrounds the
+area with a pungent autumn aroma.  
+~
+0 8192 4
+D2
+~
+~
+0 0 25121
+S
+#25126
+In the Bushes~
+Neatly trimmed bushes line the path here, limestone carefully placed at
+even intervals on the ground for stepping stones.  Daisies and blue
+forget-me-nots are scattered among the bushes.  
+~
+0 8192 4
+D0
+~
+~
+0 0 25128
+D1
+~
+~
+0 0 25129
+D2
+~
+~
+0 0 25130
+D3
+~
+~
+0 0 25127
+S
+#25127
+In the Bushes~
+Neatly trimmed bushes line the path here, quartz carefully places at even
+intervals on the ground for stepping stones.  Marigolds and red poppies are
+scattered among the bushes.  
+~
+0 8192 4
+D1
+~
+~
+0 0 25126
+S
+#25128
+In the Bushes~
+Neatly trimmed bushes line the path here, bedrock carefully placed at
+even intervals on the ground for stepping stones.  Orchids and pink
+hydrangeias are scattered among the bushes.  
+~
+0 8192 4
+D2
+~
+~
+0 0 25126
+S
+#25129
+In the Bushes~
+Neatly trimmed bushes line the path here, coal carefully placed at even
+intervals on the ground for stepping stones.  Zinneas and yellow irises are
+scattered among the bushes.  
+~
+0 8192 4
+D3
+~
+~
+0 0 25126
+S
+#25130
+In the Bushes~
+Neatly trimmed bushes line the path here, shale carefully placed at even
+intervas on the ground for stepping stones.  Hyacinth and red carnations are
+scattered among the bushes.  
+~
+0 8192 4
+D0
+~
+~
+0 0 25126
+S
+#25131
+Im the Bushes~
+The bushes grow wild here, brambles sticking out everywhere.  The smell
+of stagnant water becomes intrusive here.  Far to the south, an iron gate
+can be seen.  To the north, a manor looms large.  
+~
+0 8192 4
+D0
+~
+~
+0 0 25133
+D1
+~
+~
+0 0 25134
+D2
+~
+~
+0 0 25135
+D3
+~
+~
+0 0 25132
+S
+#25132
+In the Bushes~
+The bushes grow wild here, thorn patches abound.  The odor of stagnant
+water becomes intrusive here.  Far to the south, an iron gate can be seen. 
+To the north, a manor looms large.  
+~
+0 8192 4
+D1
+~
+~
+0 0 25131
+S
+#25133
+~
+The bushes go wild here, prickly pears sticking out everywhere.  The
+thick stench of stagnant water becomes intrusive here.  Far to the south, an
+iron gate can be seen.  To the north, a manor looms large.  
+~
+0 8192 4
+D2
+~
+~
+0 0 25131
+S
+#25134
+In the Bushes~
+The bushes grow wild here, brambles poking out everywhere.  The stench of
+stagnant water becomes intrusive here.  Far to the south, an iron gate can
+be seen.  To the north, a manor looms large.  
+~
+0 8192 4
+D3
+~
+~
+0 0 25131
+S
+#25135
+In the Bushes~
+The bushes grow wild here, patches of thistle protruding everywhere.  The
+odor of stagnant water becomes intrusive here.  Far to the south, an iron
+gate can be seen.  To the north, a manor looms large.  
+~
+0 8192 4
+D0
+~
+~
+0 0 25131
+S
+#25136
+Front Steps of Devane Manor~
+The front steps of the manor are impeccable, stone steps with a cast iron
+railing.  A little girl's doll lies propped up against the front door, eyes
+gazing blankly at the sky.  The front door to the house is graced with a
+knocker in the shape of an angels head, the eyes gouged out.  Windchimes
+from above tinkle a haunting minor melody.  
+~
+0 4 4
+D0
+~
+~
+0 0 25137
+S
+#25137
+The Foyer of Devane Manor~
+The air inside the manor is chill, a draft gusting from somewhere deep
+inside grabs the enormous tapestries lining each side of the foyer and
+causes them to vibrate gently.  Sconces above the tapestries are unlit, the
+cold cast iron of the table and chair is covered in a thin layer of dust, as
+though unused for years.  
+~
+0 9217 0
+D1
+~
+~
+0 0 25138
+D2
+~
+~
+0 0 25136
+S
+#25138
+A Domed Hallway~
+Made of polished stone, this hallway is the height of two normal halls. 
+The walls are lined with dusty sconces and faded paintings.  One in
+particular seems showcased, that of a young girl holding a small kitten. 
+This painting is framed in gold, unlike the others in silver, and is larger,
+hung higher than the rest.  The girl's blue eyes are haunting.  
+~
+0 1 0
+D0
+~
+~
+0 0 25139
+D2
+~
+~
+0 0 25140
+D3
+~
+~
+0 0 25137
+S
+#25139
+Dining Hall~
+This dining hall, designed to hold nearly one hundred people, is in
+complete chaos.  The chairs are flung back from the tables, fallen at odd
+places.  Each place is set at the table, bits of rotted food still clinging
+to dishes, those which the mice have not eaten.  Brown stains on the walls
+and all along the great mirror, completely covering the north side of the
+room, are easily identified as old blood.  Evidence of the terrible events
+that once took place here can be found in the very air of the room, cold and
+clammy.  
+~
+0 1 0
+D2
+~
+~
+0 0 25138
+S
+#25140
+Sitting Room~
+The sitting room is pristine, soft white sofas and chairs completely
+unfettered by dust or aging.  The mirror appears freshly washed, still damp
+and lightly streaked.  A fire burns merrily in a fireplace, over which a
+haunch of some meat is spitted, roasting.  A fleeting look in the mirror
+reveals movement in the shadows, yet the room shows no wear of living.  A
+photograph, yellow and faded, seems to leer from over the mantle of the
+fire.  
+~
+0 1 0
+D0
+~
+~
+0 0 25138
+S
+#0
+
+
+
+#SPECIALS
+M 25101 spec_breath_frost
+S
+
+
+
+#RESETS
+D 0 25112 0 1
+D 0 25115 2 1
+M 0 25102 2 25100 2
+M 0 25100 1 25101 1
+M 0 25101 2 25108 2
+M 0 25101 1 25109 1
+M 0 25103 1 25112 1
+M 0 25104 2 25112 2
+M 0 25105 3 25114 1
+M 0 25105 1 25114 1
+M 0 25105 1 25114 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$
