@@ -1,0 +1,65 @@
+#AREA	
+newville.are~
+Newcomer Village~
+{ 1 35} Starhunter Newcomer Village~
+2600 2799
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#2600
+On the shoreline~
+You awake, and get to your feet.  You are on a beach, your clothes sodden, 
+having just washed up on the shore.  The sky is clear and you see a sandy
+beach ahead of you.  Beyond that is a small {Wvillage{x.  Perched on the edge 
+of the shore is a crude {Wsign{x fashioned of driftwood.
+(Hint: you may want to {WLOOK SIGN{x or {WREAD SIGN{x, to see what it says.)
+~
+0 0 2
+D0
+The sandy beach is to your north.
+~
+~
+0 -1 2601
+E
+sign~
+{YWELCOME to Newcomer Island!  To move around here you will have to 
+NORTH or N, WEST or W, and so on.  You will see a number of signs
+like this on your way to the village, so be sure to LOOK at them 
+all!{x
+~
+E
+village~
+From here you can make out a few small rows of buildings, and not 
+much else.  Further in the distance you see something that looks 
+like a tower of stone, tall and slender.
+~
+S
+#0
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#SPECIALS
+S
+
+
+
+#$
