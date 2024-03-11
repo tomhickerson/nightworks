@@ -461,7 +461,43 @@ D3
 Heading west through the hills.
 ~
 ~
+0 -1 4321
+S 
+#4321
+On a Hilly Road~
+You are traveling over some rocky hills, with little tufts of grass 
+growing out of cracks in the rock.  The road is lined with small 
+round rocks, and runs east and west.
+~
+0 0 4
+D1
+Heading east through the hills.
+~
+~
+0 -1 4320
+D3
+Heading west along the road.
+~
+~
+0 -1 4322
+S 
+#4322 
+A bend in the Road~
+You are on a orad that curves around a large hill, running 
+north and east.  Vegetation is sparse here, you can only 
+see clumps of dry grass here and there.
+~
+0 0 4
+D0 
+Heading north through the hills.
+~
+~
 0 -1 -1 
+D1 
+Heading east around the hills.
+~
+~
+0 -1 4321
 S 
 #0
 
