@@ -337,7 +337,7 @@ D0
 You can just make out the outline of a door on the north wall.
 ~
 door~
-1 -1 -1 
+1 -1 22616
 D1 
 ~
 ~
@@ -350,7 +350,43 @@ E
 streak liquid streaks~
 The streaks look to be long dried blood, and lead from the southern exit to
 the north wall.~
+E
+wall~
+You can make out an outline of a door to the north.~
 S
+#22616
+A Wizard's Home~
+You see a small cave which houses the belongings of a very dead wizard. His
+corpse is sitting behind a desk and there is a quill in his skeletal hand in
+which he wrote a note across the desktop. The trail of blood leads to his
+body. There is a bookshelf lining the east wall. The north wall is strangely
+blank.
+~
+0 0 0
+D2
+There is a door to the south.
+~
+~
+1 -1 22615
+E
+note writing~
+To any who read this, beware the area to the south of my home, my spell of
+binding failed to work on the demon Alrzzhogar. He nearly slew me immediatly,
+but i managed to escape to leave this warning. His is very powerfull, but his
+soul is bound to the room i summoned him too. He no doubt has summoned
+guardians to protect him, so beware. My home is magically protected and your
+wounds will heal faster here, so take advantage of my legacy. I see my wounds
+are mortal. May Odin forgive my sins.~
+E
+bookshelf~
+The shelf contains books on magic and summoning. As you reach for one you
+detect a spell of warding to protect them. You realize you can not take them
+without removing the ward.~
+E
+desk~
+The desk is old, rotton wood.~
+S 
+
 #0
 
 
