@@ -521,10 +521,11 @@ A wooden glen lies to the east.
 ~
 ~
 0 -1 27002
-D2
+D3
+A rocky trail through the hills lies to the west.
 ~
 ~
-0 0 -1
+0 0 4324
 S
 #27002
 The Lost Vale~

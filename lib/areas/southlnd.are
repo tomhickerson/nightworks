@@ -426,7 +426,9 @@ S
 A Road curving through the Hills~
 You are on a dirt road, wide enough for a cart, making your way 
 through a hilly field.  You see a small building in the distance 
-to the west, and the road rises to a hill's crest in the east.
+to the west, and the road rises to a hill's crest in the east.  
+The vegetation here is dry and brown, but looks to be greener 
+pastures to the east of you.
 ~
 0 0 4
 D1 
@@ -484,7 +486,7 @@ S
 #4322 
 A bend in the Road~
 You are on a orad that curves around a large hill, running 
-north and east.  Vegetation is sparse here, you can only 
+north and east.  Vegetation is sparse, and you can only 
 see clumps of dry grass here and there.
 ~
 0 0 4
@@ -492,12 +494,93 @@ D0
 Heading north through the hills.
 ~
 ~
-0 -1 -1 
+0 -1 4323
 D1 
 Heading east around the hills.
 ~
 ~
 0 -1 4321
+S 
+#4323
+A rocky road through the Hills~
+You are winding your way through some rocky hills, the way only
+truly marked by the line of round rocks that lead north and south.
+The hills are open to the sun, and only scrubby brush and weeds
+dot this dry landscape.
+~
+0 0 4
+D0 
+Heading north to a fork in the road.
+~
+~
+0 -1 4324
+D2 
+Heading south to a bend in the road.
+~
+~
+0 -1 4322
+S 
+#4324 
+A fork in the Road~
+You are at a small fork in the rocky road through the hills.  The 
+main road runs north and south, but there is a hard dirt trail 
+leading east into a wooded glen.  You see a strange glow coming
+from within the glen.
+~
+0 0 4
+D0 
+Heading through the hills to the north.
+~
+~
+0 -1 4325
+D1 
+Heading east into a mysterious wooded vale.
+~
+~
+0 -1 27001
+D2
+Heading south through the hills on a rocky road.
+~
+~
+0 -1 4323
+S 
+#4325
+Heading through the hills~
+You are on a rocky, north-south road made of uneven packed earth
+and rock, with smooth round stones lining the way.  The hills here
+are dry and rocky, and only a few brown weeds and brush can be seen 
+here and there.
+~
+0 0 4
+D0 
+Heading towards a large hill to the north.
+~
+~
+0 -1 4326
+D2 
+Heading through the dry hills to the south.
+~
+~
+0 -1 4324
+S 
+#4326 
+The crest of a large hill~
+You are on the top of a large hill, overlooking a small village.  Most
+of the village is down a small trail, and you can see a walled city next to 
+it, to the northeast.  To the south, the trail turns into a road winding
+through the rough, dry hills.
+~
+0 0 4
+D2 
+Heading south on a rocky road.
+~
+~
+0 -1 4325
+D5
+Heading down the hill to the village.
+~
+~
+0 -1 24122
 S 
 #0
 
