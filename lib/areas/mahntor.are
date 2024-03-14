@@ -71,7 +71,7 @@ oldstyle weeping willow tree~
 the Weeping Willow~
 A large willow tree stands here, weeping.
 ~
-The weeping willow has long thins branches. These branches seem to droop in
+The weeping willow has long thin branches. These branches seem to droop in
 anguish and dismay. You hear a faint sound of crying.
 ~
 human~
@@ -1548,7 +1548,7 @@ block all light and wind. The air is stagnant and smells of death and decay.
 The lack of sounds and other signs of life make your skin crawl and you feel
 very much like turning back and heading for safer areas. The path leads north
 into more open lands while it also leads south into the darkness of the forest.
-A small sign is posted here.
+A small {Wsign{x is posted here.
 ~
 0 C 3
 D0
@@ -1561,7 +1561,7 @@ D2
 0 -1 2301
 E
 sign~
-[]================================[]
+	[]================================[]
      |      BEWARE!      | Hope you   |
      |   Travellers are  | enjoy it!  |
      |  advised to stay  | <------->  |
@@ -1594,7 +1594,7 @@ The forest path splits here in three directions. Small paths lead to the east,
 north, and south. The trees above leave a gap which allows light to fill the
 intersection. It is almost as though you are in a circle of light that
 provides sanctuary in this land of darkness.
-Something has been scrawled in the dirt in blood here.
+Something has been scrawled in the {Wdirt{x in blood here.
 ~
 0 0 3
 D0
@@ -1826,6 +1826,10 @@ D2
 ~
 ~
 0 0 2317
+D3
+~
+~
+0 -1 -1
 S
 #2314
 Before the huge tree~
@@ -1916,6 +1920,10 @@ D1
 ~
 ~
 0 0 2318
+D3
+~
+~
+0 -1 -1
 D5
 ~
 ~
