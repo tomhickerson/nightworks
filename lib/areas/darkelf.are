@@ -345,7 +345,7 @@ D1
 D2 
 ~
 ~
-0 -1 -1
+0 -1 22617
 E
 streak liquid streaks~
 The streaks look to be long dried blood, and lead from the southern exit to
@@ -386,7 +386,26 @@ E
 desk~
 The desk is old, rotton wood.~
 S 
-
+#22617
+The Underdark~
+The tunnel traverses north-south here. You break out in a sweat as the
+temperature rises to the south. A red {Wglow{x is emenating from the
+south passageway.
+~
+0 0 0
+D0 
+~
+~
+0 -1 22615
+D2
+~
+~
+0 -1 -1
+E
+glow~
+The glow emenating from the south seems to have been made by fire, for
+it flickers about the wall.~
+S 
 #0
 
 
