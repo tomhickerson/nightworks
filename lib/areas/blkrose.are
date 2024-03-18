@@ -355,9 +355,9 @@ AFGNT 0 1000 0
 stand stand female 0
 AHMV ABCDEFGHIJK large unknown
 #22526
-ghost~
-{x~
-{x
+small ghost~
+{WA small ghost{x~
+{WA small ghost wanders here, apparently lost.{x
 ~
 ~
 unique~
@@ -1458,7 +1458,10 @@ D3
 S
 #22589
 Ruined Tower~
-
+You are standing in a charred and empty tower.  The wooden insides 
+have burnt out long ago, but the stone walls and flooring remain 
+blackened and sooty.  The main archway leaves west, and there is an
+open stone stairway leading down.
 ~
 0 532480 0
 D3
@@ -1472,7 +1475,9 @@ D5
 S
 #22590
 Stairs~
-
+You are on an initial flight of stairs leading up and down.  The walls
+and floor are covered with grime, dust and soot from the burnt tower
+above your head.
 ~
 0 532480 0
 D4
@@ -1486,7 +1491,8 @@ D5
 S
 #22591
 Bottom of Stairs~
-
+You are in a small stone chamber at the bottom of the stairs. 
+An open passage heads north, and the stairs lead up.
 ~
 0 532480 0
 D0
