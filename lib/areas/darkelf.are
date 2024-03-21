@@ -447,6 +447,64 @@ E
 path~
 The path is made of solid gold, and where the gold is, no fire touches.~
 S 
+#22620
+The Darkened Caves~
+The caves and tunnels continue east-west. The huge caverns that are the
+underdark are exceptionally silent, except for the pitter patter of small,
+jumping spiders which are in abundance here.
+~
+0 0 0 
+D1 
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 22621
+E
+spider spiders~
+The spiders are black and seem to hop around instead of walk.~
+S
+#22621 
+The Underdark~
+The caves and tunnels continue east and west. You get the distinct impression
+you are being watched.
+~
+0 0 0
+D0 
+~
+door~
+1 -1 22622
+D1 
+~
+~
+0 -1 22620
+D2
+~
+door~
+1 -1 -1 
+D3
+~
+~
+0 -1 -1
+S 
+#22622 
+Guard Post~
+This would seem to be the place where the darkelves watch for people who enter
+their realm. There are slits in the southern hidden door where the guards can
+watch the passageway without being detected.
+~
+0 0 0
+D2 
+There is a door to the south leading back into the caverns.
+~
+door~
+1 -1 22621
+E
+slits~
+Through the slits you get a clear view of the southern passageway.~
+S 
 #0
 
 
