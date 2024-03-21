@@ -344,7 +344,7 @@ AHMV ABCDEFGHIJK medium unknown
 #22525
 Fildais' ghost~
 Fildais' ghost~
-The ghost of the once mighty Fildais' roams the halls of Blackrose Keep.
+The ghost of the once mighty Fildais roams the halls of Blackrose Keep.
 ~
 ~
 unique~
@@ -376,6 +376,14 @@ AHMV ABCDEFGHIJK medium unknown
 key~
 a black polished key~
 You see a black polished key on the ground here.~
+brass~
+key P A
+0 0 0 0 0
+0 10 0 P
+#22501
+key~
+a red polished key~
+You see a red polished key on the ground here.~
 brass~
 key P A
 0 0 0 0 0
@@ -1200,7 +1208,9 @@ D3
 S
 #22574
 Dark Alley~
-
+You are stepping around moss-covered stones and bricks, which fell 
+long ago to some destructive force.  The charred walls here show 
+that a fire took place.  The alley runs east and west.
 ~
 0 532480 0
 D1
@@ -1214,7 +1224,9 @@ D3
 S
 #22575
 Dark Alley~
-
+The alley here runs around the corner of a ruined building which
+had collapsed in on itself.  Bits and pieces of statues lie on 
+the ground here.  You can go south and west.
 ~
 0 532480 0
 D2
@@ -1228,7 +1240,8 @@ D3
 S
 #22576
 Dark Alley~
-
+The alley is narrow here, as the building that have collapsed 
+both seem to lean in close.  You can go north and south. 
 ~
 0 532480 0
 D0
@@ -1242,7 +1255,9 @@ D2
 S
 #22577
 Dark Alley~
-
+You are in a narrow alley, lined on both sides by ruined buildings.
+Brick and stone walls are marred and burned, and a layer of ash and 
+dust line the ground.  You can go north and south. 
 ~
 0 532480 0
 D0
@@ -1270,7 +1285,7 @@ D1
 0 0 22579
 E
 shrine~
-The shrine seems to have been desecrated greatly. It is slightly burned, and
+The shrine seems to have been desecrated greatly. It is burned, and
 symbols have been marred across its surface. There is a presence of evil
 emenating from it.~
 S
@@ -1307,21 +1322,28 @@ thay have some religous signifigance to the person who drew them.~
 S
 #22580
 Main road~
-
+You are on a main road heading through the ruined town.  The gutted 
+buildings line the street and look over you silently.  You can go 
+north and south.
 ~
 0 532480 0
 D0
+You see a crossroads in this direction.
 ~
 ~
 0 0 22566
 D2
+You see a ruined square in this direction.
 ~
 ~
 0 0 22581
 S
 #22581
 Ruined Square~
-
+You are in a dusty square, lined with abandoned and collapsed 
+buildings.  Many of these building have empty windows and bare 
+doors, and are open to the sky.  The road runs north and south, 
+while there are empty buildings to the east and west.
 ~
 0 532480 0
 D0
@@ -1329,6 +1351,7 @@ D0
 ~
 0 0 22580
 D1
+You see what used to be a bank.
 ~
 ~
 0 0 22582
@@ -1337,6 +1360,7 @@ D2
 ~
 0 0 22584
 D3
+You see what used to be an inn.
 ~
 ~
 0 0 22583
@@ -1388,7 +1412,9 @@ D1
 S
 #22584
 Main road~
-
+You are on a wide, main road running through the ruined village.  The 
+buildings here have been reduced to rubble, their upper floors demolished
+and empty.  The road runs north and south.
 ~
 0 532480 0
 D0
@@ -1402,7 +1428,9 @@ D2
 S
 #22585
 Main road~
-
+You are at an intersection at the southern end of the ruined village.  An 
+alleyway runs east and west, while to the north the main street goes through 
+the village square and beyond.  Further east you see the ruins of a tower.
 ~
 0 532480 0
 D0
@@ -1460,8 +1488,8 @@ S
 Ruined Tower~
 You are standing in a charred and empty tower.  The wooden insides 
 have burnt out long ago, but the stone walls and flooring remain 
-blackened and sooty.  The main archway leaves west, and there is an
-open stone stairway leading down.
+standing, blackened and sooty.  The main archway leaves west, and 
+there is an open stone stairway leading down.
 ~
 0 532480 0
 D3
@@ -1469,6 +1497,7 @@ D3
 ~
 0 0 22588
 D5
+Down the stairs...
 ~
 ~
 0 0 22590
@@ -1506,13 +1535,15 @@ D4
 S
 #22592
 Entrance To Dungeon~
-
+You are in a low stone antechamber, which has been spared most of the
+destruction above you in the ruined town.  To the north you see 
+a stout, oaken door.  The south leads to the bottom of a stairwell.
 ~
 0 532480 0
 D0
 ~
-~
-0 0 22593
+door~
+2 22502 22593
 D2
 ~
 ~
@@ -1520,7 +1551,9 @@ D2
 S
 #22593
 Inside the Dungeon~
-
+You are in a low stone corridor, carved out of the grey rock itself.
+Dust and cobwebs cover the floors of this place, as if it has not 
+been disturbed for many years.
 ~
 0 532480 0
 D0
@@ -1528,9 +1561,10 @@ D0
 ~
 0 0 22594
 D2
+A door leading out of the dungeon.
 ~
-~
-0 0 22592
+door~
+2 22502 22592
 S
 #22594
 Dungeon Hallway~
