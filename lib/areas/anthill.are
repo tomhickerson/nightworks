@@ -1,0 +1,1180 @@
+#AREA
+anthill.are~   
+Anthill~
+{5 15} Uriel Anthill~
+7549 7599
+
+
+#RESETMESSAGE 
+The clickety clack of the new generation can be heard in the tunnels.~
+
+#MOBILES
+#7549
+aphid drone bug~
+a giant aphid~
+A green, bulbuous bug chirps around the tunnels.
+~
+The bug shudders and moves as it walks.~
+unique~
+V JT 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
+IL 0 L 0
+stand stand either 0
+AHMV ACDEFKQ medium 0
+
+#7550
+ant worker drone~
+a worker ant~
+A large ant hurredly works about, completing task after task.
+~
+~
+unique~
+V JT 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
+IL 0 L 0
+stand stand either 0
+AHMV ACDEFKQ medium 0
+
+#7551
+ant warrior drone~
+A warrior ant~
+A massive ant with large mandibles wanders the tunnels.
+~
+~
+unique~
+V JT 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
+IL 0 L 0
+stand stand either 0
+AHMV ACDEFKQ medium 0
+
+#7552
+ant apis drone~
+an apis drone~
+An ant with a large head wanders here, keeping the Queen's link.
+~
+~
+unique~
+V JT 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
+IL 0 L 0
+stand stand either 0
+AHMV ACDEFKQ medium 0
+
+#7553
+shrieker mushroom fungus~
+a shrieker~
+A large mushroom grows here, ominously silent...
+~
+~
+unique~
+V JT 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
+IL 0 L 0
+stand stand either 0
+AHMV ACDEFKQ medium 0
+#7554
+ant breeder drone~
+a breeder ant~
+A small ant with wings buzzes around the tunnels.
+~
+~
+unique~
+V JT 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
+IL 0 L 0
+stand stand either 0
+AHMV ACDEFKQ medium 0
+
+#7555
+ant larvae~
+an ant larvae~
+A grub like creature writhes on the floor.
+~
+~
+unique~
+V JT 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
+IL 0 L 0
+stand stand either 0
+AHMV ACDEFKQ medium 0
+#7556
+earthworm worm~
+an earthworm~
+A large earthworm burrows through the anthill.
+~
+~
+unique~
+V JT 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
+IL 0 L 0
+stand stand either 0
+AHMV ACDEFKQ medium 0
+#7557
+queen ant~
+the queen ant~
+A large ant, bulbuous and mighty, rests here, making eggs.
+~
+~
+unique~
+V JT 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
+IL 0 L 0
+stand stand either 0
+AHMV ACDEFKQ medium 0
+
+#0
+
+
+#OBJECTS
+#7549
+milk sack aphid~
+An aphid's milk sack~
+A bulbuous milk sack is laying here.~
+flesh~
+potion G AO
+20 'cure poison' 'remove curse' 'refresh' ''
+5 10 800 P
+
+#7550
+honey aphid sack~
+An aphid's honey sack~
+A bulbuous honey sack has fallen here.~
+flesh~
+potion G AD
+20 'cure light' 'cure serious' 'cure light' ''
+5 10 700 P
+
+#7551
+ant eye~
+an ant eye~
+The eye of an ant has fallen here.~
+flesh~
+potion G AD 
+20 'scry' 'infravision' 'detect hidden' ''
+5 10 350 P
+
+#7552
+ant thorax~
+an ant thorax~
+The edible midsection of an ant lays here.~
+flesh~
+potion G AD
+10 'trollish vigor' 'refresh' 'kindred strength' '' 
+6 10 250 P
+
+#7553
+royal jelly~
+royal jelly~
+This sack of honey glows brightly.~
+flesh~
+potion G AD 
+10 'sanctuary' 'quickening' 'fly' ''
+7 14 700 P
+
+#7554
+spring fountain reservoir~
+A reservoir~
+A reservoir of condensed water has collected here.~
+~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 G
+
+#0
+
+
+#ROOMS
+#7549
+Before a Large Hole~
+The grass of the surrounding land is suspiciously dead, and the source
+is obvious. A loud 'clickety-clickety' and a wide gaping hole in the
+ground is surely the home of giant ants. These ants are more less of a
+threat, but a real nuisance to local farmers.
+~
+0 4 1
+D1
+~
+~
+0 -1 7598
+D5
+~
+~
+0 -1 7550
+S
+#7550
+Within the Anthill~
+The interior of the anthill is dark and humid. Ants like it warm, and
+they don't need light to see. Of course, most of the ants are passive,
+save the warrior ants, who attack anything that move. The anthill branches
+like a maze, heading in numerous directions.
+~
+0 0 1
+D0
+~
+~
+0 -1 7551
+D1
+~
+~
+0 -1 7553
+D2
+~
+~
+0 -1 7558
+D3
+~
+~
+0 -1 7555
+D4
+~
+~
+0 -1 7549
+S
+#7551
+A Small Tunnel~
+This tunnel is small and cramped. It is obviously not heavily used,
+or the ants would have widened it. It would appear that only a few
+people could occupy this tunnel at once, making it a tricky situation
+for explorers wanting through.
+~
+0 0 1
+D2
+~
+~
+0 -1 7550
+D3
+~
+~
+0 -1 7552
+S
+#7552
+A Way Down~
+This chamber holds a passage leading deeper into the anthill. Obviously
+the deeper the anthill goes, the more ants will be abound. The loud and
+obnoxious clickity click of the ants at work echoes through these large
+tunnels.
+~
+0 0 1
+D1
+~
+~
+0 -1 7551
+D5
+~
+~
+0 -1 7559
+S
+#7553
+A Desolate Tunnel~
+This tunnel stinks of trash and decay, and the ants do not travel this
+part of the hill often. Ants are tidy insects, choosing to keep trash
+and dead bodies away from the rest of their lair. The smell grows stronger
+to the East.
+~
+0 0 1
+D1
+~
+~
+0 -1 7554
+D3
+~
+~
+0 -1 7550
+S
+#7554
+A Refuse Chamber~
+The ants have piled their ages of waste and refuse in this secluded
+and distant chamber. The trash and waste is very conducive to fungal
+decay, so it seems to decompose quickly. Of course, the ants aren't
+dumb, and have cultivated help in the process...
+~
+0 0 1
+D3
+~
+~
+0 -1 7553
+S
+#7555
+A Busy Intersection~
+The tunnel splits in this busy intersection, where ants of all kinds
+hurridly shuffle past, doing chores. Most of the ants don't care if
+a foriegn species is in their lair, but watch out for the warrior ants,
+they like to fight.
+~
+0 0 1
+D1
+~
+~
+0 -1 7550
+D2
+~
+~
+0 -1 7556
+D3
+~
+~
+0 -1 7557
+S
+#7556
+A Guard Station~
+This chamber is used only for a waiting room for the large warrior ants,
+waiting for the scent of warning pheremones from the workers. But, like
+most ants, warrior ants are prone to wander aimlessly, so this chamber
+is not always occupied.
+~
+0 0 1
+D0
+~
+~
+0 -1 7555
+S
+#7557
+A Guard Station~
+This chamber is used only for a waiting room for the large warrior ants,
+waiting for the scent of warning pheremones from the workers. But, like
+most ants, warrior ants are prone to wander aimlessly, so this chamber
+is not always occupied.
+~
+0 0 1
+D1
+~
+~
+0 -1 7555
+S
+#7558
+A Way Down~
+This chamber holds a passage leading deeper into the anthill. Obviously
+the deeper the anthill goes, the more ants will be abound. The loud and
+obnoxious clickity click of the ants at work echoes through these large
+tunnels.
+~
+0 8 1
+D0
+~
+~
+0 -1 7550
+D5
+~
+~
+0 -1 7560
+S
+#7559
+Deeper Into the Hill~
+The air gets warmer as the tunnels go deeper into the ground. The ants
+enjoy warmth, and cultivate a special fungus to keep their lair warm.
+But, the deeper into the hill, the more ants there seem to be, working
+busily away.
+~
+0 8 1
+D4
+~
+~
+0 -1 7552
+D3
+~
+~
+0 -1 7564
+S
+#7560
+Deeper Into the Hill~
+The air gets warmer as the tunnels go deeper into the ground. The ants
+enjoy warmth, and cultivate a special fungus to keep their lair warm.
+But, the deeper into the hill, the more ants there seem to be, working
+busily away.
+~
+0 8 1
+D4
+~
+~
+0 -1 7558
+D5
+~
+~
+0 -1 7561
+S
+#7561
+A Large Tunnel~
+This tunnel is very wide, allowing for many ants to pass through at
+one time. The large tunnels always designate a busy part of the hill,
+places where more ants pass at once. The tunnel has been painstakingly
+widened and hardened, a true testament to the iron will of the ants.
+~
+0 8 1
+D0
+~
+~
+0 -1 7562
+D4
+~
+~
+0 -1 7560
+S
+#7562
+A Large Tunnel~
+This tunnel is very wide, allowing for many ants to pass through at
+one time. The large tunnels always designate a busy part of the hill,
+places where more ants pass at once. The tunnel has been painstakingly
+widened and hardened, a true testament to the iron will of the ants.
+~
+0 8 1
+D1
+~
+~
+0 -1 7563
+D2
+~
+~
+0 -1 7561
+S
+#7563
+A Communal Chamber~
+This large chamber serves as a communal feeding chamber for the ants,
+where the workers may feed the other castes. Ants are not very social
+creatures outside work, so little time is spent at rest. The hurried
+clicks of ants at work echoes through the hill.
+~
+0 8 1
+D0
+~
+~
+0 -1 7564
+D1
+~
+~
+0 -1 7565
+D3
+~
+~
+0 -1 7562
+D5
+~
+~
+0 -1 7569
+S
+#7564
+A Busy Tunnel~
+This wide tunnel is very busy and heavily used by the ants. The worker
+ants bustle in and out, unconcerned with who they pass. Warrior ants
+keep a watch over the workers and the well being of the nest as a whole.
+~
+0 8 1
+D1
+~
+~
+0 -1 7559
+D2
+~
+~
+0 -1 7563
+S
+#7565
+A Busy Tunnel~
+This wide tunnel is very busy and heavily used by the ants. The worker
+ants bustle in and out, unconcerned with who they pass. Warrior ants
+keep a watch over the workers and the well being of the nest as a whole.
+~
+0 8 1
+D1
+~
+~
+0 -1 7566
+D2
+~
+~
+0 -1 7567
+D3
+~
+~
+0 -1 7563
+S
+#7566
+Condensed Moisture~
+This clever chamber has been designed to collect and condense moisture
+throughout the nest with a rapid change in temperature. The moisture
+has cooled and collected into a large resivoir, for the ants to have
+a fresh water supply.
+~
+0 8 1
+D3
+~
+~
+0 -1 7565
+S
+#7567
+A Small Tunnel~
+This tunnel is small and cramped. It is obviously not heavily used,
+or the ants would have widened it. It would appear that only a few
+people could occupy this tunnel at once, making it a tricky situation
+for explorers wanting through.
+~
+0 520 1
+D0
+~
+~
+0 -1 7565
+D1
+~
+~
+0 -1 7568
+S
+#7568
+A Storage Chamber~
+This large chamber sees an occasional ant, placing foraged materials
+for storage. The ants store foodstuff in preperation of long winters
+or other disasters. Never let it be said ants did not have foresight.
+~
+0 8 1
+D3
+~
+~
+0 -1 7567
+S
+#7569
+Deeper Into the Hill~
+The air gets warmer as the tunnels go deeper into the ground. The ants
+enjoy warmth, and cultivate a special fungus to keep their lair warm.
+But, the deeper into the hill, the more ants there seem to be, working
+busily away.
+~
+0 8 1
+D0
+~
+~
+0 -1 7570
+D1
+~
+~
+0 -1 7572
+D2
+~
+~
+0 -1 7575
+D4
+~
+~
+0 -1 7563
+S
+#7570
+A Large Tunnel~
+This tunnel is very wide, allowing for many ants to pass through at
+one time. The large tunnels always designate a busy part of the hill,
+places where more ants pass at once. The tunnel has been painstakingly
+widened and hardened, a true testament to the iron will of the ants.
+~
+0 8 1
+D2
+~
+~
+0 -1 7569
+D3
+~
+~
+0 -1 7571
+S
+#7571
+A Hatchery~
+This chamber is extremely humid, so much so that it is difficult to
+breathe. The stench of newly born ants is overwhelming, as the larvae
+which occupy this chamber squirm and chrysalis into adults. The ants
+seem overly protective of this chamber.
+~
+0 8 1
+D1
+~
+~
+0 -1 7570
+S
+#7572
+A Busy Intersection~
+The tunnel splits in this busy intersection, where ants of all kinds
+hurridly shuffle past, doing chores. Most of the ants don't care if
+a forigen species is in their lair, but watch out for the warrior ants,
+they like to fight.
+~
+0 8 1
+D0
+~
+~
+0 -1 7573
+D2
+~
+~
+0 -1 7574
+D3
+~
+~
+0 -1 7569
+S
+#7573
+A Guard Station~
+This chamber is used only for a waiting room for the large warrior ants,
+waiting for the scent of warning pheremones from the workers. But, like
+most ants, warrior ants are prone to wander aimlessly, so this chamber
+is not always occupied.
+~
+0 8 1
+D2
+~
+~
+0 -1 7572
+S
+#7574
+A Guard Station~
+This chamber is used only for a waiting room for the large warrior ants,
+waiting for the scent of warning pheremones from the workers. But, like
+most ants, warrior ants are prone to wander aimlessly, so this chamber
+is not always occupied.
+~
+0 8 1
+D0
+~
+~
+0 -1 7572
+S
+#7575
+A Busy Intersection~
+The tunnel splits in this busy intersection, where ants of all kinds
+hurridly shuffle past, doing chores. Most of the ants don't care if
+a forigen species is in their lair, but watch out for the warrior ants,
+they like to fight.
+~
+0 8 1
+D0
+~
+~
+0 -1 7569
+D2
+~
+~
+0 -1 7577
+D3
+~
+~
+0 -1 7576
+S
+#7576
+Descending Into the Lair~
+The tunnels descend yet again, leading into warmer and more humid
+chambers. These connections between levels of the nest are always
+busy and bustling, like road intersections. The ants are always
+curteous to one another, as they roam about.
+~
+0 8 1
+D1
+~
+~
+0 -1 7575
+D5
+~
+~
+0 -1 7575
+S
+#7577
+A Large Tunnel~
+This tunnel is very wide, allowing for many ants to pass through at
+one time. The large tunnels always designate a busy part of the hill,
+places where more ants pass at once. The tunnel has been painstakingly
+widened and hardened, a true testament to the iron will of the ants.
+~
+0 8 1
+D0
+~
+~
+0 -1 7575
+D1
+~
+~
+0 -1 7578
+S
+#7578
+Descending Into the Lair~
+The tunnels descend yet again, leading into warmer and more humid
+chambers. These connections between levels of the nest are always
+busy and bustling, like road intersections. The ants are always
+curteous to one another, as they roam about.
+~
+0 8 1
+D3
+~
+~
+0 -1 7577
+D5
+~
+~
+0 -1 7579
+S
+#7579
+Deeper Into the Lair~
+The air gets warmer as the tunnels go deeper into the ground. The ants
+enjoy warmth, and cultivate a special fungus to keep their lair warm.
+But, the deeper into the hill, the more ants there seem to be, working
+busily away.
+~
+0 8 1
+D0
+~
+~
+0 -1 7586
+D4
+~
+~
+0 -1 7578
+S
+#7580
+Deeper Into the Lair~
+The air gets warmer as the tunnels go deeper into the ground. The ants
+enjoy warmth, and cultivate a special fungus to keep their lair warm.
+But, the deeper into the hill, the more ants there seem to be, working
+busily away.
+~
+0 8 1
+D0
+~
+~
+0 -1 7581
+D4
+~
+~
+0 -1 7576
+S
+#7581
+A Large Tunnel~
+This tunnel is very wide, allowing for many ants to pass through at
+one time. The large tunnels always designate a busy part of the hill,
+places where more ants pass at once. The tunnel has been painstakingly
+widened and hardened, a true testament to the iron will of the ants.
+~
+0 8 1
+D1
+~
+~
+0 -1 7582
+D2
+~
+~
+0 -1 7575
+S
+#7582
+Communal Chambers~
+This large chamber serves as a communal feeding chamber for the ants,
+where the workers may feed the other castes. Ants are not very social
+creatures outside work, so little time is spent at rest. The hurried
+clicks of ants at work echoes through the hill.
+~
+0 8 1
+D0
+~
+~
+0 -1 7583
+D1
+~
+~
+0 -1 7585
+D2
+~
+~
+0 -1 7587
+D3
+~
+~
+0 -1 7581
+D5
+~
+~
+0 -1 7589
+S
+#7583
+A Large Tunnel~
+This tunnel is very wide, allowing for many ants to pass through at
+one time. The large tunnels always designate a busy part of the hill,
+places where more ants pass at once. The tunnel has been painstakingly
+widened and hardened, a true testament to the iron will of the ants.
+~
+0 8 1
+D2
+~
+~
+0 -1 7582
+D3
+~
+~
+0 -1 7584
+S
+#7584
+The Final Descent~
+Yet again, the tunnels descend deeper into the anthill. But this is
+the final descent, where the queen herself lives. The ants will be
+very defensive for sure, so be on guard...
+~
+0 8 1
+D1
+~
+~
+0 -1 7583
+D5
+~
+~
+0 -1 7590
+S
+#7585
+A Large Tunnel~
+This tunnel is very wide, allowing for many ants to pass through at
+one time. The large tunnels always designate a busy part of the hill,
+places where more ants pass at once. The tunnel has been painstakingly
+widened and hardened, a true testament to the iron will of the ants.
+~
+0 8 1
+D2
+~
+~
+0 -1 7586
+D3
+~
+~
+0 -1 7582
+S
+#7586
+A Large Tunnel~
+This tunnel is very wide, allowing for many ants to pass through at
+one time. The large tunnels always designate a busy part of the hill,
+places where more ants pass at once. The tunnel has been painstakingly
+widened and hardened, a true testament to the iron will of the ants.
+~
+0 8 1
+D0
+~
+~
+0 -1 7585
+D2
+~
+~
+0 -1 7579
+S
+#7587
+A Large Tunnel~
+This tunnel is very wide, allowing for many ants to pass through at
+one time. The large tunnels always designate a busy part of the hill,
+places where more ants pass at once. The tunnel has been painstakingly
+widened and hardened, a true testament to the iron will of the ants.
+~
+0 8 1
+D0
+~
+~
+0 -1 7582
+D2
+~
+~
+0 -1 7588
+S
+#7588
+A Hatchery~
+This chamber is extremely humid, so much so that it is difficult to
+breathe. The stench of newly born ants is overwhelming, as the larvae
+which occupy this chamber squirm and chrysalis into adults. The ants
+seem overly protective of this chamber.
+~
+0 8 1
+D0
+~
+~
+0 -1 7587
+S
+#7589
+The Royal Chambers~
+These final chambers are where the ants congregate to be in the presence
+of their queen. Ants move through these chambers in droves, seeking the
+scent of the queen's pheremones. The number of ants should be observed,
+becuase if a fight were to break out, it could get ugly.
+~
+0 8 1
+D1
+~
+~
+0 -1 7592
+D2
+~
+~
+0 -1 7594
+D3
+~
+~
+0 -1 7591
+D4
+~
+~
+0 -1 7582
+S
+#7590
+The Deep Lair~
+This seems to be as deep as the tunnels go, very deep, warm and humid,
+all oppressivley so. The ants seem to pay no mind to visitors, well,
+all but the large warrior ants, who attack anything that moves that
+is not ant or aphid.
+~
+0 8 1
+D2
+~
+~
+0 -1 7591
+D4
+~
+~
+0 -1 7584
+
+S
+#7591
+An Odd Sight~
+This tunnel is very odd indeed, slimy and humid. Large holes have been
+tunneled in a criss crossing fashion, smaller than an ant can fit. Of
+course, the ants don't seem to mind the strange sight, so long as it
+presents no threat to their queen.
+~
+0 8 1
+D0
+~
+~
+0 -1 7590
+D1
+~
+~
+0 -1 7589
+S
+#7592
+The Royal Chambers~
+These final chambers are where the ants congregate to be in the presence
+of their queen. Ants move through these chambers in droves, seeking the
+scent of the queen's pheremones. The number of ants should be observed,
+becuase if a fight were to break out, it could get ugly.
+~
+0 8 1
+D2
+~
+~
+0 -1 7593
+D3
+~
+~
+0 -1 7589
+S
+#7593
+The Royal Chambers~
+These final chambers are where the ants congregate to be in the presence
+of their queen. Ants move through these chambers in droves, seeking the
+scent of the queen's pheremones. The number of ants should be observed,
+becuase if a fight were to break out, it could get ugly.
+~
+0 8 1
+D0
+~
+~
+0 -1 7592
+D2
+~
+~
+0 -1 7595
+D3
+~
+~
+0 -1 7594
+S
+#7594
+The Royal Chambers~
+These final chambers are where the ants congregate to be in the presence
+of their queen. Ants move through these chambers in droves, seeking the
+scent of the queen's pheremones. The number of ants should be observed,
+becuase if a fight were to break out, it could get ugly.
+~
+0 8 1
+D0
+~
+~
+0 -1 7589
+D1
+~
+~
+0 -1 7593
+S
+#7595
+The Queen's Lair~
+This tunnel is immense, allowing for hordes of ants to pass through
+at once. The smell of pheremones is very strong, almost overpowering.
+This surely must be the lair of the Queen, because everything here
+seems... 'royal'.
+~
+0 8 1
+D0
+~
+~
+0 -1 7593
+D2
+~
+~
+0 -1 7596
+S
+#7596
+The Queen's Lair~
+This tunnel is immense, allowing for hordes of ants to pass through
+at once. The smell of pheremones is very strong, almost overpowering.
+This surely must be the lair of the Queen, because everything here
+seems... 'royal'.
+~
+0 8 1
+D0
+~
+~
+0 -1 7595
+D2
+~
+~
+0 -1 7597
+S
+#7597
+The Queen's Nest~
+The final chamber is beyond immense, stretching beyond the limits of
+torchlight. The clickety click of ants working is almost deafining,
+and the strong smell of pheremones is overwhelming. This surely is
+the lair of the Queen.
+~
+0 8 1
+D0
+~
+~
+0 -1 7596
+S
+#7598
+The Farm~
+This large farm was once a place of beauty, but now many of the crops
+seem to have failed. A large mound stands to the West, which seems to
+be the source of the crop failure in this farm, and a house stands to
+the North, worn and rickety.
+~
+0 4 1
+D0
+~
+~
+0 -1 7599
+D1
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 7549
+S
+#7599
+In the Farmhouse~
+Kilman's farmhouse was once a beautiful, yet quaint, cottage, providing
+food for Archengarde. Now, without a source of income, the Kilman clan
+has moved away from this place, leaving their past home in a state of
+ill repair.
+~
+0 4 1
+D2
+~
+~
+0 -1 7598
+S
+#0
+
+
+#RESETS
+M 0 7553 3 7554 3
+M 0 7551 2 7557 2
+M 0 7551 4 7556 4
+M 1 7551 4 7556 4
+M 1 7552 1 7568 1
+M 1 7550 1 7568 1
+M 1 7551 6 7573 6
+M 1 7551 6 7573 6
+M 1 7551 8 7574 2
+M 1 7551 8 7574 2
+M 1 7555 5 7588 5
+M 1 7555 5 7588 5
+M 1 7555 5 7588 5
+M 1 7555 5 7588 5
+M 1 7555 5 7588 5
+M 1 7554 2 7588 2
+M 1 7554 2 7588 2
+M 1 7555 10 7571 10
+M 1 7555 10 7571 10
+M 1 7555 10 7571 10
+M 1 7555 10 7571 10
+M 1 7555 10 7571 10
+M 1 7554 4 7571 4
+M 1 7554 4 7571 4
+M 1 7556 1 7591 1
+M 1 7557 1 7597 1
+M 1 7551 10 7597 10
+M 1 7551 10 7597 10
+M 1 7549 2 7550 2
+M 1 7549 2 7550 2
+M 1 7550 2 7551 2
+M 1 7550 3 7558 3
+M 1 7550 4 7555 4
+M 1 7550 5 7559 5
+M 1 7549 4 7563 4
+M 1 7549 4 7563 4
+M 1 7550 6 7563 4
+M 1 7550 7 7565 7
+M 1 7550 8 7566 2
+M 1 7552 2 7566 2
+O 1 7554 1 7566 1
+M 1 7550 10 7561 2
+M 1 7550 10 7561 2
+M 1 7552 3 7560 2
+M 1 7549 6 7569 2
+M 1 7549 6 7569 2
+M 1 7550 11 7569 2
+M 1 7550 12 7572 2
+M 1 7550 13 7575 2
+M 1 7550 15 7577 2
+M 1 7550 15 7577 2
+M 1 7552 4 7586 2
+M 1 7551 11 7586 2
+M 1 7550 16 7586 2
+M 1 7549 8 7582 2
+M 1 7549 8 7582 2
+M 1 7552 5 7582 2
+M 1 7551 12 7584 2
+M 1 7552 7 7575 2
+M 1 7552 7 7575 2
+M 1 7550 18 7589 2
+M 1 7550 18 7589 2
+M 1 7551 13 7589 2
+M 1 7552 8 7589 2
+M 1 7552 9 7592 2
+M 1 7551 14 7592 2
+M 1 7550 20 7592 2
+M 1 7550 20 7592 2
+M 1 7550 22 7593 2
+M 1 7550 22 7593 2
+M 1 7552 10 7593 2
+M 1 7550 24 7594 2
+M 1 7550 24 7594 2
+M 1 7551 15 7594 2
+M 1 7551 18 7596 2
+M 1 7551 18 7596 2
+M 1 7551 18 7596 2
+S
+
+
+#SHOPS
+0
+
+#SPECIALS
+S
+
+
+#$
