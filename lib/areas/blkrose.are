@@ -1568,7 +1568,9 @@ door~
 S
 #22594
 Dungeon Hallway~
-
+You are in a low corridor, carved out of the rock, which runs
+north and south.  The air feels cold and the quiet makes you 
+feel very uneasy.
 ~
 0 532480 0
 D0
@@ -1582,7 +1584,9 @@ D2
 S
 #22595
 Dungeon Hallway~
-
+You are in a small corridor, running north and south.  Doors 
+are to the east and west.  The air here is very cold and a 
+light mist hovers near the ground.
 ~
 0 532480 0
 D0
@@ -1592,7 +1596,7 @@ D0
 D1
 ~
 ~
-0 0 22596
+1 0 22596
 D2
 ~
 ~
@@ -1600,7 +1604,7 @@ D2
 D3
 ~
 ~
-0 0 22597
+1 0 22597
 S
 #22596
 Dungeon Cell~
@@ -1610,7 +1614,7 @@ Dungeon Cell~
 D3
 ~
 ~
-0 0 22595
+1 0 22595
 S
 #22597
 Dungeon Cell~
@@ -1620,7 +1624,7 @@ Dungeon Cell~
 D1
 ~
 ~
-0 0 22595
+1 0 22595
 S
 #22598
 Dungeon Hallway~
