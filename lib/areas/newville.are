@@ -28,7 +28,7 @@ D0
 The sandy beach is to your north.
 ~
 ~
-0 -1 2601
+0 -1 2602
 E
 sign~
 {YWELCOME to Newcomer Island!  To move around here you will have to 
@@ -43,6 +43,33 @@ much else.  Further in the distance you see something that looks
 like a tower of stone, tall and slender.
 ~
 S
+#2601 
+On the shoreline~
+You awake, on the shoreline, your clothes sodden, and many of your 
+personal items scattered all around.  Apparently your untimely death 
+was not accepted by the Gods, because you find yourself back on 
+Newcomer Island...
+~
+0 0 2
+D0
+The sandy beach is to your north.
+~
+~
+0 -1 2602
+S 
+#2602 
+Walking on the beach~
+You are making your way from the shoreline into the nearby village.
+The sand piles up here in small dunes with tufts of grass and weeds
+sprouting up.  There is another {Wsign{x stuck into the sand.
+~
+0 0 2
+D0 
+The entry to the village is to the north.
+~
+~
+0 -1 2603
+S  
 #0
 
 
