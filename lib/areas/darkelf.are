@@ -553,13 +553,38 @@ D1
 D3
 ~
 gate~
-2 -1 -1
+2 -1 22626
 E
 gate~
 The gate is made of adamantium, a supposedly indestructable material that the
 darkelves use to make their weapons and armour. There is no way you can get
 through the gate without unlocking it first.~
 S 
+#22626
+The Underdark~
+You have come to an intersection in the underdark. You can go north, south,
+or east through a massive gate.
+~
+0 0 0
+D0
+~
+~
+0 -1 -1
+D1 
+~
+~
+2 -1 22625
+D2
+~
+~
+0 -1 -1
+E
+gate~
+The gate is made of adamantium, a supposedly indestructable material that the
+darkelfs use to make their weapons and armour. There is no way you can get
+through this gate without unlocking it first.~
+S 
+
 #0
 
 
