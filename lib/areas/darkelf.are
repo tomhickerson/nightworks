@@ -569,7 +569,7 @@ or east through a massive gate.
 D0
 ~
 ~
-0 -1 -1
+0 -1 22627
 D1 
 ~
 ~
@@ -584,7 +584,32 @@ The gate is made of adamantium, a supposedly indestructable material that the
 darkelfs use to make their weapons and armour. There is no way you can get
 through this gate without unlocking it first.~
 S 
-
+#22627
+The Underdark~
+The tunnels and caverns lead north and south here. There are some strange
+{Wscrape marks{x on the west wall.
+~
+0 0 0
+D0 
+~
+~
+0 -1 -1
+D2 
+~
+~
+0 -1 22626
+D3
+You see some scrape marks on the wall. You wonder what whatever it was doing
+the scraping was trying to get into...
+~
+door marks~
+1 -1 -1 
+E
+scrape marks~
+The marks look as if something with claws was trying to get throught the wall
+here. You wonder why someone (or something) would be trying to get 
+through the west wall...~
+S 
 #0
 
 
