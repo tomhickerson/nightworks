@@ -610,6 +610,31 @@ The marks look as if something with claws was trying to get throught the wall
 here. You wonder why someone (or something) would be trying to get 
 through the west wall...~
 S 
+#22628
+An Ancient Crypt~
+You are in the entrance to an ancient crypt. Skeletal remains litter the floor,
+and the tatters of tapistries adorn the walls. You can exit into the
+underdark to the east, or traverse further into the crypt to the west.
+~
+0 0 0
+D1
+You see a door leading into the underdark.
+~
+~
+1 -1 22627
+D3
+~
+~
+0 -1 -1
+E
+tapistries~
+The ruined tapistries are ripped and torn, and so old that you can not tell
+what was adorning them.~
+E
+remains~
+The remains seem to be those of warriors, perhaps at one time guardians of
+the crypt.~
+S
 #0
 
 
