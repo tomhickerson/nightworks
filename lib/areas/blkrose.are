@@ -1608,34 +1608,49 @@ D3
 S
 #22596
 Dungeon Cell~
-
+You are in a small cell, empty save for some remains of a 
+prisoner, still chained to the side of the wall by some 
+rusty manacles.
 ~
 0 532480 0
 D3
 ~
 ~
 1 0 22595
+E
+remains~
+They look to be elven in nature, with no apparent cause of 
+death.  The body is intact, and dessicated or drained somehow.~
 S
 #22597
 Dungeon Cell~
-
+You are in a small cell, completely empty of any furnishings or 
+remains.  There are some {Wscratches{x on the far wall.
 ~
 0 532480 0
 D1
 ~
 ~
 1 0 22595
+E
+scratches~
+You see words in an elvish script, they are unreadable but there
+is the symbol of what looks like a spider at the end.~
 S
 #22598
 Dungeon Hallway~
-
+You are at the end of the dark corridor under the tower.  There is 
+a pearly mist that covers the floor, and you can see your breath.
+Ice crystals cover the bricks here, and they are wet to the touch.
 ~
 0 532480 0
 D1
+The cold air seems to flow from this part of the dungeon.
 ~
 ~
 0 0 22599
 D2
+The dungeon corridor.
 ~
 ~
 0 0 22595
@@ -1646,7 +1661,10 @@ D3
 S
 #22599
 Dungeon Cell~
-
+You are in a small, cold cell, a fine mist covers the entire floor
+here and ice crystals cover the walls and ceiling.  A fetid stench 
+hangs in the air, and the far end of the cell is especially dark and
+shadowy.
 ~
 0 532480 0
 D3
@@ -1656,7 +1674,9 @@ D3
 S
 #22600
 Dungeon Cell~
-
+You are in an empty cell, crafted of stone but covered in a curious
+blue moss which glows in the dark.  The air is humid and thick, and
+you can smell upturned earth. 
 ~
 0 532480 0
 D1
