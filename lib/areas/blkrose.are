@@ -18,8 +18,8 @@ intruder.
 ~
 unique~
 ABGT 0 0 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 AJUX 0 0 0
 stand stand female 0
 AHMV ABCDEFGHIJK large unknown
@@ -34,21 +34,23 @@ prey.
 ~
 unique~
 AGR 0 0 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 FH 0 B Z
 stand stand female 0
 AHMV ABCDEFGHIJK medium unknown
 #22503
 Midir~
 Midir~
-Midir stands here ready for batte.
+Midir stands here ready for battle.
 ~
+Midir, with her close-cropped dark hair, looks almost like a man, as
+she is very strong and imposing.
 ~
 unique~
 ABGT 0 0 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 0 0 0 0
 stand stand female 0
 AHMV ABCDEFGHIJK large unknown
@@ -62,8 +64,8 @@ she makes sure to protect her charges with her life.
 ~
 unique~
 A 0 0 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 0 0 0 0
 stand stand female 0
 AHMV ABCDEFGHIJK large unknown
@@ -72,11 +74,13 @@ Mikela~
 Mikela~
 Mikela stands here guarding her tower.
 ~
+Mikela, with silver hair and green eyes, gazes at you with a fierce
+confidence and daring that you find unsettling.
 ~
 unique~
 ABR 0 1000 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 0 0 0 0
 stand stand female 0
 AHMV ABCDEFGHIJK giant unknown
@@ -85,11 +89,13 @@ Gabriela~
 Gabriela~
 Gabriela stands here guarding her tower.
 ~
+Gabriela, with chestnut hair, is clad in chain-mail and ready for 
+any confrontation.
 ~
 unique~
 ABGR 0 1000 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 0 0 0 0
 stand stand female 0
 AHMV ABCDEFGHIJK giant unknown
@@ -107,8 +113,8 @@ cat is a familiar.
 ~
 unique~
 AGT 0 -1000 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 FH 0 0 0
 stand stand female 0
 AGV ACDEFHJKQUV medium unknown
@@ -117,11 +123,12 @@ gelding~
 A gelding~
 A gelding stands here waiting for its mistress.
 ~
+This horse looks to be a purebred, ready for a ride.
 ~
 unique~
 AGT 0 0 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 DEO 0 EI 0
 stand stand none 0
 AGV ACDEFHJK large unknown
@@ -138,8 +145,8 @@ attack if necessary.
 ~
 unique~
 ABST 0 1000 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 0 0 0 0
 stand stand female 0
 AHMV ABCDEFGHIJK large unknown
@@ -151,8 +158,8 @@ A slave of the keep stands here ready to serve.
 ~
 unique~
 AT 0 0 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 0 0 0 0
 stand stand male 0
 AHMV ABCDEFGHIJK large unknown
@@ -164,8 +171,8 @@ A female warrior stands here ready to defend the keep.
 ~
 unique~
 AGT 0 0 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 0 0 0 0
 stand stand female 0
 AHMV ABCDEFGHIJK large unknown
@@ -177,8 +184,8 @@ Moraith stands here ready to fight to the death.
 ~
 unique~
 AGT 0 1000 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 0 0 0 0
 stand stand female 0
 AHMV ABCDEFGHIJK medium unknown
@@ -193,8 +200,8 @@ stare ahead.
 ~
 unique~
 ABFGNT 0 0 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 0 0 0 0
 stand stand female 0
 AHMV ABCDEFGHIJK huge unknown
@@ -206,8 +213,8 @@ Taliesin stands here waiting for his next order.
 ~
 unique~
 AGT 0 0 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 0 0 0 0
 stand stand male 0
 AHMV ABCDEFGHIJK medium unknown
@@ -219,8 +226,8 @@ Ura stands here guarding her tower.
 ~
 unique~
 A 0 0 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 0 0 0 0
 stand stand female 0
 AHMV ABCDEFGHIJK huge unknown
@@ -232,8 +239,8 @@ Raphaela stands here guarding her tower.
 ~
 unique~
 A 0 0 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 0 0 0 0
 stand stand female 0
 AHMV ABCDEFGHIJK huge unknown
@@ -245,8 +252,8 @@ A warhorse stands here stomping his feet ready to go.
 ~
 unique~
 AGT 0 0 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 DEO 0 EI 0
 stand stand male 0
 AGV ABCDEFHJKQ huge unknown
@@ -258,8 +265,8 @@ A mare stands here ready to fight for her mistress.
 ~
 unique~
 AGT 0 0 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 DEO 0 EI 0
 stand stand female 0
 AGV ABCDEFHJKQ medium unknown
@@ -271,8 +278,8 @@ A stable hand stands here feeding the horses.
 ~
 unique~
 A 0 0 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 0 0 0 0
 stand stand female 0
 AHMV ABCDEFGHIJK medium unknown
@@ -284,8 +291,8 @@ A wolfhound looks for scraps to eat.
 ~
 unique~
 AGT 0 0 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 H 0 0 0
 stand stand male 0
 AGV ACDEFHJKQUV medium unknown
@@ -297,8 +304,8 @@ A dragon lies here resting.
 ~
 unique~
 AGNRT 0 -1000 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+20 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 0 0 0 0
 stand stand female 0
 AHZ ACDEFHJKLOPQUVWXY huge unknown
@@ -310,8 +317,8 @@ A red dragon lies here sunning herself.
 ~
 unique~
 AGRT 0 -1000 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+30 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 0 0 0 0
 stand stand female 0
 AHZ ACDEFHJKLOPQUVWXY huge unknown
@@ -323,8 +330,8 @@ A crystal dragon lies here sunning herself.
 ~
 unique~
 AFGRT 0 -1000 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 0 0 0 0
 stand stand female 0
 AHZ ACDEFHJKLOPQUVWXY huge unknown
@@ -336,8 +343,8 @@ A chef stands here cooking for the warriors.
 ~
 unique~
 A 0 1000 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 pound
+-12 -12 -12 -12
 0 0 0 0
 stand stand female 0
 AHMV ABCDEFGHIJK medium unknown
@@ -349,8 +356,8 @@ The ghost of the once mighty Fildais roams the halls of Blackrose Keep.
 ~
 unique~
 AFGNT 0 1000 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 wrath
+-12 -12 -12 -12
 0 0 0 0
 stand stand female 0
 AHMV ABCDEFGHIJK large unknown
@@ -359,11 +366,13 @@ small ghost~
 {WA small ghost{x~
 {WA small ghost wanders here, apparently lost.{x
 ~
+This pale, transparent child is wandering here, looking for something, or
+somebody.
 ~
 unique~
 AGNT 0 -1000 0
-0 0 0d0+0 0d0+0 0d0+0 none
-0 0 0 0
+10 0 5d10+500 1d1+1 1d9+2 wrath 
+-12 -12 -12 -12
 0 0 0 0
 stand stand female 0
 AHMV ABCDEFGHIJK medium unknown
