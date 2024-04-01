@@ -155,6 +155,8 @@ Slave~
 A slave~
 A slave of the keep stands here ready to serve.
 ~
+While it is obvious that this man is a servant in the keep, he stands up
+tall and is dressed modestly, not shabby.
 ~
 unique~
 AT 0 0 0
@@ -168,6 +170,9 @@ warrior~
 A warrior~
 A female warrior stands here ready to defend the keep.
 ~
+One of the warriors of the keep, this woman keeps her hair up in a braid
+and is clad in the officer's arms, so she is well-protected and ready for 
+a scrap.
 ~
 unique~
 AGT 0 0 0
@@ -181,6 +186,9 @@ Moraith~
 Moraith~
 Moraith stands here ready to fight to the death.
 ~
+Moraith is here in her best armor, and apparently ready for a battle.  Her
+blond hair is tucked under her helm and her bright blue eyes gleam with 
+fury.
 ~
 unique~
 AGT 0 1000 0
@@ -210,6 +218,8 @@ Taliesin~
 Taliesin~
 Taliesin stands here waiting for his next order.
 ~
+One of the few male subjects of the Keep, Taliesin stands his ground with
+white armors and a sharp spear.
 ~
 unique~
 AGT 0 0 0
@@ -223,6 +233,8 @@ Ura~
 Ura~
 Ura stands here guarding her tower.
 ~
+A raven-haired beauty with close-cut hair, Ura looks about her, being
+cautious.
 ~
 unique~
 A 0 0 0
@@ -236,6 +248,7 @@ Raphaela~
 Raphaela~
 Raphaela stands here guarding her tower.
 ~
+The red-headed Raphaela is scanning the room for threats.
 ~
 unique~
 A 0 0 0
@@ -249,6 +262,8 @@ warhorse~
 Warhorse~
 A warhorse stands here stomping his feet ready to go.
 ~
+All muscle and thick coat, the warhorse shakes his head and whinnys as
+you get near.
 ~
 unique~
 AGT 0 0 0
@@ -262,6 +277,7 @@ mare~
 mare~
 A mare stands here ready to fight for her mistress.
 ~
+A soft coat, but the mare eyes you up and down defiantly.
 ~
 unique~
 AGT 0 0 0
@@ -275,6 +291,8 @@ Stable hand~
 A stable hand~
 A stable hand stands here feeding the horses.
 ~
+This simple boy is handy with the oats, which is why the horses take to him
+so well.
 ~
 unique~
 A 0 0 0
@@ -288,6 +306,8 @@ wolfhound~
 Wolfhound~
 A wolfhound looks for scraps to eat.
 ~
+A ragged hound, drooling and pawing the ground, eyes you over to see 
+if you have/are food.
 ~
 unique~
 AGT 0 0 0
@@ -301,6 +321,8 @@ dragon~
 a dragon~
 A dragon lies here resting.
 ~
+A green-scaled forest dragon is here resting, possibly digesting its
+last meal.
 ~
 unique~
 AGNRT 0 -1000 0
@@ -314,6 +336,7 @@ red dragon~
 a red dragon~
 A red dragon lies here sunning herself.
 ~
+A majestic dragon lies here, rolling on the ground while it suns itself.
 ~
 unique~
 AGRT 0 -1000 0
@@ -327,6 +350,8 @@ crystal dragon~
 crystal dragon~
 A crystal dragon lies here sunning herself.
 ~
+Scales of every color shine off of this dragon's coat as the dragon
+sighs and yawns.
 ~
 unique~
 AFGRT 0 -1000 0
@@ -340,6 +365,8 @@ a chef~
 a Chef~
 A chef stands here cooking for the warriors.
 ~
+The pot-bellied chef adjusts his stained apron and keeps on cooking for the
+Keep's many denizens.
 ~
 unique~
 A 0 1000 0
@@ -353,6 +380,8 @@ Fildais' ghost~
 Fildais' ghost~
 The ghost of the once mighty Fildais roams the halls of Blackrose Keep.
 ~
+This transparent ghost of an ancient and bearded leader of the Keep is
+roaming about, restless and uncertain.
 ~
 unique~
 AFGNT 0 1000 0
