@@ -918,8 +918,7 @@ On careful inspection, you can see the cavern tunnel here has been widened artif
 S
 #22556
 Cavern Exit~
-You are in a cavern tunnel with an even dirt floor.  To the north is darkness, while
-to the south is an exit and some fresh air.
+You are in a cavern tunnel with an even dirt floor.  To the north is darkness, while to the south is an exit and some fresh air.
 ~
 0 532480 0
 D0
@@ -2127,10 +2126,9 @@ D1
 S
 #22520
 Guest Bedroom ~
-A large bed dominates the entire room.  	Dark bedcurtains are used to
+A large bed dominates the entire room.  Dark bedcurtains are used to
 keep the cold and light out.  On the east wall is a large window, with a
-window seat under it, looking over the courtyard.  Behind the bed is a large
-picture of Fildai standing ready with her weapons in hand.  
+window seat under it, looking over the courtyard.  Behind the bed is a large picture of Fildai standing ready with her weapons in hand.  
 ~
 0 794624 0
 D3
@@ -2144,8 +2142,7 @@ The steam is so thick here, it is hard to breath.  The entire room is one
 great pool.  Extending from the ceiling are four spouts with hot water
 pouring into the bath, keeping it ever warm.  If the warriors want a nice
 hot bath, they come here.  If they want a cool, refreshing swim, they go to
-the secluded pool outside.  There is a small marble walkway going around the
-bath.  
+the secluded pool outside.  There is a small marble walkway going around the bath.  
 ~
 0 794632 0
 D1
@@ -2262,9 +2259,7 @@ S
 Garbriela's Tower Room~
 This room has but a few sparse furnishings, and the person who lives here
 obviously does not care about luxuries.  A hearth is burning against the
-wall, which provides heat and light.  Against another wall is a ladder going
-up to the next floor, to what seems to be the bedroom.  	The ladder looks
-dangerous, one might take caution while climbing it.  
+wall, which provides heat and light.  Against another wall is a ladder going up to the next floor, to what seems to be the bedroom.  	The ladder looks dangerous, one might take caution while climbing it.  
 ~
 0 794632 0
 D0
@@ -2297,7 +2292,10 @@ S
 
 
 #RESETS
-M 0 22526 1 22538 1
+M 0 22526 1 22538 1 * ghost of the child in a stable 
+M 0 22525 1 22507 1 * ghost of Fildais in his sitting room 
+M 0 22524 1 22503 1 * chef in the kitchen
+M 0 22523 1 22561 1 * crystal dragon at the cavern entrance 
 S
 
 
