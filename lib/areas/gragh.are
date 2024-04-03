@@ -399,13 +399,13 @@ Base of Stairs
    Long Hallway                        |       
 	|                         Dark Hallway 
    Long Hallway                        |                                               
-	|                        A Pond--Top of--Slavemaster's Room
+   |                        A Pond--Top of--Slavemaster's Room
    Long Hallway                      Stairs     
-	|                              |       
+		|                              |       
    Long Hallway                   Dark Hallway 
-	|                              |       
+		|                              |       
    Long Hallway                   Dark Hallway 
-	|                              |       
+		|                              |       
      Entrance                      The Nursery
 				 (To Meeting Hall)
 									      
@@ -841,7 +841,7 @@ D2
 S
 #13119
 The Nursery~
-This room is covered with cacoon-like things hanging from the ceiling. 
+This room is covered with cocoon-like things hanging from the ceiling. 
 You watch in fascination as they open up dropping a small little black
 creature, and within minutes the creature grows into a full grown monk of
 Graghtok, each looking exactly like the rest.  At the rear of the room are
@@ -1014,7 +1014,7 @@ D3
 D1 
 ~
 ~
-0 -1 -1 
+0 -1 13129
 S
 #13128
 A Small Shrine~
@@ -1028,6 +1028,18 @@ D1
 ~
 0 -1 13121
 S
+#13129
+An Egg-shaped Room~
+You are in a misty, round chamber hewed out of the rock itself, with 
+a slab of marble serving as the floor.  A curious mist is flowing out
+of the area beneath the slab.
+~
+0 AD 0
+D3
+~
+~
+0 -1 13127
+S 
 #0
 
 #SPECIALS
@@ -1041,6 +1053,39 @@ G 1 13101 1 * statue holds the ruby key
 M 0 13105 1 13114 4 * hounds in the pit 
 M 0 13105 1 13114 4 * put two of them there 
 M 0 13102 1 13109 2 * blood beast taking his blood bath 
+G 1 13111 1 * give him the ruby ring, why not 
+M 0 13101 1 13110 5 * monk of graghtok at the top of the stairs
+M 0 13101 1 13111 5 * monk of graghtok in a dark hallway 
+G 1 13114 1 * give him the scroll of illusion 
+M 0 13101 1 13112 5 * monk in a dark hallway 
+G 1 13116 1 * give him the scroll of life 
+M 0 13104 1 13120 4 * elder monk of graghtok in the meeting hall
+G 1 13117 1 * give hin the scroll of protection 
+M 0 13104 1 13121 4 * elder monk of graghtok in the elders study
+G 1 13118 1 * give him the scroll of weakening  
+M 0 13104 1 13113 4 * elder monk of Graghtok in graghtok's pit  
+G 1 13119 1 * give him the scroll of mass suffering 
+M 0 13106 1 13129 1 * graghtok himself, in the alien egg room 
+G 1 13124 1 * graghtok's thumb 
+E 0 13113 0 5 * equip graghtok with a ruby belt 
+E 0 13103 0 16 * equip graghtok with a ruby blade 
+E 0 13104 0 6 * equip him with a ruby helm 
+E 0 13105 0 12 * equip him with a ruby cape 
+E 0 13106 0 7 * equip him with a set of ruby leggings 
+E 0 13107 0 8 * equip him with some ruby boots 
+E 0 13108 0 14 * equip him with a ruby bracer 
+E 0 13109 0 9 * equip him with some ruby gauntlets
+O 0 13123 0 13129 * ruby chest in the egg room
+P 0 13112 0 13123 1 * ruby armor in the ruby chest 
+P 0 13110 0 13123 1 * ruby pendant in the ruby chest 
+O 0 13126 0 13102 * load corpse in the corridor 
+P 0 13127 0 13126 1 * put the map into the corpse 
+D 0 13101 0 1 * closing the door north from 13101 
+D 0 13102 2 1 * closing the door south from 13102 
+D 0 13106 0 1 * closing the door north from 13106 
+D 0 13107 2 1 * closing the door south from 13107 
+D 0 13107 1 1 * closing the door east from 13107 
+D 0 13109 3 1 * closing the door west from 13109 
 S
 
 
