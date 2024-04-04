@@ -741,8 +741,8 @@ S
 #13114
 In the Pit~
 After a plunge of about fifty hands you find yourself in a blood stained
-room of death.  Looking around you see massives hounds with teeth like
-razors tearing the monks to shreds, and piling the remains in a corner.  You
+room of death.  Looking around you see massive hounds with teeth like
+razors tearing the monks to shreds, and piling the {Wremains{x in a corner.  You
 see no way back out of this pit, and realize that even if you could handle
 the hounds you will not be able to climb back out.  It would appear
 hopeless.  
@@ -752,6 +752,10 @@ D1
 ~
 remains~
 2 -1 -1
+E
+remains~
+Looking closer at the remains, you see what looks like a portal 
+to another tunnel, with a keyhole.~
 S
 #13115
 Slavemaster's Room~
@@ -898,7 +902,7 @@ D3
 This book appears to be made of wood.
 ~
 book~
-2 -1 -1
+2 -1 13128
 S
 #13122
 Dirty Hallway~
@@ -1026,7 +1030,7 @@ and floor, etched in a dark color.
 D1 
 ~
 ~
-0 -1 13121
+2 -1 13121
 S
 #13129
 An Egg-shaped Room~
@@ -1086,6 +1090,11 @@ D 0 13106 0 1 * closing the door north from 13106
 D 0 13107 2 1 * closing the door south from 13107 
 D 0 13107 1 1 * closing the door east from 13107 
 D 0 13109 3 1 * closing the door west from 13109 
+D 0 13119 4 1 * closing the door up from 13119 
+D 0 13120 5 1 * closing the door down from 13120 
+D 0 13114 1 2 * closing and locking the door east from 13114 (the pit)
+D 0 13121 3 2 * closing and locking the door west from 13121 (the study)
+D 0 13128 1 2 * closing and locking the door east from 13128 (the shrine)
 S
 
 
