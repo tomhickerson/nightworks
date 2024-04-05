@@ -751,7 +751,7 @@ hopeless.
 D1
 ~
 remains~
-2 -1 -1
+2 13125 13130
 E
 remains~
 Looking closer at the remains, you see what looks like a portal 
@@ -902,7 +902,7 @@ D3
 This book appears to be made of wood.
 ~
 book~
-2 -1 13128
+2 13101 13128
 S
 #13122
 Dirty Hallway~
@@ -1044,6 +1044,18 @@ D3
 ~
 0 -1 13127
 S 
+#13130
+A small chamber~
+You are in a dark, low chamber, carved into the rock.  Strange symbols 
+carved into the walls glow with a faint light.
+~
+0 AD 0
+D3 
+This is the exit to the pit.
+~
+~
+2 13125 13114
+S 
 #0
 
 #SPECIALS
@@ -1053,7 +1065,7 @@ S
 
 #RESETS
 M 0 13103 1 13116 1 * statue above the pond 
-G 1 13101 1 * statue holds the ruby key 
+G 1 13101 1 * statue holds the ruby key  
 M 0 13105 1 13114 4 * hounds in the pit 
 M 0 13105 1 13114 4 * put two of them there 
 M 0 13102 1 13109 2 * blood beast taking his blood bath 
@@ -1071,17 +1083,18 @@ M 0 13104 1 13113 4 * elder monk of Graghtok in graghtok's pit
 G 1 13119 1 * give him the scroll of mass suffering 
 M 0 13106 1 13129 1 * graghtok himself, in the alien egg room 
 G 1 13124 1 * graghtok's thumb 
+G 1 13125 1 * give him the key to the treasure room 
 E 0 13113 0 5 * equip graghtok with a ruby belt 
 E 0 13103 0 16 * equip graghtok with a ruby blade 
-E 0 13104 0 6 * equip him with a ruby helm 
 E 0 13105 0 12 * equip him with a ruby cape 
-E 0 13106 0 7 * equip him with a set of ruby leggings 
-E 0 13107 0 8 * equip him with some ruby boots 
 E 0 13108 0 14 * equip him with a ruby bracer 
 E 0 13109 0 9 * equip him with some ruby gauntlets
-O 0 13123 0 13129 * ruby chest in the egg room
+O 0 13123 0 13130 * ruby chest in the treasure room 
 P 0 13112 0 13123 1 * ruby armor in the ruby chest 
 P 0 13110 0 13123 1 * ruby pendant in the ruby chest 
+P 0 13107 0 13123 1 * ruby boots in the ruby chest 
+P 0 13106 0 13123 1 * ruby leggings in the ruby chest 
+P 0 13104 0 13123 1 * ruby helm in the ruby chest 
 O 0 13126 0 13102 * load corpse in the corridor 
 P 0 13127 0 13126 1 * put the map into the corpse 
 D 0 13101 0 1 * closing the door north from 13101 
@@ -1093,6 +1106,7 @@ D 0 13109 3 1 * closing the door west from 13109
 D 0 13119 4 1 * closing the door up from 13119 
 D 0 13120 5 1 * closing the door down from 13120 
 D 0 13114 1 2 * closing and locking the door east from 13114 (the pit)
+D 0 13130 3 2 * closing and locking the door west from 13130 (the treasure room) 
 D 0 13121 3 2 * closing and locking the door west from 13121 (the study)
 D 0 13128 1 2 * closing and locking the door east from 13128 (the shrine)
 S
