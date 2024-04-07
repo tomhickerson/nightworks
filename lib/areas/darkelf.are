@@ -593,7 +593,7 @@ The tunnels and caverns lead north and south here. There are some strange
 D0 
 ~
 ~
-0 -1 -1
+0 -1 22632
 D2 
 ~
 ~
@@ -603,7 +603,7 @@ You see some scrape marks on the wall. You wonder what whatever it was doing
 the scraping was trying to get into...
 ~
 door marks~
-1 -1 -1 
+1 -1 22628
 E
 scrape marks~
 The marks look as if something with claws was trying to get throught the wall
@@ -625,7 +625,7 @@ You see a door leading into the underdark.
 D3
 ~
 ~
-0 -1 -1
+0 -1 22629
 E
 tapistries~
 The ruined tapistries are ripped and torn, and so old that you can not tell
@@ -666,7 +666,7 @@ for good.
 D0
 ~
 door~
-1 -1 -1
+1 -1 22631
 D2
 ~
 ~
@@ -675,6 +675,44 @@ E
 altar~
 The altar is the epitome of evil. Behind it to the north you can detect the
 outline of a hidden door.~
+S 
+#22631
+An Ancient Crypt Inner Sanctum~
+You are in the inner sanctum of the ancient crypt. Thrown about the room are
+tomes of magic, and a table covered with jars, bottles, dusts, and other
+magical devices is in the center of the room.
+~
+0 0 0
+D2
+~
+door~
+1 -1 22630
+E
+tomes~
+The tomes are warded with some sort of magic, and seem obviously magical.~
+E
+jars bottles dusts~
+There are a number of items across the table, mostly being magical
+components and reagents.~
+S 
+#22632
+The Underdark~ 
+You have come to an intersection in the tunnels, leading north, east and south. You
+detect a presence of incredable power and evil from the eastern tunnel.
+~
+0 0 0
+D0 
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 22627
 S 
 #0
 

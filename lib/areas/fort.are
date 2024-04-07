@@ -1,0 +1,1761 @@
+#AREA
+fort.are~
+Orc Fortress~
+{30 50} Jihard Orc Fortress~
+16500 16599
+
+#MOBILES
+#16500
+orc cleric~
+an orc cleric~
+An orc cleric brandishes a pair of pincers.
+~
+Dressed in a dirty smock, what passes for an orcish cleric brandishes a
+wand of regeneration in one hand, and a pair of pincers in the other. 
+Beside him is a pile of bloody elf ears.  
+~
+unique~
+ABGM J 0 0
+30 0 5d13+100 4d12+35 2d12+6 punch
+0 0 0 0
+0 0 Q S
+stand stand male 7000
+AHMV ABCDEFGHIJK giant unknown
+#16501
+orc gate guard~
+an orc gateguard~
+An orc gateguard stands at attention.
+~
+This orc gateguard has seen many winters, the lines on his ragged face
+showing the brunt of each and every harshness.  He stands absolutely still,
+mouth pursed and eyes beady with attention.  
+~
+unique~
+ABGT Jc -1000 0
+28 0 27d10+60 0d0+0 2d7+12 slash
+-10 -10 -10 -10
+CFKRU AB FNQ S
+stand stand male 1000
+AHMV ABCDEFGHIJK large flesh
+#16502
+orc lookout~
+an orc lookout~
+An orc lookout scans the lakes.
+~
+He leans against his spear, arms gripped tightly one above the other.  A
+steady sigh escapes his lips as he surveys the realms around him.  
+~
+unique~
+AGT J -1000 0
+26 0 5d10+500 0d0+0 2d7+2 slash
+-13 -13 -13 -13
+CFKNR AB FHQ S
+stand stand male 5000
+AHMV ABCDEFGHIJK giant unknown
+#16503
+orc squire~
+an orc squire~
+An orc squire looks for his master.
+~
+A snivelling youngster with snot dribbling down his snout looks around
+nervously.  He wears his tattered leather armor uneasily, and his steps are
+halting and unsure.  
+~
+unique~
+AGTY J -750 0
+23 0 5d10+65 0d0+0 2d7+2 slash
+-1 -1 -1 -10
+CFKR AB DHNQ IS
+stand stand male 8000
+AHMV ABCDEFGHIJK giant unknown
+#16504
+orc guard~
+an orc guard~
+An orc guard patrols the fortress.
+~
+Ink black eyes glare from a cracked parchment of a face.  Two great
+incisors peel from his thick slug-like lips, as he sneers at you. 
+Distracted, he reshoulders his shield and sighs, the tedium of guard duty
+getting to his patience.  
+~
+unique~
+AGTY J -900 0
+26 0 5d10+500 0d0+0 2d7+20 slash
+-13 -13 -13 -13
+FKNRUVX AB FNQ S
+stand stand male 5000
+AHMV ABCDEFGHIJK giant unknown
+#16505
+elf prisoner~
+an elf prisoner~
+An elf prisoner sits here bound to a chair.
+~
+Blindfolded and gagged, the elf leans limply against his chair, all
+struggle spent.  A blood-drenched towel hangs around his shoulders, vainly
+sopping up the streams of blood running down from his ears.  
+~
+unique~
+ABGMYc 0 0 0
+26 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 B Z
+sit sit none 0
+AHMV ABCDEFGHIJK medium flesh
+#16506
+orc lieutenant~
+an orc lieutenant~
+An orc lieutenant patrols the fortress.
+~
+The lieutenant adjusts his colorful feathered helmet and snorts your way.
+Tiny medals and fragments of bone decorate his grimey armor, dangling from
+leather straps.  
+~
+unique~
+AGT 0 -800 0
+25 0 5d10+100 0d0+0 2d5+10 punch
+-8 -8 -8 -12
+CFKR A BQ S
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#16507
+orc archer~
+an orc archer~
+An orc archer patrols the battlements.
+~
+The keen-eyed archer confidently strolls the length of the battlement. 
+He alertly scans the surrounding forests for any sign of movement.  
+~
+unique~
+AGTW DF -900 0
+27 0 5d10+100 0d0+0 2d8+16 punch
+-8 -8 -8 -7
+FJKNR A GQ S
+stand stand male 230
+AHMV ABCDEFGHIJK medium unknown
+#16525
+orc warrior~
+an orcish warrior~
+A orc warrior is here asleep.
+~
+He dozes contentedly, occasionally brushing flies off.
+~
+unique~
+AGT J -750 0
+24 0 5d10+500 0d0+0 2d9+1 slash
+-9 -9 -9 -9
+FKRX AB CDQ S
+sleep sleep male 6000
+AHMV ABCDEFGHIJK giant unknown
+#16526
+orc armorer~
+an orc armorer~
+An orc armorer is examining a new set of platemail.
+~
+He sits on a seat, nails in mouth, pounding the final nail into a piece
+of leather armor.  
+~
+unique~
+ABM J 1000 0
+30 0 3d30+300 0d0+0 3d10+30 pound 
+-5 -5 -5 -5
+CFK AB FHQ S
+stand stand male 1000
+AHMV ABCDEFGHIJK giant unknown
+#16527
+Orc Warrior~
+an orc warrior~
+A orc warrior is here asleep.
+~
+He dozes contentedly, swatting flies off his face.
+~
+unique~
+AGT J 750 0
+24 0 5d10+500 0d0+0 2d9+1 slash
+-9 -9 -9 -9
+FKN AB DHQ S
+sleep sleep male 7000
+AHMV ABCDEFGHIJK giant unknown
+#16528
+Orc Warrior~
+an orc warrior~
+An orc warrior is here asleep.
+~
+He dozes contentedly, brushing the odd fly off his face.
+~
+unique~
+AFGT J -750 0
+25 0 5d10+500 0d0+0 2d9+2 slash
+-9 -9 -9 -9
+KNRVX AB DHQ S
+sleep sleep male 7000
+AHMV ABCDEFGHIJK giant unknown
+#16529
+orc weapon smith~
+an orc weaponsmith~
+An orc weaponsmith tests the sharpness of a new axe.
+~
+The weaponsmith curses, wiping the sooty grime from his face as he pounds
+a red-hot length of iron into a blade.  
+~
+unique~
+ABM J 1000 0
+30 0 5d10+100 0d0+0 2d20+3 pound 
+-5 -5 -5 -5
+0 0 Q S
+stand stand male 1000
+AHMV ABCDEFGHIJK giant unknown
+#16530
+Orc Warrior~
+an orcish warrior~
+An orc warrior is here asleep.
+~
+He dozes contentedly, brushing the odd fly off his face.
+~
+unique~
+AGT J -740 0
+24 0 5d10+500 0d0+0 2d9+1 slash
+-9 -9 -9 -9
+CFKNRVX AB HILNQ S
+sleep sleep male 7000
+AHMV ABCDEFGHIJK giant unknown
+#16531
+Orc Warrior~
+an orc warrior~
+A orc warrior is here asleep.
+~
+He dozes and dreams, as he is tossing and turning.
+~
+unique~
+AGT CJ -750 0
+25 0 5d10+500 0d0+0 2d9+1 slash
+-9 -9 -9 -9
+FJKX A INQ S
+sleep sleep male 7000
+AHMV ABCDEFGHIJK giant unknown
+#16532
+Orc Warrior~
+an orc warrior~
+An orc warrior is here asleep.
+~
+He dozes peacefully, as his snores are very gentle.
+~
+unique~
+AGT J -750 0
+25 0 5d10+500 0d0+0 2d9+1 slash
+-9 -9 -9 -9
+CFKVX AB CDQ S
+sleep sleep male 1300
+AHMV ABCDEFGHIJK giant unknown
+#16534
+orc janitor~
+an orcish janitor~
+An orc janitor is here cleaning the halls.
+~
+With a huge basket slung over his shoulder, the old, worn out janitor
+wanders around lancing random bits of trash.  
+~
+unique~
+ACG J -750 0
+26 0 5d10+500 0d0+0 2d9+1 slash
+-9 -9 -9 -9
+CFK AB FINQ S
+stand stand male 5000
+AHMV ABCDEFGHIJK giant unknown
+#16535
+orc quartermaster~
+an orc quartermaster~
+An orc quartermaster takes lists of the supplies.
+~
+He seems to have quite a knack for numbers, a rarity among orcs.  
+~
+unique~
+ABM J 1000 0
+32 0 10d20+200 0d0+0 2d40+2 slap
+-4 -4 -4 -4
+0 0 Q S
+stand stand male 100000
+AHMV ABCDEFGHIJK giant unknown
+#16557
+orc elite guard~
+an elite orc guard~
+An elite orc guard stands at attention.
+~
+A bruised and battered orc fighter, the survivor of countless battles and
+campaigns stands here.  His dark heart has seen countless rivers of blood
+flowing in the setting sun, countless dead enemies and comrades on the field
+of battle.  
+~
+unique~
+ABGT J -750 0
+39 0 5d10+900 0d0+0 2d9+11 slash
+-11 -11 -11 -11
+CEFIKNUVX AB CFLQ S
+stand stand male 16000
+AHMV ABCDEFGHIJK giant unknown
+#16558
+admiral orc~
+the Admiral~
+The admiral of the fortress is here.
+~
+A stout admiral dressed in orcish finery, he carries his stature proudly.
+Fierce eyes look at you with orcish malice, delighting in what tortures he
+can imagine.  
+~
+unique~
+ABGT DFHJLV -750 0
+35 0 5d10+950 0d0+0 2d9+30 slash
+-11 -11 -11 -11
+CFHJKNVX AB CFQ S
+stand stand male 35000
+AHMV ABCDEFGHIJK giant unknown
+#16561
+Sewer Rat~
+A sewer rat~
+A sewer rat is here munching on some waste.
+~
+A damp, flea-bitten rat with red eyes glares about.
+~
+unique~
+AGU J 0 0
+13 0 5d10+65 0d0+0 2d7+2 bite
+-1 -1 -1 -1
+FMX A FNQ S
+stand stand male 0
+0 ABCDEFGHIJKU giant unknown
+#16562
+Sewer Rat~
+A sewer rat~
+A sewer rat is here eating some waste.
+~
+A miserable, damp rat with red and yellow eyes glances this way and that.
+~
+unique~
+AGU Tb 0 0
+15 0 5d10+35 0d0+0 2d7+2 bite
+-1 -1 -1 -1
+MVW AB EHR I
+stand stand male 0
+0 ABCDEFGHIJKPU giant unknown
+#16563
+Sewer Rat~
+A sewer rat~
+A sewer rat is here eating some waste.
+~
+A black, oily rat with red glaring eyes, looking at you like its next meal.
+~
+unique~
+AGU Tb 0 0
+16 0 5d10+50 0d0+0 2d7+2 bite
+-1 -1 -1 -1
+CFM AB FHNR 0
+stand stand male 200
+0 ABCDEFGHIJKPU giant unknown
+#16565
+Sewer Rat~
+A sewer rat~
+A sewer rat is here eating some waste.
+~
+A large, mean looking rat with red, bloodshot eyes.
+~
+unique~
+AGU b 0 0
+24 0 5d10+65 0d0+0 2d7+2 bite
+-1 -1 -1 -1
+FKMNR AB DINR H
+stand stand male 200
+0 ABCDEFGHIJKPU giant unknown
+#16566
+Sewer Rat~
+A sewer rat~
+A sewer rat is here eating some waste.
+~
+A large, black rat with yellow teeth is looking you up and down.
+~
+unique~
+AGU b 0 0
+24 0 5d10+65 0d0+0 2d7+2 bite
+-1 -1 -1 -1
+CFK AB DIR 0
+stand stand male 0
+0 ABCDEFGHIJKPU giant unknown
+#16567
+Sewer Rat~
+A sewer rat~
+A sewer rat is here eating some waste.
+~
+A larger, black rat with red, glaring eyes is looking for its next meal.
+~
+unique~
+AGU b 0 0
+25 0 5d10+65 0d0+0 2d7+12 slash
+-1 -1 -1 -1
+IMV AB BDHIR N
+stand stand male 0
+0 ABCDEFGHIJKPU giant unknown
+#16569
+Sewer Rat~
+A sewer rat~
+A sewer rat is here eating some waste.
+~
+A brown, damp rat with green eyes and yellow teeth glances around here.
+~
+unique~
+AGU b 0 0
+25 0 5d10+50 0d0+0 2d7+42 slash
+-1 -1 -1 -1
+VX AB DIR 0
+stand stand male 0
+0 ABCDEFGHIJKPU giant unknown
+#16571
+Sewer Rat~
+A sewer rat~
+A sewer rat is here eating some waste.
+~
+A black, miserable rat is gnawing away at something rotten.
+~
+unique~
+AGU b 0 0
+26 0 5d10+65 0d0+0 2d7+42 slash
+-10 -10 -10 -10
+FMX AB EFHNR 0
+stand stand male 0
+0 ABCDEFGHIJKPU giant unknown
+#16573
+Sewer Rat~
+A sewer rat~
+A sewer rat is here eating some waste.
+~
+A large, muscled rat looks this way and that with red, baleful eyes.
+~
+unique~
+AGU b 0 0
+26 0 5d10+65 0d0+0 2d7+42 slash
+-10 -10 -10 -10
+FNX AB EFNR 0
+stand stand male 0
+0 ABCDEFGHIJKPU giant unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#16500
+The Drawbridge~
+A great oaken drawbridge worn by age and weather passes over a murky
+green moat.  The entrance to the orc fortress lies to the west, vile smoke
+pouring upwards from its pitted walls.  The fortress is ancient, the
+evidence of countless fights there for all to see on its walls and
+battlements.  
+~
+0 4 3
+D1
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 16501
+S
+#16501
+The Fortress Entrance~
+The entrance to the fortress is littered with bones and other remains of
+orc dinners.  Brilliant battle banners of the orcish armies dwelling here
+hang majestically from the ancient walls.  Two deep wheel ruts run through
+the entrance and deeper into the fortress.  
+~
+0 8 0
+D0
+~
+~
+0 0 16502
+D1
+~
+~
+0 0 16500
+D2
+~
+~
+0 0 16514
+D3
+~
+~
+0 0 16525
+S
+#16502
+A Fortress Corridor~
+Puddles of dirty water pool at the corners of the corridor, and refuse
+litter the floor.  Huge timber supports reinforce the stone walls,
+everything covered with small patches of moss and rot.  Weak torches light
+the corridor every few steps.  
+~
+0 8 0
+D0
+~
+~
+0 0 16503
+D2
+~
+~
+0 0 16501
+S
+#16503
+A Fortress Corridor~
+Puddles of dirty water pool at the corners of the corridor, and refuse
+litter the floor.  Huge timber supports reinforce the stone walls,
+everything covered with small patches of moss and rot.  Weak torches light
+the corridor every few steps.  
+~
+0 8 0
+D0
+~
+~
+0 0 16504
+D2
+~
+~
+0 0 16502
+S
+#16504
+A Fortress Corridor~
+Puddles of dirty water pool at the corners of the corridor, and refuse
+litter the floor.  Huge timber supports reinforce the stone walls,
+everything covered with small patches of moss and rot.  Weak torches light
+the corridor every few steps.  
+~
+0 8 0
+D0
+~
+~
+0 0 16505
+D2
+~
+~
+0 0 16503
+S
+#16505
+A Stairwell~
+Rough stone steps lead up and around the central support.  Torches and
+arrow slits are spaced evenly apart with the steps.  The walls are wet and
+grimy, coated with years of dirt and blood.  
+~
+0 8 0
+D2
+~
+~
+0 0 16504
+D4
+~
+~
+0 0 16506
+S
+#16506
+Stairwell~
+This large stairwell leads up to the guard level.  The stairs drip with
+water from the night's rainfall.  
+~
+0 8 0
+D4
+~
+~
+0 0 16507
+D5
+~
+~
+0 0 16505
+S
+#16507
+Stairwell~
+The larget stairwell continues upward.  The steps are slippery with rain
+water.  
+~
+0 8 0
+D4
+~
+~
+0 0 16508
+D5
+~
+~
+0 0 16506
+S
+#16508
+Fortress, Stairwell~
+The large stairwell continues upward.  A puddle of water lays about here
+and there.  
+~
+0 12 0
+D4
+~
+~
+0 0 16509
+D5
+~
+~
+0 0 16507
+S
+#16509
+Guard Tower~
+The lands around the fortress spread out before you.  Between the
+battlements of the guard tower, the lakes surrounding the fortress fill the
+horizon with thin green strips of forest between them.  The bright standard
+waves mightily in the strong breeze buffeting the tower.  
+~
+0 0 11
+D2
+~
+~
+0 0 16510
+D3
+~
+~
+0 0 16547
+D5
+~
+~
+0 0 16508
+S
+#16510
+Along the Battlements~
+The walkway continues north and south, offering a full view of the
+castle's entrance.  A dirt path cross the thin penninsula connecting the
+fortress to the mainland.  
+~
+0 0 3
+D0
+~
+~
+0 0 16509
+D2
+~
+~
+0 0 16511
+S
+#16511
+Along the Battlements~
+The walkway continues north and south, offering a full view of the
+castle's entrance.  A dirt path cross the thin penninsula connecting the
+fortress to the mainland.  
+~
+0 0 3
+D0
+~
+~
+0 0 16510
+D2
+~
+~
+0 0 16512
+S
+#16512
+Along the Battlements~
+The walkway continues north and south, offering a full view of the
+castle's entrance.  A dirt path cross the thin penninsula connecting the
+fortress to the mainland.  
+~
+0 0 3
+D0
+~
+~
+0 0 16511
+D2
+~
+~
+0 0 16513
+S
+#16513
+Along the Battlements~
+The walkway continues north and south, offering a full view of the
+castle's entrance.  A dirt path cross the thin penninsula connecting the
+fortress to the mainland.  
+~
+0 0 3
+D0
+~
+~
+0 0 16512
+D2
+~
+~
+0 0 16522
+S
+#16514
+A Fortress Corridor~
+Puddles of dirty water pool at the corners of the corridor, and refuse
+litter the floor.  Huge timber supports reinforce the stone walls,
+everything covered with small patches of moss and rot.  Weak torches light
+the corridor every few steps.  
+~
+0 8 0
+D0
+~
+~
+0 0 16501
+D2
+~
+~
+0 0 16515
+S
+#16515
+A Fortress Corridor~
+Puddles of dirty water pool at the corners of the corridor, and refuse
+litter the floor.  Huge timber supports reinforce the stone walls,
+everything covered with small patches of moss and rot.  Weak torches light
+the corridor every few steps.  
+~
+0 8 0
+D0
+~
+~
+0 0 16514
+D2
+~
+~
+0 0 16516
+S
+#16516
+A Fortress Corridor~
+Puddles of dirty water pool at the corners of the corridor, and refuse
+litter the floor.  Huge timber supports reinforce the stone walls,
+everything covered with small patches of moss and rot.  Weak torches light
+the corridor every few steps.  
+~
+0 8 0
+D0
+~
+~
+0 0 16515
+D2
+~
+~
+0 0 16517
+S
+#16517
+A Stairwell~
+Rough stone steps lead up and around the central support.  Torches and
+arrow slits are spaced evenly apart with the steps.  The walls are wet and
+grimy, coated with years of dirt and blood.  
+~
+0 8 0
+D0
+~
+~
+0 0 16516
+D4
+~
+~
+0 0 16518
+S
+#16518
+Stairwell~
+This is a massive stairwell that leads up to the guard level.  It seems
+to be dripping water from lasts night rain.  
+~
+0 8 0
+D4
+~
+~
+0 0 16519
+D5
+~
+~
+0 0 16517
+S
+#16519
+Stairwell~
+Every other step is damaged, huge chunks missing or nearly cracking in
+half.  The damage from years of battle remains unrepaired.  
+~
+0 8 0
+D4
+~
+~
+0 0 16520
+D5
+~
+~
+0 0 16518
+S
+#16520
+Stairwell~
+The stairwell continues up to the guard level.  A few rolled parchments
+lay about.  The stairwell continues in both directions 
+~
+0 12 0
+D4
+~
+~
+0 0 16521
+D5
+~
+~
+0 0 16519
+S
+#16521
+Guard Tower~
+The lands around the fortress spread out before you.  Between the
+battlements of the guard tower, the lakes surrounding the fortress fill the
+horizon with thin green strips of forest between them.  The bright standard
+waves mightily in the strong breeze buffeting the tower.  
+~
+0 0 3
+D0
+~
+~
+0 0 16524
+D3
+~
+~
+0 0 16554
+D5
+~
+~
+0 0 16520
+S
+#16522
+Along the Battlements~
+The walkway continues north and south, offering a full view of the
+castle's entrance.  A dirt path cross the thin penninsula connecting the
+fortress to the mainland.  
+~
+0 0 3
+D0
+~
+~
+0 0 16513
+D2
+~
+~
+0 0 16523
+S
+#16523
+Along the Battlements~
+The walkway continues north and south, offering a full view of the
+castle's entrance.  A dirt path cross the thin penninsula connecting the
+fortress to the mainland.  
+~
+0 0 3
+D0
+~
+~
+0 0 16522
+D2
+~
+~
+0 0 16524
+S
+#16524
+Along the Battlements~
+The walkway continues north and south, offering a full view of the
+castle's entrance.  A dirt path cross the thin penninsula connecting the
+fortress to the mainland.  
+~
+0 0 3
+D0
+~
+~
+0 0 16523
+D2
+~
+~
+0 0 16521
+S
+#16525
+The Main Hallway~
+The main hall of the fortress does not appear as dirty as the rest of the
+fortress.  Stacks of weapons lie dispersed around the vast corridor, huge
+cradled torches the size of tree trunks burning brightly on the walls. 
+Rusted and dented suits of armor line the hall, the vestments of legendary
+orcs.  Great archways lead north and south to both sides of the hallway.  
+~
+0 8 0
+D0
+A great deal of noise and smoke come from the armory.
+~
+~
+0 0 16526
+D1
+~
+~
+0 0 16501
+D2
+The curtained entrance to the orc barracks.
+~
+~
+0 0 16527
+D3
+~
+~
+0 0 16528
+S
+#16526
+The Smithy~
+A noxious black smoke fills the high-ceilinged room, pouring forth from
+the huge furnace in the back of the room.  Sheets of iron sit in stacks all
+around the room, waiting to be molded into armor.  A constant hammering
+rings throughout the room.  
+~
+0 12 0
+D2
+~
+~
+0 0 16525
+D3
+~
+~
+0 0 16529
+S
+#16527
+Barracks~
+Stray clothes, weapons, and armor lie strewn about this room.  Untidy
+bunk beds line the walls and a thin slit of a window stands opposite the
+door.  The smell of funk overwhelms this room.  
+~
+0 8 0
+D0
+~
+~
+0 0 16525
+S
+#16528
+The Main Hallway~
+Clean by orc standards, refuse still litters the hallway.  Puddles of
+greasy water are sprinkled about the area and the remains of a red carpet
+lie here and there.  Chandeliers string with chains and animal parts hang
+low from the ceiling, weakly guttering candles barely lighting the foul air.
+Huge archways lead off to both sides of the east to west hallway.  
+~
+0 8 0
+D0
+~
+~
+0 0 16529
+D1
+~
+~
+0 0 16525
+D2
+~
+~
+0 0 16530
+D3
+~
+~
+0 0 16531
+S
+#16529
+The Smithy~
+Rows of weapons, all shapes and sizes, line the walls.  Stacks of swords
+lie cooling in large barrels of water, piles of axes lean against a
+whetstone, and speartips sit next to bladeless poles.  A constant hammering
+rings out across the room.  
+~
+0 12 0
+D1
+~
+~
+0 0 16526
+D2
+~
+~
+0 0 16528
+S
+#16530
+Fortress Barracks~
+This rooms appears to be part of the forts barracks.  The smell in here
+is horrible!  There are bunkbeds lining the east and the west walls.  To the
+north is the main coridor.  
+~
+0 8 0
+D0
+~
+~
+0 0 16528
+S
+#16531
+The Main Hallway~
+Rain water and other less agreeable liquids sluice across the floor,
+draining into the huge sewer hole here.  A vile stench seeps from the hole,
+forming little trails of vapor that pit the stoney ground.  The
+provisioner's quarters and barracks lie to the sides of the hallway.  
+~
+0 8 0
+D0
+~
+~
+0 0 16534
+D1
+~
+~
+0 0 16528
+D2
+~
+~
+0 0 16532
+D3
+~
+~
+0 0 16535
+D5
+~
+~
+0 0 16559
+S
+#16532
+Fortress Barracks~
+Dirty and unkept beds lie placed haphazardly around the room.  Stray
+equipment and the remnants of past meals lie tossed aside, and you can hear
+the scurrying of rats somewhere under all the filth.  
+~
+0 8 0
+D0
+~
+~
+0 0 16531
+S
+#16534
+The Provisioner's~
+Sacks of potatoes, torches, and various different types of tools fill
+this storage room.  A flaming barrel stands in the middle of the area,
+filling the room with the delightful smell of burning flesh.  
+~
+0 12 0
+D2
+~
+~
+0 0 16531
+S
+#16535
+The Main Staircase~
+A giant gothic staircase leads up to the next level of the fortress.  The
+skulls of great beasts adorn both ends of the banister, and heavy red
+banners hang fluttering from the ceiling.  The wide stone steps are chipped
+and gouged in some places, stained in others.  
+~
+0 8 0
+D1
+~
+~
+0 0 16531
+D3
+~
+~
+0 0 16574
+D4
+~
+~
+0 0 16536
+S
+#16536
+On the Main Staircase~
+Grand war banners hang from both sides of the staircase, the torchlight
+bringing out their lovely crimson hues.  Stone walls form the corridor, deep
+colored oak supports hanging with weapons and spiked chains.  
+~
+0 8 0
+D4
+~
+~
+0 0 16537
+D5
+~
+~
+0 0 16535
+S
+#16537
+On the Main Staircase~
+More banners flank the staircase, covering the walls.  Water drips down
+the stone blocks, leaving dark stains on the cloth.  The steps are grooved
+and pitted from the years of use.  
+~
+0 8 0
+D4
+~
+~
+0 0 16538
+D5
+~
+~
+0 0 16536
+S
+#16538
+On the Main Staircase~
+The stairs lead to a large landing up ahead, and below a long way down. 
+Suits of menacing armor stand rusting in their positions along the
+staircase, right below portraits of elderly orcs.  It is rather hard to tell
+the difference between them, truth be told.  
+~
+0 8 0
+D4
+~
+~
+0 0 16539
+D5
+~
+~
+0 0 16537
+S
+#16539
+Walkway Landing~
+An elegant staircase with ivory banisters and marble steps leads up the
+third level, a stark contrast from the dirty and grimy landing.  Busts of
+orc figures flank both sides of the stairs, and more war banners hang from
+the walls.  Corridors continue off to the north and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 16541
+D2
+~
+~
+0 0 16548
+D4
+~
+~
+0 0 16540
+D5
+~
+~
+0 0 16538
+S
+#16540
+Higher Staircase~
+Marble steps lead up and down the stone corridor, flaming torches
+lighting the way.  Brightly colored banners declaring various orc lords hang
+from the ceiling supports, row after row them.  
+~
+0 8 0
+D4
+~
+~
+0 0 16555
+D5
+~
+~
+0 0 16539
+S
+#16541
+On the Walkway~
+The walkway continues north and south, the cobbled roof of the fortress
+to one side and the vast open lakes on the other.  A stiff breeze blows
+through here, whistling along the battlements.  
+~
+0 0 0
+D0
+~
+~
+0 0 16542
+D2
+~
+~
+0 0 16539
+S
+#16542
+On the Walkway~
+The walkway continues north and south, the cobbled roof of the fortress
+to one side and the vast open lakes on the other.  A stiff breeze blows
+through here, whistling along the battlements.  
+~
+0 0 0
+D0
+~
+~
+0 0 16543
+D2
+~
+~
+0 0 16541
+S
+#16543
+On the Walkway~
+The walkway continues north and south, the cobbled roof of the fortress
+to one side and the vast open lakes on the other.  A stiff breeze blows
+through here, whistling along the battlements.  
+~
+0 0 0
+D0
+~
+~
+0 0 16544
+D2
+~
+~
+0 0 16542
+S
+#16544
+Guard Tower~
+The lands around the fortress spread out before you.  Between the
+battlements of the guard tower, the lakes surrounding the fortress fill the
+horizon with thin green strips of forest between them.  The bright standard
+waves mightily in the strong breeze buffeting the tower.  
+~
+0 0 0
+D1
+~
+~
+0 0 16545
+D2
+~
+~
+0 0 16543
+S
+#16545
+Along the Battlements~
+The walkway continues along the battlements, the odd weapon placed here
+and there.  The lakes ripple monotonously, tiny waves lapping at the beach
+below.  
+~
+0 0 0
+D1
+~
+~
+0 0 16546
+D3
+~
+~
+0 0 16544
+S
+#16546
+Along the Battlements~
+The walkway continues along the battlements, the odd weapon placed here
+and there.  The lakes ripple monotonously, tiny waves lapping at the beach
+below.  
+~
+0 0 0
+D1
+~
+~
+0 0 16547
+D3
+~
+~
+0 0 16545
+S
+#16547
+Along the Battlements~
+The walkway continues along the battlements, the odd weapon placed here
+and there.  The lakes ripple monotonously, tiny waves lapping at the beach
+below.  
+~
+0 0 0
+D1
+~
+~
+0 0 16509
+D3
+~
+~
+0 0 16546
+S
+#16548
+On the Walkway~
+The walkway continues north and south, the cobbled roof of the fortress
+to one side and the vast open lakes on the other.  A stiff breeze blows
+through here, whistling along the battlements.  
+~
+0 0 0
+D0
+~
+~
+0 0 16539
+D2
+~
+~
+0 0 16549
+S
+#16549
+On the Walkway~
+The walkway continues north and south, the cobbled roof of the fortress
+to one side and the vast open lakes on the other.  A stiff breeze blows
+through here, whistling along the battlements.  
+~
+0 0 0
+D0
+~
+~
+0 0 16548
+D2
+~
+~
+0 0 16550
+S
+#16550
+On the Walkway~
+The walkway continues north and south, the cobbled roof of the fortress
+to one side and the vast open lakes on the other.  A stiff breeze blows
+through here, whistling along the battlements.  
+~
+0 0 0
+D0
+~
+~
+0 0 16549
+D2
+~
+~
+0 0 16551
+S
+#16551
+Guard Tower~
+The lands around the fortress spread out before you.  Between the
+battlements of the guard tower, the lakes surrounding the fortress fill the
+horizon with thin green strips of forest between them.  The bright standard
+waves mightily in the strong breeze buffeting the tower.  
+~
+0 0 0
+D0
+~
+~
+0 0 16550
+D1
+~
+~
+0 0 16552
+S
+#16552
+Along the Battlements~
+The walkway continues along the battlements, the odd weapon placed here
+and there.  The lakes ripple monotonously, tiny waves lapping at the beach
+below.  
+~
+0 0 0
+D1
+~
+~
+0 0 16553
+D3
+~
+~
+0 0 16551
+S
+#16553
+Along the Battlements~
+The walkway continues along the battlements, the odd weapon placed here
+and there.  The lakes ripple monotonously, tiny waves lapping at the beach
+below.  
+~
+0 0 0
+D1
+~
+~
+0 0 16554
+D3
+~
+~
+0 0 16552
+S
+#16554
+Along the Battlements~
+The walkway continues along the battlements, the odd weapon placed here
+and there.  The lakes ripple monotonously, tiny waves lapping at the beach
+below.  
+~
+0 0 0
+D1
+~
+~
+0 0 16521
+D3
+~
+~
+0 0 16553
+S
+#16555
+On the Main Staircase~
+Marble steps continue endlessly up and down the low, wide corridor.  Tall
+thin windows let in the crisp lake air, breaths of relief from the low lying
+stench of the fortress.  
+~
+0 8 0
+D4
+~
+~
+0 0 16556
+D5
+~
+~
+0 0 16540
+S
+#16556
+Top Landing~
+A red carpet with cute gold trimming extends from the end of the marble
+steps into the fortress' top tower.  The walls are filled with weapons on
+display, heraldic shields, and trophy heads.  Several sylvan heads number
+among the countless animals.  
+~
+0 8 0
+D0
+~
+~
+0 0 16557
+D5
+~
+~
+0 0 16555
+S
+#16557
+Before the Guarded Door~
+Tall oak doors stand closed under a stone arch.  In the arch's center
+leans a scowling gargoyle.  The red carpet continues underneath the doors. 
+The banner of the fortress' lord hangs from the ceiling directly above the
+arch.  
+~
+0 8 0
+D0
+~
+~
+2 16557 16558
+D2
+~
+~
+0 0 16556
+S
+#16558
+The Fortress Master's Grand Penthouse~
+A luxuriously appointed quarter for the lord of the fortress.  There is a
+faint whiff of frankincense in the air under the sheets of silk and rare
+hides.  A large desk sits in the middle of the room on a dragonhide rug,
+buried under piles of maps and documents.  A large fireplace burns in one
+corner, the mantle above it covered in war trophies.  
+~
+0 8 0
+D2
+~
+~
+2 0 16557
+S
+#16559
+Sewer Ladder~
+Greasy iron rungs coated with several unmentionable layers of filth and
+grime lead up and down this tight tunnel.  The walls are covered with the
+refuse that did not stick to the rungs, splashoff and other types of runoff.
+~
+0 13 12
+D4
+~
+~
+0 0 16531
+D5
+~
+~
+0 0 16560
+S
+#16560
+The Fortress Sewers~
+A manhole barely large enough for an orc is overhead, feeble light
+spilling from above.  A drop of water hangs from the grimy iron rungs that
+lead upwards.  A vile concoction of sludge waste swirls around in circular
+patterns, slowly moving down both ends of the sewer.  
+~
+0 9 12
+D1
+~
+~
+0 0 16567
+D3
+~
+~
+0 0 16561
+D4
+~
+~
+0 0 16559
+S
+#16561
+Sewer Tunnels~
+A great, dark river of sewage flows slowly through the tunnel.  It moves
+with a mysterious grace, stinking to high heaven with its whirlpools and
+exploding bubbles.  Pieces of trash float by, bobbing up and down in the
+thick soup.  
+~
+0 9 12
+D1
+~
+~
+0 0 16560
+D3
+~
+~
+0 0 16562
+S
+#16562
+Sewer Tunnels~
+A great, dark river of sewage flows slowly through the tunnel.  It moves
+with a mysterious grace, stinking to high heaven with its whirlpools and
+exploding bubbles.  Pieces of trash float by, bobbing up and down in the
+thick soup.  
+~
+0 9 12
+D0
+~
+~
+0 0 16563
+D1
+~
+~
+0 0 16561
+D3
+~
+~
+0 0 16564
+S
+#16563
+Sewage Backup~
+Sewage from the main flow seemed to have caught into this crevice in the
+wall.  The smell is unbearable.  It seems waste has been caught here for
+years.  
+~
+0 9 12
+D2
+~
+~
+0 0 16562
+S
+#16564
+Sewer Tunnels~
+A great, dark river of sewage flows slowly through the tunnel.  It moves
+with a mysterious grace, stinking to high heaven with its whirlpools and
+exploding bubbles.  Pieces of trash float by, bobbing up and down in the
+thick soup.  
+~
+0 9 12
+D1
+~
+~
+0 0 16562
+D3
+~
+~
+0 0 16565
+S
+#16565
+Sewer Tunnels~
+The sewers turn to the south and east here.  The sound of rushing water
+can be heard from the south.  
+~
+0 9 12
+D1
+~
+~
+0 0 16564
+D2
+~
+~
+0 0 16566
+S
+#16566
+End of the Tunnel~
+The tunnel suddenly ends and the thick sludge surges over the edge into
+the dark gorge below.  Bats flutter about in the dark cavern, as well as
+other less agreeable creatures.  A sound like rushing sand wafts up from
+below.  
+~
+0 9 12
+D0
+~
+~
+0 0 16565
+S
+#16567
+Sewer Tunnels~
+A great, dark river of sewage flows slowly through the tunnel.  It moves
+with a mysterious grace, stinking to high heaven with its whirlpools and
+exploding bubbles.  Pieces of trash float by, bobbing up and down in the
+thick soup.  
+~
+0 9 12
+D1
+~
+~
+0 0 16568
+D3
+~
+~
+0 0 16560
+S
+#16568
+Sewer Junction~
+The sewage mills around in this turn in the sewer, more bits of trash
+bubbling up the surface and diving again.  Rats cluster on the thin
+walkways, eyeing bits of passing waste.  
+~
+0 9 12
+D2
+~
+~
+0 0 16569
+D3
+~
+~
+0 0 16567
+S
+#16569
+Sewer Tunnels~
+A great, dark river of sewage flows slowly through the tunnel.  It moves
+with a mysterious grace, stinking to high heaven with its whirlpools and
+exploding bubbles.  Pieces of trash float by, bobbing up and down in the
+thick soup.  
+~
+0 9 12
+D0
+~
+~
+0 0 16568
+D2
+~
+~
+0 0 16570
+S
+#16570
+Sewer Tunnels~
+A great, dark river of sewage flows slowly through the tunnel.  It moves
+with a mysterious grace, stinking to high heaven with its whirlpools and
+exploding bubbles.  Pieces of trash float by, bobbing up and down in the
+thick soup.  
+~
+0 9 12
+D0
+~
+~
+0 0 16569
+D2
+~
+~
+0 0 16571
+S
+#16571
+Sewer Junction~
+The countless streams of waste empty into the giant cesspool, brown
+waterfalls of night soil.  A gigantic tunnel leads east, which is
+conveniently where all the waste is also sluicing off to.  
+~
+0 9 12
+D0
+~
+~
+0 0 16570
+D1
+~
+~
+0 0 16572
+S
+#16572
+Sewer Tunnels~
+The sewage continues along this bend in the tunnel.  Scraps of trash
+float and and down the sludge river.  
+~
+0 9 12
+D2
+~
+~
+0 0 16573
+D3
+~
+~
+0 0 16571
+S
+#16573
+Dead End~
+Bits of waste bob up and down in the still sewage.  Footsteps thump
+heavily overhead, jarring dust and cobwebs from the ceiling.  
+~
+0 9 12
+D0
+~
+~
+0 0 16572
+S
+#16574
+A Busy, Smelly, Foul Factory~
+A thick putrid smell assaults your senses, a pillar of eye-burning,
+nose-wrenching, tongue-tying smoke rising from a bubbling iron cauldron. 
+Rough stone steps lead down from the door to a vast factory floor on which
+elven ears are prepared for shipment.  Ears hang drying from clotheslines,
+ears lie on assembly belts, elven ears everywhere!  
+~
+0 12 0
+D1
+~
+~
+0 0 16535
+S
+#0
+
+
+
+#SPECIALS
+M 16503 spec_fido
+M 16534 spec_janitor
+M 16557 spec_guard
+S
+
+
+
+#RESETS
+D 0 16557 0 2
+D 0 16558 2 2
+M 0 16501 2 16501 2
+M 0 16501 2 16501 2
+M 0 16506 4 16503 1
+M 0 16504 10 16505 1
+M 0 16502 10 16509 2
+M 0 16507 15 16510 1
+M 0 16506 4 16515 1
+M 0 16504 10 16517 1
+M 0 16502 10 16521 2
+M 0 16507 15 16524 1
+M 0 16503 8 16525 1
+M 0 16504 10 16525 1
+M 0 16526 1 16526 1
+M 0 16525 1 16527 1
+M 0 16527 1 16527 1
+M 0 16534 3 16528 1
+M 0 16529 1 16529 1
+M 0 16530 2 16530 1
+M 0 16528 2 16530 2
+M 0 16503 8 16531 1
+M 0 16531 2 16532 1
+M 0 16532 2 16532 2
+M 0 16531 1 16532 1
+M 0 16535 1 16534 1
+M 0 16507 15 16543 1
+M 0 16502 10 16544 2
+M 0 16507 15 16547 1
+M 0 16507 15 16550 1
+M 0 16502 10 16551 2
+M 0 16507 15 16554 1
+M 0 16557 2 16557 2
+M 0 16557 2 16557 2
+M 0 16558 1 16558 1
+M 0 16561 3 16561 1
+M 0 16562 2 16562 1
+M 0 16563 1 16563 1
+M 0 16565 2 16566 1
+M 0 16566 2 16566 1
+M 0 16567 3 16567 1
+M 0 16569 2 16569 2
+M 0 16571 2 16571 1
+M 0 16573 2 16573 1
+M 0 16505 1 16574 1
+M 0 16500 1 16574 1
+S
+
+
+
+#SHOPS
+16500 0 19 0 0 0 100 50 0 23
+16526 9 0 0 0 0 100 50 0 23
+16529 5 4 0 0 0 100 50 0 23
+16535 19 26 10 1 0 100 50 0 23
+0
+
+
+
+#$

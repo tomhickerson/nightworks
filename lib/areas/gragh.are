@@ -1097,6 +1097,9 @@ P 0 13106 0 13123 1 * ruby leggings in the ruby chest
 P 0 13104 0 13123 1 * ruby helm in the ruby chest 
 O 0 13126 0 13102 * load corpse in the corridor 
 P 0 13127 0 13126 1 * put the map into the corpse 
+O 0 13122 0 13128 1 * put the bookcase in the shrine 
+P 0 13121 0 13122 1 * put a scroll of reversal in the bookcase 
+P 0 13120 0 13122 1 * put a scroll of aggression in the bookcase 
 D 0 13101 0 1 * closing the door north from 13101 
 D 0 13102 2 1 * closing the door south from 13102 
 D 0 13106 0 1 * closing the door north from 13106 
