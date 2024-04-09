@@ -611,12 +611,67 @@ D1
 Heading through the hills.
 ~
 ~
-0 -1 -1
+0 -1 4329
 D3 
 Heading to the crossroads.
 ~
 ~
 0 -1 4327
+S 
+#4329 
+The rolling hills~
+You are on a hard dirt road, roaming through a hillside made of 
+soft dirt and hard white stones here and there.  The road runs
+east and west.
+~
+0 0 2
+D1
+Heading through the hills.
+~
+~
+0 -1 4330 
+D3 
+Heading to lower ground.
+~
+~
+0 -1 4328
+S 
+#4330
+The dry, cracked hills~
+You are on a hard dirt road, running through stony hills.  The grasses 
+here are brown and dry, and look like they have not been tended to in 
+quite a while.  The grass seems greener to the west.
+~
+0 0 2
+D1 
+Heading through the hills, towards a small rise.
+~
+~
+0 -1 4331 
+D3
+Heading through more fertile hills.
+~
+~
+0 -1 4329
+S 
+#4331
+A small rise in the hills~
+You are on a small crest in the dry hills and can see to your distance in 
+the east a fortress, surrounded by a moat.  To the west you see a crossroads
+in the plains.  The north is a line of dark trees, while to the south you see 
+a darkened gloom settling over the land.
+~
+0 0 2
+D1 
+Heading down off the rise.
+~
+~
+0 -1 -1
+D3 
+Heading through the hills to the crossroad.
+~
+~
+0 -1 4330
 S 
 #0
 
