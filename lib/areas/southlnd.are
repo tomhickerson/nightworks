@@ -666,12 +666,82 @@ D1
 Heading down off the rise.
 ~
 ~
-0 -1 -1
+0 -1 4332
 D3 
 Heading through the hills to the crossroad.
 ~
 ~
 0 -1 4330
+S 
+#4332
+In a small depression~
+You are on a dry, dusty road running through the rocky hillside, sloping down
+to the east, where a fortress sits on a cracked plain of dirt.  The grit blowing
+from the east sticks in your face and stings your eyes.
+~
+0 0 2
+D1 
+Heading towards the fortress.
+~
+~
+0 -1 4333 
+D3 
+Heading up to a rise in the hills.
+~
+~
+0 -1 4331 
+S 
+#4333
+The cracked plains~
+You are at the edge of the hills, where a dry, dusty plain extends to the east and
+a rocky set of hills rise up to the west.  A dark fortress looms to the northeast.
+~
+0 0 2
+D1 
+Under the shadow of the fortress...
+~
+~
+0 -1 4334
+D3 
+Heading into the hills.
+~
+~
+0 -1 4332
+S 
+#4334 
+The dusty plains~
+You are on a dry, hard-packed road of dirt which winds north towards
+a fortress and west towards a line of rocky hills.  Under the many eyes
+in the fortress, you feel exposed.
+~
+0 0 2
+D0 
+Heading towards the fortress. 
+~
+~
+0 -1 -1
+D3
+Heading towards the hills.
+~
+~
+0 -1 4333
+S 
+#4335
+Before the large fortress~
+You stand on the dry plains, before a large dark fortress.  The smell 
+coming off of it makes you think of orcs!
+~
+0 0 2
+D2
+Road south to the plains. 
+~
+~
+0 -1 4334
+D3
+Walking up to the drawbridge. 
+~
+~
+0 -1 16500 
 S 
 #0
 
