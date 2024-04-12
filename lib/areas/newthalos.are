@@ -7019,6 +7019,10 @@ D0
 ~
 ~
 0 -1 9803
+D2
+~
+~
+0 -1 9809 
 D3 
 On a sandy beach.~
 ~
@@ -7095,6 +7099,57 @@ D2
 ~ 
 0 -1 9807
 S
+#9809
+The Dragon Sea~
+You are on the clear blue seas of the Dragon Sea.
+Water extends in all directions as far as the eye can see.
+To the north you see a set of islands, and in the distance 
+to the south you see the shoreland.
+~
+0 0 7
+D0 
+~
+~
+0 -1 9804
+D2 
+~
+~
+0 -1 9810
+S 
+#9810 
+The Dragon Sea~
+You are on the clear blue seas of the Dragon Sea.
+Water extends in all directions.  The coastline is
+a distant line to the west and south.  You think
+you see a small cove to the south.
+~
+0 0 7
+D0 
+~
+~
+0 -1 9809
+D2
+~
+~
+0 -1 9811 
+S 
+#9811 
+Before a small cove~
+You are in a shallower part of the Dragon Sea, where
+you can see the sandy bottom.  To the south you see 
+a line of rocky cliffs, with a narrow inlet allowing
+passage to a small cove.
+~
+0 0 6
+D0
+~
+~
+0 -1 9810
+D2 
+~
+~
+0 -1 27301
+S 
 #0
 #RESETS
 M 0 9594   1 9800  1    * The Samurai Weaponsmaster
