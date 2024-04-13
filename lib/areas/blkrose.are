@@ -26,9 +26,9 @@ AHMV ABCDEFGHIJK large unknown
 #22501
 Almea~
 Almea~
-Almea the half elf stands here.
+Almea the half-elf stands here.
 ~
-Aleama is most unusual of the female warriors.  She is feared by all and
+Almea is most unusual of the female warriors.  She is feared by all and
 one look from her black fanthomless eyes is all it takes to paralyze her
 prey.  
 ~
@@ -420,6 +420,37 @@ AGNT 0 -1000 0
 -12 -12 -12 -12
 0 0 0 0
 stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#22528
+mold zombie~
+{BA mold zombie{x~
+{BA zombie encrusted in blue mold turns to face you.{x 
+~
+A dry, skeletal corpse of a poor soul, covered in blue crusty mold,
+turns to quietly face you.  Its face and mouth are completely covered
+in the blue scaly stuff.
+~
+unique~
+AGNT 0 -1000 0
+15 0 6d10+500 1d1+1 1d12+5 wrath 
+-12 -12 -12 -12
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#22529
+frost spider~
+{BThe frost spider{x~
+{BA pale white spider the size of a man regards you with its eight eyes.{x
+~
+This white-haired spider is guardedly moving towards you, and you can't
+help but notice a chill in the air as it gets closer...
+~
+unique~
+AGNT 0 -1000 0
+15 0 6d10+500 1d1+1 2d8+4 bite 
+-12 -12 -12 -12
+0 0 0 0
+stand stand male 1000
 AHMV ABCDEFGHIJK medium unknown
 #0
 
@@ -2315,13 +2346,16 @@ M 0 22524 1 22503 1 * chef in the kitchen
 M 0 22523 1 22561 1 * crystal dragon at the cavern entrance 
 M 0 22522 1 22558 1 * red dragon inside th cave
 M 0 22521 1 22547 1 * green dragon at the pond 
-M 0 22520 1 22541 1 * ragged wolfhound on a small path 
+M 0 22520 1 22541 2 * ragged wolfhound on a small path 
+M 0 22520 1 22543 2 * ragged wolfhound on a rise in the path 
 M 0 22519 1 22539 1 * the stable hand at the stables 
 M 0 22527 1 22550 2 * swamp zombie somewhere in the foggy path 
+M 0 22528 1 22600 1 * the mold zombie at the bottom of the dungeon 
+M 0 22529 1 22599 1 * the frost spider at the bottom of the dungeon 
 M 0 22518 1 22539 1 * mare at the stables 
 M 0 22517 1 22539 1 * warhorse at the stables (for now) 
 M 0 22516 1 22505 1 * raphaela guarding her tower but her rooms are unused?
-M 0 22515 1 22502 1 * ura stands about in the main hall, but there's an una tower room    
+M 0 22515 1 22531 1 * ura stands about in the una tower room    
 M 0 22514 1 22502 1 * Taliesin also in the main hall 
 M 0 22513 1 22526 1 * Raud the tall warrior in one of the halls
 M 0 22512 1 22524 1 * Moraith the redhead, in her study  
@@ -2333,6 +2367,9 @@ M 0 22507 1 22516 1 * the familiar Myta in Mikela's tower
 M 0 22506 1 22530 1 * Gabriela, guarding her tower, in her tower room   
 M 0 22505 1 22516 1 * Mikela, in her tower room 
 M 0 22504 1 22529 1 * Tathan, in their tower room 
+M 0 22503 1 22506 1 * Midir in the war room 
+M 0 22501 1 22535 1 * Almea the half-elf, in her workroom
+M 0 22500 1 22506 1 * Rea, also in the war room 
 S
 
 
