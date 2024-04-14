@@ -321,20 +321,20 @@ Thanks to Ezra for drawing the originals of several maps on ROM.
 By which name do you wish to be known? ~ 
 
 -1 GREETING2~
-{w
+{B
  ___  ___  ___  __    __    ___   __  _  _  _  _  ___  _    
 / __)(  ,\(  _)(  )  (  )  (  ,) /  \( )( )( \( )(   \(_)   
 \__ \ ) _/ ) _) )(__  )(__  ) ,\( () ))()(  )  (  ) ) )_    
 (___/(_)  (___)(____)(____)(___/ \__/ \__/ (_)\_)(___/(_)   
  ____  __   __    ___  ___     __  ___    ____  _  _  ___   
 (_  _)(  ) (  )  (  _)/ __)   /  \(  _)  (_  _)( )( )(  _)  
-  )(  /__\  )(__  ) _)\__ \  ( () )) _)    )(   )__(  ) _)  
+{Y  )(  /__\  )(__  ) _)\__ \  ( () )) _)    )(   )__(  ) _)  
  (__)(_)(_)(____)(___)(___/   \__/(_)     (__) (_)(_)(___)  
  ___   __  _  _  __       __  _  _  ___  ___                
 / __) /  \( )( )(  )     / _)( )( )(  ,)(  _)               
 \__ \( () ))()(  )(__   ( (_  )()(  ) ,\ ) _)               
 (___/ \__/ \__/ (____)   \__) \__/ (___/(___)               
-
+{w
    
  "We are like the dreamer who dreams, then lives inside the dream..."
  
@@ -355,7 +355,7 @@ Based on:
 By which name do you wish to be known? ~ 
 
 -1 GREETING3~
-{w
+{B
    _____            ______                          __      
   / ___/____  ___  / / / /_  ____  __  ______  ____/ /      
   \__ \/ __ \/ _ \/ / / __ \/ __ \/ / / / __ \/ __  (_)     
@@ -363,7 +363,7 @@ By which name do you wish to be known? ~
 /____/ .___/\___/_/_/_.___/\____/\__,_/_/ /_/\__,_(_)       
   __/_/_      __                   ____   __  __            
  /_  __/___ _/ /__  _____   ____  / __/  / /_/ /_  ___      
-  / / / __ `/ / _ \/ ___/  / __ \/ /_   / __/ __ \/ _ \     
+{Y  / / / __ `/ / _ \/ ___/  / __ \/ /_   / __/ __ \/ _ \     
  / / / /_/ / /  __(__  )  / /_/ / __/  / /_/ / / /  __/     
 /_/__\__,_/_/\___/____/   \____/_/    _\__/_/ /_/\___/      
   / ___/____  __  __/ /  / ____/_  __/ /_  ___              
@@ -371,7 +371,7 @@ By which name do you wish to be known? ~
  ___/ / /_/ / /_/ / /  / /___/ /_/ / /_/ /  __/             
 /____/\____/\__,_/_/   \____/\__,_/_.___/\___/              
                                                        
-
+{w
 "Through the darkness of future past,
 The magician longs to see,
 One chants out between two worlds
@@ -445,7 +445,7 @@ ROM, DIKU, and of course SPELLBOUND.
 * Read more about the Cabals: CABAL, ALIGNORCABAL, and also the VIRTUES and VICES.
 
 
-                    {WLast modified: March 12th, 2024{x
+                    {WLast modified: April 14th, 2024{x
 [Hit Return to continue]
 ~ 
  
