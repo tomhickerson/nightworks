@@ -365,7 +365,7 @@ D2
 You see a darkened plain in the distance.
 ~
 ~
-0 -1 -1
+0 -1 4336
 D3 
 You see the road turn through some hills and disappear.
 ~
@@ -711,8 +711,9 @@ S
 #4334 
 The dusty plains~
 You are on a dry, hard-packed road of dirt which winds north towards
-a fortress and west towards a line of rocky hills.  Under the many eyes
-in the fortress, you feel exposed.
+a fortress and west towards a line of rocky, crumbling hills.  Under the many eyes
+in the fortress, you feel exposed.  A stench of death rises in your nostrils, 
+coming from the ancient fortress itself...
 ~
 0 0 2
 D0 
@@ -729,7 +730,9 @@ S
 #4335
 Before the large fortress~
 You stand on the dry plains, before a large dark fortress.  The smell 
-coming off of it makes you think of orcs!
+coming off of it makes you think of orcs!  To the south you can head 
+to the dry hills, while you see that the drawbridge over the moat is 
+open for entry.
 ~
 0 0 2
 D2
@@ -742,6 +745,20 @@ Walking up to the drawbridge.
 ~
 ~
 0 -1 16500 
+S 
+#4336 
+Road through the darkened plains~
+You are on a north-south road which is leading through the plains.
+Some kind of gloom hangs over the skies here, much like a cloud
+but it leaves a heavy feeling in the air.  The grasses rustle in 
+the wind on both sides of the road.
+~
+0 0 2
+D0 
+To the crossroads.
+~
+~
+0 -1 4316
 S 
 #0
 
