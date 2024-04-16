@@ -704,7 +704,7 @@ detect a presence of incredible power and evil from the eastern tunnel.
 D0 
 ~
 ~
-0 -1 -1
+0 -1 22633
 D1
 ~
 ~
@@ -714,6 +714,74 @@ D2
 ~
 0 -1 22627
 S 
+#22633
+The Underdark~
+The tunnel leads north and south here. You also can detect a downward motion
+in the northward direction, you seem to be heading deeper into the earth.
+~
+0 0 0
+D0
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 22632
+S 
+#22634
+The Underdark~
+The tunnel turns here, going west and south. Far too the northwest you can
+barely hear the sound of metal striking metal, like a forge. The tunnel also
+has a slight decline to the west.
+~
+0 0 0
+D2
+~
+~
+0 -1 22633
+D3
+~
+~
+0 -1 22635
+S
+#22635 
+The Underdark~
+The tunnel turns north and east here, and on the south wall there is a door.
+Far to the north you see a red glowing light, and a stream of warm air flows
+from that direction.
+~
+0 0 0
+D0
+~
+~
+0 -1 -1
+D1 
+~
+~
+0 -1 22634
+D2
+~
+door~
+2 -1 22636 
+S
+#22636
+Home of the Darkelf Traveler~
+You have entered a beautiful room filled with objects from all around the
+world. You see exotic rugs, fine furniture, art paintings, and several pieces
+of sculpture, all emenating a slight magical protective glow. As usual, the
+darkelf traveler is off exploring the world, and is not present.
+~
+0 0 0
+D0 
+~
+door~
+2 -1 22635
+D2
+~
+door~
+2 -1 -1
+S  
 #0
 
 
