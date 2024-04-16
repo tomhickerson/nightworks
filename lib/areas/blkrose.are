@@ -237,7 +237,7 @@ A raven-haired beauty with close-cut hair, Ura looks about her, being
 cautious.
 ~
 unique~
-A 0 0 0
+AG 0 0 0
 10 0 5d10+500 1d1+1 1d9+2 pound
 -12 -12 -12 -12
 0 0 0 0
@@ -251,7 +251,7 @@ Raphaela stands here guarding her tower.
 The red-headed Raphaela is scanning the room for threats.
 ~
 unique~
-A 0 0 0
+AG 0 0 0
 10 0 5d10+500 1d1+1 1d9+2 pound
 -12 -12 -12 -12
 0 0 0 0
@@ -295,7 +295,7 @@ This simple boy is handy with the oats, which is why the horses take to him
 so well.
 ~
 unique~
-A 0 0 0
+AG 0 0 0
 10 0 5d10+500 1d1+1 1d9+2 pound
 -12 -12 -12 -12
 0 0 0 0
@@ -310,8 +310,8 @@ A ragged hound, drooling and pawing the ground, eyes you over to see
 if you have/are food.
 ~
 unique~
-AGT 0 0 0
-10 0 5d10+500 1d1+1 1d9+2 pound
+AFGT 0 0 0
+10 0 4d10+500 1d1+1 1d9+2 bite
 -12 -12 -12 -12
 H 0 0 0
 stand stand male 0
@@ -339,7 +339,7 @@ A red dragon lies here sunning herself.
 A majestic dragon lies here, rolling on the ground while it suns itself.
 ~
 unique~
-AGRT 0 -1000 0
+ABGRT 0 -1000 0
 30 0 5d10+500 1d1+1 1d9+2 pound
 -12 -12 -12 -12
 0 0 0 0
@@ -384,7 +384,7 @@ This transparent ghost of an ancient and bearded leader of the Keep is
 roaming about, restless and uncertain.
 ~
 unique~
-AFGNT 0 1000 0
+ABFGNT 0 1000 0
 10 0 5d10+500 1d1+1 1d9+2 wrath
 -12 -12 -12 -12
 0 0 0 0
@@ -415,7 +415,7 @@ looks at you with pale, rheumy eyes.  Its teeth clack in its half-decayed
 face, as if it wants to tell you something.
 ~
 unique~
-AGNT 0 -1000 0
+AFGNOT 0 -1000 0
 15 0 5d10+500 1d1+1 1d9+5 wrath 
 -12 -12 -12 -12
 0 0 0 0
@@ -431,7 +431,7 @@ turns to quietly face you.  Its face and mouth are completely covered
 in the blue scaly stuff.
 ~
 unique~
-AGNT 0 -1000 0
+ABFGNOT 0 -1000 0
 15 0 6d10+500 1d1+1 1d12+5 wrath 
 -12 -12 -12 -12
 0 0 0 0
@@ -446,7 +446,7 @@ This white-haired spider is guardedly moving towards you, and you can't
 help but notice a chill in the air as it gets closer...
 ~
 unique~
-AGNT 0 -1000 0
+ABFGNT Q -1000 0
 15 0 6d10+500 1d1+1 2d8+4 bite 
 -12 -12 -12 -12
 0 0 0 0
