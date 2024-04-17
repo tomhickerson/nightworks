@@ -755,7 +755,7 @@ from that direction.
 D0
 ~
 ~
-0 -1 -1
+0 -1 22638
 D1 
 ~
 ~
@@ -780,8 +780,35 @@ door~
 D2
 ~
 door~
-2 -1 -1
-S  
+2 -1 22637
+S 
+#22637
+Treasure Vault of the Darkelf Traveler~
+You have entered a large vaultlike chamber containing the traveler's more
+valuable objects. You feel powerful magics protecting this chamber from
+thieves.
+~
+0 0 0
+D0
+~
+door~
+2 -1 22636
+S
+#22638
+The Underdark~
+The tunnel goes north-south here. A firey red light illuminates the tunnel to
+the north, and a warm, flowing breeze comes from that direction as well.
+~
+0 0 0
+D0
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 22635
+S   
 #0
 
 
