@@ -2393,6 +2393,9 @@ D3
 S
 #27388
 {gA Large Stand of Trees{x~
+You find yourself in a large stand of oaks, pines and maple
+trees, planted in a circle.  The air here is especially fresh
+and the branches seem to be whispering something in the wind.
 ~
 0 0 3
 D1
@@ -2410,6 +2413,9 @@ D3
 S
 #27389
 {gA Large Stand of Trees{x~
+You find yourself in a large stand of oaks, pines and maple
+trees, planted in a circle.  The air here is especially fresh
+and the branches seem to be whispering something in the wind.
 ~
 0 0 3
 D0
@@ -2431,6 +2437,9 @@ D3
 S
 #27390
 {gA Large Stand of Trees{x~
+You find yourself in a large stand of oaks, pines and maple
+trees, planted in a circle.  The air here is especially fresh
+and the branches seem to be whispering something in the wind.
 ~
 0 0 3
 D0
@@ -2452,6 +2461,11 @@ D3
 S
 #27391
 The Endless Moors~
+You are wandering through the fog-shrouded muck of the moors, trying
+to find a path.  All around you are patches of grass, shallow pools
+of still fetid water, and countless muddy trails.  The slimy muck 
+squelches underfoot, and nothing can be seen very far in the 
+soupy mist.
 ~
 0 0 10
 D0
@@ -2482,6 +2496,10 @@ D1
 S
 #27393
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -2503,6 +2521,10 @@ D3
 S
 #27394
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -2524,6 +2546,10 @@ D3
 S
 #27395
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -2545,6 +2571,10 @@ D3
 S
 #27396
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -2566,6 +2596,10 @@ D3
 S
 #27397
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -2587,6 +2621,11 @@ D3
 S
 #27398
 The Endless Moors~
+You are wandering through the fog-shrouded muck of the moors, trying
+to find a path.  All around you are patches of grass, shallow pools
+of still fetid water, and countless muddy trails.  The slimy muck 
+squelches underfoot, and nothing can be seen very far in the 
+soupy mist.
 ~
 0 0 10
 D0
@@ -2608,6 +2647,10 @@ D3
 S
 #27399
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -2629,6 +2672,10 @@ D3
 S
 #27400
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -2697,6 +2744,10 @@ D1
 S
 #27404
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -2718,6 +2769,10 @@ D3
 S
 #27405
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -2739,6 +2794,10 @@ D3
 S
 #27406
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -2760,6 +2819,11 @@ D3
 S
 #27407
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -2781,6 +2845,11 @@ D3
 S
 #27408
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -2802,6 +2871,11 @@ D3
 S
 #27409
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -2849,6 +2923,11 @@ D2
 S
 #27412
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -2870,6 +2949,11 @@ D3
 S
 #27413
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -2891,6 +2975,11 @@ D3
 S
 #27414
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -2912,6 +3001,10 @@ D3
 S
 #27415
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -2933,6 +3026,10 @@ D3
 S
 #27416
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -2954,6 +3051,10 @@ D3
 S
 #27417
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -2975,6 +3076,10 @@ D3
 S
 #27418
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -2996,6 +3101,11 @@ D3
 S
 #27419
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -3017,6 +3127,11 @@ D3
 S
 #27420
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -3038,6 +3153,11 @@ D3
 S
 #27421
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -3059,6 +3179,10 @@ D3
 S
 #27422
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -3080,6 +3204,10 @@ D3
 S
 #27423
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -3101,6 +3229,10 @@ D3
 S
 #27424
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -3122,6 +3254,10 @@ D3
 S
 #27425
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -3143,6 +3279,10 @@ D3
 S
 #27426
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -3164,6 +3304,10 @@ D3
 S
 #27427
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -3185,6 +3329,10 @@ D3
 S
 #27428
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -3206,6 +3354,10 @@ D3
 S
 #27429
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -3227,6 +3379,10 @@ D3
 S
 #27430
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -3248,6 +3404,11 @@ D3
 S
 #27431
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -3269,6 +3430,11 @@ D3
 S
 #27432
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -3290,6 +3456,11 @@ D3
 S
 #27433
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -3311,6 +3482,11 @@ D3
 S
 #27434
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -3332,6 +3508,11 @@ D3
 S
 #27435
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -3353,6 +3534,11 @@ D3
 S
 #27436
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -3374,6 +3560,11 @@ D3
 S
 #27437
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -3395,6 +3586,11 @@ D3
 S
 #27438
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -3416,6 +3612,11 @@ D3
 S
 #27439
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -3437,6 +3638,11 @@ D3
 S
 #27440
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -3458,6 +3664,11 @@ D3
 S
 #27441
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -3479,6 +3690,11 @@ D3
 S
 #27442
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -3500,6 +3716,11 @@ D3
 S
 #27443
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -3521,6 +3742,11 @@ D3
 S
 #27444
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -3542,6 +3768,11 @@ D3
 S
 #27445
 {GA Beautiful Deciduous Forest{x~
+You are making your way through a light forest, where large
+broad-leaf oaks tower overhead and cover the sky with their
+mighty branches.  Picking your way over and around their 
+roots, you notice the ground is a healthy mix of leaves, 
+dirt, sand and grass.
 ~
 0 0 3
 D0
@@ -3563,6 +3794,10 @@ D3
 S
 #27446
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -3584,6 +3819,10 @@ D3
 S
 #27447
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -3605,6 +3844,11 @@ D3
 S
 #27448
 The Endless Moors~
+You are wandering through the fog-shrouded muck of the moors, trying
+to find a path.  All around you are patches of grass, shallow pools
+of still fetid water, and countless muddy trails.  The slimy muck 
+squelches underfoot, and nothing can be seen very far in the 
+soupy mist.
 ~
 0 0 10
 D0
@@ -3626,6 +3870,11 @@ D3
 S
 #27449
 The Endless Moors~
+You are wandering through the fog-shrouded muck of the moors, trying
+to find a path.  All around you are patches of grass, shallow pools
+of still fetid water, and countless muddy trails.  The slimy muck 
+squelches underfoot, and nothing can be seen very far in the 
+soupy mist.
 ~
 0 0 10
 D0
@@ -3647,6 +3896,10 @@ D3
 S
 #27450
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -3668,6 +3921,10 @@ D3
 S
 #27451
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -3689,6 +3946,10 @@ D3
 S
 #27452
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -3710,6 +3971,10 @@ D3
 S
 #27453
 The Barren Moors~
+You are at the edge of a fog-shrouded swamp, and all around you are 
+patches of brown grass, shallow pools of still fetid water, and countless 
+muddy trails.  The slimy muck squelches underfoot, and nothing can 
+be seen very far through the soupy mist.
 ~
 0 0 2
 D0
@@ -3744,6 +4009,11 @@ D5
 S
 #27455
 The Endless Moors~
+You are wandering through the fog-shrouded muck of the moors, trying
+to find a path.  All around you are patches of grass, shallow pools
+of still fetid water, and countless muddy trails.  The slimy muck 
+squelches underfoot, and nothing can be seen very far in the 
+soupy mist.
 ~
 0 0 10
 D0
@@ -3765,6 +4035,12 @@ D3
 S
 #27456
 The Endless Moors~
+You are wandering through the fog-shrouded muck of the moors, trying
+to find a path.  All around you are patches of grass, shallow pools
+of still fetid water, and countless muddy trails.  The slimy muck 
+squelches underfoot, and nothing can be seen very far in the 
+soupy mist.  Vines and branches here clutch at your legs, and the mud
+makes every step slower and slower.
 ~
 0 0 10
 D0
@@ -3786,6 +4062,11 @@ D3
 S
 #27457
 The Endless Moors~
+You are wandering through the fog-shrouded muck of the moors, trying
+to find a path.  All around you are patches of grass, shallow pools
+of still fetid water, and countless muddy trails.  The slimy muck 
+squelches underfoot, and nothing can be seen very far in the 
+soupy mist.
 ~
 0 0 10
 D0
@@ -3807,6 +4088,11 @@ D3
 S
 #27458
 The Endless Moors~
+You are wandering through the fog-shrouded muck of the moors, trying
+to find a path.  All around you are patches of grass, shallow pools
+of still fetid water, and countless muddy trails.  The slimy muck 
+squelches underfoot, and nothing can be seen very far in the 
+soupy mist.
 ~
 0 0 10
 D0
@@ -6309,6 +6595,11 @@ D3
 S
 #27574
 The Endless Moors~
+You are wandering through the fog-shrouded muck of the moors, trying
+to find a path.  All around you are patches of grass, shallow pools
+of still fetid water, and countless muddy trails.  The slimy muck 
+squelches underfoot, and nothing can be seen very far in the 
+soupy mist.
 ~
 0 ACNX 10
 D0
