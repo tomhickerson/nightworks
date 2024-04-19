@@ -1607,10 +1607,9 @@ S
 {GThe Tall Grass{x~
  Waist high scraggly marram grass grows in the fields all around you,
 dropping off dropping off without warning as it meets the cliffs to the
-east.  A fox grass rustling as they pass by.  A cold breeze blows in from
+east.  A fox rustles the grass as they pass by.  A cold breeze blows in from
 the east, bringing with it the smell of the ocean.  Heorot lies a short walk
 off to your west, and in the distance south of it lies the barren moors. 
-Dashes in front of you in hot pursuit of a small field mouse, the 
 ~
 0 0 2
 D0
@@ -2080,7 +2079,7 @@ D3
 0 0 27376
 S
 #27374
-A Mirky Cave~
+A Murky Cave~
 ~
 0 AD 0
 D0
@@ -2697,6 +2696,9 @@ D3
 S
 #27401
 {gA Dense Thicket{x~
+You are making your way through a forested thicket, where 
+the branches and brambles seem too close.  Leaves fly in 
+your face and sticks grab at your ankles.
 ~
 0 0 3
 D0
@@ -2714,6 +2716,9 @@ D3
 S
 #27402
 {gA Dense Thicket{x~
+You are making your way through a forested thicket, where 
+the branches and brambles seem too close.  Leaves fly in 
+your face and sticks grab at your ankles.
 ~
 0 A 3
 D0
@@ -2731,6 +2736,9 @@ D3
 S
 #27403
 {gA Dense Thicket{x~
+You are making your way through a forested thicket, where 
+the branches and brambles seem too close.  Leaves fly in 
+your face and sticks grab at your ankles.
 ~
 0 A 3
 D0
@@ -2897,6 +2905,9 @@ D3
 S
 #27410
 {gA Dense Thicket{x~
+You are making your way through a forested thicket, where 
+the branches and brambles seem too close.  Leaves fly in 
+your face and sticks grab at your ankles.
 ~
 0 A 3
 D0
@@ -2910,6 +2921,9 @@ D1
 S
 #27411
 {gA Dense Thicket{x~
+You are making your way through a forested thicket, where 
+the branches and brambles seem too close.  Leaves fly in 
+your face and sticks grab at your ankles.
 ~
 0 A 3
 D1
