@@ -708,7 +708,7 @@ D0
 D1
 ~
 ~
-0 -1 -1
+0 -1 22640
 D2
 ~
 ~
@@ -723,7 +723,7 @@ in the northward direction, you seem to be heading deeper into the earth.
 D0
 ~
 ~
-0 -1 -1
+0 -1 22634
 D2
 ~
 ~
@@ -803,12 +803,90 @@ the north, and a warm, flowing breeze comes from that direction as well.
 D0
 ~
 ~
-0 -1 -1
+0 -1 22639
 D2
 ~
 ~
 0 -1 22635
 S   
+#22639
+The Underdark~
+The tunnel here enters a much more elaborately carved corridor to the north.
+A bright red glow emenates from the north east, and the temperature here has
+climbed several degrees. The tunnel also heads south into darker areas.
+~
+0 0 0
+D0
+~
+~
+0 -1 -1
+D2 
+~
+~
+0 -1 22638
+S
+#22640
+The Underdark~ 
+You have entered a cave in the underdark. You can exit the cave to the west,
+and there is a large portcullis blocking passage to the east. The presence
+of evil to the east nearly cools you to the bone, and you can hear the
+heavy breathing of a large creature from beyond the portcullis.
+~
+0 0 0 
+D1
+~
+portal gate portcullis~
+1 -1 22641
+D3 
+~
+~
+0 -1 22632
+E
+portal portcullis~
+The portcullis is made of the same adamantium as darkelf armor and weapons.
+It glows with a bright green light. The magic of the portal seems to be
+directed toward the east, as if to keep something out.~
+S 
+#22641
+A Huge Cavern~ 
+This enormous cavern is very dark. You sense an evil presence in this cave.
+The air is very cold, and the size of the cavern makes you feel very
+insignifigant. You can exit this cavern through a portcullis to the west.
+~
+0 0 0
+D0
+~
+~ 
+0 -1 22642
+D3
+~
+portal gate portcullis~
+1 -1 22640 
+E 
+portcullis~ 
+The portcullis is made of the same adamantium as darkelf armour and weapons.
+It glows with a bright green light.~
+S 
+#22642
+A Huge Cavern~
+This huge cavern continues to the north and south. It is very dark and cold
+in here, and you detect very little sound, except a deep breathing. There are
+also several arrow looking things stuck in the west wall.
+~
+0 0 0
+D0 
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 22641
+E
+arrow things~
+They appear too be bolts of some kind, much like those fired from a crossbow
+trap.~
+S 
 #0
 
 
