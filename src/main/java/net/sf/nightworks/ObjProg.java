@@ -1213,6 +1213,15 @@ class ObjProg {
         }
     }
 
+    static void entry_prog_arrowtrap(OBJ_DATA obj) {
+        CHAR_DATA roomChar;
+
+        for (roomChar = obj.in_room.people; roomChar != null; roomChar = roomChar.next_in_room) {
+
+        }
+
+    }
+
     static void greet_prog_coconut(OBJ_DATA obj, CHAR_DATA ch) {
         if (obj.carried_by != null) {
             if (get_hold_char(obj.carried_by) == obj && obj.carried_by != ch) {
