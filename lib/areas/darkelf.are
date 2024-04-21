@@ -10,6 +10,14 @@ Grotto of Darkness~
 
 
 #OBJECTS
+#22600
+hidden crossbow trap~
+A hidden crossbow trap~
+A hidden crossbow trap is here, embedded in the wall.~
+stone~
+trash F 0
+0 0 0 0 0
+99 1000 0 P
 #0
 
 
@@ -892,6 +900,9 @@ S
 
 
 #RESETS
+O 0 22600 0 22642 * loading the arrow trap in the dragons lair 
+D 0 22641 3 1 * closing the gate to the west from 22641 
+D 0 22640 1 1 * closing the gate to the east from 22640 
 S
 
 
