@@ -66,7 +66,7 @@ D2
 The tunnel slopes deeper into the earth.
 ~
 ~
-0 -1 -1
+0 -1 22620
 D3
 The tunnel slopes deeper into the earth.
 ~
@@ -226,7 +226,7 @@ distinct feeling of danger, as the hairs on your neck rise up.
 D1 
 ~
 ~
-0 -1 -1
+0 -1 22610
 D3 
 ~
 ~
@@ -266,7 +266,7 @@ D0
 D5
 ~
 ~
-0 -1 -1
+0 -1 22612
 E
 rift~
 The rift seems to extend downward into infinity, and was probably created
@@ -374,7 +374,7 @@ blank.
 D2
 There is a door to the south.
 ~
-~
+door~
 1 -1 22615
 E
 note writing~
@@ -462,10 +462,10 @@ underdark are exceptionally silent, except for the pitter patter of small,
 jumping spiders which are in abundance here.
 ~
 0 0 0 
-D1 
+D0 
 ~
 ~
-0 -1 -1
+0 -1 22602
 D3
 ~
 ~
@@ -580,7 +580,7 @@ D0
 0 -1 22627
 D1 
 ~
-~
+gate~
 2 -1 22625
 D2
 ~
@@ -628,7 +628,7 @@ underdark to the east, or traverse further into the crypt to the west.
 D1
 You see a door leading into the underdark.
 ~
-~
+door~
 1 -1 22627
 D3
 ~
@@ -903,12 +903,33 @@ S
 O 0 22600 0 22642 * loading the arrow trap in the dragons lair 
 D 0 22641 3 1 * closing the gate to the west from 22641 
 D 0 22640 1 1 * closing the gate to the east from 22640 
+D 0 22601 0 2 * closing and locking the door north from 22601 
+D 0 22615 0 1 * closing the door north from 22615 
+D 0 22616 2 1 * closing the door south from 22616 
+D 0 22621 0 1 * closing the door north from 22621
+D 0 22621 2 1 * closing the door south from 22621 
+D 0 22622 2 1 * closing the door south from 22622 (guard post) 
+D 0 22623 0 1 * closing the door north from 22623 (guard post)
+D 0 22625 3 2 * closing and locking the gate west from 22625
+D 0 22626 1 2 * closing and locking the gate east from 22626 
+D 0 22627 3 1 * closing the door west from 22627 
+D 0 22628 1 1 * closing the door east from 22628 
+D 0 22630 0 1 * closing the door north from 22630 
+D 0 22631 2 1 * closing the door south from 22631 
+D 0 22635 2 2 * closing and locking the door south from 22635 
+D 0 22636 0 2 * closing and locking the door north
+D 0 22636 2 2 * closing and locking the door south 
+D 0 22637 0 2 * closing and locking the door north 
 S
 
 
 
 #SHOPS
 0
+
+#OMPROGS
+O 22600 entry_prog entry_prog_arrowtrap 
+S 
 
 
 

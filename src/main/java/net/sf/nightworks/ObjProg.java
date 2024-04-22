@@ -1217,6 +1217,17 @@ class ObjProg {
         CHAR_DATA roomChar;
 
         for (roomChar = obj.in_room.people; roomChar != null; roomChar = roomChar.next_in_room) {
+            // if((num+dex_mod)/2 > 50)
+            int num = number_percent();
+            int dex = roomChar.mod_stat[STAT_DEX];
+            if ((num + dex)/2 > 50) {
+                act("Bolts fly from the wall as you step on a trapped stone, " +
+                                "but you manage to evade them!",
+                        roomChar, null, null, TO_CHAR);
+            } else {
+                act("Bolts fly from the wall, striking you in the side!", roomChar,
+                        null, null, TO_CHAR);
+            }
 
         }
 
