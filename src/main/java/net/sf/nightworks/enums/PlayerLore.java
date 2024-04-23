@@ -15,7 +15,11 @@ import java.util.Map;
 public enum PlayerLore {
     MINOR_KNOWLEDGE_SOULCUBE(1, "Minor Knowledge of a Soul Cube"),
     MEDIUM_KNOWLEDGE_SOULCUBE(2, "Medium Knowledge of a Soul Cube"),
-    GREATER_KNOWLEDGE_SOULCUBE(3, "Greater Knowledge of a Soul Cube");
+    GREATER_KNOWLEDGE_SOULCUBE(3, "Greater Knowledge of a Soul Cube"),
+    MINOR_ANCIENT_ELVISH(4, "Minor knowledge of Ancient Elvish"),
+    MEDIUM_ANCIENT_ELVISH(5, "Intermediate knowledge of Ancient Elvish"),
+    ADVANCED_ANCIENT_ELVISH(6, "Advanced knowledge of Ancient Elvish"),
+    MINOR_EASTERN_ELVISH(7, "Minor knowledge of Eastern Elvish");
 
     PlayerLore(int id, String knowledge) {
         this.id = id;

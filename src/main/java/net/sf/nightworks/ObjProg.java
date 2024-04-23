@@ -1227,6 +1227,7 @@ class ObjProg {
             } else {
                 act("Bolts fly from the wall, striking you in the side!", roomChar,
                         null, null, TO_CHAR);
+                // apply damage later
             }
 
         }
