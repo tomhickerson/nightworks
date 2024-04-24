@@ -1224,9 +1224,14 @@ class ObjProg {
                 act("Bolts fly from the wall as you step on a trapped stone, " +
                                 "but you manage to evade them!",
                         roomChar, null, null, TO_CHAR);
+                act("Bolts fly from the wall but " + roomChar.name + " manages to evade them!",
+                        roomChar, null, null, TO_ROOM);
             } else {
                 act("Bolts fly from the wall, striking you in the side!", roomChar,
                         null, null, TO_CHAR);
+                act("Bolts fly from the wall, striking " + roomChar.name + "!", roomChar,
+                        null, null, TO_ROOM);
+                damage(roomChar, roomChar, dice(2, 10), null, DAM_PIERCE, false);
                 // apply damage later
             }
 
