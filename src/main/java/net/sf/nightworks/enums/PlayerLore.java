@@ -19,7 +19,9 @@ public enum PlayerLore {
     MINOR_ANCIENT_ELVISH(4, "Minor knowledge of Ancient Elvish"),
     MEDIUM_ANCIENT_ELVISH(5, "Intermediate knowledge of Ancient Elvish"),
     ADVANCED_ANCIENT_ELVISH(6, "Advanced knowledge of Ancient Elvish"),
-    MINOR_EASTERN_ELVISH(7, "Minor knowledge of Eastern Elvish");
+    MINOR_EASTERN_ELVISH(7, "Minor knowledge of Eastern Elvish"),
+    MEDIUM_EASTERN_ELVISH(8, "Intermediate knowledge of Eastern Elvish"),
+    ADVANCE_EASTERN_ELVISH(9, "Advanced knowledge of Eastern Elvish");
 
     PlayerLore(int id, String knowledge) {
         this.id = id;
