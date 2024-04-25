@@ -32,9 +32,9 @@ The sandy beach is to your north.
 E
 sign~
 {YWELCOME to Newcomer Island!  To move around here you will have to 
-NORTH or N, WEST or W, and so on.  You will see a number of signs
+type NORTH or N, WEST or W, and so on.  You will see a number of signs
 like this on your way to the village, so be sure to LOOK at them 
-all!{x
+all!  You can also type HELP for more information about commands!{x
 ~
 E
 village~
@@ -69,7 +69,27 @@ The entry to the village is to the north.
 ~
 ~
 0 -1 2603
+E
+sign~
+{YHello again, if you want more information about the area 
+around you, you can type EXIT and more information will 
+be displayed.  Right now the prompt only shows open exits,
+so you should see a 'N' that means there is only an open 
+exit to the North...{x~
 S  
+#2603
+A sandy path through the dunes~
+You are winding your way through the dunes toward the village.
+Weeds and grass sprout up here and there.  You can see another 
+{Wsign{x here.
+~
+0 0 2
+D0 
+You see the gate to the village to the north.
+~
+~
+0 -1 2604
+S 
 #0
 
 
