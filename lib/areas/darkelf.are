@@ -885,7 +885,7 @@ also several arrow looking things stuck in the west wall.
 D0 
 ~
 ~
-0 -1 -1
+0 -1 22643
 D2
 ~
 ~
@@ -894,6 +894,21 @@ E
 arrow things~
 They appear too be bolts of some kind, much like those fired from a crossbow
 trap.~
+S 
+#22643
+A Huge Cavern~
+This huge cavern extends to the east and south. It is very dark and cold
+here, and you get a feeling of being watched as the hairs on your neck rise.
+~
+0 0 0
+D1
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 22642
 S 
 #0
 
