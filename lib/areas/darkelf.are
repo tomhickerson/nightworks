@@ -904,11 +904,51 @@ here, and you get a feeling of being watched as the hairs on your neck rise.
 D1
 ~
 ~
-0 -1 -1
+0 -1 22644
 D2
 ~
 ~
 0 -1 22642
+S 
+#22644 
+A Huge Cavern~
+This huge cavern extends to the west and south. To the south you hear the
+sound of heavy breathing. The cave seems too get much colder to the south as
+well.
+~
+0 0 0
+D2
+~
+~
+0 -1 22646
+D3
+~
+~
+0 -1 22643
+S 
+#22645
+In the Pit~
+You are currently in a 30 foot pit, a trap laid to
+protect someone's lair.  The walls are smooth and cannot
+be climbed.
+~
+0 0 0
+S 
+#22646
+Cave of the Shadow Dragon~
+You have entered a huge cave which the shadow dragon calls its home. The cave
+is extremely dark and cold, but to the east you see a massive treasure cave!
+The dragon would not like it if he caught you here.
+~
+0 0 0
+D0 
+~
+~
+0 -1 22644
+D1
+~
+~
+0 -1 -1
 S 
 #0
 
