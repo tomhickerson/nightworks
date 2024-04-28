@@ -452,6 +452,21 @@ ABFGNT Q -1000 0
 0 0 0 0
 stand stand male 1000
 AHMV ABCDEFGHIJK medium unknown
+#22530
+dark spider~
+The Dark Spider~
+A dark spider lurks here, waiting for its next victim.
+~
+This spider is a jet-black color, with eight red glowing eyes.  It 
+clicks its mandibles together as it starts to circle you.
+~
+unique~
+ABFGNT Q -1000 0
+13 0 4d10+500 1d1+1 2d8+4 bite 
+-12 -12 -12 -12
+0 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
 #0
 
 
@@ -1527,27 +1542,34 @@ D1
 ~
 0 0 22588
 D3
+Through an old alleyway.
 ~
 ~
 0 0 22586
 S
 #22586
 Old alley~
-
+You make your way through an old, dark alleyway, which 
+appears to haven't been used in a long time.  The dark 
+walls close in on two sides and the way is littered with 
+refuse and ancient garbage.
 ~
 0 532480 0
 D1
+To the main road.
 ~
 ~
 0 0 22585
 D3
+The old alley continues this way.
 ~
 ~
 0 0 22587
 S
 #22587
 Old alley~
-
+The dark alleyway comes to an abrupt end here, surrounded on 
+three sides by rubble and collapsed buildings.
 ~
 0 532480 0
 D1
@@ -1557,7 +1579,11 @@ D1
 S
 #22588
 Forgotten street~
-
+You are on a dusty street, lined by old brick buildings with 
+broken windows and open doors.  Looking through the windows,
+you see nothing but open air, the wooden ceilings and floors 
+having all been burnt or destroyed.  The street continues
+east and west.
 ~
 0 532480 0
 D1
@@ -1628,7 +1654,7 @@ a stout, oaken door.  The south leads to the bottom of a stairwell.
 D0
 ~
 door~
-2 22502 22593
+2 22501 22593
 D2
 ~
 ~
@@ -1649,7 +1675,7 @@ D2
 A door leading out of the dungeon.
 ~
 door~
-2 22502 22592
+2 22501 22592
 S
 #22594
 Dungeon Hallway~
@@ -2345,6 +2371,8 @@ M 0 22525 1 22507 1 * ghost of Fildais in his sitting room
 M 0 22524 1 22503 1 * chef in the kitchen
 M 0 22523 1 22561 1 * crystal dragon at the cavern entrance 
 M 0 22522 1 22558 1 * red dragon inside th cave
+M 0 22530 1 22571 1 * dark spider in the spider lair 
+G 0 22501 0 * giving the dark spider the red key 
 M 0 22521 1 22547 1 * green dragon at the pond 
 M 0 22520 1 22541 2 * ragged wolfhound on a small path 
 M 0 22520 1 22543 2 * ragged wolfhound on a rise in the path 
@@ -2352,6 +2380,7 @@ M 0 22519 1 22539 1 * the stable hand at the stables
 M 0 22527 1 22550 2 * swamp zombie somewhere in the foggy path 
 M 0 22528 1 22600 1 * the mold zombie at the bottom of the dungeon 
 M 0 22529 1 22599 1 * the frost spider at the bottom of the dungeon 
+G 0 22500 0 * giving the frost spider the black key 
 M 0 22518 1 22539 1 * mare at the stables 
 M 0 22517 1 22539 1 * warhorse at the stables (for now) 
 M 0 22516 1 22505 1 * raphaela guarding her tower but her rooms are unused?
@@ -2370,6 +2399,13 @@ M 0 22504 1 22529 1 * Tathan, in their tower room
 M 0 22503 1 22506 1 * Midir in the war room 
 M 0 22501 1 22535 1 * Almea the half-elf, in her workroom
 M 0 22500 1 22506 1 * Rea, also in the war room 
+D 0 22559 2 2 * closing and locking the door south from the cave 
+D 0 22592 0 2 * closing and locking the door north 
+D 0 22593 2 2 * closing and locking the door south 
+D 0 22595 1 1 * closing the door to the east
+D 0 22595 3 1 * closing the door to the west 
+D 0 22596 3 1 * closing the door to the west 
+D 0 22597 1 1 * closing the door to the east 
 S
 
 
