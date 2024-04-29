@@ -1,0 +1,4728 @@
+#AREA
+unders.are~
+Underworld~
+{55 90} Fluffy Underworld~
+22050 22349
+
+#MOBILES
+#22300
+Grey spectre~
+a shadowy grey spectre~
+A shadowy grey spectre floats here.
+~
+A shadowy grey spectre floats searching for an end.  It looks as if he
+has been searching for many eons...  Perhaps your death will free him...  
+~
+unique~
+AG BTU -200 0
+25 0 5d10+550 1d50+100 2d10+7 wrath
+-7 -7 -7 0 
+EFU 0 D N 
+stand stand none 0
+AHIMV ABCDEFGHIJK medium 0
+#22301
+demon sergeant~
+a demon sergeant~
+A demon sergeant is here, looking a bit perplexed at you.
+~
+The demon sergeant stares at you, highly agitated at the fact that you
+have got past his minions, and seems more than willing to correct the
+mistake.  
+~
+human~
+AGO 0 -700 0
+27 0 5d10+650 27d10+100 5d4+7 charge
+-8 -8 -8 6
+CDF 0 0 NZ
+stand stand none 0
+AHIMV ABCDEFGHIJK large 0
+#22302
+Werewolf shaggy~
+shaggy werewolf~
+A shaggy werewolf prowls here, looking for supper.
+~
+A shaggy werewolf prowls around looking for food, he seems delighted at your arrival. You wonder if you will be his supper, but
+can't help admiring his rugged hide.
+~
+unique~
+ABFGS F -1000 0
+33 0 5d20+1200 39d10+1100 6d4+10 none
+-11 -11 -11 5
+DEFIKN 0 0 N
+stand stand none 500
+AHIMV ABCDEFGHIJK medium 0
+#22303
+zombie undead creature~
+a zombie~
+A undead zombie is here losing his skin. Nasty.
+~
+A zombie is here gawking at you.
+~
+human~
+AGO 0 -950 0
+36 0 5d25+1400 36d10+100 3d10+11 claw
+-12 -12 -12 3
+CDHK 0 0 N 
+stand stand none 500
+AHIMV ABCDEFGHIJK medium 0
+#22305
+Lord of Night~
+Lord of Night~
+The black Lord of Night sits here upon his dark throne
+~
+The Lord of Night, ruler of the dark, sits here upon his
+throne. His forces bustle around him, preparing for the end 
+of the day.
+~
+unique~
+ABGRS BJUZ -1000 0
+33 0 5d20+1200 39d10+1100 6d4+10 pound
+-11 -11 -11 5
+DEFIKN 0 0 N
+stand stand none 500
+AHIMV ABCDEFGHIJK medium 0
+#22306
+Wrath~
+Wrath~
+Wrath glares deep into your eyes with rage.
+~
+The personification of wrath stands here, a huge, angry red creature with an
+incredible temper, and a very short fuse.
+~
+unique~
+ABGT JZ -1000 0
+33 0 5d20+1200 39d10+1100 6d4+10 pound
+-11 -11 -11 5
+DEFIKN 0 0 N
+stand stand none 500
+AHIMV ABCDEFGHIJK medium 0
+#22307
+general kenard~
+the General Kenard~
+{yA statue of General Kenard of Thalos.{x
+~
+The statue of General Kenard captures him in his moment before being overrun
+by the drow warriors.  He is on his knees, eyes gazing skyward, looking
+hopeless and defeated, failing in his duty to protect Thalos.  Because of his
+defeat, Thalos is now a ruined, deserted city.
+~
+unique~
+ABGT JZ 1000 0
+33 0 5d20+1200 39d10+1100 6d4+10 pound
+-11 -11 -11 5
+DEFIKN 0 0 N
+stand stand none 500
+AHIMV ABCDEFGHIJK large 0
+#22308
+Talia~
+Talia the Midgaard Priestess~
+{ya statue of Talia, the Migaard Priestess.{x
+~
+Talia is a beautiful human female, who devoted her life to purge the undead
+from the Midgaard graveyard.  She ultimately failed in her quest, the zombies
+tearing her limb from limb.  She is adorned in a tattered white robe, with
+claw marks and blood stains.  In the holes you can see her diseased flesh from
+the zombie claw marks.  She clutches her prayer beads in terror while shielding her face from an attack.
+~
+unique~
+ABGQ BJZ 1000 0
+42 0 5d50+2250 42d10+4400 3d12+14 blast
+-14 -14 -14 0
+DFGHK 0 0 0
+stand stand female 6282
+AHMV ABCDEFGHIJK medium 0
+#22309
+veteran thief~
+a veteran thief~
+A veteran thief is hugging the shadows, wary of a prowling displacer beast.
+~
+He looks like your typical grave robber, although he is equipped with many
+little devices to make a gnome jealous.  They are probably used to disarm and
+detect traps.
+~
+unique~
+AGST BJPZ -1000 0
+42 0 5d50+2250 42d10+4400 3d12+14 pound
+-14 -14 -14 0
+EFHKL 0 0 0
+sit stand male 1500
+AHMV ABCDEFGHIJK medium 0
+#22310
+fiery hellhound~
+Fiery Hellhound~
+A fiery hellhound is here warming up.
+~
+A big hound is here ready to pounce on anyone who tries to cool it off
+or attack its nest.
+~
+unique~
+ABGRT JZ -1000 0
+42 0 5d50+2250 42d10+4400 3d12+14 pound
+-14 -14 -14 0
+CEFHL 0 0 0
+stand stand none 1100
+AHMV ABCDEFGHIJK huge 0
+#22311
+skeletal mage seer~
+a skeletal mage~
+An ancient seer, a skeletal mage, is fixed, peering at mirrors.
+~
+Sitting with its legs crossed is the remains of a seer, which is now just
+a skeleton.  He died while peering at its magical mirrors.  Oddly enough
+it has been preserved exactly the way it looks as though if it were alive.
+~
+unique~
+ABGORT BJZ -1000 0
+35 0 10d50+1300 40d10+4150 4d7+11 pound
+-11 -11 -11 3
+CEFGHK 0 0 0
+stand stand none 2000
+AHMV ABCDEFGHIJK medium 0
+#22312
+winged demon~
+the winged demon~
+A winged demon hovers here.
+~
+A Winged Demon flies around the room, swooping like an eagle, he seems to
+think that you might be a rabbit, his prey.  
+~
+unique~
+ABGT BJ -1000 0
+35 0 10d50+1300 40d10+4150 4d7+11 bite
+-11 -11 -11 3
+CEFGHL 0 0 0
+stand stand none 1000
+AHMV ABCDEFGHIJK medium 0
+#22313
+bean sidhe~
+a bean-sidhe~
+A bean-sidhe floats crouches here, wailing your death.
+~
+The bean-sidhe, the mythical forecaster of doom, is here and quite real. 
+She is also wailing her head off, which tends to make those around her a
+little nervous.  
+~
+unique~
+ABFGT BF -1000 0
+35 0 10d50+1300 40d10+4150 4d7+11 bite
+-11 -11 -11 3
+EFHLN 0 0 0
+stand stand female 822
+AHMV ABCDEFGHIJK small 0
+#22315
+Spectre Black~
+The Black Spectre~
+A spectre of darkest night floats here.
+~
+A spectre of darkest night floats here, silently... waiting.
+~
+human~
+AGO U -800 0
+32 0 5d10+1000 2d20+1000 6d4+9 slash
+-10 -10 -10 4
+CDFH 0 0 NYZ 
+stand stand none 0
+AHIMV ABCDEFGHIJK medium 0
+#22316
+Goim~
+Goim~
+Goim is smiling at you with her big nasty looking teeth.
+~
+Goim scares you with her big ass teeth and smelly breath.
+She is quite surprised that you can look at her.
+~
+unique~
+ABGT 0 -1000 0
+32 0 5d10+1000 2d20+1000 6d4+9 bite 
+-10 -10 -10 4
+CEFHL 0 0 N
+stand stand female 5000
+AHMV ABCDEFGHIJK large 0
+#22317
+Balahr~
+Balahr~
+Balahr, Lord of Ice, stands here with an aura of frost.
+~
+The very sight of this Lord chills you to your very marrow.
+He looks as though he could freeze fire.
+~
+unique~
+AGR 0 -1000 0
+32 0 5d10+1000 2d20+1000 6d4+9 slash
+-10 -10 -10 4
+CEFHL 0 0 0
+stand stand male 1800
+AHMV ABCDEFGHIJK large 0
+#22318
+Sren Master~
+Sren~
+Sren stands here with a wicked smile on his face.
+~
+Sren is standing here with bright red eyes and dark skin, with his dagger in hand he is planning on killing you befor you kill him.
+~
+unique~
+AGST 0 -5000 0
+32 0 5d10+1000 2d20+1000 6d4+9 slash
+-10 -10 -10 4
+BCEHKLNX 0 L N
+stand stand male 4110
+AHMV ABCDEFGHIJKVW medium 0
+#22319
+kerenos demon~
+Kerenos~
+A rather large demon stand here with an axe in his hand.
+~
+Kerenos stands over 15 feet tall, towering over most.
+~
+unique~
+AGRT 0 -5000 0
+32 0 5d10+1000 2d20+1000 6d4+9 pound 
+-10 -10 -10 4
+CEFHLN 0 0 0
+stand stand male 1800
+AHMV ABCDEFGHIJK huge 0
+#22320
+Mage Dragon~
+The Dragon Mage~
+The Dragon Mage, Lord of the Dragons stands here.
+~
+The Dragon Mage, lord of the dragons, looks somewhat like a humanish dragon.
+He stands here, trying to summon a dragon to dominate and subdue it.
+~
+unique~
+ABGR 0 -1000 0
+32 0 5d10+1000 2d20+1000 6d4+9 slash
+-10 -10 -10 4
+FHN 0 0 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium 0
+#22321
+flaming spectre fiery~
+the fiery spectre~
+A flaming shadow spectre is moving about the underworld.
+~
+The spectre is here just expecting the fate as a being of the damned.
+~
+unique~
+ABGT B -1000 0
+32 0 5d10+1000 2d20+1000 6d4+9 wrath 
+-10 -10 -10 4
+CEFGHL 0 0 0
+stand stand none 500
+AHMV ABCDEFGHIJK large 0
+#22322
+Dragon Fire~
+a fire dragon~
+A dragon made of fire burns here.
+~
+This dragon is a dragon like any other, except his skin is charring due
+to the flames coming out of his pores like a volcano.  This means your host
+is toast.  
+~
+unique~
+ABGRT BU -1000 0
+32 0 5d10+1000 2d20+1000 6d4+9 flame 
+-10 -10 -10 4
+EFGHLN 0 0 0
+stand stand none 500
+AHMV ABCDEF huge 0
+#22323
+Necromancer~
+The Necromancer~
+The Necromancer stand here summoning the dead.
+~
+The Necromancer is a large creature.  He stands here summoning
+the spirits of the dead and reviving them to serve him
+eternally.
+~
+unique~
+ABGQT B -1000 0
+31 0 10d10+928 50d10+2200 4d6+9 pierce
+0 0 0 0
+CEFGHL 0 0 0
+stand stand male 3500
+AHMV ABCDEFGHIJK medium 0
+#22324
+elemental lich~
+Elemental Lich~
+An elemental lich is in a trance of spellcasting....
+~
+The elemental lich dons rotting robes that used to be colorful when he was a
+mortal.  It does nothing to hide his frail, skeletal body, aged probably for
+centuries, sacrificed for his deathly art.
+He appears to be in a spell-casting trance, too absorbed to notice your arrival.
+~
+unique~
+ABGOQR BHNOTVd -1000 0
+31 0 10d10+928 50d10+2200 4d6+9 pound
+0 0 0 0
+AFGHKW ABLQ CDHIJKMOP NS
+stand stand female 3500
+AHMV ABCDEFGHIJK medium bone
+#22325
+Demonlord fire~
+the Demonlord of Fire~
+The Demonlord of Fire stands here chanting.
+~
+The Demonlord of fire is here chanting words at you.
+~
+unique~
+ABGQT Q -1000 0
+31 0 10d10+928 50d10+2200 4d6+9 flame 
+0 0 0 0
+EFHLN Ha DLMOQ I
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0
+#22326
+Demonlord water~
+the Demonlord of Water~
+The Demonlord of Water stands here chanting.
+~
+Well what did you expect, a nice looking monster? Guess again he is the most vile creature you have ever seen. He seems to be summoning a creature that will most likely be more vile than himself. You shiver at that prospect.
+~
+unique~
+ABGQT Q -1000 0
+31 0 10d10+928 50d10+2200 4d6+9 chill 
+0 0 0 0
+EFGHLN IQR D HJ
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0
+#22327
+Demonlord Air~
+the Demonlord of Air~
+The Demonlord of Air stands here chanting.
+~
+WOW, man is he UUUUGGGLLLLYYYYY.  He seems to be summoning The Behemoth. 
+Your only idea that this may be true is that you hear a slight whisper of
+"BEHEMO ICNUM SUMA TORKAMA".  
+~
+unique~
+ABGQT Q -1000 0
+31 0 10d10+928 50d10+2200 4d6+9 blast 
+0 0 0 0
+EFGHLN DT 0 CH
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0
+#22328
+Stone Demonlord~
+the Demonlord of Stone~
+The Demonlord of Stone stands here chanting.
+~
+Fresh pus and mucus runs down the sides of the living statue. The demonlord is made entirely of stone, and the horrendous sound of grinding stone fills the room with his every move.
+~
+unique~
+ABGRT Q -1000 0
+31 0 10d10+928 50d10+2200 4d6+9 pierce
+0 0 0 0
+EFHLN DLQ EHJX C
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0
+#22329
+Earth Demonlord~
+the Demonlord of Earth~
+The Demonlord of Earth stands here chanting.
+~
+This Demonlord has got to be worse than the others.  His skin seems pus
+encrusted with sand flowing out his nose like it were mucus.  The bloody
+stains on his rotting teeth seems to be human blood, because this creature
+seems not at all human in nature.  But alas you are wrong.  
+~
+unique~
+ABGRT Q -1000 0
+31 0 10d10+928 50d10+2200 4d6+9 shock 
+0 0 0 0
+CEFHL EX 0 KO
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0
+#22330
+Behemoth~
+the Behemoth~
+The Behemoth has been summoned here.
+~
+NOW YOU HAVE GONE AND DONE IT...THANKS FOR PLAYING.
+~
+unique~
+ABFGQRST 0 -1000 0
+38 0 9d50+1600 38d10+4100 5d6+12 bite
+-13 -13 -13 3
+CEFHLN 0 CD HN
+stand stand either 500
+AHMV ABCDEFGHIJK giant 0
+#22331
+naglagesh avatar~
+Naglagesh~
+An avatar of Naglagesh is here.
+~
+A huge avatar of Naglagesh is here, protecting the shrine from looters and
+determining if the worshippers are worthy enough to set foot in his shrine.
+~
+unique~
+ABGQRST 0 -1000 0
+38 0 9d50+1600 38d10+4100 5d6+12 shock 
+-13 -13 -13 3
+CEHKLN 0 0 0
+stand stand female 5912
+AHMV ABCDEF giant 0
+#22332
+babbling idiot~
+a babbling idiot~
+A babbling idiot crawls towards you, pleading for mercy.
+~
+In the mist of chaos, one of them crawls towards you on his hands and knees.
+He looks very malnourished and delirious, and he shouts about how the zombies
+are out to get him, and that the demons will eat him.
+~
+unique~
+ABGT MYc 0 0
+38 0 9d50+1600 38d10+4100 5d6+12 bite
+-13 -13 -13 3
+EGHIKLN 0 0 0
+rest stand male 2
+AHMV ABCDEFGHIJK small flesh
+#22333
+Ostanek~
+Ostanek~
+Ostanek is here, sharpening his sword.
+~
+He looks like an ordinary human.  He is very intent on his sword sharpening,
+and mutters some curses under his breath as he detects your presence.
+~
+unique~
+ABGT BQ -1000 0
+38 0 9d50+1600 38d10+4100 5d6+12 pierce 
+-13 -13 -13 3
+EGHKN 0 0 0
+stand stand male 2999
+AHMV ABCDEFGHIJK medium 0
+#22334
+Creature Underworld~
+the creature of the Underworld~
+The creature of the Underworld lies here lurking.
+~
+The creature looks hideous.  The slime squelching out of all its orifices
+seems to be alive.  The slime splotches to the ground and crawls towards
+you.  
+~
+unique~
+ABGS PQ -1000 0
+38 0 9d50+1600 38d10+4100 5d6+12 pound 
+-13 -13 -13 3
+EFGHN 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0
+#22335
+displacer beast~
+a displacer beast~
+A displacer beast hisses at you.
+~
+A huge displacer beast stand before you, its two long appendages wavering in
+the air threateningly.  It is pure black and largely resembles a panther.
+~
+unique~
+AGS P -1000 0
+38 0 9d50+1600 38d10+4100 5d6+12 claw  
+-13 -13 -13 3
+DEFGHN 0 0 0
+stand stand female 2000
+AHMV ABCDEF large 0
+#22336
+Garin~
+Garin the healer~
+Garin the healer stands here tending to the wounded.
+~
+Garin looks exactly like his brother Garrick, the elixir specialist.  He
+stands here tending to the aches and pains of all the wounded travellers.
+~
+unique~
+ABGJKQRVab BDFHJN 1000 0
+38 0 19d50+1600 38d10+4100 5d6+12 pound 
+-23 -23 -23 -13
+EFHKN 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium 0
+#22337
+Garrick~
+Garrick the specialist~
+Garrick stands here selling elixirs.
+~
+Garrick looks exactly like his brother Garin.  He is well known throughout
+these parts.  He has all types of elixirs, from healing elixirs to elixirs
+of exotic spells.
+~
+unique~
+ABGQRST BDFHJN 1000 0
+38 0 19d50+1600 38d10+4100 5d6+12 pound 
+-23 -23 -23 -3
+DEFGHKN 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium 0
+#22338
+tiny imp~
+a tiny imp~
+A tiny imp is here, cackling madly while fluttering around.
+~
+This tiny imp flutters about, manuevering himself so that he blends into
+the walls or makes his form larger than normal.
+~
+unique~
+ABGQRST PT -1000 0
+25 0 5d10+550 1d50+100 2d10+7 slap 
+0 0 0 0
+CEFHN 0 0 0
+stand stand male 2500
+AHMV ABCDEFGHIJK tiny 0
+#22340
+Greth~
+Greth the maker of dreams~
+Greth the maker of dreams stands here bottling dreams.
+~
+Greth the maker of dreams stands here filling odd coloured
+bottles with magical dreams.The dreams of all the Land of Lore lie 
+within the bottles.
+~
+unique~
+ABGST B -1000 0
+25 0 5d10+550 1d50+100 2d10+7 pound 
+-11 -11 -11 -11
+EFGHN 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium 0
+#22341
+skeleton pile bones~
+a pile of bones~
+A pile of bones lays on the ground, selling its wares.
+~
+This pile of bones just lays there, selling stuff.  Very strange.
+~
+unique~
+ABGOQRST BDFHJNO 1000 0
+88 30 50d10+20000 10d5+300 2d5+80 pound
+-30 -30 -30 0
+EFHIN 0 0 0
+stand stand none 100000
+AHMV ABCDEFGHIJK medium 0
+#22342
+stalker~
+a stalker~
+You feel a strange chill in the room.
+~
+The stalker's form phases in and out of view, and it's very hard to determine
+what it is exactly.  All you can tell is it is humanoid and it is paying close
+attention to you.
+~
+unique~
+ABGT BPQ -1000 0
+36 0 5d25+1400 36d10+100 3d10+11 claw
+-12 -12 -12 3
+EFGHN E 0 CK
+stand stand male 600
+AHMV ABCDEFGHIJK medium 0
+#22343
+beast fire~
+the beast of fire~
+The beast of fire stands here guarding.
+~
+To look at the beast is a terrible sight.  The beast smiles at you,and as
+he does the spittle drips and splats on the floor beside his feet...feet
+with blood on them.  
+~
+unique~
+ABGT BPQ -1000 0
+36 0 5d25+1400 36d10+100 3d10+11 flame
+-12 -12 -12 3
+CEFGHIO 0 0 IN
+stand stand male 2000
+AHMV ABCDEFGHIJK medium 0
+#22344
+Shopkeeper lost~
+The lost shopkeeper~
+The shopkeeper stands here looking lost.
+~
+The shopkeeper is just like you....lost...although his wares
+seem to be of some use...moulded throughout the ages he
+has grown wise.  He has lost touch with the outside world and
+his wares may be called something that already exists.
+~
+unique~
+ABGT BDFHJ 0 0
+88 20 50d10+20000 10d5+300 2d5+70 pound
+-30 -30 -30 0
+CDEFKN 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium 0
+#22345
+Death~
+Creature at death~
+The creature of death stands here.
+~
+The creature is grotesque....and i think if you manage to 
+see this description you might have a chance of survival...
+call an immortal...there is no way out.
+~
+unique~
+ABFGOQRST BDPQT -1000 0
+36 0 5d25+1400 36d10+100 3d10+11 claw
+-12 -12 -12 3
+ABCDEFGHIJKLMNO 0 0 0
+stand stand male 4000
+AHMV ABCDEFGHIJK medium 0
+#22346
+plethora carrion crawlers~
+a plethora of small carrion crawlers~
+A plethora of small carrion crawlers wiggle about.
+~
+These carrion crawlers almost blend in with the maggots.  What differs
+is these have legs, a hole that resembles a mouth, and tentacles near that
+mouth.
+~
+unique~
+ABGT 0 -1000 0
+36 0 5d25+1400 36d10+100 3d10+11 suction 
+-12 -12 -12 3
+CFINO 0 0 0
+stand stand male 1000
+AHMV CDF huge 0
+#22347
+group carrion crawlers~
+a group of carrion crawlers~
+A group of carrion crawlers crawl aimlessly about.
+~
+A group of carrion crawlers is here, their tentacles waving frantically
+about the air at your presence.
+~
+unique~
+ABFGST 0 -1000 0
+36 0 5d25+1400 36d10+100 3d10+11 suction
+-12 -12 -12 3
+BEHK E 0 0
+rest stand none 1000
+AHMV ABCDEFGHIJK medium flesh
+#22348
+carrion crawler~
+a carrion crawler~
+A carrion crawler covered with maggots is sleeping here.
+~
+This carrion crawler almost blends with the floor on the ground, due to all
+the maggots crawling about on it.  You see pieces of rotten flesh about its
+body, giving the reason why maggots are on this crawler.
+~
+unique~
+AGT 0 -1000 0
+36 0 5d25+1400 36d10+100 3d10+11 slash 
+-12 -12 -12 3
+EFHN 0 0 0
+sleep stand none 200
+AGHMVXc ABCDEFHKQV medium 0
+#22050
+huge carrion crawler~
+a huge carrion crawler~
+A huge carrion crawler is here, making disgusting squishy noises.
+~
+Laying before you is probably the biggest carrion crawler the known world
+has.  Easily weighing as much as a warthog, this mammoth is surprisingly
+quick, moving quickly about in its lair seeking food.  Its tentacles wave
+menacingly at you, sizing you down.
+~
+unique~
+ABGT 0 -250 0
+36 0 5d25+1400 36d10+100 3d10+11 bite 
+-12 -12 -12 3
+EFHN EI 0 0
+sit stand male 200
+AHMV CDF giant 0
+#22051
+pink carrion crawler~
+a pink carrion crawler~
+A pink carrion crawler is here.
+~
+A pink carrion crawler is here, oddly colored.  Upon closer inspection you
+find that the pink is actually faded blood stains.
+~
+unique~
+AGT 0 -1000 0
+36 0 5d25+1400 36d10+100 3d10+11 crush 
+-12 -12 -12 3
+CEHIK 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK large 0
+#22052
+stone demon guard~
+a stone demon~
+These guards stand here as still as stone...
+~
+The demon seems to have been created from a type of stone not found
+anywhere on the surface of the Land of Lore, highly resistant to magic and
+weapon.  He is highly trained and always ready for combat.  You look like a
+nice work-out.  
+~
+unique~
+ABFGT D -1000 0
+42 0 5d50+2250 42d10+4400 3d12+14 pound 
+-14 -14 -14 0
+EFHOU 0 CD N
+stand stand male 1000
+0 0 giant 0
+#22053
+large carrion crawler~
+a large carrion crawler~
+A large carrion crawler feasts on the remains of a pit fiend.
+~
+It seems this one broke into the meat locker and overpowered the pit fiend
+guarding this room.  It hungrily shoves the flesh into its mouth, eating as
+much as it can before you can do anything to it.
+~
+unique~
+AFGT D -1000 0
+42 0 5d50+2250 42d10+4400 3d12+14 pierce 
+-14 -14 -14 0
+EFHL EIK 0 0
+stand stand none 200
+AHMV CEF large 0
+#22054
+Lord Fear~
+Lord Fear~
+Lord Fear sits upon his dark throne.
+~
+He narrows his eyes as he glares angrily at you.  His body is covered with
+dark metal armor, adorned with symbols of that would induce fear into his
+opponents.  With one hand clenching his throne tightly, the other slides
+down a wicked-serrated two-handed sword, resting against his throne.
+~
+unique~
+ABFGST BD -1000 0
+42 0 5d50+2250 42d10+4400 3d12+14 blast
+-14 -14 -14 0
+CEFGH J 0 FN
+sit stand male 1000
+AHMV ABCDEFGHIJK large 0
+#22055
+Balghri oldstyle~
+Balghri~
+Something stirs in the water...
+~
+The Balghri is a relative of the dragon, only smaller, faster and more
+evil than any dragon ever was.  They are, by nature, vicious creatures who
+fight to the death (generally yours) thus making them the greatest
+guardians...  
+~
+unique~
+ABFGST BD -1000 0
+42 0 5d50+2250 42d10+4400 3d12+14 blast
+-14 -14 -14 0
+EGHIMN HIK 0 FJN
+stand stand none 3500
+ACHMVZ ABCDEFGHIJKPUVWX small 0
+#22056
+Ai'kan'ri~
+Ai'kan'ri~
+Prince Ai'kan'ri is here.
+~
+Prince Ai'kan'ri is a huge demon.  He awaits here for his father's death so
+he can rule this world.
+~
+unique~
+ABGST BDT -1000 0
+42 0 5d50+2250 42d10+4400 3d12+14 acbite 
+-14 -14 -14 0
+EGHIKN 0 0 IN
+sit stand male 2000
+AHMV ABCDEF large 0
+#22057
+Jarnha~
+Jarnha, second in command~
+Jarnha, advisor to Ka'kejnoik, is here, waiting for her master's call.
+~
+Women are reknown to be more devious than men, so it is no surprise to
+find a woman second-in-command here, she waits upon Ka'kejnoik's call
+attending to his needs.
+~
+unique~
+ABGST BD -1000 0
+42 0 5d50+2250 42d10+4400 3d12+14 slap 
+-14 -14 -14 0
+EFHIN IK 0 FLN
+stand stand female 2000
+AHMV ABCDEFGHIJK medium 0
+#22058
+Ka'kejnoik~
+Ka'kejnoik~
+Ka'kejnoik, ruler of the UnderWorld.
+~
+The ruler of this dreadful world.  He waits for word from his
+minions to see how the status of his citadel is.
+~
+unique~
+ABGST BDT -1000 0
+52 0 5d50+2250 42d10+4400 3d12+14 slash 
+-14 -14 -14 0
+CEGHIKO ABEHJK 0 FIN
+stand stand male 2332
+AHMV ABCDEF giant 0
+#22059
+large drake~
+a large drake~
+A large drake is resting here.
+~
+A huge drake lies here, restless at the inactivity.
+~
+unique~
+ABFGST BDT -1000 0
+42 0 5d50+2250 42d10+4400 3d12+14 blast
+-14 -14 -14 0
+EGHKMO HJK 0 FILN
+stand stand none 2999
+AHMV ABCDEFGHIJK giant 0
+#22060
+vicious demon~
+a vicious demon~
+A vicious demon stands here, awaiting its next victim.
+~
+Blood drips from its fangs as it swings its head towards you with a hungry
+look in its eye.  It stands well over twelve feet, and is thrice that of a
+normal human size.  It tenses its muscle to spring into action for battle.
+~
+unique~
+ABGST BT -1000 0
+42 0 5d50+2250 42d10+4400 3d12+14 pound 
+-14 -14 -14 0
+EFGHNO GHI 0 FKN
+stand stand male 1100
+AHMV ABCDEFGHIJK huge 0
+#22061
+Voconmen~
+Voconmen~
+Voconmen stands here.
+~
+Voconmen, the third in command of the underworld.  He rules with a mighty
+fist and a powerful magic only surpassed by Jarnha and Ka'kejnoik.  He seems
+oddly pleased at your arrival.
+~
+unique~
+ABFGST BT -1000 0
+42 0 5d50+2250 42d10+4400 3d12+14 slash 
+-14 -14 -14 0
+CDEFH HIQ K CFN
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0
+#22062
+fiend pit large~
+a large pit fiend~
+A large pit fiend guards the meat.
+~
+Standing twelve feet and well over six-hundred pounds, he guards the meat
+locker, probably from the carrion crawlers for whatever reason that may be.
+~
+unique~
+ABGT D -1000 0
+42 0 5d50+2250 42d10+4400 3d12+14 pierce 
+-14 -14 -14 0
+CDEFGH EM 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK large 0
+#22063
+carrion crawler~
+a carrion crawler~
+A carrion crawler is resting here.
+~
+A carrion crawler is resting here, finished with its meal.
+~
+unique~
+AT e -1000 0
+42 0 5d50+2250 42d10+4400 3d12+14 bite 
+-14 -14 -14 0
+FHM 0 0 0
+stand stand female 200
+I CDF large flesh
+#22064
+legionis mortuus~
+The legionis mortuus~
+One of the legion of the dead stands here.
+~
+He is one of the many in the Legionis mortuus, the legion of the dead.
+Unable to die or to feel pain these warriors fight with all the power of
+evil inside of them.  They have been commanded by their master to guard
+the citadel against all intruders.
+~
+unique~
+ABGO BD -1000 0
+32 0 5d10+1000 2d20+1000 6d4+9 slash
+-10 -10 -10 4
+CEHIK IQ 0 CFN
+stand stand male 2000
+AHMV ABCDEFGHIJK medium 0
+#22066
+monster deep~
+the monster of the deep~
+The monster of the deep splashes past you.
+~
+The monstrous creature before you looks very much like a large snake.
+The creature seems to move in the water like no other creature,the
+speed is astounding and the manouverability is just as amazing.
+This creature stops and bears its fangs....why is he doing that....
+He is one of the guardians of the deep...you have come to the wrong place and now you must pay for trespassing.
+
+The Monster of the deep attacks!!!!!!
+~
+unique~
+ABFGT T -1000 0
+32 0 5d10+1000 2d20+1000 6d4+9 pound 
+-10 -10 -10 4
+BDEFHO 0 L I
+stand stand male 0
+ABGHMVXYc ABCDEFKLQVX medium 0
+#22067
+Skeleton Levzim warrior~
+Levzim The skeleton warrior.~
+Levzim is here looking for his tombstone.
+~
+Levzim is walking around the dead grass looking for his tomb.  But he has
+no luck and turns to you and says "Have you seen my tomb."  
+~
+unique~
+ABOT Q -500 0
+32 0 5d10+1000 2d20+1000 6d4+9 slash
+-10 -10 -10 4
+FIKN 0 M N
+stand stand none 1000
+I ABCDEGHI small bone
+#22068
+Skeletal Gravedigger~
+skeletal gravedigger~
+A skeletal gravedigger appears before you.
+~
+{wIt is heard more than seen, but soon reveals itself from the shadows around you. Blackened bones mark its body and scraps of clothing cling to its once huge shoulders. You are nothing to it, and it just goes back to working.
+~
+unique~
+AB JQZc 0 0
+32 0 5d10+1000 2d20+1000 6d4+9 pierce 
+-10 -10 -10 4
+DFGIVX LRa Q FNS
+stand stand none 2000
+EHIM ABCEFGHIJKVW medium unknown
+#22299
+angel zephem~
+Zephem the Angel~
+Zephem the Angel, seems to be lost.
+~
+An angel stands here, looking very lost.  Its wings are tucked closed together, shielding itself from any harm.  It looks about with a blank stare, trying to get its bearings.
+~
+unique~
+ABG HKLae 5000 0
+88 100 5d19+500 5d5+100 1d3+110 divine
+-50 -44 -54 -60
+FIOVXa 0 N MQ
+stand morph male 500
+0 ABCDEFGIJKP medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#22300
+Cavern of the Fhoi Myore~
+Freezing air blows crisply through a vast cavern creating haunting
+whirling sounds that echo in a ghostly symphony.  Ice crystals reflect small
+trails of light casting blue-white rainbows on the frozen floor.  A putrid
+rotting smell, strong enough even the cold air fails to disperse it,
+permeates the cavern.  
+~
+0 8 0
+E
+mob~
+ed add mob
+ 
+~
+D1
+~
+~
+0 -1 22306
+D2
+~
+~
+1 -1 22302
+D3
+~
+~
+0 -1 22316
+D4
+~
+~
+0 0 22221
+D5
+~
+~
+2 -1 22122
+S
+#22302
+The Morgue~
+Black shadows envelop the room hiding large cold stone walls.  A thin
+layer of ice creeps along the floor and walls.  Spears of rock and ice
+thrust upward from the ground and down from the ceiling.  Thin ragged
+corpses reaking the potent odor of decay extend in stacks of four from the
+sharp stalagmites.  A damp cold wind moans through the morgue dispersing the
+pungent odor.  
+~
+0 1 1
+D0
+~
+~
+1 -1 22300
+D2
+~
+~
+1 -1 22303
+S
+#22303
+Necromancer's Laboratory~
+A small yellow-blue flame casts spirals of light along a smooth ebony
+obsidian floor.  Planes of smooth jet-black glass shoot skyward creating
+ebony walls until they are devoured by shadows.  Intricate carved patterns
+of arcane runes and occult symbols glow red on the walls and floors.  Set
+within black-marble sconces on the walls are four small torches that cast a
+small blue-yellow tint to the walls.  A chilly unnatural breeze emanates
+from the flames and symbols on the walls.  The room is blanketed in a thin
+black veil of shadowy mist.  
+~
+0 8 1
+D0
+~
+~
+1 -1 22302
+S
+#22306
+Stone Path~
+A harsh icy breeze whistles through the stone corridor from the east.  A
+thin frosty layer of ice crystals glisten in the small light of a lonley
+mounted sconce on the southern wall.  Intricate carvings of anguished faces
+ridden with a painful grimace and tortured eyes parade mournfully along the
+stone walls.  Intersperced among the faces are stone reliefs depicting
+ghastly scenes of torture and abuse.  
+~
+0 8 1
+D1
+~
+~
+0 -1 22307
+D3
+~
+~
+0 -1 22300
+S
+#22307
+Stone Path~
+The stone corridor grows steadily narrower and becomes steadily more
+crowded with stone statues.  The statues have an eerily realistic quality to
+them and are carved with amazing attention to detail and proportion.  One
+statue depicts a tiny sprite with a ghastly look of horror and shock
+wielding a stone dagger in defense.  Each of the multitude of statues wears
+a face contorted and twisted with pure terror and fright.  
+~
+0 8 1
+D2
+~
+~
+0 -1 22308
+D3
+~
+~
+0 -1 22306
+S
+#22308
+Stone Path~
+The procession of statues molds together in conjunction with the
+narrowing of the stone path creating a frightening claustrophobic effect. 
+The crowding continues to an unbearable point when it suddenly opens into a
+large spacious cavern.  Sitting within the cavern is a large stone
+constructed of the purest of black obsidian.  
+~
+0 8 1
+D0
+~
+~
+0 -1 22307
+D2
+~
+~
+0 -1 22309
+S
+#22309
+Medusa's Front Door~
+A door of pure obsidian rises from the grey-stone floor and molds into
+black obsidian walls.  Mounted on the door is an intricate and remarkably
+realistic stone knocker portraying a human head.  The face wears a contorted
+expression of shock and fright.  
+~
+0 8 1
+D0
+~
+~
+0 -1 22308
+D1
+~
+~
+1 -1 22310
+S
+#22310
+The Entrance Hall~
+The entrance hall is filled with an ominous silence.  The air is still
+and haunting.  Black stone walls enclose the hall.  Three old, beaten,
+mahogany doors lead in various directions.  A simple lamp casts a small glow
+and sits on a red wood table in the corner.  
+~
+0 8 1
+D0
+~
+~
+2 22319 22311
+D2
+~
+~
+1 22319 22313
+D3
+~
+~
+1 -1 22309
+S
+#22311
+The Shrine of Wrath~
+The old creaking door leads into an occult shrine.  A black stone altar
+grows from the dirt floor.  A cold swirling dark mist effervesces from the
+altar and fills the room with a maddening gas.  The stone walls glow red
+with occult engravings and runes.  Small stylized figures depict scenes of
+anger and horror.  
+~
+0 8 1
+E
+alter~
+A black mist emminates from the cold stone alter and envelops it in
+darkness.  Through the shadows small occult engravings glow red.  One
+particularly obvious engraving appears to be of a six tentacled creature.  
+~
+D2
+~
+~
+2 22319 22310
+D5
+~
+alter~
+2 22320 22312
+S
+#22312
+Wrath~
+Uncentered in this cryptic room is a shrine dedicated to a power of
+unstoppable power.  Shadows dance and tease as they mingle about the dark
+room.  The sound akin to a hissing breath whispers from time to time. 
+Suddenly, almost as if in a slow moving dream, sparks fly from the tip of
+steel as it is dragged along the obsidian wall.  Then all is quiet again.  
+~
+0 8 1
+D4
+~
+~
+2 22320 22311
+D5
+~
+~
+2 -1 22073
+S
+#22313
+An extended entrance hall~
+The pitch hallway continues both to the north and the east.  A melodic
+laughter fades in and out, never giving way to it direction.  Here evil
+seems to be lurking about, even the shadows could hold certain doom.  
+~
+0 8 0
+D0
+~
+~
+1 22319 22310
+D1
+~
+~
+1 -1 22314
+S
+#22314
+Chamber of a lich~
+Illumination melts from the cracks about the northern door and the faint
+smell of sulpher lingers in the stale air.  Looking upon the floor, carved
+in the dark cold stone, seems to be a magical glyph of warding.  
+~
+0 8200 0
+E
+serpent~
+{r          ,--------.
+           / <*\/*>'  \
+          /  /.__./=\  \
+         /   'v/v'/=|   \
+        (    /=|-===|    )
+         \   |=/-===|   /
+          \  \/\-==/   /
+           `.||====| .'
+             ||====| |
+             ||====| |
+             ||====| |
+             ||====| |
+             ||====| |           ___
+             ||====| |            \ \
+    .--------||====| |-------------` |
+   /   `.____||====| |______________/
+  /    /     ::====: |
+ /    /       \\====\ \
+|   -|         ``====` \
+|    |         ||====| |
+|    |         ||====| |
+|    |         ||====| |
+|     `.-------||====| |---------.
+ `             ||====| |          \
+  \            ||====| |           \
+    `._________;;====; |_____./     \
+              //====/  ;       \_    |
+             //====/  /        /     |
+            ||====| -`--------'\     |
+            \\====\                  |
+             \\====\________________//
+              `\_==_/_|_|_|_|_|_|_|/'
+ 
+~
+D0
+~
+~
+2 -1 22315
+D3
+~
+~
+1 -1 22313
+S
+#22315
+The Lich's Summoning Chamber~
+This room is in a shape of a huge sphere, with many glyphs of warding
+etched into the stone of the walls, ceiling, and floor in a curious pattern,
+probably to cotain some sort of creature.  A magical light hangs in the
+center of the otherwise bare room.  
+~
+0 533000 0
+D2
+~
+~
+2 -1 22314
+S
+#22316
+The Idol Room~
+A choking, suffocating mist cloaks the eastern entrance to the room,
+where frigid air meets flame.  Out of the mist, long, crooked fingers of
+mist grow and snake into the room's fiery center.  A brilliant, blinding
+inferno of flame and heat burns in the center of the room.  
+~
+0 8 1
+D1
+~
+~
+0 -1 22300
+D3
+~
+~
+0 -1 22317
+S
+#22317
+The Warrior's Way~
+A long procession of warriors bearing elaborate weapons and shields march
+east in a fresco adorning the walls.  The faces of the warriors fade from
+expressions of anger and pride, to one of fear and loathing as they approach
+the fiery entrance to the east.  The seering heat dissipates into a warm,
+gentle breeze pushing north.  
+~
+0 8 1
+D0
+~
+~
+0 -1 22081
+D1
+~
+~
+0 -1 22316
+D2
+~
+~
+0 -1 22318
+S
+#22318
+The Charred Corridor~
+The intricate fresco from the northern hall disappears into charred
+blackness.  The narrow corridor reeks of old flames and charred flesh. 
+Intense heat and molten rock invade from the east.  
+~
+0 8 1
+D0
+~
+~
+0 -1 22317
+D1
+~
+~
+0 -1 22319
+D3
+~
+~
+0 -1 22343
+S
+#22319
+A Charred Corridor~
+The scorching heat intensifies to nearly unbearable temperatures as the
+cavern continues south.  Intense, orange-yellow flames explode from crevices
+in the molten walls and floors.  The flames extend fierce claws outward,
+grasping for unwary victims.  The burnt remains of unrecognizable victims
+form a morbid parade of corpses, reeking of burned flesh and blood.  
+~
+0 8 0
+D2
+~
+~
+0 -1 22320
+D3
+~
+~
+0 -1 22318
+M -50 H -50
+S
+#22320
+A Musky Path~
+The deadly flames and intensifying heat suddenly disappear, leaving
+behind an eerie calm and silence.  The musky path is utterly silent and
+still.  A thick, heavy blanket of soot and dust envelops the walls and path
+in musky grey.  The only scent is the thick, heavy smell of musk and mildew.
+~
+0 9 1
+D0
+~
+~
+0 -1 22319
+D2
+~
+~
+0 -1 22327
+D3
+~
+~
+0 -1 22321
+S
+#22321
+Musky path~
+Thick clouds of dust grow from the ground as a gentle zephyr breezes
+along the corridor.  The small clouds grow and meet to form a quilt of dust
+particals encasing the entire corridor in their bleak greyness.  
+~
+0 9 1
+D1
+~
+~
+0 -1 22320
+D3
+~
+~
+0 -1 22322
+S
+#22322
+Musky path~
+Dust spores explode from the ground and mingle thickly through the air. 
+The grey murky air hides the walls and floor of the cavern.  The air
+thickens westward.  
+~
+0 9 1
+D1
+~
+~
+0 -1 22321
+D3
+~
+~
+0 -1 22323
+S
+#22323
+Musky path~
+A suffocating fog of dust and ash encase the corridor in grey darkness. 
+Subtle changes in light and solidity point the path southward, into a
+pitch-black cloud of ash.  
+~
+0 9 1
+D1
+~
+~
+0 -1 22322
+D2
+~
+~
+0 -1 22324
+S
+#22324
+End of the Musky Path~
+The path ends, disappointingly, in emptiness.  The black clouded corridor
+ends in nothing but a frenzy of sooty fumes and ash.  Yet, if one looks
+closer one can never tell about the secrets of this place.  
+~
+0 9 0
+E
+dust~
+HA HA! Fooled you. Still nothing here. Say good-bye to your pitiful existence, mortal!
+~
+D0
+~
+~
+0 -1 22323
+D5
+~
+~
+1 0 22140
+S
+#22327
+Nowhere~
+The walls seem to spiral and swirl in erratic patterns.  Brilliant colors
+burst forth and fade into darkness at random intervals.  Only the soft,
+misty ground appears to have stability.  
+~
+0 8 1
+D0
+~
+~
+0 -1 22320
+D3
+~
+~
+0 -1 22328
+S
+#22328
+Somewhere~
+The walls continue to spiral in a dizzying array of color and darkness. 
+This time, however, they swirl inwards, creating a vortex with you in the
+center.  Overwhelming forces push into the eye of the vortex, making
+movement and thought excruciatingly difficult.  
+~
+0 8 0
+D1
+~
+~
+0 -1 22327
+D3
+~
+~
+0 -1 22329
+S
+#22329
+Lost~
+The vortex calms, leaving only a void of confusion.  Dark mist clouds the
+edges of the room, but move and shift as they are approached to reveal doors
+from behind.  
+~
+0 8 1
+D1
+~
+~
+0 -1 22328
+D2
+~
+~
+0 -1 22330
+S
+#22330
+A Place to Choose~
+The mist clears to a light haze.  A path steps out of the mist and
+divides east or west.  At the crossroads, a small sign bears hasty,
+scrawling writing.  All the paths lead back into a thick mist, making it
+impossible to discern which route is safest.  
+~
+0 8 1
+E
+sign~
+"Stranger, do not proceed any furthur if you wish to walk out again" 
+~
+D0
+~
+~
+0 -1 22329
+D1
+~
+~
+1 -1 22333
+D3
+~
+~
+1 -1 22331
+S
+#22331
+Volcanic Chimney~
+Hot ash and seering air blast up the walls of the chimney.  The molten
+rock and walls appear to be solidified and cooled off.  The hot stench of
+burning rock and lava smell stale, as if the volcanic shaft had not been
+used in some time.  
+~
+0 8 9
+D1
+~
+~
+1 -1 22330
+D4
+~
+~
+0 -1 22332
+M -10 H -10
+S
+#22332
+The Lair of the Winged Demon~
+High above the volcano, its violent beauty can be observed by any passive
+observer.  Blasts of updraft occasionally singe the air with its choking
+sulfuric stench and cloudy vision in its ugly brown mist.  
+~
+0 0 9
+D5
+~
+~
+0 -1 22331
+M -75 H -75
+S
+#22333
+The Endless Path~
+You enter a dimly lit corridor only to have the oaken doors slammed shut
+behind you by an ungodly wind.  There is no choice but to go on.  
+~
+0 0 0
+D1
+~
+~
+1 -1 22334
+S
+#22334
+Endless Path~
+The god-forsaken path continues.  A thick forest of trees and heavy
+underbrush create an impassable wall to the north and south of the path. 
+Mayhap it really is a wall?  The only option is to continue east, or return
+west to the start of this hellish journey.  
+~
+0 8 0
+D1
+~
+~
+1 -1 22335
+D3
+~
+~
+1 -1 22333
+S
+#22335
+Endless Path~
+The path continues east and west for a seemingly endless journey.  The
+inpenetrable walls remain, encasing the hellish path in clausterphobic
+darkness.  A cold wind howls through the tunnel, pushing roughly east.  
+~
+0 8 0
+D1
+~
+~
+1 -1 22336
+D3
+~
+~
+1 -1 22334
+S
+#22336
+A Place to Choose~
+This room looks strangely familiar.  Dark clouds obscure all corners,
+except for a central crossroad spliting east or west.  A small, scratched
+up, old sign protrudes from the hard rock in the center of the path.  
+~
+0 8 0
+E
+sign~
+"Stranger, do not proceed any further if you wish to walk out again."  
+~
+D0
+~
+~
+1 -1 22337
+D1
+~
+~
+1 -1 22338
+D3
+~
+~
+1 -1 22335
+S
+#22337
+A Furnace~
+Flames spew from every direction creating a fiery furnace of blazing
+heat.  The room is clouded by oranges, reds, and yellow.  Suffocating fumes
+of sulphur and smoke engulf the room.  Tongues of seering yellows and
+oranges lick the walls with scalding heat.  
+~
+0 8 0
+D2
+~
+~
+1 -1 22336
+D5
+~
+~
+1 22317 22348
+S
+#22338
+The Endless Path~
+You enter a dimly lit corridor, only to have the huge oaken doors slammed
+shut behind you, by an ungodly wind.  You have no choice but to go on.  
+~
+0 8200 0
+D1
+~
+~
+1 -1 22339
+D3
+~
+~
+1 -1 22336
+S
+#22339
+THe Neverending Corridor~
+Perhaps it was a bad idea to keep travelling in this direction.  This
+passage looks pretty much like any other score you have encountered.  A
+sudden turn in the path looks hopeful however.  
+~
+0 8 0
+D2
+~
+~
+0 -1 22340
+D3
+~
+~
+1 -1 22338
+S
+#22340
+Screaming Chamber~
+The walls of this room seem to be alive.  If you listen carefully, you
+can hear an eerie screaming that seems to come from the walls themselves. 
+One of the walls bulges outwards suddenly, as if ready to unload its
+contents right here and right now.  
+~
+0 8 0
+D0
+~
+~
+0 -1 22339
+D3
+~
+~
+0 -1 22341
+S
+#22341
+Hoowwwwllllll~
+The scent of blood and animal stench the air.  The floor is decorated
+with claw marks from a beast of great proportion .  Tufts of hair pillow
+some rotting bones in a nest hidden in the corner.  
+~
+0 0 3
+D1
+~
+~
+0 -1 22340
+D3
+~
+~
+0 -1 22342
+S
+#22342
+Blind, Deaf, and Confused~
+The night is even darker here, if it were possible.  You can barely see a
+few feet ahead and your breathing is the only sound in this nightmarish
+void.  A ball of light appears to be dancing somewhere ahead, almost
+tauntingly.  
+~
+0 8200 0
+D1
+~
+~
+0 -1 22341
+D2
+~
+~
+0 -1 22333
+S
+#22343
+A Charred Corridor~
+It is getting warmer the more you travel westwards.  Thoughts of removing
+some restrictive pieces of armor to help cool down come to mind.  
+~
+0 8 0
+D1
+~
+~
+0 -1 22318
+D3
+~
+~
+0 -1 22344
+M -10 H -10
+S
+#22344
+A Charred Corridor~
+The walls of the corridor appear as if they were starting to melt from
+the heat.  Travel is difficult, as the floor has become a sludge-like
+material, sucking in legs and other appendages with alarming ferocity.  The
+only thing solid about this path is the small slit in the northern wall,
+strangely solid in the midst of this melting furnace.  
+~
+0 8 0
+D0
+~
+~
+1 -1 22345
+D1
+~
+~
+0 -1 22343
+D3
+~
+~
+2 22323 22346
+M -20 H -20
+S
+#22345
+An Alcove~
+Surprisingly, the heat from the room to the south does not penetrate into
+this small alcove.  A cursory glance around reveals the skeletal, and some
+not quite, remains of many adventurers no doubt trapped by the heat.  
+~
+0 8 0
+D5
+~
+~
+1 -1 22080
+S
+#22346
+A Dead End~
+The floor has become like quicksand and spurts of flame erupt from the
+dribbling walls.  From the piles of bones that litter this dead end, that is
+exactly what these souls came to.  The only other choice is a set of
+bubbling steps upwards that do not look very comforting.  
+~
+0 8 0
+D1
+~
+~
+2 22323 22344
+D4
+~
+~
+1 22324 22347
+M -30 H -30
+S
+#22347
+The Dragon's Lair~
+Even the walls seem to burn in this room, and the air feels like it is on
+fire.  A pool of lava bubbles ferociously in the center of the room,
+erratically spitting out chunks of air-borne magma.  
+~
+0 8 0
+D5
+~
+~
+1 22324 22346
+M -50 H -50
+S
+#22348
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D2
+~
+~
+0 -1 22349
+D4
+~
+~
+2 22317 22337
+S
+#22349
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22348
+D2
+~
+~
+0 -1 22050
+S
+#22050
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22349
+D2
+~
+~
+0 -1 22051
+S
+#22051
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22050
+D2
+~
+~
+0 -1 22052
+S
+#22052
+Forgotten Path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22051
+D2
+~
+~
+0 -1 22053
+S
+#22053
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22052
+D2
+~
+~
+0 -1 22054
+S
+#22054
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22053
+D1
+~
+~
+0 -1 22055
+S
+#22055
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D1
+~
+~
+0 -1 22056
+D3
+~
+~
+0 -1 22054
+S
+#22056
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D1
+~
+~
+0 -1 22057
+D3
+~
+~
+0 -1 22055
+S
+#22057
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D1
+~
+~
+0 -1 22058
+D3
+~
+~
+0 -1 22056
+S
+#22058
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D1
+~
+~
+0 -1 22059
+D3
+~
+~
+0 -1 22057
+S
+#22059
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D1
+~
+~
+0 -1 22060
+D3
+~
+~
+0 -1 22058
+S
+#22060
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22061
+D3
+~
+~
+0 -1 22059
+S
+#22061
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22062
+D2
+~
+~
+0 -1 22060
+S
+#22062
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22063
+D2
+~
+~
+0 -1 22061
+S
+#22063
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22064
+D2
+~
+~
+0 -1 22062
+S
+#22064
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22065
+D2
+~
+~
+0 -1 22063
+S
+#22065
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D2
+~
+~
+0 -1 22064
+D3
+~
+~
+0 -1 22066
+S
+#22066
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D1
+~
+~
+0 -1 22065
+D3
+~
+~
+0 -1 22067
+S
+#22067
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D1
+~
+~
+0 -1 22066
+D3
+~
+~
+0 -1 22068
+S
+#22068
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D1
+~
+~
+0 -1 22067
+D3
+~
+~
+0 -1 22069
+S
+#22069
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D1
+~
+~
+0 -1 22068
+D2
+~
+~
+0 -1 22070
+S
+#22070
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22069
+D2
+~
+~
+0 -1 22071
+S
+#22071
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22070
+D2
+~
+~
+0 -1 22072
+S
+#22072
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22071
+D2
+~
+~
+0 -1 22073
+S
+#22073
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22072
+D2
+~
+~
+0 -1 22074
+S
+#22074
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22073
+D2
+~
+~
+0 -1 22075
+S
+#22075
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22074
+D2
+~
+~
+0 -1 22076
+S
+#22076
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22075
+D2
+~
+~
+0 -1 22077
+S
+#22077
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22076
+D2
+~
+~
+0 -1 22078
+S
+#22078
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+0 -1 22077
+D2
+~
+~
+0 -1 22079
+S
+#22079
+Forgotten path~
+You walk along a path covered in spider webs and filled with dust.  You
+wonder if anyone else has ever been down here besides those who made it.  It
+seems this path is meant to lead somewhere secret and hidden.  Perhaps it
+is.....  
+~
+0 8 0
+D0
+~
+~
+2 22317 22300
+S
+#22080
+A Room Under the Alcove~
+This room is dark and seemingly peaceful.  It is a simple room, no
+affects or light anywhere.  It possibly could of been created as a place to
+hide from something worth hiding from.  
+~
+0 8 0
+D4
+~
+~
+1 -1 22345
+S
+#22081
+Warrior's Way~
+The strange fresco continues to the north and south.  This particular
+section tells the tale of the warriors of the ruined city of Thalos, who
+failed in their attempt to defend the city against a drow siege.  
+~
+0 0 1
+D0
+~
+~
+0 -1 22084
+D2
+~
+~
+0 -1 22317
+D3
+~
+~
+0 -1 22082
+D5
+~
+~
+1 -1 22119
+S
+#22082
+The Mural~
+The entire room is an extremely life-like mural, placing you on a
+battlefield to witness the annihilation of the warriors defending Thalos.  
+~
+0 0 1
+D1
+~
+~
+0 -1 22081
+D2
+~
+~
+0 -1 22083
+S
+#22083
+Torment of a Warrior~
+Upon these walls hangs torches with flames that never fade.  In the
+center stands a small pillar.  Upon the pillar is a statue of the general of
+the warriors of Thalos, looking hopeless and defeated.  
+~
+0 0 1
+D0
+~
+~
+0 -1 22082
+S
+#22084
+Warrior's Way~
+As one moves along this path, it is evident this depicts that path of the
+greatest warriors known in the history of the Land of Lore.  The protraits
+of these contenders hang in testament to their great achievements.  
+~
+0 8 0
+D0
+~
+~
+0 -1 22085
+D1
+~
+~
+0 -1 22092
+D2
+~
+~
+0 -1 22081
+S
+#22085
+Way of the Warrior~
+No matter what class you fall under, you can appreciate the greatness of
+the warriors of the past, their achievements, their attributes, their
+courage and above all their greatness.  
+~
+0 8 0
+D0
+~
+~
+0 -1 22086
+D1
+~
+~
+1 -1 22087
+D2
+~
+~
+0 -1 22084
+S
+#22086
+The End of Warrior's Way~
+The pathway comes to an abrupt end.  The final scenes of many battles
+fought are protrayed upon the wall.  They have the sense of empowerment and
+bravery of the warriors who's legends are told.  
+~
+0 8 0
+D2
+~
+~
+0 -1 22085
+S
+#22087
+A Crimson Walkway~
+The walls of this corridor seem to be covered in blood.  You wonder if
+this may be the blood of the warriors splattered here by the ones to remind
+you that even the brave will come to a bloody end.  
+~
+0 8 0
+D0
+~
+~
+0 -1 22088
+D3
+~
+~
+1 -1 22085
+S
+#22088
+A Corner Room~
+The walkway takes a sharp turn to the east.  The prescence of fear mocks
+those that walk that way, the lilting sound of an ominous groan grows with
+each footfall.  
+~
+0 8 0
+D1
+~
+~
+0 -1 22089
+D2
+~
+~
+0 -1 22087
+S
+#22089
+Crimson Pathway~
+The walkway continues eastward twords the woeful groaning.  A chill
+sweeps past, whispering words to one's mind.  Warning or teasing one about
+going forward.  
+~
+0 8 0
+D1
+~
+~
+0 -1 22090
+D3
+~
+~
+1 -1 22088
+S
+#22090
+Crimson Pathway~
+The pathway leads southward, the words {rSaVe YouRseLF{X are scrawled in
+crimson on the wall.  
+~
+0 8 0
+D2
+~
+~
+0 -1 22091
+D3
+~
+~
+1 -1 22089
+S
+#22091
+Talia's Statue Hall~
+This is another room monumenting a past hero.  Engraved into the stone
+walls are a list of accomplishments, followed by dire consquences of the
+action.  It seems Talia was some sort of cleric of Midgaard who helped purge
+the graveyard of undead, temporary at least.  In that time Midgaard expanded
+and built its own army, and when the undead returned they were strong enough
+to defend themselves, at the cost of Talia's life.  
+~
+0 8 0
+D0
+~
+~
+0 -1 22090
+S
+#22092
+A Twist in the Trail~
+The path here twists, the way to the west looks lighted and bright, while
+the path to the south looks dank and uninviting.  
+~
+0 8 0
+D2
+~
+~
+0 -1 22093
+D3
+~
+~
+0 -1 22084
+S
+#22093
+The Way of the Dead~
+Innumerable scratchings have been left on the walls here by those who
+have passed this way.  One in particular stands out from the rest, seeming
+to offer some morsel of wisdom.  
+~
+0 8 0
+E
+scratches~
+"Though when you read this stranger, I will be dead, I went forth knowing
+with braveheart, and such let it be said!"  
+~
+D0
+~
+~
+0 -1 22092
+D1
+~
+~
+0 -1 22094
+S
+#22094
+The Way of the Dead~
+Death is transcendental.  You walk from one room into another
+transcending time and space to discover more and more death and blood.  You
+wonder if the personification of Death would be just round the corner?  
+~
+0 8 0
+D1
+~
+~
+0 -1 22095
+D3
+~
+~
+0 -1 22093
+M -200 H -200
+S
+#22095
+The Way of the Dead~
+Alas poor life, one knew it well.  Death dares to encroach upon all those
+that walk these halls.  Even the walls mock and sap the life force from any
+that pass.  
+~
+0 8 0
+D0
+~
+~
+0 -1 22097
+D1
+~
+~
+0 -1 22096
+D3
+~
+~
+0 -1 22094
+M -300 H -300
+S
+#22096
+The End of the Dead~
+The end has come.  Tis a simple thing, something everyone faces at some
+point.  
+~
+0 8 0
+D3
+~
+~
+0 -1 22095
+M -500 H -300
+S
+#22097
+A Strange Junction~
+The path in the road of eternity forks into three separate choices.  A
+sign has been crudely constructed of bones of the dead, and some not so
+dead.  
+~
+0 8 0
+E
+sign~
+<-- The Path of Gathering    The path of light and darkness -->
+~
+D1
+~
+~
+0 -1 22100
+D2
+~
+~
+0 -1 22095
+D3
+~
+~
+0 -1 22098
+S
+#22098
+The Path of Gathering~
+The path leading up to the circle of stone is well worn from generations
+of use.  The grunts, snorts and occasional howl from the circle intrigue
+you.  
+~
+0 8 0
+D0
+~
+~
+0 -1 22099
+D1
+~
+~
+0 -1 22097
+S
+#22099
+The Circle of Stone~
+With the coming of the full moon, a pack of werewolves is gathering at
+this sacred cairn.  This is a ceremony best left unobserved by foreigners.  
+~
+0 8 0
+D2
+~
+~
+0 -1 22098
+S
+#22100
+A Gold and Black Path~
+You are witnessing a collision of two magics, which has undoubtedly
+caused the strangeness of this path.  All along the path the magics
+intertwine and separate, twisting off into the ether, causing a glowing
+black path.  
+~
+0 8 0
+D0
+~
+~
+2 22319 22120
+D1
+~
+~
+0 -1 22101
+D3
+~
+~
+0 -1 22097
+S
+#22101
+A Magical Twist~
+The path here takes a turn into the south and then sharply to the east. 
+The walls grow dark and then burst with gold light.  This display of awesome
+magical power leads you to appreciate the power of magic.  
+~
+0 8 0
+D2
+~
+~
+0 -1 22102
+D3
+~
+~
+0 -1 22100
+S
+#22102
+Meander~
+The magical meander flows like a fire kissing the walls with its soft
+touch.  The magic stems from the power of light and dark.  Beware the dark
+side, and fear the light.  
+~
+0 8 0
+D0
+~
+~
+0 -1 22101
+D1
+~
+~
+0 -1 22103
+S
+#22103
+Pulsation~
+The pulsations of different lights on the walls begins to swell, causing
+an odd humming sound.  The noise grows stronger and stronger to the point of
+ear shattering.  
+~
+0 8 0
+D0
+~
+~
+0 -1 22104
+D3
+~
+~
+0 -1 22102
+S
+#22104
+The Sergeant's Chamber~
+One of the many Demon sergeants in the underworld resides here.  You
+wonder why there are so many.  Now you discover the truth.  The power of the
+magical force is so great, it allows the Necromancer to clone his minions.  
+~
+0 8 0
+D1
+~
+~
+0 -1 22105
+D2
+~
+~
+0 -1 22103
+S
+#22105
+Corner of Darkened way and Gold corridor~
+You stand in a room which leads north and south....  And also to the room
+to west.  The pathway to the north leads to the Gold corridor whilst the
+pathway to the south leads to the Darkened way.  The room is a collage of
+darkness and gold light.  
+~
+0 8 0
+D0
+~
+~
+0 -1 22113
+D2
+~
+~
+0 -1 22106
+D3
+~
+~
+0 -1 22104
+S
+#22106
+The darkened way~
+The light grows dim -- you can barely see around you.  Your bright light
+seems to do nothing to penetrate the darkness.  It seems as if the darkness
+feeds upon it.  The way ahead seems even darker.  
+~
+0 8 0
+D0
+~
+~
+0 -1 22105
+D2
+~
+~
+0 -1 22107
+S
+#22107
+Darkened Way~
+Light seems to fade even more as one goes southward.  Darkness from the
+very pits of hell seem to of made its way here.  
+~
+0 8 0
+D0
+~
+~
+0 -1 22106
+D2
+~
+~
+0 -1 22108
+S
+#22108
+The Darkened Way~
+Here there is just enough light to be able to see that the walls, ceiling
+and floors are black as pitch.  Like night has blanketed this place, yet
+left the stars for someplace more worthy.  
+~
+0 9 0
+D0
+~
+~
+0 -1 22107
+D1
+~
+~
+0 -1 22111
+D2
+~
+~
+1 -1 22109
+S
+#22109
+The Dragon hall~
+Several fierce and mighty dragons lie here, waiting to be bestowed with
+terrifying destructive power.  What could possibly control these powerful
+beasts.  
+~
+0 8 0
+D0
+~
+~
+1 -1 22108
+D2
+~
+~
+0 -1 22110
+D3
+~
+~
+0 0 22204
+S
+#22110
+The throne of the Dragon mage~
+The lord of the dragons sits here,slowly becoming more and more like the
+subjects he rules...  He possesses the power of each individual dragon he
+rules....  And encompasses all of the types of dragon.  
+~
+0 8 0
+E
+zep~
+~
+D0
+~
+~
+0 -1 22109
+S
+#22111
+The Hall of Night~
+Something here is muttering about how dark and gloomy it is.  It is
+sitting in the northern part of the room, next to a black table made of
+Ancient Onyx.  
+~
+0 8 0
+D0
+~
+~
+2 -1 22112
+D3
+~
+~
+0 -1 22108
+S
+#22112
+The Seat Of Night~
+You step into a room which seems to suck light in, leaving absolute
+darkness....  A shadow slips away at the edge of sight....  
+~
+0 8 0
+D2
+~
+~
+2 -1 22111
+S
+#22113
+The Gold corridor~
+You enter a corridor with walls encrusted in gold, inscribed with age-old
+language that is unrecognizable.  The corridor stretches out before you and
+westward.  
+~
+0 8 0
+D2
+~
+~
+0 -1 22105
+D3
+~
+~
+0 -1 22114
+S
+#22114
+The Gold corridor~
+It is rather bright in this corridor.  The light reflects and refracts
+off all surfaces of this room.  The light seems to culminate in a glowing
+Gold ball in the middle of the room.  The ball has words inscribed upon it. 
+"The light shines in the darkness."  
+~
+0 8 0
+D1
+~
+~
+0 -1 22113
+D3
+~
+~
+0 -1 22115
+S
+#22115
+A King's Hall~
+A magnificent hallway unfolds before you with great Gold statues of
+enormous cats.  Before you stands two zombies guarding the great
+Gold-crusted double door.  
+~
+0 8 0
+D0
+~
+~
+0 -1 22116
+D1
+~
+~
+0 -1 22114
+S
+#22116
+Throne room ~
+There is an obviously long dead king sitting stately upon his throne,
+although who and what this king was is left up to the imagination.  All that
+is left are his skeletal remains.  The room itself is bare of anything of
+value.  
+~
+0 8 0
+D2
+~
+~
+0 -1 22115
+D3
+~
+~
+0 -1 22117
+S
+#22117
+The King's Wardrobe~
+This dressing chamber is fit for a king with a servant ready to serve you.  
+~
+0 8 0
+D1
+~
+~
+0 -1 22116
+D5
+~
+~
+2 22318 22118
+S
+#22118
+The Seat of the Seer~
+Here is the abode of a seer, who watches all for the king.  The hundreds
+of magical mirros around the room provide a shocking picture of what really
+happens here.  Unfortunately the magic to inactivate them has been lost in
+time.  
+~
+0 8 0
+D4
+~
+~
+2 22318 22117
+S
+#22119
+An Armory Depot~
+You stand in a room filled with a vast array of armor.  Most don't look
+crafted for the common races, but some pieces that look suitable catch your
+eye.  
+~
+0 0 1
+D4
+~
+~
+1 -1 22081
+S
+#22120
+The Ante Chamber~
+This secret chamber seems to be the ante chamber of a violent god.  Body
+parts are strewn across the room as an offering to this god.  Yet
+paradoxically, this feels like a place for rest and safety.  
+~
+0 1036 0
+D2
+~
+~
+2 22319 22100
+D4
+~
+~
+2 22320 22121
+M 200 H 200
+S
+#22121
+The Shrine of Naglagesh~
+The walls in this shrine are decorated with images of destruction, from
+ruiced cities to extinction of races.  A small statue lies in the middle,
+glistening with magical energies.  
+~
+0 0 1
+D5
+~
+~
+2 22320 22120
+S
+#22122
+The Caverns of the Lords of Ether~
+You have entered the realms of the Lords of Ether.  Those who control the
+ones who believe themselves to be the true rulers of elements.  A low
+chanting eminates from beneath your feet, like a low hum, building.  
+~
+0 8 0
+D1
+~
+~
+2 -1 22129
+D5
+~
+~
+2 22317 22123
+S
+#22123
+The Realm of Fire~
+A great ring of fire rotates in the center of the vast room.  Its walls
+surge upwards like blasts of flame and the paths to travel float above
+seething cauldrons of fire and lava.  
+~
+0 8 0
+D3
+~
+~
+1 -1 22131
+D4
+~
+~
+2 22317 22122
+D5
+~
+~
+2 22318 22124
+M -10 H -10
+S
+#22124
+The Realm of Water~
+A sphere of water floats at the apex of a geyser of steam.  The room is
+in constant flux, one moment solid ice, the next flowing water.  There is no
+telling when the icy floor underfoot will turn into water or vice versa.  
+~
+0 0 7
+D1
+~
+~
+0 -1 22133
+D4
+~
+~
+2 22318 22123
+D5
+~
+~
+2 22319 22125
+M 50 H 50
+S
+#22125
+The Realm of Stone~
+A circle of stones lies on the floor, each inscribed with strange runes. 
+Monumental spires of rock rise from the barren ground and gnash against each
+other at right angles in a frozen tableau of power.  
+~
+0 0 5
+D3
+~
+~
+1 -1 22135
+D4
+~
+~
+2 22319 22124
+D5
+~
+~
+2 22320 22126
+M 90 H 90
+S
+#22126
+The Realm of Air~
+Currents of air gather at the center of the room, creating a solid ball
+of ether.  Something seems to be inside, though that is the least of your
+worries.  Massive blasts of wind rise from nowhere and disappear just as
+quickly, and the thin walkway leading across the room shudders with each
+breath.  
+~
+0 0 1
+D1
+~
+~
+1 -1 22137
+D4
+~
+~
+2 22320 22125
+D5
+~
+~
+2 22322 22127
+M -10 H -10
+S
+#22127
+The Realm of Earth~
+A ring of upturned earth is in the center of the room, surrounded by
+chunks of sand, soil, and mud.  Some parts of the floor are sinking into the
+depths, while others are bursting upwards in geysers.  
+~
+0 0 1
+D3
+~
+~
+1 -1 22139
+D4
+~
+~
+2 22322 22126
+D5
+~
+~
+2 22324 22128
+M 50 H 50
+S
+#22128
+The Place of Summoning~
+You stand within an awesomely great cavern, with 5 sides.  Each wall is
+covered in strange symbols and runes.  In the centre of this cavern stands
+an enormous beast.  You are too late.  
+~
+0 0 1
+D0
+~
+~
+1 -1 22162
+D4
+~
+~
+2 22324 22127
+S
+#22129
+A Dark Cavern~
+This cavern is dark, morbid and unwelcoming.  The walls seem to be
+bleeding and spurting pus.  A stench of ether fills the entire cavern,
+turning the surrounding air to a greenish pigment.  
+~
+0 8 0
+D1
+~
+~
+0 -1 22130
+D3
+~
+~
+2 -1 22122
+S
+#22130
+A Small Prison~
+All about you are humanoid people, ranting and raving about demons,
+lichs, and other forms of undead that lurk in the area.  It doesn't seem
+like they are saying anything intelligible.  The room seems to resemble a
+small holding place, like a prison, but no one here is chained.  
+~
+0 8 0
+D3
+~
+~
+0 -1 22129
+S
+#22131
+The Room of Being~
+This room seems to have a strange affect on you, overcoming you with
+calmness.  
+~
+0 1024 1
+D1
+~
+~
+1 -1 22123
+D3
+~
+~
+0 -1 22132
+M 150 H 150
+S
+#22132
+The Room of Ostanek~
+This room is covered with trophies of kills of all sorts.  Off to the
+corner is a small straw bed, and west of it are tools to sharpen weapons and
+clean them.  
+~
+0 0 1
+D1
+~
+~
+0 -1 22131
+S
+#22133
+The Cavern of Trickery~
+This cavern has optical illusion designed all over its walls, making
+progress in any direction a bit tricky.  
+~
+0 0 1
+D1
+~
+~
+0 -1 22134
+D3
+~
+~
+0 -1 22124
+S
+#22134
+Den of an Imp~
+The den of an imp is painted in very colorful patterns to where it is
+hard to tell the size of the room.  Optical illusions are also painted to
+trick those not sharp of wit.  The place is filled with large humps and
+indentations in the walls, and the ceiling seems to bulge in to the room.  
+~
+0 0 1
+D3
+~
+~
+0 -1 22133
+S
+#22135
+Trance Room~
+Colors spin in the air in chaotic patterns, resembling some sort of
+scene.  The colors seem to thread through to the next room.  
+~
+0 0 1
+D1
+~
+~
+1 -1 22125
+D3
+~
+~
+1 -1 22136
+S
+#22136
+The Weaver's Loom~
+As you enter the room there are colours all around, swirling around you. 
+Where the colours come from is unclear.  
+~
+0 0 1
+D1
+~
+~
+1 -1 22135
+S
+#22137
+THe Sarcophagus of a Lich~
+Bodies of servants meant to follow their master into the afterlife to
+continue their task lie strewn all over the room.  
+~
+0 0 1
+D1
+~
+~
+0 -1 22138
+D3
+~
+~
+1 -1 22126
+S
+#22138
+A Lich's Tomb~
+You stand in a tomb covered in cobwebs and spiders.  Nothing of interest
+or value seems to be in this tomb.  No evidence of anybody inhabiting this
+tomb is also apparent.  
+~
+0 0 1
+D3
+~
+~
+0 -1 22137
+M 150 H 150
+S
+#22139
+Healing Room~
+You stand in a room specifically designed for healing.  If you desire to
+be healed ask for healing spells.  Ask Remus for help and he will provide.  
+~
+0 8 0
+D1
+~
+~
+1 -1 22127
+D3
+~
+~
+0 -1 22140
+M 200 H 200
+S
+#22140
+The Shop of Elixirs~
+You stand here in a shop of elixirs.  
+~
+0 8 0
+D1
+~
+~
+0 -1 22139
+D5
+~
+~
+1 -1 22141
+S
+#22141
+Entrance to the Forgotten Realm~
+You stand in an opaque coloured room.  The brightness of this room is
+astounding, and you feel a sense of achievement as you realise that you are
+one of the first to enter this secret area.  
+~
+0 8 0
+D1
+~
+~
+1 -1 22142
+D4
+~
+~
+1 -1 22140
+S
+#22142
+The Eastern Wing~
+As you enter the room, the walls start to vibrate and the room feels
+unholy and if you are still here you are greatly brave.  
+~
+0 0 1
+D1
+~
+~
+1 -1 22143
+D3
+~
+~
+1 -1 22141
+S
+#22143
+Devilish Corner~
+The room seems to be alive.  The runes on the wall seem to indicate that
+this is a place for ancient rituals to summon demons from another realm for
+sinister purposes.  
+~
+0 8 0
+D1
+~
+~
+1 -1 22144
+D3
+~
+~
+1 -1 22142
+S
+#22144
+A Dead End~
+This seems to be a dead end.  This may be the end of you as you notice
+the glowing red eyes in the corner staring at you.  
+~
+0 8 0
+D0
+~
+~
+1 -1 22145
+D2
+~
+~
+1 -1 22146
+D3
+~
+~
+1 -1 22143
+S
+#22145
+The Treasure Room~
+The room is filled with Gold statues and coins.  This is the room where
+all the demonlords store their wealth and objects from conquest.  
+~
+0 8 0
+D1
+~
+~
+2 -1 22160
+D2
+~
+~
+1 -1 22147
+S
+#22146
+A Room on the Lost Path~
+"You seem to be lost, dear traveller," says a voice in the corner....  Is
+there someone in here?  
+~
+0 0 1
+D0
+~
+~
+1 -1 22144
+S
+#22147
+The Lost Path~
+This path has no natural landmarks to identify your relative position. 
+All across you see a dark, winding path, providing barely any light.  
+~
+0 0 1
+D0
+~
+~
+1 -1 22145
+D3
+~
+~
+0 -1 22148
+S
+#22148
+The Lost Path~
+The path continues west and east, and still has no landmarks to get your
+bearings.  
+~
+0 0 1
+D1
+~
+~
+1 -1 22149
+D3
+~
+~
+1 -1 22150
+S
+#22149
+The lost path~
+The room seems like all the others that you have just travelled upon and
+the world seems less and less inviting, go back to whence you came.  
+~
+0 0 1
+D3
+~
+~
+1 -1 22145
+S
+#22150
+The Lost Path~
+Standing amidst the bleak and barren path, you can continue east or west.  
+~
+0 0 1
+D1
+~
+~
+1 -1 22151
+D3
+~
+~
+2 -1 22052
+S
+#22151
+The lost path~
+You are walking upon the path of all those who get lost...  Just go home
+and try again.  
+~
+0 0 1
+D3
+~
+~
+1 -1 22152
+S
+#22152
+The lost path~
+The path looks just the same.......  A sign shines on the wall.  ___ | |
+| | | | | | | | | | ____|_|_____ \ / \ / \ / \ / \ / \/
+************************************************************* You notice a
+door leading down...  Perhaps this is your ticket off the lost path.... 
+************************************************************* 
+~
+0 8 0
+E
+wall~
+As you travel throughout the Land of Lore you shall discover that there
+are many places of being lost...some with an exit and some
+with none....some of the places you will go to will seem
+inviting and some will not...
+
+A wise man once said "To chose your path without fear is to
+chose your path correctly...do not take the easy WAY OUT."
+
+~
+D1
+~
+~
+1 -1 22148
+D4
+~
+~
+1 -1 22157
+D5
+~
+~
+1 -1 22153
+S
+#22153
+A way out ~
+Dear traveller, You have stumbled upon the room where all travellers go
+to when they are lost.  There is no escape as you see the piles of bones in
+the corner...  Alas your days are over.  The only possible means of escape
+is to call for an immortal....  
+~
+0 8201 0
+D0
+~
+~
+1 -1 22153
+D1
+~
+~
+1 -1 22153
+D2
+~
+~
+1 -1 22153
+D3
+~
+~
+1 -1 22153
+D4
+~
+~
+1 -1 22153
+D5
+~
+~
+1 -1 22153
+S
+#22157
+A random maze~
+You stand in a pathway leading back down from where you came?  Or does it?  
+~
+0 8 0
+D3
+~
+~
+2 22317 22159
+D5
+~
+~
+1 -1 22158
+S
+#22158
+The lost path~
+Walking into the this room wasn't one of your best decisions...  Perhaps
+you should go back home.  
+~
+0 0 1
+D4
+~
+~
+1 -1 22157
+S
+#22159
+The lost shop~
+You stand in a shop that seems to have been lost for ages.  The
+shopkeeper looks as ancient as time itself...  This might be a good place to
+buy some equipment...  
+~
+0 8 0
+D1
+~
+~
+1 -1 22302
+S
+#22160
+The Treasure Room~
+You stand in a room filled with treasure fit for any royal being.  This
+room is filled with gold and jewlery that seems to be untouched for years.  
+~
+0 8 0
+D3
+~
+~
+2 -1 22161
+S
+#22161
+An dark passageway~
+You are standing in a dark passageway.  The light seems to have gone from
+this room, and {Ddeath {wfills the air.  
+~
+0 9 0
+D1
+~
+~
+2 -1 22145
+S
+#22162
+The Gateway to the Hidden Realms~
+You stand at an enormous black gate, guarded by stone demons on either
+side.  The gate seems alive- it is, in fact, woven of lost souls, damned for
+eternity.  
+~
+0 8200 0
+D0
+~
+~
+1 -1 22163
+D1
+~
+~
+2 -1 22164
+S
+#22163
+The Corridor of Fear~
+A black path stretches out before you, the light is so dim you cannot
+make out the path ahead.  You can only go on and discover for yourself what
+lies there, or return to the comfort of your home and live.  
+~
+0 8 0
+D0
+~
+~
+0 -1 22166
+D2
+~
+~
+1 -1 22162
+D4
+~
+~
+2 -1 22165
+S
+#22164
+The Barracks~
+The living quarters of some warriors is here, with rough bunks made from
+rock.  The next shift is readying itself for the change-over.  
+~
+0 8 0
+D3
+~
+~
+2 -1 22162
+S
+#22165
+Resting Place~
+A small cot lies in the middle of this room, inviting all to rest
+peacefully in this sanctuary.  The walls blunt all sounds coming from the
+outside, and the door seems to be sturdy enough to withstand the strongest
+of blows.  
+~
+0 1032 0
+D5
+~
+~
+2 -1 22189
+M 200 H 200
+S
+#22166
+The Corridor of Fear~
+The passage way comes to an end up ahead, at the base of an enormous
+black tower.  The citadel of the underworld, where the greatest evil lurks. 
+~
+0 8 0
+D0
+~
+~
+0 -1 22167
+D2
+~
+~
+1 -1 22163
+D3
+~
+~
+2 -1 22183
+S
+#22167
+The Moat~
+You stand at the edge of a boat, a cesspool of foul liquid.  Something
+moves on the water surface, generating ripples that catch your eye.  
+~
+0 8 7
+D0
+~
+~
+0 -1 22168
+D2
+~
+~
+1 -1 22166
+D3
+~
+~
+0 -1 22184
+S
+#22168
+The Entrance to the Citadel~
+You stand at the entrance to the black tower, it rises up in all its
+enormity in front of you, exuding a dark power.  
+~
+0 8 0
+D2
+~
+~
+1 -1 22167
+D4
+~
+~
+2 -1 22169
+S
+#22169
+The Guard Post~
+You step into the Citadel of Evil, the darkest place in all of the Lands.
+Muffles of howls and sizzling of magic fill the deathly stale air.  
+~
+0 8 0
+D1
+~
+~
+0 -1 22170
+D4
+~
+~
+1 -1 22169
+D5
+~
+~
+2 -1 22168
+S
+#22170
+The Hall of the Citadel~
+You stand in a royal hall, walls covered in shining black gems and
+windows hung with black silk, truly the realm of a very dark lord.  The
+silence is so heavy it seems to weigh you down.  
+~
+0 8 0
+D2
+~
+~
+0 -1 22171
+D3
+~
+~
+0 -1 22169
+D5
+~
+~
+2 -1 22179
+S
+#22171
+The Hall of the Citadel~
+You have come to the southern end of the hall.  There are stairs leading
+down from here.  
+~
+0 8 0
+D0
+~
+~
+0 -1 22170
+D5
+~
+~
+0 -1 22172
+S
+#22172
+High Court Junction~
+You stand at a crossing, to the east proceeds the high court corridor and
+to the north, the chambers of the high lords.  
+~
+0 8 0
+D0
+~
+~
+2 -1 22173
+D1
+~
+~
+0 -1 22176
+D4
+~
+~
+0 -1 22171
+S
+#22173
+The Prince's Chambers~
+You enter the chambers of the prince, heir to the throne of this world. 
+The giant demon is here waiting for his father's death, as he will soon rule
+this world.  
+~
+0 8 0
+D0
+~
+~
+2 -1 22174
+D2
+~
+~
+2 -1 22172
+S
+#22174
+The Grand Vizier's Chambers~
+Here is the chambers of the royal vizier, second in command of the forces
+in underworld and trusted advisor to Ka'kejnoik, her lord.  She waits here
+for his call.  
+~
+0 8 0
+D2
+~
+~
+2 -1 22173
+D4
+~
+~
+2 -1 22175
+S
+#22175
+The High Chambers~
+Ka'kejnoik's chambers are pure black, no light permitted in.  You gaze
+around at the walls, which are woven from the damned souls of the ages
+screaming for vengeance.  
+~
+0 9 0
+D5
+~
+~
+2 -1 22174
+S
+#22176
+The Stairs of Judgement~
+Stairs lead up from you to the walk of judgement, the path which every
+damned soul must walk.  
+~
+0 8 0
+D3
+~
+~
+0 -1 22172
+D4
+~
+~
+0 -1 22177
+S
+#22177
+The walk of Judgement~
+Here the path ahead looks gloomy, as indeed it is...  Ahead the seat of
+judgement where, sits a giant demon attending to matters too menial for his
+Lord.  
+~
+0 8 0
+D0
+~
+~
+0 -1 22182
+D1
+~
+~
+0 -1 22178
+D5
+~
+~
+0 -1 22176
+S
+#22178
+Seat of Judgement~
+This seems to be where the damned souls come for judgement without mercy.
+The Third in command sits in his chair dispensing unjustice to minor souls,
+leaving the more important matters to his lord.  
+~
+0 8 0
+D2
+~
+~
+2 -1 22180
+D3
+~
+~
+0 -1 22177
+S
+#22179
+An Empty Room~
+This is the storeroom for all items in the citadel.  You may just find
+something here one day.  
+~
+0 8 0
+D4
+~
+~
+2 -1 22170
+M 250 H 250
+S
+#22180
+The Chambers of Voconmen~
+You are in a big room, that is kinda plain and looks like a wierd house
+or something.  
+~
+0 0 1
+D0
+~
+~
+2 -1 22178
+D2
+~
+~
+2 -1 22181
+S
+#22181
+The Rest of the Beast~
+A rather large drake is here, waiting for the command from Ka'kejnoik to
+unleash his rage.  
+~
+0 0 1
+D0
+~
+~
+2 -1 22180
+S
+#22182
+The Holding Room~
+In here the souls of the damned are held until their trial, and they
+enjoy a few moments of peace before eternal torment is given to them in
+judgement.  
+~
+0 0 1
+D2
+~
+~
+0 -1 22177
+S
+#22183
+The Throne of Fear~
+Here upon his dark throne, a dark lord sits with a dark purpose.  Here
+the ruler of fear sits, contemplating how he should dispose of this
+intruder, who has disturbed his fearful thoughts.  
+~
+0 1 1
+D1
+~
+~
+2 -1 22166
+S
+#22184
+Alongside the Moat~
+As you walk along the edge of the moat, you notice a small entrance
+leading down.  It looks quite dark and mysterious, matching the eerie
+atmosphere of this side of the moat.  
+~
+0 0 1
+D1
+~
+~
+0 -1 22167
+D5
+~
+~
+2 -1 22185
+S
+#22185
+A Huge Maggot Pit~
+All about you the walls and ceiling is lined with festering maggots,
+seeming to make the room come alive.  Quite a few fall on you, wiggling
+wildly about.  You smell rotted flesh to the north and hear squishy,
+slurping noises to the south.  
+~
+0 8 0
+D0
+~
+~
+2 -1 22200
+D2
+~
+~
+0 -1 22186
+D4
+~
+~
+2 -1 22184
+S
+#22186
+A Corridor of Maggots~
+Maggots are everywhere -- the walls, the doors, the ceiling, the floor. 
+It seems surrealistic, everything about you moving about lively, yet all
+remains the same.  It continues southwards.  To the east and west are small
+rooms.  
+~
+0 0 1
+D0
+~
+~
+0 -1 22185
+D1
+~
+~
+2 -1 22199
+D2
+~
+~
+0 -1 22187
+D3
+~
+~
+2 -1 22198
+S
+#22187
+A Corridor of Maggots~
+The path continues here.  You constantly check your footing to make sure
+you don't fall flat on your back or face and have the maggots swarm you. 
+Peering east and west, you see larger maggots, or carrion crawlers.  
+~
+0 0 1
+D0
+~
+~
+0 -1 22186
+D1
+~
+~
+2 -1 22195
+D2
+~
+~
+0 -1 22188
+D3
+~
+~
+2 -1 22196
+S
+#22188
+A Twist in the Corridor~
+The amount of maggots in this section has tapered off considerably so you
+can tell that the walls are made of rock.  Off to the east you hear that
+squishy noise you heard at the entrance clearer and louder.  Off to the west
+you see a few carrion crawlers moving around.  
+~
+0 0 1
+D0
+~
+~
+0 -1 22187
+D1
+~
+~
+2 -1 22193
+D3
+~
+~
+2 -1 22194
+S
+#22189
+Way of the demon~
+You walk along a path that only the fiercest of demons walk.  You see
+some bones laying on the ground, perhaps from a fight for power.  You hear a
+demonic scream from the east.  
+~
+0 8 0
+D1
+~
+~
+0 -1 22190
+D4
+~
+~
+2 -1 22165
+S
+#22190
+Demon training room~
+You stand in a room where all the demons come to train to work for their
+master.  The art of magic and fighting is what they learn in this room.  
+~
+0 8 0
+D1
+~
+~
+2 -1 22163
+D3
+~
+~
+0 -1 22189
+S
+#22192
+Sleep~
+
+~
+0 1036 0
+S
+#22193
+Lair of a Huge Carrion Crawler~
+Interesting this room doesn't have maggots crawling about every inch of
+its surface.  There seem to be a few here and there in this huge lair.  In
+the middle of the room is an indentation into the rock, looking like a huge
+creature rests here often.  Strewn about this lair are humanoid bones.  
+~
+0 8 0
+D3
+~
+~
+2 -1 22188
+S
+#22194
+A Twist in the Corridor~
+The corridor twists to the east and north, the walls still lined with
+hundreds of thousands of maggots.  
+~
+0 8 0
+D0
+~
+~
+0 -1 22197
+D1
+~
+~
+2 -1 22188
+S
+#22195
+A Spawning Chamber~
+This room is filled with tiny maggots and medium sized carrion-crawlers. 
+They are all crawling about aimlessly over each other in every which way.  
+~
+0 8 0
+D3
+~
+~
+2 -1 22187
+S
+#22196
+A Twist in the Corridor~
+The corridor bends east and south here.  The maggots still keep you
+company with their constant squirming and falling from the ceiling onto you.
+~
+0 8 0
+D1
+~
+~
+2 -1 22187
+D2
+~
+~
+0 -1 22197
+S
+#22197
+A Carridor of Maggots~
+Maggots also made their way here, covering every single inch of the
+walls.  The corridor continues north and south.  
+~
+0 0 1
+D0
+~
+~
+0 -1 22196
+D2
+~
+~
+0 -1 22194
+S
+#22198
+A Spawning Chamber~
+This room looks like the other rooms, all covered with maggots, except
+you notice that there are larger forms in here that look similar to maggots.
+~
+0 8 0
+D1
+~
+~
+2 -1 22186
+S
+#22199
+A Spawning Chamber~
+This room looks like the other rooms, all covered with maggots, except
+you notice that there are larger forms in here that look similar to maggots.
+~
+0 8 0
+D3
+~
+~
+2 -1 22186
+S
+#22200
+The Meat Chamber~
+The smell of rotting flesh is very strong here, You see blood trails
+leading into each of the locker rooms to the north and west.  Somehow
+maggots are kept at bay from this place.  
+~
+0 0 2
+D0
+~
+~
+2 -1 22202
+D2
+~
+~
+2 -1 22185
+D3
+~
+~
+2 -1 22201
+S
+#22201
+A Meat Locker~
+Scores of bodies, both humanoid and exotic, hang from meat hooks on the
+walls and dangling by chains from the ceilings.  Some of the bodies still
+twitch, while others have shriveled up from years of decay.  The smell is
+almost unbearable.  
+~
+0 8 0
+D1
+~
+~
+2 -1 22200
+S
+#22202
+A Meat Locker~
+Scores of bodies, both humanoid and exotic, hang from meat hooks on the
+walls and dangling by chains from the ceilings.  Some of the bodies still
+twitch, while others have shriveled up from years of decay.  The smell is
+almost unbearable.  
+~
+0 8 0
+D2
+~
+~
+2 -1 22200
+S
+#22203
+{DUnderworld Cemetary{x~
+The ground becomes dark and seems to go on forever through the landscape.
+All you can see is a dark expanse barely lit by a blue moon.  Chillingly
+cold winds seem to tear at your flesh and your mind, a tombstone appears and
+the realization that you're in a graveyard comes to you.  Loud sounds of a
+graveyard comes to you.  Loud sounds of growling and a hacking sounds pierce
+nearby.  
+~
+0 524289 9
+D1
+~
+~
+0 0 22204
+M 3 H 5
+S
+#22204
+{DUnderworld Cemetary{x~
+The ground becomes dark and seems to go on forever through the landscape.
+All you can see is a dark expanse barely lit by a blue moon.  Chillingly
+cold winds seem to tear at your flesh and your mind, a tombstone appears and
+the realization that you're in a graveyard comes to you.  Loud sounds of
+growling and a hacking sounds pierce nearby.  
+~
+0 8193 9
+D1
+~
+~
+0 0 22109
+D3
+~
+~
+0 0 22203
+M 150 H 100
+S
+#22209
+The Descent~
+You fall further and further down the waterfall till at last you STOP.  
+~
+0 4 7
+S
+#22210
+The Ledge~
+You walk off the edge and seem to fall down forever till at last you land
+on this rocky ledge.  
+~
+0 0 7
+D5
+~
+~
+0 -1 22209
+S
+#22211
+Edge of a Canyon~
+You stand at what seems to be the edge of a large canyon.  There is a
+ledge in which you can lower yourself down.  
+~
+0 0 7
+D3
+~
+~
+0 -1 22216
+D5
+~
+~
+0 -1 22210
+S
+#22216
+Watery Passage~
+You seem to be travelling on a watery passage.  The water seems to be
+getting warmer...  To your east you can see the horizon.  The horizon seems
+to make the earth look FLAT, and perhaps the earth is FLAT.  
+~
+0 0 7
+D1
+~
+~
+0 -1 22211
+D3
+~
+~
+0 -1 22217
+S
+#22217
+Watery Passage~
+You seem to be travelling on a watery passage.  The water seems to be
+getting warmer...  To your east you can see the horizon.  The horizon seems
+to make the earth look FLAT, and perhaps the earth is FLAT.  
+~
+0 0 7
+D1
+~
+~
+0 -1 22216
+D3
+~
+~
+0 -1 22218
+S
+#22218
+Watery Passage~
+You seem to be travelling on a watery passage.  The water seems to be
+getting warmer...  To your east you can see the horizon.  The horizon seems
+to make the earth look FLAT, and perhaps the earth is FLAT.  
+~
+0 0 7
+D1
+~
+~
+0 -1 22217
+D3
+~
+~
+0 -1 22219
+S
+#22219
+Watery Passage~
+You seem to be travelling on a watery passage.  The water seems to be
+getting warmer...  To your east you can see the horizon.  The horizon seems
+to make the earth look FLAT, and perhaps the earth is FLAT.  
+~
+0 0 7
+D1
+~
+~
+0 -1 22218
+D3
+~
+~
+0 -1 22220
+S
+#22220
+Watery Passage~
+You seem to be travelling on a watery passage.  The water seems to be
+getting warmer...  To your east you can see the horizon.  The horizon seems
+to make the earth look FLAT, and perhaps the earth is FLAT.  
+~
+0 0 7
+D1
+~
+~
+0 -1 22219
+S
+#22221
+Link to Underworld~
+
+~
+0 0 0
+D4
+~
+~
+0 0 4115
+D5
+~
+~
+0 0 22300
+S
+#0
+
+
+
+#SPECIALS
+M 22305 spec_breath_frost
+M 22308 spec_cast_cleric
+M 22310 spec_breath_fire
+M 22311 spec_cast_undead
+M 22316 spec_poison
+M 22317 spec_breath_frost
+M 22319 spec_nasty
+M 22320 spec_breath_any
+M 22322 spec_breath_fire
+M 22323 spec_cast_cleric
+M 22324 spec_cast_undead
+M 22325 spec_breath_fire
+M 22326 spec_breath_frost
+M 22327 spec_breath_gas
+M 22328 spec_breath_acid
+M 22329 spec_breath_lightning
+M 22330 spec_cast_judge
+M 22331 spec_breath_lightning
+M 22334 spec_nasty
+M 22335 spec_nasty
+M 22336 spec_cast_adept
+M 22340 spec_thief
+M 22343 spec_breath_fire
+M 22345 spec_breath_any
+M 22347 spec_nasty
+M 22050 spec_nasty
+M 22054 spec_breath_lightning
+M 22055 spec_breath_any
+M 22057 spec_nasty
+M 22058 spec_breath_any
+M 22059 spec_cast_judge
+M 22060 spec_breath_any
+M 22061 spec_cast_judge
+M 22064 spec_cast_undead
+M 22066 spec_poison
+S
+
+
+
+#RESETS
+D 0 22309 1 1
+D 0 22310 0 2
+D 0 22310 2 2
+D 0 22310 3 1
+D 0 22311 5 2
+D 0 22312 4 1
+D 0 22312 5 2
+D 0 22313 0 2
+D 0 22313 1 1
+D 0 22314 0 1
+D 0 22314 3 1
+D 0 22315 2 1
+D 0 22324 5 1
+D 0 22330 3 1
+D 0 22331 1 1
+D 0 22333 1 1
+D 0 22334 1 1
+D 0 22334 3 1
+D 0 22335 3 1
+D 0 22336 0 1
+D 0 22337 2 1
+D 0 22337 5 2
+D 0 22338 1 1
+D 0 22339 3 1
+D 0 22344 3 2
+D 0 22345 5 1
+D 0 22346 1 2
+D 0 22346 4 2
+D 0 22347 5 2
+D 0 22348 4 2
+D 0 22079 0 2
+D 0 22080 4 1
+D 0 22081 5 1
+D 0 22085 1 1
+D 0 22087 3 1
+D 0 22089 3 1
+D 0 22090 3 1
+D 0 22100 0 2
+D 0 22108 2 1
+D 0 22109 0 1
+D 0 22111 0 1
+D 0 22112 2 1
+D 0 22117 5 2
+D 0 22118 4 2
+D 0 22119 4 1
+D 0 22120 2 2
+D 0 22120 4 2
+D 0 22121 5 1
+D 0 22122 1 1
+D 0 22122 5 2
+D 0 22123 3 1
+D 0 22123 4 1
+D 0 22123 5 2
+D 0 22124 4 1
+D 0 22124 5 2
+D 0 22125 3 1
+D 0 22125 4 1
+D 0 22125 5 2
+D 0 22126 1 1
+D 0 22126 4 1
+D 0 22126 5 2
+D 0 22127 3 1
+D 0 22127 4 1
+D 0 22127 5 2
+D 0 22128 4 1
+D 0 22129 3 1
+D 0 22131 1 1
+D 0 22135 1 1
+D 0 22137 3 1
+D 0 22139 1 1
+D 0 22140 5 1
+D 0 22141 1 1
+D 0 22142 1 1
+D 0 22142 3 1
+D 0 22143 1 1
+D 0 22143 3 1
+D 0 22144 0 1
+D 0 22144 2 1
+D 0 22145 1 1
+D 0 22145 2 1
+D 0 22147 0 1
+D 0 22148 1 1
+D 0 22148 3 1
+D 0 22149 3 1
+D 0 22150 1 1
+D 0 22150 3 1
+D 0 22151 3 1
+D 0 22152 1 1
+D 0 22152 4 1
+D 0 22152 5 1
+D 0 22153 0 1
+D 0 22153 1 1
+D 0 22153 2 1
+D 0 22153 3 1
+D 0 22153 4 1
+D 0 22153 5 1
+D 0 22157 3 2
+D 0 22157 5 1
+D 0 22158 4 1
+D 0 22159 1 1
+D 0 22160 3 1
+D 0 22161 1 1
+D 0 22162 0 1
+D 0 22162 1 1
+D 0 22163 2 1
+D 0 22163 4 1
+D 0 22164 3 1
+D 0 22165 5 1
+D 0 22166 2 1
+D 0 22166 3 1
+D 0 22167 2 1
+D 0 22168 2 1
+D 0 22168 4 1
+D 0 22169 4 1
+D 0 22169 5 1
+D 0 22170 5 1
+D 0 22172 0 1
+D 0 22173 0 1
+D 0 22173 2 1
+D 0 22174 2 1
+D 0 22174 4 1
+D 0 22175 5 1
+D 0 22178 2 1
+D 0 22179 4 1
+D 0 22180 0 1
+D 0 22180 2 1
+D 0 22181 0 1
+D 0 22183 1 1
+D 0 22184 5 1
+D 0 22185 0 1
+D 0 22185 4 1
+D 0 22186 1 1
+D 0 22186 3 1
+D 0 22187 1 1
+D 0 22187 3 1
+D 0 22190 1 1
+D 0 22195 3 1
+D 0 22196 1 1
+D 0 22198 1 1
+D 0 22199 3 1
+D 0 22202 2 1
+M 0 22316 1 22300 1
+M 0 22317 1 22300 1
+M 0 22318 1 22300 1
+M 0 22319 1 22300 1
+M 0 22323 1 22303 1
+M 0 22300 7 22306 2
+M 0 22301 8 22308 1
+M 0 22321 2 22309 1
+M 0 22306 1 22312 1
+M 0 22303 1 22313 1
+M 0 22303 7 22313 1
+M 0 22324 1 22315 1
+M 0 22310 1 22316 1
+M 0 22301 8 22318 1
+M 0 22300 7 22321 2
+M 0 22301 8 22323 1
+M 0 22302 7 22327 2
+M 0 22342 1 22328 1
+M 0 22315 6 22329 1
+M 0 22303 7 22331 1
+M 0 22312 1 22332 1
+M 0 22301 8 22334 1
+M 0 22302 7 22336 2
+M 0 22321 2 22337 1
+M 0 22301 8 22339 1
+M 0 22315 6 22340 1
+M 0 22302 7 22341 1
+M 0 22313 4 22342 2
+M 0 22313 4 22345 1
+M 0 22322 1 22347 1
+M 0 22334 4 22052 1
+M 0 22334 4 22054 1
+M 0 22334 4 22057 1
+M 0 22334 4 22062 1
+M 0 22315 6 22081 1
+M 0 22307 1 22083 1
+M 0 22300 7 22086 1
+M 0 22303 7 22087 1
+M 0 22300 7 22088 1
+M 0 22308 1 22091 1
+M 0 22301 8 22092 1
+M 0 22303 7 22094 1
+M 0 22301 8 22096 1
+M 0 22300 7 22097 1
+M 0 22315 6 22098 1
+M 0 22302 7 22099 2
+M 0 22301 8 22104 1
+M 0 22303 7 22106 1
+M 0 22313 4 22109 1
+M 0 22320 1 22110 1
+M 0 22299 1 22110 1
+M 0 22315 6 22111 1
+M 0 22305 1 22112 1
+M 0 22315 6 22113 1
+M 0 22303 7 22115 2
+M 0 22309 1 22116 1
+M 0 22335 1 22116 1
+M 0 22341 1 22117 1
+M 0 22311 1 22118 1
+M 0 22331 1 22121 1
+M 0 22325 1 22123 1
+M 0 22326 1 22124 1
+M 0 22328 1 22125 1
+M 0 22327 1 22126 1
+M 0 22329 1 22127 1
+M 0 22330 1 22128 1
+M 0 22332 1 22130 1
+M 0 22333 1 22132 1
+M 0 22338 1 22134 1
+M 0 22340 1 22136 1
+M 0 22336 1 22139 1
+M 0 22337 1 22140 1
+M 0 22345 1 22153 1
+M 0 22344 1 22159 1
+M 0 22343 1 22160 1
+M 0 22052 4 22162 2
+M 0 22052 4 22164 2
+M 0 22055 2 22167 2
+M 0 22064 4 22169 1
+M 0 22064 4 22171 1
+M 0 22056 1 22173 1
+M 0 22057 1 22174 1
+M 0 22058 1 22175 1
+M 0 22064 4 22176 1
+M 0 22061 1 22178 1
+M 0 22059 1 22181 1
+M 0 22064 4 22182 1
+M 0 22054 1 22183 1
+M 0 22060 2 22190 2
+M 0 22050 1 22193 1
+M 0 22051 1 22194 1
+M 0 22063 1 22194 1
+M 0 22347 1 22195 1
+M 0 22348 1 22196 1
+M 0 22346 4 22198 1
+M 0 22346 4 22199 1
+M 0 22062 1 22201 1
+M 0 22053 1 22202 1
+M 0 22068 1 22203 1
+M 0 22067 1 22204 1
+S
+
+
+
+#SHOPS
+22337 10 2 3 4 26 100 50 0 23
+22341 9 9 9 9 9 100 50 0 23
+22344 9 3 2 1 5 100 50 0 23
+0
+
+
+
+#$
