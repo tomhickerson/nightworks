@@ -585,7 +585,7 @@ gate~
 D2
 ~
 ~
-0 -1 -1
+0 -1 22648
 E
 gate~
 The gate is made of adamantium, a supposedly indestructable material that the
@@ -948,7 +948,109 @@ D0
 D1
 ~
 ~
+0 -1 22647
+S 
+#22647
+Treasure cave of the Shadow Dragon~
+This is the a rather small cavern, containing the hoard of the Shadow dragon.
+Objects that he has collected from all about the realm are abondant in this
+room, as well as several skeletal remains of their former owners.
+~
+0 0 0
+D3
+~
+~
+0 -1 22646
+S 
+#22648
+The Underdark~
+The tunnels and caves lead north and west here. Far to the west, you can see
+the beginning of a huge cavern.
+~
+0 0 0
+D0 
+~
+~
+0 -1 22626
+D3
+~
+~
+0 -1 22649
+E
+cavern~
+The huge cavern to the west gives of a slight greenish blue color, as if
+there is something glowing inside of it.~
+S 
+#22649
+The Underdark~
+The rough tunnels and caves lead east and west here. To the west, you see 
+the entrance to a huge cavern.
+~
+0 0 0 
+D1 
+~
+~
+0 -1 22648 
+D3 
+~
+~
+0 -1 22650
+S
+#22650
+The City Gates~
+You see massive {Wgates{x guarding the entrance of the city of Nearbealum. The
+gates are open, but could be closed at any time. They are made of the same
+adamantium the darkelfs have used elsewhere in the underdark, and glow with
+a soft green light. Beyond the gates you see a huge cavern in which a
+glorious city abounds. Underneath the beauty, however, you can just detect
+a hint of viciousness, as if the entire {Wcity{x is poised, ready to strike.
+~
+0 0 0
+D1
+~
+~
+0 -1 22649 
+D3 
+~
+~
 0 -1 -1
+E
+city~
+The city is one of the most beautiful sights you have ever seen. It spans
+a cavern about two miles across at ist widest point. The ceiling rises
+a thousand feet high, and its floor is studded with many stalagmites and
+lesser pillars. You see row upon row of carved, spired stone castles,
+their salient points and sculpted highlights lit by the soft, tinted flows
+of permanent illusionary fire. Everystone in the cavern has been worked
+into a smooth, unbroken, unjointed expanse.~
+E
+gates~
+The gates are made of adamantium, and seem to pulse with a soft black glow.
+There are 2 huge spider statues standing on either side of the gate, which
+seem to look directly at you as you stand there.~
+S  
+#22651
+Path to the City~
+You are on a path leading to the city of Nearbealum. On both sides of the path
+you see deep {Wchasms{x, leading far down into the darkness. The path leads west
+into the {Wcity{x and east through some gates into the underdark.
+~
+0 0 0
+D1
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 22650
+E 
+chasms~
+The chasm drops several hundred feet, and you can just make out the bottom.~
+E
+city~
+The city looks quite intimidating at this distance. It looks as if many
+riches could be found inside the city, but at dangerous cost.~
 S 
 #0
 
