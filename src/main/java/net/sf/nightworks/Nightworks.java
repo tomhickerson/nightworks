@@ -2309,6 +2309,10 @@ public final class Nightworks {
         int nplayer;
         int low_range;
         int high_range;
+        // adding totals to calc average level and alignment
+        int total_levels;
+        int total_align;
+        int total_mobs;
         int min_vnum;
         int max_vnum;
         boolean empty;
