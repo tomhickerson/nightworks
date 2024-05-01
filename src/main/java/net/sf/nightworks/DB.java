@@ -43,6 +43,7 @@ import static net.sf.nightworks.Magic.slot_lookup_skill_num;
 import static net.sf.nightworks.MobProg.mprog_set;
 import static net.sf.nightworks.Nightworks.*;
 import static net.sf.nightworks.Note.load_notes;
+import static net.sf.nightworks.ObjProg.fight_prog_ancient_gloves;
 import static net.sf.nightworks.ObjProg.oprog_set;
 import static net.sf.nightworks.Recycle.get_mob_id;
 import static net.sf.nightworks.Recycle.new_char;
@@ -692,6 +693,9 @@ public class DB {
         pArea.count = 0;
         pArea.resetmsg = null;
         pArea.area_flag = 0;
+        pArea.total_levels = 0;
+        pArea.total_align = 0;
+        pArea.total_mobs = 0;
 
         if (area_first == null) {
             area_first = pArea;
@@ -861,7 +865,9 @@ public class DB {
             pMobIndex.form = race.form;
             pMobIndex.parts = race.parts;
 //            }
-
+            Serarea.total_mobs++;
+            Serarea.total_align += pMobIndex.alignment;
+            Serarea.total_levels += pMobIndex.level;
             if (letter != 'S') {
                 bug("Load_mobiles: vnum %d non-S.", vnum);
                 exit(1);
@@ -2581,7 +2587,7 @@ public class DB {
             for (pArea = area_first; pArea != null; pArea = pArea.next) {
                 if (ch.level >= pArea.low_range && ch.level <= pArea.high_range
                         && !IS_SET(pArea.area_flag, AREA_IS_HIDDEN)) {
-                    bufpage.append(formatAreaDetails(ch, pArea) + "\n");
+                    bufpage.append(formatAreaDetails(ch, pArea, levelsOnly) + "\n");
                     count++;
                     if (count > 10) {
                         break;
@@ -2603,8 +2609,8 @@ public class DB {
             bufpage.append("Current areas of Spellbound MUD: \n");
             Formatter f = new Formatter(bufpage);
             for (iArea = 0; iArea < iAreaHalf; iArea++) {
-                String buf1 = formatAreaDetails(ch, pArea1);
-                String buf2 = (pArea2 != null) ? formatAreaDetails(ch, pArea2) : "\n";
+                String buf1 = formatAreaDetails(ch, pArea1, levelsOnly);
+                String buf2 = (pArea2 != null) ? formatAreaDetails(ch, pArea2, levelsOnly) : "\n";
                 if (IS_SET(ch.act, PLR_COLOR)) {
                     f.format("%-69s %s\n", buf1, buf2);
                 } else {
@@ -2621,12 +2627,31 @@ public class DB {
         page_to_char(bufpage, ch);
     }
 
-    private static String formatAreaDetails(CHAR_DATA ch, AREA_DATA pArea) {
+    private static String formatAreaDetails(CHAR_DATA ch, AREA_DATA pArea, boolean notAll) {
         Formatter f = new Formatter();
         if (IS_SET(pArea.area_flag, AREA_IS_HIDDEN) && !IS_IMMORTAL(ch)) {
             f.format("{W(%2d %3d){x {B%s {R[[REDACTED]]{x", pArea.low_range, pArea.high_range, pArea.writer);
         } else {
-            f.format("{W(%2d %3d){x {B%s {C%s{x", pArea.low_range, pArea.high_range, pArea.writer, pArea.credits);
+            if (pArea.total_mobs > 0 && notAll) {
+                int avg_align = pArea.total_align / pArea.total_mobs;
+                String align = "";
+                if (avg_align < -500) {
+                    align = "{2Very Evil{C";
+                } else if (avg_align < -200) {
+                    align = "{5Evil{C";
+                } else if (avg_align > 200 && avg_align <= 500) {
+                    align = "{WGood{C";
+                } else if (avg_align > 500) {
+                    align = "{WVery Good{C";
+                } else {
+                    align = "{8Neutral{C";
+                }
+                int avg_level = pArea.total_levels / pArea.total_mobs;
+                f.format("{W(%2d %3d, average %2d){x {B%s {C%s (%s){x", pArea.low_range, pArea.high_range,
+                        avg_level, pArea.writer, pArea.credits, align);
+            } else {
+                f.format("{W(%2d %3d){x {B%s {C%s{x", pArea.low_range, pArea.high_range, pArea.writer, pArea.credits);
+            }
         }
         return f.toString();
     }
@@ -3270,6 +3295,10 @@ public class DB {
             pMobIndex.material = fp.fread_word();
             pMobIndex.mprogs = null;
             pMobIndex.progtypes = 0;
+
+            Serarea.total_mobs++;
+            Serarea.total_levels += pMobIndex.level;
+            Serarea.total_align += pMobIndex.alignment;
 
             for (; ; ) {
                 letter = fp.fread_letter();
