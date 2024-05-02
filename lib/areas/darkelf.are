@@ -1039,7 +1039,7 @@ into the {Wcity{x and east through some gates into the underdark.
 D1
 ~
 ~
-0 -1 -1
+0 -1 22652
 D3
 ~
 ~
@@ -1051,6 +1051,58 @@ E
 city~
 The city looks quite intimidating at this distance. It looks as if many
 riches could be found inside the city, but at dangerous cost.~
+S 
+#22652
+Nearbealum~
+You have entered the city of Nearbealum. Great darkelf houses and mansions
+are all around you. Entering any of the houses yards would surely be fatal,
+as you can see the guards of each house eye you dangerously. You can travel
+west deeper into the city, or east to a path.
+~
+0 0 0
+D1
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 22651
+E 
+houses~
+The houses vary in size and power, but each seem to be quite dangerous, and
+impossible to enter.~
+E
+guards~
+Dozens of guards patrol each house, making it fatal to attempt to enter any
+of them.~
+S 
+#22653
+Glowstone of Nearbealum~
+You enter an area in the center of the city. This square is dominated by
+a large piller of softly glowing rock. You cannot discern its function. You
+can exit in all directions here.
+~
+0 0 0 
+D0 
+~
+~
+0 -1 -1
+D1 
+~
+~
+0 -1 22652
+D2
+~
+~
+0 -1 -1
+D3 
+~
+~
+0 -1 -1
+E
+glow stone pillar~
+The stone is slightly glowing and gives of a faint trace of heat.~
 S 
 #0
 
