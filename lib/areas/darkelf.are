@@ -1087,7 +1087,7 @@ can exit in all directions here.
 D0 
 ~
 ~
-0 -1 -1
+0 -1 22656
 D1 
 ~
 ~
@@ -1095,14 +1095,82 @@ D1
 D2
 ~
 ~
-0 -1 -1
+0 -1 22657
 D3 
+~
+~
+0 -1 22655
+E
+glow stone pillar~
+The stone is slightly glowing and gives of a faint trace of heat.~
+S 
+#22654
+Inside the Glowstone of Nearbealum~ 
+You are inside the glowstone of Nearbealum.
+~
+0 0 0
+D4 
+~
+~
+0 -1 22653
+S 
+#22655
+Nearbealum~
+The city continues east here, and there are noble houses to the north and
+south. To the west you can enter a large temple.
+~
+0 0 0
+D1
+~
+~
+0 -1 22653
+D3
 ~
 ~
 0 -1 -1
 E
-glow stone pillar~
-The stone is slightly glowing and gives of a faint trace of heat.~
+houses~
+The houses are many and varied, and patrolled by dozens of guards.~
+S 
+#22656
+Nearbealum~
+The city continues south here, and there are noble houses to the east and
+west. To the north is the darkelf fighter's guild.
+~
+0 0 0
+D0
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 22653
+E
+houses~
+The noble houses vary in size, but all are guarded by dozens of darkelf
+warriors.~
+E 
+guild~
+The guild building is large, but plain and unadorned.~
+S 
+#22657
+Nearbealum~
+The city continues north here, and there are noble houses to the east and
+west. To the south is a dark tower reeking of magic.
+~
+0 0 0
+D0
+~
+~
+0 -1 22653
+D2 
+~
+~
+0 -1 -1
+E 
+tower~
+The tower is tall and completely black. It exudes powerful magic dwealmers.~
 S 
 #0
 
