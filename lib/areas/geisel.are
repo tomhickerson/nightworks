@@ -1,0 +1,2172 @@
+#AREA
+geisel.are~
+Geisel's Rainforest~
+{10 60} Absal/Enig  Geisel's Rainforest~
+19800 19899
+
+#MOBILES
+#19800
+chromatic dragon~
+the Chromatic Dragon~
+A dragon of many colors stomps around here, trying to perfect its nest.
+~
+The chromatic dragon eyes you balefully as she stomps furious circles
+around her nest, flattening out the straw.  The scales that coat her body
+range from one end of the spectrum to the other, shimmering in the light
+like a segmented rainbow.  Her eyes appear to be black, but on closer
+examination, they are actually a mixture of liquid reds, blues, and greens. 
+~
+unique~
+ABCF DFN -325 0
+55 8 5d10+700 9d10+1000 5d6+13 shbite
+-13 -13 -13 -13
+ACFGM AB DFH IY
+rest rest female 0
+AHZ ACDEFHJKLOPQUVWXY giant 0
+#19801
+verpal vole~
+a verpal vole~
+A huge burrowing beast digs here, gnawing at the roots of the trees.
+~
+The huge vole blunders blindly about, sensing his way through the
+environment with a keen nose that is always perking up at another delicious
+and unusual scent.  Thick hair covers the body of the enormous beast, and
+sharp, honed claws extend from the tips of his large paws.  
+~
+unique~
+ACFGH DF -675 0
+48 7 1d10+300 7d10+100 2d7+10 acbite
+-11 -11 -11 -11
+DFHJU AF BCDH I
+stand stand either 0
+0 0 medium 0
+#19802
+treant father~
+a Treant Father~
+A massive tree seems to be moving toward you...
+~
+The ancient gnarled treant, probably the father of many generations,
+shuffles through the rainforest at a pace that seems almost impossibly slow.
+He is clothed in a dark bark, thick and creased with wrinkles that run
+vertically from his head to his feet.  A scanty mop of dark green leaves
+covers his head, shading his shiny old eyes from the light, and a beard of
+ivy adorns his wrinkled face.  
+~
+unique~
+AGT Nc 750 0
+43 8 10d10+600 7d10+100 2d6+12 crush
+-13 -13 -13 -13
+ACEKOQ ABF CDEI 0
+stand stand male 7600
+0 0 huge 0
+#19803
+treant mother~
+a Treant Mother~
+A massive tree seems to be moving toward you...
+~
+Thin twigs weave together like fingers folded neatly around each other,
+extending from the long branches that form the arms of the Treant Mother. 
+She is an ancient entity, her face crossed with dark wrinkles and her black
+eyes shiny with old wisdom.  Dark leaves trail down her back and are tied in
+a ponytail with a sprig of ivy decorated with a few tiny white flowers.  
+~
+unique~
+AGQ Nc 825 0
+34 7 4d10+600 7d10+100 1d10+12 smash
+-12 -12 -12 -12
+CEHKLNOQRX ABI CDEF 0
+stand stand female 7400
+0 0 huge 0
+#19804
+treant sapling~
+a Treant sapling~
+A large tree seems to be moving toward you...
+~
+This fair treant has probably seen only a hundred winters, and his
+youthful inexperience shows in his prideful eyes.  His sap flows thick and
+strong, and his step has almost a spring in it as his gnarled toes and
+wrinkled feet stride across the ground.  A thick mane of dark leaves crown
+the youth's head, sometimes falling down over his eyes and cascading across
+his face.  
+~
+unique~
+ACGR N 633 0
+23 7 2d10+400 7d10+100 1d10+11 pound
+-12 -12 -12 -12
+ACDEFHQ ABC DEH 0
+stand stand either 7200
+0 0 large 0
+#19805
+kraken~
+a Kraken~
+A Kraken breaks the surface of the water nearby!
+~
+Like one of your worst nightmares, the Kraken is enormous: over
+eighty feet in length. If octopi worshipped a god, perhaps they'd
+worship this.
+~
+unique~
+ABCFGT c -999 0
+37 8 5d10+850 8d10+100 2d12+14 bite
+-13 -13 -13 -13
+ACDFHMO ABCLR EFH I
+rest rest either 8000
+AGXYc ADEFKLQVX giant 0
+#19806
+despoiler~
+a despoiler~
+A despoiler roams the forest, hacking down trees in the name of progress.
+~
+He seems to be an ordinary human, albeit in extraordinary surroundings.
+~
+unique~
+ABCGH 0 -375 0
+25 7 2d10+300 7d10+100 2d7+11 punch
+-11 -11 -11 -11
+CDEFIJKN AB CDFH 0
+stand stand male 3550
+AHMV ABCDEFGHIJK medium 0
+#19807
+willowent~
+a Willowent~
+A mighty willow stands here, majestic in its surroundings.
+~
+The mighty willow is planted, stately and tall against the sky.  Gnarled
+branches and a thick stream of wavy hair lend an aura of awe and immense
+respect to the old willowent, and his eyes echo pain and pleasure, suffering
+and wisdom.  
+~
+unique~
+ABCGOT F 870 0
+48 8 5d10+700 7d10+100 2d6+13 divine
+-13 -13 -13 -13
+ACEFHKLOQ AB CDFH 0
+stand stand male 7800
+0 0 huge 0
+#19808
+geisel treant king~
+Geisel~
+Geisel, King of the Treants, stands here.
+~
+Geisel is majestically royal, and his ancient leaves seem to be eternally
+tinged with tiny rays of sunlight, golden on their shiny green surface. 
+Tight ridges in his bark trail down the length of his body, resembling a
+richly brocaded robe of brown, and intelligent black eyes peer brightly out
+of his wrinkled face.  
+~
+unique~
+ABGQT N 1000 0
+60 8 2d10+650 8d10+100 3d12+14 divine
+-14 -14 -14 -14
+ACEFHKLOQ ABP IQ ABF
+stand stand male 8000
+0 0 huge 0
+#19809
+binky sasquatch child~
+Binky~
+A Sasquatch child screams for his mommy.
+~
+He announces, "I'm Binky!" and sticks his tongue out at you.
+~
+unique~
+ABCG Q 0 0
+23 0 3d10+300 7d10+1 4d7+4 bite
+-11 -11 -11 -3
+FIJP ABC DFI 0
+stand stand male 700
+0 0 small 0
+#19810
+sasquatch mother~
+Binky's mother~
+A large female sasquatch is very protective of her child.
+~
+Binky's mother is young and very protective, an abnormally mature
+sasquatch.  She watches jealously over all the exchanges that her young
+offspring has with others, clucking viciously at strangers who venture too
+close.  The gossips of the region maintain that the twin of her Binky,
+reported to have died just a few days after birth, was actually stolen away
+by a rogue demon, and Binky's mother desperately fears his return to seize
+her remaining child.  
+~
+unique~
+ABGT 0 0 0
+32 8 3d10+600 7d10+1 4d8+13 pound
+-13 -13 -13 -5
+ACDEFHIJKLNOP 0 DFH ABC
+stand stand female 770
+0 0 large 0
+#19811
+treant elder~
+a Treant Elder~
+An ancient tree eyes you with only passing interest.
+~
+The Elder Treant is gnarled and ancient, possibly as old as Geisel
+himself.  He has a silvery head of leaves that shine like white fire, and
+golden-brown bark covers his body like a deep tan, burnt in over many
+summers.  Wisdom and intelligence shine from his eyes like an inner flame.  
+~
+unique~
+ABGR Q 925 0
+50 8 10d10+500 7d10+100 2d10+12 crush
+-12 -12 -12 -12
+AEKOQ AB CFH 0
+sleep stand either 7500
+0 0 huge 0
+#19812
+imp~
+an Imp~
+An Imp looks utterly lost here.
+~
+As foul as he is, you almost feel sorry for him, realizing that he is
+utterly terrified in this unfamiliar place.
+~
+unique~
+ABCGH OPV -925 0
+21 7 10d10+400 7d10+100 1d10+11 shbite
+-12 -12 -12 -12
+ABCDEFHIJ ABCJ DFI 0
+stand stand male 7300
+0 0 small 0
+#19813
+piranha branca fish~
+a piranha branca~
+A piranha branca whips through the shallow water.
+~
+The thin silvery fish whips through the frothy foam that covers the
+surface of the shallow water, twisting and writhing as if trying to escape
+the worst of torments.  Nearly transparent fins take on a pinkish tinge as
+they pull through the surf, and a thick lower lip dips open to exhibit a
+startling array of sharp spikey teeth set into three rows.  
+~
+unique~
+ABF DFTZbc 0 0
+22 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+DFHMW ABKR CIR ABF
+stand stand either 0
+AGW ACDEFHKP medium scales
+#19814
+jiboia snake boa constrictor~
+a jiboia~
+A jiboia uncurls luxuriously from a thick branch.
+~
+Patterned with oddly shaped patchs of tan, the sinuous snake moves with
+slow deliberate grace, its thick body curving into tight spirals like a
+muscle fully flexed.  A tiny head crowned with two bright eyes is followed
+by a wide cylindrical body almost ten feet long that ends in a thin ringed
+tail.  
+~
+unique~
+A GQ -750 0
+24 0 0d0+0 0d0+0 0d0+0 bite
+0 0 0 0
+CEMO ABCFI DL I
+stand stand none 0
+AGXYc ADEFKLQVX medium scales
+#19815
+bird arara azul~
+an arara azul~
+An arara azul works itself along the tree branch with its beak.
+~
+The bright blue bird watches the region carefully with yellow-rimmed
+eyes, taking in every sound and movement.  Its shiny black beak comes to a
+wicked downturned point, and sharp nails extend from the ends of the thin
+avian feet.  A beautiful tail plume feathers out behind it like the hem of a
+rich cloak.  
+~
+unique~
+AS FLTV 0 0
+21 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+FHRX ABCI DFQ 0
+stand stand either 0
+AGW ACDEFHKP medium feather
+#19816
+onca pintada panther~
+an onca pintada~
+An onca pintada prowls among the trees.
+~
+The onca pintada prowls stealthily among the trees of the rainforest,
+guarding its territory from interlopers.  Golden eyes blend in with the
+spotted fur of gold and black that cover its muscular body, and small ears
+flick in annoyance at every sound.  Thick black lips are broken by two sharp
+teeth.  
+~
+unique~
+A DFZc -250 0
+23 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+FHKRX AC BDFHI 0
+stand stand none 0
+AGV ACDEFHJKQUV medium flesh
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#19800
+Along the shore~
+Drops of rain filter down through massive trees that nearly blot out the
+sun.  The rainforest continues to the north and east, while to the south and
+east, roiling whitewaters crash against the shore.  Roots dangle from the
+oldest trees down into the seething foam.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19810
+D1
+~
+~
+0 0 19801
+S
+#19801
+Along the shore~
+Rolling waves crash against the rocky shore to the south, and the moist
+rainforest continues to the north, east, and west.  Gigantic drops fall from
+the lowest branches on the ancient trees, cascading down to make a constant
+pattering on the sodden ground.  Roots twist up through the soil, writhing
+in odd formations like tortured beings.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19811
+D1
+~
+~
+0 0 19802
+D3
+~
+~
+0 0 19800
+S
+#19802
+Along the shore~
+The crash and hiss of the waves against the rocks and exposed roots of
+the rainforest come from the south and permeate the area.  The trees of the
+rainforest grow closely together, barely allowing passage through the forest
+to the north, east, and west.  The scents of salt water and wet foliage
+mingle in the damp air.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19812
+D1
+~
+~
+0 0 19803
+D3
+~
+~
+0 0 19801
+S
+#19803
+Along the shore~
+A soft rain drips constantly through the vast roof of trees above, and
+the drops slip down through the branches and slide or fall to the moist
+ground.  The gentle patter of rain mixes with the crashes and sighs of the
+surf on the shore to the south, the salt air and fresh scent of growth in
+subtle confrontation.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19813
+D1
+~
+~
+0 0 19804
+D3
+~
+~
+0 0 19802
+S
+#19804
+Along the shore~
+The salt water roils wildly in the small cove that the crashing waves
+have carved into the rocky shore, swirling in a tiny vortex around the large
+rock that breaks the surface in the center.  The thick, twisted roots of the
+huge trees reach deep into the pool, blackened by the rush of salt water.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19814
+D1
+~
+~
+0 0 19805
+D3
+~
+~
+0 0 19803
+S
+#19805
+Along the shore~
+To the south, the moist rocky soil dives deeply into a tumbling surf,
+sending up crashes and hisses to punctuate the pattering of the gentle rain
+on the leaves.  Huge trees rise up thousands of feet, crowning the
+rainforest with a roof of greenery unparalleled in beauty.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise,  there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19815
+D1
+~
+~
+0 0 19806
+D3
+~
+~
+0 0 19804
+S
+#19806
+Along the shore~
+Gigantic trees loom high above the moist ground of the rainforest, gentle
+rain dropping down off the leaves of the trees and dissolving slowly into
+the earth.  Low waves settle gracefully onto the sandy coast to the south
+with a soft sigh, and the smells of ocean and forest mix with an enticing
+aroma.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19816
+D1
+~
+~
+0 0 19807
+D3
+~
+~
+0 0 19805
+S
+#19807
+Along the shore~
+One huge tree is sliding slowly into the ocean waves, dissolving in the
+surf over a hundred years until it is absorbed completely by the endless
+ocean.  Roots as big around as a human torso dip into the water, and the
+waves hiss against the tough bark as they rush in and out of the little
+inlet.  Routes are barely navigable around the tree to the north, east, and
+west.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19817
+D1
+~
+~
+0 0 19808
+D3
+~
+~
+0 0 19806
+S
+#19808
+Along the shore~
+Rough waves mutter sullen insults to the rocky shores along the edge of
+the rainforest, mingling with the soothing patter of a soft rain on the
+treetop canopy high above.  The trees run right to the vertical drop that
+forms the shore, and some of the roots are exposed among the rocks, dipping
+into the surf like gigantic toes.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19818
+D1
+~
+~
+0 0 19809
+D3
+~
+~
+0 0 19807
+S
+#19809
+Along the shore~
+A rocky jetty extends out into the rough ocean, leaving the immensity of
+the rainforest behind to become a simple mixture of rough stone and crashing
+waves, salt and fresh air.  A gentle rain falls constantly, forming tiny
+dimples in the surface of the water for a split second at a time and then
+disappearing into the depths.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19819
+D3
+~
+~
+0 0 19808
+S
+#19810
+Along the shore~
+The gentle rain falls uselessly from the overlapping trees onto the rocks
+of the steep shore and the uncaring waves of the wild sea.  Jagged roots
+break up through the moist soil, arching briefly into the salty air before
+descending back into the depths of the earth, and gnarled branches dip into
+the rough surf, letting themselves be worn smooth by the constant motion.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19823
+D1
+~
+~
+0 0 19811
+D2
+~
+~
+0 0 19800
+S
+#19811
+In the rainforest~
+Drops of rain filter down through the massive trees of the rainforest,
+sliding down trunks and cascading off of leaves to dissolve into the moist
+earth.  The sky is blocked entirely by the broad canopy, but the leaves seem
+to shine with their own light, illuminating the dark soil with a
+supernatural glow.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19824
+D1
+~
+~
+0 0 19812
+D2
+~
+~
+0 0 19801
+D3
+~
+~
+0 0 19810
+S
+#19812
+In the rainforest~
+The majestic rainforest continues in all directions, forming a full
+canopy of leaves over the moist earth that steadily absorbs the constant
+fall of rain.  Huge trunks erupt from the soil, rising up hundreds of feet
+to spread rough branches and thick, fuzzy leaves over the wet realm of soft
+rains.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+door limbs pattern parquet~
+4 19810 19825
+D1
+~
+~
+0 0 19813
+D2
+~
+~
+0 0 19802
+D3
+~
+~
+0 0 19811
+S
+#19813
+In the rainforest~
+A small valley has been carved in a hollow amid four of the huge trees. 
+Their gnarled roots bound the dip on all sides, rising up out of the ground
+like natural fences.  The constant soft rain drips down into a small puddle
+in the center of the dip and slides down the rough trunks of the immense
+trees, carrying the rich black dirt along in the thin trickles that meander
+to the pool like molten black gold.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19826
+D1
+~
+~
+0 0 19814
+D2
+~
+~
+0 0 19803
+D3
+~
+~
+0 0 19812
+S
+#19814
+In the rainforest~
+The constant soft patter of rain sounds through the natural silence of
+the forest, an integral part of the forest life somehow still alien to the
+moist world.  Full round droplets plop off the fuzzy leaves high above and
+slide down the rough trunks to the sodden ground.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19827
+D1
+~
+~
+0 0 19815
+D2
+~
+~
+0 0 19804
+D3
+~
+~
+0 0 19813
+S
+#19815
+In the rainforest~
+Raw cuts scar the thick bark of the massive trees, and the gentle rain
+running down the trunks flows out of the wounds in swift spontaneous
+rivulets.  White wood shines through the dark skin of the trees, nearly
+silver in the odd light that filters down through the canopy of leaves.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19828
+D1
+~
+~
+0 0 19816
+D2
+~
+~
+0 0 19805
+D3
+~
+~
+0 0 19814
+S
+#19816
+In the rainforest~
+Massive trunks roughly six human armwidths wide rise from the moist floor
+of the rainforest, shooting into the air and spreading a full roof of
+entertwining foliage high in the sky.  The rich earth is swollen with the
+immense amount of water that it has absorbed, and tiny rivers erupt where
+the rough roots break through the soil.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19829
+D1
+~
+~
+0 0 19817
+D2
+~
+~
+0 0 19806
+D3
+~
+~
+0 0 19815
+S
+#19817
+Along the Shore~
+An enormous wall of trees rises out of the mists to the north, blocking
+any exit in that direction.  From beyond the treeline comes the gentle roar
+of crashing waves.  Narrow gaps allow escape through the forest in every
+other direction, but movement would be hindered by the puddles and sodden
+earth that has swollen under the constant rains.  Several of the nearby
+trees have odd markings carved into their dark trunks.  
+~
+0 0 3
+E
+trees~
+Upon several trees, you notice an odd marking. It looks something like this:
+'         /\    /\
+'          @\  /@
+'           .\/.
+~
+D1
+~
+~
+0 0 19818
+D2
+~
+~
+0 0 19807
+D3
+~
+~
+0 0 19816
+S
+#19818
+Along the Shore~
+A strangely calm cove lies to the north, filled with seawater and the
+runoff that slides down the trunks from the constant rains.  Translucent
+mists rise from the cove as the warmth heats the water and turns it into a
+small cloud that expands along the ground and the surface of the water.  The
+soft patter of rainfall echoes through the mist as a few stray droplets
+meander their way through the thick cover of leaves and fall into the gentle
+tumbling waves.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D1
+~
+~
+0 0 19819
+D2
+~
+~
+0 0 19808
+D3
+~
+~
+0 0 19817
+S
+#19819
+Along the Shore~
+Dark breakers run heavily on the rough rocky shore, swirling in tiny
+vortexes among the exposed roots that arch from massive trunks down into the
+water.  The constant rain makes tiny pockmarks in the seawater and rolls off
+the edge of the leafy canopy in a steady stream like a small wide waterfall.
+~
+0 0 3
+E
+trees~
+On extremely close investigation, you notice that a knot is loose
+in one of the trees.
+~
+D2
+~
+~
+0 0 19809
+D3
+~
+~
+0 0 19818
+S
+#19820
+Along the shore~
+Drops of rain filter down through massive trees that nearly blot out the
+sun.  The rainforest continues to the north and east, while to the south and
+east, roiling whitewaters crash against the shore.  Roots dangle from the
+oldest trees down into the seething foam.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19830
+D1
+~
+~
+0 0 19821
+S
+#19821
+Along the shore~
+Surging ocean waves crash against the rocky shore of the rainforest,
+buffetting the exposed roots that protrude into the water.  The scent of
+salt air mixes with the green aroma of new growth exuded by the ground
+vegetation and the vast roof of foliage that extends like an umbrella out
+over the water.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19831
+D1
+~
+~
+0 0 19822
+D3
+~
+~
+0 0 19820
+S
+#19822
+Along the shore~
+Fine spray rises off the crashing ocean waves and mingles with the
+falling rain, the two coming down together on the rough rocks of the shore. 
+Tiny rivers run down the bark of the closest trees and tumble over the
+exposed roots into the seawater, carrying the rich silt with them.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19832
+D1
+~
+~
+0 0 19823
+D3
+~
+~
+0 0 19821
+S
+#19823
+In the rainforest~
+The massive trees of the rainforest are fairly sparse, and quite a bit of
+rain comes down through the leaves, pockmarking the rich earth with tiny
+dimples.  Small ruts are carved between the divits by little streams of
+water that run down the tree trunks and slowly permeate the dark soil.  The
+warm smell of fertile soil and the fresh scent of green growth combine in
+the moist air to form an aroma utterly unique to the rainforest.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19833
+D1
+~
+~
+0 0 19824
+D2
+~
+~
+0 0 19810
+D3
+~
+~
+0 0 19822
+S
+#19824
+In the rainforest~
+The moist air is full of the warm scent of rich earth, and tiny droplets
+of rain fall through the roof of leaves at regular intervals, making a dull
+patter against the bases of the trees and the ground.  An unusually large
+tree looms to the east, and a door of sorts, constructed out of smooth limbs
+in a pattern not unlike that of parquet, has been carved into the trunk.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19834
+D1
+~
+door limbs pattern parquet~
+4 19810 19825
+D2
+~
+~
+0 0 19811
+D3
+~
+~
+0 0 19823
+S
+#19825
+Geisel's Inner Sanctum~
+Four gigantic trees, molded together in a circle at their bases, form the
+walls of a huge chamber open at the top to allow the entrance of the
+life-giving rain that filters down through the leaves.  Each of the trees
+contains a door of inlaid limbs patterned like parquet, and the chamber
+seems to glow with a symphony composed of nature, growth, and the cycle of
+life.  
+~
+0 0 2
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+door limbs pattern parquet~
+4 19810 19835
+D1
+~
+door limbs pattern parquet~
+4 19810 19826
+D2
+~
+door limbs pattern parquet~
+4 19810 19812
+D3
+~
+door limbs pattern parquet~
+4 19810 19824
+M 125 H 125
+S
+#19826
+In the rainforest~
+Clouds of mist float up from the warm pools of rainwater that gather at
+the base of the enormous tree that lies to the west.  A door made of limbs
+patterned like parquet is set into the trunk of the tree, close to the
+ground, and the mist has settled in around it protectively.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19836
+D1
+~
+~
+0 0 19827
+D2
+~
+~
+0 0 19813
+D3
+~
+door limbs pattern parquet~
+4 19810 19825
+S
+#19827
+In the rainforest~
+Rain runs in small rivers down the rough trunk of the enormous trees,
+filling and overflowing the jagged cuts that scar the bark.  The trees is
+the area seem to have been systematically marked with the single symbol,
+regardless of their size and condition.  The gentle rain makes a soft
+pattering sound on the rich earth.  
+~
+0 0 3
+E
+trees~
+Upon several trees, you notice an odd marking. It looks something like this:
+'         /\    /\
+'          @\  /@
+'           .\/.
+~
+D0
+~
+~
+0 0 19837
+D1
+~
+~
+0 0 19828
+D2
+~
+~
+0 0 19814
+D3
+~
+~
+0 0 19826
+S
+#19828
+In the rainforest~
+A small glade opens in a clearing amid the huge trees, carpetted with the
+low foliage typical of the rainforest.  Pools have gathered along the
+outside edge of the clearing where the water runs down the trunks and
+collects, and the warm earth causes the water to mist into a thin ground
+fog.  An almost inaudible hissing sounds through the clearing as the cold
+droplets of rain fall through the warm blanket of mist.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19838
+D1
+~
+~
+0 0 19829
+D2
+~
+~
+0 0 19815
+D3
+~
+~
+0 0 19827
+S
+#19829
+Along the Shore~
+A fine spray of mist rises from the breakpoint of the small waves against
+the rocky shores of the moist rainforest.  It mixes with the thin waterfall
+that tumbles off the edge of the leafy canopy and drops back into the frothy
+sea, running mad circles over the rocks and exposed roots.  The trunks of
+the massive trees shrink away from the rolling surf, leaning back into the
+branches of their own kind.  
+~
+0 0 3
+E
+trees~
+On extremely close investigation, you notice that a knot is loose
+in one of the trees.
+~
+D0
+~
+~
+0 0 19839
+D2
+~
+~
+0 0 19816
+D3
+~
+~
+0 0 19828
+S
+#19830
+Along the shore~
+A mist of ocean spray rises above the breakpoint and mixes with the
+falling rain, falling back into the waves that pound the rocky shore.  Foam
+collects on the roots of the trees where they run exposed into the water,
+and the thick smell of sea salt fills the air.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19840
+D1
+~
+~
+0 0 19831
+D2
+~
+~
+0 0 19820
+S
+#19831
+In the rainforest~
+The rainforest extends in every direction, continuing on endlessly as far
+as the eye can see.  Drops fall from the thick cover of leaves in a rhythmic
+pitter-patter on the damp earth, which sends up a rich moist aroma in
+return.  A nearly transparent ground fog hovers above the ground.  
+~
+0 0 3
+E
+trees~
+On extremely close investigation, you notice that a knot is loose
+in one of the trees.
+~
+D0
+~
+~
+0 0 19841
+D1
+~
+~
+0 0 19832
+D2
+~
+~
+0 0 19821
+D3
+~
+~
+0 0 19830
+S
+#19832
+In the rainforest~
+A soft patter of rain fills the damp air, the drops falling from high in
+the trees where they sidle their way through the thick cover of leaves and
+drop to the green earth.  They burst into a hundred tiny droplets as they
+hit the rich soil, showering the low vegetation and the bases of the massive
+tree trunks with a gentle mist.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19842
+D1
+~
+~
+0 0 19833
+D2
+~
+~
+0 0 19822
+D3
+~
+~
+0 0 19831
+S
+#19833
+In the rainforest~
+As the green smell of new growth permeates the moist air, the massive
+trees seem to almost take on a life of their own, drawing the life-giving
+essence of the rain from the soil with a vitality that is almost audible. 
+Thin mists rise from the puddles that form at the bases of the huge trunks. 
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19843
+D1
+~
+~
+0 0 19834
+D2
+~
+~
+0 0 19823
+D3
+~
+~
+0 0 19832
+S
+#19834
+In the rainforest~
+The huge trunks and massive slippery roots of the gigantic trees
+partially block escape in every direction through the narrow gaps between
+the trees.  Puddles gather in the hollows at the bases of the trunks and
+send up small clouds of mist that roll over the moist ground.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19844
+D1
+~
+~
+0 0 19835
+D2
+~
+~
+0 0 19824
+D3
+~
+~
+0 0 19833
+S
+#19835
+In the rainforest~
+Thick drops of rain slide down the trunks of the massive trees, pooling
+at the bases where the sodden ground can absorb no more moisture.  One
+particularly awesome tree has grown to the west, and a tall, narrow door
+built of small limbs inlaid in a parquet pattern is set into the base of the
+trunk.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19845
+D1
+~
+~
+0 0 19836
+D2
+~
+door limbs pattern parquet~
+4 19810 19825
+D3
+~
+~
+0 0 19834
+S
+#19836
+In the rainforest~
+The rainforest stretches in all directions, massive trees and the puddles
+that form in the hollows between their trunks like an endless natural
+pattern.  A soft mist rolls across the ground, rising from the shallow
+puddles and curling around the bases of the trees, and it hisses softly as
+the cold rain falls through the treetops and penetrates it.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise,  there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19846
+D1
+~
+~
+0 0 19837
+D2
+~
+~
+0 0 19826
+D3
+~
+~
+0 0 19835
+S
+#19837
+In the rainforest~
+A delicate rain falls through the thick roof of leaves, sliding down
+across the fuzzy surfaces and tumbling to the sodden ground.  Violet orchids
+shine among the dense green of the ground vegetation like small purple
+moons, and the moist warm earth gives off a rich scent.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19847
+D1
+~
+~
+0 0 19838
+D2
+~
+~
+0 0 19827
+D3
+~
+~
+0 0 19836
+S
+#19838
+In the rainforest~
+Fuzzy green leaves shield the floor of the rainforest from the constant
+gentle rain, siphoning the drizzle down the tree trunks to be absorbed in
+the swollen ground.  The smell of warm earth moist with fresh rain rises
+from the breaks in the low vegetation and mingles with the sweet scent of
+the orchids and bromeliads.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19848
+D1
+~
+~
+0 0 19839
+D2
+~
+~
+0 0 19828
+D3
+~
+~
+0 0 19837
+S
+#19839
+Along the Shore~
+Rough waves crash against the rocky shore to the east, licking
+threateningly at the exposed roots of the closest trees.  The surf wears
+smooth all that it comes in contact with and carries flotsam from other
+worlds up for the trees of the rainforest to hold onto for a moment before
+whisking it away again.  In the moist air, the smells of rich earth, green
+growth, and salt mix and mingle in the ocean spray.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19849
+D2
+~
+~
+0 0 19829
+D3
+~
+~
+0 0 19838
+S
+#19840
+Along the shore~
+Dark surf, topped with a thin stripe of white foam, batters the rough
+rocks of the shore mercilessly and rubs the roots that worm their ways down
+through the stones smooth.  The huge trees edge right up to the nearly
+vertical drop that forms the shore, so that some of them even seem to be
+growing half in the water and half in the dark earth, tilting back into the
+forest as they lose the stability of their roots.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19850
+D1
+~
+~
+0 0 19841
+D2
+~
+~
+0 0 19830
+S
+#19841
+In the rainforest~
+Wild orchids grow rampant in the small clearing that is cleverly hidden
+between the large trees.  A break in the roof of leaves allows light to
+filter down through the moist air, and a steady rain falls on the sweet
+flowers, spreading their fragrance through the forest.  Two trees have
+molded their trunks together to the north, nearly blocking passage in that
+direction.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19851
+D1
+~
+~
+0 0 19842
+D2
+~
+~
+0 0 19831
+D3
+~
+~
+0 0 19840
+S
+#19842
+In the rainforest~
+Bright bromeliads lean their stalks lazily against the rough trunks of
+the massive trees of the rainforest.  Mists rise off the small pools of
+water that gather at the bases of the trees and coat the ground with a soft
+translucent blanket.  The soft patter of rain is almost inaudible on the
+roof of leaves high above.  
+~
+0 0 3
+E
+trees~
+Upon several trees, you notice an odd marking. It looks something like this:
+'         /\    /\
+'          @\  /@
+'           .\/.
+~
+D0
+~
+~
+0 0 19852
+D1
+~
+~
+0 0 19843
+D2
+~
+~
+0 0 19832
+D3
+~
+~
+0 0 19841
+S
+#19843
+In the rainforest~
+Mists rise from the shallow pools of water that dapple the ground around
+the bases of the huge trees.  Nearly impenetrable walls stand to the north
+and east where the trees have grown together so closely as to make travel
+extremely difficult, and their roots, exposed by the continuous run of
+rainwater down their trunks that carries away the dirt, make low, twisted
+arches above the moist ground.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19853
+D1
+~
+~
+0 0 19844
+D2
+~
+~
+0 0 19833
+D3
+~
+~
+0 0 19842
+S
+#19844
+In the rainforest~
+A shallow moat guards an almost impenetrable treeline to the east, and
+warm mists rise from the water to cloak the bases of the trees where they've
+grown together.  Hardly any rain makes the harsh journey through the canopy
+of leaves to fall to the ground, but rivulets are fairly common running down
+the trunks where the droplets have been funnelled to the center of the tree.
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19854
+D1
+~
+~
+0 0 19845
+D2
+~
+~
+0 0 19834
+D3
+~
+~
+0 0 19843
+S
+#19845
+In the rainforest~
+An immense wall of mists, orchids, and rough bark rises to the east,
+forming a course that is climbable up to where the first broad boughs allow
+passage across the blockade of tree trunks far above the earth.  The exposed
+roots that arch above the rich earth have been scarred and stripped to the
+quick by the sharp teeth of some creature.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19855
+D1
+~
+~
+0 0 19846
+D2
+~
+~
+0 0 19835
+D3
+~
+~
+0 0 19844
+S
+#19846
+In the rainforest~
+The faint smell of salt air mingles with the rich scent of wet dirt,
+making the air fairly tingle with life and health.  Orchids and bromeliads
+wind through each other, blossoms brushing softly against petals and the
+bark of the trees they grow on to bring forth the sweet potpourri.  Soft
+rain falls intermittently through the leafy roof and slides down the creases
+in the bark of the trees to be absorbed into the damp earth.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19856
+D1
+~
+~
+0 0 19847
+D2
+~
+~
+0 0 19836
+D3
+~
+~
+0 0 19845
+S
+#19847
+In the rainforest~
+The moist rainforest spreads in every direction, covered by a thick roof
+of leaves and ivy that shields the delicate flowers from direct rainfall. 
+Still pools gather at the bases of the trees where the water has run down
+the trunks and collected, and they cast up thin clouds of mist that roll
+across the ground in slow waves.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19857
+D1
+~
+~
+0 0 19848
+D2
+~
+~
+0 0 19837
+D3
+~
+~
+0 0 19846
+S
+#19848
+In the rainforest~
+Soft rains fall through the thick cover of leaves that shield the forest,
+making sharp pattering sounds when the drops hit the slick surfaces of the
+low vegetation.  Massive trees rise high in the air on every side like
+pillars in a giant wet chamber, solidly holding up the green arched roof.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D0
+~
+~
+0 0 19858
+D1
+~
+~
+0 0 19849
+D2
+~
+~
+0 0 19838
+D3
+~
+~
+0 0 19847
+S
+#19849
+Along the Shore~
+A thin waterfall of rain plummets off of the edge of the leafy canopy
+formed by the thick fuzzy tops of the massive trees, and it falls into the
+gentle surf off the craggy shore of the forest, disappearing as the two
+waters mix together and head back out away from the land.  The deep waters
+immediately offshore appear black and fathomless beneath the frothy bits of
+white foam.  
+~
+0 0 3
+E
+furry child sasquatch binky~
+As soon as you look at the child more closely, it runs off to the northwest.
+~
+E
+trees~
+Upon one of the trees, you note that the beginning of a message has been
+carved. It reads, "BiNky LOveS" and then trails off. Having interrupted the
+rascal at work, it seems likely you'll never know who Binky's sweetheart is.
+~
+D0
+~
+~
+0 0 19859
+D2
+~
+~
+0 0 19839
+D3
+~
+~
+0 0 19848
+S
+#19850
+Along the shore~
+A shallow cove has been notched into the northwest corner of the island,
+and the rocks are set so closely together that the trees are unable to grow
+close to the water's edge.  Back a bit from the shore, wayward roots
+protrude through the surface, pushing the sparser rocks up and aside to get
+to the moist air.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D1
+~
+~
+0 0 19851
+D2
+~
+~
+0 0 19840
+S
+#19851
+Along the Shore~
+The height of the shore rises drastically all of a sudden, with the rocky
+cliffs dropping nearly twenty feet before they touch the surf.  The treeline
+recedes a bit from the edge of the dropoff, exposing the rocks to dry to
+their natural dull grey color and hold a natural warmth.  A few stray roots
+push the inland stones apart to break through to the surface air.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D1
+~
+~
+0 0 19852
+D2
+~
+~
+0 0 19841
+D3
+~
+~
+0 0 19850
+D5
+~
+~
+0 0 19860
+S
+#19852
+Along the Shore~
+Dark breakwater swirls in small vortexes among the rocks and roots that
+form the rough shore and absorbs the small waterfall that plummets off the
+edge of the treetops.  The roots of the massive trees mine through the stony
+soil, pushing aside rocks and dirt to make their way into the water.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D1
+~
+~
+0 0 19853
+D2
+~
+~
+0 0 19842
+D3
+~
+~
+0 0 19851
+S
+#19853
+Along the Shore~
+Rough waves lap heavily against the rocky shore, wearing away at the
+stone and dirt to meander inland toward the forest.  As the smells of salt
+and damp earth mingle in the moist air, a thin waterfall of rain tumbles off
+of the edge of the treetop canopy and splatters across the rocks, and the
+rough bark acts as a trough to siphon the rest of the flow down into the
+ground.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D1
+~
+~
+0 0 19854
+D2
+~
+~
+0 0 19843
+D3
+~
+~
+0 0 19852
+S
+#19854
+Along the Shore~
+Drops of rain filter down trunks and drop off leaves to mix with the
+ocean surf that smashes against the rocks of the shore, and the immense
+amount of sky visible over the water is awesome.  The massive trunks of the
+huge trees of the rainforest grow straight and proud, shooting up to form an
+umbrella over the forest.  Odd little marks are carved into the base of one
+of the nearby trees.  
+~
+0 0 3
+E
+trees~
+Upon one of the trees, you note that the beginning of a message has been
+carved. It reads, "BiNky LOveS" and then trails off. Having interrupted the
+rascal at work, it seems likely you'll never know who Binky's sweetheart is.
+~
+D1
+~
+~
+0 0 19855
+D2
+~
+~
+0 0 19844
+D3
+~
+~
+0 0 19853
+S
+#19855
+Along the Shore~
+The interior of the rainforest disappears into darkness to the south,
+away from the immensity of sky and ocean and wide flat rock.  Rough surf
+tumbles against the rocky shore, sounding out loudly against the gentle
+patter of rain that runs as an undercurrent to the rich smells and brilliant
+colors of the forest.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D1
+~
+~
+0 0 19856
+D2
+~
+~
+0 0 19845
+D3
+~
+~
+0 0 19854
+S
+#19856
+Along the Shore~
+The sound of surging ocean waves that batter against rough rocks fills
+the moist air, mingling with the sea spray and falling rain, like an audible
+and visual assault on the sanctity of the rainforest island.  Massive trees
+thrust through the damp earth and rise high in the air to spread thick
+branches out over the island.  
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D1
+~
+~
+0 0 19857
+D2
+~
+~
+0 0 19846
+D3
+~
+~
+0 0 19855
+S
+#19857
+Along the Shore~
+Two huge trees, joined at their bases, have been infringed upon so much
+by the ocean surf that they now grow from the water rather than the land. 
+Huge flat stones break the waves vertically where they rest against the
+trunk of the trees, creating small whirlpools in the seething foam of the
+curlers.  A path is barely navigable over the stones that remain intact and
+through the gap where the trunks split into two.  
+~
+0 0 3
+E
+furry child sasquatch binky~
+As soon as you look at the child more closely, it runs off to the northwest.
+~
+E
+trees~
+Upon one of the trees, you note that the beginning of a message has been
+carved. It reads, "BiNky LOveS" and then trails off. Having interrupted the
+rascal at work, it seems likely you'll never know who Binky's sweetheart is.
+~
+D1
+~
+~
+0 0 19858
+D2
+~
+~
+0 0 19847
+D3
+~
+~
+0 0 19856
+S
+#19858
+Along the Shore~
+Wild orchids tumble out of the treeline to the south, falling onto the
+rocks and crawling toward the wild surf and immense sky to the north. 
+Rainwater cascades in a thin stream off the edge of the rainforest canopy
+and drains from the rocky shore into the sea.  Salt air and the scent of
+moist, rich earth dance a casual waltz in the spray of the waves.  
+~
+0 0 3
+E
+furry child sasquatch binky~
+As soon as you look at the child more closely, it runs off to the northwest.
+~
+E
+trees~
+Upon one of the trees, you note that the beginning of a message has been
+carved. It reads, "BiNky LOveS" and then trails off. Having interrupted the
+rascal at work, it seems likely you'll never know who Binky's sweetheart is.
+~
+D1
+~
+~
+0 0 19859
+D2
+~
+~
+0 0 19848
+D3
+~
+~
+0 0 19857
+S
+#19859
+On the Jetty~
+A wide, rocky jetty protrudes off the eastern end of the island through
+the thin waterfall that tumbles off the canopy of leaves, and simplifies the
+world of the rainforest to a combination of rocks, water, and sky.  Inland,
+massive trees jut out of the rich rocky soil and extend their fuzzy leaves
+over the land.  
+~
+0 0 3
+E
+trees~
+On extremely close investigation, you notice that a knot is loose
+in one of the trees.
+~
+D2
+~
+~
+0 0 19849
+D3
+~
+~
+0 0 19858
+S
+#19860
+The Cave~
+A shallow cave has been carved into the side of the cliff, high above the
+tideline where it stays dry and warm.  The floor of the cave is clean and
+carefully layered with fresh leaves from the island trees, fuzzy and thick. 
+The aroma of salt air and a tinge of burnt charcoal mingle in the warm air. 
+~
+0 0 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+D4
+~
+~
+0 0 19851
+S
+#19870
+Along the shore~
+
+~
+0 4 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+S
+#19880
+Along the shore~
+
+~
+0 4 3
+E
+trees~
+The trees are older than any you've ever seen outside the rainforest.
+Otherwise, there seems to be nothing extraordinary about them.
+~
+S
+#0
+
+
+
+#SPECIALS
+M 19800 spec_breath_any
+M 19803 spec_cast_cleric
+M 19804 spec_cast_mage
+M 19805 spec_poison
+M 19807 spec_cast_undead
+M 19808 spec_cast_cleric
+M 19809 spec_fido
+M 19811 spec_cast_mage
+M 19812 spec_breath_acid
+M 19813 spec_poison
+M 19814 spec_poison
+S
+
+
+
+#RESETS
+D 0 19812 0 2
+D 0 19824 1 2
+D 0 19825 0 2
+D 0 19825 1 2
+D 0 19825 2 2
+D 0 19825 3 2
+D 0 19826 3 2
+D 0 19835 2 2
+M 0 19813 5 19800 1
+M 0 19811 5 19801 1
+M 0 19805 3 19804 1
+M 0 19801 5 19806 1
+M 0 19804 5 19809 1
+M 0 19805 3 19810 1
+M 0 19803 5 19811 1
+M 0 19807 6 19812 1
+M 0 19815 4 19813 1
+M 0 19811 5 19814 1
+M 0 19801 15 19815 1
+M 0 19803 5 19816 1
+M 0 19806 5 19817 1
+M 0 19816 5 19819 1
+M 0 19814 5 19821 1
+M 0 19813 5 19822 1
+M 0 19801 15 19823 1
+M 0 19807 6 19824 1
+M 0 19807 6 19825 2
+M 0 19808 1 19825 1
+M 0 19807 6 19826 1
+M 0 19815 5 19827 1
+M 0 19801 15 19828 1
+M 0 19811 5 19833 1
+M 0 19814 5 19834 1
+M 0 19807 6 19835 1
+M 0 19803 5 19836 1
+M 0 19811 5 19838 1
+M 0 19816 5 19839 1
+M 0 19805 3 19840 1
+M 0 19809 1 19841 1
+M 0 19810 1 19841 1
+M 0 19802 5 19841 1
+M 0 19806 5 19842 1
+M 0 19812 1 19843 1
+M 0 19814 5 19845 1
+M 0 19802 5 19847 1
+M 0 19804 5 19848 1
+M 0 19813 5 19850 1
+M 0 19801 15 19851 1
+M 0 19804 5 19853 1
+M 0 19802 5 19855 1
+M 0 19816 5 19856 1
+M 0 19813 5 19858 1
+M 0 19800 1 19860 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$
