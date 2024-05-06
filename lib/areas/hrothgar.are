@@ -399,40 +399,40 @@ portal R 0
 A D A 3001 0
 0 0 0 P
 #27313
-none~
-none~
+wooden table~
+A wooden table~
 A solid looking wooden table stands in the corner.~
 wood~
 trash R 0
 0 0 0 0 0
 50 10000 150 P
 #27314
-none~
-none~
+symbol vigilance~
+A {gglowing{x symbol of vigilance~
 {gYour limbs tingle as you approach this glowing symbol of vigilance.{x~
 energy~
 armor 0 0
 25 25 25 25 0
 15 0 315782 P
 #27315
-none~
-none~
-A pill of blindness lies here.~
+black pill blindness~
+A curious black pill~
+A black pill of blindness lies here.~
 energy~
 trash 0 0
 0 0 0 0 0
 5 0 0 P
 #27316
-none~
-none~
+symbol chaos~
+A {mglowing{x symbol of chaos~
 {mYour head reels and your sanity drains from you as you approach the symbol lying here.{x~
 energy~
 armor 0 0
 25 25 25 25 0
 15 0 358978 P
 #27317
-none~
-none~
+symbol avarice~
+A glowing symbol of avarice~
 {cYour heart begins to fill with avarice as you approach this symbol.{x~
 energy~
 armor 0 0
