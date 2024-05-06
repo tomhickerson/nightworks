@@ -1167,10 +1167,47 @@ D0
 D2 
 ~
 ~
-0 -1 -1
+0 -1 22658
 E 
 tower~
 The tower is tall and completely black. It exudes powerful magic dwealmers.~
+S 
+#22658
+Darkelf Tower~
+This is the entryway of a tall tower. Luxurious furnishings are all about
+the room, and a staircase leads up.
+~
+0 0 0
+D0
+~
+~
+0 -1 22657
+D4
+~
+~
+0 -1 22659
+E
+furnishings~
+The furnishings are the types nobles would have, expensive and beautiful.
+everything exudes an aura of magic.~
+E 
+staircase~
+The staircase extends upwards into the tower.~
+S
+#22659
+Darkelf Tower~
+The tower seems much larger than possible from the outside. This large
+room contains many books and tomes laying about, and a pentagram is drawn on the floor
+here.
+~
+0 0 0
+D5
+~
+~
+0 -1 22658
+E
+pentagram~
+The pentagram is drawn in what appears to be shavings of silver metal.~
 S 
 #0
 
