@@ -1,0 +1,1731 @@
+#AREA
+thesky.are~
+The Sky~
+{60 80} Dylan The Sky~ 
+10100 10199
+
+
+
+#MOBILES
+#10101
+harpy~
+the screaming, filthy harpy~
+The screaming, filthy harpy dashes towards you.
+~
+The harpy looks at you with blood in her eyes.  Her entire body is
+caked in filth and grime and she stinks to high heaven.  Her razor-
+sharp talons flex as she considers you for her dinner.
+~
+unique~
+ACF DF -500 0
+60 0 3d9+333 10d9+100 2d8+5 none
+-4 -4 -4 7
+EFNU 0 0 0
+stand stand female 1525
+AHMV ABCDEFGHIJK medium 0
+#10102
+harpy leader~
+the screaming harpy leader~
+The harpy leader screams wildly at you.
+~
+The harpy leader looks at you and grins menacingly.  She stretches
+her wings and you see insects crawling around them.  Her hair is
+matted and greasy, emitting a sickening stench.
+~
+unique~
+ABCF DF -750 0
+70 0 5d10+450 11d9+100 3d6+6 none
+-6 -6 -6 6
+EFNU 0 0 0
+stand stand female 2125
+AHMV ABCDEFGHIJK medium 0
+#10103
+air elemental~
+the ghostly air elemental~
+The ghostly air elemental.
+~
+The air elemental is hard to see.  You know that it is there
+because objects behind it seem to waver and are slightly blurred.
+~
+unique~
+ACF DF 0 0
+75 0 5d10+550 12d9+100 2d10+7 none
+-7 -7 -7 6
+EFNU 0 0 0
+stand stand none 50
+AHMV ABCDEFGHIJK medium 0
+#10104
+mysterious efreeti~
+the mysterious efreeti~
+The mysterious efreeti grins in delight at its new prey.
+~
+The efreeti towers menacingly over you.  It is dressed in the
+finest ghostly silks and a headdress with an elaborate brooch.
+~
+unique~
+ACT DHP -100 0
+80 0 5d10+650 13d9+100 5d4+7 none
+-8 -8 -8 6
+EFNU H 0 0
+stand stand none 2500
+AHMV ABCDEFGHIJK medium 0
+#10105
+roc~
+the gigantic roc~
+The gigantic roc.
+~
+This bird has a wingspan that stretches several spear-lengths.  It
+moves surprisingly fast for something of its size.~
+unique~
+AG T 50 0
+65 0 5d10+500 12d9+100 2d10+6 none
+-6 -6 -6 6
+EFHNU 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK huge 0
+#10106
+roc~
+the gigantic roc~
+The gigantic roc stares menacingly at you.
+~
+This bird has a wingspan that stretches several spear-lengths.  It
+moves surprisingly fast for something of its size.
+~
+unique~
+AG T 50 0
+68 0 6d12+703 14d9+100 5d4+8 none
+-8 -8 -8 6
+EFNU 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK huge 0
+#10107
+wicked witch~
+the ugly, wicked witch~
+The ugly, wicked witch cackles maniacally.
+~
+The witch has jet black hair and sickly green skin.  She is covered
+with warts and boils.  Her nails are long and sharp and look like
+they would be quite painful.  Her eyes pierce your very soul.
+~
+unique~
+ABCF DH -600 0
+80 0 6d12+928 15d9+100 4d6+9 none
+-10 -10 -10 5
+EFNU 0 0 0
+stand stand female 3000
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#10101
+A fluffy white cloud.~
+You find yourself standing on a small cloud.  The cloud feels kind of
+spongy beneath your feet.  You find it hard to see anything in the distance
+as wisps of cloud blow over your face.  
+~
+0 4 0
+D3
+The way back to solid footing, it seems.
+~
+~
+0 -1 7900
+D4
+There is another cloud above you.  If you jump you might make it...
+~
+~
+0 -1 10102
+S
+#10102
+A fluffy white cloud.~
+You find yourself standing on a small cloud.  The cloud feels kind of
+spongy beneath your feet.  You find it hard to see anything in the distance
+as wisps of cloud blow over your face.  
+~
+0 0 0
+D1
+There is another cloud east of you.
+~
+~
+0 -1 10103
+D5
+There is another cloud below you.
+~
+~
+0 -1 10101
+S
+#10103
+A fluffy white cloud.~
+You find yourself standing on a small cloud.  The cloud feels kind of
+spongy beneath your feet.  You find it hard to see anything in the distance
+as wisps of cloud blow over your face.  
+~
+0 0 0
+D0
+You can barely make out a cloud to the north.
+~
+~
+0 -1 10128
+D2
+You see a cloud somewhere south of you.
+~
+~
+0 -1 10104
+D3
+You see a cloud somewhere west of you.
+~
+~
+0 -1 10102
+S
+#10104
+A fluffy white cloud.~
+You find yourself standing on a small cloud.  The cloud feels kind of
+spongy beneath your feet.  You find it hard to see anything in the distance
+as wisps of cloud blow over your face.  
+~
+0 0 0
+D0
+You can barely make out a cloud to the north.
+~
+~
+0 -1 10103
+D1
+There is another cloud east of you.
+~
+~
+0 -1 10105
+S
+#10105
+A fluffy white cloud.~
+You find yourself standing on a small cloud.  The cloud feels kind of
+spongy beneath your feet.  You find it hard to see anything in the distance
+as wisps of cloud blow over your face.  
+~
+0 0 0
+D1
+There is another cloud east of you.
+~
+~
+0 -1 10106
+D3
+You spy a tiny cloud.
+~
+~
+0 -1 10104
+S
+#10106
+A fluffy white cloud.~
+You find yourself standing on a small cloud.  The cloud feels kind of
+spongy beneath your feet.  You find it hard to see anything in the distance
+as wisps of cloud blow over your face.  
+~
+0 0 0
+D0
+You can barely make out a cloud to the north.
+~
+~
+0 -1 10107
+D3
+You spy a tiny cloud.
+~
+~
+0 -1 10105
+S
+#10107
+A fluffy white cloud.~
+You find yourself standing on a small cloud.  The cloud feels kind of
+spongy beneath your feet.  You find it hard to see anything in the distance
+as wisps of cloud blow over your face.  
+~
+0 0 0
+D1
+There is another cloud east of you.
+~
+~
+0 -1 10108
+D2
+You see a cloud somewhere south of you.
+~
+~
+0 -1 10106
+D5
+There is another cloud below you.
+~
+~
+0 -1 10126
+S
+#10108
+A fluffy white cloud.~
+You find yourself standing on a small cloud.  The cloud feels kind of
+spongy beneath your feet.  You find it hard to see anything in the distance
+as wisps of cloud blow over your face.  
+~
+0 0 0
+D1
+An ominous storm cloud looms to the east.
+~
+~
+0 -1 10109
+D3
+You spy a tiny cloud.
+~
+~
+0 -1 10107
+S
+#10109
+A fluffy white cloud.~
+You find yourself standing on a small cloud.  The cloud feels kind of
+spongy beneath your feet.  You find it hard to see anything in the distance
+as wisps of cloud blow over your face.  
+~
+0 0 0
+D3
+You spy a tiny cloud.
+~
+~
+0 -1 10108
+D5
+An ominous storm cloud looms below you.
+~
+~
+0 -1 10110
+S
+#10110
+An ominous storm cloud.~
+You find yourself in a storm.  Lightning flashes and thunder crashes,
+making you wish you were dry and warm.  
+~
+0 0 0
+D1
+There is a crag, high and rocky.
+~
+~
+0 -1 10111
+D3
+You spy a tiny cloud.
+~
+~
+0 -1 10125
+D4
+There is another cloud above you.  If you jump you might make it...
+~
+~
+0 -1 10109
+S
+#10111
+High and perilous cliff~
+You are on a high and rocky cliff.  To the west you see a huge ominous
+storm cloud moving this way.  You might want to take cover before the storm
+hits.  You think that there is a narrow trail leading to the south.  
+~
+0 0 5
+D2
+~
+~
+0 -1 10112
+D3
+An ominous storm cloud looms to the east.
+~
+~
+0 -1 10110
+S
+#10112
+Narrow rocky trail.~
+A narrow trail leads down towards the mountain and north toward the
+cliff.  It seems to fade in and out as it winds up the hill.  Obviously, it
+has not been maintained in years.  
+~
+0 0 5
+D0
+~
+~
+0 -1 10111
+D5
+~
+~
+0 -1 10113
+S
+#10113
+Small valley.~
+You are in a lush valley full of trees and other vegetation and the odd
+carcass or two.  The trail leads south and it leads up.  
+~
+0 0 5
+D2
+~
+~
+0 -1 10114
+D4
+~
+~
+0 -1 10112
+S
+#10114
+Small valley.~
+You are in a lush valley full of trees and other vegetation and the odd
+carcass or three.  The trail leads north and it leads down into a crevasse. 
+~
+0 0 5
+D0
+~
+~
+0 -1 10113
+D5
+The crevice looks a little slippery.
+~
+~
+0 -1 10115
+S
+#10115
+Deep, slippery crevice.~
+The crevice is deep and a little dim and it is hard to make your way
+around.  A mist makes everything a little damp and slippery.  Better take
+your time climbing through here.  
+~
+0 0 5
+D2
+~
+~
+0 -1 10117
+D3
+The mist looks thicker in this direction.
+~
+~
+0 -1 10116
+D4
+~
+~
+0 -1 10114
+S
+#10116
+Incredibly slippery crevice.~
+The crevice is getting more and more slippery.  You are getting
+incredibly nervous and want to turn back.  To the east is the crevice and
+trail you were following.  Below, you can just see the edge of a cliff
+through the mist.  There is no trail leading there, just a smooth, flat,
+dew-covered rock that almost resembles a slide ...  
+~
+0 0 5
+D1
+The way back to safety.
+~
+~
+0 -1 10115
+S
+#10117
+Steep mountainside.~
+From here, you can see forever.  Clouds, birds, the forest.  Midgaard is
+far, far to the west.  What a postcard perfect view!  
+~
+0 0 5
+D0
+~
+~
+0 -1 10115
+D4
+~
+~
+0 -1 10118
+S
+#10118
+Steep mountainside.~
+From here, you can see forever.  Clouds, birds, the forest.  Midgaard is
+far, far to the west.  What a postcard perfect view!  
+~
+0 0 5
+D1
+~
+~
+0 -1 10119
+D5
+~
+~
+0 -1 10117
+S
+#10119
+Treacherous Cliff.~
+The cliff is rocky and difficult to negotiate.  One wrong slip and you
+could fall and break a leg or impale yourself or something else nasty.  
+~
+0 0 5
+D3
+~
+~
+0 -1 10118
+D4
+Above you is an almost vertical cliff.  It looks dangerous but
+climbable.
+~
+~
+0 -1 10120
+S
+#10120
+Cliff Face.~
+You are more than a little nervous climbing on this almost vertical cliff
+face.  You miraculously find places to grab onto and little ledges to rest
+on.  You see a small cave here.  
+~
+0 0 5
+D1
+A dank, dark, smelly hole.
+~
+~
+0 -1 10121
+D4
+A large ledge that looks pretty safe.
+~
+~
+0 -1 10122
+D5
+~
+~
+0 -1 10119
+S
+#10121
+Dank, dark, smelly hole.~
+This hole must have been used as a lair or nest.  There are feathers and
+bones everywhere and the floor is covered with something disgusting.  
+~
+0 9 5
+D3
+~
+~
+0 -1 10120
+S
+#10122
+Large, sturdy ledge.~
+You are on a ledge above a steep cliff face.  You can climb down if you
+want, but be careful!  After viewing the scenery, you notice two small caves
+here, one north and one west.  
+~
+0 0 5
+D0
+~
+~
+0 -1 10124
+D3
+~
+~
+0 -1 10123
+D5
+~
+~
+0 -1 10120
+S
+#10123
+Absolutely disgusting lair.~
+The stench in here is quite foul.  There are feathers, bones and rotting
+carcasses everywhere.  This place is absolutely gross and you have to strain
+yourself not to lose your lunch.  
+~
+0 9 5
+D1
+Your only hope to keep your lunch down is to head this way...
+~
+~
+0 -1 10122
+S
+#10124
+Absolutely disgusting lair.~
+The stench in here is quite foul.  There are feathers, bones and rotting
+carcasses everywhere.  This place is absolutely gross and you have to strain
+yourself not to lose your lunch.  
+~
+0 9 5
+D2
+Your only hope to keep your lunch down is to head this way...
+~
+~
+0 -1 10122
+S
+#10125
+A fluffy white cloud.~
+You find yourself standing on a small cloud.  The cloud feels kind of
+spongy beneath your feet.  You find it hard to see anything in the distance
+as wisps of cloud blow over your face.  
+~
+0 0 0
+D1
+An ominous storm cloud looms to the east.
+~
+~
+0 -1 10110
+D4
+There is another cloud above you.  If you jump you might make it...
+~
+~
+0 -1 10126
+S
+#10126
+A fluffy white cloud.~
+You find yourself standing on a small cloud.  The cloud feels kind of
+spongy beneath your feet.  You find it hard to see anything in the distance
+as wisps of cloud blow over your face.  
+~
+0 0 0
+D0
+A cirrus cloud hums peacefully to itself.
+~
+~
+0 -1 10131
+D3
+You spy a tiny cloud.
+~
+~
+0 -1 10127
+D4
+There is another cloud above you.  If you jump you might make it...
+~
+~
+0 -1 10107
+D5
+There is another cloud below you.
+~
+~
+0 -1 10125
+S
+#10127
+A fluffy white cloud.~
+You find yourself standing on a small cloud.  The cloud feels kind of
+spongy beneath your feet.  You find it hard to see anything in the distance
+as wisps of cloud blow over your face.  
+~
+0 0 0
+D0
+To the north you see an angry cloud lashing out.
+~
+~
+0 -1 10130
+D1
+There is another cloud east of you.
+~
+~
+0 -1 10126
+D4
+There is another cloud above you.  If you jump you might make it...
+~
+~
+0 -1 10128
+S
+#10128
+A fluffy white cloud.~
+You find yourself standing on a small cloud.  The cloud feels kind of
+spongy beneath your feet.  You find it hard to see anything in the distance
+as wisps of cloud blow over your face.  
+~
+0 0 0
+D2
+You see a cloud somewhere south of you.
+~
+~
+0 -1 10103
+D5
+There is another cloud below you.
+~
+~
+0 -1 10127
+S
+#10129
+Sleepy little cloud.~
+This cloud is peacefully snoozing away, enjoying himself.  There is
+grumpy cloud to the east and a rather shy cloud north of here.  
+~
+0 0 0
+D0
+The cloud to the north blushes and tries to hide when you look at
+it.
+~
+~
+0 -1 10132
+D1
+The cloud to the east mutters and grumbles at you.
+~
+~
+0 -1 10130
+S
+#10130
+Grumpy little cloud.~
+This cloud mutters and grumbles at you.  You have to jump quickly to
+avoid a lightning bolt that passes by your toe.  Your aren't sure but you
+think you hear the cloud snicker.  
+~
+0 0 0
+D1
+A happy little cloud is humming peacefully to itself.
+~
+~
+0 -1 10131
+D2
+You see a cloud somewhere south of you.
+~
+~
+0 -1 10127
+D3
+A sleepy little cloud to the west yawns and rolls over.  You hear
+snoring.
+~
+~
+0 -1 10129
+S
+#10131
+Happy little cloud.~
+You hear the cloud humming a little song to itself, but you can't figure
+out the song.  
+~
+0 0 0
+D0
+There is a pure white cloud north of you.  It is snowing!
+~
+~
+0 -1 10136
+D2
+You see a cloud somewhere south of you.
+~
+~
+0 -1 10126
+D3
+You see an angry little cloud muttering and grumbling to itself.
+~
+~
+0 -1 10130
+S
+#10132
+Bashful little cloud.~
+This cloud blushes and tries to avoid your glance as you look at your
+surroundings.  You decide that overall it is a peaceful little cloud.  
+~
+0 0 0
+D0
+The cloud to the north sneezes!
+~
+~
+0 -1 10133
+D2
+A sleepy little cloud to the south yawns and rolls over.  You hear
+snoring.
+~
+~
+0 -1 10129
+D3
+An isolated little raincloud.
+~
+~
+0 -1 10142
+S
+#10133
+Sneezing little cloud.~
+The cloud is wracked with sneezes.  At first you thought you were in an
+earthquake before you realize where you are!  
+~
+0 0 0
+D0
+~
+~
+0 -1 10145
+D1
+This cloud is, like, totally lost, you know?
+~
+~
+0 -1 10134
+D2
+The cloud to the south blushes and tries to hide when you look at
+it.
+~
+~
+0 -1 10132
+D3
+You see a cirrus maximus cloud.
+~
+~
+0 -1 10143
+S
+#10134
+Dopey little cloud.~
+This cloud is too busy daydreaming to watch where its going.  It doesn't
+even notice you landing on it.  It looks like it couldn't figure its way out
+of an open box.  
+~
+0 0 0
+D1
+You see a very scientific cloud.
+~
+~
+0 -1 10135
+D3
+The cloud sneezes!  Yuck.
+~
+~
+0 -1 10133
+S
+#10135
+Doc-like little cloud.~
+The cloud looks at you through its Lennon like specs and examines you
+quite scientifically.  
+~
+0 0 0
+D2
+There is a pure white cloud south of you.  It is snowing!
+~
+~
+0 -1 10136
+D3
+This cloud is, like, totally lost, you know?
+~
+~
+0 -1 10134
+S
+#10136
+Snowy, white cloud.~
+You shiver as you stand here.  This beautiful, fluffy, pure white cloud
+is snowing.  The snow is pure and sweet as it melts in your mouth.  What a
+nifty cloud to be on.  
+~
+0 0 0
+D0
+You see a very scientific cloud.
+~
+~
+0 -1 10135
+D2
+A happy, peaceful little cloud humming to itself.
+~
+~
+0 -1 10131
+D3
+~
+~
+0 -1 10137
+S
+#10137
+Cold, damp cloud.~
+Your mood grows grumpy as you find yourself cold and wet from this dismal
+cloud.  You notice a rock outcropping above you.  
+~
+0 1 0
+D1
+There is a pure white cloud east of you.  It is snowing!
+~
+~
+0 -1 10136
+D4
+~
+~
+0 -1 10138
+S
+#10138
+Mysterious rock outcropping.~
+This rock outcropping just seems to hang in midair.  To the north you see
+a house and if you ease yourself down, you can land on a rather damp, dismal
+cloud.  The door to the house is closed.  
+~
+0 5 0
+D0
+Eerie looking house.
+~
+door~
+1 -1 10139
+D5
+~
+~
+0 -1 10137
+S
+#10139
+Foyer.~
+Shadows play tricks on your eyes.  Everytime you think you see something
+in a corner and turn to get a better look, nothing is there.  The place is
+very dark.  Even with a torch, you have trouble making out the room to the
+east.  
+~
+0 9 0
+D1
+~
+~
+0 -1 10140
+D2
+~
+~
+0 -1 10138
+S
+#10140
+Tower.~
+You are in a musty old tower.  The smell of mold and mildew is almost
+overpowering.  You hear strange creaks and groans ...  Is it the wind or did
+someone (something?)  Make that noise.  To the west is the house and there
+is a stairway leading up into the tower.  
+~
+0 9 0
+D3
+~
+~
+0 -1 10139
+D4
+~
+~
+0 -1 10141
+S
+#10141
+Witches Tower~
+Here you see strange things of arcane value.  There is a cauldron in the
+corner bubbling madly, belching a foul brew that must have come from hell. 
+On shelves lie jars of strange creatures you have never seen before, or hope
+to again.  A picture of a familiar temple hangs on the east wall.  
+~
+0 8205 0
+E
+picture~
+The picture is in on the east wall.  It is very complex in detail, and you
+almost see people walking around the temple in the picture.
+~
+D1
+~
+picture~
+1 -1 3001
+D5
+~
+~
+0 -1 10140
+S
+#10142
+Suspicious little raincloud.~
+On second glance, this cloud doesn't seem much like a raincloud.  A
+balloon sticks out of the top and you think you hear it humming something
+like, 'Tut, tut!  It looks like rain!  ' 
+~
+0 0 0
+D0
+~
+~
+0 -1 10143
+D1
+A bashful little cloud that tries to avoid your notice.
+~
+~
+0 -1 10132
+S
+#10143
+Cirrus maximus cloud.~
+This cloud looks like it is of the cirrus maximus genre of clouds.  
+~
+0 0 0
+D1
+The cloud to the east sneezes!
+~
+~
+0 -1 10133
+D2
+A suspicious little raincloud with a balloon.
+~
+~
+0 -1 10142
+S
+#10144
+Raging hurricane.~
+You are buffeted and knocked about by the almost godlike strength of the
+raging hurricane.  It is hard to see and hear anything.  Your only thought
+is to seek refuge from the storm.  
+~
+0 8193 5
+D0
+~
+~
+0 -1 10148
+D5
+~
+~
+0 -1 10146
+S
+#10145
+Raging hurricane.~
+You are buffeted and knocked about by the almost godlike strength of the
+raging hurricane.  It is hard to see and hear anything.  Your only thought
+is to seek refuge from the storm.  
+~
+0 8193 5
+D2
+You see a sneezy little cloud.
+~
+~
+0 -1 10133
+D3
+~
+~
+0 -1 10150
+D5
+~
+~
+0 -1 10148
+S
+#10146
+Raging hurricane.~
+You are buffeted and knocked about by the almost godlike strength of the
+raging hurricane.  It is hard to see and hear anything.  Your only thought
+is to seek refuge from the storm.  
+~
+0 8193 5
+D0
+~
+~
+0 -1 10147
+D1
+~
+~
+0 -1 10144
+S
+#10147
+Raging hurricane.~
+You are buffeted and knocked about by the almost godlike strength of the
+raging hurricane.  It is hard to see and hear anything.  Your only thought
+is to seek refuge from the storm.  
+~
+0 8193 5
+D1
+~
+~
+0 -1 10148
+D2
+~
+~
+0 -1 10146
+S
+#10148
+Raging hurricane.~
+You are buffeted and knocked about by the almost godlike strength of the
+raging hurricane.  It is hard to see and hear anything.  Your only thought
+is to seek refuge from the storm.  
+~
+0 8193 5
+D2
+~
+~
+0 -1 10144
+D3
+~
+~
+0 -1 10147
+D4
+~
+~
+0 -1 10145
+S
+#10149
+Raging hurricane.~
+You are buffeted and knocked about by the almost godlike strength of the
+raging hurricane.  It is hard to see and hear anything.  Your only thought
+is to seek refuge from the storm.  
+~
+0 8193 5
+D0
+~
+~
+0 -1 10152
+D1
+~
+~
+0 -1 10150
+D5
+You see a cumulative nimbus cloud.
+~
+~
+0 -1 10157
+S
+#10150
+Raging hurricane.~
+You are buffeted and knocked about by the almost godlike strength of the
+raging hurricane.  It is hard to see and hear anything.  Your only thought
+is to seek refuge from the storm.  
+~
+0 8193 5
+D0
+~
+~
+0 -1 10151
+D1
+~
+~
+0 -1 10145
+D3
+~
+~
+0 -1 10149
+S
+#10151
+Raging hurricane.~
+You are buffeted and knocked about by the almost godlike strength of the
+raging hurricane.  It is hard to see and hear anything.  Your only thought
+is to seek refuge from the storm.  
+~
+0 8193 5
+D2
+~
+~
+0 -1 10150
+D3
+~
+~
+0 -1 10152
+S
+#10152
+Raging hurricane.~
+You are buffeted and knocked about by the almost godlike strength of the
+raging hurricane.  It is hard to see and hear anything.  Your only thought
+is to seek refuge from the storm.  
+~
+0 8193 5
+D1
+~
+~
+0 -1 10151
+D2
+~
+~
+0 -1 10149
+S
+#10153
+Calm cloud.~
+This cloud is just outside the hurricane.  It looks like it might get
+sucked in, but you feel safe for the moment.  
+~
+0 0 0
+D3
+~
+~
+0 -1 10154
+D4
+~
+~
+0 -1 10152
+S
+#10154
+Mountainside.~
+You find yourself on the side of a huge granite mountain.  The air is
+quite thin so you know you are at a very high altitude.  There is no plant
+life beyond moss and lichen in this lonely, barren place.  
+~
+0 0 5
+D1
+~
+~
+0 -1 10153
+D3
+~
+~
+0 -1 10155
+S
+#10155
+Mountainside.~
+You find yourself on the side of a huge granite mountain.  The air is
+quite thin so you know you are at a very high altitude.  There is no plant
+life beyond moss and lichen in this lonely, barren place.  
+~
+0 0 5
+D1
+~
+~
+0 -1 10154
+D4
+~
+~
+0 -1 10156
+S
+#10156
+Roc's Nest.~
+You are standing in a nest.  It is huge, at least two spear-lengths wide.
+You see three eggs in the center.  They are knee high, brown and look almost
+leathery.  Better hope mom isn't around!  
+~
+0 0 5
+D5
+~
+~
+0 -1 10155
+S
+#10157
+Cumulative nimbus cloud.~
+This cloud looks like it belongs to the phylum of cumulative nimbus
+clouds.  
+~
+0 0 0
+D2
+~
+~
+0 -1 10159
+D3
+~
+~
+0 -1 10158
+D4
+~
+~
+0 -1 10149
+S
+#10158
+Dark hidden cloud.~
+This cloud looks like the perfect place to hide.  
+~
+0 1 0
+D1
+~
+~
+0 -1 10157
+S
+#10159
+Yet another cloud~
+You find yourself in yet another cloud.  Will the madness never end? 
+There is a rope ladder leading up.  
+~
+0 0 0
+D0
+~
+~
+0 -1 10157
+D4
+~
+~
+0 -1 10160
+S
+#10160
+Front gate~
+There is a gate here.  It is huge, towering over you.  It creaks as it
+sways in the breeze.  To the south you see a huge lawn.  There is a rope
+ladder leading down.  
+~
+0 4 2
+D2
+You see a huge lawn.
+~
+~
+0 -1 10161
+D5
+There is a rope ladder leading down.
+~
+~
+0 -1 10159
+S
+#10161
+Lawn~
+The lawn seems to stretch and stretch to the south and to the west. 
+North of you is a gate.  The grass is emerald green and luscious, obviously
+well cared for.  
+~
+0 0 2
+D0
+~
+~
+0 -1 10160
+D2
+~
+~
+0 -1 10163
+D3
+~
+~
+0 -1 10162
+S
+#10162
+Croquet game~
+A croquet game has been set up and carelessly left out.  Who ever was
+playing blue was in the lead before they quit.  Benches have been set up for
+spectators and players to enjoy themselves.  
+~
+0 0 2
+D1
+~
+~
+0 -1 10161
+D2
+~
+~
+0 -1 10164
+S
+#10163
+Huge, gorgeous fountain.~
+An enormous golden fountain is here.  You see swans, angels, gryphons and
+a host of other creatures in the fountain.  The fountain empties into a huge
+pool that looks quite inviting.  
+~
+0 0 2
+D0
+~
+~
+0 -1 10161
+D3
+~
+~
+0 -1 10164
+S
+#10164
+Patio.~
+A huge patio overlooks the lawn area.  There are enough tables and chairs
+for a party of 100.  The tables and chairs are ornate and expensive,
+tasteful and elegant.  Stairs lead up to the main house.  
+~
+0 0 2
+D0
+~
+~
+0 -1 10162
+D1
+~
+~
+0 -1 10163
+D4
+~
+~
+0 -1 10165
+S
+#10165
+Long stairway.~
+This stairway is suspended on clouds.  It leads from the house to the
+front lawn.  The banisters are made of ornate gold and silver inlays.  
+~
+0 0 1
+D4
+~
+~
+0 -1 10166
+D5
+~
+~
+0 -1 10164
+S
+#10166
+Front door~
+You stand at the front door of an immense, sprawling mansion made of
+granite and marble.  The door is at least 10 feet high and is made of oak.  
+~
+0 0 1
+D1
+~
+~
+0 -1 10173
+D2
+You see an ornate oak door.
+~
+oak door~
+2 -1 10177
+D3
+~
+~
+0 -1 10167
+D5
+~
+~
+0 -1 10165
+S
+#10167
+Lawn northwest of house.~
+You stand just outside the northwest corner of the house.  You try to
+peek in a window, but it is a little too high to see anything.  
+~
+0 0 1
+D1
+~
+~
+0 -1 10166
+D2
+~
+~
+0 -1 10168
+S
+#10168
+Lawn west of house.~
+You stand just outside the west corner of the house.  You try to peek in
+a window, but it is a little too high to see anything.  
+~
+0 0 1
+D0
+~
+~
+0 -1 10167
+D2
+~
+~
+0 -1 10169
+S
+#10169
+Lawn southwest of house.~
+You stand just outside the southwest corner of the house.  You try to
+peek in a window, but it is a little too high to see anything.  
+~
+0 0 1
+D0
+~
+~
+0 -1 10168
+D1
+~
+~
+0 -1 10170
+D5
+~
+~
+0 -1 10174
+S
+#10170
+Lawn south of house.~
+You stand just outside the south corner of the house.  You try to peek in
+a window, but it is a little too high to see anything.  
+~
+0 0 1
+D1
+~
+~
+0 -1 10171
+D3
+~
+~
+0 -1 10169
+S
+#10171
+Lawn southeast of house.~
+You stand just outside the southeast corner of the house.  You try to
+peek in a window, but it is a little too high to see anything.  
+~
+0 0 1
+D0
+~
+~
+0 -1 10172
+D3
+~
+~
+0 -1 10170
+S
+#10172
+Lawn east of house.~
+You stand just outside the east corner of the house.  You try to peek in
+a window, but it is a little too high to see anything.  
+~
+0 0 1
+D0
+~
+~
+0 -1 10173
+D2
+~
+~
+0 -1 10171
+S
+#10173
+Lawn northeast of house.~
+You stand just outside the northeast corner of the house.  You try to
+peek in a window, but it is a little too high to see anything.  
+~
+0 0 1
+D2
+~
+~
+0 -1 10172
+D3
+~
+~
+0 -1 10166
+S
+#10174
+Dirty, dusty tunnel.~
+This dirty dusty tunnel must lead somewhere.  
+~
+0 9 5
+D1
+~
+~
+0 -1 10175
+D4
+~
+~
+0 -1 10169
+S
+#10175
+Basement.~
+This seems like your average basement.  Old Christmas decorations,
+suitcases, bicycles litter your way.  You hear the squeaking of rats in the
+corners.  
+~
+0 9 5
+D0
+~
+~
+0 -1 10176
+D3
+~
+~
+0 -1 10174
+S
+#10176
+Bottom of the stairs.~
+You stand at the bottom of a long staircase leading up to the main house.
+To the south you can barely make out the accumulated clutter gathered
+throughout the years.  
+~
+0 9 0
+D2
+~
+~
+0 -1 10175
+D4
+~
+~
+0 -1 10177
+S
+#10177
+Foyer.~
+"Magnificent" does not even begin to describe the foyer.  Lavishly
+decorated, yet elegant, it gives an impression of indescribable wealth. 
+Paintings and tapestries line the walls depicting scenes from throughout
+history.  Antiques furnitures and oriental rugs are tastefully placed in
+ideal spots.  The door is at least 10 feet high and is made of oak.  
+~
+0 8 0
+D0
+You see an ornate oak door.
+~
+oak door~
+2 -1 10166
+D1
+~
+~
+0 -1 10183
+D3
+~
+~
+0 -1 10178
+D5
+~
+~
+0 -1 10176
+S
+#10178
+Elegant hallway.~
+You are in a long, sprawling hallway connecting the eastern and western
+wings of the house.  There are several chairs and sofas in the hallway and
+some gorgeous, handwoven drapes.  
+~
+0 8 0
+D1
+~
+~
+0 -1 10177
+D2
+~
+~
+0 -1 10179
+D3
+~
+~
+0 -1 10180
+S
+#10179
+Library~
+You are overwhelmed by the sheer volumes of books here.  The shelves
+stretch all the way to the ceiling and are on every wall, even above the
+doorway.  There are chairs for sitting and reading and a desk for more
+intense studies.  
+~
+0 8 0
+D0
+~
+~
+0 -1 10178
+S
+#10180
+Arboretum.~
+A small indoor garden so that the residents don't have to go outside to
+enjoy plants and commune with nature.  There are several trees, a small pond
+and flowers of every kind.  
+~
+0 12 0
+D1
+~
+~
+0 -1 10178
+D2
+~
+~
+0 -1 10181
+S
+#10181
+Western tower.~
+You are in the bottom part of a tower.  A draft brings a chill to your
+spine and causes creaks and groans.  Curtains flutter in the wind, causing
+quite a distraction.  When you go to shut the window, you see that the
+window is closed.  An old, wooden staircase leads up into darkness.  
+~
+0 8 1
+D0
+~
+~
+0 -1 10180
+D4
+~
+~
+0 -1 10182
+S
+#10182
+Western tower.~
+The tower creaks and groans, almost as if it were muttering to itself. 
+There are windows displaying a full moon, reigning over the night sky.  The
+room is dark and there is almost a musty odor to it.  You are surprised that
+you can't detect any dust or dirt, although there are a couple of cobwebs in
+the corner.  
+~
+0 9 1
+D5
+~
+~
+0 -1 10181
+S
+#10183
+Elegant hallway.~
+You are in a long, sprawling hallway connecting the eastern and western
+wings of the house.  There are several chairs and sofas in the hallway and
+some gorgeous, handwoven drapes.  
+~
+0 8 0
+D1
+~
+~
+0 -1 10185
+D2
+~
+~
+0 -1 10184
+D3
+~
+~
+0 -1 10177
+S
+#10184
+Conservatory~
+Here was the rehearsal and recital room for the residents of the estate. 
+There is a Steinway piano in the corner and various gilded instruments are
+on display in a glass cabinet.  
+~
+0 8 0
+D0
+~
+~
+0 -1 10183
+S
+#10185
+Office~
+You find yourself in a lavish office.  The desk is absolutely huge, at
+least ten feet by five feet and made of ebony and inlaid with mother of
+pearl.  A grandfather clock towers over the room, mechanically ticking and
+tocking the hours away.  
+~
+0 8 0
+D2
+~
+~
+0 -1 10186
+D3
+~
+~
+0 -1 10183
+S
+#10186
+Eastern tower.~
+You are in the bottom part of a tower.  A draft brings a chill to your
+spine and causes creaks and groans.  Curtains flutter in the wind, causing
+quite a distraction.  When you go to shut the window, you see that the
+window is closed.  An old, wooden staircase leads up into darkness.  
+~
+0 8 1
+D0
+~
+~
+0 -1 10185
+D4
+~
+~
+0 -1 10187
+S
+#10187
+Eastern tower.~
+The tower creaks and groans, almost as if it were muttering to itself. 
+There are windows displaying a full moon, reigning over the night sky.  The
+room is dark and there is almost a musty odor to it.  You are surprised that
+you can't detect any dust or dirt, although there are a couple of cobwebs in
+the corner.  
+~
+0 9 1
+D5
+~
+~
+0 -1 10186
+S
+#0
+
+
+
+#SPECIALS
+M 10107 spec_cast_undead
+S
+
+
+
+#RESETS
+D 0 10141 1 1
+M 0 10101 35 10102 2
+M 0 10101 35 10102 2
+M 0 10101 35 10105 2
+M 0 10101 35 10105 2
+M 0 10101 35 10108 3
+M 0 10101 35 10108 3
+M 0 10101 35 10108 3
+M 0 10103 5 10109 1
+M 0 10101 35 10112 2
+M 0 10101 35 10112 2
+M 0 10101 35 10117 1
+M 0 10101 35 10119 3
+M 0 10101 35 10119 3
+M 0 10101 35 10119 3
+M 0 10101 35 10121 1
+M 0 10101 35 10122 2
+M 0 10101 35 10122 2
+M 0 10102 2 10123 1
+M 0 10102 2 10124 1
+M 0 10101 35 10127 3
+M 0 10101 35 10127 3
+M 0 10101 35 10127 3
+M 0 10101 35 10129 1
+M 0 10101 35 10131 1
+M 0 10101 35 10133 1
+M 0 10101 35 10135 1
+M 0 10103 5 10137 1
+M 0 10107 1 10141 1
+M 0 10101 35 10144 1
+M 0 10101 35 10145 1
+M 0 10101 35 10146 1
+M 0 10101 35 10147 1
+M 0 10103 5 10148 1
+M 0 10101 35 10149 1
+M 0 10101 35 10150 1
+M 0 10101 35 10151 1
+M 0 10101 35 10152 1
+M 0 10106 1 10153 1
+M 0 10105 1 10156 1
+M 0 10101 35 10158 2
+M 0 10101 35 10158 2
+M 0 10101 35 10162 2
+M 0 10101 35 10162 2
+M 0 10103 5 10163 1
+M 0 10103 5 10177 1
+M 0 10104 2 10182 1
+M 0 10104 2 10187 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$
