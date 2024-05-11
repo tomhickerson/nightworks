@@ -759,6 +759,24 @@ To the crossroads.
 ~
 ~
 0 -1 4316
+D2 
+Heading into the gloom.
+~
+~
+0 -1 4337 
+S 
+#4337
+Road through the darkened plains~
+You are on a dirt road, running north and south through the 
+wide, grassy plains.  Dark skies and gloom hang over you here,
+making the air humid and heavy.  It looks like lighter skies
+are to the north.
+~
+0 0 2
+D0 
+~
+~
+0 -1 4336
 S 
 #0
 
