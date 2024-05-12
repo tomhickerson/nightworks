@@ -7128,6 +7128,10 @@ D0
 ~
 ~
 0 -1 9809
+D1
+~
+~
+0 -1 9812
 D2
 ~
 ~
@@ -7149,6 +7153,41 @@ D2
 ~
 ~
 0 -1 27301
+S 
+#9812
+The Dragon Sea~
+You are on the clear blue seas of the Dragon Sea.
+Water extends in all directions.  The coastline is
+a distant line to the west.  You think you can 
+make out a small island to the south.
+~
+0 0 7
+D2
+~
+~
+0 -1 9813
+D3
+~
+~
+0 -1 9810
+S 
+#9813
+The Dragon Sea~
+You are on the clear blue seas of the Dragon Sea.
+Water extends in all directions.  The coastline is
+a very distant line to the west.  To the south
+you see an island covered in lush rainforest stretch 
+before you.
+~
+0 0 7
+D0 
+~
+~
+0 -1 9812
+D2
+~
+~
+0 -1 19859
 S 
 #0
 #RESETS
