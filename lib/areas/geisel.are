@@ -313,7 +313,7 @@ AGV ACDEFHJKQUV medium flesh
 Along the shore~
 Drops of rain filter down through massive trees that nearly blot out the
 sun.  The rainforest continues to the north and east, while to the south and
-east, roiling whitewaters crash against the shore.  Roots dangle from the
+west, roiling whitewaters crash against the shore.  Roots dangle from the
 oldest trees down into the seething foam.  
 ~
 0 0 3
@@ -2037,6 +2037,10 @@ trees~
 On extremely close investigation, you notice that a knot is loose
 in one of the trees.
 ~
+D0 
+~
+~
+0 0 9813 
 D2
 ~
 ~
