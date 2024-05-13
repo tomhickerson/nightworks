@@ -159,19 +159,93 @@ S
 Through the grasslands~
 You are on a wide dirt trail, running through the grasslands at the bottom
 of a valley.  The grass is brown and dry, and very brittle.  Mountains rise
-to the north, east and west, covering the valley in gloom and shadow.
+to the north, east and west, covering the valley in shadow.
 ~
 0 0 2
 D0 
 The trail leads north.
 ~
 ~
-0 -1 -1
+0 -1 3808
 D2 
 The trail leads south.
 ~
 ~
 0 -1 3806
+S 
+#3808
+The wide grasslands~
+You are on a hard dirt trail, heading through the valley, surrounded 
+by mountains on the east and west.  To the north you can see a fork in the
+trail.  To the south the trail leads out of the valley.
+~
+0 0 2
+D0
+The trail heads toward an intersection.
+~
+~
+0 -1 3809
+D2
+The trail heads to the south.
+~
+~
+0 -1 3807
+S 
+#3809
+An intersection on the trail~ 
+You are on a hard dirt trail, lined with round stones.  The grass of the 
+base of the valley here is dry and uncared-for, waving in the wind.
+Here the trail leads to the north, east and south, with the east trail 
+heading around another mountain and out of sight.
+~
+0 0 2
+D0
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 3810 
+D2
+~
+~
+0 -1 3808
+S 
+#3810
+A winding trail~
+You are on a trail which winds around a large mountain, curving
+west and north.  You can see a large wide valley to the west, but
+the north is obscured by small hills.
+~
+0 0 2
+D0
+Cresting a small hill to the north.
+~
+~
+0 -1 -1
+D3
+A valley and trail intersection.
+~
+~
+0 -1 3809
+S  
+#3811
+Edge of a forested valley~
+You have reached a small rise in the hills, on a hard dirt trail.
+You can see the beginning of a forested valley to the north, and
+far to the north you see a castle.  To the south, the trail leads 
+down off the hill and winds out of sight to the southwest.
+~
+0 0 4
+D0 
+~
+~
+0 -1 11500
+D2
+~
+~
+0 -1 3810
 S 
 #0
 

@@ -116,6 +116,10 @@ D0
 ~
 ~
 0 0 50003
+D1
+~
+~
+1 -1 -1 
 D2
 ~
 ~
@@ -1705,7 +1709,15 @@ D3
 0 0 50078
 S
 #50080
-Town Square-Southwest~
+Town Square - Southwest~
+You are standing in the southwest corner of the Town Square.  Looking
+around quietly you notice the furtive movements of the townspeople as they
+try not to attract the attention of the lounging guardsmen.  Small stores
+line the square between a large house, an enormous temple, and a slightly
+smaller Inn which dominate the square.  To the north east you see a large fountain
+shaped like an angel with a flaming sword held upright above the fountain. 
+You may leave the square to the east or go deeper into the square to the
+north. 
 ~
 0 0 0
 D0
@@ -1718,7 +1730,7 @@ D1
 0 0 50025
 S
 #50081
-~
+Town Square - Southeast~
 ~
 0 0 0
 D0
@@ -2824,14 +2836,38 @@ Looking to the north you see yet more fog-shrouded moors.
 0 0 114
 S
 #50125
-The Lair~
+The Hidden Lair~
+You come upon a small, quiet place in the moors where the fog is 
+lighter and the air is warmer.  Your feet touch solid ground, and 
+you can feel some kind of firm foundation underneath the soil,
+not like the peat moss and marshland surrounding this area.
 ~
 0 A 0
 D0
 ~
 ~
 0 0 50124
+D5
+~
+hatch~
+1 -1 50126
+E
+firm foundation ground~
+As you look closer, you think that it makes out a rectangular 
+shape, much like a house.  You find a closed wooden {Whatch{x in the 
+dirt.~
 S
+#50126
+The Basement~
+You find yourself in a small underground room, held up by brickwork and
+wooden beams.  Everything is covered in a fine layer of dust.
+~
+0 A 0
+D4
+~
+hatch~
+1 -1 50125
+S 
 #50159
 Headquarters of the Town Guard~
 You are inside a large building whose purpose is quickly evident by the
@@ -2880,6 +2916,8 @@ S
 #RESETS
 D 0 50008 0 1	* Near the Gypsy Camp: door to the north: closed
 D 0 50021 2 1	* South Gate: door to the south: closed
+D 0 50126 4 1   * hatch leading up from 50126, closed 
+D 0 50125 5 1   * hatch leading down from 50125, closed 
 S
 
 
