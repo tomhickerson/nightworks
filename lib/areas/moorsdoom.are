@@ -177,6 +177,9 @@ D3
 ~
 ~
 0 0 50005
+E
+parchment~
+East lies the Devane Manor, enter if you dare...~
 S
 #50005
 Before the Moors~
@@ -200,6 +203,10 @@ D3
 S
 #50006
 The Bridged Brook~
+You are on a sturdy wooden bridge that crosses a small
+brook of fresh water.  To the north, you hear music and 
+see a campfire.  The south leads to an intersection with 
+the Moors.
 ~
 0 0 0
 D0
@@ -213,6 +220,9 @@ D2
 S
 #50007
 Path to Manor~
+You are on a paved path leading to a dark manor in the 
+Moors.  The path is lined with dry, blackened bushes with
+small, green leaves.
 ~
 0 0 0
 D1
@@ -226,6 +236,11 @@ D3
 S
 #50008
 Near the Gypsy Camp~
+You are on the outskirts of a camp of gypsies, traveling 
+through the area.  You see a number of wagons and a 
+small flickering campfire in the middle of the area.  A
+wooden gate to the north seperates the camp from the 
+wandering creatures of the Moors.
 ~
 0 0 0
 D0
@@ -261,8 +276,17 @@ D5
 S
 #50010
 Before the Old Manor~
+You stand before the old Manor, its structure made of elaborate wood 
+and glass.  It was painted white at one time, but that is now peeling
+and cracked in many places.  A haunted stillness makes the air around
+the pathway here seem cold and clammy.
 ~
 0 0 0
+D0
+Approaching the front steps...
+~
+~
+0 -1 25136
 D3
 ~
 ~
@@ -2860,7 +2884,8 @@ S
 #50126
 The Basement~
 You find yourself in a small underground room, held up by brickwork and
-wooden beams.  Everything is covered in a fine layer of dust.
+wooden beams.  Everything is covered in a fine layer of dust.  Stacks of
+papers and bricks lay on one side of the wall. 
 ~
 0 A 0
 D4
