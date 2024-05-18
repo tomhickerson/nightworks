@@ -1140,8 +1140,8 @@ west. To the north is the darkelf fighter's guild.
 0 0 0
 D0
 ~
-~
-0 -1 -1
+door~
+1 -1 22660
 D2
 ~
 ~
@@ -1209,6 +1209,33 @@ E
 pentagram~
 The pentagram is drawn in what appears to be shavings of silver metal.~
 S 
+#22660
+Darkelf Fighter's Guild~
+You have entered a large building with apparently only one room. It is a large
+practice area, and looks well used.
+~
+0 0 0
+D0 
+~
+door~
+1 -1 22661
+D2 
+~
+door~
+1 -1 22656
+S
+#22661
+Guildmaster's Quarters~
+You have entered a small, sparse room reserved for the guildmaster. The room
+is plainly furnished, with little furnishings except those necessary for
+living.
+~
+0 0 0
+D2
+~
+door~
+1 -1 22660
+S  
 #0
 
 
@@ -1234,6 +1261,10 @@ D 0 22635 2 2 * closing and locking the door south from 22635
 D 0 22636 0 2 * closing and locking the door north
 D 0 22636 2 2 * closing and locking the door south 
 D 0 22637 0 2 * closing and locking the door north 
+D 0 22661 2 1 * closing the door south from guildmaster's 
+D 0 22660 0 1 * closing the door north from fighters guild 
+D 0 22660 2 1 * closing the door south from fighters guild 
+D 0 22656 0 1 * closing the door north from the street to guild 
 S
 
 
