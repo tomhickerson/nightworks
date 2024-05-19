@@ -1127,7 +1127,7 @@ D1
 D3
 ~
 ~
-0 -1 -1
+0 -1 22662
 E
 houses~
 The houses are many and varied, and patrolled by dozens of guards.~
@@ -1236,6 +1236,45 @@ D2
 door~
 1 -1 22660
 S  
+#22662
+Darkelf Temple~
+You have entered a huge temple with a grand sacrificing altar dominating
+the room. There are images of a strange spider goddess all around the
+room, and in the center of the domed ceiling there is a huge illusionary
+image of a darkelf female. The image alternates between the female picture
+and one of a huge spider.
+~
+0 0 0
+D1
+~
+~
+0 -1 22655
+D3 
+~
+door~
+1 -1 22663
+E
+altar~
+The altar is covered with dried blood, and has a indention for a humanoid
+body, with what appears to be a drain hole set in its center. It is also covered
+with dried blood.~
+S 
+#22663
+A Small Corridor~
+You are in a small corridor leading to a large metal door. You feel an 
+absence of magic in this room.
+~
+0 0 0
+D1 
+~
+door~
+1 -1 22662
+D3
+A large indestructable black door blocks the way west.
+~
+door~ 
+2 -1 -1
+S 
 #0
 
 
@@ -1265,6 +1304,8 @@ D 0 22661 2 1 * closing the door south from guildmaster's
 D 0 22660 0 1 * closing the door north from fighters guild 
 D 0 22660 2 1 * closing the door south from fighters guild 
 D 0 22656 0 1 * closing the door north from the street to guild 
+D 0 22663 1 1 * closing the door from 22663 to the east
+D 0 22662 3 1 * closing the door from the temple to the west 
 S
 
 
