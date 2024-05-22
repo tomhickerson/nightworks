@@ -2305,7 +2305,7 @@ Looking to the north you see yet more fog-shrouded moors.
 0 0 50108
 S
 #50108
-deep in the Moors~
+Deep in the Moors~
 As you stand here surrounded by a fog so thick that sight as a sense is
 nearly useless, you wonder why you are out in this desolate land.  What you
 can see in the brief moments when the fog thins out is a land of scrub brush
@@ -2900,11 +2900,27 @@ wooden beams.  Everything is covered in a fine layer of dust.  Stacks of
 papers and bricks lay on one side of the wall. 
 ~
 0 A 0
+D1
+You see a small shrine in the corner this way...
+~
+~
+0 -1 50127
 D4
 ~
 hatch~
 1 -1 50125
 S 
+#50127
+A Corner in the Basement~ 
+You are in a small corner in the basement, where you find a small 
+{Wshrine{x built into the wall here.  Dust and trash litter the floor.
+~
+0 A 0
+D3
+~
+~
+0 -1 50126
+S
 #50159
 Headquarters of the Town Guard~
 You are inside a large building whose purpose is quickly evident by the
@@ -2942,6 +2958,12 @@ day after day in this dust room.
 If you're here for a book help yourself the {yindex{x is in the desk.
  
 Jane Schultz
+~
+E
+index~
+You find index cards in the desk, but most of the ink on them has long
+since faded away.  On one of the cards you can make out:
+{yLORE OF THE ANCIENTS{x
 ~
 D3
 ~
