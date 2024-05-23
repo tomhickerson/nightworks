@@ -17,6 +17,21 @@ AOe 0 -1000 0
 R F 0 E
 stand stand either 300
 0 0 medium unknown
+#50001
+gypsy king~
+The Gypsy King~
+The Gypsy King, clad in his best leathers, is standing here.~
+You look over the Gypsy King, a short but burly man clad in black
+and brown, with a red kerchief tied over his head.  Numerous knives
+and tools of the trade hang from his belt and he hums a soft tune as 
+he surveys the area.~
+human~
+AO T 0 0
+10 0 10d10+200 10d10+1 1d12+4 pound
+1 1 11 1
+0 0 D 0
+stand stand none 0
+0 0 medium unknown
 #50010
 werewolf wolf manwolf shapeshifter~
 A large wolf-like man.~
