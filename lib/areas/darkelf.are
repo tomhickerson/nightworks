@@ -53,10 +53,10 @@ crackling. To the north and south there is no sound at all.
 ~
 0 0 0
 D0
-The tunnel slopes deeper into the earth.
+The tunnel slopes upwards through the earth.
 ~
 ~
-0 -1 -1
+0 -1 22601
 D1
 The tunnel slopes deeper into the earth.
 ~
@@ -827,7 +827,7 @@ climbed several degrees. The tunnel also heads south into darker areas.
 D0
 ~
 ~
-0 -1 -1
+0 -1 22318
 D2 
 ~
 ~
@@ -1013,7 +1013,7 @@ D1
 D3 
 ~
 ~
-0 -1 -1
+0 -1 22651
 E
 city~
 The city is one of the most beautiful sights you have ever seen. It spans
@@ -1063,7 +1063,7 @@ west deeper into the city, or east to a path.
 D1
 ~
 ~
-0 -1 -1
+0 -1 22653
 D3
 ~
 ~
@@ -1273,7 +1273,20 @@ D3
 A large indestructable black door blocks the way west.
 ~
 door~ 
-2 -1 -1
+2 -1 22664 
+S 
+#22664
+A Prison Cell~
+You are in a small cell, used by the temple to hold future sacrifices.
+This cell is tiny and unadorned, save for a small cot in the corner of
+the room.
+~
+0 0 0
+D1 
+A large black steel door blocks the way east.
+~
+door~
+2 -1 22663
 S 
 #0
 
