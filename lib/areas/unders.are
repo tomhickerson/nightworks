@@ -1032,11 +1032,6 @@ rotting smell, strong enough even the cold air fails to disperse it,
 permeates the cavern.  
 ~
 0 8 0
-E
-mob~
-ed add mob
- 
-~
 D1
 ~
 ~
@@ -1365,6 +1360,10 @@ D1
 ~
 ~
 0 -1 22319
+D2
+~
+~
+0 -1 22639
 D3
 ~
 ~
