@@ -5,6 +5,23 @@ Grotto of Darkness~
 22600 22699
 
 #MOBILES
+#22600
+Giant spider~
+A giant spider~
+A giant spider approaches you, its many eyes staring into yours.
+~
+A huge arachnid, approximately 4 feet in diameter, with its lumpy body
+poised to strike, is staring at you hungrily. Long dark fangs protrude from
+its mouth, dripping a dark ichor. It stands 3 feet off the ground, and is
+a hideous sight to behold.
+~
+unique~
+AG BTU -1000 0
+23 0 3d10+500 1d5+10 1d10+7 bite
+-7 -7 -7 0 
+EFU 0 D N 
+stand stand none 0
+AHIMV ABCDEFGHIJK medium 0
 #0
 
 
