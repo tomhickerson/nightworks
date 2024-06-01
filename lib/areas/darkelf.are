@@ -25,9 +25,9 @@ AHIMV ABCDEFGHIJK medium 0
 #22601
 umber hulk~
 The umber hulk~ 
-The umber hulk is here, half embedded into the wall.
+The umber hulk is here, half-embedded into the wall.
 ~
-This large beast stands half-imbedded within the wall, and is almost
+This large beast stands half-embedded within the wall, and is almost
 impossible to see.
 ~
 unique~
@@ -82,7 +82,22 @@ AG BTU -1000 0
 20 0 3d10+500 1d5+10 1d10+7 slash
 -5 -5 -5 0 
 EFU 0 D N 
-stand stand none 0
+stand stand male 25
+AHIMV ABCDEFGHIJK medium 0
+#22605
+darkelf fighter~
+A darkelf fighter~
+A darkelf fighter fingers her weapons, staring at you.
+~
+This darkelf looks like a deadly fighter. She stares at you with anger 
+in her eyes.
+~
+unique~
+AG BTU -1000 0
+20 0 3d10+500 1d5+10 1d10+7 slash
+-5 -5 -5 0 
+EFU 0 D N 
+stand stand female 50
 AHIMV ABCDEFGHIJK medium 0
 #0
 
