@@ -22,6 +22,83 @@ AG BTU -1000 0
 EFU 0 D N 
 stand stand none 0
 AHIMV ABCDEFGHIJK medium 0
+#22601
+umber hulk~
+The umber hulk~ 
+The umber hulk is here, half-embedded into the wall.
+~
+This large beast stands half-embedded within the wall, and is almost
+impossible to see.
+~
+unique~
+AG BTU -1000 0
+20 0 3d10+500 1d5+10 1d10+7 bite
+-5 -5 -5 0 
+EFU 0 D N 
+stand stand none 0
+AHIMV ABCDEFGHIJK medium 0
+#22602 
+yolchlol~
+The Yolchlol~
+A horrible yochlol is here.
+~
+A heinous sight unfolds before you, a creature standing 7 feet tall, 
+looking like a half melted candle. It has four whiplike appendages 
+flailing out from its sides, and a single eye set in its center. It reeks 
+evil, and powerful magic, a dangerous foe at the least.
+~
+unique~
+AG BTU -1000 0
+20 0 3d10+500 1d5+10 1d10+7 acbite
+-5 -5 -5 0 
+EFU 0 D N 
+stand stand none 0
+AHIMV ABCDEFGHIJK medium 0
+#22603
+shadow dragon~
+The Shadow Dragon~
+The Shadow Dragon appears out of nowhere, its scales glistening black.
+~
+This enormous serpent is black as night and seems a part of the shadows
+themselves. Its jaws are a bright white contrasted to the rest of its body,
+and its eyes glow fiery red.
+~
+unique~
+ABGRT 0 -750 0
+38 0 5d10+500 1d100+101 2d9+4 pound
+-12 -12 -12 -12
+0 0 0 0
+stand stand female 0
+AHZ ACDEFHJKLOPQUVWXY huge unknown
+#22604
+darkelf guard~
+A darkelf guard~
+A darkelf guard eyes you dangerously.~
+This darkelf looks quite dangerous. He stands with an air of confidence, and
+looks quite experience handling his weapon.
+~
+unique~
+AG BTU -1000 0
+20 0 3d10+500 1d5+10 1d10+7 slash
+-5 -5 -5 0 
+EFU 0 D N 
+stand stand male 25
+AHIMV ABCDEFGHIJK medium 0
+#22605
+darkelf fighter~
+A darkelf fighter~
+A darkelf fighter fingers her weapons, staring at you.
+~
+This darkelf looks like a deadly fighter. She stares at you with anger 
+in her eyes.
+~
+unique~
+AG BTU -1000 0
+20 0 3d10+500 1d5+10 1d10+7 slash
+-5 -5 -5 0 
+EFU 0 D N 
+stand stand female 50
+AHIMV ABCDEFGHIJK medium 0
 #0
 
 
