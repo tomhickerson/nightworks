@@ -99,6 +99,69 @@ AG BTU -1000 0
 EFU 0 D N 
 stand stand female 50
 AHIMV ABCDEFGHIJK medium 0
+#22606
+darkelf warrior~
+A darkelf warrior~
+A darkelf warrior eyes you dangerously.
+~
+This darkelf looks like a deadly fighter. He holds his weapons with an
+air of confidence and experience.
+~
+unique~
+AG BTU -1000 0
+20 0 3d10+500 1d5+10 1d10+7 slash
+-5 -5 -5 0 
+EFU 0 D N 
+stand stand male 50
+AHIMV ABCDEFGHIJK medium 0
+#22607
+gargantuan spider~
+A gargantuan spider~
+A gargantuan spider looms over you here!
+~
+This enormous creature is nearly 25 feet tall! Its huge jaws work back and
+forth, and you see 2 foot long fangs extend from its mouth. It looks very
+hungry, and very mad!
+~
+unique~
+AG BTU -1000 0
+33 0 5d10+500 2d5+10 2d10+7 bite
+-7 -7 -7 0 
+EFU 0 D N 
+stand stand none 0
+AHIMV ABCDEFGHIJK medium 0
+#22608
+evil lich~
+An evil lich~
+An evil lich is here, bound to the earth by unholy magicks.
+~
+This undead creature is the epitome of evil and death. It stands in a 
+rotting robe, its putrid skin pulled tight over old bones. Its face is a 
+mask of death, with spots of glowing yellow light where its eyes once 
+were. The creature emanates power, and appears quite dangerous.
+~
+unique~
+AG BTU -1000 0
+35 0 5d10+500 6d5+100 2d10+7 wrath
+-7 -7 -7 0 
+EFU 0 D N 
+stand stand none 0
+AHIMV ABCDEFGHIJK medium 0
+#22609
+fire elemental~
+A fire elemental~
+A large flaming figure is standing here.
+~
+The fire elemental seems to be made of pure fire with little substance. It
+exudes a great heat from its body.
+~
+unique~
+AG BTU -350 0
+25 0 5d10+300 6d5+100 1d10+7 claw 
+-7 -7 -7 0 
+EFU 0 D N 
+stand stand none 0
+AHIMV ABCDEFGHIJK medium 0
 #0
 
 
