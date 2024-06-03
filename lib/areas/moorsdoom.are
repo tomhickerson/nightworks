@@ -2961,7 +2961,26 @@ D3
 ~
 ~
 0 -1 50126
+D5
+~
+dig~
+0 -1 50128
+E
+shrine~
+A crude carven idol make out of chipped and cracked earth is here.  The 
+ground beneath it looks to be soft and easy to {Wdig{x through...~
 S
+#50128
+Below the shrine~
+You are slowly digging below the crude shrine, through sand-like dirt.
+You think you see some kind of harder surface below you.
+~
+0 A 0
+D5
+~
+~
+0 -1 -1
+S 
 #50159
 Headquarters of the Town Guard~
 You are inside a large building whose purpose is quickly evident by the
