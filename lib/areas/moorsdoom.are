@@ -2979,6 +2979,21 @@ You think you see some kind of harder surface below you.
 D5
 ~
 ~
+0 -1 50129
+S 
+#50129
+A grim passage~
+You emerge from the sandy, loose soil and find yourself in a dark passage, 
+lined by stones and leading north and south.
+~
+0 A 0
+D0 
+~
+~
+0 -1 -1
+D2
+~
+~
 0 -1 -1
 S 
 #50159
