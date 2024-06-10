@@ -213,19 +213,20 @@ S
 
 #567
 Shadowy chambers~
-  You are inside chamber, with dancing shadows on the walls. The walls are
-almost black in colour. It's as if it has been burnt by a powerful spell.
-The walls has small cracks along it and there are many symbols on them,
-mostly about death, eg. skulls, demon claws, fangs...
+You find yourself inside a chamber, with dancing shadows on the walls. 
+The walls are completely black in color. It's as if it has been burnt 
+by a powerful spell.  The walls has small cracks along it and there 
+are many symbols on them, mostly about death, eg. skulls, demon 
+claws, fangs...
 ~
 0 ADX 0
 D0
-It's dark to tell anything.
+It's too dark to tell anything.
 ~
 ~
 5 -1 568
 D1
-It's dark to tell anything.
+It's too dark to tell anything.
 ~
 ~
 0 -1 567
@@ -235,19 +236,19 @@ It's too dark to tell anything.
 ~
 0 -1 569
 D3
-It's dark to tell anything.
+It's too dark to tell anything.
 ~
 ~
 0 -1 567
 S
 #568
 The Pentagram~
-  Now, you have stepped into a large chamber hewn of black stone. A black
+  You have stepped into a large chamber hewn of black stone. A black
 altar rises from the space between the line in the center of pentagram. At
 the center of the pentagram, you see a human skull is on a huge altar. The
 room is lit by many candles  on the step surrounding the room. On the east
 wall is a large skin sheet with blood script on it. The title with big
-letters reads ' The Brotherhood of Invader's '. On the west wall there is
+letters reads ' The Brotherhood of Invaders '. On the west wall there is
 a black stone with blood script on it. The title with big letters reads  
 'Death Angel'.
 ~

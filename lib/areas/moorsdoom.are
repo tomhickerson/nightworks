@@ -2990,11 +2990,47 @@ lined by stones and leading north and south.
 D0 
 ~
 ~
+0 -1 50131 
+D2
+~
+~
+0 -1 50130
+S 
+#50130
+A star chamber~
+You are in an eight-sided room, lit by glowing stones in the wall that
+shed a soft orange light.  The floor is smooth, reflective black marble,
+inlaid with an orange eight-sided star.
+Along the walls you see several {Wdesigns{x and {Wpatterns{x, which shift and move
+as you walk through the room.
+~
+0 A 0
+D0 
+~
+~
+0 -1 50129
+E
+designs patterns~
+You see images which seem to shift in the rock, but include a picture of
+a hero, clad in armor, being overrun by a swarm of crawling insects.  In 
+the distacne the insects seem to be streaming from a dark woods, which 
+surround a mightly mountain.~
+S
+#50131 
+A temple entrance~
+You are at the entryway to a large temple, carved out of black rock.  A
+pale orange light illuminates the room, playing across wide pillars that 
+line the walls and showing a larger hall to the north.
+~
+0 A 0
+D0 
+~
+~
 0 -1 -1
 D2
 ~
 ~
-0 -1 -1
+0 -1 50129
 S 
 #50159
 Headquarters of the Town Guard~
