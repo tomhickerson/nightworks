@@ -27,10 +27,10 @@ the evil cleric~
 The dark cleric is healing and refreshing his invader brothers.
 ~ 
  This cleric is one most powerful clerics in this realms. He saw all the
-lands being raided. In spite of his old age, he stills serves for his
+lands being raided and pillaged. In spite of his old age, he still serves for his
 cabal. In his way, now he's using his powers to heal and refresh his cabal
 mates, waiting the day when he is going to have the chance to invade the
-whole Realms of Anatolia as in the history.
+whole Known Realms, as in the history books.
 ~ 
 human~
 ABQVae DFH -1000 0
@@ -57,7 +57,7 @@ container CEORY P
 #561
 globe sphere~
 the nothing globe~
-A small, sphere shaped non-existant area floats in the air.~
+A small, spherical shaped non-existant area floats in the air.~
 unknown~
 treasure CETO AO
 0 0 0 0 0
@@ -66,7 +66,7 @@ treasure CETO AO
 #562
 skull grayish jaw~
 grayish jaw of a skull~
-A gray jaw of a skull.~
+A gray jaw of a skull lies here.~
 bone~
 key CEORY A
 0 0 0 0 0
@@ -75,7 +75,7 @@ key CEORY A
 #563
 white object portal~
 Magical White Portal~
-A magically created white object casts strange shadows across the clearing.~
+A magically created white object casts strange shadows across the area.~
 energy~
 portal AO 0
 0 0 B 560 0
@@ -83,7 +83,7 @@ portal AO 0
 #564
 dark object portal~
 Dark Portal~
-A magically created dark object casts strange shadows across the clearing.~
+A magically created dark object casts strange shadows across the room.~
 energy~
 portal AO 0
 0 0 E 0 0
@@ -91,7 +91,7 @@ portal AO 0
 #565
 green object portal~
 Magical Green Portal~
-A magically created green object casts strange shadows across the clearing.~
+A magically created green object casts strange shadows across this space.~
 energy~
 portal AO 0
 0 0 B 3124 0
@@ -102,22 +102,22 @@ portal AO 0
 #ROOMS
 #560
 The Well~
-  You are standing near a ruined stone well blocked by a big boulder on
-the well mouth. A cold breeze of fear, sweeps your face, as you feel the 
-shadows watching you!
+  You are standing near a ruined stone well blocked by a {Wgrate{x on
+the well mouth. The plain windowless walls rise on all sides here except
+for the exit to the north.  A cold breeze of fear sweeps your face, as you 
+feel the shadows watching you!
 ~
 0 ACD 0
 D0
-This direction leads back to store room of sewers.
 ~
 ~
-0 -1 16081
+0 -1 50074
 D5
-A dim light of a flickering torch hits the southern wall of the well, 
+A dim light of a flickering torch hits the southern side of the well, 
 far down the stone pipe.
 ~
-entrance~
-3 -1 561
+grate~
+1 -1 561
 S
 #561
 Bottom of the Well~
@@ -135,8 +135,8 @@ The doorway leads to a well lit chamber. On the wall is a huge shadow.
 D4
 You can only see the opening of the well.
 ~
-entrance~
-3 -1 560
+grate~
+1 -1 560
 S
 #562
 The bottomless pit~
@@ -215,7 +215,7 @@ S
 Shadowy chambers~
 You find yourself inside a chamber, with dancing shadows on the walls. 
 The walls are completely black in color. It's as if it has been burnt 
-by a powerful spell.  The walls has small cracks along it and there 
+by a powerful spell.  The walls have small cracks along it and there 
 are many symbols on them, mostly about death, eg. skulls, demon 
 claws, fangs...
 ~
