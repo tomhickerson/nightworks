@@ -1648,16 +1648,18 @@ your presence here yet.  Fearful townsfolk scurry by trying to avoid
 attracting an type of notice, and as the guardsmen beat one that caught
 their notice you see why.  You are not surprised that no one seems likely to
 help the poor unfortunate.  To the north is a well-made building with a sign
-depicting a compass over the entrance.  To the south is the bureaucracy of
-the Town Hall with the usual bodies swinging from the gallows beside the
-building.  You can wander east toward the square, enter the buildings to
-north and south, or go west to the West Gate.  
+depicting a compass over the entrance.  The south leads to a cracked and 
+ruined well.    
 ~
 0 0 0
 D1
 ~
 ~
 0 0 50075
+D2
+~
+~
+0 -1 560
 D3
 ~
 ~
