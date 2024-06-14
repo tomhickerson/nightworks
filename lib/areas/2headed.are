@@ -1,0 +1,343 @@
+#AREA	
+2headed.are~
+The Two-Headed Dog~
+{90 100} Starhunter The Two-Headed Dog~
+580 589
+
+#MOBILES
+#580
+Griff giant~
+Griff the Giant Doorman~
+A giant is here, doing the door.
+~
+This is Griff, the hill giant who is also the doorman for
+the Two-Headed Dog.  He looks everyone up and down, and 
+for a giant is dressed quite conservatively.
+~
+giant~
+ABJKTVe DFe 0 0
+92 70 2d500+25000 1d1+3999 10d40+90 club
+-90 -90 -90 -70
+AIKFEC AB D 0
+stand stand male 0
+A ABCDE giant 0
+ 
+#581
+Merden barman~
+Merden the Barman~
+A human barman with blue skin is pouring the drinks.
+~
+You see Merden here, pouring a few rounds for everyone 
+at the Two-Headed Dog.  Apparently a human with blue skin
+and round bright eyes, he has his hair cropped short and 
+wears a smart-looking leather apron.
+~
+human~
+ABTVe DHFVe 800 0
+80 30 3d300+17000 1d1+2000 15d30+80 pound
+-80 -80 -80 -60
+IJKFEDCN AB D P
+stand stand male 0
+A ABCDE medium 0
+
+#582
+wiseman~
+A Wiseman~
+A wiseman is here taking care of the young partons of the bar.
+~
+If you need help just say 'aid me wiseman'.
+~
+human~
+ABQVae DFH 1000 0
+80 0 1d1+16999 1d1+999 20d30+40 divine
+-95 -95 -95 -65
+FHIK ABC D 0
+stand stand male 5000
+0 0 medium 0
+ 
+#0
+
+
+
+#OBJECTS
+#580
+key~
+a bone key~
+A key, made of bone, is lying on the ground.~
+bone~
+key ORY AO
+0 0 0 0 0
+40 4 0 P
+#581
+skull~
+Skull of mage~
+An old glowing small skull is sitting on the ground.~
+bone~
+treasure O AO
+0 0 0 0 0
+60 1 100000 P 
+#582
+white throne~
+A white throne~
+A large white throne made from bones is standing in front of the wall here.~
+bone~
+container ORY P
+10 15 580 15 100
+60 1 20 P
+#583
+pit~
+the pit for donations~
+A pit for sacrifices is in front of the altar.~
+~
+container O 0
+10000 0 0 1000 100
+0 0 0 P
+#584
+water fall waterfall~
+Waterfall~
+You see a beautiful waterfall here.
+~
+water~
+portal AO 0
+0 0 B 5281 0
+0 0 0 P
+#585
+dagger fine gordall~
+a fine dagger~
+A fine dagger lies upon the ground.~
+adamantite~
+weapon 0 AN
+dagger 4 7 pierce ED
+32 450 5600 P
+#586
+sword fine gordall~
+a fine sword~
+A fine sword lies upon the ground.~
+adamantite~
+weapon 0 AN
+sword 5 6 slash ED
+33 450 5600 P
+#587
+axe fine gordall~
+a fine two-handed axe~
+A fine two-handed axe lies upon the ground.~
+adamantite~
+weapon 0 AN
+axe 6 6 cleave DF
+36 450 5600 P
+#0
+
+
+
+#ROOMS
+#580
+The Entrance Hall~
+  You look around and see that this pub looks to be bigger on the inside
+than its external door would suggest.  The ceiling looms high above you, 
+made of carved stone and paneled wood decorations.  The floor is of
+checkered black and white marble and leads west into the larger hall.
+~
+0 XY 1
+D0
+~
+~
+0 -1 16081
+D3
+~
+~
+0 -1 581
+S
+
+#581
+The entrance to the Cave of Battlerager~
+  You see some sort of light coming thru the west, making the inside of
+the cave more noticable. You see lots of weapons, and blood tracks on the
+wall. There are several bones on the ground. You notice that the huge man
+is looking you over, before moving on.
+~
+0 WXY 1
+D1
+~
+~
+0 -1 580
+D3
+~
+~
+5 -1 582
+S
+
+#582
+Inside the Cave~
+  In spite of the low light, you notice that the cave continues to
+the west. You see lots of bones again on the ground. You observe that
+there seems no way from the west of the cave.
+~
+0 WXY 1
+D1
+~
+~
+0 -1 581
+D3
+w
+~
+~
+0 -1 583
+S
+
+#583
+Deep in the cave~
+  You see that there are two more openings in the cave, one to the north
+and one to the south. To the north you see a large white throne. To the
+south you see some clothes and weapons left on the ground. It seems that
+the south is something like a donation room.
+~
+0 WXY 1
+D0
+~
+~
+0 -1 585
+D1
+~
+~
+0 -1 582
+D2
+~
+~
+0 -1 584
+S
+
+#584
+The donation room~
+  You find lots of weapons and clothing on the floor. You noticed the
+writing on the floor.
+      "Every battlerager is your brother."
+Then you change your mind, and want to put some good clothing and weapon
+here for all other cabal members to strengthen themselves, and to destroy
+all magicians.
+~
+0 WXY 1
+D0
+~
+~
+0 -1 583
+S
+#585
+Battle Square~
+  You see lots of bones on the floor. There are four openings in
+all directions. To the east you see more bones on the floor,
+to the north you see the shrine of battleragers, to the west you see
+Gordall's weapon house, to the very south you see the donation room.
+~
+0 WXY 1
+D0
+~
+~
+0 -1 588
+D1
+~
+~
+0 -1 586
+D2
+~
+~
+0 -1 583
+D3
+~
+~
+0 -1 587
+S
+
+#586
+Battle House~
+  You are in the battle house. You see lots of bones and broken weapons on
+the floor. You read the following on the wall:
+    "After you kill your first magician, you become a BattleRager."
+
+~
+0 WXY 1
+D3
+~
+~
+0 -1 585
+S
+
+#587
+Gordall's Weapon House~
+  You see pieces of metal hung on the wall, shining brilliantly. Most
+probably they are the materials that Gordall uses to produce his weapons.
+And on another part of the wall you see newly finished weapons,
+daggers, swords and axes.
+~
+0 WXY 1
+D1
+~
+~
+0 -1 585
+S
+
+#588
+The Shrine of Battleragers~
+  You are in front of a large white throne made from bones. There are
+shelves that line the walls here, upon them there are many jars, containing the 
+blood and heads of magicians. 
+  A stone tablet is also here, leaning against the wall.
+~
+0 WXY 1
+D2
+~
+~
+0 -1 585
+E
+tablet~
+ *******************************************************************
+ * 1) No magic, in any form can be used by a battlerager. Likewise * 
+ *    if  any mortal  casts in your presence, you should punish it *
+ *    immediately.                                                 *
+ * 2) Members of Shalafi should be  *massacred*, whenever they are *
+ *    seen.                                                        *
+ * 3) Only clerics and paladins, which are not members of Shalafi, *
+ *    can be tolerated, unless their magic is not cast on you.     *
+ * 4) If one caster is beyond commandment 3, you should terminate  *
+ *    that caster.                                                 *
+ * 5) You should be afraid of any form of enemies. You ought to be *
+ *    encouraged to be a Great Warrior.                            *
+ *******************************************************************
+~
+S
+#0
+
+#SHOPS
+581  1  5  9  11  0      150  70        0 23   * Gordal
+
+0
+
+
+#RESETS
+M 0 580 1 580 1                 * Powerman
+E 0 580 0 11                    * bone key
+M 0 581 1 587 1			* gordall
+G 1 585  -1     		* dagger
+G 1 586  -1     		* sword
+G 1 587  -1     		* axe
+M 0 582 1 588 1                 * wiseman
+O 0 582 1 588 1                 * throne
+P 0 581 1 582 1                 * cabal item
+O 0 583 1 584 1			* pit
+*O 0 584 1 580 1			* waterfall
+S
+
+#SPECIALS
+M 580 spec_fight_powerman
+S
+
+#OMPROGS
+O 581 get_prog get_prog_cabal_item
+O 581 sac_prog sac_prog_cabal_item
+M 580 greet_prog greet_prog_battle
+M 582 speech_prog speech_prog_wiseman
+S
+
+#PRACTICERS
+M 580 group_cabal	* powerman
+S
+#$
