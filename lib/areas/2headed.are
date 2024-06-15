@@ -149,11 +149,11 @@ D3
 S
 
 #581
-The entrance to the Cave of Battlerager~
-  You see some sort of light coming thru the west, making the inside of
-the cave more noticable. You see lots of weapons, and blood tracks on the
-wall. There are several bones on the ground. You notice that the huge man
-is looking you over, before moving on.
+The First Foyer~
+  You are in a long, high foyer, furnished with tables and chairs for
+guests to sit and relax.  Luxurious carpets and rugs cover the marble 
+floors and you can see the exit to the east and another hall to the
+west.
 ~
 0 WXY 1
 D1
@@ -163,14 +163,14 @@ D1
 D3
 ~
 ~
-5 -1 582
+0 -1 582
 S
 
 #582
-Inside the Cave~
-  In spite of the low light, you notice that the cave continues to
-the west. You see lots of bones again on the ground. You observe that
-there seems no way from the west of the cave.
+The Second Foyer~
+  You are in a long sweeping room, lined with portraits of previous 
+owners and patrons of this establishment, framed in gold and darkened
+wood.  The marble tiles here lead you to the east and west.
 ~
 0 WXY 1
 D1
@@ -178,18 +178,19 @@ D1
 ~
 0 -1 581
 D3
-w
 ~
 ~
 0 -1 583
+E
+portraits~
+You see portraits of an ORC, a DARKTROLL, a HUMAN, and a LANDSCAPE.~
 S
 
 #583
-Deep in the cave~
-  You see that there are two more openings in the cave, one to the north
-and one to the south. To the north you see a large white throne. To the
-south you see some clothes and weapons left on the ground. It seems that
-the south is something like a donation room.
+The Antechamber~
+  You are at the end of a long set of foyers, with passages leading 
+north and south.  North looks to be the main hall of this pub.  It 
+seems that the south is something like a donation room.
 ~
 0 WXY 1
 D0
@@ -207,13 +208,10 @@ D2
 S
 
 #584
-The donation room~
-  You find lots of weapons and clothing on the floor. You noticed the
-writing on the floor.
-      "Every battlerager is your brother."
-Then you change your mind, and want to put some good clothing and weapon
-here for all other cabal members to strengthen themselves, and to destroy
-all magicians.
+The Donation Room~
+  You are in a small chamber, inlaid with dark wood and with 
+a low stone ceiling.  This looks to be an area where others 
+can leave items for donations to those less fortunate. 
 ~
 0 WXY 1
 D0
@@ -222,37 +220,40 @@ D0
 0 -1 583
 S
 #585
-Battle Square~
-  You see lots of bones on the floor. There are four openings in
-all directions. To the east you see more bones on the floor,
-to the north you see the shrine of battleragers, to the west you see
-Gordall's weapon house, to the very south you see the donation room.
+Main Hall~
+  You are in the main hall of the Two-Headed Dog.  Comfortable,
+yet sturdy benches line the walls here, able to support a patron 
+or two.  You see a small shrine set apart from the hall to the 
+north, while the main bar that sells the drinks is to the west.
 ~
 0 WXY 1
 D0
+A rough shrine to the two-headed dog.
 ~
 ~
 0 -1 588
 D1
+You see a rather inviting side booth.
 ~
 ~
 0 -1 586
 D2
+An antechamber is to the south of you.
 ~
 ~
 0 -1 583
 D3
+You see the main bar and bartender.
 ~
 ~
 0 -1 587
 S
 
 #586
-Battle House~
-  You are in the battle house. You see lots of bones and broken weapons on
-the floor. You read the following on the wall:
-    "After you kill your first magician, you become a BattleRager."
-
+The Side Booth~
+  You are in a comfortable side booth, lined with purple velvet cushions
+on the bnaches and a long oak table.  A small fire burns in a small fireplace
+here to keep you warm.
 ~
 0 WXY 1
 D3
@@ -262,11 +263,9 @@ D3
 S
 
 #587
-Gordall's Weapon House~
-  You see pieces of metal hung on the wall, shining brilliantly. Most
-probably they are the materials that Gordall uses to produce his weapons.
-And on another part of the wall you see newly finished weapons,
-daggers, swords and axes.
+The Main Bar~
+  You are in front of a dark and lovely wooden bar, polished to a fine
+shine.  Many drinks are on the shelves of the barkeep, just out of reach.
 ~
 0 WXY 1
 D1
@@ -276,46 +275,29 @@ D1
 S
 
 #588
-The Shrine of Battleragers~
-  You are in front of a large white throne made from bones. There are
-shelves that line the walls here, upon them there are many jars, containing the 
-blood and heads of magicians. 
-  A stone tablet is also here, leaning against the wall.
+The Shrine of the Two Headed Dog~
+  You are in a small alcove, with the same marble flooring
+but rough grey walls of stone surround you, unadorned.  A 
+large statue of a two-headed dog takes up most of the far wall. 
 ~
 0 WXY 1
 D2
 ~
 ~
 0 -1 585
-E
-tablet~
- *******************************************************************
- * 1) No magic, in any form can be used by a battlerager. Likewise * 
- *    if  any mortal  casts in your presence, you should punish it *
- *    immediately.                                                 *
- * 2) Members of Shalafi should be  *massacred*, whenever they are *
- *    seen.                                                        *
- * 3) Only clerics and paladins, which are not members of Shalafi, *
- *    can be tolerated, unless their magic is not cast on you.     *
- * 4) If one caster is beyond commandment 3, you should terminate  *
- *    that caster.                                                 *
- * 5) You should be afraid of any form of enemies. You ought to be *
- *    encouraged to be a Great Warrior.                            *
- *******************************************************************
-~
 S
 #0
 
 #SHOPS
-581  1  5  9  11  0      150  70        0 23   * Gordal
+581  1  5  9  11  0      150  70        0 23   * barkeep
 
 0
 
 
 #RESETS
-M 0 580 1 580 1                 * Powerman
+M 0 580 1 580 1                 * Doorman
 E 0 580 0 11                    * bone key
-M 0 581 1 587 1			* gordall
+M 0 581 1 587 1			* barkeep
 G 1 585  -1     		* dagger
 G 1 586  -1     		* sword
 G 1 587  -1     		* axe
@@ -323,7 +305,6 @@ M 0 582 1 588 1                 * wiseman
 O 0 582 1 588 1                 * throne
 P 0 581 1 582 1                 * cabal item
 O 0 583 1 584 1			* pit
-*O 0 584 1 580 1			* waterfall
 S
 
 #SPECIALS
