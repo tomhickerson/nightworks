@@ -89,6 +89,45 @@ You see the gate to the village to the north.
 ~
 ~
 0 -1 2604
+E
+sign~
+{YHello again, if you want more information about the area 
+around you, you can type EXIT and more information will 
+be displayed.  Right now the prompt only shows open exits,
+so you should see a 'N' that means there is only an open 
+exit to the North...{x~
+S 
+#2604
+The Village Gates~
+You are at the entryway to the village.  Sand dunes extend to the south, but 
+inside the gates the ground is already lined with dirt and grass.  An 
+archway crafted of pliable wood and bamboo stands here, with wooden
+gates open to the south.  You see a long wall made of tree trunks and 
+binding extend to the north and west, and a dirt road goes in both directions.
+Of course, there is a large {Wsign{x above the gate.
+~
+0 0 2
+D0 
+Heading along Western Way. 
+~
+~
+0 -1 -1
+D1 
+Heading along Fresh Road.
+~
+~
+0 -1 -1
+D2
+Leaving the village.
+~
+~
+0 -1 2603
+E
+sign~
+{YWelcome to the Village of Thronn, on the Island of Mythain!
+Note that part of the village is on another island, reachable
+through a suspension bridge to the northeast, after passing 
+through the gates and going through the jungles.{x~ 
 S 
 #0
 
