@@ -300,6 +300,12 @@ public final class Nightworks {
     static final int ETHOS_NEUTRAL = 2;
     static final int ETHOS_CHAOTIC = 3;
 
+    static final int LORE_BASIC = 0;
+    static final int LORE_INTERMEDIATE = 1;
+    static final int LORE_ADVANCED = 2;
+    static final int LORE_MASTER = 3;
+    static final int LORE_GRAND_MASTER = 4;
+
 
 /*
  * Cabal structure

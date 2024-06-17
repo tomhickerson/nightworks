@@ -102,13 +102,13 @@ portal AO 0
 0 0 B 5281 0
 0 0 0 P
 #585
-dagger fine gordall~
-a fine dagger~
-A fine dagger lies upon the ground.~
-adamantite~
-weapon 0 AN
-dagger 4 7 pierce ED
-32 450 5600 P
+fountain wine~
+a fountain~
+A large fountain is here gurgling out an endless stream of red wine.~
+marble~
+fountain G 0
+100000 100000 'red wine' 0 0
+0 0 0 P
 #586
 sword fine gordall~
 a fine sword~
@@ -289,7 +289,7 @@ S
 #0
 
 #SHOPS
-581  1  5  9  11  0      150  70        0 23   * barkeep
+581  0  0  0  0  0      100  70        0 23   * barkeep
 
 0
 
@@ -298,11 +298,13 @@ S
 M 0 580 1 580 1                 * Doorman
 E 0 580 0 11                    * bone key
 M 0 581 1 587 1			* barkeep
-G 1 585  -1     		* dagger
-G 1 586  -1     		* sword
-G 1 587  -1     		* axe
+G 1 26600  -1     		* coffee
+G 1 26601  -1     		* scumble
+G 1 26602  -1     		* ale
+G 1 26603 5 * elvish wine, limited stock 
 M 0 582 1 588 1                 * wiseman
 O 0 582 1 588 1                 * throne
+O 0 585 1 585 1 * fountain of red wine 
 P 0 581 1 582 1                 * cabal item
 O 0 583 1 584 1			* pit
 S

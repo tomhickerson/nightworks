@@ -11,6 +11,7 @@ import java.util.Map;
  * - apocryphal magic items
  * - secret password for the thieves' guild
  * - etc.
+ * - possible addition of levels of mastery, i.e. I, II or III
  */
 public enum PlayerLore {
     MINOR_KNOWLEDGE_SOULCUBE(1, "Minor Knowledge of a Soul Cube"),

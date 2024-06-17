@@ -4376,6 +4376,46 @@ E
 basket~
 This is where you put items to help fellow Necromancers in Ofcol, or take an item to help yourself.
 ~
+#26600
+coffee cup~
+a cup of coffee~
+A cup of coffee has been set here.~
+china~
+drink 0 A
+6 6 'coffee' 0 0
+0 10 6 P
+E
+cup~
+It is a small simple cup with a small design of a two-headed dog on it.
+~
+#26601
+bottle scumble~
+a bottle of scumble~
+A bottle of scumble has been left here. The label has a picture on it.~
+glass~
+drink 0 A
+12 12 'firebreather' 0 0
+0 10 25 P
+E
+picture bottle label~
+It looks like a two-headed dog.  One of the dog's heads appears to be biting the other.
+~
+#26602
+bottle ale~
+a bottle of ale~
+A dark bottle of ale, engraved with a picture of a dog, sits here.~
+glass~
+drink 0 A
+16 16 'ale' 0 0
+0 20 6 P
+#26603
+bottle elvish wine~
+a bottle of elvish wine~
+A green bottle of wine, stamped with the symbol of a two-headed dog, sits here.~
+glass~
+drink 0 A
+12 12 'elvish wine' 0 0
+0 400 6 P
 #0
 
 
