@@ -298,7 +298,8 @@ class Save {
         if (ch.pcdata.playerLores.size() > 0) {
             String lores = "";
             for (PlayerLore pl : ch.pcdata.playerLores) {
-                lores += pl.getId() + ",";
+                Integer level = ch.pcdata.playerLoreLevel.get(pl);
+                lores += pl.getId() + "=" + level + ",";
             }
             fp.sprintf(false,"Lore %s~\n", lores);
             ch.pcdata.linelore = lores;
@@ -1102,14 +1103,22 @@ class Save {
                         String[] lores = ch.pcdata.linelore.split(",");
                         for (int j = 0; j < lores.length; j++) {
                             int loreId = 0;
+                            int loreLevel = 0;
+                            // we'll have lore id = level, so split again by '='
+                            String[] loreLevels = lores[j].split("=");
                             try {
-                                loreId = Integer.parseInt(lores[j]);
+                                loreId = Integer.parseInt(loreLevels[0]);
+                                loreLevel = Integer.parseInt(loreLevels[1]);
                             } catch (NumberFormatException nfe) {
-                                bug("fread_char: found bad Lore " + lores[j]);
+                                bug("fread_char: found bad Lore " + lores[j] +
+                                        " of " + ch.pcdata.linelore);
+                                // but if one of them is an int, add a lore level of 0?
                             }
+
                             PlayerLore pl = PlayerLore.lookupLore(loreId);
                             if (pl != null) {
                                 ch.pcdata.playerLores.add(pl);
+                                ch.pcdata.playerLoreLevel.put(pl, loreLevel);
                             }
                         }
                         break;

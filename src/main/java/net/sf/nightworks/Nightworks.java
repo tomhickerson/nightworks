@@ -2139,6 +2139,7 @@ public final class Nightworks {
         public ArrayList<PlayerAchievement> achievements = new ArrayList<>();
         String linelore = "0";
         public ArrayList<PlayerLore> playerLores = new ArrayList<>();
+        public HashMap<PlayerLore, Integer> playerLoreLevel = new HashMap<>();
         public Virtues virtues = new Virtues();
         public Vices vices = new Vices();
         int bank_s;
@@ -2569,6 +2570,12 @@ public final class Nightworks {
         return ch.race.name.equals("dark-elf")
                 || ch.race.name.equals("half-elf")
                 || ch.race.name.equals("elf");
+    }
+
+    public static boolean HAS_LORE(CHAR_DATA ch, PlayerLore pl, int level) {
+        int checkLevel = 0;
+        checkLevel = ch.pcdata.playerLoreLevel.get(pl);
+        return checkLevel <= level;
     }
 
     public static boolean IS_DWARF(CHAR_DATA ch) {
