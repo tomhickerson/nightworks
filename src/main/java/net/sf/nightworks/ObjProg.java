@@ -580,8 +580,9 @@ class ObjProg {
     }
 
     static void exam_prog_codex_of_the_initiate(OBJ_DATA obj, CHAR_DATA ch) {
-        if (!ch.pcdata.playerLores.contains(PlayerLore.MINOR_KNOWLEDGE_SOULCUBE)) {
-            ch.pcdata.playerLores.add(PlayerLore.MINOR_KNOWLEDGE_SOULCUBE);
+        if (!HAS_LORE(ch, PlayerLore.KNOWLEDGE_SOULCUBE, LORE_BASIC)) {
+            ch.pcdata.playerLores.add(PlayerLore.KNOWLEDGE_SOULCUBE);
+            ch.pcdata.playerLoreLevel.put(PlayerLore.KNOWLEDGE_SOULCUBE, LORE_BASIC);
             act("{WYou examine the codex, and begin to understand the " +
                     "intricate workings of the {RSoul Cube{W.{x", ch, null, null, TO_CHAR);
             act("{W$n studies the codex and nods their " +

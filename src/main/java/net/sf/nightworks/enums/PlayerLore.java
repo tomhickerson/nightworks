@@ -14,15 +14,9 @@ import java.util.Map;
  * - possible addition of levels of mastery, i.e. I, II or III
  */
 public enum PlayerLore {
-    MINOR_KNOWLEDGE_SOULCUBE(1, "Minor Knowledge of a Soul Cube"),
-    MEDIUM_KNOWLEDGE_SOULCUBE(2, "Medium Knowledge of a Soul Cube"),
-    GREATER_KNOWLEDGE_SOULCUBE(3, "Greater Knowledge of a Soul Cube"),
-    MINOR_ANCIENT_ELVISH(4, "Minor knowledge of Ancient Elvish"),
-    MEDIUM_ANCIENT_ELVISH(5, "Intermediate knowledge of Ancient Elvish"),
-    ADVANCED_ANCIENT_ELVISH(6, "Advanced knowledge of Ancient Elvish"),
-    MINOR_EASTERN_ELVISH(7, "Minor knowledge of Eastern Elvish"),
-    MEDIUM_EASTERN_ELVISH(8, "Intermediate knowledge of Eastern Elvish"),
-    ADVANCE_EASTERN_ELVISH(9, "Advanced knowledge of Eastern Elvish");
+    KNOWLEDGE_SOULCUBE(1, "Knowledge of the Soul Cube"),
+    ANCIENT_ELVISH(2, "Ancient Elvish"),
+    EASTERN_ELVISH(3, "Eastern Elvish");
 
     PlayerLore(int id, String knowledge) {
         this.id = id;
