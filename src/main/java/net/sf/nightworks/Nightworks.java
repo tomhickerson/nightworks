@@ -2573,9 +2573,11 @@ public final class Nightworks {
     }
 
     public static boolean HAS_LORE(CHAR_DATA ch, PlayerLore pl, int level) {
-        int checkLevel = 0;
-        checkLevel = ch.pcdata.playerLoreLevel.get(pl);
-        return checkLevel <= level;
+        int checkLevel = -1;
+        if (ch.pcdata.playerLores.contains(pl)) {
+            checkLevel = ch.pcdata.playerLoreLevel.get(pl);
+        }
+        return checkLevel >= level;
     }
 
     public static boolean IS_DWARF(CHAR_DATA ch) {
