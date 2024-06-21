@@ -206,6 +206,22 @@ stone~
 trash F 0
 0 0 0 0 0
 99 1000 0 P
+#22601
+hidden pit trap~
+A hidden pit trap~
+A hidden pit trap is here, built into the floor.~
+stone~
+trash F 0
+0 0 0 0 0
+99 1000 0 P
+#22602
+blue steel sword~
+a blue steel sword~
+A steel sword pulsing with a blue light has been left here.~
+steel~
+weapon 0 AN
+sword 3 8 slash 0
+15 30 200 G
 #0
 
 
