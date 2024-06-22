@@ -7414,7 +7414,7 @@ You find a table that's relatively vomit-free.
 ~
 S
 #3355
-Andy's Pub~
+The Old Familiar~
 The busy pub is filled with patrons.  People are laughing and singing.
 A minstrel plays his lute in another part of the pub, and a few people
 are even dancing.  Andy, the pubs owner, wanders around and checks to see
@@ -7435,7 +7435,7 @@ The bar is to the south of you.
 0 -1 3357
 S
 #3356
-A Room in the Pub~
+A Room in the Old Familiar~
 This part of the pub is filled with dancing and singing.  A wandering
 minstrel is on a chair in a corner with his lute.  A busty red headed
 woman is standing near him and singing a tale of comedic heroism. Drunk
@@ -7468,7 +7468,7 @@ A set of stairs leads up to the reception area.
 0 -1 3359
 S
 #3357
-The Bar~
+The Bar of the Old Familiar~
 A long mahogany bar is set in the back of the pub.  Mugs line a shelf
 behind the bar.  Bottles of strong, nasty looking liquids decorate one
 of the lower shelves.  A large cask rests on a table behind the bar.  A
@@ -7489,7 +7489,7 @@ The {Ysign{w says: Don't forget our dinner menu.
 ~
 S
 #3358
-The Bar~
+The Bar of the Old Familiar~
 A long mahogany bar is set in the back of the pub.  Mugs line a shelf
 behind the bar.  Bottles of strong, nasty looking liquids decorate one
 of the lower shelves.  A large cask rests on a table behind the bar.  A
@@ -7510,13 +7510,10 @@ The sign says: Don't forget our dinner menu.
 S
 #3359
 The Inn~
-You are standing upstairs from Andy's Pub at Andy's Inn.  A few chairs
+You are standing upstairs from the Old Familiar.  A few chairs
 and a couple of end tables give the room a `homey' atmosphere.  A large
 stone fireplace burns brightly against one wall and warms the room.  A
-large oak desk is nestled in one corner of the room.  A small man with
-wire-framed glasses sits behind the desk working dilligently on his books.
-He looks up as you enter the room.  He looks at you quizzically.  He is
-probably waiting for you to ask him for a room.
+large oak desk is nestled in one corner of the room.
 ~
 0 D 0
 D5
