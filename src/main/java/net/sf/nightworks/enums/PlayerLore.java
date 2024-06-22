@@ -16,7 +16,11 @@ import java.util.Map;
 public enum PlayerLore {
     KNOWLEDGE_SOULCUBE(1, "Knowledge of the Soul Cube"),
     ANCIENT_ELVISH(2, "Ancient Elvish"),
-    EASTERN_ELVISH(3, "Eastern Elvish");
+    EASTERN_ELVISH(3, "Eastern Elvish"),
+    ELVISH(4, "Modern Elvish"),
+    DWARVISH(5, "Modern Dwarvish"),
+    TROLLISH(6, "Modern Trollish"),
+    ANCIENT_TROLLISH(7, "Ancient Trollish");
 
     PlayerLore(int id, String knowledge) {
         this.id = id;
