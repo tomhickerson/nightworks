@@ -9,11 +9,10 @@ The Famous Rooster~
 #590
 healer adept~
 a Healer~
-An adept and healer of the Lords of Anatolia is here.
+the local adpet healer is here, administering to the lowly.
 ~
-  He is an old, wise cleric blessing his old friends of Lords of Chaos
-Realms to break the law. He believes that the more powerful you are, the longer
-you live.
+A cleric from nearby New Thalos, this old man has stopped in 
+for a drink, and to heal the sick.
 ~
 human~
 ABQVae DFH 1000 0
@@ -24,16 +23,16 @@ stand stand male 1000
 0 0 medium 0
 
 #591
-guardian Chaos Ivan~
-Ivan, the guardian of Chaos Realms~
-Ivan, the guardian of Chaos Realms, is guarding the entrance.
+doorman Ivan~
+Ivan, the Rooster's Doorman~
+Ivan, the Rooster's Doorman, is guarding the entrance.
 ~
-Ivan is wearing a complete set of dark armor and he is standing as straight as a steel
-wall in front of the chaos realms.
+Ivan is a large fellow, dressed in comfotable overalls and pants, 
+and looks to be ready to throw someone out if necessary.
 ~
 human~
 ABKWe DFHJVZ 0 0
-92 50 2d500+25000 1d200+1600 10d40+50 slash
+92 50 2d500+25000 1d200+1600 10d40+50 club
 -70 -70 -70 -30
 CEFKNU AB 0 S
 stand stand male 5000
