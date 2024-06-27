@@ -111,7 +111,7 @@ D0
 Heading along Western Way. 
 ~
 ~
-0 -1 -1
+0 -1 2605
 D1 
 Heading along Fresh Road.
 ~
@@ -129,6 +129,94 @@ Note that part of the village is on another island, reachable
 through a suspension bridge to the northeast, after passing 
 through the gates and going through the jungles.{x~ 
 S 
+#2605
+On Western Way~
+~
+0 0 2
+D0 
+Along Western Way.
+~
+~
+0 -1 -1
+D1 
+To the First Post.
+~
+~
+0 -1 -1
+D2 
+The village gates.
+~
+~
+0 -1 2604 
+S 
+#2606 
+On Western Way~
+~
+0 0 2
+D0 
+~
+~
+0 -1 2607
+D1
+Entrance to the Guild Houses
+~
+~
+0 -1 -1
+D2 
+~
+~
+0 -1 2605 
+S 
+#2607 
+On Western Way~
+~
+0 0 2
+D0 
+~
+~
+0 -1 -1
+D1
+Entering Ye Olde Quest Shoppe 
+~
+~
+0 -1 -1
+D2 
+~
+~
+0 -1 2606
+#2608
+On Western Way~
+~
+0 0 2
+D0 
+Corner of Western and Red Crescent
+~
+~
+0 -1 2609 
+D1
+Entrance to he Sage's Library
+~
+~
+0 -1 -1
+D2 
+~
+~
+0 -1 2607
+S 
+#2609 
+Corner of Western Way and Red Crescent~
+~
+0 0 2
+D1
+Red Crescent Road  
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 -1
+S  
 #0
 
 
