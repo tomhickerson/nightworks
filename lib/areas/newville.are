@@ -116,7 +116,7 @@ D1
 Heading along Fresh Road.
 ~
 ~
-0 -1 -1
+0 -1 2623
 D2
 Leaving the village.
 ~
@@ -217,6 +217,252 @@ D2
 ~
 0 -1 -1
 S  
+#2610
+Red Crescent Road~
+~
+0 0 2
+D0 
+The Village Leatherworker.
+~
+~
+0 -1 -1
+D1 
+~
+~
+0 -1 2611
+D3
+~
+~
+0 -1 2609
+S
+#2611
+Red Crescent Road~
+~
+0 0 2
+D0 
+The Village Gates to the Jungle.
+~
+~
+0 -1 -1
+D1 
+~
+~
+0 -1 -1
+D3 
+~
+~
+0 -1 2610
+S
+#2612
+Red Crescent Road~
+~
+0 0 2
+D0 
+The Potions and Pfilters Shoppe
+~
+~
+0 -1 -1
+D1
+~
+~
+0 -1 2613
+D3
+~
+~ 
+0 -1 2611
+S
+#2613
+Corner of Red Crescent and Eastern Way~
+~
+0 0 2
+D2
+On to Eastern Way.
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 2612
+S 
+#2614
+Eastern Way~
+~
+0 0 2
+D0 
+~
+~
+0 -1 2613
+D2
+~
+~
+0 -1 -1
+D3 
+The Darkened Sage's Library.
+~
+~
+0 -1 -1
+S 
+#2615 
+Eastern Way~
+~
+0 0 2
+D0 
+~
+~
+0 -1 2614
+D2 
+~
+~
+0 -1 2616
+S
+#2616
+Eastern Way~
+~
+0 0 2
+D0 
+~
+~
+0 -1 2615
+D2
+~
+~
+0 -1 2617
+D3 
+The Observatory Building.
+~
+~
+0 -1 -1
+S
+#2617
+Eastern Way~
+~
+0 0 2
+D0 
+~
+~
+0 -1 2616
+D2
+~
+~
+0 -1 -1
+D3 
+The Village Zoo.
+~
+~
+0 -1 -1
+S
+#2618
+Eastern Way~
+~
+0 0 2
+D0 
+~
+~
+0 -1 2617
+D2
+A path leading down to the docks.
+~
+~
+0 -1 -1
+D3 
+Fresh Road and the Shrine to Odin.
+~
+~
+0 -1 -1
+S
+#2619
+Before the Docks~
+~
+0 0 2
+D0 
+The path leading to Eastern Way.
+~
+~
+0 -1 2618
+D1
+A shady pier.
+~
+~
+0 -1 -1
+D2 
+A statue of a gargoyle, before a large arch.
+~
+~
+0 -1 -1
+S
+#2620
+Before a Shrine to Odin~
+~
+0 0 2
+D1
+~
+~
+0 -1 -1
+D3 
+~
+~
+0 -1 -1
+S 
+#2621
+On Fresh Road~
+~
+0 0 2
+D0
+Entrance to the Village Zoo.
+~
+~
+0 -1 -1
+D1 
+~
+~
+0 -1 2620
+D3 
+On to Market Square.
+~ 
+~
+0 -1 2622
+S
+#2622
+Market Square~
+~
+0 0 2
+D0
+Entering the General Store.
+~
+~
+0 -1 -1
+D1
+East on Fresh Road.
+~
+~
+0 -1 2621
+D2
+Entering the Village Blacksmith.
+~
+~
+0 -1 -1
+D3
+West to Fresh Road.
+~
+~
+0 -1 -1
+S 
+#2623 
+On Fresh Road~
+~
+0 0 2
+D1
+Heading towards Market Square.
+~
+~
+0 -1 2622
+D3
+Towards the Village Gates. 
+~
+~
+0 -1 2604
+S 
 #0
 
 
