@@ -142,7 +142,7 @@ D1
 To the First Post.
 ~
 ~
-0 -1 -1
+0 -1 2624
 D2 
 The village gates.
 ~
@@ -161,7 +161,7 @@ D1
 Entrance to the Guild Houses
 ~
 ~
-0 -1 -1
+0 -1 2626
 D2 
 ~
 ~
@@ -179,7 +179,7 @@ D1
 Entering Ye Olde Quest Shoppe 
 ~
 ~
-0 -1 -1
+0 -1 2628
 D2 
 ~
 ~
@@ -194,10 +194,10 @@ Corner of Western and Red Crescent
 ~
 0 -1 2609 
 D1
-Entrance to he Sage's Library
+Entrance to he Sage's Library.
 ~
 ~
-0 -1 -1
+0 -1 2629
 D2 
 ~
 ~
@@ -462,6 +462,75 @@ Towards the Village Gates.
 ~
 ~
 0 -1 2604
+S 
+#2624 
+The First Post~
+~
+0 0 2
+D1
+Heading towards the bar.
+~
+~
+0 -1 2625
+D3
+Heading towards Western Way.
+~
+~
+0 -1 2605
+S 
+#2625
+The First Post Bar~
+~
+0 0 2
+D3
+The main room of the First Post.
+~
+~
+0 -1 2624
+S 
+#2626 
+The Guild Houses and Training Area~
+~
+0 0 2
+D1 
+Going to the Practice Area.
+~
+~
+0 -1 2627
+D3 
+Heading out to Western Way.
+~
+~
+0 -1 2606
+S 
+#2627
+The Guild Houses and Practice Area~
+~
+0 0 2
+D3 
+~
+~
+0 -1 2626
+S
+#2628
+Ye Olde Quest Shoppe~
+~
+0 0 2
+D3
+Heading out to Western Way.
+~
+~
+0 -1 2607
+S
+#2629
+The Sage's Library~
+~
+0 0 2
+D3
+Heading out to Western Way.
+~
+~
+0 -1 2608
 S 
 #0
 
