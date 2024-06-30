@@ -532,6 +532,58 @@ Heading out to Western Way.
 ~
 0 -1 2608
 S 
+#2630
+The Village Leatherworker~
+~
+0 0 2
+D2
+Heading out the door to Red Crescent
+~
+~
+0 -1 -1
+S
+#2631
+The Northern Gates~
+~
+0 0 2
+D0
+Through the gates to the Jungle.
+~
+~
+0 -1 2632
+D2
+Heading to Red Crescent.
+~
+~
+0 -1 -1
+S
+#2632
+The Jungle Ruins~
+~
+0 0 2
+D0
+Heading through the Jungle Thicket~
+~
+0 -1 2633
+D2
+Going through the Northern Gates~
+~
+0 -1 2631
+S 
+#2633
+The Jungle Thicket~
+~
+0 0 2
+D0
+Through the Jungle.
+~
+~
+0 -1 -1
+D2
+Towards the Village.
+~
+~
+0 -1 2632
 #0
 
 
