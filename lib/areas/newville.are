@@ -578,12 +578,93 @@ D0
 Through the Jungle.
 ~
 ~
-0 -1 -1
+0 -1 2634
 D2
 Towards the Village.
 ~
 ~
 0 -1 2632
+S
+#2634
+The Jungle Ruins~
+~
+0 0 2 
+D0 
+On through the Jungle.
+~
+~
+0 -1 2637
+D1
+Before the mouth of a small cave.
+~
+~
+0 -1 2635
+D2
+Through the Jungle.
+~
+~
+0 -1 2633
+S 
+#2635
+Before a small cave~
+~
+0 0 2
+D1 
+Entering a small shrine.
+~
+~
+0 -1 2636
+D3 
+Through the Jungle Ruins.
+~
+~
+0 -1 2634
+S
+#2636
+The shrine to the Virtues~
+~
+0 0 2
+D3
+At the mouth of a small cave.
+~
+~
+0 -1 2635
+S 
+#2637
+Through the Jungle Ruins~
+~
+0 0 2
+D1
+Onwards through the Jungle.
+~
+~
+0 -1 -1
+D3
+Through the Jungle.
+~
+~
+0 -1 2634
+S 
+#2638
+At the edge of the Jungle Ruins~
+~
+0 0 2
+D0 
+Towards the edge of a steep cliff.
+~
+~
+0 -1 -1
+D2
+Entering the Jungle.
+~
+~
+0 -1 2637
+D3
+Path through a field to a ruined farmhouse.
+~
+~
+0 -1 -1
+S 
 #0
 
 
