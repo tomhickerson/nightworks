@@ -653,7 +653,7 @@ D0
 Towards the edge of a steep cliff.
 ~
 ~
-0 -1 -1
+0 -1 2639
 D2
 Entering the Jungle.
 ~
@@ -663,7 +663,52 @@ D3
 Path through a field to a ruined farmhouse.
 ~
 ~
+0 -1 7598
+S 
+#2639 
+Along the edge of the cliff~
+~
+0 0 2
+D1
+Towards a suspension bridge.
+~
+~
+0 -1 2640
+D2
+You see a path leading to the edge of the jungle.
+~
+~
+0 -1 2638 
+S
+#2640
+The west side of the bridge~
+~
+0 0 2
+D1 
+Heading over the bridge.
+~
+~
+0 -1 2641
+D3
+Heading on a path overlooking a cliff face.
+~
+~
+0 -1 2639
+S
+#2641
+On a suspension bridge~
+~
+0 0 2
+D1 
+On the east side of the bridge.
+~
+~
 0 -1 -1
+D3
+On the west side of the bridge.
+~
+~
+0 -1 2640 
 S 
 #0
 
