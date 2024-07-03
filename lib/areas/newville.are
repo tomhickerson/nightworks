@@ -364,12 +364,12 @@ D2
 A path leading down to the docks.
 ~
 ~
-0 -1 -1
+0 -1 2619
 D3 
 Fresh Road and the Shrine to Odin.
 ~
 ~
-0 -1 -1
+0 -1 2620
 S
 #2619
 Before the Docks~
@@ -384,12 +384,12 @@ D1
 A shady pier.
 ~
 ~
-0 -1 -1
+0 -1 2642
 D2 
 A statue of a gargoyle, before a large arch.
 ~
 ~
-0 -1 -1
+0 -1 2643
 S
 #2620
 Before a Shrine to Odin~
@@ -398,11 +398,11 @@ Before a Shrine to Odin~
 D1
 ~
 ~
-0 -1 -1
+0 -1 2618
 D3 
 ~
 ~
-0 -1 -1
+0 -1 2621
 S 
 #2621
 On Fresh Road~
@@ -709,6 +709,26 @@ On the west side of the bridge.
 ~
 ~
 0 -1 2640 
+S 
+#2642
+A shady pier~
+~
+0 0 2
+D3
+Leading up to the path to the village.
+~
+~
+0 -1 2619
+S 
+#2643 
+The Gargoyle Arch~
+~
+0 0 2
+D0 
+Leading up to the path to the village.
+~
+~
+0 -1 2619
 S 
 #0
 
