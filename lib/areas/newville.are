@@ -730,6 +730,41 @@ Leading up to the path to the village.
 ~
 0 -1 2619
 S 
+#2644
+The east side of the bridge~
+~
+0 0 2
+D1
+A path leading into the jungle.
+~
+~
+0 -1 -1
+D2 
+A path along the cliff's edge.
+~
+~
+0 -1 2645
+D3 
+Heading over the bridge.
+~
+~
+0 -1 2641
+S 
+#2645
+At the edge of the cliff.~
+~
+0 0 2
+D0
+Heading to a suspension bridge.
+~
+~
+0 -1 2644
+D5 
+A narrow path down the cliff.
+~
+~
+0 -1 -1
+S 
 #0
 
 
