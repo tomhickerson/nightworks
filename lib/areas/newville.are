@@ -763,7 +763,52 @@ D5
 A narrow path down the cliff.
 ~
 ~
-0 -1 -1
+0 -1 2646
+S 
+#2646
+A rocky trail~
+~
+0 0 2
+D4
+Heading up the cliffside to the top.
+~
+~
+0 -1 2645
+D5
+Heading down the cliffside to a windswept ledge.
+~
+~
+0 -1 2647
+S 
+#2647
+Along a windswept ledge~
+~
+0 0 2
+D1 
+The entry to a small cave.
+~
+~
+0 -1 2648
+D4
+Heading up the rocky path along the cliffside.
+~
+~
+0 -1 2646
+S 
+#2648
+Entry to a watery cave~
+~
+0 0 2
+D3 
+Leaving the cave.
+~
+~
+0 -1 2647
+D1 
+A rounded passage.
+~
+~
+0 -1 -1 
 S 
 #0
 
