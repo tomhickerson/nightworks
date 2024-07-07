@@ -738,7 +738,7 @@ D1
 A path leading into the jungle.
 ~
 ~
-0 -1 -1
+0 -1 2650
 D2 
 A path along the cliff's edge.
 ~
@@ -808,7 +808,32 @@ D1
 A rounded passage.
 ~
 ~
-0 -1 -1 
+0 -1 2649
+S 
+#2649
+A small grotto~
+~
+0 0 2
+D3 
+Exiting the small grotto.
+~
+~
+0 -1 2648
+S
+#2650 
+The path at the edge of the jungle~
+~
+0 0 2
+D1 
+Heading deeper into the jungle.
+~
+~
+0 -1 -1
+D3
+Approaching the cliff face.
+~
+~
+0 -1 2644
 S 
 #0
 
