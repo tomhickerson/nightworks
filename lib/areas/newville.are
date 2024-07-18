@@ -828,12 +828,47 @@ D1
 Heading deeper into the jungle.
 ~
 ~
-0 -1 -1
+0 -1 2651
 D3
 Approaching the cliff face.
 ~
 ~
 0 -1 2644
+S 
+#2651
+The trail through the jungle~
+~
+0 0 2
+D1 
+Leading up to a small cave.
+~
+~
+0 -1 -1
+D2
+Heading through the thick jungle.
+~
+~
+0 -1 -1
+D3
+Approaching a cliff face.
+~
+~
+0 -1 2650
+S
+#2652
+At the mouth of a cave~
+~
+0 0 2
+D1
+A small rocky passage.
+~
+~
+0 -1 -1
+D3
+On a trail through the jungle.
+~
+~
+0 -1 2651
 S 
 #0
 
