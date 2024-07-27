@@ -222,6 +222,22 @@ steel~
 weapon 0 AN
 sword 3 8 slash 0
 15 30 200 G
+#22603
+prism wand~
+a prism wand~
+A wand made of a triangular prism twinkles in the dust.~
+glass~
+wand AG AO
+11 4 4 'colour spray' 0
+12 40 2200 P
+#22604
+potion clear~
+a clear potion~
+A clear potion wrapped in leather has been placed here.~
+glass~
+potion G A
+20 'detect evil' 'detect invis' 'detect magic' ''
+0 20 300 P
 #0
 
 
