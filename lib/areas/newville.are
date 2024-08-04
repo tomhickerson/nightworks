@@ -131,7 +131,11 @@ through the gates and going through the jungles.{x~
 S 
 #2605
 On Western Way~
-~
+You are on a simple dirt road, running north-south along the 
+westernmost wall of the village, built of stout logs and bound 
+with chains and rope.  Beyond the walls to the west you can see 
+glints of a dark jungle.  To the east, the road heads into a local
+gathering house.~
 0 0 2
 D0 
 Along Western Way.
@@ -151,7 +155,9 @@ The village gates.
 S 
 #2606 
 On Western Way~
-~
+You are on a simple dirt road, leading north-south along the 
+rough, wooded wall of the village and the village itself.  You 
+see a road branching off to the east, leading to the Guild Houses.~
 0 0 2
 D0 
 ~
@@ -169,9 +175,13 @@ D2
 S 
 #2607 
 On Western Way~
+You are on a simple dirt road, running north and south along 
+a stout wooden wall.  To the east you see the entrance to a 
+Quest Shoppe.
 ~
 0 0 2
 D0 
+On Western Way.
 ~
 ~
 0 -1 -1
@@ -181,6 +191,7 @@ Entering Ye Olde Quest Shoppe
 ~
 0 -1 2628
 D2 
+On Western Way.
 ~
 ~
 0 -1 2606
