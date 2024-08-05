@@ -370,7 +370,7 @@ be deadly to enter.~
 E
 plant life~
 The plant life is completely unknown to you, but most seems to be a type of
-phosphoresent bush that radiates a pale blue light. All would see to not need
+phosphoresent bush that radiates a pale blue light. All would seem to not need
 sunlight to survive.~
 S 
 #22606
@@ -1522,6 +1522,11 @@ S
 
 #RESETS
 O 0 22600 0 22642 * loading the arrow trap in the dragons lair 
+O 0 22601 0 22644 * loading the pit trap in the dragon lair 
+O 0 22605 0 22637 * putting the chest in the darkelf traveler's vault
+M 0 22600 2 22609 1 * large spider in the sticky tunnel 
+M 0 22600 2 22610 1 * large spider in the slimy tunnel 
+M 0 22607 1 22613 1 * gargantuam spider in its lair 
 D 0 22641 3 1 * closing the gate to the west from 22641 
 D 0 22640 1 1 * closing the gate to the east from 22640 
 D 0 22601 0 2 * closing and locking the door north from 22601 

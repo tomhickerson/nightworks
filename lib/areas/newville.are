@@ -197,6 +197,10 @@ On Western Way.
 0 -1 2606
 #2608
 On Western Way~
+You are on a simple dirt road, leading north and south.  To the east you 
+see the small stone Sage's Library, while to the north you can make out the
+main road turning to the northeast.  The jungles beyond the wall to the west
+are eerily silent.
 ~
 0 0 2
 D0 
@@ -216,6 +220,9 @@ D2
 S 
 #2609 
 Corner of Western Way and Red Crescent~
+You are at the corner of two main roads in the village, Western Way 
+and Red Crescent.  A small watchtower rises above the wooden walls 
+here, to survey the jungle.
 ~
 0 0 2
 D1
@@ -230,6 +237,10 @@ D2
 S  
 #2610
 Red Crescent Road~
+You are walking on a dirt road, the dirt running red from some of the 
+mine runoff.  That is where this street gets its name - the Red 
+Crescent.  A small shop is to the north and the road runs east 
+and west.
 ~
 0 0 2
 D0 
