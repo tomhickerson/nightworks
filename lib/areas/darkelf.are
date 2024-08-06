@@ -322,7 +322,7 @@ S
 #22604
 Caverns deep underground~
 The caves and tunnels continue east-west here. Directly to the west there
-is the sound of flowing water, and you can here a 'bleep' sound, you cannot
+is the sound of flowing water, and you can hear a 'bleep' sound, you cannot
 fanthom what could be making it though. The walls here are coated with
 persperation, and the air is thick with humidity.
 ~
@@ -1523,10 +1523,16 @@ S
 #RESETS
 O 0 22600 0 22642 * loading the arrow trap in the dragons lair 
 O 0 22601 0 22644 * loading the pit trap in the dragon lair 
+O 0 22602 0 22647 * putting the fae sword in the shadow dragons vault 
 O 0 22605 0 22637 * putting the chest in the darkelf traveler's vault
 M 0 22600 2 22609 1 * large spider in the sticky tunnel 
 M 0 22600 2 22610 1 * large spider in the slimy tunnel 
+M 0 22601 2 22603 1 * umber hulk as a wandering monster 
+M 0 22602 1 22637 1 * yolochol set to guard the treasure vault
+M 0 22603 1 22646 1 * shadow dragon in its lair 
 M 0 22607 1 22613 1 * gargantuam spider in its lair 
+M 0 22611 2 22629 1 * ghoul in the crypt 
+M 0 22611 2 22628 1 * ghoul near the crypt 
 D 0 22641 3 1 * closing the gate to the west from 22641 
 D 0 22640 1 1 * closing the gate to the east from 22640 
 D 0 22601 0 2 * closing and locking the door north from 22601 
