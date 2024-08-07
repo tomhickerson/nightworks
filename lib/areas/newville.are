@@ -259,6 +259,9 @@ D3
 S
 #2611
 Red Crescent Road~
+You are on a dirt road made of red, soft clay harvested from around 
+the mines of the jungle.  To the north you can see the village gates, 
+while this road runs east and west. 
 ~
 0 0 2
 D0 
@@ -269,7 +272,7 @@ The Village Gates to the Jungle.
 D1 
 ~
 ~
-0 -1 -1
+0 -1 2612
 D3 
 ~
 ~
@@ -277,6 +280,10 @@ D3
 S
 #2612
 Red Crescent Road~
+You are on a red dirt road, made of the clay from nearby mines. 
+To the north you can see a small shop, and the road runs east and 
+west.  To the east in the distance, you can see a curve in the 
+road.
 ~
 0 0 2
 D0 
@@ -301,7 +308,7 @@ D2
 On to Eastern Way.
 ~
 ~
-0 -1 -1
+0 -1 2614
 D3
 ~
 ~
@@ -318,7 +325,7 @@ D0
 D2
 ~
 ~
-0 -1 -1
+0 -1 2615
 D3 
 The Darkened Sage's Library.
 ~

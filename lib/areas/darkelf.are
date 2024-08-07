@@ -1530,7 +1530,15 @@ M 0 22600 2 22610 1 * large spider in the slimy tunnel
 M 0 22601 2 22603 1 * umber hulk as a wandering monster 
 M 0 22602 1 22637 1 * yolochol set to guard the treasure vault
 M 0 22603 1 22646 1 * shadow dragon in its lair 
+M 0 22604 2 22622 1 * darkelf guard at the guard post 
+M 0 22604 2 22623 1 * darkelf guard at the guard post 
+M 0 22605 2 22650 1 * darkelf fighter at the city gates  
+M 0 22606 2 22660 1 * darkelf warrior at the fighter's guild  
 M 0 22607 1 22613 1 * gargantuam spider in its lair 
+M 0 22608 1 22631 1 * evil lich in its inner sanctum 
+M 0 22609 2 22618 1 * fire elemental in the cave of fire 
+M 0 22609 2 22619 1 * fire elemental in the cave of fire  
+M 0 22610 2 22630 1 * skeletal warrior in the altar room 
 M 0 22611 2 22629 1 * ghoul in the crypt 
 M 0 22611 2 22628 1 * ghoul near the crypt 
 D 0 22641 3 1 * closing the gate to the west from 22641 
