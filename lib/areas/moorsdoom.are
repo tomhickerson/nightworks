@@ -3104,6 +3104,12 @@ D 0 50008 0 1	* Near the Gypsy Camp: door to the north: closed
 D 0 50021 2 1	* South Gate: door to the south: closed
 D 0 50126 4 1   * hatch leading up from 50126, closed 
 D 0 50125 5 1   * hatch leading down from 50125, closed 
+M 0 50000 1 50103 1 * skeleton undead warrior wandering the moors 
+M 0 50001 1 50014 1 * gypsy king by the campfire 
+M 0 50002 1 50017 1 * gypsy healer by the white wagon
+M 0 50003 3 50022 1 * ugly guardsman on south main st  
+M 0 50004 1 50014 1 * gypsy craftsman by the blue wagon  
+M 0 50010 1 50101 1 * werewolf, somewhere in the moors  
 S
 
 
