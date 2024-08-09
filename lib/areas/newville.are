@@ -247,7 +247,7 @@ D0
 The Village Leatherworker.
 ~
 ~
-0 -1 -1
+0 -1 2630
 D1 
 ~
 ~
@@ -268,7 +268,7 @@ D0
 The Village Gates to the Jungle.
 ~
 ~
-0 -1 -1
+0 -1 2631
 D1 
 ~
 ~
@@ -302,6 +302,10 @@ D3
 S
 #2613
 Corner of Red Crescent and Eastern Way~
+You are at the corner of Red Crescent and the Eastern Way, 
+which lines the village's border to the east.  You can 
+go west or south from here, and a watchtower is built
+into the corner here, surveying the surrounding jungle.
 ~
 0 0 2
 D2
@@ -316,6 +320,10 @@ D3
 S 
 #2614
 Eastern Way~
+You are on a hard dirt road running between the wall and
+the rest of the village.  Lush tufts of grass line the 
+road here, looking well cared-after.  A path to a library
+leads west.
 ~
 0 0 2
 D0 
@@ -563,16 +571,26 @@ Heading out to Western Way.
 S 
 #2630
 The Village Leatherworker~
+You are in a small, cramped tent which smells like 
+the natural tannens used in curing hides and other 
+skins.  A tidy bench takes up the north part of the
+tent, upon which are spread all sorts of leather goods
+and clothing.
+Hanging over the tent pole is a small {Wsign{x.
 ~
 0 0 2
 D2
-Heading out the door to Red Crescent
+Heading out the tent flap to Red Crescent.
 ~
 ~
-0 -1 -1
+0 -1 2610
 S
 #2631
 The Northern Gates~
+You are standing before the stout wooden gates leading
+north into the jungle.  The gates are open, but bound
+with metal and look like they can be closed quickly in 
+case of trouble.
 ~
 0 0 2
 D0
@@ -584,7 +602,7 @@ D2
 Heading to Red Crescent.
 ~
 ~
-0 -1 -1
+0 -1 2611
 S
 #2632
 The Jungle Ruins~
