@@ -606,6 +606,11 @@ Heading to Red Crescent.
 S
 #2632
 The Jungle Ruins~
+You are on a wide, dirt road running through the jungle.  Large
+stone blocks stand off to the sides of the road, long since 
+overgrown with vines and mold.  The air is very still and humid.
+To the south you see the gates to the village, and the road winds
+through the jungle to the north.
 ~
 0 0 2
 D0
@@ -619,6 +624,10 @@ Going through the Northern Gates~
 S 
 #2633
 The Jungle Thicket~
+You are on a dirt road running through the thick of the jungle.
+Here it is plain to see the bootprints and wheel marks of miners 
+going to and from the mines and the village.  The jungle is 
+quiet, but you can hear some bird calls in the very far distance.
 ~
 0 0 2
 D0
@@ -634,6 +643,11 @@ Towards the Village.
 S
 #2634
 The Jungle Ruins~
+You are on a wide road, heading through the jungle, some where
+between the mines and the village.  You see large, round stones 
+driven into the ground off to the sides of the road, overgrown 
+by foilage and mosses.  It is not possible to tell who may have
+put them there, or when.  A small path branches off to the east.
 ~
 0 0 2 
 D0 
@@ -654,6 +668,9 @@ Through the Jungle.
 S 
 #2635
 Before a small cave~
+You are on a small but well-worn path, leading between the large 
+ancient stones in the jungle.  You can see a cave mouth to the east 
+and a wide road to the west.
 ~
 0 0 2
 D1 
@@ -669,6 +686,9 @@ Through the Jungle Ruins.
 S
 #2636
 The shrine to the Virtues~
+You are in a small cave, with a wide opening leading west.
+Carved into the wall of the cave are small alcoves and 
+shrines to the Seven Virtues. 
 ~
 0 0 2
 D3
@@ -679,18 +699,21 @@ At the mouth of a small cave.
 S 
 #2637
 Through the Jungle Ruins~
+You are on a wide, dirt road that curves out of the jungles 
+to face some kind of an opening to the west.  To the south, 
+you can see the watchtowers of the village in the distance. 
 ~
 0 0 2
 D1
 Onwards through the Jungle.
 ~
 ~
-0 -1 -1
+0 -1 2634
 D3
 Through the Jungle.
 ~
 ~
-0 -1 2634
+0 -1 2638
 S 
 #2638
 At the edge of the Jungle Ruins~
