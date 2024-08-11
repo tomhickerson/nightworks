@@ -241,11 +241,25 @@ potion G A
 #22605
 iron banded chest~
 the iron banded chest~
-A dark iron-banded chest is sitting here.~
+A dark iron-banded chest covered in runes is sitting here.~
 ~
 container o 0
 10000 0 0 1000 100
 0 0 0 P
+#22606
+vestment spider silk~
+spider silk vestments~
+Vestments made of beautiful and delicate silk lie in a heap here.~
+silk~
+armor 0 AD
+5 5 5 5 1
+15 5 900 P
+E
+vestment vest~
+This beautiful robe is woven of delicate spider silk and feels very 
+light but also extremely strong. It's black, with a silver pattern 
+resembling a spider's web covering it.
+~
 #0
 
 
