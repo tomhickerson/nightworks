@@ -717,6 +717,10 @@ Through the Jungle.
 S 
 #2638
 At the edge of the Jungle Ruins~
+You are skirting the edge of a deep, dark jungle.  To the north 
+you see rough grassy fields and the cliff faces of the island, 
+while to the south a wide dirt road heads into the jungle.  To 
+the west, there is a path leading to a dilapidated farmhouse.
 ~
 0 0 2
 D0 
@@ -737,6 +741,11 @@ Path through a field to a ruined farmhouse.
 S 
 #2639 
 Along the edge of the cliff~
+You are on the edge of a cliff, and far below you can 
+make out the churning seas that surround this island 
+paradise.  To the south the path leads up to a dark 
+jungle, while you see a bridge heading over the edge 
+of the island to the east.
 ~
 0 0 2
 D1
@@ -752,6 +761,10 @@ You see a path leading to the edge of the jungle.
 S
 #2640
 The west side of the bridge~
+You are in front of a sturdy wooden suspension bridge, leading 
+from this island to the next.  The seas far below you churn and froth,
+and from here you can see fish and other creatures swimming in the
+clear blue waters.
 ~
 0 0 2
 D1 
@@ -767,13 +780,16 @@ Heading on a path overlooking a cliff face.
 S
 #2641
 On a suspension bridge~
+You are on the stout wooden suspension bridge, between the 
+two mountainous islands.  It swings gently in the breeze, but
+you feel like you can walk on it without issues.
 ~
 0 0 2
 D1 
 On the east side of the bridge.
 ~
 ~
-0 -1 -1
+0 -1 2644
 D3
 On the west side of the bridge.
 ~
@@ -782,6 +798,8 @@ On the west side of the bridge.
 S 
 #2642
 A shady pier~
+You are on a pier fashiond of old wood and rope, jutting out into the 
+clear blue waters of the sea that surround these islands.
 ~
 0 0 2
 D3
