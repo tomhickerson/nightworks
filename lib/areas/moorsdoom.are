@@ -83,6 +83,20 @@ AO T -500 0
 0 0 D 0
 stand stand none 40
 0 0 medium unknown
+#50006
+gypsy dancer~
+The Gypsy Dancer~
+The Gypsy Dancer strikes up another dance as the music swells.~
+Dressed in red and blue silks and scarves, the gypsy dancer is 
+a free spirit, who is lost in the music and singing of the 
+tribe.  Her eyes blaze like ice on fire.~
+human~
+AO T 0 0
+12 0 10d10+200 10d10+1 1d12+4 pound
+1 1 3 1
+0 0 D 0
+stand stand none 50
+0 0 medium unknown
 #50010
 werewolf wolf manwolf shapeshifter~
 A large wolf-like man.~
@@ -3119,7 +3133,9 @@ M 0 50000 1 50103 1 * skeleton undead warrior wandering the moors
 M 0 50001 1 50014 1 * gypsy king by the campfire 
 M 0 50002 1 50017 1 * gypsy healer by the white wagon
 M 0 50003 3 50022 1 * ugly guardsman on south main st  
-M 0 50004 1 50014 1 * gypsy craftsman by the blue wagon  
+M 0 50004 1 50014 1 * gypsy craftsman by the blue wagon
+M 0 50005 3 50094 1 * rude guard south gate 2nd floor   
+M 0 50006 1 50016 1 * gypsy dancer by the red wagon 
 M 0 50010 1 50101 1 * werewolf, somewhere in the moors  
 S
 
