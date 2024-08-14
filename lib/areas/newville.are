@@ -799,7 +799,8 @@ S
 #2642
 A shady pier~
 You are on a pier fashiond of old wood and rope, jutting out into the 
-clear blue waters of the sea that surround these islands.
+clear blue waters of the sea that surround these islands.  The old boards
+creak under your feet, but seem stable enough.
 ~
 0 0 2
 D3
@@ -810,6 +811,9 @@ Leading up to the path to the village.
 S 
 #2643 
 The Gargoyle Arch~
+You are standing before a simple stone arch at the edge of the sea.  The
+arch is peaked in the middle, like a church window, and bears the face
+of a gargoyle at its very top.
 ~
 0 0 2
 D0 
@@ -820,6 +824,11 @@ Leading up to the path to the village.
 S 
 #2644
 The east side of the bridge~
+You are on the eastern side of the suspension bridge which connects the 
+two islands.  The seas toss and turn underneath you, smashing against
+the rocky cliffsides.  From here you can cross the bridge to the other
+island or head into the jungles.  A small path also winds along the cliff's
+edge to the south.
 ~
 0 0 2
 D1
@@ -840,6 +849,9 @@ Heading over the bridge.
 S 
 #2645
 At the edge of the cliff.~
+You are on a narrow path that runs along the side of the 
+cliff's edge.  The bridge is visible to the north and here
+you see a slope down to a ledge.
 ~
 0 0 2
 D0
