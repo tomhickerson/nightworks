@@ -943,12 +943,12 @@ D1
 Leading up to a small cave.
 ~
 ~
-0 -1 -1
+0 -1 2652
 D2
 Heading through the thick jungle.
 ~
 ~
-0 -1 -1
+0 -1 2654
 D3
 Approaching a cliff face.
 ~
@@ -963,12 +963,52 @@ D1
 A small rocky passage.
 ~
 ~
-0 -1 -1
+0 -1 2653
 D3
 On a trail through the jungle.
 ~
 ~
 0 -1 2651
+S 
+#2653
+In a small shrine~
+~
+0 0 2
+D3
+A passage exiting the shrine.
+~
+~
+0 -1 2652
+S 
+#2654
+A way through the jungle~
+~
+0 0 2
+D0 
+A path north through the jungle.
+~
+~
+0 -1 2651
+D1
+A fork in the road, heading towards a mine.
+~
+~
+0 -1 2655
+D2
+A path south through the jungle.
+~
+~
+0 -1 -1
+S 
+#2655
+Before the mineshaft~
+~
+0 0 2
+D3 
+Heading towards the main road in the jungle.
+~
+~
+0 -1 2654
 S 
 #0
 
