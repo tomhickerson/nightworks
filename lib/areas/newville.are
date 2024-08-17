@@ -998,7 +998,7 @@ D2
 A path south through the jungle.
 ~
 ~
-0 -1 -1
+0 -1 2656
 S 
 #2655
 Before the mineshaft~
@@ -1009,6 +1009,56 @@ Heading towards the main road in the jungle.
 ~
 ~
 0 -1 2654
+S 
+#2656
+On a jungle path~
+~
+0 0 2
+D0
+Heading north to a fork in the road.
+~
+~
+0 -1 2654
+D2
+Heading south through the jungle thicket.
+~
+~
+0 -1 2657
+S 
+#2657 
+Several paths into the jungle~
+~
+0 0 2
+D0 
+Heading north through the jungle.
+~
+~
+0 -1 2656
+D1 
+Heading east into a small clearing.
+~
+~
+0 -1 2658 
+D2
+Heading south through the jungle.
+~
+~
+0 -1 -1
+S
+#2658
+A small clearing in the jungle~
+~
+0 0 2
+D1 
+Heading east to a small fence.
+~
+~
+0 -1 -1
+D3
+Heading west into the jungle.
+~
+~
+0 -1 2657
 S 
 #0
 
