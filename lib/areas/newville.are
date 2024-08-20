@@ -1002,6 +1002,12 @@ A path south through the jungle.
 S 
 #2655
 Before the mineshaft~
+You stand before a gaping hole in the ground, surrounded by 
+all sorts of equipment for the mine.  The road leads right up 
+to the hole, and it looks like there is a small cart to transport
+workers and minerals straight down into the mine.  Red dirt and
+clay stain the grasses around the road, and a strange smell
+comes from below.
 ~
 0 0 2
 D3 
@@ -1012,6 +1018,10 @@ Heading towards the main road in the jungle.
 S 
 #2656
 On a jungle path~
+You are on a jungle path heading north and south.  You can 
+hear the moisture drip onto the ground from all the thick leaves
+and vines.  Gnarled mossy trees line this path, offering no 
+exits except on the path itself, which leads north and south.
 ~
 0 0 2
 D0
@@ -1027,6 +1037,8 @@ Heading south through the jungle thicket.
 S 
 #2657 
 Several paths into the jungle~
+You are on a dirt path in the humid thick jungle.  You can 
+see ways leading north, east and south.
 ~
 0 0 2
 D0 
@@ -1047,6 +1059,12 @@ Heading south through the jungle.
 S
 #2658
 A small clearing in the jungle~
+You are on the end of a road which opens up into a small
+clearing.  Short grass covers an area which was cleared out
+of the innermost jungle, but... for what?
+A dirt path leads through the grass to the east towards 
+something that looks like an iron fence.  The way through 
+the jungle leads to the west. 
 ~
 0 0 2
 D1 
