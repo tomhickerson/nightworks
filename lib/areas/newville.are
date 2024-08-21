@@ -937,6 +937,9 @@ Approaching the cliff face.
 S 
 #2651
 The trail through the jungle~
+You are on a dirt road, cutting into the jungle and 
+heading towards this island's part of the town.  A small
+path juts away from the main road to the east.
 ~
 0 0 2
 D1 
@@ -957,6 +960,9 @@ Approaching a cliff face.
 S
 #2652
 At the mouth of a cave~
+You are at the end of a path, before the mouth of a small 
+low cave.  Multicolored lights come from within.  The path 
+snakes between a pair of gnarled trees and leads west.
 ~
 0 0 2
 D1
@@ -972,6 +978,10 @@ On a trail through the jungle.
 S 
 #2653
 In a small shrine~
+You are in a small round cave, decorated with small shrines of
+different colors with small figurines nested within them.  Looking 
+closer, you see the figurines slowly change, depicting some kind of 
+moving picture.
 ~
 0 0 2
 D3
@@ -982,15 +992,18 @@ A passage exiting the shrine.
 S 
 #2654
 A way through the jungle~
+You are at a crossroads in the middle of the jungle; 
+the main road runs north and east, while a narrow 
+road leads to the south.
 ~
 0 0 2
 D0 
-A path north through the jungle.
+A road north through the jungle.
 ~
 ~
 0 -1 2651
 D1
-A fork in the road, heading towards a mine.
+A turn in the road, heading towards a mine.
 ~
 ~
 0 -1 2655
