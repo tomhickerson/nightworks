@@ -867,6 +867,10 @@ A narrow path down the cliff.
 S 
 #2646
 A rocky trail~
+You are on the high part of the cliffside, overlooking 
+both islands and the sea around you.  It is quite a {Wview{x.
+You also spy a slight path leading down the side of the cliff 
+face. 
 ~
 0 0 2
 D4
@@ -879,9 +883,22 @@ Heading down the cliffside to a windswept ledge.
 ~
 ~
 0 -1 2647
+E
+view~
+Looking around you from this perch, you can see the two 
+islands jutting up through the foamy seas, covered in jungles.
+The twin villages are set at the far end of the islands, set 
+on the flattest parts of the island.  On one side you 
+see the copper domes of the Observatory shining in the 
+light, while on the other village the lighthouse stands 
+tall over the other buildings.~
 S 
 #2647
 Along a windswept ledge~
+You are clambering along the rocky wind-swept ledge 
+leading down towards what looks like a cave mouth.
+The rocks here are speckled gray, black and red, and 
+are wet from the spray of the sea.
 ~
 0 0 2
 D1 
@@ -922,6 +939,11 @@ Exiting the small grotto.
 S
 #2650 
 The path at the edge of the jungle~
+You are standing at the end of a path leading into the dark jungle,
+which leads to the mining town.  The wind whips over the cliff face
+and brings with it the scents of salt and the sea.  Through the grassy
+tufts of the cliff face, the suspension bridge sways across the gap 
+between islands to the west.
 ~
 0 0 2
 D1 
