@@ -551,6 +551,10 @@ D3
 S
 #2628
 Ye Olde Quest Shoppe~
+You are in a small shop, where velvet drapes and 
+silks hang from the ceiling, walls, and are spread 
+along the floor.  You see a small {Wsign{x in the 
+back of the shop.
 ~
 0 0 2
 D3
@@ -561,6 +565,9 @@ Heading out to Western Way.
 S
 #2629
 The Sage's Library~
+You are in a small wooden building, with shelves of books
+on all sides.  A small table is here also covered in books.
+Above the table hangs a small {Wsign{x.
 ~
 0 0 2
 D3
@@ -899,6 +906,8 @@ You are clambering along the rocky wind-swept ledge
 leading down towards what looks like a cave mouth.
 The rocks here are speckled gray, black and red, and 
 are wet from the spray of the sea.
+An entry to a small cave is to the east, while the 
+path to the top of the cliff face leads up.
 ~
 0 0 2
 D1 
@@ -914,6 +923,10 @@ Heading up the rocky path along the cliffside.
 S 
 #2648
 Entry to a watery cave~
+You are standing in front of a round cave entrance, worn 
+into the side of the cliff face by years of erosion.  The 
+waves here splash up and into the cave, covering the floor
+with about half a foot of water.
 ~
 0 0 2
 D3 
@@ -929,6 +942,9 @@ A rounded passage.
 S 
 #2649
 A small grotto~
+You are in a rounded passage of gray rock, with water 
+splashing about your ankles.  This chamber is perfectly 
+round, and seems to be naturally made.
 ~
 0 0 2
 D3 
