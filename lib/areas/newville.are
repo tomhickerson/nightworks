@@ -527,6 +527,10 @@ The main room of the First Post.
 S 
 #2626 
 The Guild Houses and Training Area~
+You are in a entryway passage to the Guild Houses, 
+part of the organization that runs things in the 
+village here.  An exit to the street is west and 
+the pratice area is to the east.
 ~
 0 0 2
 D1 
@@ -542,7 +546,9 @@ Heading out to Western Way.
 S 
 #2627
 The Guild Houses and Practice Area~
-~
+You find yourself in an airy room with a large, curved 
+ceiling.  Light flows in from the top of the ceiling and 
+illuminates a training area for all townsfolk.~
 0 0 2
 D3 
 ~
@@ -1106,7 +1112,7 @@ D2
 Heading south through the jungle.
 ~
 ~
-0 -1 -1
+0 -1 2660
 S
 #2658
 A small clearing in the jungle~
@@ -1122,12 +1128,46 @@ D1
 Heading east to a small fence.
 ~
 ~
-0 -1 -1
+0 -1 2659
 D3
 Heading west into the jungle.
 ~
 ~
 0 -1 2657
+S 
+#2659
+Gates to the village cemetery~
+You are at the end of a small clearing in the jungle, before a 
+black iron gate.  The words over the gate's archway reads
+VILLAGE CEMETERY.  Through the gate you can see overgrown grass
+and a number of gray headstones peeking out from the growth.
+~
+0 0 2
+D1
+Heading east into the cemetery.
+~
+~
+0 -1 -1
+D3
+Heading west into the clearing.
+~
+~
+0 -1 2658
+S
+#2660 
+Before the Village Gates~
+~
+0 0 2
+D0
+Heading north into the jungle.
+~
+~
+0 -1 2657
+D2
+Heading south through the gates.
+~
+~
+0 -1 -1
 S 
 #0
 
