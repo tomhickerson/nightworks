@@ -1167,7 +1167,57 @@ D2
 Heading south through the gates.
 ~
 ~
+0 -1 2661
+S 
+#2661
+On the Corner of Northern Way and Hardscrabble Road~
+~
+0 0 2
+D0 
+Heading north through the gates.
+~
+~
+0 -1 2660 
+D1
+Heading east on Northern Way.
+~
+~
+0 -1 2662
+D2
+Heading south on Hardscrabble Road.
+~
+~
 0 -1 -1
+S
+#2662 
+On Northern Way~
+~
+0 0 2
+D1 
+Heading east on Northern Way.
+~
+~
+0 -1 -1
+D2 
+Approaching a small shrine to Zeus.
+~
+~
+0 -1 2663
+D3
+Heading west on Northern Way.
+~
+~
+0 -1 2661
+S
+#2663
+A Shrine to Zeus~
+~
+0 0 2
+D0
+Northern Way.
+~
+~
+0 -1 2662
 S 
 #0
 
