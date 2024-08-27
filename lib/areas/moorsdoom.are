@@ -9,7 +9,9 @@ Moors of Doom~
 skeleton undead warrior~
 A skeleton warrior.~
 A ghastly undead skeleton warrior is here, ready to attack.~
-~
+The undead skeleton seems to be held together by some kind of 
+ghastly magick.  Its eye sockets burn with a green flame as it
+turns towards you to attack...~
 undead~
 AOe 0 -1000 0
 5 0 1d20+45 0d0+0 2d2+6 claw
