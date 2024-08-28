@@ -1197,7 +1197,7 @@ D1
 Heading east on Northern Way.
 ~
 ~
-0 -1 -1
+0 -1 2664
 D2 
 Approaching a small shrine to Zeus.
 ~
@@ -1218,6 +1218,36 @@ Northern Way.
 ~
 ~
 0 -1 2662
+S 
+#2664
+On Northern Way, in front of a small office~
+~
+0 0 2
+D1 
+Heading east on Northern Way.
+~
+~
+0 -1 -1
+D2
+Entering a small office.
+~
+~
+0 -1 2665
+D3
+Heading west on Western Way.
+~
+~
+0 -1 2662
+S  
+#2665 
+The Passport Office~
+~
+0 0 2
+D0 
+Heading out to Western Way.
+~
+~
+0 -1 2664
 S 
 #0
 
