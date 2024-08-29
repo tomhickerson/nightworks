@@ -1227,14 +1227,14 @@ D1
 Heading east on Northern Way.
 ~
 ~
-0 -1 -1
+0 -1 2666
 D2
 Entering a small office.
 ~
 ~
 0 -1 2665
 D3
-Heading west on Western Way.
+Heading west on Northern Way.
 ~
 ~
 0 -1 2662
@@ -1244,10 +1244,35 @@ The Passport Office~
 ~
 0 0 2
 D0 
-Heading out to Western Way.
+Heading out to Northern Way.
 ~
 ~
 0 -1 2664
+S 
+#2666 
+On Northern Way, near the docks~
+~
+0 0 2
+D2
+A path leading down to the dock.
+~
+~
+0 -1 2667
+D3 
+Heading west on Northern Way.
+~
+~
+0 -1 2664
+S
+#2667 
+The Mythras Docks~
+~
+0 0 2
+D0 
+Heading up to Northern Way.
+~
+~
+0 -1 2666
 S 
 #0
 
