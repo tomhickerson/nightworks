@@ -1187,7 +1187,7 @@ D2
 Heading south on Hardscrabble Road.
 ~
 ~
-0 -1 -1
+0 -1 2670
 S
 #2662 
 On Northern Way~
@@ -1273,6 +1273,81 @@ Heading up to Northern Way.
 ~
 ~
 0 -1 2666
+D1
+Approaching a shady pier.
+~
+~
+0 -1 2669
+D2
+A small gargoyle statue.
+~
+~
+0 -1 2668
+S 
+#2668
+The Gargoyle Arch~
+~
+0 0 2
+D0 
+Going to the Mythras Docks~
+~
+~
+0 -1 2667
+S
+#2669
+A shady pier~
+~
+0 0 2
+D3 
+Going to the Mythras Docks.
+~
+~
+0 -1 2667
+S 
+#2670
+On Hardscrabble Road~
+~
+0 0 2
+D0
+To the corner of Hardscrabble and Northern Way.
+~
+~
+0 -1 2661
+D2
+Heading south on Hardscrabble.
+~
+~
+0 -1 2671
+D3
+Entering a small merchant tent.
+~
+~
+0 -1 -1
+S 
+#2671
+On Hardscrabble Road~
+~
+0 0 2
+D0 
+Heading north on Hardscrabble.
+~
+~ 
+0 -1 2670
+D2
+Heading south to the Market Square.
+~
+~
+0 -1 -1
+S
+#2672
+Market Square~
+~
+0 0 2
+D0
+Heading north on Hardscrabble.
+~
+~
+0 -1 2671
 S 
 #0
 
