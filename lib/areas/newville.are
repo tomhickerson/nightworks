@@ -1348,6 +1348,41 @@ Heading north on Hardscrabble.
 ~
 ~
 0 -1 2671
+D1
+Heading into the Mapmaker's Shoppe.
+~
+~
+0 -1 2674 
+D2
+Approaching the corner of Hardscrabble and Southern.
+~
+~
+0 -1 -1
+D3 
+Entering a simple tent where you hear some hissing sounds.
+~
+~
+0 -1 2673
+S 
+#2673
+The Glassblower's Tent~
+~
+0 0 2
+D1
+Exiting the tent to Market Square.
+~
+~
+0 -1 2672
+S 
+#2674 
+The Mapmaker's Shoppe~
+~
+0 0 2
+D3 
+Exiting the Shoppe to Market Square.
+~
+~
+0 -1 2672
 S 
 #0
 
