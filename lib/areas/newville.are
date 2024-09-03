@@ -1384,6 +1384,21 @@ Exiting the Shoppe to Market Square.
 ~
 0 -1 2672
 S 
+#2675
+Corner of Hardscrabble and Southern Way~
+~
+0 0 2
+D0 
+Heading north to the Market Square.
+~
+~
+0 -1 -1
+D1
+Heading east on Southern Way.
+~
+~
+0 -1 -1
+S 
 #0
 
 
