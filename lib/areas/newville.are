@@ -1357,7 +1357,7 @@ D2
 Approaching the corner of Hardscrabble and Southern.
 ~
 ~
-0 -1 -1
+0 -1 2675
 D3 
 Entering a simple tent where you hear some hissing sounds.
 ~
@@ -1392,9 +1392,89 @@ D0
 Heading north to the Market Square.
 ~
 ~
-0 -1 -1
+0 -1 2672
 D1
 Heading east on Southern Way.
+~
+~
+0 -1 2676
+S 
+#2676
+On Southern Way~
+~
+0 0 2
+D1 
+Heading east on Southern Way.
+~
+~
+0 -1 2677
+D3 
+Heading to the corner of Southern and Hardscrabble.
+~
+~
+0 -1 2675
+S
+#2677
+On Southern Way~
+~
+0 0 2
+D1
+Heading east on Southern Way, where the lighthouse looms in the distance.
+~
+~
+0 -1 2678 
+D3
+Heading west on Southern Way.
+~
+~
+0 -1 2676
+S 
+#2678
+On Southern Way~
+~
+0 0 2
+D1 
+The Lighthouse Entrance.
+~
+~
+0 -1 -1
+D3 
+Heading west on Southern Way.
+~
+~
+0 -1 2677
+S 
+#2679
+The Foyer of the Mayor's Office~
+~
+0 0 2
+D1 
+Heading out to Hardscrabble.
+~
+~
+0 -1 -1
+D3
+Entering the Mayor's Office.
+~
+~
+0 -1 2680 
+S
+#2680
+The Mayor's Office~
+~
+0 0 2
+D1 
+Exit to the Office Foyer.
+~
+~
+0 -1 2679 
+S  
+#2080
+The Fife and Fiddle~
+~
+0 0 2
+D3 
+Exit to Hardscrabble Road.
 ~
 ~
 0 -1 -1
