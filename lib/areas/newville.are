@@ -468,7 +468,7 @@ D0
 Entering the General Store.
 ~
 ~
-0 -1 -1
+0 -1 2683
 D1
 East on Fresh Road.
 ~
@@ -478,12 +478,12 @@ D2
 Entering the Village Blacksmith.
 ~
 ~
-0 -1 -1
+0 -1 2682
 D3
 West to Fresh Road.
 ~
 ~
-0 -1 -1
+0 -1 2623
 S 
 #2623 
 On Fresh Road~
@@ -1333,11 +1333,21 @@ Heading north on Hardscrabble.
 ~
 ~ 
 0 -1 2670
+D1
+Entering the Fife and Fiddle.
+~
+~
+0 -1 2681
 D2
 Heading south to the Market Square.
 ~
 ~
-0 -1 -1
+0 -1 2672
+D3
+Entering the Mayor's Office.
+~
+~
+0 -1 2679
 S
 #2672
 Market Square~
@@ -1452,7 +1462,7 @@ D1
 Heading out to Hardscrabble.
 ~
 ~
-0 -1 -1
+0 -1 2671
 D3
 Entering the Mayor's Office.
 ~
@@ -1469,7 +1479,7 @@ Exit to the Office Foyer.
 ~
 0 -1 2679 
 S  
-#2080
+#2681
 The Fife and Fiddle~
 ~
 0 0 2
@@ -1477,7 +1487,27 @@ D3
 Exit to Hardscrabble Road.
 ~
 ~
-0 -1 -1
+0 -1 2671
+S 
+#2682
+The Village Blacksmithy~
+~
+0 0 2
+D0 
+Exit to the Market Square.
+~
+~
+0 -1 2622
+S 
+#2683 
+The General Store~
+~
+0 0 2
+D2
+Leaving the Store to the Market Square.
+~
+~
+0 -1 2622
 S 
 #0
 
