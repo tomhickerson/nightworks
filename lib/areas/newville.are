@@ -141,7 +141,7 @@ D0
 Along Western Way.
 ~
 ~
-0 -1 -1
+0 -1 2606
 D1 
 To the First Post.
 ~
@@ -160,15 +160,17 @@ rough, wooded wall of the village and the village itself.  You
 see a road branching off to the east, leading to the Guild Houses.~
 0 0 2
 D0 
+On Western Way.
 ~
 ~
 0 -1 2607
 D1
-Entrance to the Guild Houses
+Entrance to the Guild Houses.
 ~
 ~
 0 -1 2626
 D2 
+On Western Way. 
 ~
 ~
 0 -1 2605 
@@ -184,9 +186,9 @@ D0
 On Western Way.
 ~
 ~
-0 -1 -1
+0 -1 2608
 D1
-Entering Ye Olde Quest Shoppe 
+Entering Ye Olde Quest Shoppe. 
 ~
 ~
 0 -1 2628
@@ -204,7 +206,7 @@ are eerily silent.
 ~
 0 0 2
 D0 
-Corner of Western and Red Crescent
+Corner of Western and Red Crescent.
 ~
 ~
 0 -1 2609 
@@ -214,6 +216,7 @@ Entrance to he Sage's Library.
 ~
 0 -1 2629
 D2 
+Heading south on Western Way.
 ~
 ~
 0 -1 2607
@@ -226,14 +229,15 @@ here, to survey the jungle.
 ~
 0 0 2
 D1
-Red Crescent Road  
+Heading east on Red Crescent Road.  
 ~
 ~
-0 -1 -1
+0 -1 2610
 D2
+Heading south on Western Way.
 ~
 ~
-0 -1 -1
+0 -1 2608
 S  
 #2610
 Red Crescent Road~
@@ -249,10 +253,12 @@ The Village Leatherworker.
 ~
 0 -1 2630
 D1 
+Heading east on Red Crescent.
 ~
 ~
 0 -1 2611
 D3
+Heading west on Red Crescent.
 ~
 ~
 0 -1 2609
@@ -270,10 +276,12 @@ The Village Gates to the Jungle.
 ~
 0 -1 2631
 D1 
+Heading east on Red Crescent.
 ~
 ~
 0 -1 2612
 D3 
+Heading west on Red Crescent.
 ~
 ~
 0 -1 2610
@@ -287,15 +295,17 @@ road.
 ~
 0 0 2
 D0 
-The Potions and Pfilters Shoppe
+The Potions and Pfilters Shoppe.
 ~
 ~
 0 -1 -1
 D1
+Heading east to the corner of Red Crescent.
 ~
 ~
 0 -1 2613
 D3
+Heading west on Red Crescent.
 ~
 ~ 
 0 -1 2611
@@ -314,6 +324,7 @@ On to Eastern Way.
 ~
 0 -1 2614
 D3
+Heading west on Red Crescent. 
 ~
 ~
 0 -1 2612
@@ -327,15 +338,17 @@ leads west.
 ~
 0 0 2
 D0 
+Heading north on Eastern Way. 
 ~
 ~
 0 -1 2613
 D2
+Heading south on Eastern Way.
 ~
 ~
 0 -1 2615
 D3 
-The Darkened Sage's Library.
+Entering the Darkened Sage's Library.
 ~
 ~
 0 -1 -1
@@ -345,10 +358,12 @@ Eastern Way~
 ~
 0 0 2
 D0 
+Heading north on Eastern Way.
 ~
 ~
 0 -1 2614
 D2 
+Heading south on Eastern Way.
 ~
 ~
 0 -1 2616
@@ -358,15 +373,17 @@ Eastern Way~
 ~
 0 0 2
 D0 
+Heading north on Eastern Way.
 ~
 ~
 0 -1 2615
 D2
+Heading south on Eastern Way. 
 ~
 ~
 0 -1 2617
 D3 
-The Observatory Building.
+Entering the Observatory Building.
 ~
 ~
 0 -1 -1
@@ -375,14 +392,16 @@ S
 Eastern Way~
 ~
 0 0 2
-D0 
+D0
+Heading north on Eastern Way. 
 ~
 ~
 0 -1 2616
 D2
+Heading South on Eastern Way.
 ~
 ~
-0 -1 -1
+0 -1 2618
 D3 
 The Village Zoo.
 ~
