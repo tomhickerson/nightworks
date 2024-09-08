@@ -298,7 +298,7 @@ D0
 The Potions and Pfilters Shoppe.
 ~
 ~
-0 -1 -1
+0 -1 2684
 D1
 Heading east to the corner of Red Crescent.
 ~
@@ -351,7 +351,7 @@ D3
 Entering the Darkened Sage's Library.
 ~
 ~
-0 -1 -1
+0 -1 2685
 S 
 #2615 
 Eastern Way~
@@ -386,7 +386,7 @@ D3
 Entering the Observatory Building.
 ~
 ~
-0 -1 -1
+0 -1 2687
 S
 #2617
 Eastern Way~
@@ -417,7 +417,7 @@ D0
 ~
 0 -1 2617
 D2
-A path leading down to the docks.
+A path leading south to the docks.
 ~
 ~
 0 -1 2619
@@ -1528,6 +1528,81 @@ Leaving the Store to the Market Square.
 ~
 0 -1 2622
 S 
+#2684
+The Potions and Pfilters Shoppe~
+~
+0 0 2
+D2 
+Leaving the Shoppe to Red Crescent.
+~
+~
+0 -1 2612
+S 
+#2685
+Library of the Dark Sage~
+~
+0 0 2
+D1
+Exiting to Eastern Way.
+~
+~
+0 -1 2614
+D3 
+The shelf in the back.
+~
+~
+0 -1 2686
+S
+#2686 
+The shelves of the Library~
+~
+0 0 2
+D1 
+The front entrance of the Library.
+~
+~
+0 -1 2685
+S 
+#2687
+The Observatory Foyer~
+~
+0 0 2
+D1 
+Exiting the Observatory.
+~
+~
+0 -1 2616
+D2
+The Observatory Platform.
+~
+~
+0 -1 2688
+S 
+#2688
+The Observatory Platform~
+~
+0 0 2
+D0
+The Observatory Foyer.
+~
+~
+0 -1 2687
+D4 
+A ladder up the side of the Observatory, leading to an upper deck.
+~
+~
+0 -1 2689
+S
+#2689
+The Observatory Upper Deck~
+~
+0 0 2
+D5 
+A ladder leading down to the main Observatory chambers.
+~
+~
+0 -1 2688
+S
 #0
 
 
