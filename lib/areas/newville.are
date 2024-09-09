@@ -406,7 +406,7 @@ D3
 The Village Zoo.
 ~
 ~
-0 -1 -1
+0 -1 2690
 S
 #2618
 Eastern Way~
@@ -1603,6 +1603,37 @@ A ladder leading down to the main Observatory chambers.
 ~
 0 -1 2688
 S
+#2690
+Village Zoo East Entrance~
+~
+0 0 2
+D1 
+Exit to Eastern Way.
+~
+~
+0 -1 2617
+D3
+Zoo Central Square.
+~
+~
+0 -1 2691
+S 
+#2691
+Zoo Central Square~
+~
+0 0 2
+D1 
+Leading to the east entrance.
+~
+~
+0 -1 2690
+D5 
+Leading to the Cages.
+~
+~
+0 -1 2692
+S 
+
 #0
 
 
