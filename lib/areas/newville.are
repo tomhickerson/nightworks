@@ -1627,13 +1627,151 @@ Leading to the east entrance.
 ~
 ~
 0 -1 2690
+D2
+Leading to the south entrance.
+~
+~
+0 -1 2697
 D5 
-Leading to the Cages.
+Leading to the Cage Room.
 ~
 ~
 0 -1 2692
 S 
+#2692
+The Cage Room~
+You are in the cage room.  All around are 4 cages.  Light fluoresces off the
+ceiling in soft white tones.  Of course, there is a big {Ysign{w on the wall.
+Exits lead into the cardinal directions plus down.
+~
+0 CDR 0
+D0
+You see the aggressive monster inside!
+~
+~
+0 -1 2693
+D1
+You see the unmodified monster inside!
+~
+~
+0 -1 2694
+D2
+You see the wimpy monster inside!
+~
+~
+0 -1 2695
+D3
+You see the aggressive wimpy monster inside!
+~
+~
+0 -1 2696
+D4
+Leading up to the central square.
+~
+~
+0 -1 2691
+E
+sign~
+Welcome to the cage room.  The adepts of mud school have captured some
+monsters for you to kill.  In the four cages are four monsters of various
+types.  Kill them all!
 
+After you kill each monster, get all of the equipment from their corpses
+with the command '[1;32mGET ALL CORPSE[0;37m'.  You can then use the command '[1;32mWEAR ALL[0;37m'
+to wear your newly won equipment.
+
+When you are done with the corpse, '[1;32mSACRIFICE CORPSE[0;37m' to give it to your God.
+God will reward you for this.
+
+Between combat, you may need to rest or sleep to regenerate hit points.
+You can '[1;32mREST[0;37m' to regenerate hit points, or you can '[1;32mSLEEP[0;37m'.  'SLEEP' will
+refresh you faster than 'REST', but you will be less aware of your
+surroundings.
+~
+S
+#2693
+A Cage~
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a {Ysign{w on the wall.  The only exit is south.
+~
+0 DR 0
+D2
+You see the Cage Room.
+~
+~
+0 -1 2692
+E
+sign~
+There is an aggressive monster in this room.  Kill him and get out of here
+fast!  Remember to loot and sacrifice the corpse.
+~
+S
+#2694
+A Cage~
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a {Ysign{w on the wall.  The only exit is east.
+~
+0 DR 0
+D1
+You see the Cage Room.
+~
+~
+0 -1 2692
+E
+sign~
+There is a wimpy, aggressive monster in this room.  Kill him and get out of
+here fast!  Remember to loot and sacrifice the corpse.
+~
+S
+#2695
+A Cage~
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a {Ysign{w on the wall.  The only exit is north.
+~
+0 DR 0
+D0
+You see the Cage Room.
+~
+~
+0 -1 2692
+E
+sign~
+There is a wimpy monster in this room.  Kill him and get out of here fast!
+Remember to loot and sacrifice the corpse.
+~
+S
+#2696
+A Cage~
+You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a {Ysign{w on the wall.  The only exit is west.
+~
+0 DR 0
+D3
+You see the Cage Room.
+~
+~
+0 -1 2692
+E
+sign~
+There is a monster in this room.  Kill him and get out of here fast!
+Remember to loot and sacrifice the corpse.
+~
+S
+#2697
+Village Zoo South Entrance~
+~
+0 0 2
+D0 
+Zoo Central Square.
+~
+~
+0 -1 2691
+D2
+Exit leading to Fresh Way.
+~
+~
+0 -1 -1
+S 
 #0
 
 
