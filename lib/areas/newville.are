@@ -1341,7 +1341,7 @@ D3
 Entering a small merchant tent.
 ~
 ~
-0 -1 -1
+0 -1 2698 
 S 
 #2671
 On Hardscrabble Road~
@@ -1466,7 +1466,7 @@ D1
 The Lighthouse Entrance.
 ~
 ~
-0 -1 -1
+0 -1 2699
 D3 
 Heading west on Southern Way.
 ~
@@ -1771,6 +1771,46 @@ Exit leading to Fresh Way.
 ~
 ~
 0 -1 2621
+S 
+#2698
+Miner's Supply Tent~
+~
+0 0 2
+D1 
+Exiting the tent to Hardscrabble.
+~
+~
+0 -1 2670
+S 
+#2699
+The Lighthouse Entry~
+~
+0 0 2
+D1 
+Center of the Lighthouse.
+~
+~
+0 -1 2700
+D3 
+Exit to Southern Way.
+~
+~
+0 -1 2678
+S 
+#2700
+Base of the Lighthouse stairs~
+~
+0 0 2
+D3
+The Lighthouse Entry.
+~
+~
+0 -1 2699
+D4 
+Up the stairway to the first landing.
+~
+~
+0 -1 -1
 S 
 #0
 
