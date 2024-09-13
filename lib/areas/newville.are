@@ -1810,7 +1810,47 @@ D4
 Up the stairway to the first landing.
 ~
 ~
-0 -1 -1
+0 -1 2701
+S 
+#2701
+The Lighthouse, first landing~
+~
+0 0 2
+D4 
+Up the stairway to the second landing.
+~
+~ 
+0 -1 2702 
+D5 
+Down the stairway to the base of the stairs.
+~
+~
+0 -1 2700
+S 
+#2702 
+The Lighthouse, second landing~
+~
+0 0 2
+D4
+Up the stairs to the observation deck.
+~
+~
+0 -1 2703 
+D5 
+Down the stairs to the first landing.
+~
+~
+0 -1 2701 
+S
+#2703
+The Lighthouse Observation Deck~
+~
+0 0 2
+D5
+Down the stairs to the second landing.
+~
+~
+0 -1 2702
 S 
 #0
 
