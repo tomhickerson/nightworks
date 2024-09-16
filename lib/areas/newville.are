@@ -1091,6 +1091,11 @@ Heading towards the main road in the jungle.
 ~
 ~
 0 -1 2654
+D5 
+Heading down into the mines.
+~
+~
+0 -1 -1
 S 
 #2656
 On a jungle path~
@@ -1166,7 +1171,7 @@ D1
 Heading east into the cemetery.
 ~
 ~
-0 -1 -1
+0 -1 2704
 D3
 Heading west into the clearing.
 ~
@@ -1851,6 +1856,26 @@ Down the stairs to the second landing.
 ~
 ~
 0 -1 2702
+S 
+#2704
+The Village Cemetery Gates~
+~
+0 0 2
+D1
+Heading east deeper into the cemetery.
+~
+~
+0 -1 -1
+D2 
+Heading south along the cenetery fence.
+~
+~
+0 -1 -1
+D3
+Exiting the cemetery.
+~
+~
+0 -1 2659
 S 
 #0
 
