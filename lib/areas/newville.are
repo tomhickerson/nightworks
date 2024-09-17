@@ -1870,12 +1870,47 @@ D2
 Heading south along the cenetery fence.
 ~
 ~
-0 -1 -1
+0 -1 2705
 D3
 Exiting the cemetery.
 ~
 ~
 0 -1 2659
+S 
+#2705
+The Village Cemetery Fence Line~
+~
+0 0 2
+D0
+North to the gates.
+~
+~
+0 -1 2704
+D2
+South along the fence.
+~
+~
+0 -1 2706 
+S 
+#2706 
+Between the fence and a large headstone~
+~
+0 0 2
+D0 
+North along the fence.
+~
+~
+0 -1 2705
+D2
+South along the fence.
+~
+~
+0 -1 -1
+D5 
+An opening into a burrow.
+~
+~
+0 -1 -1
 S 
 #0
 
