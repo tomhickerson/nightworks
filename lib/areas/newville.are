@@ -1317,6 +1317,11 @@ Heading west on Northern Way.
 S
 #2667 
 The Mythras Docks~
+You are standing on a weathered wooden dock, jutting out 
+into a calm inlet.  Several boats and rafts are docked here, 
+and some of them are available for hire.  From here you can 
+go north to the village, east to a shady pier, or south to a 
+small stone arth with a statue in front of it.
 ~
 0 0 2
 D0 
@@ -1337,6 +1342,11 @@ A small gargoyle statue.
 S 
 #2668
 The Gargoyle Arch~
+You are standing in front of a shrine facing the sea, made
+of a stone arch with ancient carvings adoring it.  In front 
+of the arch stands a motionless statue of a Gargoyle, its 
+large and rough countenance looking down on you.  You feel like 
+it is watching you. 
 ~
 0 0 2
 D0 
