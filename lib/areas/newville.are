@@ -1180,7 +1180,12 @@ Heading west into the clearing.
 S
 #2660 
 Before the Village Gates~
-~
+You stand before the large gates to the Village of the 
+Island of Mythras, made of stout oak and bound with iron.
+The walls here are made of stone and are very high, to 
+keep out jungle animals.  The gates are open and lead to the 
+south, while a wide dirt road cuts through the jungle to the 
+north.~
 0 0 2
 D0
 Heading north into the jungle.
@@ -1195,7 +1200,11 @@ Heading south through the gates.
 S 
 #2661
 On the Corner of Northern Way and Hardscrabble Road~
-~
+You are standing to the south of the Village Gates, on the 
+corner of two roads.  Northern Way runs along the side of the 
+great stone walls to the east, paved in flat stones.  The 
+street to the south is dirty and muddy, and bears the 
+name Hardscrabble Road.~
 0 0 2
 D0 
 Heading north through the gates.
@@ -1215,6 +1224,9 @@ Heading south on Hardscrabble Road.
 S
 #2662 
 On Northern Way~
+You are making your way along Northern Way, a clean and 
+well-built street, made of flat stones.  You can see the 
+Gates to the west and a small open-air shrine to the south.
 ~
 0 0 2
 D1 
@@ -1235,6 +1247,10 @@ Heading west on Northern Way.
 S
 #2663
 A Shrine to Zeus~
+You are standing before a small open-air shrine to the 
+god Zeus.  A way to the street is to the north.  A small 
+fire pit is in the middle of this space and a fresco with 
+several designs is standing over it.
 ~
 0 0 2
 D0
@@ -1245,6 +1261,9 @@ Northern Way.
 S 
 #2664
 On Northern Way, in front of a small office~
+You are walking along Northern Way, a street paved with 
+flat stones.  To the south you see a small one-story 
+yellow building,built with bricks and mortar.
 ~
 0 0 2
 D1 
@@ -1265,6 +1284,9 @@ Heading west on Northern Way.
 S  
 #2665 
 The Passport Office~
+You are in a small building, made up of bright pastel 
+walls, a wooden floor, and a large desk with a stack of
+paperwork piled high upon it.
 ~
 0 0 2
 D0 
@@ -1275,6 +1297,11 @@ Heading out to Northern Way.
 S 
 #2666 
 On Northern Way, near the docks~
+You are on Northern Way, a flat paved street running
+east and west.  The street turns here and slopes gently 
+down to the seashore to the south, where it looks like
+a dock has been built inside a small inlet.  To the west
+you see a small brick building. 
 ~
 0 0 2
 D2
