@@ -2426,7 +2426,8 @@ S
 #4115
 The dark passage.~
 You are in a dark passage, that leads east. In the ceiling you notice
-a small hole, just big enough to pass through.
+a small hole, just big enough to pass through.  A passage also leads
+further down into the earth.
 ~
 0 AD 3
 D1
@@ -2437,6 +2438,10 @@ D4
 ~
 ~
 0 0 4021
+D5
+~
+~
+0 0 22221
 S
 #4116
 The passage~

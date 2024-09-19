@@ -8,7 +8,8 @@ Moors of Doom~
 #50000
 skeleton undead warrior~
 A skeleton warrior.~
-A ghastly undead skeleton warrior is here, ready to attack.~
+A ghastly undead skeleton warrior is here, ready to attack.
+~
 The undead skeleton seems to be held together by some kind of 
 ghastly magick.  Its eye sockets burn with a green flame as it
 turns towards you to attack...~
@@ -22,7 +23,8 @@ stand stand either 300
 #50001
 gypsy king~
 The Gypsy King~
-The Gypsy King, clad in his best leathers, is standing here.~
+The Gypsy King, clad in his best leathers, is standing here.
+~
 You look over the Gypsy King, a short but burly man clad in black
 and brown, with a red kerchief tied over his head.  Numerous knives
 and tools of the trade hang from his belt and he hums a soft tune as 
@@ -37,7 +39,8 @@ stand stand none 200
 #50002
 gypsy healer~
 The Gypsy Healer~
-The Gypsy Healer sits here, brewing a potion or two.~
+The Gypsy Healer sits here, brewing a potion or two.
+~
 Clad in pale while cloths, scarves and linens, the Healer of 
 the Gypsy Camp is hard at work making a healing poultice for 
 one of her camp-mates.~
@@ -51,7 +54,8 @@ stand stand none 50
 #50003
 ugly guardsman~
 An Ugly Guardsman~
-An ugly guardsman is on patrol here, smelling not particularly nice.~
+An ugly guardsman is on patrol here, smelling not particularly nice.
+~
 A rather ugly (and smelly) member of the town guardsmen regards you sullenly.~
 human~
 AO T -500 0
@@ -63,7 +67,8 @@ stand stand none 50
 #50004
 gypsy craftsman~
 The Gypsy Craftsman~
-The Gypsy Craftsman sits here, tinkering with a few metallic items.~
+The Gypsy Craftsman sits here, tinkering with a few metallic items.
+~
 Clad in leather armor with a blue scarf wrapped around his neck, the 
 craftsman is lost in concentration, on a few matallic tools he is busy
 perfecting.~
@@ -76,7 +81,9 @@ stand stand none 50
 0 0 medium unknown
 #50005
 rude guardsman~
-A rude-looking guardsman is looking over the crowd, picking on the commonfolk.~
+The Rude Guardsman~
+A rude-looking guardsman is looking over the crowd, picking on the commonfolk.
+~
 This rude-looking guardsman looks you up and down, as if asking for a fight.~
 human~
 AO T -500 0
@@ -88,7 +95,8 @@ stand stand none 40
 #50006
 gypsy dancer~
 The Gypsy Dancer~
-The Gypsy Dancer strikes up another dance as the music swells.~
+The Gypsy Dancer strikes up another dance as the music swells.
+~
 Dressed in red and blue silks and scarves, the gypsy dancer is 
 a free spirit, who is lost in the music and singing of the 
 tribe.  Her eyes blaze like ice on fire.~
@@ -101,7 +109,9 @@ stand stand none 50
 0 0 medium unknown
 #50007
 rough guardsman~
-A rough-looking guardsman swaggers about here, looking for trouble.~
+The Rough Guardsman~
+A rough-looking guardsman swaggers about here, looking for trouble.
+~
 This rough fellow has a badge of the guard, but looks like he was recruited
 from bandits or brigands who were just passing through.~
 human~
@@ -113,7 +123,9 @@ stand stand none 80
 0 0 medium unknown
 #50008
 menacing guardsman~
-A menacing guardsman makes his way through here, looking mean.~
+The Menacing Guardsman~ 
+A menacing guardsman makes his way through here, looking mean.
+~
 This rough fellow has a badge of the guard, but looks like he was recruited
 from bandits or brigands who were just passing through.~
 human~
