@@ -1,0 +1,3239 @@
+#AREA
+cathedra.are~
+The Valar Cathedral~
+{30 51} Orome  The Valar Cathedral~
+5900 5999
+
+#MOBILES
+#5900
+acolyte~
+An Acolyte~
+A lowly acolyte is here reciting benedictions.
+~
+The lowly acolyte is wearing a plain brown robe, and has a holy symbol, in
+the shape of two suns shining above a mountain, around his neck.
+~
+unique~
+ACGHQ 0 100 0
+10 0 2d7+121 1d1+129 1d7+2 punch
+1 1 1 1
+IR 0 B M
+stand stand either 200
+AHMV ABCDEFGHIJK medium 0
+#5901
+priest~
+A Priest~
+A devout priest is here offering prayers to enlighten the masses.
+~
+The devout priest wears a white robe and a holy symbol, in the shape of two
+suns shining over a mountain, around his neck. He looks ready to defend his
+faith.
+~
+unique~
+ACGHQ 0 200 0
+20 0 3d9+333 1d1+249 2d7+4 punch
+-4 -4 -4 -2
+IR 0 0 0
+stand stand either 400
+AHMV ABCDEFGHIJK medium 0
+#5902
+bishop~
+A Bishop~
+His grace the bishop is here preaching about Eru, the One.
+~
+His grace wears red robes, a holy symbol in the shape of two suns shining
+over a mountain, and a red miter.  However, making fun of him is not a wise
+idea.
+~
+unique~
+ACGHQT CN 300 0
+35 0 10d10+1400 1d1+399 6d4+10 none
+-11 -11 -11 -4
+CINR 0 ABM 0
+stand stand male 2100
+AHMV ABCDEFGHIJK medium 0
+#5903
+celestian patriarch~
+Celestian the Patriarch~
+Celestian the cathedral's patriarch is here reading holy books.
+~
+Celestian the patriarch is a handsome man surrounded by a blinding white
+aura.  He smiles with pleasure as you look him over.  Your not sure if this
+is good or bad because, who knows what a fanatical holy man thinks.
+~
+unique~
+ABGQT CHN 500 0
+50 0 50d10+5000 1d1+599 6d6+18 pound
+-20 -20 -20 -7
+CFINR AB M 0
+sit stand male 5000
+AHMV ABCDEFGHIJK medium 0
+#5904
+angelica matriarch~
+Angelica the Matriarch~
+Angelica the cathedral's matriarch is here spouting religion.
+~
+Angelica the matriarch is a beautiful woman with long golden hair and bright
+blue eyes.  Her gown and religious garb make her look even more regal.  It
+would be a awful shame for you to hurt her, so don't even think about it.
+~
+unique~
+ABGQT CHN 500 0
+50 0 50d10+7500 1d1+699 6d7+21 slap
+-25 -25 -25 -9
+FR AB M 0
+stand stand female 11000
+AHMV ABCDEFGHIJK medium 0
+#5905
+astral deva~
+The Astral Deva~
+An astral deva is standing guard here.
+~
+This astral deva appears stunningly handsome and has large, feathery wings
+fanning gracefully from his shoulders.  It's aura bathes you in holy light
+and a feeling of peace washes over you.
+~
+unique~
+ABGT BCDEHNT 600 0
+40 0 25d10+2000 1d1+99 4d8+13 divine
+-13 -13 -13 -10
+CFP ABIJLMO ABCH 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#5906
+planetar~
+The Planetar~
+A planetar is here, ready to punish evil and wickedness.
+~
+This planetar has emerald skin, white feathered wings and penetrating blue
+eyes.  His commanding presence projects strength and confidence and his
+mind probes into your thoughts looking for any signs of evil.
+~
+unique~
+ABGQT BCDEFHNTc 650 0
+50 2 50d10+5000 1d1+599 5d8+19 divine
+-20 -20 -20 -15
+CFHP ABIJLMO CH 0
+stand stand male 0
+AHMV ABCDEFGHIJK large 0
+#5907
+solar~
+The Solar~
+A solar is here, ready to serve the cathedral in its time of need.
+~
+Being next unto a deity himself, and the most powerful of stewards, this
+large beautiful being stands here diligently.  He has a muscular body,
+perfect wings and brilliant topaz colored eyes.  His voice is deep and
+commanding.  Under your scrutiny he says 'Do not cause harm within this
+cathedral!  ' 
+~
+unique~
+ABGQT BCDEFLNTVc 750 0
+50 5 50d10+12500 1d1+799 8d6+38 divine
+-35 -35 -35 -30
+CFHP ABIJKLMO CDH 0
+stand stand male 0
+AHMV ABCDEFGHIJK large 0
+#5908
+hound archon~
+A Hound Archon~
+A hound archon is here ready to defend the cathedral.
+~
+This archon befits his name, resembling a well muscled human with a canine 
+head.  He wears a collar of tin around his neck and has his weapon at the 
+ready.
+~
+unique~
+ABGT CJN 400 0
+20 0 4d10+360 1d1+99 2d8+5 bite
+-4 -4 -4 -4
+CDNP 0 AB 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#5909
+warden archon~
+A Warden Archon~
+A warden archon is here ready to defend the cathedral.
+~
+This archon has a humanoid body and a bear-like head.  He is wearing a brass
+collar as well as brass arm bracers but is carrying no weapon.
+~
+unique~
+ABGQT CJN 450 0
+25 0 5d10+600 1d1+299 2d10+7 bite
+-7 -7 -7 -7
+CEHKOP 0 AB 0
+stand stand male 0
+AHMV ABCDEFGHIJK large 0
+#5910
+sword archon~
+A Sword Archon~
+A sword archon is here ready to defend the cathedral.
+~
+This archon looks totally human except for the wings where his arms should 
+be.  He has silvery hair, eyes that glow with an inner light and wears a 
+bronze collar, breastplate and a pair of greaves.
+~
+unique~
+ABGQT CJNT 500 0
+30 0 6d12+928 1d1+399 4d6+8 peckb
+-9 -9 -9 -9
+CEHP AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK large 0
+#5911
+trumpet archon~
+A Trumpet Archon~
+A trumpet archon is here ready to defend the cathedral.
+~
+This archon looks elven in appearance but has a beautiful set of white wings
+as well.  He wears a silver collar and breastplate, and carries an ornate 
+silver trumpet in one hand, a silver sword in the other.
+~
+unique~
+ABFGQT CDFJNT 550 0
+35 0 10d10+1400 1d1+449 4d7+11 punch
+-11 -11 -11 -11
+CFNP AB C 0
+stand stand male 0
+AHMV ABCDEFGHIJK large 0
+#5912
+throne archon~
+A Throne Archon~
+A throne archon is here ready to defend the cathedral.
+~
+This archon looks like a metal-clad human with golden skin and fair hair. 
+He carries a sword belted at his waist and wears a gold helmet and glowing
+gold breastplate.
+~
+unique~
+ABFGQT CDFJNT 600 0
+40 2 25d10+2000 1d1+499 4d8+13 smash
+-13 -13 -13 -13
+CFHNP AB C 0
+stand stand male 0
+AHMV ABCDEFGHIJK large 0
+#5913
+tome archon~
+The Tome Archon~
+A tome archon is here ready to defend the cathedral.
+~
+This archon looks like a winged human, with a hawks head.  His body is 
+covered head to toe in armor - a point to remember.  His armor is of
+glowing platinum and an aura surrounds his body.
+~
+unique~
+ABFGQT CDFHJNT 750 0
+50 5 50d10+10000 1d1+699 8d6+28 divine
+-30 -30 -30 -30
+CFHNP AB C 0
+stand stand male 0
+AHMV ABCDEFGHIJK large 0
+#5914
+paladin ghost~
+The Ghostly Paladin~
+The ghost of a paladin is mad for having her tomb desecrated.
+~
+This apparition is full of rage.  You have desecrated her resting place with
+your presence and she will now be taking her rage out on you.  You had best 
+leave as soon as you get a chance. 
+~
+unique~
+ABFGOQT DFHJUZ 100 0
+50 0 50d10+5000 1d1+499 5d8+19 drain
+-20 -20 -20 -20
+FG ABIJLMPQR 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#5915
+feathered serpent~
+The Feathered Serpent~
+A beautiful feathered serpent is fluttering about here.
+~
+This beautiful serpent, also called a couatl, is a over a dozen feet long, 
+has feathered wings the color of a rainbow, and large poisonous fangs.
+~
+unique~
+AGQY BCEGT 500 0
+40 0 15d10+1850 1d1+599 5d6+12 bite
+-13 -13 -13 -5
+CFGMR 0 ABC 0
+stand stand either 0
+AHMV ABCDEFGHIJK large 0
+#5916
+beautiful woman~
+The Gold Dragon~
+A beautiful woman in a white dress, singing of lost love, is here.
+~
+This woman has long gold hair that shines brightly in the light of the two
+trees.  She wears a gorgeous white dress that clings to her body like a
+second skin.  Her smile is like the dawn of a new day and her eyes are like
+deep pools of crystal clear water.  Her very presence makes you feel at
+peace.
+~
+unique~
+AGRTY DFHZ 750 5616
+55 5 50d10+12000 1d1+799 8d6+32 bite
+-34 -34 -34 -20
+CEHIKMN AHL BCD 0
+sit stand female 32500
+AHMV ABCDEFGHIJK giant 0
+#5917
+white swan~
+A Swanmay~
+A white swan is here swimming in the garden's well.
+~
+This elegant swan is swimming and frolicking in the garden's well.  When it
+sees you it honks out a warning, not that it is much of a threat.
+~
+unique~
+ABGT T 250 5616
+25 0 5d10+600 1d1+99 2d10+7 punch
+-7 -7 -7 -3
+FHI 0 AB 0
+stand stand female 750
+AHMV ABCDEFGHIJK medium 0
+#5918
+lesser lammasu~
+A Lesser Lammasu~
+A lesser lammasu is here with the rest of his pride.
+~
+This regal being has the golden brown body of a lion, the wings of an eagle
+and a human head.  It sits here loungingly with the rest of his pride.  He
+and his fellows all look pretty calm and relaxed, but you sense a readiness
+to fight evil and villiany.
+~
+unique~
+ABGQT NT 400 5618
+30 0 6d12+928 1d1+349 4d6+8 claw
+-9 -9 -9 -3
+CEH 0 AB 0
+rest stand either 0
+AHMV ABCDEFGHIJK large 0
+#5919
+greater lammasu~
+The Greater Lammasu~
+A greater lammasu is here watching over the pride.
+~
+This lammasu is even bigger than his lesser cousins.  However, he is just as
+relaxed as his lesser brethren.  His face carries that same expression of
+readiness mixed with compassion.
+~
+unique~
+ABGQT NT 500 5618
+40 0 25d10+2000 1d1+449 4d8+13 claw
+-13 -13 -13 -5
+CEH 0 ABC 0
+rest stand male 0
+AHMV ABCDEFGHIJK large 0
+#5920
+celestial lammasu~
+The Celestial Lammasu~
+This celestial lammasu guards against the forces of evil.
+~
+As might be expected, this lammasu has the body of a large, powerful lion. 
+Extending from its back are great wings with long, beautiful feathers.  Its
+face is human and has keen, intelligent eyes and a long, flowing mane.  An
+aura of power charges the air around its body and makes your skin tingle.
+~
+unique~
+ABGQT HNTc 600 5618
+50 0 50d10+5000 1d1+599 5d8+19 claw
+-20 -20 -20 -10
+CEH 0 ABCD 0
+rest stand male 0
+AHMV ABCDEFGHIJK huge 0
+#5921
+lesser shedu~
+A Lesser Shedu~
+A lesser shedu is here learning from the greater shedu.
+~
+Shedu have powerful, stocky equine bodies with short, powerful feathered
+wings.  Its head is large and humanoid, and rather dwarven in appearance. 
+It has a beard and mustache and its hair is very bristly, and curls into
+tight waves.
+~
+unique~
+ABGR T 400 5621
+30 0 6d12+778 1d1+399 5d4+7 charge
+-9 -9 -9 -3
+CI 0 AB 0
+stand stand either 0
+AHMV ABCDEFGHIJK large 0
+#5922
+greater shedu~
+The Greater Shedu~
+A greater shedu is here teaching the ways to his lesser kin.
+~
+Shedu have powerful, stocky equine bodies with short, powerful feathered
+wings.  Its head is large and humanoid, and rather dwarven in appearance. 
+It has a beard and mustache and its hair is very bristly, and curls into
+tight waves.
+~
+unique~
+ABGR NT 500 5621
+45 0 25d10+2750 1d1+599 3d12+14 charge
+-15 -15 -15 -5
+CHI 0 ABC 0
+stand stand male 0
+AHMV ABCDEFGHIJK large 0
+#5923
+ki-rin~
+The Ki-rin~
+A ki-rin is here in search of good deeds to reward and evil to punish.
+~
+This ki-rin's equine body is covered with luminous golden scales like a
+sunrise on a clear morning.  The thick mane and tail are a darker gold. 
+Its horn and hooves are gold tinged with pink and its eyes are a deep
+violet.
+~
+unique~
+ABGR BHTV 600 0
+40 3 15d10+1700 1d1+499 3d10+12 pierce
+-13 -13 -13 -26
+FHIP 0 ABC 0
+stand stand either 0
+AHMV ABCDEFGHIJK huge 0
+#5924
+t'uen-rin~
+The T'uen-rin~
+A t'uen-rin is here ready to battle evil whenever it strikes.
+~
+This t'uen-rin's equine body is covered with fine golden scales that
+scintillate with impossible shades of color.  Its mane and tail are deep,
+dark gold, and its hooves and horn are pinkish-ivory.  The t'uen-rin's face
+is wise and beautiful, and its eyes are liquid orbs of deep violet.
+~
+unique~
+ABGR BHTV 750 0
+50 5 50d10+4000 1d1+699 6d6+17 pierce
+-20 -20 -20 -40
+FHIP 0 ABCD 0
+stand stand either 0
+AHMV ABCDEFGHIJK huge 0
+#5925
+statue aule~
+The Statue of Aule~
+A statue of Aule, Lord of the Earth is here.
+~
+Aule is 7' tall, stout and strong.  His long braided hair, black beard, and
+red-brown skin give him the image of a large dwarf.  Indeed, his children
+do resemble their father.  A large black war hammer, inlaid with gold rests
+in his hand.
+~
+unique~
+ABGRTU Lc 0 0
+59 0 50d10+15000 1d1+999 8d6+46 pound
+-41 -41 -41 -41
+CEK ABLPQR ABCD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#5926
+statue este~
+The Statue of Este~
+A statue of Este, The Healer is here.
+~
+This tall regal woman is dressed all in grey.  She has long, flowing blonde
+hair and a fair complexion.  Her eyes are a dark grey, and her face is full
+of compassion.  She carries a large stone in one hand that glows softly.
+~
+unique~
+ABGQTU Lc 0 0
+55 0 50d10+13000 1d1+999 8d6+38 pound
+-37 -37 -37 -37
+CEK ABLPQR CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#5927
+statue irmo~
+The Statue of Irmo~
+A statue of Irmo, the Dream Master is here.
+~
+Irmo is garbed in a deep forest-blue, like the color of trees in the
+moonlight.  His tall, lithe form and gentle manner suggests inner peace,
+but the fire of desire kindles a spark within his eyes.  He wears a mithril
+circlet adorned with a deep blue diamond on his brow.
+~
+unique~
+ABGRTU Lc 0 0
+52 0 50d10+10500 1d1+999 8d6+28 pound
+-32 -32 -32 -32
+CEK ABLPQR CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#5928
+statue manwe~
+The Statue of Manwe~
+A statue of Manwe, King of the Valar is here.
+~
+Manwe is a wise, bearded, white-haired man with clear skin and sky-blue
+eyes.  Robed in rich blue, he appears every bit a king.  Pure white stars
+shine from deep within his eyes, giving him a glowing gaze.  He carries a
+glowing sky-blue, steel broadsword in his hand.
+~
+unique~
+ABGQTU HLVc 0 0
+60 2 50d10+17000 1d1+999 8d6+54 pound
+-45 -45 -45 -45
+CEFIKN ABLPQR CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#5929
+statue melkor~
+The Statue of Melkor~
+A statue of Melkor, the Black Enemy is here.
+~
+Melkor, or Morgoth as he is also known, has a dark and exceedingly strong
+form.  Contrived to invoke fear, his form burns with a visible and undying
+rage.  No image before or since will ever seem so terrible.  He wears a
+black iron crown which is adorned with two gems.
+~
+unique~
+ABGRT BHLOVc -1000 0
+60 2 50d10+16500 1d1+999 8d6+52 pound
+-44 -44 -44 -44
+CEFIKN ABLMPQR CD N
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#5930
+statue namo~
+The Statue of Namo~
+A statue of Namo, Lord of the Halls of Awaiting is here.
+~
+Namo wears a guise of gloom.  Black robes adorn his form, that of a tall,
+angular, pale body without hair, punctuated with deep-set black eyes.  He
+wears a set of black gloves upon his hands that seem to shimmer.
+~
+unique~
+ABGQTU Lc 0 0
+57 0 50d10+14500 1d1+999 8d6+44 pound
+-40 -40 -40 -40
+CEK ABLPQR CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#5931
+statue nessa~
+The Statue of Nessa~
+A statue of Nessa, Mistress of Joy is here.
+~
+Nessa is an agile but graceful young woman with fiery red-orange hair and
+eyes as green as meadow grass.  Upon her head she wears a laurel of green
+roses.
+~
+unique~
+ABGSTU Lc 0 0
+51 0 50d10+8500 1d1+99 5d10+25 pound
+-28 -28 -28 -28
+CEFKN ABLPQR CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#5932
+statue nienna~
+The Statue of Nienna~
+A statue of Nienna, The Sufferer is here.
+~
+Nienna's appearance illustrates her role.  Pale, and red-eyed, with scarlet
+cheeks marked by her unending tears.  There is strength in her watery eyes
+however, for she is strong enough to endure the pain of all the children of
+Eru.  She leans upon a quarterstaff of silver wood.
+~
+unique~
+ABGRTU Lc 0 0
+57 0 50d10+14000 1d1+999 8d6+42 pound
+-39 -39 -39 -39
+CEK ABLPQR CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#5933
+statue orome~
+The Statue of Orome~
+A statue of Orome, Huntsman of the Valar is here.
+~
+Orome is fair and strong of build.  Silver-haired and cloaked in a flowing
+white cloak, he looks like a pale whirlwind through the moon-soaked woods. 
+He holds a white bow with an arrow cocked and ready, in his hands.
+~
+unique~
+ABGTU LVc 0 0
+57 3 50d10+15500 1d1+99 8d6+50 pound
+-41 -41 -41 -41
+CEFIKN ABLPQR CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#5934
+statue tulkas~
+The Statue of Tulkas~
+A statue of Tulkas, Champion of the Valar is here.
+~
+Tulkas has gold hair, a gold beard, and a joyful, ruddy complexion.  His
+deep, joyous laugh and dancing eyes lend him a gentle (albeit powerful)
+visage.  He carries no weapons and wears no armor, but that doesn't mean he
+doesn't know how to fight.
+~
+unique~
+ABGTU LVc 0 0
+55 5 50d10+13500 1d1+99 8d6+42 smash
+-37 -37 -37 -37
+CDEFHIKN ABLPQR CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#5935
+statue ulmo~
+The Statue of Ulmo~
+A statue of Ulmo, King of the Sea is here.
+~
+Ulmo's indigo eyes peer from beneath a chain hood and he wears a coat of
+ever-washed armor whose color gradually changes from silver to a deep
+green.  Ulmo's black beard also varies its color, occasionally seeming to
+be nothing more than tangled seaweed.
+~
+unique~
+ABGRTU Lc 0 0
+59 0 50d10+15500 1d1+999 8d6+48 pound
+-42 -42 -42 -42
+CEK ABLPQR CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium 0
+#5936
+statue vaire~
+The Statue of Vaire~
+A statue of Vaire, Mistress of Time is here.
+~
+Quiet and serious, Vaire's deep purple garb seems very somber draped over
+her slight build.  It provides her an air of authority suited to her great
+role.  She carries a black mace inlaid with amethyst, in her hands.
+~
+unique~
+ABGSTU Lc 0 0
+53 0 50d10+11000 1d1+99 8d6+34 pound
+-33 -33 -33 -33
+CEFKN ABLPQR CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#5937
+statue vana~
+The Statue of Vana~
+A statue of Vana, Mistress of Flowers and Song is here.
+~
+Vana is the picture of the ever-young.  She is wildly beautiful, bright,
+graceful and always beaming with a golden smile.  She wears no garb and
+obviously shuns material things.
+~
+unique~
+ABGSTU Lc 0 0
+52 0 50d10+10500 1d1+99 8d6+32 pound
+-32 -32 -32 -32
+CEFKN ABLPQR CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#5938
+statue varda~
+The Statue of Varda~
+A statue of Varda, Queen of the Valar is here.
+~
+Varda's form shines white, like the glittering snow atop starstruck
+mountains.  Stunningly beautiful, it is beyond compare.  A simple, white
+headband adorned with a single gem rests on her noble brow.
+~
+unique~
+ABGQTU HLVc 0 0
+60 0 50d10+17000 1d1+999 8d6+54 pound
+-45 -45 -45 -45
+CEK ABLPQR CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#5939
+statue yavanna~
+The Statue of Yavanna~
+A statue of Yavanna, Queen of the Earth is here.
+~
+Yavanna is a beautiful creature covered in a rich, deep-green garb, and her
+aura glows like newborn fruit in the noonday sun.  A veil of leaves covers
+her face and a golden staff rests in her hands.
+~
+unique~
+ABGQTU Lc 0 0
+59 0 50d10+15500 1d1+999 8d6+48 pound
+-42 -42 -42 -42
+CEK ABLPQR CD 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium 0
+#5940
+statue eru~
+The Statue of Eru~
+A statue of Eru, The One is here.
+~
+You see before you an enormous statue of Eru, the One, and creator of all. 
+Eru's mind gave form to the Valar, and together they created Ea, Menel, and
+Arda with their song.  The Flame Imperishable, that which gave life, gleams
+upon his brow.
+~
+unique~
+ABGRTU HLVc 0 0
+65 0 50d10+19500 1d1+1499 8d6+70 wrath
+-50 -50 -50 -50
+CEFHK ABLPQR CD 0
+stand stand male 0
+AHMV ABCDEFGHIJK huge 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#5900
+Entrance to the Cathedral.~
+A magical glow keeps this part of the forest in a hazy afterlight.  The
+underbrush is thick and ancient, contrasting with the light airy canopy at
+the top of the forest.  The trees begin to sway, and the forest begins to
+waver.  A majestic cathedral appears in the forest, and all is quiet.  
+~
+0 0 2
+E
+symbol~
+The symbol engraved into the cathedral doors is that of two suns shining
+above a mountain.  This symbol represents the two lamps, Illuin and Ormal,
+which shone from their mountain pillars to light the world.
+~
+E
+sign~
++----------------------------------------+
+|     Welcome to the Valar Cathedral     |
+|            Coded by Aalanon            |
+|                01/07/96                |
++----------------------------------------+
+~
+D1
+The Cathedral's Foyer.
+~
+~
+1 -1 5901
+D3
+~
+~
+0 0 8111
+S
+#5901
+The Cathedral's Foyer.~
+The fantastic gates open, revealing a mythical foyer upon entering the
+Cathedral.  The surrounding trees bend to become the walls, and their leaves
+become the roof.  An eternal glow shines through the foyor, illuminating the
+trees.  Birds fly freely, and the dirt ground is covered by soft beds of
+bright green moss.  An intersection to other areas of the Cathedral is to
+the east.  
+~
+0 8 0
+E
+runes~
+The runes etched into the walls form some kind of music which is too complex
+to decipher.  It is most likely the Great Music that gave birth to Ea.
+~
+E
+banners paintings~
+These banners and paintings portray the wonders that were created by Eru and
+the Valar.  Included is the creation Ea, Menel, and Arda, the spring of
+Arda, and the two lamps, Illuin and Ormal, and their fall.  Battles with
+the Black Enemy and the creation of the two trees, Telperion and Laurelin,
+also hang from the walls.
+~
+D1
+In Front of the Chapel Doors.
+~
+~
+0 -1 5902
+D3
+Entrance to the Cathedral.
+~
+~
+1 -1 5900
+S
+#5902
+In Front of the Chapel Doors.~
+The erie glow dims, yet focuses most of its power on two sturdy doors,
+the entrance to the Chapel.  The strong doors are decorated with engravings
+of each tree found in the surrounding forest.  A dark green dye outlines the
+etchings, and dark black beads line each side of the doors.  
+~
+0 8 0
+E
+message~
+The Valar Hallway is not for the faint of heart.  Anyone may look upon the
+forms of the Valar, but only a hero has any chance of surviving a battle
+with one.  This applies to anything else with an amber aura as well!  Also, 
+be prepared for other surprises. :>
+                                         This is your only warning,
+                                         Aalanon your friendly IMP!
+~
+E
+sign~
++-------------------------+
+|  Robing Alcove   -East  |
+|  Valar Hallway   -South |
+|  Entrance Foyer  -West  |
+| Cathedral Chapel -North |
++-------------------------+
+~
+D0
+Within the Chapel.
+~
+~
+1 -1 5929
+D1
+An Empty Alcove.
+~
+~
+0 -1 5903
+D2
+Southern Hallway.
+~
+~
+0 -1 5904
+D3
+The Cathedral's Foyer.
+~
+~
+0 -1 5901
+S
+#5903
+An Empty Alcove.~
+The alcove is a dark and stuffy room, with the only light source, a small
+lantern in the middle of a dark walnut table.  Set aside from the rest of
+the cathedral, the alcove is a small room designated for visitors to put on
+ceremonail robes before entering the chapel.  A small rack is set neatly in
+a corner with disheveled robes tossed carelessly on hangers.  
+~
+0 8 0
+D3
+In Front of the Chapel Doors.
+~
+~
+0 -1 5902
+D5
+Beneath the Alcove.
+~
+~
+1 -1 5996
+S
+#5904
+Southern Hallway.~
+This is the beginning of roughly a hundred feet of hallway, and doors
+line the walls all the way down its length.  There are two doors in this
+section of the hall and each has a sign attached to it.  The doors are
+banded in gold and the signs are made of some shiny metal.  
+~
+0 8 0
+E
+western sign~
++-----------------------------+
+| Yavanna, Queen of the Earth |
+|         Wife of Aule        |
++-----------------------------+
+~
+E
+eastern sign~
++------------------------------+
+| Aule, The Smith of the Valar |
+|      Husband of Yavanna      |
++------------------------------+
+~
+D0
+In Front of the Chapel Doors.
+~
+~
+0 -1 5902
+D1
+Aule's Room.
+~
+~
+1 -1 5911
+D2
+Along the Southern Hallway.
+~
+~
+0 -1 5905
+D3
+Yavanna's Room.
+~
+~
+1 -1 5925
+S
+#5905
+Along the Southern Hallway.~
+You are standing in the expanse of the southern hallway.  Doors line the
+walls and the ones opposite you are banded in gold.  A sign is attached to
+each door, obviously telling the observer of which Valar resides within each
+room.  
+~
+0 8 0
+E
+western sign~
++---------------------------+
+| Varda, Queen of the Valar |
+|       Wife of Manwe       |
++---------------------------+
+~
+E
+eastern sign~
++----------------------------------+
+| Este, Mistress of Peace and Rest |
+|           Wife of Irmo           |
++----------------------------------+
+~
+D0
+Southern Hallway.
+~
+~
+0 -1 5904
+D1
+Este's Room.
+~
+~
+1 -1 5912
+D2
+Along the Southern Hallway.
+~
+~
+0 -1 5906
+D3
+Varda's Room.
+~
+~
+1 -1 5924
+S
+#5906
+Along the Southern Hallway.~
+You still stand within the southern hallway that extends before you. 
+Again the doors opposite you are banded in gold and a sign is attached to
+each.  
+~
+0 8 0
+E
+western sign~
++--------------------------+
+| Vana, Mistress of Spring |
+|      Wife of Orome       |
++--------------------------+
+~
+E
+eastern sign~
++-----------------------+
+| Irmo, Lord of Visions |
+|    Husband of Este    |
++-----------------------+
+~
+D0
+Along the Southern Hallway.
+~
+~
+0 -1 5905
+D1
+Irmo's Room.
+~
+~
+1 -1 5913
+D2
+Along the Southern Hallway.
+~
+~
+0 -1 5907
+D3
+Vana's Room.
+~
+~
+1 -1 5923
+S
+#5907
+Along the Southern Hallway.~
+You have reached the midpoint of the southern hallway.  The doors stretch
+ahead and behind you, and the ones opposite you are still banded in gold and
+have a sign attached to each.  
+~
+0 8 0
+E
+western sign~
++-------------------------+
+| Vaire, Mistress of Time |
+|       Wife of Namo      |
++-------------------------+
+~
+E
+eastern sign~
++--------------------------+
+| Manwe, King of the Valar |
+|     Husband of Varda     |
++--------------------------+
+~
+D0
+Along the Southern Hallway.
+~
+~
+0 -1 5906
+D1
+Manwe's Room.
+~
+~
+1 -1 5914
+D2
+Along the Southern Hallway.
+~
+~
+0 -1 5908
+D3
+Vaire's Room.
+~
+~
+1 -1 5922
+S
+#5908
+Along the Southern Hallway.~
+Traveling down the southern hallway you come upon a difference.  The door
+to the west is banded in gold and has a sign attached.  However, the door to
+the east is banded in black iron and has no sign.  Actually upon closer
+examination you can see that used to have one but has since been removed. 
+How odd!  
+~
+0 8 0
+E
+western sign~
++-----------------------+
+| Ulmo, King of the Sea |
++-----------------------+
+~
+D0
+Along the Southern Hallway.
+~
+~
+0 -1 5907
+D1
+Melkor's Room.
+~
+door~
+2 5979 5915
+D2
+Along the Southern Hallway.
+~
+~
+0 -1 5909
+D3
+Ulmo's Room.
+~
+~
+1 -1 5921
+S
+#5909
+Nearing the End of the Hallway.~
+You are nearing the end of the hallway and the doors have reverted back
+to the normal progression.  Each is again banded in gold and has a sign
+attached to them.  
+~
+0 8 0
+E
+western sign~
++-------------------------------+
+| Tulkas, Champion of the Valar |
+|       Husband of Nessa        |
++-------------------------------+
+~
+E
+eastern sign~
++--------------------------+
+| Namo, Keeper of the Dead |
+|     Husband of Vaire     |
++--------------------------+
+~
+D0
+Along the Southern Hallway.
+~
+~
+0 -1 5908
+D1
+Namo's Room.
+~
+~
+1 -1 5916
+D2
+End of the Southern Hallway.
+~
+~
+0 -1 5910
+D3
+Tulkas' Room.
+~
+~
+1 -1 5920
+S
+#5910
+End of the Southern Hallway.~
+Finally!  You have reached the end of the southern hallway and you are
+confronted by three doors, each banded in gold, and each bearing a sign just
+like the rest.  
+~
+0 8 0
+E
+western sign~
++------------------------------+
+| Orome, Huntsman of the Valar |
+|        Husband of Vana       |
++------------------------------+
+~
+E
+southern sign~
++----------------------------+
+| Nienna, Mistress of Sorrow |
++----------------------------+
+~
+E
+eastern sign~
++------------------------+
+| Nessa, Mistress of Joy |
+|     Wife of Tulkas     |
++------------------------+
+~
+D0
+Near the End of the Southern Hallway.
+~
+~
+0 -1 5909
+D1
+Nessa's Room.
+~
+~
+1 -1 5917
+D2
+Nienna's Room.
+~
+~
+1 -1 5918
+D3
+Orome's Room.
+~
+~
+1 -1 5919
+S
+#5911
+Aule's Room.~
+The walls in this room are covered in paintings showing the achievements
+of Aule, and has a brown motif.  The most notable are the creation of the
+Two Lamps, Illuin and Ormal.  Other pictures show the fashioning of
+adornments, weapons, and trappings required by his fellow Valar, and another
+shows the creation of Dwarves upon Aule's forge.  
+~
+0 8 0
+D3
+Southern Hallway.
+~
+~
+1 -1 5904
+S
+#5912
+Este's Room.~
+The walls in this room are covered with one huge mural, and has a grey
+motif.  The mural shows Este caring for the Fountains of Renewal within the
+Forest of Lorien, all the while caring for the sick and wounded that lie at
+her feet.  
+~
+0 8 0
+D3
+Along the Southern Hallway.
+~
+~
+1 -1 5905
+S
+#5913
+Irmo's Room.~
+The walls in this room are bedecked with paintings showing Irmo, the
+Dream Master, overseeing the wishes and hopes inherent in all of Eru's
+children.  A deep blue colour pervades the room.  
+~
+0 8 0
+D3
+Along the Southern Hallway.
+~
+~
+1 -1 5906
+S
+#5914
+Manwe's Room.~
+This brilliant blue room is dedicated to Manwe, Lord of the Sky and King
+of the Valar.  The room shows Manwe, his breath governing the winds, his
+vision clearing the mists, and his anger spawning the storms that pound the
+earth.  As leader he was counselor, teacher, and overseer of his people as
+well.  
+~
+0 8 0
+D3
+Along the Southern Hallway.
+~
+~
+1 -1 5907
+S
+#5915
+Melkor's Room.~
+This room is vacant of all colour.  Not just black or white, but the true
+absence of colour.  Staying in this room causes vertigo and hurts the eyes,
+maybe you should leave before....  OUCH!  , THAT HURT, YOU MUST HAVE PASSED
+OUT FOR A SECOND....  Hmmm, maybe now would be a good time to make a quick
+exit.  
+~
+0 8 0
+D3
+Along the Southern Hallway.
+~
+door~
+2 5979 5908
+S
+#5916
+Namo's Room.~
+This is the room of Namo, Lord of the Halls of Awaiting.  The room is
+almost entirely black and the portraits and paintings in the room are filled
+with images of inner visions and destinies.  They show Namo as the arbiter
+of doom, and the caretaker of souls in the afterlife.  
+~
+0 8 0
+D3
+Nearing the End of the Hallway.
+~
+~
+1 -1 5909
+S
+#5917
+Nessa's Room.~
+This room is bright and beautiful, and is orange in colour, the colour of
+Nessa's choosing.  The pictures show Nessa running, playing, laughing, and
+taking delight in the celebration of life.  This room, like Nessa herself,
+embodies mirth, joy and happiness.  
+~
+0 8 0
+D3
+End of the Southern Hallway.
+~
+~
+1 -1 5910
+S
+#5918
+Nienna's Room.~
+This room is the colour of sadness, the colour of eyes after grieving to
+long, the colour of blood.  For this is the room of Nienna, the Mourner, the
+Weeper, the Sufferer.  The portraits picture Nienna assuming the sadness of
+others, for without her life's trials may have been too great for the
+children of Eru.  
+~
+0 8 0
+D0
+End of the Southern Hallway.
+~
+~
+1 -1 5910
+S
+#5919
+Orome's Room.~
+The colour of silver fills this room, the room of Orome, Master of the
+Wild and Huntsman of the Valar.  Scenes of Orome's travels surround you as
+you stand within his room.  Scenes of battles with the Black Enemy's minions
+are also interspersed about the room.  
+~
+0 8 0
+D1
+End of the Southern Hallway.
+~
+~
+1 -1 5910
+S
+#5920
+Tulkas' Room.~
+This room is bathed in a reddish gold light and all about are pictures of
+Tulkas.  Tulkas the consummate warrior, fighting without weapons, anger or
+fear, knowing no equal in strength or speed.  All throughout can be seen a
+joy of battle, for Tulkas is always laughing no matter the foe or danger.  
+~
+0 8 0
+D1
+Nearing the End of the Hallway.
+~
+~
+1 -1 5909
+S
+#5921
+Ulmo's Room.~
+This room is the colour of the open sea, the sheltered cove, and the
+alpine stream.  The essence of Ulmo can be seen in all the paintings,
+whether swirling through the rain, coursing through streams, laying in
+pools, or with each morning's dew.  Ulmo embodies the 'blood' of the world,
+residing in the highest snows and the deepest springs.  
+~
+0 8 0
+D1
+Along the Southern Hallway.
+~
+~
+1 -1 5908
+S
+#5922
+Vaire's Room.~
+Purple light is awash in this room, and Vaire, the Mistress of Time is
+seen in her Place of Souls.  She weaves the record of Time, and uses her
+chronicle to judge the doom of spirits.  
+~
+0 8 0
+D1
+Along the Southern Hallway.
+~
+~
+1 -1 5907
+S
+#5923
+Vana's Room.~
+The warmth and smell of spring exudes from this room and a bright green
+tinge covers everything.  Vana, Mistress of Flowers and Songs embodies the
+Spring of Life, and her passionate songs can be heard throughout the room. 
+Your heart leaps and memories of your younger years are stirred within your
+heart.  
+~
+0 8 0
+D1
+Along the Southern Hallway.
+~
+~
+1 -1 5906
+S
+#5924
+Varda's Room.~
+This white room is dedicated to Varda, Queen of the Valar and the
+counterpart of Manwe.  Scanning the room, you gaze upon the compassion and
+wisdom that Varda embodies.  Her works were many, for she created the stars,
+kindled the Two Lamps, illuminated the Two Trees, blessed the Silmarils, and
+filled the vessels which became the Sun and the Moon.  
+~
+0 8 0
+D1
+Along the Southern Hallway.
+~
+~
+1 -1 5905
+S
+#5925
+Yavanna's Room.~
+Yavanna, Queen of the Earth resides within this room of deep green. 
+Yavanna can be seen making living things grow and flourish for her labours
+gave the World all its plants, including the Two Trees of Valinor, Laurelin
+and Telperion.  
+~
+0 8 0
+D1
+Southern Hallway.
+~
+~
+1 -1 5904
+S
+#5926
+Within the Chapel.~
+You are standing northeast of the chapel entrance among a section of
+pews.  At the other end of the room you can see the altar and a huge statue
+of Eru.  This room glitters and sparkles, either emanating from the walls or
+off of the many gold and silver menara spread about the room.  
+~
+0 8 0
+D0
+Beside the Altar.
+~
+~
+0 -1 5932
+D2
+Within the Chapel.
+~
+~
+0 -1 5927
+D3
+Within the Chapel.
+~
+~
+0 -1 5928
+S
+#5927
+Within the Chapel.~
+You are standing east of the chapel entrance among a section of pews.  At
+the other end of the room you can see the altar and a huge statue of Eru. 
+This room glitters and sparkles, either emanating from the walls or off of
+the many gold and silver menara spread about the room.  
+~
+0 8 0
+D0
+Within the Chapel.
+~
+~
+0 -1 5926
+D3
+Within the Chapel.
+~
+~
+0 -1 5929
+S
+#5928
+Within the Chapel.~
+You are standing north of the chapel entrance.  At the other end of the
+room you can see the altar and a huge statue of Eru.  This room glitters and
+sparkles, either from the walls or off of the many gold and silver menara
+spread about the room.  
+~
+0 8 0
+D0
+The Chapel Altar.
+~
+~
+0 -1 5933
+D1
+Within the Chapel.
+~
+~
+0 -1 5926
+D2
+Within the Chapel.
+~
+~
+0 -1 5929
+D3
+Within the Chapel.
+~
+~
+0 -1 5930
+S
+#5929
+Entrance to the Chapel.~
+You are standing at the entrance to the chapel.  At the other end of the
+room you can see the altar and a huge statue of Eru.  This room glitters and
+sparkles, either emanating from the walls or off of the many gold and silver
+menara spread about the room.  
+~
+0 8 0
+D0
+Within the Chapel.
+~
+~
+0 -1 5928
+D1
+Within the Chapel.
+~
+~
+0 -1 5927
+D2
+In Front of the Chapel Doors.
+~
+~
+1 -1 5902
+D3
+Within the Chapel.
+~
+~
+0 -1 5931
+S
+#5930
+Within the Chapel.~
+You are standing northwest of the chapel entrance among a section of
+pews.  At the other end of the room you can see the altar and a huge statue
+of Eru.  This room glitters and sparkles, either emanating from the walls or
+off of the many gold and silver menara spread about the room.  
+~
+0 8 0
+D0
+Beside the Altar.
+~
+~
+0 -1 5934
+D1
+Within the Chapel.
+~
+~
+0 -1 5928
+D2
+Within the Chapel.
+~
+~
+0 -1 5931
+S
+#5931
+Within the Chapel.~
+You are standing west of the chapel entrance among a section of pews.  At
+the other end of the room you can see the altar and a huge statue of Eru. 
+This room glitters and sparkles, either emanating from the walls or off of
+the many gold and silver menara spread about the room.  
+~
+0 8 0
+D0
+Within the Chapel.
+~
+~
+0 -1 5930
+D1
+Within the Chapel.
+~
+~
+0 -1 5929
+S
+#5932
+Beside the Altar.~
+An altar dedicated to Eru is to the west and a large statue of that same
+being is to the northwest.  Rows and rows of pews are lined up to the south
+and gold and silver covers every surface.  
+~
+0 8 0
+D0
+Beside the Statue.
+~
+~
+0 -1 5935
+D2
+Within the Chapel.
+~
+~
+0 -1 5926
+D3
+The Chapel Altar.
+~
+~
+0 -1 5933
+S
+#5933
+The Chapel Altar.~
+How stand before the chapel's altar.  Gold and silver runes are etched
+upon its surface and a open book rests beside a holy symbol, both on top the
+altar.  A menara stands at each side of the altar, the left glowing with a
+gold light, the other silver.  
+~
+0 8 0
+E
+runes~
+...and though nowhere and in no work was their will and purpose wholly
+fulfilled, and all things were in hue and shape other than the Valar had at
+first intended, slowly nonetheless the Earth was fashioned and made firm. 
+And thus was the habitation of the Children of Iluvatar established at the
+last in the Deeps of Time and amidst the innumerable stars.
+~
+D0
+The Statue of Eru.
+~
+~
+0 -1 5936
+D1
+Beside the Altar.
+~
+~
+0 -1 5932
+D2
+Within the Chapel.
+~
+~
+0 -1 5928
+D3
+Beside the Altar.
+~
+~
+0 -1 5934
+S
+#5934
+Beside the Altar.~
+An altar dedicated to Eru is to the east and a large statue of that same
+being is to the northeast.  Rows and rows of pews are lined up to the south
+and gold and silver covers every surface.  
+~
+0 8 0
+D0
+Beside the Statue.
+~
+~
+0 -1 5937
+D1
+The Chapel Altar.
+~
+~
+0 -1 5933
+D2
+Within the Chapel.
+~
+~
+0 -1 5930
+S
+#5935
+Beside the Statue.~
+You stand to the east of an enormous statue of the one true god, Eru. 
+The wall to the north is painted with scenes of Eru's visions.  Among his
+visions are the birth of the Valar, the creation of Ea (existence), and the
+forging of Menel (the Heavens) and Arda (the Earth).  At the heart of Ea is
+the Flame Imperishable, that which gave life.  
+~
+0 8 0
+D1
+Along the Northern Hallway.
+~
+~
+1 -1 5941
+D2
+Beside the Altar.
+~
+~
+0 -1 5932
+D3
+The Statue of Eru.
+~
+~
+0 -1 5936
+S
+#5936
+The Statue of Eru.~
+You stand in front of an enormous statue of the one true god, Eru.  The
+wall to the north is painted with scenes of Eru's visions.  Among his
+visions are the birth of the Valar, the creation of Ea (existence), and the
+forging of Menel (the Heavens) and Arda (the Earth).  At the heart of Ea is
+the Flame Imperishable, that which gave life.  
+~
+0 8 0
+D1
+Beside the Statue.
+~
+~
+0 -1 5935
+D2
+The Chapel Altar.
+~
+~
+0 -1 5933
+D3
+Beside the Statue.
+~
+~
+0 -1 5937
+S
+#5937
+Beside the Statue.~
+You stand to the west of an enormous statue of the one true god, Eru. 
+The wall to the north is painted with scenes of Eru's visions.  Among his
+visions are the birth of the Valar, the creation of Ea (existence), and the
+forging of Menel (the Heavens) and Arda (the Earth).  At the heart of Ea is
+the Flame Imperishable, that which gave life.  
+~
+0 8 0
+D1
+The Statue of Eru.
+~
+~
+0 -1 5936
+D2
+Beside the Altar.
+~
+~
+0 -1 5934
+D3
+Along the Northern Hallway.
+~
+~
+1 -1 5955
+S
+#5938
+One End of the Northern Hallway.~
+You are standing at one end of the northern hallway.  You can see that it
+stretches far to the north and many doors line its walls.  That same inner
+light emanates from the walls to light the area.  There is a door to the
+east, and gold and silver filagree cover the door and walls here too.  
+~
+0 8 0
+D0
+Along the Northern Hallway.
+~
+~
+0 -1 5939
+D1
+Acolyte's Room.
+~
+~
+1 -1 5971
+S
+#5939
+Along the Northern Hallway.~
+You are near one end of the northern hallway.  It's end lies to the south
+and it stretches off into a luminous gloom to the north.  Doors can be seen
+in both directions and gold and silver filagree cover most of the surfaces
+as well.  
+~
+0 8 0
+D0
+Along the Northern Hallway.
+~
+~
+0 -1 5940
+D2
+One End of the Northern Hallway.
+~
+~
+0 -1 5938
+S
+#5940
+Along the Northern Hallway.~
+Still within the northern hallway and the glowing walls make it hard to
+see anything except what you are close to.  You think you see a door far to
+the south, as well as a couple to the north.  All that gold and silver
+filagree glints and sparkles, and this is what is making visibility tough in
+such a well lit hallway.  
+~
+0 8 0
+D0
+Along the Northern Hallway.
+~
+~
+0 -1 5941
+D2
+Along the Northern Hallway.
+~
+~
+0 -1 5939
+S
+#5941
+Along the Northern Hallway.~
+This section of the hallway has a door to the east, behind which you can
+here the chatter of speech.  A door leading into the chapel lies to the west
+and the whisper of its worshippers can be heard even out here.  Filagree
+sparkles from the light emanating out of the walls and makes it hard to see
+anything more than a few feet ahead of you.  
+~
+0 8 0
+D0
+Eastern Intersection in the Northern Hallway.
+~
+~
+0 -1 5942
+D1
+Acolyte's Room.
+~
+~
+1 -1 5974
+D2
+Along the Northern Hallway.
+~
+~
+0 -1 5940
+D3
+Beside the Statue.
+~
+~
+1 -1 5935
+S
+#5942
+Eastern Intersection in the Northern Hallway.~
+You are standing at an intersection in the northern hallway, another lies
+to the west.  In the middle of a short hallway connecting the two is an
+archway leading outside.  A door is to the east and many doors line the
+hallway in either direction.  The glare in this section hampers your sight
+just like in any other section of the hallway.  
+~
+0 8 0
+D0
+Along the Northern Hallway.
+~
+~
+0 -1 5943
+D1
+Bishop's Room.
+~
+~
+1 -1 5975
+D2
+Along the Northern Hallway.
+~
+~
+0 -1 5941
+D3
+Eastern Approach.
+~
+~
+0 -1 5959
+S
+#5943
+Along the Northern Hallway.~
+This section of the hallway is even brighter than most, probably because
+the stained-glass windows to the west let in the light from two enormous
+trees, one gold, the other silver.  Obviously some sort of garden lies
+within the confines of the cathedral.  The hallway continues off in both
+directions, with a bend far to the north and an intersection to the south.  
+~
+0 8 0
+D0
+Along the Northern Hallway.
+~
+~
+0 -1 5944
+D2
+Eastern Intersection in the Northern Hallway.
+~
+~
+0 -1 5942
+S
+#5944
+Along the Northern Hallway.~
+Stained-glass windows line the west wall of the hallway here.  The light
+from two enormous trees baths this hallway with even more light than what
+normally emanates from the very rock.  You can barely see two doors to the
+north just before a bend heading west, and the intersection to the south is
+also just as indiscernible.  
+~
+0 8 0
+D0
+Along the Northern Hallway.
+~
+~
+0 -1 5945
+D2
+Along the Northern Hallway.
+~
+~
+0 -1 5943
+S
+#5945
+Along the Northern Hallway.~
+A bend heading west is just north of this section of the hallway but the
+hallway is so bright that you can't tell what lies to the south.  A door is
+also to the east and the overwhelming smell of cat hair fills your nostrils.
+A door to the north, and another around the corner can barely be seen as
+well.  
+~
+0 8 0
+D0
+Bend in the Northern Hallway.
+~
+~
+0 -1 5946
+D1
+The Lammasu's Room.
+~
+~
+1 -1 5978
+D2
+Along the Northern Hallway.
+~
+~
+0 -1 5944
+S
+#5946
+Bend in the Northern Hallway.~
+You stand at a bend in the northern hallway.  Just to the south is a
+door, but you can't see much else in that direction.  The door to the east
+is closed and has the symbol of Eru etched into it.  You can also make out
+three doors along the hallway heading west.  The amount of light bathing
+this section is causing your eyes to protest.  
+~
+0 8 0
+E
+symbol~
+The symbol is the same one which you have seen about the rest of the
+cathedral.  That of two suns shining over a mountain.
+~
+D1
+Celestian's Quarters.
+~
+~
+1 -1 5979
+D2
+Along the Northern Hallway.
+~
+~
+0 -1 5945
+D3
+Along the Northern Hallway.
+~
+~
+0 -1 5947
+S
+#5947
+Along the Northern Hallway.~
+You stand within a connecting hallway linking the two sections of the
+northern hallway.  Obviously it runs all the way around the northern half of
+the cathedral.  The door to the north has a musty smell coming from it and
+to the east and west are more doors.  Another bend can barely be seen far to
+the west.  
+~
+0 8 0
+D0
+The Library.
+~
+~
+1 -1 5982
+D1
+Bend in the Northern Hallway.
+~
+~
+0 -1 5946
+D3
+Along the Northern Hallway.
+~
+~
+0 -1 5948
+S
+#5948
+Along the Northern Hallway.~
+You are now in the middle of the connecting hallway in-between both
+halves of the northern hallway.  From this vantage point you can see the
+garden to the south via the stained-glass windows, three doors along the
+north wall and two other doors at either bend in the hallway.  The door
+directly to your north is plain, unadorned and out of place in comparison to
+the rest of the cathedral.  
+~
+0 8 0
+D0
+The Ki-rin's Room.
+~
+~
+1 -1 5983
+D1
+Along the Northern Hallway.
+~
+~
+0 -1 5947
+D3
+Along the Northern Hallway.
+~
+~
+0 -1 5949
+S
+#5949
+Along the Northern Hallway.~
+You stand within a connecting hallway linking the two sections of the
+northern hallway.  Obviously it runs all the way around the northern half of
+the cathedral.  The door to the north has many symbols etched into its
+surface and to the east and west are more doors.  Another bend can barely be
+seen far to the east.  
+~
+0 8 0
+E
+north door~
+This door has the symbol of two suns shining over a mountain, engraved into
+its surface.
+~
+D0
+A Private Shrine.
+~
+door~
+2 5981 5984
+D1
+Along the Northern Hallway.
+~
+~
+0 -1 5948
+D3
+Bend in the Northern Hallway.
+~
+~
+0 -1 5950
+S
+#5950
+Bend in the Northern Hallway.~
+You stand at a bend in the northern hallway.  Just to the south is a
+door, but you can't see much else in that direction.  The door to the west
+is closed and has the symbol of Eru etched into it.  You can also make out
+three doors along the hallway heading east.  The amount of light bathing
+this section of hallway is making your eyes water.  
+~
+0 8 0
+E
+symbol~
+Again, this symbol is of two suns shining above a mountain.
+~
+D1
+Along the Northern Hallway.
+~
+~
+0 -1 5949
+D2
+Along the Northern Hallway.
+~
+~
+0 -1 5951
+D3
+Angelica's Quarters.
+~
+~
+1 -1 5987
+S
+#5951
+Along the Northern Hallway.~
+This bright stretch of hallway continues south and bends around to the
+east just north of here.  The stained glass windows to the east let in the
+light from two enormous trees, one silver, the other gold.  There is a door
+to the west and another just to the north.  Other than these two doors no
+other exits from this hallway can be seen easily.  The odd smell of horse
+hair is noticed in this section of the hallway.  
+~
+0 8 0
+D0
+Bend in the Northern Hallway.
+~
+~
+0 -1 5950
+D2
+Along the Northern Hallway.
+~
+~
+0 -1 5952
+D3
+The Shedu's Room.
+~
+~
+1 -1 5988
+S
+#5952
+Along the Northern Hallway.~
+This light is starting to grate on your nerves, its like being blind, but
+only when looking past the length of your arm.  You can see a door to the
+north and maybe one far to the south.  In the distance you can hear a soft
+hum coming from the south.  Its probably the worshippers in the cathedral's
+chapel, but you can't be sure.  
+~
+0 8 0
+D0
+Along the Northern Hallway.
+~
+~
+0 -1 5951
+D2
+Along the Northern Hallway.
+~
+~
+0 -1 5953
+S
+#5953
+Along the Northern Hallway.~
+This stretch of hallway is so well lit it is hard to see more than a
+couple feet in front of you.  You can see an intersection and a couple of
+doors to the south, but to the north you cant see a thing other than the
+light.  This cathedral must have been built to emulate the Flame
+Imperishable.  
+~
+0 8 0
+D0
+Along the Northern Hallway.
+~
+~
+0 -1 5952
+D2
+Western Intersection in the Northern Hallway.
+~
+~
+0 -1 5954
+S
+#5954
+Western Intersection in the Northern Hallway.~
+This is the western intersection in the northern hallway.  The hallway to
+the east has a slight breeze coming from it and a scattering of green and
+silver leaves are on the floor.  An archway leading outside can be seen to
+the east and three doors, one to the west, and two to the south are close at
+hand.  Beyond that, not much else can be seen through the ever-present
+glare.  
+~
+0 8 0
+D0
+Along the Northern Hallway.
+~
+~
+0 -1 5953
+D1
+Western Approach.
+~
+~
+0 -1 5961
+D2
+Along the Southern Hallway.
+~
+~
+0 -1 5955
+D3
+Bishop's Room.
+~
+~
+1 -1 5991
+S
+#5955
+Along the Northern Hallway.~
+The door to the east in this section of the hallway leads into the
+chapel, and another door leads west.  The sparkling filagree makes you
+squint and other than a door to the north, everything else is lost in the
+motes of light.  
+~
+0 8 0
+D0
+Western Intersection in the Northern Hallway.
+~
+~
+0 -1 5954
+D1
+Beside the Statue.
+~
+~
+1 -1 5937
+D2
+Along the Northern Hallway.
+~
+~
+0 -1 5956
+D3
+Priest's Room.
+~
+~
+1 -1 5992
+S
+#5956
+Along the Northern Hallway.~
+Far to the south you can see the end of this section of the northern
+hallway.  One door lies in that direction and a couple lie to the north. 
+The sparks and glitters coming off the walls hampers your sight and
+everything you are wearing either shines brightly or contrasts to such a
+degree that you could easily become a really big target.  
+~
+0 8 0
+D0
+Along the Northern Hallway.
+~
+~
+0 -1 5955
+D2
+Along the Northern Hallway.
+~
+~
+0 -1 5957
+S
+#5957
+Along the Northern Hallway.~
+Will this god forsaken light ever let up.  By the time you leave this
+place you will probably be blind, so you better let a cleric know now.  The
+end of the hallway and a single door are just to the south and everything to
+the north is lost in this ever-present light.  
+~
+0 8 0
+D0
+Along the Northern Hallway.
+~
+~
+0 -1 5956
+D2
+One End of the Northern Hallway.
+~
+~
+0 -1 5958
+S
+#5958
+One End of the Northern Hallway.~
+This is one end of the hallway, and with any luck the layout to the east
+is about the same.  The door to the west is closed but you can hear speech. 
+Obviously someone is in that direction, actually a couple someone's.  Maybe
+you should go see, anything is probably better than this blinding light
+coming out of the walls.  
+~
+0 8 0
+D0
+Along the Northern Hallway.
+~
+~
+0 -1 5957
+D3
+Priest's Room.
+~
+~
+1 -1 5995
+S
+#5959
+Eastern Approach.~
+As you walk through this short hallway you can smell flowers and grass on
+the slight breeze.  An archway leads into what looks like a garden just to
+the west and two intersections can be seen, one to the east and another to
+the west.  Through the stained-glass windows you can see a pool of some
+sort, situated between the two trees, with swans swimming in it.  
+~
+0 8 0
+D1
+Eastern Intersection in the Northern Hallway.
+~
+~
+0 -1 5942
+D3
+The Garden Entryway.
+~
+~
+0 -1 5960
+S
+#5960
+The Garden Entryway.~
+An enormous archway leads into the garden here.  An what a garden it is,
+small animals and birds frolic about and you think you even see someone
+sitting in the grass.  The two trees are just incredible because this
+cathedral is large, but it doesn't even compare to these trees.  The smell
+and warmth of spring bathe you as you approach.  
+~
+0 8 0
+D0
+Within the Garden.
+~
+~
+0 -1 5963
+D1
+Eastern Approach.
+~
+~
+0 -1 5959
+D3
+Western Approach.
+~
+~
+0 -1 5961
+S
+#5961
+Western Approach.~
+All your senses seem to be on fire here.  Sweet smells, beautiful
+singing, and a veritable rainbow of flowers all lie just to the east through
+the archway.  The garden is ten times more beautiful than this cold,
+although well lit, cathedral.  If the garden doesn't meet your tastes then
+an intersection lies both far to the east and just to the west.  
+~
+0 8 0
+D1
+The Garden Entryway.
+~
+~
+0 -1 5960
+D3
+Western Intersection in the Northern Hallway.
+~
+~
+0 -1 5954
+S
+#5962
+Within the Garden.~
+This garden is like a taste of paradise.  All around you is nature in all
+its glory, and you wonder how something this beautiful could exist within
+the confines of a large granite structure.  Obviously nature must play a
+large part in the lives of the cathedral's inhabitants.  Rising above you to
+the north is Telperion, and to the northwest is Laurelin with some kind of
+pool in-between.  
+~
+0 0 2
+D0
+Telperion.
+~
+~
+0 -1 5965
+D3
+Within the Garden.
+~
+~
+0 -1 5963
+S
+#5963
+Within the Garden.~
+You stand at the entrance to the garden and the view is breath-taking. 
+Birds and small animals play within its confines, and they seem to enjoy
+your presence.  A single bird lands on your shoulder and starts to sing, and
+your heart leaps with joy.  The garden spreads out to the north but the two
+trees and the pool in-between draw your eyes.  A lithe woman sits in the
+grass next to the pool, happily splashing the swans that honk in reply.  
+~
+0 0 2
+D0
+The Wells of Varda.
+~
+~
+0 -1 5966
+D1
+Within the Garden.
+~
+~
+0 -1 5962
+D2
+The Garden Entryway.
+~
+~
+0 -1 5960
+D3
+Within the Garden.
+~
+~
+0 -1 5964
+S
+#5964
+Within the Garden.~
+This garden is just incredible.  You have never seen so many different
+kinds of flowers all growing in the same spot.  Chipmunks and birds chatter
+at each other playfully, all the while oblivious to your presence.  Or maybe
+they just don't mind that your here, your not quite sure.  To the immediate
+north is Laurelin, and to the northeast is Telperion with the pool situated
+between them.  
+~
+0 0 2
+D0
+Laurelin.
+~
+~
+0 -1 5967
+D1
+Within the Garden.
+~
+~
+0 -1 5963
+S
+#5965
+Telperion.~
+The garden surrounds you on all sides except to the east.  Stained-glass
+windows allow the light of the two trees to brighten the cathedral in that
+direction.  All your senses are filled with the essence of spring, but what
+really draws your attention is the tree.  Not just any tree, but one of two
+trees that rise hundreds of feet into the air.  
+~
+0 0 2
+D0
+Within the Garden.
+~
+~
+0 -1 5968
+D2
+Within the Garden.
+~
+~
+0 -1 5962
+D3
+The Wells of Varda.
+~
+~
+0 -1 5966
+S
+#5966
+The Well of Varda.~
+A large pool with a marble rim sits within the middle of the garden.  A
+number of small birds are playing in it, and even a single doe looks up at
+you, as you enter, while it drinks.  This spot would be the perfect place
+for a picnic or a romantic interlude.  Spring is always in the air here so
+why not use it to its full potential right.  
+~
+0 0 2
+D0
+Within the Garden.
+~
+~
+0 -1 5969
+D1
+Telperion.
+~
+~
+0 -1 5965
+D2
+Within the Garden.
+~
+~
+0 -1 5963
+D3
+Laurelin.
+~
+~
+0 -1 5967
+S
+#5967
+Laurelin.~
+The foliage of this beautiful garden surrounds you on every side, except
+for the stained-glass windows to the west.  The chirping of insects, the
+songs of birds, and the chatter of chipmunks drifts on the summer breeze
+that blows through here.  Could life get any better if this were heaven. 
+There is only one thing distracting you, that really big tree that is
+glowing with a golden light.  
+~
+0 0 2
+D0
+All you can see is a hedge maze.
+~
+~
+0 -1 5970
+D1
+The Wells of Varda.
+~
+~
+0 -1 5966
+D2
+Within the Garden.
+~
+~
+0 -1 5964
+S
+#5968
+Within the Garden.~
+This garden brings back memories.  Memories of your younger years,
+playing in the woods or taking moonlit walks with your first love.  This is
+what this garden means to the residents of the cathedral, Love and
+Happiness.  It even seems like the garden resembles the ones you remember,
+but only when looking out of the corner of your eye.  Telperion reaches
+skyward to the south with Laurelin to the southwest and the pool in-between.
+~
+0 0 2
+D2
+Telperion.
+~
+~
+0 -1 5965
+D3
+Within the Garden.
+~
+~
+0 -1 5969
+S
+#5969
+Within the Garden.~
+Stained-glass windows line the northern wall of the garden and the
+shadowy outline of what looks like a horse can be seen walking in the
+hallway on the other side.  This seems a little bit strange, you must be
+getting heady from all the smells in the garden.  As you stand here a swarm
+of tiny birds flies south to the pool and splash about.  
+~
+0 0 2
+D1
+Within the Garden.
+~
+~
+0 -1 5968
+D2
+The Wells of Varda.
+~
+~
+0 -1 5966
+D3
+All you can see is a hedge maze.
+~
+~
+0 -1 5970
+S
+#5970
+Within the Garden.~
+This corner of the garden has a small hedge maze with an oak bench in the
+center.  Definately a nice private place for a secret rendevous with a loved
+one.  Even the birds sing in pairs while you wander through the tiny maze. 
+Laurelin and Telperion rise up above the cathedral to the south and
+southeast respectively, but pool is lost from view.  
+~
+0 0 2
+D1
+The hedge maze blocks your view.
+~
+~
+0 -1 5969
+D2
+Laurelin.
+~
+~
+0 -1 5967
+S
+#5971
+Acolyte's Room.~
+This large room has two sections.  A dining area, which you are standing
+in, and a sleeping area to the north, which is filled with bunk beds.  The
+room itself is sparse so it is obviously the room of the low level priests
+for the cathedral.  
+~
+0 8 0
+D0
+Acolyte's Room.
+~
+~
+0 -1 5972
+D3
+One End of the Northern Hallway.
+~
+~
+1 -1 5938
+S
+#5972
+Acolyte's Room.~
+This is the sleeping area for the acolyte's of the cathedral.  Sparsely
+decorated, it wouldn't seem to have any other purpose.  Especially since all
+it contains is a couple bunk beds and a clothing chest.  
+~
+0 8 0
+D2
+Acolyte's Room.
+~
+~
+0 -1 5971
+S
+#5973
+Acolyte's Room.~
+This half of the room is obviously a sleeping chamber.  A couple of bunk
+beds line the bare walls, and an open chest of cloths sits in one corner. 
+It is not likely anything valuable is in here.  
+~
+0 8 0
+D0
+Acolyte's Room.
+~
+~
+0 -1 5974
+S
+#5974
+Acolyte's Room.~
+These are a set of quarters for the acolyte's of the cathedral.  This
+half is the dining area, which consists of a table and two benchs.  The
+second half, which lies to the south, is the sleeping area.  
+~
+0 8 0
+D2
+Acolyte's Room.
+~
+~
+0 -1 5973
+D3
+Along the Northern Hallway.
+~
+~
+1 -1 5941
+S
+#5975
+Bishop's Room.~
+This room is a little more elaborate than the acolyte's rooms.  That is
+because this is the room of only two bishop's, not a dozen acolyte's.  An
+oak table and two chairs sit in one corner, making this the dining area. 
+Meanwhile, a single bunkbed and two wardrobes sit to the north.  A few
+paintings hang on the walls adding colour to the room.  
+~
+0 8 0
+E
+paintings~
+A couple paintings of the Valar, as well as a large mural of the cathedral
+hang from the walls.
+~
+D0
+Bishop's Room.
+~
+~
+0 -1 5976
+D3
+Eastern Intersection in the Northern Hallway.
+~
+~
+1 -1 5942
+S
+#5976
+Bishop's Room.~
+This half of the room is for sleeping obviously, and that would be what
+the bunk bed is for.  A menara filled with candles flickers softly, lighting
+the room and a few paintings adorn the walls.  
+~
+0 8 0
+E
+paintings~
+Two paintings adorn the walls here.  One is a portrait of Eru, the other a
+portrait of a man and woman in priestly garb.  A small nameplate on the
+second portrait says "Angelica and Celestian, Matriarch and Patriarch of
+the Valar Cathedral."
+~
+D2
+Bishop's Room.
+~
+~
+0 -1 5975
+S
+#5977
+The Lammasu's Room.~
+The northern half of this room is much like the other half.  Except that
+two of the biggest winged lions you have ever seen, (actually no small feat
+since this is probably the first time you have seen winged lions), sit
+regally in here.  They watch you as you approach but show no outward signs
+of wanting to have you for a snack.  
+~
+0 8 0
+D0
+The Lammasu's Room.
+~
+~
+0 -1 5978
+S
+#5978
+The Lammasu's Room.~
+The smell of cat hair assails your nostrils as you enter.  Then you
+realize why!  A pride of lions, actually winged lions, lay about the room,
+and you wonder why they are here and whether they are hungry?  Let's hope
+for your sake they are not.  
+~
+0 8 0
+D2
+The Lammasu's Room.
+~
+~
+0 -1 5977
+D3
+Along the Northern Hallway.
+~
+~
+1 -1 5945
+S
+#5979
+Celestian's Quarters.~
+This room is well furnished and quite grand.  Wall hangings cover every
+inch and all the furniture is made of oak.  This half of the room is a study
+and dining area, while to the north is a bedroom.  Religious periphenalia
+and such are strewn about the room, and most of it is gold, silver or
+crystal.  Obviously someone important lives in these quarters.  
+~
+0 8 0
+E
+wall hangings~
+These wall hangings depict many religious ceremonies as well as great
+accomplishments of the Valar.
+~
+E
+religious periphenalia~
+Whether made of gold, silver or crystal, all of them have the symbol of two
+suns shining over a mountain somewhere in the design.  While valuable,
+taking any of them would be useless since they would obviously be spotted
+as stolen merchandise.
+~
+D0
+Celestian's Quarters.
+~
+~
+0 -1 5980
+D3
+Bend in the Northern Hallway.
+~
+~
+1 -1 5946
+S
+#5980
+Celestian's Quarters.~
+This is the bedroom which goes along with the study to the south. 
+Elegantly carved furniture sits in different places, and again the walls are
+covered in ornate wall hangings.  While you stand here you realize why there
+are so many them.  They are here to keep the glowing walls from becoming
+annoying, especially when trying to sleep.  
+~
+0 8 0
+E
+wall hangings~
+These hangings depict the life of a handsome young man, well at least he was
+once.  Obviously that man is the current occupant of this room, Celestian,
+the cathedral's patriarch.
+~
+D2
+Celestian's Quarters.
+~
+~
+0 -1 5979
+S
+#5981
+The Library.~
+This half room contains shelves filled with books.  Most of the books
+obviously have religious signifigence, and therefore won't interest you.  A
+couple people are here reading at a table and a couple of books are piled on
+it at one end.  Maybe these books will have something interesting to read
+about.  
+~
+0 8 0
+E
+book third~
+This is the third book and continues the story started in the second.
+
+...upon the mound there came forth two slender shoots; and silence was over
+all the world in that hour, nor was there any other sound save the chanting
+of Yavanna.  Under her song the saplings grew and became fair and tall, and
+came to flower; and thus there awoke in the world the Two Trees of Valinor,
+Telperion and Laurelin.
+~
+E
+book second~
+This is the second book.  Upon its spine is the title, Quenta Silmarillion.
+
+...Melkor, trusting in the strength of his fortress and the might of his
+servants, came forth suddenly to war, and struck the first blow, ere the
+Valar were prepared; and he assailed the lights of Illuin and Ormal, and
+cast down their pillars and broke their lamps.  In the confusion and the
+darkness Melkor escaped, though fear fell upon him; for above the roaring
+of the seas he heard the voice of Manwe as a mightly wind.
+~
+E
+book first~
+This is the first of three books.  The title on the spine reads, Valaquenta.
+
+...though men often call them gods.  The Lords of the Valar are seven; and
+the Valier, the Queens of the Valar, are seven also.  The names of the
+Lords in due order are: Manwe, Ulmo, Aule, Orome, Namo, Irmo, and Tulkas;
+and the names of the Queens are: Varda, Yavanna, Nienna, Este, Vaire, Vana
+and Nessa.  Melkor is counted no longer among the Valar, and his name is
+not spoken upon Earth.
+~
+D3
+The Library.
+~
+~
+0 -1 5982
+S
+#5982
+The Library.~
+You have just entered the cathedral library.  Small partitioned cubicles
+are interspersed about this half of the room, and the eastern half contains
+a number of book shelves, all full, and a table.  A couple of people are
+reading in here, as well as at the table.  
+~
+0 8 0
+D1
+The Library.
+~
+~
+0 -1 5981
+D2
+Along the Northern Hallway.
+~
+~
+1 -1 5947
+S
+#5983
+The Ki-rin's Room.~
+This small room is very plain.  An odd smell, your not sure what it is,
+can be sensed in the room, but at the moment it doesn't look like anything
+or anyone is in here.  Then you hear an odd sound and feel a small rush of
+air over your head.  Hmmmm, something must be here you can't see.  
+~
+0 8 0
+D2
+Along the Northern Hallway.
+~
+~
+1 -1 5948
+S
+#5984
+A Private Shrine.~
+This room looks like a miniature version of the chapel without the pews. 
+An altar sits in the west end of the room, two menara flanking it.  Eru's
+symbol is carved into each wall and some kind of script runs around the room
+as a border.  
+~
+0 8 0
+E
+script~
+This elegant script flows all the way around both halves of the room, and
+says...       'And the Valar drew unto them many companions, some less,
+some well nigh as great as themselves, and they laboured together in the
+ordering of the Earth as powers visible, clad in the raiment of the World,
+and were lovely and glorious to see, and blissful, and that the Earth was
+becoming as a garden for their delight, for its turmoils were subdued.'
+~
+E
+symbol~
+As is expected, the symbol consists of two suns shining over a mountain.
+~
+D2
+Along the Northern Hallway.
+~
+door~
+2 5981 5949
+D3
+A Private Shrine.
+~
+~
+0 -1 5985
+S
+#5985
+A Private Shrine.~
+This end of the room has an altar identical to the one in the chapel, and
+two menara, one gold, the other silver, flank it.  Eru's symbol is engraved
+upon each wall and that same script, which started in the other half of the
+room continues here.  
+~
+0 8 0
+E
+script~
+This elegant script flows all the way around both halves of the room, and
+says...       'And the Valar drew unto them many companions, some less,
+some well nigh as great as themselves, and they laboured together in the
+ordering of the Earth as powers visible, clad in the raiment of the World,
+and were lovely and glorious to see, and blissful, and that the Earth was
+becoming as a garden for their delight, for its turmoils were subdued.'
+~
+E
+symbol~
+As is expected, the symbol consists of two suns shining over a mountain.
+~
+D1
+A Private Shrine.
+~
+~
+0 -1 5984
+S
+#5986
+Angelica's Quarters.~
+This half of the room is a bedroom and sitting room.  An elegant four
+poster bed sits in one corner and a plush, oak chair sits in another. 
+Paintings of nature schenes decorate the walls which are covered in curtains
+of black satin.  The curtains keep the light from the walls out when
+sleeping and can be opened to light the room when awake.  
+~
+0 8 0
+E
+paintings~
+Most of the paintings are of forest schenes, but one catches your eye.  This
+lone picture is of a young girl standing in a field of corn with an older
+gentleman.  It is most probably Angelica and her father, but you can't be
+certain.
+~
+D2
+Angelica's Quarters.
+~
+~
+0 -1 5987
+S
+#5987
+Angelica's Quarters.~
+This beautiful room is divided into two separate parts, which can be
+divided by a black satin curtain.  This half is a dining area, whether
+private or public, it seems capable of both, and the other half to the north
+is a sleeping area as well as a sitting room.  The symbol of Eru, that of
+two suns shining over a mountain are visible throughout both halves.  
+~
+0 8 0
+D0
+Angelica's Quarters.
+~
+~
+0 -1 5986
+D1
+Bend in the Northern Hallway.
+~
+~
+1 -1 5950
+S
+#5988
+The Shedu's Room.~
+Upon entering, you are assaulted by the smell of horses.  Now normally
+that would seem strange, but this time it makes sense.  Within the room you
+see a couple of horses, actually horse-shaped individuals, with humanoid
+heads.  They turn to you and one says "Can we help you?  Oh!  I'm sorry, we
+are of the Shedu race, please don't be frightened."  
+~
+0 8 0
+D1
+Along the Northern Hallway.
+~
+~
+1 -1 5951
+D2
+The Shedu's Room.
+~
+~
+0 -1 5989
+S
+#5989
+The Shedu's Room.~
+This half of the room is obviously set aside for teaching of some sort. 
+One lone shedu wearing a diamond-studded headband has a number of other
+shedu, all wearing gold headband's, in a semi-circle.  None of them say a
+word, but the leader is obviously approving of what the others are doing,
+not that anything is being done that you can see.  
+~
+0 8 0
+D0
+The Shedu's Room.
+~
+~
+0 -1 5988
+S
+#5990
+Bishop's Room.~
+This half of the room is for sleeping obviously, and that would be what
+the bunk bed is for.  A menara filled with candles flickers softly, lighting
+the room and a few paintings adorn the walls.  
+~
+0 8 0
+E
+paintings~
+Two paintings adorn the walls here.  One is a portrait of Eru, the other a
+portrait of a man and woman in priestly garb.  A small nameplate on the
+second portrait says "Angelica and Celestian, Matriarch and Patriarch of
+the Valar Cathedral."
+~
+D2
+Bishop's Room.
+~
+~
+0 -1 5991
+S
+#5991
+Bishop's Room.~
+This room is a little more elaborate than the priest's rooms.  That is
+because this is the room of only two bishop's, not a dozen acolyte's.  An
+oak table and two chairs sit in one corner, making this the dining area. 
+Meanwhile, a single bunkbed and two wardrobes sit to the north.  A few
+paintings hang on the walls adding colour to the room.  
+~
+0 8 0
+E
+paintings~
+A couple paintings of the Valar, as well as a large mural of the cathedral
+hang from the walls.
+~
+D0
+Bishop's Room.
+~
+~
+0 -1 5990
+D1
+Western Intersection in the Northern Hallway.
+~
+~
+1 -1 5954
+S
+#5992
+Priest's Room.~
+This is the dining room area for this set of priest's quarters.  A oak
+table and two benches sit in this side of the room.  To the south are three
+bunk beds and a couple of clothing chests.  The whole room is draped in
+black curtains so that the light from the walls doesn't bother the priests
+that are sleeping.  
+~
+0 8 0
+D1
+Along the Northern Hallway.
+~
+~
+1 -1 5955
+D2
+Priest's Room.
+~
+~
+0 -1 5993
+S
+#5993
+Priest's Room.~
+This half of the room is for sleeping in.  Three bunk beds line one wall
+and a chest of clothes sits by each.  The room is otherwise unfurnished.  
+~
+0 8 0
+D0
+Priest's Room.
+~
+~
+0 -1 5992
+S
+#5994
+Priest's Room.~
+This half of the room is for sleeping.  Three bunkbeds line one wall and
+a chest of clothes sits beside each.  The room is otherwise unfurnished.  
+~
+0 8 0
+D2
+Priest's Room.
+~
+~
+0 -1 5995
+S
+#5995
+Priest's Room.~
+This is the dining area for this set of priest's quarters.  An oak table
+and two benches sit in this side of the room.  To the north are three
+bunkbeds and a couple of clothing chests.  The whole room is draped in long
+black curtains so that the light from the cathedral walls doesn't wake
+anyone that is sleeping.  
+~
+0 8 0
+D0
+Priest's Room.
+~
+~
+0 -1 5994
+D1
+One End of the Northern Hallway.
+~
+~
+1 -1 5958
+S
+#5996
+Beneath the Alcove.~
+You are standing beneath the alcove in a secret hallway.  It is very dark
+so obviously the walls were not meant to glow down here.  Three guardians
+keep you from advancing any further.  They look like winged elves in armor,
+and as you enter they say in unison, 'You should not be here, please leave
+now or we will be forced to deal with you!  ' 
+~
+0 9 0
+D3
+Somewhere Beneath the Cathedral.
+~
+~
+0 -1 5997
+D4
+An Empty Alcove.
+~
+~
+1 -1 5903
+S
+#5997
+Somewhere Beneath the Cathedral.~
+You are now far beneath the cathedral and it is still very, very dark. 
+Two metal-clad humans block your advance and say, "You are not authorized to
+be here, leave or die!  ' 
+~
+0 9 0
+D0
+The Crypt Entrance.
+~
+~
+1 -1 5998
+D1
+Beneath the Alcove.
+~
+~
+0 -1 5996
+S
+#5998
+The Crypt Entrance.~
+You are now standing in front of a large set of marble doors.  They are
+sealed and contain a lock.  The guardian steps up, a hawk-headed humanoid
+and says, 'You should not be here at the crypt entrance.  ' He then screams
+and attacks.  
+~
+0 9 0
+E
+symbol~
+Obviously the symbol is of two suns shining over a mountain.
+~
+E
+doors~
+These enormous marble doors have the symbol of Eru engraved into them.  A
+locking mechanism can be seen and seals are placed at regular intervals
+around the outside edges.
+~
+D0
+Within the Crypt.
+~
+door~
+2 5978 5999
+D2
+Somewhere Beneath the Cathedral.
+~
+~
+1 -1 5997
+S
+#5999
+Within the Crypt.~
+This elaborate crypt was obviously excavated for the sole purpose of
+holding the remains of some great holy figure of the cathedral.  Religious
+icons decorate the room and a large coffin sits in the middle of the room. 
+Suddenly a glowing apparition materializes, and you think you might be in
+trouble.  Actually you are certain that you are in trouble!  
+~
+0 9 0
+E
+icons~
+These icons all bare the symbol of Eru, that of two suns shining over a
+mountain.  Taking them would be fruitless, for obviously they would be seen
+as stolen merchandise.
+~
+D2
+The Crypt Entrance.
+~
+door~
+2 5978 5998
+S
+#0
+
+
+
+#SPECIALS
+M 5900 spec_cast_cleric
+M 5901 spec_cast_cleric
+M 5902 spec_cast_cleric
+M 5903 spec_cast_cleric
+M 5904 spec_cast_cleric
+M 5906 spec_cast_cleric
+M 5907 spec_cast_cleric
+M 5909 spec_cast_cleric
+M 5910 spec_cast_cleric
+M 5911 spec_cast_cleric
+M 5912 spec_cast_cleric
+M 5913 spec_cast_cleric
+M 5914 spec_cast_cleric
+M 5915 spec_poison
+M 5916 spec_breath_fire
+M 5918 spec_cast_cleric
+M 5919 spec_cast_cleric
+M 5920 spec_cast_cleric
+M 5921 spec_cast_mage
+M 5922 spec_cast_mage
+M 5923 spec_cast_mage
+M 5924 spec_cast_mage
+M 5925 spec_cast_mage
+M 5926 spec_cast_cleric
+M 5927 spec_cast_mage
+M 5928 spec_cast_cleric
+M 5929 spec_cast_mage
+M 5930 spec_cast_cleric
+M 5932 spec_cast_mage
+M 5935 spec_cast_mage
+M 5938 spec_cast_cleric
+M 5939 spec_cast_cleric
+M 5940 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 5900 1 1
+D 0 5901 3 1
+D 0 5902 0 1
+D 0 5903 5 1
+D 0 5904 1 1
+D 0 5904 3 1
+D 0 5905 1 1
+D 0 5905 3 1
+D 0 5906 1 1
+D 0 5906 3 1
+D 0 5907 1 1
+D 0 5907 3 1
+D 0 5908 1 2
+D 0 5908 3 1
+D 0 5909 1 1
+D 0 5909 3 1
+D 0 5910 1 1
+D 0 5910 2 1
+D 0 5910 3 1
+D 0 5911 3 1
+D 0 5912 3 1
+D 0 5913 3 1
+D 0 5914 3 1
+D 0 5915 3 2
+D 0 5916 3 1
+D 0 5917 3 1
+D 0 5918 0 1
+D 0 5919 1 1
+D 0 5920 1 1
+D 0 5921 1 1
+D 0 5922 1 1
+D 0 5923 1 1
+D 0 5924 1 1
+D 0 5925 1 1
+D 0 5929 2 1
+D 0 5935 1 1
+D 0 5937 3 1
+D 0 5938 1 1
+D 0 5941 1 1
+D 0 5941 3 1
+D 0 5942 1 1
+D 0 5945 1 1
+D 0 5946 1 1
+D 0 5947 0 1
+D 0 5948 0 1
+D 0 5949 0 2
+D 0 5950 3 1
+D 0 5951 3 1
+D 0 5954 3 1
+D 0 5955 1 1
+D 0 5955 3 1
+D 0 5958 3 1
+D 0 5971 3 1
+D 0 5974 3 1
+D 0 5975 3 1
+D 0 5978 3 1
+D 0 5979 3 1
+D 0 5982 2 1
+D 0 5983 2 1
+D 0 5984 2 2
+D 0 5987 1 1
+D 0 5988 1 1
+D 0 5991 1 1
+D 0 5992 1 1
+D 0 5995 1 1
+D 0 5996 4 1
+D 0 5997 0 1
+D 0 5998 0 2
+D 0 5998 2 1
+D 0 5999 2 2
+M 0 5907 1 5900 1
+M 0 5909 5 5902 1
+M 0 5900 8 5905 2
+M 0 5900 8 5905 2
+M 0 5901 6 5905 1
+M 0 5925 1 5911 1
+M 0 5926 1 5912 1
+M 0 5927 1 5913 1
+M 0 5928 1 5914 1
+M 0 5929 1 5915 1
+M 0 5930 1 5916 1
+M 0 5931 1 5917 1
+M 0 5932 1 5918 1
+M 0 5933 1 5919 1
+M 0 5934 1 5920 1
+M 0 5935 1 5921 1
+M 0 5936 1 5922 1
+M 0 5937 1 5923 1
+M 0 5938 1 5924 1
+M 0 5939 1 5925 1
+M 0 5901 6 5926 1
+M 0 5900 8 5927 1
+M 0 5910 4 5927 1
+M 0 5900 8 5928 1
+M 0 5900 8 5930 1
+M 0 5901 6 5930 1
+M 0 5900 8 5931 1
+M 0 5910 4 5931 1
+M 0 5904 1 5933 1
+M 0 5905 1 5933 1
+M 0 5910 4 5935 1
+M 0 5940 1 5936 1
+M 0 5910 4 5937 1
+M 0 5908 6 5938 1
+M 0 5902 4 5941 1
+M 0 5908 6 5942 1
+M 0 5908 6 5946 1
+M 0 5908 6 5950 1
+M 0 5908 6 5954 1
+M 0 5908 6 5959 1
+M 0 5916 1 5966 1
+M 0 5917 3 5966 3
+M 0 5917 3 5966 3
+M 0 5917 3 5966 3
+M 0 5915 1 5970 1
+M 0 5900 8 5973 1
+M 0 5900 8 5974 1
+M 0 5909 5 5975 1
+M 0 5918 5 5977 2
+M 0 5918 5 5977 2
+M 0 5920 1 5977 1
+M 0 5918 5 5978 3
+M 0 5918 5 5978 3
+M 0 5918 5 5978 3
+M 0 5919 1 5978 1
+M 0 5903 1 5979 1
+M 0 5909 5 5979 1
+M 0 5924 1 5981 1
+M 0 5923 1 5983 1
+M 0 5902 4 5985 1
+M 0 5906 1 5985 1
+M 0 5909 5 5987 1
+M 0 5921 6 5988 4
+M 0 5921 6 5988 4
+M 0 5921 6 5988 4
+M 0 5921 6 5988 4
+M 0 5921 6 5989 2
+M 0 5921 6 5989 2
+M 0 5922 1 5989 1
+M 0 5902 4 5990 1
+M 0 5902 4 5991 1
+M 0 5909 5 5991 1
+M 0 5901 6 5994 1
+M 0 5901 6 5995 1
+M 0 5901 6 5995 1
+M 0 5911 3 5996 3
+M 0 5911 3 5996 3
+M 0 5911 3 5996 3
+M 0 5912 2 5997 2
+M 0 5912 2 5997 2
+M 0 5913 1 5998 1
+M 0 5914 1 5999 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$
