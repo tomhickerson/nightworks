@@ -5,11 +5,527 @@ Newcomer Village~
 2600 2799
 
 #MOBILES
+#2600
+manager~
+the store manager~
+The manager of the general store stands here.
+~
+He is wearing simple leather pants and a cotton
+shirt. He has short leather shoes on. A red
+apron covers his thighs.
+~
+unique~
+ABG 0 600 0
+15 2 3d9+208 0d0+0 2d6+3 pound
+-2 -2 -2 -2
+N 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#2601
+master trainer jerrod~
+jerrod the trainer~
+Jerrod the master trainer stands here.
+~
+Jerrod the master trainer is wearing patent 
+leather pants and heavy riding boots. He is
+sweaty and shirtless.
+~
+unique~
+ABGJ 0 800 0
+45 5 25d10+3000 0d0+0 8d4+16 pound
+-15 -15 -15 -15
+HIT ABHI 0 K
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#2602
+master armorer ktef~
+ktef the master amorer~
+Ktef, the master armorer stands here.
+~
+Ktef is wearing nothing but a loin clothe and
+is covered in grime and sweat.
+~
+unique~
+ABG 0 0 0
+15 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+0 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#2603
+yules weapon smith~
+yules the weapon smith~
+Yules the weapon smith is standing here grinning.
+~
+He is wearing a cotton shirt, and black leather
+pants. On his feet a pair of heavy brass boots.
+~
+unique~
+ABG 0 300 0
+15 0 3d9+150 0d0+0 2d6+3 pound
+-1 -1 -1 -1
+CJ 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#2604
+john fat pumpmaster~
+john the fat pumpmaster~
+John the fat pumpmaster sits here.
+~
+He is sitting on a small tool. His body is
+covered in a cotton shirt and he is wearing
+leather pants.
+~
+unique~
+ABG 0 0 0
+8 0 2d7+100 0d0+0 2d4+2 pound
+2 2 2 2
+E 0 0 0
+sit sit male 100
+AHMV ABCDEFGHIJK large unknown
+#2605
+yurians guildmaster~
+yurians the guildmaster~
+Yurians the local guildmaster stands here.
+~
+A fine figure, trained in the skills of many
+guilds. He is wearing leather pants, a brass
+breast piece and heavy boots.
+~
+unique~
+ABGK 0 1000 0
+60 6 50d10+9000 0d0+0 8d6+28 smash
+-25 -25 -25 -25
+CEFHIJKNT 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#2606
+thar healer~
+thar the healer~
+Thar, the local healer smiles at you.
+~
+He is a friendly sort wearing long white robes.
+~
+unique~
+ABGa DF 0 0
+20 0 3d9+333 0d0+0 2d8+5 pound
+-4 -4 -4 -4
+P 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#2607
+virginia cook~
+virginia the cook~
+Virginia, the head cook stands here.
+~
+She is wearing an cotton shirt that is kinda
+sweaty from being over the spits.
+~
+unique~
+ABG J 300 0
+10 0 2d7+121 0d0+0 2d4+2 scratch
+1 2 1 2
+J 0 B Z
+stand stand female 500
+AHMV ABCDEFGHIJK medium unknown
+#2608
+filthy serf~
+a filthy serf~
+A filthy looking serf is here.
+~
+The serf has been stuck out on this island for years, and 
+never was able to get enough moeny to leave.
+~
+unique~
+AGHU 0 0 0
+1 -3 2d6+6 0d0+0 1d3+0 slap
+9 9 9 9
+0 AB 0 C
+stand stand female 0
+AHMV ABCDEFHJKQU medium unknown
+#2609
+street cleaner~
+a street cleaner~
+A street cleaner stands here, cleaning up the streets.
+~
+He looks like a friendly sort, and spends his
+time picking up other peoples trash.
+~
+unique~
+ACGHU 0 0 0
+1 -2 2d5+7 0d0+0 1d4+0 pound
+9 9 9 9
+0 0 0 0
+stand stand male 2
+AHMV ABCDEFGHIJK medium unknown
+#2610
+guard cavalier~
+a cavalier guard~
+A cavalier guard is here, on the watch.
+~
+He is big and tough as doesnt tolerate trouble.
+~
+unique~
+AGU 0 600 1900
+20 2 2d7+121 0d0+0 2d8+5 pound
+1 1 1 1
+EIT 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
 #0
 
 
 
 #OBJECTS
+#2600
+pouch~
+a large blue pouch~
+A large belt pouch rests here.~
+canvas~
+container 0 AO
+70 A 0 30 100
+0 20 30 P
+#2601
+red pouch~
+a small red pouch~
+A small red belt pouch rests here.~
+canvas~
+container 0 AO
+50 A 0 20 100
+0 10 20 P
+#2602
+leather backpack~
+a leather backpack~
+A leather backpack rests here.~
+hard leather~
+container 0 AD
+150 A 0 60 100
+0 100 110 P
+#2603
+clear vial~
+a clear vial of liquid.~
+A clear vial of liquid rests here.~
+glass~
+potion 0 AO
+3 'cure poison' '' '' ''
+0 10 78 P
+E
+vial~
+A small label on the side says, ANTI-TOXIN.~
+#2604
+candle~
+a wax candle~
+A wax candle sits here.~
+wax~
+light 0 AO
+0 0 AC 0 0
+0 10 5 P
+#2605
+bamboo torch~
+a bamboo torch~
+A bamboo torch sits here.~
+bamboo~
+light 0 AO
+0 0 CD 0 0
+0 20 10 P
+#2606
+oil lantern~
+an oil lantern~
+An oil lantern rests here.~
+brass~
+light 0 AO
+0 0 DE 0 0
+0 30 50 P
+#2607
+leather pants~
+a pair of leather pants.~
+A pair of leather pants.~
+hard leather~
+armor 0 AF
+A A A A AC
+0 40 10 P
+#2608
+leather shoes~
+a pair of leather shoes~
+A pair of leather shoes sits here.~
+kid leather~
+armor 0 AG
+A A A A AB
+0 20 7 P
+#2609
+cotton shirt~
+a white cotton shirt~
+A white cotton shirt sits here.~
+canvas~
+armor 0 AD
+A A A A B
+0 20 9 P
+#2610
+red apron~
+a red apron~
+A red apron sits here.~
+canvas~
+armor 0 AL
+A A A A B
+0 10 5 P
+#2611
+patent leather pants~
+a pair of patent leather pants~
+A pair of black patent leather pants sits here.~
+rubber~
+armor 0 AF
+AC AC AC ABC BC
+0 60 50 P
+#2612
+heavy riding boots~
+a pair of heavy riding boots~
+A pair of heavy riding boots sits here.~
+hard leather~
+armor 0 AG
+C AC AB B BC
+0 50 80 P
+#2613
+brass boots~
+a pair of brass boots~
+A pair of shiny brass boots rest here.~
+brass~
+armor 0 AG
+AB AB AB A D
+0 100 110 P
+#2614
+brass ring~
+a brass ring~
+A brass ring rests here.~
+brass~
+armor 0 AB
+B B B A AB
+0 10 45 P
+#2615
+brass collar~
+a brass collar~
+A brass collar rests here.~
+brass~
+armor 0 AC
+B B B A B
+0 20 30 P
+#2616
+brass breast piece~
+a brass breast piece~
+A brass breast piece rests here.~
+brass~
+armor 0 AD
+AB AB AB B ABCD
+0 400 200 P
+#2617
+brass pot helmet~
+a brass pot helmet~
+A brass pot helmet rests here.~
+brass~
+armor 0 AE
+B B AB A C
+0 40 25 P
+#2618
+brass leggings~
+a set of brass leggings~
+A set of brass leggings rest here.~
+brass~
+armor 0 AF
+B AB B C C
+0 50 38 P
+#2619
+loin clothe~
+a loin clothe~
+A light dirty loin clothe rests here.~
+canvas~
+armor 0 AL
+A A A A A
+0 10 1 P
+#2620
+heavy dagger iron~
+a heavy iron dagger~
+A heavy iron dagger sits here.~
+iron~
+weapon 0 AN
+dagger 1 4 slash 0
+0 70 25 P
+E
+dagger~
+A cheaply made dagger although it is quite 
+heavy.~
+#2621
+bone sword~
+a bone sword ~
+a bone sword sits here.~
+bone~
+weapon 0 AN
+sword 1 6 slash 0
+0 30 35 P
+E
+sword~
+A ivory like sword made of some large creatures
+thigh bone.~
+#2622
+crystal club~
+a crystal club~
+A crystal club sits in the dirt.~
+crystal~
+weapon 0 AN
+mace 1 8 crush 0
+0 100 55 P
+E
+club~
+A heavy clear crystal club, soaked in some
+sort of resin to keep it from shattering.~
+#2623
+barbed whip~
+a barbed whip~
+A barbed whip sits here.~
+cloth~
+weapon 0 AN
+whip 1 4 slash 0
+0 30 15 P
+E
+whip~
+A black leather coiled length with vicious 
+little barbed teeth covering it.~
+#2624
+reinforced staff~
+a reinforced staff~
+A reinforced staff sits here.~
+wood~
+weapon 0 AN
+staff 1 6 pound 0
+0 100 45 P
+E
+staff~
+A long length of wood reinforced with metal
+tie offs.~
+#2625
+glass water~
+a glass of water~
+A glass of water sits here.~
+glass~
+drink 0 A
+2 2 'water' 0 0
+0 10 5 P
+#2626
+small canteen~
+a small canteen~
+A small canteen rests here.~
+canvas~
+drink 0 A
+5 5 'water' 0 0
+0 20 25 P
+#2627
+large canteen~
+a large canteen~
+A large canteen sits here.~
+hard leather~
+drink 0 A
+15 15 'water' 0 0
+0 50 35 P
+#2628
+roasted duck~
+a roasted duck~
+A roasted duck sits here.~
+balm~
+food 0 A
+BD BD 0 0 0
+0 10 20 P
+#2629
+spare ribs~
+a pile of spare ribs~
+A pile of tasty looking spare ribs sits here.~
+balm~
+food 0 A
+BD BD 0 0 0
+0 10 22 P
+#2630
+venison burger~
+a venison burger~
+A venison burger sits here.~
+balm~
+food 0 A
+CD CD 0 0 0
+0 10 15 P
+#2631
+smoked corn~
+a pile of smoked corn~
+A smile of smoked corn sits here.~
+balm~
+food 0 A
+BD BD 0 0 0
+0 10 10 P
+#2632
+dried meat~
+a strip of dried meat~
+A strip of dried meat rests here.~
+balm~
+food 0 A
+CE CE 0 0 0
+0 10 40 P
+#2633
+gurgling fountain~
+a gurgling fountain~
+A gurgling fountain is here.~
+black dragonscale~
+fountain 0 0
+10000 10000 'water' 0 0
+0 100 0 P
+E
+fountain~
+This is a beautifully carved fountain in the
+shape of a large black dragon. The water flows
+from its gaping jaws.~
+#2634
+green oak tree~
+a green oak tree~
+A large green oak tree stands here.~
+wood~
+furniture 0 0
+AC EFGIJKM CFIL 0 0
+0 5 0 P
+E
+oak tree~
+Its a very large tree with nice green leaves
+covering it. Its branches are situated so it
+is easy to sit it.~
+#2635
+medical bed~
+a medical bed~
+A white medical bed is here, waiting for a patient.~
+brass~
+furniture 0 0
+A EGHIJK EHK DGH BCEH
+0 5 0 P
+#2636
+flower dress~
+a flower dress~
+A flower dress sits here on the ground.~
+cloth~
+armor 0 AF
+A A A A A
+0 20 5 P
+#2637
+trash bucket~
+a trash bucket~
+A trash bucket sits here.~
+bone~
+container 0 AO
+500 A 0 200 100
+0 50 1 P
+#2638
+trash poker~
+a trash poker~
+A trash poker rests here.~
+brass~
+weapon 0 AN
+sword 1 4 pierce 0
+0 20 5 P
+E
+poker~
+Its made of brass and has two pointy prongs at
+the end of it.~
 #0
 
 
@@ -197,6 +713,7 @@ On Western Way.
 ~
 ~
 0 -1 2606
+S
 #2608
 On Western Way~
 You are on a simple dirt road, leading north and south.  To the east you 
@@ -1350,7 +1867,7 @@ it is watching you.
 ~
 0 0 2
 D0 
-Going to the Mythras Docks~
+Going to the Mythras Docks.
 ~
 ~
 0 -1 2667
@@ -1393,6 +1910,11 @@ Entering a small merchant tent.
 S 
 #2671
 On Hardscrabble Road~
+You are on a wide dirt road, where the ground is usually hard earth
+but in some places a bit soft and muddy.  Houses here are built on 
+thick posts, raising them above the ground and grasses.  
+The road runs north and south, and you can see different buildings 
+on each side of the road.
 ~
 0 0 2
 D0 
