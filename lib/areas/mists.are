@@ -1,0 +1,1436 @@
+#AREA
+mists.are~
+Mists of Dreams~
+{30 60} Cassildra Mists of Dreams~
+4400 4499
+
+#MOBILES
+#4400
+doll~
+a child's doll~
+A child's doll is in a rocking chair.
+~
+At first glance, the doll looks innocent enough, until you notice its
+glowing red eyes and sneering face.  A flash of light gleams off of the
+blade gripped in her hand.  
+~
+unique~
+ABGR JO -750 0
+30 3 100d3+600 1d1+499 10d3+10 punch
+-20 -20 -20 -10
+FI ILMNPQR ES GHJKO
+stand stand female 3000
+EJMc ABCGHK medium cloth
+#4401
+massive spider~
+a massive spider~
+A massive spider dangles above your head.
+~
+The spider's legs creep along your arms and shoulders as it prepares to
+wrap you up for a midnight snack.  
+~
+unique~
+ABGT DVZ -750 0
+33 3 100d3+855 1d1+499 10d3+10 bite
+-22 -22 -22 -11
+EFU L FI E
+stand stand male 3300
+ABGO ACK medium flesh
+#4402
+black balloon~
+a black balloon~
+A black balloon floats here.
+~
+The balloon is so black it shines.  You get the feeling this balloon is
+not reaching for you to spread cheer.  
+~
+unique~
+ABGT GJ -750 0
+35 4 100d3+925 1d1+499 10d4+10 slash
+-23 -23 -23 -11
+CF LQR 0 F
+stand stand none 3500
+AHMV ABCDEFGHIJK medium rubber
+#4403
+coffin~
+your coffin~
+Your coffin surrounds you.
+~
+Your coffin is a plain wooden box.  Perhaps if you'd been a little nicer,
+your loved ones would have splurged for something more extravagant.  
+~
+unique~
+ABGT c -100 0
+30 3 100d3+600 1d1+499 10d3+10 pound
+-20 -20 -20 -10
+CO LQ 0 EH
+stand stand none 3000
+AHJMV ABCDEFGHIJKV large wood
+#4404
+crow black~
+a black crow~
+A black crow is perched upon a statue.
+~
+The crow gazes at you with interest, perhaps wondering if your soul will
+be the next it will transport.  
+~
+unique~
+ABGT DFHLT 100 0
+40 4 100d3+1100 1d1+499 10d4+10 bite
+-27 -27 -27 -13
+FHN 0 C 0
+stand stand male 4000
+AGW ACDEFHKP medium unknown
+#4405
+decomposing corpse~
+a decomposing corpse~
+A decomposing corpse rises from its coffin.
+~
+The stench rising from the corpse causes a wave of nausea to wash over
+you.  Bits of rotten flesh drop from the decomposing body.  
+~
+unique~
+ABFGT a -500 0
+42 4 110d7+1540 1d1+499 10d4+10 pound
+-28 -28 -28 -14
+EIK 0 LQ H
+stand stand male 4200
+AHMV ABCDEFGHIJK medium flesh
+#4406
+weeping woman~
+a weeping woman~
+A weeping woman kneels before a gravestone.
+~
+She is dressed all in black, and wipes her tears away with a white
+handkerchief.  
+~
+unique~
+ABGR 0 500 0
+41 4 105d7+1520 1d1+499 10d4+10 slap
+-39 -39 -39 -19
+IK 0 0 0
+stand stand female 4100
+AHMV ABCDEFGHIJK medium flesh
+#4407
+phase dragon~
+a phase dragon~
+A phase dragon shimmers in the light.
+~
+The dragon seems to shimmer in and out of focus as its scales reflect the
+phosphorescent lights.  
+~
+unique~
+ABGRT HLTV 750 0
+50 5 150d7+1700 1d1+499 10d5+10 slash
+-33 -33 -33 -16
+CEKM 0 EHL 0
+stand stand male 5000
+AHZ ACDEFHJKLOPQUVWXY large scales
+#4408
+spectral figure~
+a spectral figure~
+A spectral figure stands ominously before you.
+~
+He clenches his fists and growls deeply.  You have intruded upon his
+sanctuary.  
+~
+unique~
+ABCGT DFH -1000 0
+53 5 150d7+1865 1d1+499 10d5+10 punch
+-35 -35 -35 -17
+EKN 0 M N
+stand stand male 5300
+AHMV ABCDEFGHIJK medium flesh
+#4409
+serpent~
+a vaporous serpent~
+A vaporous serpent rises from the altar.
+~
+This spirit is guardian of the altar.  
+~
+unique~
+ABGRT OZ -750 0
+33 3 100d3+855 1d1+499 10d3+10 bite
+-22 -22 -22 -11
+FH 0 L IN
+stand stand none 3300
+AGXYc ADEFKLQVX medium unknown
+#4410
+gypsy woman~
+a gypsy woman~
+A gypsy woman is seated at a table.
+~
+You see a wizened old woman adorned with costume jewelry and ragged
+clothing.  
+~
+unique~
+ABR CDG -100 0
+35 4 100d3+925 1d1+499 10d4+10 slap
+-23 -23 -23 -16
+CF 0 ABCF 0
+sit sit female 3500
+AHMV ABCDEFGHIJK medium flesh
+#4411
+bloody spectre~
+a bloody spectre~
+A bloody spectre floats here.
+~
+The spectre is covered with dripping blood that disappears when it drips
+on the floor.  
+~
+unique~
+ABGR TUZ -1000 0
+40 4 100d3+1100 1d1+499 10d4+10 slash
+-27 -27 -27 -13
+EK LQ EGJQ DHNS
+stand stand male 4000
+AHMV ABCDEFGHIJK medium ethereal
+#4412
+shadow~
+a shadow~
+A humanoid shadow lunges at you!
+~
+The shadow is featureless.  
+~
+unique~
+ABFGT UZ -500 0
+42 4 110d7+1540 1d1+499 10d4+10 slash
+-28 -28 -28 -14
+FU LQ HIJQ DHNS
+stand stand male 4200
+AHMV ABCDEFGHIJK medium shadow
+#4413
+inferno~
+an inferno~
+A fiery inferno is melting your armor.
+~
+You see a form of searing fire looking to burn your flesh.  
+~
+unique~
+ABGR CGTZ -1000 0
+45 5 125d7+1600 1d1+499 10d5+10 flame
+-30 -30 -30 -15
+EK H HLMQ IKNRS
+stand stand none 4500
+AHMV ABCDEFGHIJKUVW large flame
+#4414
+giant serpent~
+a giant serpent~
+A giant serpent twists its head to face you.
+~
+The serpent's body is running along the length of the stairs.  
+~
+unique~
+ABGT Z -300 0
+35 4 100d3+925 1d1+499 10d4+10 bite
+-23 -23 -23 -11
+H 0 L I
+stand stand none 3500
+AGXYc ADEFKLQVX huge scales
+#4415
+lord kantrell~
+Kantrell~
+Kantrell sneers at you.
+~
+Kantrell, lord of this manor, is not pleased with your intrusion.  
+~
+unique~
+ABGRT HO -1000 0
+50 5 150d7+1700 1d1+499 10d5+10 punch
+-33 -33 -33 -16
+EKN 0 M NR
+stand stand male 5000
+AHMV ABCDEFGHIJK medium flesh
+#4416
+prismatic guardian~
+the prismatic guardian~
+A guardian protects the room.
+~
+The guardian is melded together from crystal prisms.  He emits
+beautifully colored lights.  
+~
+unique~
+ABGR CNTUZ 600 0
+40 4 100d3+1100 1d1+499 10d4+10 slash
+-27 -27 -27 -13
+AFKN LQ JNQ NS
+stand stand none 4000
+AHMV ABCDEFGHIJK large unknown
+#4417
+wood nymph~
+a wood nymph~
+A wood nymph is communing with the trees.
+~
+She is a lovely creature, her skin as strong as bark and her eyes a deep
+brown.  She is one with the trees.  
+~
+unique~
+ABGQ LZ 650 0
+37 4 100d3+1030 1d1+499 10d4+10 crush
+-25 -25 -25 -17
+EF R X H
+stand stand female 3500
+AHMV ABCDEFGHIJK medium wood
+#4418
+water nymph~
+a water nymph~
+A beautiful nymph has emerged from the pond.
+~
+This creature is spell-binding when looked upon.  Her presence brings
+visions of untravelled seas.  
+~
+unique~
+ABGQ LN 750 0
+36 4 100d3+960 1d1+499 10d4+10 none
+-24 -24 -24 -12
+IK R 0 J
+stand stand female 3600
+AHMV ABCDEFGHIJK medium flesh
+#4419
+grey figure~
+a grey robed figure~
+A grey robed figure is worshipping here.
+~
+A low chanting can be heard from the circle that this figure is part of.  
+~
+unique~
+ABGT a 1000 0
+30 3 100d3+600 1d1+499 10d3+10 punch
+-20 -20 -20 -10
+FHPU 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium flesh
+#4420
+priestess tall~
+the Priestess~
+A tall priestess stands in the center of the circle.
+~
+You see a priestess seeking to control the elemental energies.  
+~
+unique~
+ABGR NZ 1000 0
+37 4 100d3+995 0d0+0 0d0+0 none
+-25 -25 -25 -17
+0 N LQ M
+stand stand female 3700
+AHMV ABCDEFGHIJK medium flesh
+#4421
+tendrils misty~
+misty tendrils~
+Misty tendrils surround you.
+~
+The mists surround you softly.  
+~
+unique~
+AGT U 100 0
+31 3 100d3+785 1d1+499 10d3+10 bite
+-21 -21 -21 -10
+FU 0 0 0
+stand stand none 3100
+AHMV ABCDEFGHIJK medium mist
+#4422
+reptite~
+a reptite~
+A reptite crouches in the corner.
+~
+The residents of this village have mutated into half-reptilian creatures.
+Their eyes are glowing spheres in the darkness.  
+~
+unique~
+ACFGT HQZ -600 0
+51 5 155d7+1720 1d1+499 10d5+10 none
+-34 -34 -34 -17
+KU AB L I
+stand stand none 5100
+AGXc ACDEFHKQV medium flesh
+#4423
+crag reptite~
+Crag~
+Crag is here, outcast from his village.
+~
+You see a repulsive creature, half-reptile half-human with green glowing
+eyes and sharp nails that extend about 10 inches from his fingers.  He
+scavenges what he can to survive.  
+~
+unique~
+ABFT Za -1000 0
+55 5 175d7+1800 1d1+499 10d6+10 bite
+-36 -36 -36 -18
+FH AB L I
+stand stand male 5500
+AGXc ACDEFHKQV medium flesh
+#4424
+mother female reptite~
+a mother reptite~
+A large female reptite protects her brood.
+~
+You better think twice before messing with her.  She would just as soon
+snap you in half before letting you steal her eggs.  
+~
+unique~
+ABCFT Ha -1000 0
+58 6 150d7+2140 1d1+499 10d6+10 none
+-39 -39 -39 -19
+CEFH AB LR I
+stand stand female 5800
+AGXc ACDEFHKQV large flesh
+#4425
+reptiglian~
+Reptiglian~
+Reptiglian, overlord of the reptites is here.
+~
+This massive creature towers above you with an evil glint in his glowing
+eyes.  He is the father of all reptites.  
+~
+unique~
+ABRT HLOZ -1000 0
+60 6 150d7+2250 1d1+499 10d6+10 crush
+-40 -40 -40 -20
+EK ABQ LM IN
+stand stand male 6000
+AGXc ACDEFHKQV huge flesh
+#4426
+murder crows~
+a murder of crows~
+A murder of crows fly here.
+~
+A murder of crows flock together, blackening the sky.  
+~
+unique~
+AGT T 750 0
+40 4 100d3+1100 1d1+499 10d4+10 bite
+-27 -27 -27 -13
+FHX 0 ABCF 0
+stand stand none 4000
+AGW ACDEFHKP medium feathers
+#4427
+bunny poofy~
+a poofy, floofy, bunny rabbit~
+A poofy, floofy, bunny rabbit hops about
+~
+What a disgustingly cute animal.  
+~
+unique~
+ABRT 0 1000 0
+20 1 100d3+100 1d1+499 2d5+10 slap
+-2 -2 -2 -2
+0 LQ 0 B
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#4400
+Misty Lake~
+Mist rises slowly from the water's surface.  The air temperature drops as
+eternal night settles in.  Dark exits lead north, east, and west.  
+~
+0 0 2
+D0
+~
+~
+0 0 4401
+D1
+~
+~
+0 0 4413
+D3
+~
+~
+0 0 4431
+D5
+~
+~
+0 0 8177
+S
+#4401
+Sea of Mists~
+The mists gather thickly here, hampering progress.  You feel around with
+your hands and find exits to the north and south.  The mists gather thickly,
+almost foglike in its quality.  It's almost impossible to see what's going
+on.  A dim light shows exits to the north and south.  
+~
+0 8 9
+D0
+~
+~
+0 0 4402
+D2
+~
+~
+0 0 4400
+S
+#4402
+Attic Nursery~
+You emerge into an attic room.  The floor boards look very loose and
+weak.  The sun streams in through a stained glass window to the north,
+illuminating a small rocking chair in the corner.  You see small doors to
+the east and west.  A set of stairs lead up.  
+~
+0 8 0
+D0
+~
+window~
+1 0 4410
+D1
+~
+~
+0 0 4405
+D2
+~
+~
+0 0 4401
+D3
+~
+~
+0 0 4404
+D4
+~
+~
+0 0 4403
+S
+#4403
+Attic Alcove~
+A black balloon drifts lazily along the far wall, its long string
+dragging lightly along the floor.  Each breath you inhale pulls the balloon
+closer to you.  Its string lifts up slowly and tickles at your neck before
+suddenly wrapping tightly around it, cutting off your breath.  
+~
+0 8 0
+D5
+~
+~
+0 0 4402
+S
+#4404
+Spider Nest~
+You step through the door and hear a crunching sound each time you place
+your foot on the ground.  You look at the floor, and it seems to be alive
+and moving in waves.  As you peer closer, you realize it is covered with
+hundreds of small spiders.  Something taps down upon your head.  You look up
+in time to see two massive spiders hovering just above your face as the tiny
+spiders on the floor start to crawl up along your body.  
+~
+0 9 0
+D1
+~
+~
+0 0 4402
+S
+#4405
+Buried Alive~
+Darkness surrounds you, and you find yourself lying prone on a very
+comfortable surface.  You reach your hands up and are stopped by a hard
+surface.  You reach out to the sides and again are stopped.  Muffled voices
+are heard far above you, and periodic thuds drop on top of this box you seem
+to be in.  Panic sets in as you realize you are in a coffin, witnessing your
+burial from a disturbing viewpoint.  
+~
+0 8205 0
+D4
+~
+grave~
+4 4403 4406
+S
+#4406
+Graveyard~
+You crawl your way out of your grave and find yourself in a sprawling
+graveyard with ornate headstones covering the stretch of land.  Nearby, a
+large crow rests on a statue of an angel.  It cocks its head at you and caws
+loudly.  
+~
+0 0 2
+D0
+~
+~
+0 0 4409
+D3
+~
+~
+0 0 4408
+S
+#4407
+Crypt~
+The stone doors of the crypt open heavily and a draft of air rushes over
+you, carrying with it the smell of the grave.  Stone coffins rest on the
+eastern and western sides of the building.  The sound of stone scraping
+against stone catches your attention, and you ready your weapon just in time
+to prepare for the rising corpse.  
+~
+0 9 0
+D2
+~
+crypt~
+1 0 4408
+S
+#4408
+Quiet Path~
+The silence eats at you as you walk carefully between the rows of graves.
+A stone crypt looms up in front of you to the north.  Two iron rings,
+grasped in the mouths of stone lion heads, await your touch.  
+~
+0 0 2
+D0
+~
+crypt~
+1 0 4407
+D1
+~
+~
+0 0 4406
+S
+#4409
+Weeping Woman~
+A woman with a pillbox hat and a black lace veil is kneeling in front of
+a gravestone, sobbing heavily.  The wind rustles through the scattering of
+leaves on the ground.  
+~
+0 0 2
+D2
+~
+~
+0 0 4406
+S
+#4410
+Through the Attic Window~
+You foolishly dive out the attic window and begin to plummet swiftly to
+the ground.  Just before impact, you find yourself soaring through the air
+like a bird and able to avoid an untimely death.  You see a door floating in
+the air to the west.  
+~
+0 0 9
+D3
+~
+door~
+1 0 4411
+S
+#4411
+Phosphorescent Clouds~
+This room seems to have no substance, merely clouds in all directions
+shimmering with a phosphorescent glow.  The clouds seem to thin to the
+north.  
+~
+0 0 9
+D0
+~
+~
+0 0 4412
+S
+#4412
+Ocean Shore~
+You stand on a desolate beach, the roar of the tide filling your head. 
+The dying sun paints the sky with pink and purple hues.  A tall dark figure
+is facing you, and your throat tightens with terror.  
+~
+0 0 2
+D2
+~
+~
+0 0 4411
+S
+#4413
+Sea of Mists~
+The mists gather thickly here, confusing your sense of balance.  You feel
+around with your hands and find exits to the west, east, and south.  
+~
+0 0 9
+D1
+~
+~
+0 0 4415
+D2
+~
+~
+0 0 4414
+D3
+~
+~
+0 0 4400
+S
+#4414
+Abandoned Altar~
+You emerge from the mists into a small clearing shrouded by dense forest
+to the east, west, and south.  A stone structure rests in the middle of the
+clearing.  It is laden with two brass candlesticks, a chalice stained with
+blood, and a black rose.  Vapors begin to rise from the altar, swirling and
+intertwining together until finally forming into the shape of a serpent.  
+~
+0 0 3
+D0
+~
+~
+0 0 4413
+S
+#4415
+Gypsy Wagon~
+A broken down wagon is here with a ramp leading north into the structure.
+A campfire is smoldering in a pit.  
+~
+0 0 3
+D0
+~
+~
+0 0 4416
+D1
+~
+~
+0 0 4417
+D3
+~
+~
+0 0 4413
+S
+#4416
+Gypsy Woman~
+The wagon is filled with ancient books, burning candles, incense burners,
+and shelves of interesting vials.  An old woman is seated at a table
+studying the tarot cards laid out before her.  She does not move a muscle
+other than to announce, "I knew you would come".  
+~
+0 8 0
+D2
+~
+~
+0 0 4415
+S
+#4417
+Swinging Gate~
+A wrought iron fence stretches across the length of a dismal grassy area.
+The fence guards an ominous looking house from the dark forest of oaks to
+the west.  A chilling breeze blows against you as it scatters the dead
+leaves on the ground.  The gate to the fence swings back and forth noisily. 
+There are steps leading up to the front of the house.  
+~
+0 0 3
+D1
+~
+~
+0 0 5378
+D3
+~
+~
+0 0 4415
+D4
+~
+~
+0 0 4418
+S
+#4418
+House Entrance~
+You stand before the front door which leads to the east.  The outside of
+the house is in disrepair.  The structure seems to have been unoccupied for
+some time, yet your gut tells you that something awaits inside.  
+~
+0 0 2
+D1
+~
+door~
+1 0 4419
+D5
+~
+~
+0 0 4417
+S
+#4419
+Parlor~
+Cobwebs stretch toward you, tangling themselves on your armor.  As your
+eyes adjust to the dimness of the room, you notice what must have been a
+beautiful parlor.  Ornate furniture, faded with age, is scattered about the
+room.  Exits lead east, north, and south, and the front door is to the west.
+~
+0 9 0
+D0
+~
+~
+0 0 4422
+D1
+~
+~
+0 0 4420
+D2
+~
+~
+0 0 4421
+D3
+~
+~
+1 0 4418
+S
+#4420
+Bathroom~
+You enter a small but comfortable room equipped with a porcelain bathtub
+and sink, both adorned with gold spigots.  You turn on the water of the
+sink, and it squirts out a muddy looking substance which gradually turns
+clear.  You cup the water in your hands and splash it over your face.  You
+look in the mirror over the sink and become nauseous as you see blood
+dripping from your face.  Panic stricken, you look down and see the water
+flowing from the spigot has turned to thick blood.  A hand sneaks over your
+shoulder and you whirl around to find yourself face to face with a man
+covered in blood.  
+~
+0 9 0
+D3
+~
+~
+0 0 4419
+S
+#4421
+Den~
+Dusty bookcases line each wall, the shelves stacked tightly with ancient
+books.  A long wooden desk is in the middle of the room with two thick
+candles burning quietly on top.  You wonder who lit them.  
+~
+0 8 0
+D0
+~
+~
+0 0 4419
+S
+#4422
+Dining Room~
+A long dining table draped with a lace tablecloth fills the center of the
+room, and a winding set of stairs are in the corner.  Two dimly lit
+chandeliers dangle over the table, their lights casting wavering shadows
+along the walls.  Two of the shadows meld themselves into humanoid forms and
+leap from the wall to attack!  
+~
+0 8 0
+D1
+~
+~
+0 0 4423
+D2
+~
+~
+0 0 4419
+D4
+~
+~
+0 0 4425
+S
+#4423
+Kitchen~
+The countertops, cupboards, and drawers are all formed from a heavy
+steel.  It is extremely warm in here, and you begin to sweat profusely.  The
+source of the heat seems to be the enormous oven built into the east wall.  
+~
+0 9 0
+D1
+~
+oven~
+1 0 4424
+D3
+~
+~
+0 0 4422
+S
+#4424
+Inferno~
+Flames burn hotly all around you as enter the oven.  The sweat flows from
+your body.  
+~
+0 8 0
+D3
+~
+oven~
+1 0 4423
+S
+#4425
+Landing~
+The stairs are steep and twist sharply.  You grip the banister tightly
+for support, but the texture feels odd to the touch.  You look over to find
+the banister has transformed into a large serpent.  It twists its head
+around to eye you, its forked tongue flicking in and out.  
+~
+0 9 0
+D4
+~
+~
+0 0 4426
+D5
+~
+~
+0 0 4422
+S
+#4426
+Top of the Stairs~
+A hallway with a black runner extends to the west.  A small window is to
+your east overlooking the neglected grounds.  To the north is an ornately
+carved door.  
+~
+0 9 0
+D0
+~
+~
+1 0 4430
+D3
+~
+~
+0 0 4427
+D5
+~
+~
+0 0 4425
+S
+#4427
+Hallway~
+You can see the end of the hallway a few feet ahead of you.  A glimpse of
+an interesting doorway holds your attention.  
+~
+0 9 0
+D1
+~
+~
+0 0 4426
+D3
+~
+~
+0 0 4428
+S
+#4428
+Hallway~
+The hallway is a bit longer than you perceived it.  Just a little further.  
+~
+0 9 0
+D1
+~
+~
+0 0 4427
+D3
+~
+~
+0 0 4429
+S
+#4429
+Hallway~
+The hallway turns south, and you see the doorway is almost within reach. 
+It glows with a silver light.  
+~
+0 9 0
+D1
+~
+~
+0 0 4428
+D2
+~
+~
+0 0 4428
+S
+#4430
+Master Suite~
+A large canopy bed catches your attention.  It is made of a black
+fragrant wood and draped with a transparent silken netting.  A window is
+wide open along the west wall.  A light breeze mingles with the silver
+moonlight shining in.  A dark form is there, his long black hair blowing
+away from his shoulders.  He turns to face you, his piercing eyes boring
+into you.  
+~
+0 9 0
+D2
+~
+~
+1 0 4426
+S
+#4431
+Sea of Mists~
+The mists gather thickly here, confusing your sense of balance.  You feel
+around with your hands and find exits to the east, west, and south.  
+~
+0 0 9
+D1
+~
+~
+0 0 4400
+D2
+~
+~
+0 0 4432
+D3
+~
+~
+0 0 4433
+S
+#4432
+Prisms~
+A large number of prisms are suspended in this room.  All around you are
+sharp beams of light representative of every color of the spectrum.  Though
+beautiful to behold, the bright lights send needle-sharp spasms of pain into
+your eyes.  A sparkling creature guards the room.  
+~
+0 0 9
+D0
+~
+~
+0 0 4431
+S
+#4433
+Twilight Grove~
+This grove is in a constant state of twilight.  The night never fully
+blankets the air, and the sun never fully dies.  You hear rustlings all
+around you, and a barrage of animal noises.  The grove extends north, west,
+and south.  
+~
+0 1 3
+D0
+~
+~
+0 0 4434
+D1
+~
+~
+0 0 4431
+D2
+~
+~
+0 0 4435
+D3
+~
+~
+0 0 4437
+S
+#4434
+Twilight Grove~
+Oil lamps hang from the branches of several trees.  A bent form in front
+of the largest tree holds your attention.  As you gaze in that direction,
+she lifts her head and stands, stretching her body languidly.  Her arms seem
+like tree branches and her feet like roots, but she has an unmistakeable
+beauty to her.  
+~
+0 0 3
+D2
+~
+~
+0 0 4433
+S
+#4435
+Twilight Grove~
+The land is marshy here, and each step sloshes murky water up over your
+boots.  A lithe figure darts in and out of view, but you can't quite keep it
+in your vision.  The marsh continues to the south.  
+~
+0 1 3
+D0
+~
+~
+0 0 4433
+D2
+~
+~
+0 0 4436
+S
+#4436
+Murky Pond~
+The marshy land ends at a pond with murky water.  The twilight skies
+reflect hues of brown and grey upon the water.  A creature emerges from the
+pond with a swift movement and alights on the ground before you.  Her hair
+drips rivulets of water, and her eyes are the blue of the sea.  
+~
+0 1 3
+D0
+~
+~
+0 0 4435
+S
+#4437
+Ancient Circle~
+You have intruded on a ceremony of some sort.  Grey robed beings form a
+circle, their hands raised up to the heavens.  Their chanting is hypnotic. 
+Luckily, they do not notice your presence.  
+~
+0 0 3
+D1
+~
+~
+0 0 4433
+D2
+~
+~
+0 0 4438
+S
+#4438
+Cavern Entrance~
+The mists gather about you once again but do not completely block your
+vision.  To the south is a dark entrance cut into a mound of stone.  Slabs
+of wood block the entrance.  
+~
+0 1 3
+D0
+~
+~
+0 0 4437
+D2
+~
+slabs~
+1 0 4439
+S
+#4439
+Cavern~
+The cavern walls are extremely smooth and perfectly shaped.  It is
+apparent this was not formed by natural forces.  Debris is half-buried in
+the ground, and you recognize bits of broken hilts and ancient equipment.  A
+large tunnel to the south leads deeper into the ground.  
+~
+0 13 0
+D0
+~
+slabs~
+1 0 4438
+D2
+~
+~
+0 0 4440
+S
+#4440
+Cavern~
+The air is becoming oppressive, and every breath you take is filled with
+dust.  A gaping hole is in the center of the room.  Exits lead north and
+east.  
+~
+0 9 0
+D0
+~
+~
+0 0 4439
+D1
+~
+~
+0 0 4442
+D5
+~
+~
+0 0 4441
+S
+#4441
+Burial Pit~
+You jump into the pit and land roughly at the bottom.  Ancient bones lie
+in heaps, many of them showing evidence of violent deaths.  
+~
+0 13 0
+S
+#4442
+River Source~
+Chilly water bubbles from a natural spring and flows to the east.  The
+air smells of mildew and mold, and soft patches of moss grow on the walls.  
+~
+0 9 0
+D1
+~
+~
+0 0 4443
+D3
+~
+~
+0 0 4440
+S
+#4443
+Underground River~
+The water has become quite deep, and the current has quickened. 
+Stalactites plunge down from the dark ceiling high above.  There is a pile
+of wood and stone at the edge of the river and what looks like an exit
+blocked by a large boulder to the north.  The river continues east.  
+~
+0 1 7
+D0
+~
+boulder~
+1 0 4444
+D1
+~
+~
+0 0 4445
+D3
+~
+~
+0 0 4442
+S
+#4444
+Crag's Lair~
+A deformed creature gnawing on a rat whirls around and screams at you. 
+In a frenzy, he charges at your neck!  
+~
+0 0 0
+D2
+~
+boulder~
+1 0 4443
+S
+#4445
+Aqueduct~
+The river flows east into an aqueduct.  To the north and south you see
+ruins of stone buildings.  The ground on either side of the river consists
+of slick clay.  
+~
+0 8 7
+D0
+~
+~
+0 0 4446
+D2
+~
+~
+0 0 4447
+D3
+~
+~
+0 0 4443
+S
+#4446
+Ruins~
+In its day, this was a modest home.  The clay fireplace must have been
+used to prepare delicious meals.  You can almost smell the aromas from long
+ago.  
+~
+0 9 0
+D1
+~
+~
+0 0 4448
+D2
+~
+~
+0 0 4445
+S
+#4447
+Ruins~
+An ancient home is here, reduced to shambles.  A sleeping area is molded
+from the surrounding clay.  You question how anyone would have found that
+comfortable.  There is a trail of marks along the ground that looks as if it
+was freshly made.  A hole in the wall leads east.  
+~
+0 9 0
+D0
+~
+~
+0 0 4445
+D1
+~
+~
+0 0 4449
+S
+#4448
+Fresh Kill~
+In the middle of a ruined building lies a large reptilian creature whose
+gut has been slashed open.  Steam rises from its innards.  You notice a
+large crack leading north and down.  
+~
+0 9 0
+D0
+~
+~
+0 0 4455
+D1
+~
+~
+0 0 4452
+D2
+~
+~
+0 0 4453
+D3
+~
+~
+0 0 4446
+S
+#4449
+Scratched Walls~
+This home is still standing whole, but the door and windows were broken
+out long ago.  As you enter the dwelling, you see a trail of dark brown
+stains along the floor as if something was dragged from here.  The walls
+have very deep scratches embedded in them.  There are holes in the east and
+west walls.  
+~
+0 9 0
+D0
+~
+~
+0 0 4453
+D1
+~
+~
+0 0 4450
+D3
+~
+~
+0 0 4447
+S
+#4450
+Nest~
+You stand on dark damp clay, the cavern walls rising high to the east.  A
+large pile of moss and vines are in the center of the room.  
+~
+0 9 0
+D0
+~
+~
+0 0 4451
+D3
+~
+~
+0 0 4449
+S
+#4451
+Nest~
+A reptite is slithering across the nest pile here.  You see three objects
+nestled in the center of the mossy structure.  
+~
+0 9 0
+D0
+~
+~
+0 0 4452
+D2
+~
+~
+0 0 4450
+S
+#4452
+Nest~
+This must be the breeding grounds of the reptites.  Their methods of
+propagation are not something you want to know about.  
+~
+0 9 0
+D2
+~
+~
+0 0 4451
+D3
+~
+~
+0 0 4448
+S
+#4453
+Ruined Temple~
+The ruined structure here seems ages beyond the previous ones you have
+seen.  The ground is pieced together with clay bricks, and there are pillars
+standing strong supporting a stone awning.  Broken down stairs lead up to a
+platform.  
+~
+0 9 0
+D0
+~
+~
+0 0 4448
+D2
+~
+~
+0 0 4449
+D4
+~
+~
+0 0 4454
+S
+#4454
+Platform~
+The covered platform you stand upon is quite high, allowing you to
+overlook the ruins below.  A circle of stones surround a pile of ash.  As
+you peer closer, you see pieces of bone mixed in among the ash.  
+~
+0 9 0
+D5
+~
+~
+0 0 4453
+S
+#4455
+Dark Passage~
+Augh!  You're schlupping around in a nasty tunnel.  There is light to the
+south, and an opening downward.  
+~
+0 0 0
+D2
+~
+~
+0 0 4448
+S
+#0
+
+
+
+#SPECIALS
+M 4407 spec_breath_lightning
+M 4409 spec_poison
+M 4411 spec_cast_mage
+M 4414 spec_poison
+M 4422 spec_cast_adept
+M 4425 spec_cast_mage
+M 4427 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 4402 0 1
+D 0 4405 4 2
+D 0 4407 2 1
+D 0 4408 0 1
+D 0 4410 3 1
+D 0 4418 1 1
+D 0 4419 3 1
+D 0 4423 1 1
+D 0 4424 3 1
+D 0 4426 0 1
+D 0 4430 2 1
+D 0 4444 2 1
+D 0 4439 0 1
+D 0 4443 0 1
+D 0 4444 2 1
+M 0 4421 8 4400 2
+M 0 4421 8 4400 2
+M 0 4421 8 4401 2
+M 0 4421 8 4401 2
+M 0 4400 1 4402 1
+M 0 4402 1 4403 1
+M 0 4401 2 4404 2
+M 0 4401 2 4404 2
+M 0 4403 1 4405 1
+M 0 4404 1 4406 1
+M 0 4426 3 4406 1
+M 0 4405 1 4407 1
+M 0 4426 3 4408 1
+M 0 4406 1 4409 1
+M 0 4426 3 4409 1
+M 0 4407 1 4411 1
+M 0 4408 1 4412 1
+M 0 4421 8 4413 2
+M 0 4421 8 4413 2
+M 0 4409 1 4414 1
+M 0 4410 1 4416 1
+M 0 4411 1 4420 1
+M 0 4412 2 4422 2
+M 0 4412 2 4422 2
+M 0 4413 1 4424 1
+M 0 4414 1 4425 1
+M 0 4415 1 4430 1
+M 0 4421 8 4431 2
+M 0 4421 8 4431 2
+M 0 4416 1 4432 1
+M 0 4417 1 4434 1
+M 0 4418 1 4436 1
+M 0 4419 3 4437 3
+M 0 4419 3 4437 3
+M 0 4419 3 4437 3
+M 0 4420 1 4437 1
+M 0 4423 1 4444 1
+M 0 4422 4 4446 1
+M 0 4422 4 4447 1
+M 0 4422 4 4448 1
+M 0 4422 4 4449 1
+M 0 4424 1 4451 1
+M 0 4425 1 4454 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,1793 @@
+#AREA
+fortvir.are~
+Fortress of Virtue~
+{50 100} Gohan Fortress of Virtue~
+20700 20799
+
+#MOBILES
+#20701
+Idiot~
+Idiot~
+The idiot wants to fight you.
+~
+This scrawny man is taunting you into a fight.
+~
+unique~
+ABT 0 -900 0
+15 10 15d10+75 7d10+15 1d5+10 none
+0 0 0 5
+0 0 LQ BCFIJKLMNOPQRSTXYZa
+stand stand either 200
+AHMV ABCDEFGHIJK medium flesh
+#20702
+Mr. Renninger ~
+Mr. Renninger ~
+Mr. Renninger is yelling at you to walk.
+~
+You see an annoying old man trying to boss you around.  You should show the old fart what you think about that.
+~
+unique~
+AB A -900 0
+20 10 20d10+133 2d10+20 3d6+6 none
+-2 -2 -2 5
+0 0 0 CHKNOPS
+stand stand male 400
+AHMV ABCDEFGHIJK medium flesh
+#20703
+Mrs. Renninger ~
+Mrs. Renninger ~
+Mrs. Renninger glares at you.
+~
+The woman is trying to insult you but is only making a fool out of herself trying.
+~
+unique~
+AB 0 -900 0
+25 12 25d10+208 12d25+25 5d5+25 none
+-5 -5 -5 3
+E 0 0 CKNOPS
+stand stand female 700
+AHMV ABCDEFGHIJK medium unknown
+#20704
+Mr. Crim~
+Crim~
+Mr. Crim is marking up your test scores.
+~
+You see a balding strict man who tries to teach you calculus.  Sadly, he never realizes that he's a bad teacher.
+~
+unique~
+AB 0 -900 0
+30 15 30d10+300 10d30+400 2d6+30 none
+-9 -9 -9 1
+0 0 0 HKNOS
+stand stand male 900
+AHMV ABCDEFGHIJK medium unknown
+#20705
+Baka Jerk~
+Baka~
+The jerk just kidney punched you.
+~
+He is a screwny man with short brown hair.  Short tempered, he is the king of displacement.
+~
+unique~
+ABF A -900 0
+35 17 35d10+408 10d30+50 3d5+17 none
+-12 -12 -12 0
+0 0 0 CHKNOS
+stand stand male 1225
+AHMV ABCDEFGHIJK medium unknown
+#20706
+Mrs. Westle~
+Mrs. Westle~
+Mrs. Westle is a witch.
+~
+The strict woman rambles on and on.  If you don't kill her, the droning might be enough to drive you insane.
+~
+unique~
+AB 0 -900 0
+40 20 40d10+533 10d40+40 6d6+40 none
+-15 -15 -15 -1
+J 0 0 CKNOS
+stand stand female 1600
+AHMV ABCDEFGHIJK medium unknown
+#20707
+Metsetse~
+Metsetse~
+Metsetse has a blade of light coming from his knuckle on his right hand.
+~
+Metsetse looks at you with disdain, you can see in his eyes that even
+though he doesn't look armed, he has an aura about him that suggests he's
+capable of dealing a lot of pain very fast.  
+~
+unique~
+ABRT 0 0 0
+45 27 45d10+675 10d45+45 9d5+45 none
+-18 -18 -18 -2
+0 0 0 EK
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#20708
+Malak~
+Malak~
+Malak looks like an elven wizard.
+~
+Malak has a slim build but a feeling of power seems to surround him.
+~
+unique~
+AB H -800 0
+50 20 15d20+45 10d25+25 10d5+45 none
+-20 -20 -20 -5
+0 0 B KZ
+stand stand male 2500
+AHMV ABCDEFGHIJK medium unknown
+#20709
+Yoko~
+Yoko~
+Yoko is an elf that looks like she's related to Malak.
+~
+On closer inspection, you find something disturbing.  You suspect that it is Malak but with a sex change.
+~
+unique~
+AB H -900 0
+55 20 50d10+700 50d10+500 5d10+50 none
+-20 -20 -20 -4
+J 0 B KZ
+stand stand male 2500
+AHMV ABCDEFGHIJK medium unknown
+#20710
+Dr. Comfort~
+Comfort~
+Dr. Comfort is an old English teacher.
+~
+Despite her name being Dr. Comfort, she is definitely not a comfort.
+~
+unique~
+AB 0 -900 0
+60 30 60d10+1200 10d10+500 6d10+60 none
+0 0 0 0
+0 0 0 CKNOS
+stand stand female 3600
+AHMV ABCDEFGHIJK medium unknown
+#20711
+Charles~
+Charles~
+Charles is a fat dwarf that wants to tear you apart.
+~
+The only thing threatening about this dwarf is if he would try to sit on you.  He would could kill you that way.
+~
+unique~
+ABF e -900 0
+65 30 0d0+0 10d10+500 1d10+65 none
+0 0 0 0
+0 0 LQ CFKNOPS
+stand stand male 4200
+AHMV ABCDEFGHIJK medium unknown
+#20712
+Demon Teacher~
+Demon Teacher~
+The Demon is the embodiment of all bad teachers
+~
+As you look at it, you feel the urge to tear it apart as you remember your own bad experiences with the teachers you had in the past.
+~
+unique~
+AB 0 -1000 0
+70 35 70d10+1600 10d10+1000 7d10+70 none
+0 0 0 0
+0 0 HLQ CIKNOSY
+stand stand either 4200
+AHMV ABCDEFGHIJKUVW medium unknown
+#20713
+stink bug~
+A Stink Bug~
+An unnaturally large bug stinks up the place.
+~
+The mutated bug is brownish gray in color.  It's hard shell will offer it a great deal of protection and the smell that it seems to be farting out is getting nauseating.
+~
+unique~
+ABF 0 0 0
+75 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+F 0 Q CHKNOS
+stand stand either 0
+0 ACFHKP small unknown
+#20714
+Small Unarmed Boy~
+Boy~
+A small unarmed boy is trying to avoid Sgt. Bippy.
+~
+The boy has been hiding from Bippy.  His fear is reflected in his eyes.
+~
+unique~
+AB 0 400 0
+80 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 CKO
+stand stand male 6400
+AHMV ABCDEFGHIJK small unknown
+#20715
+Cat~
+Cat~
+The smelliest cat you've ever laid eyes on prowls here.
+~
+As you gaze upon this seemingly harmless housecat, you have the strange urge to ask it not to lick or fart on you.
+~
+unique~
+AB 0 0 0
+85 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+FH 0 0 CK
+stand stand either 8100
+AGV ACDEFHJKQUV small unknown
+#20716
+Oslo~
+Oslo~
+Oslo, the pegasus waits for his paladin.
+~
+The magnificient creature before you blends almost completely into its
+surroundings, being completely white.  If not for it's shadow, you may not
+have even noticed it, but it surely noticed you.  Upon your entrance, it
+spreads its wings, showing a wing span of at least twenty feet.  This
+pegasus, named Oslo by his paladin master, is a direct descendant of the
+pegasus that served as Bellerophon's mount when he slayed Chimaera.  Oslo is
+lawful good, sworn to vanquish evil, so watch your actions in this room...  
+~
+unique~
+AB 0 1000 0
+90 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 N CKO
+stand stand male 0
+0 0 medium unknown
+#20717
+Chelsee~
+Chelsee~
+Chelsee had a cocky grin on her face.
+~
+Chelsee looks like an average young woman but the smirk on her face makes her look like the stuck up snob that she is.
+~
+unique~
+ABR 0 0 0
+95 0 0d0+0 0d0+0 0d0+0 slap
+0 0 0 0
+0 0 F CKOP
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#20718
+White Dragon~
+White Dragon~
+{wThe white dragon looks weak.
+~
+The white scaled dragon is weakened from being out of its freezing environment.
+~
+unique~
+AB Ye -900 0
+100 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+0 0 EI CHKNOS
+rest stand either 10000
+AHZ ACDEFHJKLOPQUVWXY huge unknown
+#20719
+Judy Woman Oriental~
+Judy~
+An oriental woman is ready to nag you to death.
+~
+Judy is an unreasonable woman who refuses to learn from her mistakes will
+try to force you in her own image.  She is the person you do not want to be
+She is the person you do not want to be your mother.  
+~
+unique~
+AB 0 -500 0
+105 0 0d0+0 0d0+0 0d0+0 slap
+0 0 0 0
+0 0 0 CIKNOSY
+stand stand female 10000
+AHMV ABCDEFGHIJK medium flesh
+#20720
+Shop Keeper~
+Arcane~
+The Arcane is selling magical items.
+~
+A frail humanoid stands before you.  Its skin is pale blue and its head
+is long and rectangular.  
+~
+unique~
+ABT 0 0 0
+100 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 100000
+AHMV ABCDEFGHIJK medium unknown
+#20721
+Karashi~
+Karashi~
+Karashi is practicing some elegant sword techniques.
+~
+Karashi is a capable ninja.  She is wearing a {Bblue gi {xand wielding a
+katana.  Her {Bhairband {xties her long brown hair back and {Dblack belt
+{xkeeping her {Bgi {xclosed.  She is here to train other warriors in the
+ways of combat.  
+~
+unique~
+ABJKSTb FVc 500 0
+150 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+CEFHIKNVX ALQ BCDEFGHIJKMNOPRSTXYZ 0
+stand stand female 40000
+AHMV ABCDEFGHIJK medium unknown
+#20722
+Shop Keeper~
+Arcane~
+A frail blue shop keeper stands before you.
+~
+A frail humaniod stands before you.  Its skin is pale {cblue {wand its head is long and rectangular.
+~
+unique~
+AB 0 0 0
+50 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none 100000
+AHMV ABCDEFGHIJK medium unknown
+#20723
+Lag~
+Lag~
+Lag is slowing everything down.  Now if only you can get rid of them.
+~
+As you look around, everything seems to be getting slower including you.  This is getting irritating and it might become fatal if you don't do something about it.
+~
+unique~
+AB e -800 0
+0 0 0d0+0 0d0+0 0d0+0 drain
+0 0 0 0
+0 0 HLQ IKNSY
+stand stand none 10000
+AHMV ABCDEFGHIJKUVW medium unknown
+#20724
+Metallic Monster Creature~
+Metallic Monster~
+A large metallic creature is looking in nowhere particular.
+~
+You see the metallic monster does not even notice that you are looking at
+it.  It stands 8 feet tall and looks menacing even though it shows to signs
+of intelligence.  
+~
+unique~
+AB 0 0 0
+115 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+0 0 0 CKO
+stand stand none 12000
+AEHJMVZc ABCDEFGHIJKLOPQUVWXY medium metal
+#20725
+Wyvern~
+{RWyvern{x~
+A wyvern circles you.
+~
+The large dragon-like creature has almost reached maturity.  Its skin could not be considered to be scales but more like leathery.
+~
+unique~
+ABT T 900 0
+120 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+CD L 0 KS
+stand stand either 14400
+ABGZ ACDEFHJKQVX large flesh
+#20727
+Metallic Assassin~
+Metallic Assassin~
+A metallic assassin is looking in nowhere particular.
+~
+The metallic assassin looks like a metal statue of a human.  But the material looks like liquid metal even though it is held perfectly in place.  Strong magic must be taking part.  And did the statue just move?
+~
+unique~
+AB 0 0 0
+125 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+BEFINVW 0 0 CKO
+stand stand none 26000
+AHMV ABCDEFGHIJK medium unknown
+#20728
+Strong Kobold~
+Insanely strong kobold~
+An overly muscular kobold looks ready to strike you down.
+~
+The short reptilian humanoid's skin is a rusty brown color.  It has two small light-colored horns on its doglike head, glowing red eyes, and a tail like a rat.  It fits the description of a kobold but its oversized muscles make it look nothing like one.
+~
+unique~
+AB 0 -700 0
+130 0 0d0+0 0d0+0 0d0+0 pound
+0 0 0 0
+C 0 L CKS
+stand stand either 16000
+ABHMV ABCDEFGHIJKQ small unknown
+#20729
+Metallic Warrior~
+Metallic Warrior~
+A metallic statue of a warrior stands here.
+~
+The metallic warrior looks like a metal statue of a human.  But the material looks like liquid metal even though it is held perfectly in place.  Strong magic must be taking part.  And did the statue just move?
+~
+unique~
+ABT 0 0 0
+135 0 0d0+0 0d0+0 0d0+0 punch
+0 0 0 0
+CIKX 0 0 CKO
+stand stand none 17000
+AHMV ABCDEFGHIJK medium metal
+#20730
+Drow~
+Drow~
+A drow readies his axe.
+~
+A blue skinned dwarf stands before you.  Short but strong, this dwarf can no doubt take on many of the things that live in Alanthia.  Wielding his axe and having his armor on, he is ready to take on his next fight.  Even if the next fight is with you.
+~
+unique~
+AB 0 -700 0
+140 0 0d0+0 0d0+0 0d0+0 chop
+0 0 0 0
+C Q L CHKNOS
+stand stand male 18000
+AHZ ACDEFHJKLOPQUVWXY medium unknown
+#20731
+Metallic Mage~
+Metallic Mage~
+A metallic statue of a mage stands here.
+~
+The metallic mage looks like a metal statue of a human.  But the material looks like liquid metal even though it is held perfectly in place.  Strong magic must be taking part.  And did the statue just move?
+~
+unique~
+ABR H 0 0
+145 0 0d0+0 0d0+0 0d0+0 blast
+0 0 0 0
+0 0 0 K
+stand stand none 20000
+AHMV ABCDEFGHIJK medium metal
+#20732
+Troll~
+A troll~
+A troll drags its arms along the ground.
+~
+The troll stands 9 feet tall.  Its rubbery hide is green and its hair is a darker shade of green.  Its claws can rip you to shreds if you are not cautious.  And even then, the threat is still there.
+~
+unique~
+ABFT Zc -700 0
+150 0 0d0+0 0d0+0 0d0+0 claw
+0 0 0 0
+CDHO 0 BE CHKO
+stand stand female 21000
+ABHMV ABCDEFGHIJKUV large unknown
+#20733
+Metallic Battle Mage~
+Metallic Battle Mage~
+A metallic statue of a battle mage stands here.
+~
+The metallic mage looks like a metal statue of a human.  But the material looks like liquid metal even though it is held perfectly in place.  Strong magic must be taking part.  And did the statue just move?
+~
+unique~
+ABRT H 0 0
+155 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0
+CFIVX B 0 CKO
+stand stand none 30000
+AHMV ABCDEFGHIJK medium metal
+#20734
+Unfair Wraith~
+{DUnfair Wraith{x~
+A wraith is thinking about how to make hardships for you.
+~
+Some people call it bad luck while others think there are invisible
+forces that purposely take sadistic glee from the mishapen of every day life
+to life altering events.  Unfortunately, there are more wraiths of this
+exact purpose that will come to replace it if ever slain.  You might as get
+some revenge for it screwing over your life.  
+~
+unique~
+ABFQ BDFT -950 0
+160 0 0d0+0 0d0+0 0d0+0 chill
+0 0 0 0
+0 L JQ FHKN
+stand stand none 40000
+AHMV ABCDEFGHIJK medium unknown
+#20735
+Metallic Sorcerer~
+Metallic Sorcerer~
+A metallic statue of a sorcerer stands here.
+~
+The metallic sorcerer looks like a metal statue of a human.  But the material looks like liquid metal even though it is held perfectly in place.  Strong magic must be taking part.  And did the statue just move?
+~
+unique~
+ABRT HTV 0 0
+165 0 0d0+0 0d0+0 0d0+0 blast
+0 0 0 0
+FIKVW Q B CKO
+stand stand none 40000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#20700
+Entrance of Fortress of Virtue~
+You find yourself in a bleached white room that has nothing of
+significance except the portal that you came through to get here.  Aside
+from the portal, the only way out is an archway that leads into a hallway.  
+~
+0 8 0
+D3
+~
+~
+0 0 20701
+S
+#20701
+Hallway~
+The hallway has beautiful red carpeting with navy blue carpeting on top
+following the hallway covering the middle of the path.  It extends to the
+north.  The white marble walls are bare of decorations.  To the south, you
+can see the outside.  There's nothing outside except multiple colors
+swirling around one another creating a gorgeous display.  
+~
+0 8200 0
+D0
+~
+~
+0 0 20702
+D1
+~
+~
+0 0 20700
+S
+#20702
+Hallway~
+The hallway has beautiful red carpeting with navy blue carpeting on top
+following the hallway covering the middle of the path.  It extends to the
+north and south.  The white marble walls are bare of decorations.  To the
+west, there apears to be a large room and you can hear faint sounds of
+combat.  
+~
+0 8200 0
+D0
+~
+~
+0 0 20703
+D2
+~
+~
+0 0 20701
+D3
+~
+~
+0 0 20710
+S
+#20703
+Hallway~
+The hallway has beautiful red carpeting with navy blue carpeting on top
+following the hallway covering the middle of the path.  It extends to the
+south.  The white marble walls are bare of decorations.  To the north, you
+can see the outside.  There's nothing outside except multiple colors
+swirling around one another creating a gorgeous display.  There are two
+rooms on both sides of the hall.  
+~
+0 8200 0
+D1
+~
+~
+1 0 20707
+D2
+~
+~
+0 0 20702
+D3
+~
+~
+1 0 20704
+S
+#20704
+Bedroom~
+As you entered, candles around the dark room are lit.  You see a
+moderately sized room with a satin bed.  There is another door to another
+room to the south.  The beautiful glass windows and usual intricate white
+marble setting with a large red and yellow rug that covers over a pale green
+carpeting.  There is a table with a few chairs surrounding it.  There's a
+closet south of this room.  You just noticed the door has your name on it
+even though you could have sworn it was just bare before.  
+~
+0 8200 0
+D1
+~
+~
+1 0 20703
+D2
+~
+~
+1 0 20706
+D3
+~
+~
+1 0 20705
+S
+#20705
+Restroom~
+The room is tiled with pearl white tiles except in the corner which has
+light blue tiles.  As you stand on the blue tiles, the dirt and sweat seems
+to evaporate off your skin clearing your pores.  You feel very relaxed and
+stimulated during this and you feel cleaner than you've been in a while.  
+~
+0 8200 0
+D1
+~
+~
+1 0 20704
+S
+#20706
+Closet~
+The closet is moderately sized and is not completely empty.  In fact
+there are a few clothes that are hung in there.  
+~
+0 8712 0
+D0
+~
+~
+1 0 20704
+S
+#20707
+Bedroom~
+As you entered, candles around the dark room are lit.  You see a
+moderately sized room with a satin bed.  There is another door to another
+room to the south.  The beautiful glass windows and usual intricate white
+marble setting with a large red and yellow rug that covers over a pale green
+carpeting.  There is a table with a few chairs surrounding it.  There's a
+closet south of this room.  You just noticed the door has your name on it
+even though you could have sworn it was just bare before.  
+~
+0 8200 0
+D1
+~
+~
+1 0 20708
+D2
+~
+~
+1 0 20709
+D3
+~
+~
+1 0 20703
+M 110 H 110
+S
+#20708
+Restroom~
+The room is tiled with pearl white tiles except in the corner which has
+light blue tiles.  As you stand on the blue tiles, the dirt and sweat seems
+to evaporate off your skin clearing your pores.  You feel very relaxed and
+stimulated during this and you feel cleaner than you've been in a while.  
+~
+0 8200 0
+D3
+~
+~
+1 0 20707
+M 150 H 150
+S
+#20709
+Closet~
+The closet is moderately sized and is not completely empty.  In fact
+there are a few clothes that are hung in there.  
+~
+0 8712 0
+D0
+~
+~
+1 0 20707
+S
+#20710
+Above the Arena~
+The room is basically a platform that surrounds above the arena below. 
+It is an excellent view of any battles that would take place in there
+similiar to a coliseum.  There appears to be blood on the floor and walls of
+the arena but it is slowing evaporating as if cleaning after itself.  
+~
+0 8200 0
+D0
+~
+~
+0 0 20715
+D1
+~
+~
+0 0 20702
+D2
+~
+~
+0 0 20716
+D3
+~
+~
+0 0 20711
+S
+#20711
+Hallway~
+The hallway has beautiful red carpeting with navy blue carpeting on top
+following the hallway covering the middle of the path.  It extends to the
+north.  The white marble walls are bare of decorations.  To the east, there
+apears to be a large room and you can hear faint sounds of combat.  To the
+west, it looks like a library.  
+~
+0 8200 0
+D0
+~
+~
+0 0 20712
+D1
+~
+~
+0 0 20710
+D3
+~
+~
+0 0 20713
+S
+#20712
+Hallway~
+The hallway has beautiful red carpeting with navy blue carpeting on top
+following the hallway covering the middle of the path.  It extends to the
+south.  The white marble walls are bare of decorations.  The smell of
+delicious food is in the air.  
+~
+0 8200 0
+D2
+~
+~
+0 0 20711
+D3
+~
+~
+0 0 20714
+S
+#20713
+Library~
+The room may be large but it is still filled with shelves of books.  
+~
+0 8200 0
+D1
+~
+~
+0 0 20711
+S
+#20714
+Dining Hall~
+There is a long fine table with well crafted chairs lined up on both
+sides.  The aroma of delicous food fills the room.  
+~
+0 8200 0
+D1
+~
+~
+0 0 20712
+S
+#20715
+Arcane's Store~
+Unlike the bare walls of the other rooms, these have hanging shelves that
+are packed with potions and other unidentifiable objects.  
+~
+0 8200 0
+D2
+~
+~
+0 0 20710
+S
+#20716
+Stairway~
+You are on the top of a stair well.  The usual carpeting extends down the
+steps.  The area looks like the other rooms with the white walls and floor. 
+~
+0 8200 0
+D0
+~
+~
+0 0 20710
+D5
+~
+~
+0 0 20717
+S
+#20717
+Stairway~
+You are on the bottom of a stair well.  The usual carpeting extends down
+the steps.  The area looks like the other rooms with the white walls and
+floor.  
+~
+0 8200 0
+D0
+~
+~
+0 0 20718
+D4
+~
+~
+0 0 20716
+S
+#20718
+Training Room~
+Although this room is not as big as the other rooms you have encountered,
+it is still impressive.  Blue mats cover the whole area except the ceiling
+for protection.  To the north, there are large double doors that lead to the
+arena.  
+~
+0 8200 0
+D0
+~
+~
+1 0 20719
+D2
+~
+~
+0 0 20717
+M 100 H 105
+S
+#20719
+Intersection of Challenges~
+The area is swirling with colors creating a gorgeous but with a slight
+virtigo effect.  It seems that this might be a dimentional rift.  There is a
+magical seal to the left.  
+~
+0 9224 0
+D2
+~
+~
+1 0 20718
+D3
+~
+seal~
+1 20734 20720
+S
+#20720
+Hallway of Challenges~
+The path is full of bright colors swirling but not mixing causing a
+feeling of vertigo.  The only thing that seems to stay in place are the
+seals that are floating and yourself but with the colors moving under your
+feet, you can not be totally sure.  
+~
+0 8200 0
+D0
+~
+seal~
+1 20734 20730
+D1
+~
+seal~
+1 20734 20719
+D2
+~
+seal~
+1 20734 20731
+D3
+~
+~
+0 0 20721
+S
+#20721
+Hallway of Challenges~
+The path is full of bright colors swirling but not mixing causing a
+feeling of vertigo.  The only thing that seems to stay in place are the
+seals that are floating and yourself but with the colors moving under your
+feet, you can not be totally sure.  
+~
+0 8200 0
+D0
+~
+seal~
+1 20734 20732
+D1
+~
+~
+0 0 20720
+D2
+~
+seal~
+1 20734 20733
+D3
+~
+~
+0 0 20722
+S
+#20722
+Hallway of Challenges~
+The path is full of bright colors swirling but not mixing causing a
+feeling of vertigo.  The only thing that seems to stay in place are the
+seals that are floating and yourself but with the colors moving under your
+feet, you can not be totally sure.  
+~
+0 8200 0
+D0
+~
+seal~
+1 20734 20734
+D1
+~
+~
+0 0 20721
+D2
+~
+seal~
+1 20734 20735
+D3
+~
+~
+0 0 20723
+S
+#20723
+Hallway of Challenges~
+The path is full of bright colors swirling but not mixing causing a
+feeling of vertigo.  The only thing that seems to stay in place are the
+seals that are floating and yourself but with the colors moving under your
+feet, you can not be totally sure.  
+~
+0 8200 0
+D0
+~
+seal~
+1 20734 20736
+D1
+~
+~
+0 0 20722
+D2
+~
+seal~
+1 20734 20737
+D3
+~
+~
+0 0 20724
+S
+#20724
+Hallway of Challenges~
+The path is full of bright colors swirling but not mixing causing a
+feeling of vertigo.  The only thing that seems to stay in place are the
+seals that are floating and yourself but with the colors moving under your
+feet, you can not be totally sure.  
+~
+0 8200 0
+D0
+~
+seal~
+1 20734 20738
+D1
+~
+~
+0 0 20723
+D2
+~
+seal~
+1 20734 20739
+D3
+~
+~
+0 0 20725
+S
+#20725
+Hallway of Challenges~
+The path is full of bright colors swirling but not mixing causing a
+feeling of vertigo.  The only thing that seems to stay in place are the
+seals that are floating and yourself but with the colors moving under your
+feet, you can not be totally sure.  
+~
+0 8200 0
+D0
+~
+seal~
+1 20734 20740
+D1
+~
+~
+0 0 20724
+D2
+~
+seal~
+1 20734 20741
+D3
+~
+~
+0 0 20726
+S
+#20726
+Hallway of Challenges~
+The path is full of bright colors swirling but not mixing causing a
+feeling of vertigo.  The only thing that seems to stay in place are the
+seals that are floating and yourself but with the colors moving under your
+feet, you can not be totally sure.  
+~
+0 8200 0
+D0
+~
+seal~
+1 20734 20742
+D1
+~
+~
+0 0 20725
+D2
+~
+seal~
+1 20734 20743
+D3
+~
+~
+0 0 20727
+S
+#20727
+Hallway of Challenges~
+The path is full of bright colors swirling but not mixing causing a
+feeling of vertigo.  The only thing that seems to stay in place are the
+seals that are floating and yourself but with the colors moving under your
+feet, you can not be totally sure.  
+~
+0 8200 0
+D0
+~
+seal~
+1 20734 20744
+D1
+~
+~
+0 0 20726
+D2
+~
+seal~
+1 20734 20745
+D3
+~
+~
+0 0 20728
+S
+#20728
+Hallway of Challenges~
+The path is full of bright colors swirling but not mixing causing a
+feeling of vertigo.  The only thing that seems to stay in place are the
+seals that are floating and yourself but with the colors moving under your
+feet, you can not be totally sure.  
+~
+0 8200 0
+D0
+~
+seal~
+1 20734 20746
+D1
+~
+~
+0 0 20727
+D2
+~
+seal~
+1 20734 20747
+D3
+~
+~
+0 0 20729
+S
+#20729
+Hallway of Challenges~
+The path is full of bright colors swirling but not mixing causing a
+feeling of vertigo.  The only thing that seems to stay in place are the
+seals that are floating and yourself but with the colors moving under your
+feet, you can not be totally sure.  
+~
+0 8200 0
+D0
+~
+seal~
+1 20734 20748
+D1
+~
+~
+0 0 20728
+D2
+~
+seal~
+1 20734 20749
+S
+#20730
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D2
+~
+gates~
+1 20734 20720
+S
+#20731
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D0
+~
+gate~
+1 20734 20720
+M 100 H 50
+S
+#20732
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D2
+~
+gate~
+1 20734 20721
+M 100 H 50
+S
+#20733
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D0
+~
+gate~
+1 20734 20721
+M 100 H 50
+S
+#20734
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D2
+~
+gate~
+1 20734 20722
+M 100 H 50
+S
+#20735
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D0
+~
+gate~
+1 20734 20722
+M 100 H 50
+S
+#20736
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D2
+~
+gate~
+1 20734 20723
+M 100 H 50
+S
+#20737
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D0
+~
+gate~
+1 20734 20723
+M 100 H 50
+S
+#20738
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D2
+~
+gate~
+1 20734 20724
+M 100 H 50
+S
+#20739
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D0
+~
+gate~
+1 20734 20724
+M 100 H 50
+S
+#20740
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D2
+~
+gate~
+1 20734 20725
+M 100 H 50
+S
+#20741
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D0
+~
+gate~
+1 20734 20725
+M 100 H 50
+S
+#20742
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D2
+~
+gate~
+1 20734 20726
+M 100 H 50
+S
+#20743
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D0
+~
+gate~
+1 20734 20726
+S
+#20744
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D2
+~
+gate~
+1 20734 20727
+S
+#20745
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D0
+~
+gate~
+1 20734 20727
+S
+#20746
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D2
+~
+gate~
+1 20734 20728
+S
+#20747
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D0
+~
+gate~
+1 20734 20728
+S
+#20748
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D2
+~
+gate~
+1 20734 20729
+M 100 H 10
+S
+#20749
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D0
+~
+gate~
+1 20734 20729
+M 100 H 50
+S
+#20750
+Hallway of Challenges~
+The path is full of bright colors swirling but not mixing causing a
+feeling of vertigo.  The only thing that seems to stay in place are the
+seals that are floating and yourself but with the colors moving under your
+feet, you can not be totally sure.  On the seal to the west, it says 'level
+105'.  On the seal to the east, it says 'level 110'.  At least you think
+they are west and east.  What could they possibly mean?  
+~
+0 8200 0
+D0
+~
+~
+0 0 20753
+D1
+~
+~
+0 0 20752
+D3
+~
+~
+0 0 20751
+S
+#20751
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D1
+~
+~
+0 0 20750
+S
+#20752
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D3
+~
+~
+0 0 20750
+S
+#20753
+Hallway of Challenges~
+The path is full of bright colors swirling but not mixing causing a
+feeling of vertigo.  The only thing that seems to stay in place are the
+seals that are floating and yourself but with the colors moving under your
+feet, you can not be totally sure.  On the seal to the west, it says 'level
+115'.  On the seal to the east, it says 'level 120'.  At least you think
+they are west and east.  What could they possibly mean?  
+~
+0 8200 0
+D0
+~
+~
+0 0 20756
+D1
+~
+~
+0 0 20755
+D2
+~
+~
+0 0 20750
+D3
+~
+~
+0 0 20754
+S
+#20754
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D1
+~
+~
+0 0 20753
+S
+#20755
+Arena~
+The familiar bare white walls and floor is a relief to the dimensional
+tunnels.  It appears you are in the arena you were above before.  You see
+some dried blood on the floor and walls but they seem to be slowly
+disintegrating as if it were cleaning after the foes that clashed before you
+entered.  
+~
+0 8200 0
+D3
+~
+~
+0 0 20753
+S
+#20756
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 20759
+D1
+~
+~
+0 0 20758
+D2
+~
+~
+0 0 20753
+D3
+~
+~
+0 0 20757
+S
+#20757
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 20756
+S
+#20758
+~
+
+~
+0 0 0
+D3
+~
+~
+0 0 20756
+S
+#20759
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 20762
+D1
+~
+~
+0 0 20761
+D2
+~
+~
+0 0 20756
+D3
+~
+~
+0 0 20760
+S
+#20760
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 20759
+S
+#20761
+~
+
+~
+0 0 0
+D3
+~
+~
+0 0 20759
+S
+#20762
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 20765
+D1
+~
+~
+0 0 20764
+D2
+~
+~
+0 0 20759
+D3
+~
+~
+0 0 20763
+S
+#20763
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 20762
+S
+#20764
+~
+
+~
+0 0 0
+D3
+~
+~
+0 0 20762
+S
+#20765
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 20767
+D2
+~
+~
+0 0 20762
+D3
+~
+~
+0 0 20766
+S
+#20766
+~
+
+~
+0 0 0
+D1
+~
+~
+0 0 20765
+S
+#20767
+~
+
+~
+0 0 0
+D3
+~
+~
+0 0 20765
+S
+#0
+
+
+
+#SPECIALS
+M 20708 spec_cast_mage
+M 20709 spec_cast_mage
+M 20717 spec_cast_mage
+M 20721 spec_thief
+M 20727 spec_assassinater
+M 20731 spec_cast_mage
+M 20733 spec_cast_mage
+M 20734 spec_cast_undead
+M 20735 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 20703 1 1
+D 0 20703 3 1
+D 0 20704 1 1
+D 0 20704 2 1
+D 0 20704 3 1
+D 0 20705 1 1
+D 0 20706 0 1
+D 0 20707 1 1
+D 0 20707 2 1
+D 0 20707 3 1
+D 0 20708 3 1
+D 0 20709 0 1
+D 0 20718 0 1
+D 0 20719 2 1
+D 0 20719 3 2
+D 0 20720 0 2
+D 0 20720 1 2
+D 0 20720 2 2
+D 0 20721 0 2
+D 0 20721 2 2
+D 0 20722 0 2
+D 0 20722 2 2
+D 0 20723 0 2
+D 0 20723 2 2
+D 0 20724 0 2
+D 0 20724 2 2
+D 0 20725 0 2
+D 0 20725 2 2
+D 0 20726 0 2
+D 0 20726 2 2
+D 0 20727 0 2
+D 0 20727 2 2
+D 0 20728 0 2
+D 0 20728 2 2
+D 0 20729 0 2
+D 0 20729 2 2
+D 0 20730 2 2
+D 0 20731 0 2
+D 0 20732 2 2
+D 0 20733 0 2
+D 0 20734 2 2
+D 0 20735 0 2
+D 0 20736 2 2
+D 0 20737 0 2
+D 0 20738 2 2
+D 0 20739 0 2
+D 0 20740 2 2
+D 0 20741 0 2
+D 0 20742 2 2
+D 0 20743 0 2
+D 0 20744 2 2
+D 0 20745 0 2
+D 0 20746 2 2
+D 0 20747 0 2
+D 0 20748 2 2
+D 0 20749 0 2
+M 0 20722 1 20715 1
+M 0 20721 1 20718 1
+M 0 20720 1 20719 1
+M 0 20701 1 20731 1
+M 0 20702 1 20732 1
+M 0 20703 1 20733 1
+M 0 20704 1 20734 1
+M 0 20705 1 20735 1
+M 0 20706 1 20736 1
+M 0 20707 1 20737 1
+M 0 20708 1 20738 1
+M 0 20709 1 20739 1
+M 0 20710 1 20740 1
+M 0 20711 1 20741 1
+M 0 20712 1 20742 1
+M 0 20713 1 20743 1
+M 0 20714 1 20744 1
+M 0 20715 1 20745 1
+M 0 20716 1 20746 1
+M 0 20717 1 20747 1
+M 0 20718 1 20748 1
+M 0 20719 1 20749 1
+M 0 20723 10 20751 10
+M 0 20723 10 20751 10
+M 0 20723 10 20751 10
+M 0 20723 10 20751 10
+M 0 20723 10 20751 10
+M 0 20723 10 20751 10
+M 0 20723 10 20751 10
+M 0 20723 10 20751 10
+M 0 20723 10 20751 10
+M 0 20723 10 20751 10
+M 0 20724 1 20752 1
+M 0 20725 2 20754 2
+M 0 20725 2 20754 2
+M 0 20727 1 20755 1
+M 0 20728 1 20757 1
+M 0 20729 1 20758 1
+M 0 20730 3 20760 3
+M 0 20730 3 20760 3
+M 0 20730 3 20760 3
+M 0 20731 1 20761 1
+M 0 20732 2 20763 2
+M 0 20732 2 20763 2
+M 0 20733 1 20764 1
+M 0 20734 3 20766 3
+M 0 20734 3 20766 3
+M 0 20734 3 20766 3
+M 0 20735 1 20767 1
+S
+
+
+
+#SHOPS
+20720 18 5 0 0 0 100 50 0 23
+20722 2 3 4 10 26 100 50 0 23
+0
+
+
+
+#$
