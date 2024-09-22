@@ -1,0 +1,3290 @@
+#AREA
+obsidn.are~
+Obsidian North~
+{5 70} Starhunter Obsidian North~  
+29600 29699
+
+#MOBILES
+#29600
+A Demonic Servant~
+a demonic servant~
+A servant stands here, concealed in the shadows.
+~
+~
+unique~
+AT JTV -1000 0
+80 160 1d1+9000 1d1+999 5d48+100 claw
+-50 -50 -50 -50
+H ABH D N
+stand stand none 4000
+AHMV ABCDEFGHIJK medium unknown
+#29601
+A Demonic Commoner~
+a demonic commoner~
+A commoner stands here, glaring at you with glowing red eyes.
+~
+~
+unique~
+A JT 0 0
+85 170 1d1+10000 1d1+999 5d51+85 none
+-25 -25 -25 -25
+EHI ABH DHM N
+stand stand none 4250
+AHMV ABCDEFGHIJK medium unknown
+#29602
+A Demonic Guard~
+a demonic guard~
+A demon stands here, guarding Harhaken.
+~
+~
+unique~
+AT JT -1000 0
+90 180 1d1+11000 1d1+999 1d270+90 claw
+-27 -27 -27 -27
+H 0 DHM CIN
+stand stand none 4500
+AHMV ABCDEFGHIJK medium unknown
+#29603
+A Nightmare~
+a nightmare~
+A demonic horse stands here, its fiery mane glowing brightly.
+~
+~
+unique~
+AO JV 0 0
+85 170 1d1+8499 1d1+999 5d51+100 none
+-50 -50 -50 -50
+H BH D N
+stand stand none 4250
+AHMV ABCDEFGHIJK medium unknown
+#29604
+Chaos~
+Chaos~
+A demon stands here, sharpening a large battle axe.
+~
+~
+unique~
+ABT JT -1000 0
+130 260 1d1+12999 1d1+999 1d390+130 none
+-39 -39 -39 -39
+H ABCDHLQ DHM CIN
+stand stand none 6500
+AHMV ABCDEFGHIJK medium unknown
+#29605
+Rift~
+Rift~
+A demon stands here, polishing a black breastplate.
+~
+~
+unique~
+ABT JT -1000 0
+130 260 1d1+12999 1d1+999 2d195+130 claw
+-39 -39 -39 -39
+H ABCDHLQ DHM CIN
+stand stand none 6500
+AHMV ABCDEFGHIJK medium unknown
+#29606
+Nemesis~
+Nemesis~
+A demon stands here, cleaning a large tankard.
+~
+~
+unique~
+ABT JT -1000 0
+130 260 1d1+12999 1d1+999 3d130+130 none
+-39 -39 -39 -39
+H ABCDHLQ DHM CIN
+stand stand none 6500
+AHMV ABCDEFGHIJK medium unknown
+#29607
+Sakar~
+Sakar~
+A demon stands here, slicing some meat.
+~
+~
+unique~
+ABT JT 0 0
+130 260 1d1+12999 1d1+999 5d78+130 none
+-39 -39 -39 -39
+H ABCDLQ DHM CIN
+stand stand none 6500
+AHMV ABCDEFGHIJK medium unknown
+#29608
+Hasan~
+Hasan~
+A demon stands here, scribing a scroll.
+~
+~
+unique~
+ABT JT -1000 0
+130 260 1d1+12999 1d1+999 1d390+130 none
+-39 -39 -39 -39
+H ABCDHLQ DHM CIN
+stand stand none 6500
+AHMV ABCDEFGHIJK medium unknown
+#29609
+bael~
+Ba'el~
+A demon stands here, mixing a potion.
+~
+~
+unique~
+ABT JT -1000 0
+130 260 1d1+12999 1d1+999 2d195+130 none
+-39 -39 -39 -39
+H ABCDHLQ DHM CIN
+stand stand none 6500
+AHMV ABCDEFGHIJK medium unknown
+#29610
+Hayir~
+Hayir~
+A demon stands here, checking over a list.
+~
+~
+unique~
+ABGT JT -1000 0
+130 260 1d1+20000 1d1+999 4d97+130 none
+-60 -60 -60 -60
+H H DHM CIN
+stand stand none 6500
+AHMV ABCDEFGHIJK medium unknown
+#29611
+A fire bat~
+a fire bat~
+A bat flies around the room here.
+~
+~
+bat~
+AR JTZ -1000 0
+90 170 1d1+12000 1d1+999 2d127+85 scratch
+-25 -25 -25 -25
+FH B 0 S
+stand stand none 4250
+AGV ACDEFHJKP medium unknown
+#29612
+demon lord~
+A demon lord~
+A demonic lord stands here, surrounded by an aura of power.
+~
+~
+unique~
+ABT HJTV -1000 0
+100 200 1d1+14000 1d1+999 2d150+100 sting
+-60 -60 -60 -60
+H 0 DHM CIN
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#29613
+demon lady~
+A demon lady~
+A demonic lady stands here, surrounded by an aura of power.
+~
+~
+unique~
+ABT HJTV -1000 0
+100 200 1d1+15000 1d1+999 5d60+100 none
+-60 -60 -60 -60
+H 0 DHM CIN
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#29614
+bodyguard~
+a bodyguard~
+A demon stands here, protecting his master.
+~
+~
+unique~
+ABT JT 0 0
+115 230 1d1+17000 1d1+999 1d345+115 none
+-34 -34 -34 -34
+EHIKR 0 DHM CIN
+stand stand none 5750
+AHMV ABCDEFGHIJK medium unknown
+#29615
+demon master~
+The Demon Master~
+The Demon Master stands here, wielding a large sword.
+~
+~
+unique~
+ABFGO DFHJTVc -1000 0
+150 1300 4464d1+5 1d1+999 500d1+200 flbite
+-200 -200 -200 -200
+H BH DHM CIN
+stand stand none 6000
+AHMV ABCDEFGHIJK medium unknown
+#29616
+Hellhound~
+a {rhell{Rhound{x~
+A dog stands here, engulfed in flames.
+~
+~
+unique~
+AO JVa 0 0
+95 190 1d1+10000 1d1+999 4d71+105 bite
+-60 -60 -60 -60
+H B DHM CIN
+stand stand none 4750
+AHMV ABCDEFGHIJK medium unknown
+#29617
+Thane~
+Thane~
+A demon sits here, hidden in the shadows.
+~
+~
+unique~
+ABT JT -1000 0
+170 340 1d1+16999 1d1+999 4d127+170 flbite
+-51 -51 -51 -51
+DEHI ACDHIJKMNPT 0 0
+stand stand none 8500
+AHMV ABCDEFGHIJK medium unknown
+#29618
+Kahn~
+Kahn~
+A demon sits here, hidden in the shadows.
+~
+~
+unique~
+ABT JT 0 0
+170 340 1d1+16999 1d1+999 6d85+170 none
+-51 -51 -51 -51
+H ABCDHIJKNPT 0 0
+stand stand none 8500
+AHMV ABCDEFGHIJK medium unknown
+#29619
+Kayan~
+Kayan~
+A demon sits here, hidden in the shadows.
+~
+~
+unique~
+ABT JT -1000 0
+170 340 1d1+16999 1d1+999 4d127+170 flbite
+-51 -51 -51 -51
+H ABCDHIJKNPT 0 0
+stand stand none 8500
+AHMV ABCDEFGHIJK medium unknown
+#29620
+demonic knight~
+a demonic knight~
+A knight stands here, clad in the demonic platemail of Harhaken.
+~
+~
+unique~
+AIT HJTV -1000 0
+95 190 1d1+15000 1d1+999 1d285+95 flbite
+-28 -28 -28 -28
+CDEHIO AB DHM CIN
+stand stand none 4750
+AHMV ABCDEFGHIJK medium unknown
+#29621
+demonic priest~
+a demonic priest~
+A priest stands here, wearing the black robes of evil.
+~
+~
+unique~
+AIQ HJTV -1000 0
+92 184 1d1+12000 1d1+999 3d92+92 frbite
+-27 -27 -27 -27
+GHIK AB DHM CIN
+stand stand none 4600
+AHMV ABCDEFGHIJK medium unknown
+#29622
+demonic enchanter~
+a demonic enchanter~
+A mage stands here, wielding a half-eaten blade.
+~
+~
+unique~
+AIR HJTV -1000 0
+95 190 1d1+9499 1d1+999 4d71+95 acbite
+-28 -28 -28 -28
+GH AB DHM CIN
+stand stand none 4750
+AHMV ABCDEFGHIJK medium unknown
+#29623
+Schleim~
+Schleim~
+A demon stands here, watching over the portal.
+~
+~
+unique~
+ABGT JT -1000 0
+170 340 1d1+-26608 1d1+999 5d102+700 acbite
+-51 -51 -51 -51
+H 0 DHM CIN
+stand stand none 8500
+AHMV ABCDEFGHIJK medium unknown
+#29624
+royal guard~
+a royal guard~
+A guard stands here, guarding the entrace to his master's chamber.
+~
+~
+unique~
+ABT JT 0 0
+150 450 20000d1+0 20000d1+0 300d1+100 pound
+-100 -100 -100 -100
+H 0 DHM CIN
+stand stand none 7500
+AHMV ABCDEFGHIJK medium unknown
+#29650
+Kharas~
+Kharas~
+A human stands here, waiting.
+~
+~
+human~
+ABT HVac 0 0
+170 2040 1d1+4928 1d1+999 2d1700+1020 grep
+-51 -51 -51 -51
+EIKO BHIJK CD 0
+stand stand none 8500
+V BCEFGHIJK medium unknown
+#29651
+dark goblin~
+a dark goblin~
+An exiled goblin stands here, scavenging for items.
+~
+~
+goblin~
+A J 0 0
+130 260 20000d1+40 1d1+999 230d1+5 punch
+-70 -70 -70 -70
+DEHIK B Q C
+stand stand none 6500
+AHMV ABCDEFGHIJK medium unknown
+#29652
+apophis~
+an apophis~
+A giant snake rests here, watching you.
+~
+~
+snake~
+AT Vc 0 0
+130 260 20000d1+50 1d1+999 200d1+5 suction
+-70 -70 -70 -70
+0 B L I
+stand stand none 6500
+AGXYc ADEFKLQVX medium unknown
+#29653
+cockatrice~
+a cockatrice~
+A giant bird hovers here, looking for its next meal.
+~
+~
+wyvern~
+AT DFTV 0 0
+130 260 25000d1+50 1d1+999 250d1+5 grep
+-80 -80 -80 -80
+CFH BL 0 JS
+stand stand none 6500
+ABGZ ACDEFHJKQVX medium unknown
+#29654
+ursag~
+an ursag~
+A mutated bear stands here.
+~
+~
+bear~
+AT V 0 0
+130 260 25000d1+5 1d1+999 150d3+10 claw
+-90 -90 -90 -90
+DEFO 0 EI 0
+stand stand none 6500
+AGV ABCDEFHJKUV medium unknown
+#29655
+scavenger~
+a scavenger~
+A bizarre creature stands here, scavening for food.
+~
+~
+wolf~
+AT JZ 0 0
+130 260 30000d1+1 1d1+999 100d1+40 slime
+-90 -90 -90 -90
+FH 0 0 0
+stand stand none 6500
+AGV ACDEFJKQV medium unknown
+#29656
+lizard cave~
+a cave lizard~
+A large green lizard stands here.
+~
+~
+lizard~
+ABT V 0 0
+130 1560 30000d1+5 1d1+999 450d1+1 sting
+-70 -70 -70 -70
+EFIK B L I
+stand stand none 6500
+AGXc ACDEFHKQV medium unknown
+#29657
+fire lizard~
+a fire lizard~
+A red lizard stands here, watching you.
+~
+~
+lizard~
+ABR Vc 0 0
+130 260 -30536d1+5 1d1+999 450d1+1 pierce
+-90 -90 -90 -90
+0 BH L I
+stand stand none 6500
+AGXc ACDEFHKQV medium unknown
+#29658
+dark knight~
+a dark knight~
+A knight stands here, dressed in black chainmail.
+~
+~
+human~
+ABR HV 0 0
+130 260 -25536d1+1 1d1+999 200d1+2 slice
+-90 -90 -90 -90
+FK B 0 0
+stand stand none 6500
+V BCEFGHIJK medium unknown
+#29659
+crusader~
+a crusader~
+A knight stands here, dressed in regal armor.
+~
+~
+human~
+ABT HV 0 0
+130 260 30000d1+1 1d1+999 350d1+1 crush
+-90 -90 -90 -90
+FK B 0 0
+stand stand none 6500
+V BCEFGHIJK medium unknown
+#29660
+cuisinart~
+a cuisinart~
+A knight stands here, dressed in a shining breastplate.
+~
+~
+human~
+ABT HV 0 0
+130 260 -25536d1+5 1d1+999 290d1+5 slice
+-95 -95 -95 -95
+0 B C 0
+stand stand none 6500
+V BCDEFGHIJK medium unknown
+#29661
+cave bat~
+a cave bat~
+A bat flies around the room here.
+~
+~
+bat~
+AR JTZ 0 0
+130 260 -30536d1+3 1d1+999 450d1+1 sting
+-90 -90 -90 -90
+FH BT 0 S
+stand stand none 6500
+AGV ACDEFHJKP medium unknown
+#29662
+lizardman~
+a lizardman~
+A tall, lizard-like being stands here, watching you.
+~
+~
+lizard~
+AT V 0 0
+144 450 -30536d1+3 1d1+999 450d1+1 slash
+-100 -100 -100 -100
+0 0 L I
+stand stand none 6500
+AGXc ACDEFHKQV medium unknown
+#29663
+slith warrior~
+a slith warrior~
+A Slith stands here, wielding a large spear.
+~
+~
+lizard~
+ABT V 0 0
+141 500 -15536d1+1 1d1+999 450d1+4 suction
+-100 -100 -100 -100
+0 B L I
+stand stand none 6500
+AGXc ACDEFHKQV medium unknown
+#29664
+slith shaman~
+a slith shaman~
+A slith stands here, chanting words of wisdom.
+~
+~
+lizard~
+ABQ HVc 0 0
+140 500 -20536d1+3 1d1+14999 460d1+5 grep
+-150 -150 -150 -150
+N 0 L I
+stand stand none 6500
+AGXc ACDEFHKQV medium unknown
+#29665
+slith khazi~
+a slith khazi~
+A slith stands here, chanting arcane words.
+~
+~
+lizard~
+ABR 0 0 0
+135 350 -20536d1+1 1d1+999 300d1+1 sting
+-90 -90 -90 -90
+F T L I
+stand stand none 6500
+AGXc ACDEFHKQV medium unknown
+#29666
+emerald slime~
+an {Gemerald slime{x~
+A pile of {Gemerald{x colored slime rests here.
+~
+~
+pig~
+ABO 0 0 0
+139 400 -25536d1+1 1d1+999 4d650+780 slime
+-95 -95 -95 -95
+0 B 0 0
+stand stand none 6500
+AGV ACDEFHJK medium unknown
+#29667
+amber slime~
+an {yamber slime{x~
+A pile of {yamber {xcolored slime rests here.
+~
+~
+pig~
+ABR 0 0 0
+135 300 -25536d1+1 1d1+999 300d3+1 slime
+-90 -90 -90 -90
+0 B 0 0
+stand stand none 6500
+AGV ACDEFHJK medium unknown
+#29668
+slith lord~
+a slith lord~
+A Slithzerekai stands here.
+~
+~
+lizard~
+ABT HV 0 0
+145 500 -30536d1+1 1d1+999 450d1+1 slice
+-100 -100 -100 -100
+CEFHIK B L I
+stand stand none 7250
+AGXc ACDEFHKQV medium unknown
+#29669
+giant lizard~
+a giant fire lizard~
+A giant fire lizard stands here, watching you.
+~
+~
+lizard~
+ABT HV -1000 0
+145 500 30000d1+2 1d1+999 450d3+1 claw
+-100 -100 -100 -100
+CEFHIK BH L I
+stand stand none 7250
+AGXc ACDEFHKQV medium unknown
+M FIGHT 29614 15~
+M FIGHT 29613 15~
+#29670
+giant lizard~
+a giant cave lizard~
+A giant cave lizard stands here, watching you.
+~
+~
+lizard~
+ABT HV 0 0
+145 430 -15536d1+1 1d1+999 300d1+1 sting
+-90 -90 -90 -90
+CEFHIK B L I
+stand stand none 7250
+AGXc ACDEFHKQV medium unknown
+#29671
+alien slime~
+an alien slime~
+A large slime rests here.
+~
+~
+pig~
+ABS HV 0 0
+145 350 -30536d1+1 1d1+999 400d1+1 suction
+-90 -90 -90 -90
+CFHK B HIJK 0
+stand stand none 7250
+AGV ACDEFHJK medium unknown
+#29672
+cuisinart lord~
+a cuisinart lord~
+A cuisinart stands here, watching you.
+~
+~
+human~
+ABT HV 0 0
+145 550 -25536d1+1 1d1+999 450d1+1 crush
+-90 -90 -90 -90
+EFIKO B C K
+stand stand none 7250
+V BCDEFGIJK medium unknown
+#29697
+Sakar~
+Sakar~
+A demon stands here, next to some meat.
+~
+~
+unique~
+AO JT 0 0
+130 400 1d1+25000 1d1+999 5d78+300 claw
+-90 -90 -90 -90
+H 0 DHM CIN
+stand stand none 6500
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#29600
+Death Axe~
+the Axe of Death~
+An axe lies here, radiating an aura of death.~
+Demonsteel~
+weapon AEa AN
+axe 175 1 cleave A
+90 150 45000 P
+A
+14 -500
+A
+12 500
+A
+13 500
+#29601
+Death Flail~
+the Flail of Death~
+A flail lies here, radiating an aura of death.~
+Demonsteel~
+weapon AEa AN
+flail 175 1 thwack B
+90 150 50000 P
+A
+19 20
+A
+18 20
+A
+13 250
+A
+12 -250
+A
+1 3
+#29602
+Death Sword~
+the Sword of Death~
+A long sword lies here, radiating an aura of death.~
+Demonsteel~
+weapon AEa AN
+sword 175 1 slash AD
+90 150 47500 P
+A
+13 300
+A
+12 -150
+A
+1 3
+A
+18 25
+#29603
+Death Mace~
+the Mace of Death~
+A mace lies here, radiating an aura of death.~
+Demonsteel~
+weapon AEa AN
+mace 175 1 pound AH
+90 200 47500 P
+#29604
+Demonsword Illygrith~
+the Illygrith Demonsword~
+A sword lies here, radiating an aura of power and strength.~
+Demonsteel~
+weapon AEJLPa AN
+sword 200 1 slash C
+110 0 60000 P
+A
+18 25
+A
+19 25
+A
+13 250
+A
+12 -100
+#29605
+Demonic Platemail~
+demonic Platemail~
+A suit of platemail lies here, radiating a red aura of death.~
+Demonsteel~
+armor AE AD
+BGHI BGHI BGHI BGHI 0
+90 20 65000 P
+A
+2 -3
+A
+13 500
+A
+12 -250
+A
+1 3
+#29606
+Demonic Wristguard~
+a Demonic Wristguard~
+A bracer lies here, radiating a red aura of death.~
+unknown~
+armor AE AM
+CFG CFG ABDG BEF 0
+90 7 40500 P
+A
+14 -100
+A
+4 3
+A
+3 3
+A
+18 20
+#29607
+Demonic Gauntlets~
+demonic Gauntlets~
+A pair of gauntlets lie here, radiating a red aura of death.~
+Demonsteel~
+armor AEL AH
+DGH ABCDFH BCEH ACDEFG 0
+90 10 50500 P
+A
+12 50
+A
+13 50
+A
+5 3
+A
+2 3
+#29608
+demonic legwear~
+a set of Demonic legwear~
+A set of legwear lies here, radiating a red aura of Death.~
+Demonsteel~
+armor AEL AF
+BDEFGH DGH BDEFGH DGH 0
+90 12 0 P
+A
+13 100
+A
+14 250
+A
+12 -100
+#29609
+Demonic Visor~
+a Demonic Visor~
+A visor lies here, radiating a red aura of death.~
+Demonsteel~
+armor AE AE
+CFG CFG BCEH BCEH 0
+90 9 42000 P
+A
+13 150
+A
+12 -50
+#29610
+Mug of Blood~
+an earthenware mug~
+A mug lies here, filled with a dark red liquid.~
+Crockery~
+drink 0 AO
+10 1 'blood' 0 0
+90 5 150 P
+#29611
+Shot of Whiskey~
+a shot of whiskey~
+A shot glass lies here, filled with a golden liquid.~
+glass~
+drink 0 AO
+120 120 'whisky' 0 0
+0 1 175 P
+#29612
+Glass of Water~
+a glass of water~
+A glass lies here, filled with a clear liquid.~
+glass~
+drink 0 AO
+3 3 'water' 0 0
+90 1 125 P
+#29613
+Leg of Beef~
+a leg of beef~
+A burnt and blackened leg lies here, gathering dust.~
+meat~
+food 0 AO
+0 D 0 0 0
+90 10 200 P
+#29614
+Side of Lamb~
+a side of lamb~
+A chunk of meat lies on a plate here, gathering dust.~
+lamb~
+food 0 AO
+0 ACD 0 0 0
+90 12 225 P
+#29615
+Rack of Ribs~
+a rack of ribs~
+A rack of ribs lies here, gathering dust.~
+beef~
+food 0 AO
+0 ABCD 0 0 0
+90 15 250 P
+#29616
+Blood Demons~
+demons blood~
+A vial of blood lies here.~
+unknown~
+potion Ea AO
+190 'giant strength' 'sanctuary' 'curse' 'reserved'
+90 5 75000 P
+#29617
+Illusion Potion~
+a potion of illusion~
+A translucent potion lies here.~
+unknown~
+potion Ea AO
+150 'sleep' 'invisibility' 'reserved' 'reserved'
+90 3 75000 P
+#29618
+Defense Potion~
+a potion of defense~
+A glass vial lies here, filled with a strange liquid.~
+unknown~
+potion Ea AO
+150 '' 'demonfire' 'shield' 'reserved'
+90 3 75000 P
+#29619
+Scroll ID~
+a scroll of identify~
+A scroll lies here, threatening to fall apart at the slightest breeze.~
+parchment~
+scroll a AO
+150 'identify' 'slow' 'reserved' 'reserved'
+90 0 4000 P
+#29620
+scroll dispel~
+a scroll of dispel~
+A scroll lies here, threatening to fall apart at the slightest breeze.~
+parchment~
+scroll a AO
+150 'dispel evil' 'poison' 'shield' 'reserved'
+90 0 4000 P
+#29621
+scroll dirty~
+a dirty scroll~
+A scroll lies here, threatening to fall apart at the slightest breeze.~
+unknown~
+scroll a AO
+90 'protection evil' 'protection good' 'reserved' 'reserved'
+90 0 40000 P
+#29622
+Scroll Manna~
+a scroll of Manna~
+A scroll lies here, threatening to fall apart at the slightest breeze.~
+unknown~
+scroll 0 AO
+150 'create food' 'create food' 'create food' 'reserved'
+90 0 5500 P
+#29623
+scroll spring~
+a scroll of creation~
+A scroll lies here, threatening to fall apart at the slightest breeze.~
+unknown~
+scroll 0 AO
+150 'create spring' 'reserved' 'reserved' 'reserved'
+90 0 5500 P
+#29624
+Skin Flayer~
+{r-<{WThe Flayer of Skins{r>-{x~
+A blade rests here, the hilt wrapped in a human hide.~
+demonsteel~
+weapon AEF AN
+sword 205 1 slash A
+120 100 0 P
+A
+14 -200
+A
+18 10
+A
+19 35
+#29625
+{RHellfire{x Ring~
+a ring of {RHellfire{x~
+A ring lies here, engulfed in black and red flames.~
+unknown~
+armor AEFLPa AB
+BEF BEF BEF BEF 0
+120 5 3000 P
+A
+1 -5
+A
+5 -3
+A
+3 3
+A
+4 3
+A
+19 35
+#29626
+Soul Tormented~
+{R<{r<{R<{D A Tormented Soul{X {R>{r>{R>{x~
+A soul floats here, trapped for eternity.~
+unknown~
+treasure ABEF AQ
+0 0 0 0 0
+120 0 0 P
+A
+13 750
+A
+12 -375
+A
+14 -375
+#29627
+Skull~
+a rotting skull~
+A skull rests here, looking at you with its empty eye sockets.~
+bone~
+treasure BEFMZa AO
+0 0 0 0 0
+120 5 0 P
+A
+13 750
+A
+12 500
+A
+14 500
+A
+2 -3
+A
+1 -3
+A
+5 -3
+#29628
+Sword Bloody~
+a bloody sword~
+A blade lies here, its blade stained with blood.~
+Demonsteel~
+weapon AEF AN
+sword 200 1 slash EF
+100 100 8500 P
+#29629
+Shield Bloody~
+a bloody shield{x~
+A shield lies here, stained with blood.~
+demonsteel~
+armor AEF AJ
+BCEH BCEH BCEH BCEH 0
+90 15 5000 P
+#29630
+Wristguard Bloody~
+a bloody wristguard~
+A wristguard lies here, stained with blood.~
+demonsteel~
+armor AEF AM
+ABDG ABDG ABDG ABDG 0
+90 7 5000 P
+A
+18 15
+A
+19 15
+#29631
+Leggings Bloody~
+a set of bloody leggings~
+Some leggings lie here, stained with blood.~
+demonsteel~
+armor AEF AF
+CFG BCEH CFG BCEH 0
+90 15 5000 P
+A
+2 3
+#29632
+Flail Noble~
+a noble's flail~
+A flail lies here, radiating an aura of power and death.~
+Demonsteel~
+weapon AEFJL AN
+flail 200 1 whip B
+110 150 6500 P
+#29633
+Longsword Commoner~
+a commoner's longsword~
+A blade lies here.~
+Demonsteel~
+weapon AEF AN
+sword 95 1 slash EG
+77 8 5000 P
+#29634
+Talons Bloody~
+a set of bloody talons~
+A set of talons lies here, the tips stained with blood.~
+bone~
+weapon AEFL AN
+exotic 90 1 claw AH
+100 5 7500 P
+#29635
+Blade Half-Eaten~
+a half-eaten blade~
+A blade lies here, half eaten.~
+demonsteel~
+weapon AEFJK AN
+dagger 185 1 pierce DH
+100 75 7500 P
+#29636
+Power Staff~
+a staff of power~
+A staff rests here, radiating an aura of power.~
+wood~
+weapon 0 AN
+polearm 100 1 pound F
+100 9 7500 P
+A
+1 3
+A
+18 35
+A
+19 15
+A
+14 -150
+#29637
+odd scroll~
+an odd scroll~
+A scroll lies here, threatening to fall apart at the slightest breeze.~
+parchment~
+scroll ATUa AO
+135 '' '' 'change sex' 'reserved'
+120 1 12000 P
+#29638
+Potion Strange~
+a strange potion~
+A vial lies here, filled with a dark liquid.~
+unknown~
+potion a AO
+150 'sanctuary' 'slow' 'blindness' 'weaken'
+120 3 4000 P
+#29639
+Staff Runed~
+a runed staff~
+A staff rests against a wall here, covered with spidery runes.~
+wood~
+staff AE AO
+150 5 5 'demonfire' 0
+120 8 10000 P
+#29650
+Breastplate Cuisinart~
+a cuisinart breastplate~
+A breastplate lies here.~
+iron~
+armor AEF AD
+BDEFGH BDEFGH BDEFGH BDEFGH 0
+100 25 54000 P
+A
+14 -500
+A
+13 500
+A
+12 500
+#29651
+Platemail Regal~
+regal Platemail~
+A suit of platemail lies here.~
+demonsteel~
+armor AB AD
+CDFI CDFI CDFI CDFI 0
+105 25 56000 P
+#29652
+Chainmail Black~
+black Chainmail~
+A suit of black chainmail lies here.~
+chain~
+armor AB AD
+ABEI ABEI ABEI ABEI 0
+100 100 55000 P
+A
+14 -650
+A
+13 650
+A
+12 650
+A
+2 -3
+#29653
+Longsword Cuisinart~
+a Cuisinart Longsword~
+A longsword lies here, glistening in the light.~
+steel~
+weapon EUa AN
+sword 190 1 slash F
+100 10 49000 P
+#29654
+Broadsword Regal~
+a regal longsword~
+A longsword lies here, glistening in the light.~
+steel~
+weapon ETU AN
+sword 195 1 slash 0
+105 10 51000 P
+#29655
+Shortsword Black~
+a black shortsword~
+A black shortsword lies here, radiating a dark aura.~
+steel~
+weapon ABE AN
+sword 195 1 slash 0
+100 20 50000 P
+#29656
+Spear Slithzerekai~
+a slithzerekai spear~
+A spear lies here, gathering dust.~
+unknown~
+weapon I AN
+staff 200 1 stab F
+130 200 45000 P
+A
+1 3
+#29657
+Hide Slithzerekai~
+slithzerekai hide~
+A strange hide rests here.~
+Slith hide~
+armor I AK
+ABEI ABEI ABEI ABEI 0
+130 75 20 P
+#29658
+Breastplate Scaly~
+a scaly breastplate~
+A breastplate made of scales rests here.~
+Scales~
+armor I AD
+CDFI CDFI CDFI CDFI 0
+100 100 50000 P
+A
+5 4
+A
+3 4
+A
+12 750
+#29659
+Plate Knighthood~
+the plate of Knighthood~
+A suit of platemail lies here, gathering dust.~
+iron~
+armor AE AD
+BDEFGH BDEFGH BDEFGH BDEFGH 0
+130 100 50000 P
+A
+13 750
+A
+12 750
+A
+2 -2
+A
+4 -2
+#29660
+Dagger Slithzerekai~
+a slithzerekai dagger~
+A dagger lies here, gathering dust.~
+steel~
+weapon AJK AN
+dagger 100 1 pierce BG
+100 125 50000 P
+A
+18 50
+A
+19 50
+A
+12 -500
+#29661
+Sword Two-Handed~
+a large two-handed sword~
+A large sword lies here, gathering dust.~
+steel~
+weapon BCEJ AN
+sword 130 2 slash BF
+130 150 0 P
+A
+18 -25
+A
+13 150
+#29662
+Claws Bloody~
+a set of bloody claws~
+A set of talons lies herem stained with blood.~
+unknown~
+weapon AE AN
+exotic 140 1 claw F
+130 25 0 P
+#29663
+Cave Lizard Claws~
+a set of cave lizard claws~
+A set of claws lies here, gathering dust.~
+unknown~
+weapon ABE AN
+exotic 190 1 claw F
+100 15 0 P
+A
+14 500
+#29664
+Talons Scorched~
+scorched talons~
+A set of burnt talons lies here.~
+unknown~
+weapon ABE AN
+exotic 130 1 claw 0
+130 20 0 P
+A
+14 -500
+A
+12 500
+#29665
+Fire Lizard Claws~
+the claws of a fire lizard~
+A set of red claws lie on the ground here.~
+unknown~
+weapon ABJK AN
+exotic 190 1 claw AC
+100 15 0 P
+#29666
+Hide Ursag~
+an ursag hide~
+A smooth hide rests here.~
+unknown~
+armor ABJK AD
+BCDEGI BCDEGI BCDEGI BCDEGI 0
+130 35 0 P
+A
+13 500
+A
+12 500
+A
+2 -5
+A
+5 -3
+#29667
+Ursag Rear Claws~
+a set of ursag rear claws~
+A strange set of claws rests here.~
+unknown~
+armor AEJK AG
+DGH DGH DGH DGH 0
+130 15 0 P
+A
+2 -3
+A
+5 -5
+#29668
+Farseeing Scroll~
+a scroll of farsight~
+A scroll rests here, waiting to be picked up.~
+unknown~
+scroll a AO
+175 'farsight' 'reserved' 'reserved' 'reserved'
+130 5 5000 P
+#29669
+Feather Giant~
+a giant feather~
+A feather from a giant cockatrice rests here.~
+unknown~
+treasure AHIMZ AO
+0 0 0 0 0
+130 5 0 P
+A
+13 800
+A
+12 800
+A
+3 -5
+A
+19 -50
+#29670
+Three-Horned Head~
+a three-horned head~
+The severed head of an Apophis lies here.~
+unknown~
+armor AE AE
+BDEFGH CDFI BDEFGH CDFI 0
+130 15 50 P
+A
+5 -6
+A
+18 -20
+A
+4 5
+A
+3 5
+#29671
+Dragontooth Curved~
+a wicked curved dragontooth~
+A tooth lies here, gathering dust.~
+unknown~
+weapon ABKL AN
+exotic 230 1 slice B
+130 50 20 P
+#0
+
+
+
+#ROOMS
+#29696
+A large tunnel~
+You are standing in a large tunnel.  There are human footprints here, and
+they lead west and north.  Sounds of battle can be heard, yet no battle is
+taking place, that you can see.  You may go east or west, both ways lead
+deeper into the tunnel.  
+~
+0 8 0
+D1
+~
+~
+0 0 29697
+D3
+~
+~
+0 0 29695
+S
+#29697
+A large tunnel~
+You are standing in a large tunnel.  There are human footprints here, and
+they lead west and north.  Sounds of battle can be heard, yet no battle is
+taking place, that you can see.  You may go east or west, both ways lead
+deeper into the tunnel.  
+~
+0 8 0
+D1
+~
+~
+0 0 29698
+D3
+~
+~
+0 0 29696
+S
+#29698
+A large tunnel~
+You are standing in a large tunnel.  There are human footprints here, and
+they lead west and north.  Sounds of battle can be heard, yet no battle is
+taking place, that you can see.  You may go north, into a large cavern, or
+west, back down the tunnel.  
+~
+0 8 0
+D0
+~
+~
+0 0 29699
+D3
+~
+~
+0 0 29697
+S
+#29699
+The Cuisinart Meeting Chamber~
+You are standing in a large cavern.  Along the walls are placed weapons
+of all sorts, amid pieces of armor.  There are several different human
+footprints, suggesting this is a meeting room for the humans residing in
+these tunnels.  Corpses and bones pile up on the ground, almost blocking the
+southern exit.  To the south lies your only exit, and possibly safety.  
+~
+0 8 0
+D2
+~
+~
+0 0 29698
+S
+#29600
+The road leading to Harhaken~
+You are standing on the paved road leading to Harhaken.  All around you
+is nothing, nothing but a bleak wasteland.  To the north lies the wasteland,
+as if you just appeared here.  The road continues to the south.  Far to the
+south, a large city can be seen, or at least what is left of it.  
+~
+0 0 0
+D2
+~
+~
+0 0 29601
+D4
+~
+~
+0 0 410
+S
+#29601
+The road leading to Harhaken~
+You are standing on the paved road leading to Harhaken.  All around you is
+nothing, nothing but a bleak wasteland.  To the north and south lies the
+paved road on which you can travel.  Far to the south lies a city, at least
+what is left of it.  
+~
+0 0 0
+D0
+~
+~
+0 0 29600
+D2
+~
+~
+0 0 29602
+S
+#29602
+The road leading to Harhaken~
+You are standing on the paved road leading to Harhaken.  All around you
+is nothing, nothing but a bleak wasteland.  To the north and south lies the
+paved road on which you can travel.  Far to the south lies a city, at least
+what is left of it.  
+~
+0 0 0
+D0
+~
+~
+0 0 29601
+D2
+~
+~
+0 0 29603
+S
+#29603
+The gates of Harhaken~
+{DYou are standing before the gates of Harhaken, a once large city.  Now,
+the city is in ruins, and demons inhabit it.  If you choose to, you may
+follow the road north, to where you came.  Or, if you dare, you may try to
+enter the evil city of Harhaken to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 29602
+D2
+~
+~
+0 0 29604
+S
+#29604
+Main Street~
+{DYou are standing on the Main Street in Harhaken.  All around you, demons
+walk around, glaring at you, hatred showing in their glowing eyes.  To the
+east lies another street, leading to the Bazaar.  To the south, Main Street
+continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 29603
+D1
+~
+~
+0 0 29605
+D2
+~
+~
+0 0 29615
+S
+#29605
+A side street~
+{DYou are standing on a side street.  Though less traveled, demons still
+walk this road, often coming back holding new items.  To the west lies Main
+Street, while the side street continues to the east.  Far to the east, what
+resembles a market can be seen.  
+~
+0 0 0
+D1
+~
+~
+0 0 29606
+D3
+~
+~
+0 0 29604
+S
+#29606
+A side street~
+{DYou are standing on a side street.  Though less travelled, demons still
+walk on it, often comeing back from the east holding new items.  The side
+street continues both east and west, and to the west, Main Street can be
+seen.  Far to the east, a market can be seen.  
+~
+0 0 0
+D1
+~
+~
+0 0 29607
+D3
+~
+~
+0 0 29605
+S
+#29607
+A side street~
+{D You are standing on a side street in Harhaken.  Though less travelled,
+demons can still be seen walking upon it, ones coming from the east often
+holding new items.  The side street continues to the east and west, and a
+market can be seen to the east.  To the west lies the Main Street.  
+~
+0 0 0
+D1
+~
+~
+0 0 29608
+D3
+~
+~
+0 0 29606
+S
+#29608
+A side street~
+{D You are standing near the Bazaar of Harhaken. To the west lies the street that branches off onto Main Street. To the east lies the bazaar, where you can buy new things for yourself and others.
+~
+0 0 0
+D1
+~
+~
+1 0 29609
+D3
+~
+~
+0 0 29607
+S
+#29609
+Harhaken Bazaar~
+{D You are standing in the Harhaken Bazaar. Here, you can buy drinks. To the north and south lie seperate stores. The smell of components can be smelled to the north, and the sounds of a smithy can be heard to the south.
+~
+0 0 0
+D0
+~
+~
+0 0 29610
+D2
+~
+~
+0 0 29614
+D3
+~
+~
+1 0 29608
+S
+#29610
+Harhaken Bazaar~
+{D You are standing in the Harhaken Bazaar.  Here, you can buy various
+scrolls.  To the east and south are various stores.  To the east, various
+papers can be seen, and sounds of laughter can be heard to the south.  
+~
+0 0 0
+D1
+~
+~
+0 0 29611
+D2
+~
+~
+0 0 29609
+S
+#29611
+Harhaken Bazaar~
+{D You are standing in the Harhaken Bazaar.  Here, you can buy various
+potions.  To the west and south are various stores.  To the west, various
+components can be smelled, and foods can be seen to the south.  
+~
+0 0 0
+D2
+~
+~
+0 0 29612
+D3
+~
+~
+0 0 29610
+S
+#29612
+Harhaken Bazaar~
+{D You are standing in the Harhaken Bazaar. Here, you can buy various foods. To the north and south lie seperate stores. To the south, sounds of a smithy can be heard, while to the north, scrolls can be seen.
+~
+0 0 0
+D0
+~
+~
+0 0 29611
+D2
+~
+~
+0 0 29613
+S
+#29613
+Harhaken Bazaar~
+{D You are standing in the Harhaken Bazaar. Here, you can buy armour. To the north and west lie seperate stores. The smell of food can be smelled to the north, and the sounds of a smithy can be heard to the west.
+~
+0 0 0
+D0
+~
+~
+0 0 29612
+D3
+~
+~
+0 0 29614
+S
+#29614
+Harhaken Bazaar~
+{D You are standing in the Harhaken Bazaar. Here, you can buy weapons. To the north and east lie seperate stores. The smell of drinks can be smelled to the north, and the sounds of a smithy can be heard to the east.
+~
+0 0 0
+D0
+~
+~
+0 0 29609
+D1
+~
+~
+0 0 29613
+S
+#29615
+Main Street~
+{D You are standing on the Main Street in Harhaken.  All around you,
+demons walk the streets, glaring at you, hatred showing in their glowing red
+eyes.  To the west, another street branches off, leading to places unknown. 
+Main Street continues to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 29604
+D2
+~
+~
+0 0 29621
+D3
+~
+~
+0 0 29616
+S
+#29616
+A side street~
+{D You are standing on a side street. Directly to the east lies the Main Street. Though this road is less travelled, demons still walk upon it. The street continues to the west.
+~
+0 0 0
+D1
+~
+~
+0 0 29615
+D3
+~
+~
+0 0 29617
+S
+#29617
+A side street~
+{D You are standing on a side street. Nearby to the east lies the Main Street. Though this road is less travelled, demons still walk upon it. The street continues to the east and west.
+~
+0 0 0
+D1
+~
+~
+0 0 29616
+D3
+~
+~
+0 0 29618
+S
+#29618
+A side street~
+{D You are standing on a side street. Far to the east lies the Main Street. Though this road is less travelled, demons still walk upon it. The street continues to the east and north.
+~
+0 0 0
+D0
+~
+~
+0 0 29619
+D1
+~
+~
+0 0 29617
+S
+#29619
+A side street~
+{D You are standing on a side street. Far to the east lies the Main Street. Though this road is less travelled, demons still walk upon it. The street continues to the east and south.
+~
+0 0 0
+D1
+~
+~
+0 0 29620
+D2
+~
+~
+0 0 29618
+S
+#29620
+The Portal to Harkanian Woods~
+{D You are standing on a side street. In the center of the room lies a portal. Far to the east lies the Main Street. Though this road is less travelled, demons still walk upon it. The street continues to the west.
+~
+0 0 0
+D3
+~
+~
+0 0 29619
+S
+#29621
+Main Street~
+{D You are standing on the Main Street of Harhaken. All around you, demons walk the street, glaring at you, hatred showing in their glowing red eyes. Main Street continues to the north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 29615
+D2
+~
+~
+0 0 29622
+S
+#29622
+Main Street~
+{D You are standing on the Main Street of Harhaken. All around you, demons walk the street, glaring at you, hatred showing in their glowing red eyes. Main Street continues to the north and south. Another street branches off to the east.
+~
+0 0 0
+D0
+~
+~
+0 0 29621
+D1
+~
+~
+0 0 29623
+D2
+~
+~
+0 0 29629
+S
+#29623
+Sangar Street~
+{D You are standing on Sangar Street.  All around you, demons roam the
+streets, but they seem to not notice you.  Sangar Street continues to the
+east, and a vague red light can be seen.  Directly to the west, Main Street
+can be seen.  
+~
+0 0 0
+D1
+~
+~
+0 0 29624
+D3
+~
+~
+0 0 29622
+S
+#29624
+Sangar Street~
+{D You are standing on Sangar Street.  All around you, demons roam the
+streets, but they seem to not notice you.  Sangar Street continues to the
+east, and a vague red light can be seen.  Nearby to the west, Main Street
+can be seen.  
+~
+0 0 0
+D1
+~
+~
+0 0 29625
+D3
+~
+~
+0 0 29623
+S
+#29625
+Sangar Street~
+{D You are standing on Sangar Street.  All around you, demons roam the
+streets, but they seem to not notice you.  Sangar Street continues to the
+west.  To the north, south, and east, the light gets stronger.  Far to the
+west, Main Street can be seen.  
+~
+0 0 0
+D0
+~
+~
+1 0 29626
+D1
+~
+~
+1 0 29627
+D2
+~
+~
+1 0 29628
+D3
+~
+~
+0 0 29624
+S
+#29626
+A hidden alcove~
+{D You are standing in a hidden alcove.  There is nothing here, nothing
+but shadows.  But in the shadows, sets of glowing red eyes can be seen,
+staring at you, and an occasional growl can be heard.  There is no visible
+exit.  Only luck will get you out, unless you search.  
+~
+0 0 0
+D2
+~
+~
+1 0 29625
+S
+#29627
+A side street~
+{D Here the side street ends.  Though this read seems less travelled, an
+occasional demon or hellhound can be seen walking the street.  For some
+reason, this part of the city is darker, and a red glow can be sean to the
+east, though it cannot be reached.  
+~
+0 0 0
+D3
+~
+~
+1 0 29625
+S
+#29628
+A hidden alcove~
+{D You are standing in a hidden alcove.  There is nothing here, nothing
+but shadows.  But in the shadows, sets of glowing red eyes can be seen,
+staring at you, and an occasional growl can be heard.  There is no visible
+exit.  Only luck will get you out, unless you search.  
+~
+0 0 0
+D0
+~
+~
+1 0 29625
+S
+#29629
+Main Street~
+{D You are standing on the Main Street of Harhaken.  All around you,
+demons roam the streets, glaring at you, hatred showing in their glowing red
+eyes.  Esper Street branches off to the west, leading to parts unknown.  To
+the south lies a large building.  Main Street continues to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 29622
+D2
+~
+~
+0 0 29637
+D3
+~
+~
+0 0 29630
+S
+#29630
+Esper Street~
+{D You are standing on Esper Street. This road seems heavily traveled, and several demons can be seen walking upon it. Directly to the east lies Main Street, and Esper Street continues to the west.
+~
+0 0 0
+D1
+~
+~
+0 0 29629
+D3
+~
+~
+0 0 29631
+S
+#29631
+Esper Street~
+{D You are standing on Esper Street. This road seems heavily traveled, and several demons can be seen walking upon it. Nearby to the east lies Main Street, and Esper Street continues to the west.
+~
+0 0 0
+D1
+~
+~
+0 0 29630
+D3
+~
+~
+0 0 29632
+S
+#29632
+Esper Street~
+{D You are standing on Esper Street. This road seems heavily traveled, and several demons can be seen walking upon it. Far to the east lies Main Street, and Esper Street continues to the north and west.
+~
+0 0 0
+D0
+~
+~
+0 0 29633
+D1
+~
+~
+0 0 29631
+S
+#29633
+Esper Street~
+{D You are standing on Esper Street. This road seems heavily traveled, and several demons can be seen walking upon it. Far to the east lies Main Street, and Esper Street continues to the south and west.
+~
+0 0 0
+D2
+~
+~
+0 0 29632
+D3
+~
+~
+0 0 29634
+S
+#29634
+Esper Street~
+{D You are standing on Esper Street.  This road seems heavily traveled,
+and several demons can be seen walking upon it.  Far to the east lies Main
+Street, and Esper Street continues to the south and east.  Sounds of
+growling and cursing can be heard to the south.  
+~
+0 0 0
+D1
+~
+~
+0 0 29633
+D2
+~
+~
+0 0 29635
+S
+#29635
+Harhaken Slave Dealer~
+{D You are standing in the Harhaken Slave Shop.  Demons are seated along
+the far wall, waiting.  Sounds of growling and cursing can be heard all
+around you.  Esper Street lies to the north, as does your only exit.  
+~
+0 4104 0
+D0
+~
+~
+0 0 29634
+S
+#29636
+~
+~
+0 4 0
+S
+#29637
+A Dark Maze~
+{D You are in a dark maze. Find the exit if you can.
+~
+0 12 0
+D0
+~
+~
+0 0 29629
+D1
+~
+~
+0 0 29638
+D2
+~
+~
+0 0 29637
+D3
+~
+~
+0 0 29637
+S
+#29638
+A Dark Maze~
+{D You are in a dark maze. Find the exit if you can.
+~
+0 4 0
+D0
+~
+~
+0 0 29637
+D1
+~
+~
+0 0 29637
+D2
+~
+~
+0 0 29639
+D3
+~
+~
+0 0 29637
+S
+#29639
+A Dark Maze~
+{D You are in a dark maze. Find the exit if you can.
+~
+0 12 0
+D0
+~
+~
+0 0 29638
+D1
+~
+~
+0 0 29637
+D2
+~
+~
+0 0 29640
+D3
+~
+~
+0 0 29637
+S
+#29640
+A Dark Maze~
+{D You are in a dark maze. Find the exit if you can.
+~
+0 12 0
+D0
+~
+~
+0 0 29639
+D1
+~
+~
+0 0 29637
+D2
+~
+~
+0 0 29637
+D3
+~
+~
+0 0 29641
+S
+#29641
+A Dark Maze~
+{D You are in a dark maze. Find the exit if you can.
+~
+0 4 0
+D0
+~
+~
+0 0 29642
+D1
+~
+~
+0 0 29640
+D2
+~
+~
+0 0 29637
+D3
+~
+~
+0 0 29637
+S
+#29642
+A Dark Maze~
+{D You are in a dark maze. Find the exit if you can.
+~
+0 4 0
+D0
+~
+~
+0 0 29637
+D1
+~
+~
+0 0 29637
+D2
+~
+~
+0 0 29641
+D3
+~
+~
+0 0 29643
+S
+#29643
+The Palace Gates~
+{D You are standing at the gates of a magnificant palace.  This road
+seems hardly travelled, but demons still walk upon this cursed ground.  The
+entrance to the Palace lies west, and the maze you just made it through lies
+west.  
+~
+0 0 0
+D1
+~
+~
+0 0 29642
+D3
+~
+~
+0 0 29644
+S
+#29644
+A Hallway~
+{D You are standing in a hallway.  Along the walls are placed various
+items, heads, weapons, pieces of armor, all suited to fit the demons
+residing here.  The gates lie to the east, while the hallway continues west.
+~
+0 8 0
+D0
+~
+~
+0 0 29645
+D1
+~
+~
+0 0 29643
+D2
+~
+~
+0 0 29647
+D3
+~
+~
+0 0 29649
+S
+#29645
+A Hallway~
+{D You are standing in a hallway.  Along the walls are placed various
+items, heads, weapons, pieces of armor, all suited to fit the demons
+residing here.  The hallway continues to the west and south, leading to
+various rooms of the Palace.  
+~
+0 8 0
+D2
+~
+~
+0 0 29644
+D3
+~
+~
+0 0 29646
+S
+#29646
+The Lady's Chamber~
+{D You are standing in a noble's bedchamber.  The walls are lavishly
+decorated with various things, perfumed sheets, fur capes, all suited to fit
+her tastes.  The only exit lies back to the east, back into the hallway.  
+~
+0 8 0
+D1
+~
+~
+0 0 29645
+S
+#29647
+A Hallway~
+{D You are standing in a hallway.  Along the walls are placed various
+items, heads, weapons, pieces of armor, all suited to fit the demons
+residing here.  The hallway continues west and north, leading to various
+rooms of the Palace.  
+~
+0 8 0
+D0
+~
+~
+0 0 29644
+D3
+~
+~
+0 0 29648
+S
+#29648
+The Lord's Chamber~
+{D You are standing in a noble's bedchamber.  The walls are lavishly
+decorated with various things, armor, weapons, capes, all suited to his
+tastes.  The only exit lies to the east, back into the hallway.  
+~
+0 8 0
+D1
+~
+~
+0 0 29647
+S
+#29649
+Before the Master's Chamber~
+{D You are standing in the hallway before the Demon Master's bedchamber. 
+This part of the hallway is even more lavishly decorated than the rest. 
+Armor, weapons, heads, even less pleasant parts are placed upon the walls,
+to suit the Demon Master's tastes.  The hallway lies back east, and to the
+west lies the Master's bedchamber.  
+~
+0 8 0
+D1
+~
+~
+0 0 29644
+D3
+~
+~
+0 0 29650
+S
+#29650
+The Master's Bedchamber~
+{D You are standing in the bedchamber of the Demon Master.  This room is
+even more lavishly decorated than the hallways, with maps, heads, armor,
+capes, and other various items.  There are two large windows on the far
+wall.  The only exit lies to the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 29649
+S
+#29651
+A dusty tunnel~
+You are standing in a large valley.  The ground is quite disty, and you
+can see a few tracks.  To the south lies a large stone wall, and what looks
+like a tunnel.  All around you is silence.  Not a sound can be heard, except
+your breathing.  
+~
+0 4 0
+D2
+~
+~
+0 0 29652
+S
+#29652
+A dusty tunnel~
+You are standing in a large valley.  The ground is quite disty, and you
+can see a few tracks.  To the south lies a large stone wall, and what looks
+like a tunnel.  All around you is silence.  Not a sound can be heard, except
+your breathing.  
+~
+0 0 0
+D0
+~
+~
+0 0 29651
+D2
+~
+~
+0 0 29653
+S
+#29653
+A Maze of tunnels~
+Tunnels lead in every direction. Can you find your way out?
+~
+0 8196 0
+D0
+~
+~
+0 0 29653
+D1
+~
+~
+0 0 29654
+D2
+~
+~
+0 0 29653
+D3
+~
+~
+0 0 29653
+S
+#29654
+A Maze of tunnels~
+Tunnels lead in every direction. Can you find your way out?
+~
+0 8204 0
+D0
+~
+~
+0 0 29653
+D1
+~
+~
+0 0 29653
+D2
+~
+~
+0 0 29655
+D3
+~
+~
+0 0 29653
+S
+#29655
+A Maze of tunnels~
+Tunnels lead in every direction. Can you find your way out?
+~
+0 8204 0
+D0
+~
+~
+0 0 29654
+D1
+~
+~
+0 0 29653
+D2
+~
+~
+0 0 29653
+D3
+~
+~
+0 0 29656
+S
+#29656
+A Maze of tunnels~
+Tunnels lead in every direction. Can you find your way out?
+~
+0 8204 0
+D0
+~
+~
+0 0 29653
+D1
+~
+~
+0 0 29655
+D2
+~
+~
+0 0 29653
+D3
+~
+~
+0 0 29657
+S
+#29657
+A Maze of tunnels~
+Tunnels lead in every direction. Can you find your way out?
+~
+0 8204 0
+D0
+~
+~
+0 0 29653
+D1
+~
+~
+0 0 29656
+D2
+~
+~
+0 0 29658
+D3
+~
+~
+0 0 29653
+S
+#29658
+A Maze of tunnels~
+Tunnels lead in every direction. Can you find your way out?
+~
+0 8204 0
+D0
+~
+~
+0 0 29657
+D1
+~
+~
+0 0 29659
+D2
+~
+~
+0 0 29653
+D3
+~
+~
+0 0 29653
+S
+#29659
+A Maze of tunnels~
+Tunnels lead in every direction. Can you find your way out?
+~
+0 8204 0
+D0
+~
+~
+0 0 29653
+D1
+~
+~
+0 0 29660
+D2
+~
+~
+0 0 29653
+D3
+~
+~
+0 0 29658
+S
+#29660
+A Maze of tunnels~
+Tunnels lead in every direction. Can you find your way out?
+~
+0 8204 0
+D0
+~
+~
+0 0 29653
+D1
+~
+~
+0 0 29653
+D2
+~
+~
+0 0 29661
+D3
+~
+~
+0 0 29659
+S
+#29661
+A dusty tunnel~
+You are standing in a very large, dusty tunnel.  There are several types
+of tracks in the sand, but that is the only visible sign of life.  To the
+east, a tunnel branches off, and the air seems to get warmer as you go east.
+The main tunnel continues to the south.  
+~
+0 8 0
+D0
+~
+~
+0 0 29660
+D1
+~
+~
+0 0 29662
+D2
+~
+~
+0 0 29666
+S
+#29662
+A hot tunnel~
+You are standing in a long tunnel.  The air here is warm, and it gets
+hotter as you go east.  There is a distinct smell of sulfur in the air, as
+well as several scorch marks on the walls.  The tunnel continues east and
+west.  To the west, the main tunnel can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 29663
+D3
+~
+~
+0 0 29661
+S
+#29663
+A hot tunnel~
+You are standing in a long tunnel.  The air here is somewhat warm, and it
+gets hotter as you go east.  There is a distinct smell of sulfur in the
+air, as well as several scorch marks on the walls.  The tunnel continues
+east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 29664
+D3
+~
+~
+0 0 29662
+S
+#29664
+A hot tunnel~
+You are standing in a long tunnel.  The air here is very warm, and it
+gets hotter as you go north.  There is a distinct smell of sulfur in the
+air, as well as several scorch marks on the walls.  The tunnel continues
+west and north.  
+~
+0 8 0
+D0
+~
+~
+0 0 29665
+D3
+~
+~
+0 0 29663
+S
+#29665
+The Fire Lizard's lair~
+You are standing in the lair of the giant fire lizard.  All around you,
+bones and corpses are piled up, nearly blocking the southern exit.  The air
+is extremely hot here, and it sears your lungs when you breathe.  There is a
+distinct smell of sulfur, as well as several large scorch marks on the walls.
+~
+0 8 0
+D2
+~
+~
+0 0 29664
+S
+#29666
+A dusty tunnel~
+You are standing in a very large, very dusty tunnel.  There are seveal
+types of the ground, many of which are clawed feet.  Aside from the tracks,
+there are no visible signs of life.  To the west, another tunnel branches
+off, and the number of tracks increase the farther west the tunnel extends. 
+~
+0 8 0
+D0
+~
+~
+0 0 29661
+D2
+~
+~
+0 0 29671
+D3
+~
+~
+0 0 29667
+S
+#29667
+A side tunnel~
+You are standing in a wide tunnel.  There are several hundred tracks on
+the ground here, and they lead both east and west.  The tunnel leads west. 
+To the east, the main tunnel can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 29666
+D3
+~
+~
+0 0 29668
+S
+#29668
+A side tunnel~
+You are standing in a wide tunnel.  There are several hundred tracks on
+the ground here, and they lead both east and west.  The tunnel leads west. 
+To the east, the main tunnel can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 29667
+D3
+~
+~
+0 0 29669
+S
+#29669
+A side tunnel~
+You are standing in a wide tunnel.  There are several hundred tracks on
+the ground here, and they lead both east and south.  The tunnel leads south,
+into a large chamber.  To the east, the main tunnel can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 29668
+D2
+~
+~
+0 0 29670
+S
+#29670
+The Cave Lizard's lair~
+You are standing in a large, open cave.  The walls are covered with
+countless scratches, many very deep.  All around you, corpses and bone pile
+up, and nearly block the northern exit.  The only exit lies to the north,
+and you can only imagine what resides in this cave.  
+~
+0 8 0
+D0
+~
+~
+0 0 29669
+S
+#29671
+A dusty tunnel~
+You are standing in a very large, very wide tunnel.  There are several
+types of tracks on the ground, many of which are clawed feet.  Other than
+the tracks, there are no visible signs of life.  The tunnel continues to the
+north and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 29666
+D2
+~
+~
+0 0 29672
+S
+#29672
+A dusty tunnel~
+You are standing in a very large, very wide tunnel.  There are several
+types of tracks on the ground, many of which are clawed feet.  Other than
+the tracks, there are no visible signs of life.  The tunnel continues to the
+north and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 29671
+D2
+~
+~
+0 0 29673
+S
+#29673
+A dusty tunnel~
+You are standing in a very large, very wide tunnel.  There are several
+types of tracks on the ground, many of which are clawed feet.  Other than
+the tracks, there are no visible signs of life.  The tunnel continues to the
+north, east, and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 29672
+D1
+~
+~
+0 0 29678
+D3
+~
+~
+0 0 29674
+S
+#29674
+A dusty tunnel~
+You are standing in a very large, very wide tunnel.  There are several
+types of tracks on the ground, many of which are clawed feet.  Other than
+the tracks, there are no visible signs of life.  The tunnel continues to the
+south and east 
+~
+0 8 0
+D1
+~
+~
+0 0 29673
+D2
+~
+~
+0 0 29675
+S
+#29675
+A dusty tunnel~
+You are standing in a very large, very wide tunnel.  There are several
+types of tracks on the ground, many of which are clawed feet.  Other than
+the tracks, there are no visible signs of life.  The tunnel continues to the
+north and east.  
+~
+0 8 0
+D0
+~
+~
+0 0 29674
+D1
+~
+~
+0 0 29676
+S
+#29676
+A dusty tunnel~
+You are standing in a very large, very wide tunnel.  There are several
+types of tracks on the ground, many of which are clawed feet.  Other than
+the tracks, there are no visible signs of life.  The tunnel continues to the
+east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 29679
+D2
+~
+~
+0 0 29677
+D3
+~
+~
+0 0 29675
+S
+#29677
+A hidden tunnel~
+You are standing in a hidden tunnel, apparently hidden by the large
+stone.  There are few tracks here, but they consist of some kind of slime,
+and more clawed feet.  The tunnel continues to the east and west.  The
+further you go in either direction, the tracks' number get greater.  
+~
+0 8 0
+D0
+~
+stone~
+0 0 29676
+D1
+~
+~
+0 0 29684
+D2
+~
+~
+0 0 29688
+D3
+~
+~
+0 0 29680
+S
+#29678
+A dusty tunnel~
+You are standing in a very large, very wide tunnel.  There are several
+types of tracks on the ground, many of which are clawed feet.  Other than
+the tracks, there are no visible signs of life.  The tunnel continues to the
+south and west.  
+~
+0 8 0
+D2
+~
+~
+0 0 29679
+D3
+~
+~
+0 0 29673
+S
+#29679
+A dusty tunnel~
+You are standing in a very large, very wide tunnel.  There are several
+types of tracks on the ground, many of which are clawed feet.  Other than
+the tracks, there are no visible signs of life.  The tunnel continues to the
+north and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 29678
+D3
+~
+~
+0 0 29676
+S
+#29680
+A hidden tunnel~
+You are standing in a hidden tunnel.  There are no prints here, instead
+there are small piles of slime, as though slugs had been through here. 
+There is a foul odor in the air, and it gets greater the further west you
+go.  The tunnel continues east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 29677
+D3
+~
+~
+0 0 29681
+S
+#29681
+A hidden tunnel~
+You are standing in a hidden tunnel.  There are no prints here, instead
+there are small piles of slime, as though slugs had been through here. 
+There is a foul odor in the air, and it gets greater the further west you
+go.  The tunnel continues east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 29680
+D3
+~
+~
+0 0 29682
+S
+#29682
+A hidden tunnel~
+You are standing in a hidden tunnel.  There are no prints here, instead
+there are small piles of slime, as though slugs had been through here. 
+There is a foul odor in the air, and it gets stronger to the north.  You may
+either go north, or back east.  
+~
+0 8 0
+D0
+~
+~
+0 0 29683
+D1
+~
+~
+0 0 29681
+S
+#29683
+A wide cavern~
+You are standing in a large, open cavern.  All around you, there are
+large piles of ooze, and a mist hangs in the air.  Slimes are constantly
+forming, and you realize this is where the slimes are formed.  There are
+items everywhere, most rotted away from the slime.  Your only exit lies
+south.  
+~
+0 8 0
+D2
+~
+~
+0 0 29682
+S
+#29684
+A hidden tunnel~
+You are standing in a large, hidden tunnel.  There are tracks on the
+ground, most of which are clawed feet.  The further east you go, the more
+the tracks increase.  Occasionaly, a tall, lizardlike being can be seen. 
+The tunnel continues east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 29685
+D3
+~
+~
+0 0 29677
+S
+#29685
+A hidden tunnel~
+You are standing in a large, dusty tunnel.  There is one type of tracks
+on the ground, clawed feet.  The further east you go, the more the tracks
+increase.  Occasionally, a lizardlike being can be seen.  The tunnel
+continues to the east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 29686
+D3
+~
+~
+0 0 29684
+S
+#29686
+A hidden tunnel~
+You are standing in a large, dusty tunnel.  There is one type of tracks
+on the ground, clawed feet.  The further east you go, the more the tracks
+increase.  Occasionally, a lizardlike being can be seen.  The tunnel
+continues to the west and north.  
+~
+0 8 0
+D0
+~
+~
+0 0 29687
+D3
+~
+~
+0 0 29685
+S
+#29687
+The Slithzerekai Meeting Chamber~
+You are standing in a large cavern filled with weapons and armor.  There
+are several hundred clawed tracks here, suggesting this could be a meeting
+place for these lizard people.  Corpses and bones pile up on the ground, and
+they nearly block the southern exit.  Strangely, sounds of battle can be
+heard, though you can see none taking place.  
+~
+0 8 0
+D2
+~
+~
+0 0 29686
+S
+#29688
+A hidden tunnel~
+You are standing in a hidden tunnel.  There is no visible exit, and you
+can only wonder how you got here.  The tunnel's only exit lies south, and to
+the south, sounds of battle can be heard.  
+~
+0 0 0
+D0
+~
+~
+0 0 29677
+D2
+~
+~
+0 0 29689
+S
+#29689
+A hidden tunnel~
+You are standing in a large tunnel.  To the east and west lie silence. 
+There are human footprints on the sand here, and you wonder what could
+possibly live down here.  The tunnel continues east and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 29688
+D1
+~
+~
+0 0 29690
+D3
+~
+~
+0 0 29694
+S
+#29690
+A hidden tunnel~
+You are standing in a large tunnel.  To the east and south lie silence. 
+There are human footprints on the sand here, and you wonder what could
+possibly live down here.  The tunnel continues east and south.  
+~
+0 8 0
+D2
+~
+~
+0 0 29691
+D3
+~
+~
+0 0 29689
+S
+#29691
+A hidden tunnel~
+You are standing in a large tunnel.  To the west and north lie silence. 
+There are human footprints on the sand here, and you wonder what could
+possibly live down here.  The tunnel continues west and north.  
+~
+0 8 0
+D0
+~
+~
+0 0 29690
+D3
+~
+~
+0 0 29692
+S
+#29692
+A hidden tunnel~
+You are standing in a large tunnel.  To the east and west lie silence. 
+There are human footprints on the sand here, and you wonder what could
+possibly live down here.  The tunnel continues east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 29691
+D2
+~
+~
+0 0 29695
+D3
+~
+~
+0 0 29693
+S
+#29693
+A hidden tunnel~
+You are standing in a large tunnel.  To the east and north lie silence. 
+There are human footprints on the sand here, and you wonder what could
+possibly live down here.  The tunnel continues east and north.  
+~
+0 8 0
+D0
+~
+~
+0 0 29694
+D1
+~
+~
+0 0 29692
+S
+#29694
+A hidden tunnel~
+You are standing in a large tunnel.  To the east and south lie silence. 
+There are human footprints on the sand here, and you wonder what could
+possibly live down here.  The tunnel continues east and south.  
+~
+0 8 0
+D1
+~
+~
+0 0 29689
+D2
+~
+~
+0 0 29693
+S
+#29695
+A large tunnel~
+You are standing in a large tunnel.  There are human footprints here, and
+they lead west and north.  Sounds of battle can be heard, yet no battle is
+taking place, that you can see.  You may go west, deeper into the tunnel.  
+~
+0 8 0
+D0
+~
+~
+0 0 29692
+D1
+~
+~
+0 0 29696
+S
+#0
+
+
+
+#SPECIALS
+M 29603 spec_cast_undead
+M 29611 spec_cast_mage
+M 29615 spec_cast_undead
+M 29616 spec_cast_undead
+M 29621 spec_cast_cleric
+M 29622 spec_cast_mage
+M 29657 spec_breath_fire
+M 29658 spec_cast_mage
+M 29661 spec_cast_mage
+M 29664 spec_cast_cleric
+M 29665 spec_cast_mage
+M 29666 spec_cast_undead
+M 29667 spec_cast_mage
+M 29671 spec_thief
+S
+
+
+
+#RESETS
+D 0 29608 1 1
+D 0 29609 3 1
+D 0 29625 0 1
+D 0 29625 1 1
+D 0 29625 2 1
+D 0 29626 2 1
+D 0 29627 3 1
+D 0 29628 0 1
+M 0 29658 1 29696 1 Load a dark knight
+E 0 29652 0 5 Black chainmail is loaded on the body of a dark knight
+E 0 29655 0 16 A black shortsword is loaded wielded of a dark knight
+M 0 29659 1 29697 1 Load a crusader
+E 0 29654 0 16 A regal longsword is loaded wielded of a crusader
+E 0 29651 0 5 Regal platemail is loaded on the body of a crusader
+M 0 29652 8 29697 1 Load an apophis
+E 0 29670 0 6 A three-horned head is loaded over the head of an apophis
+M 0 29651 8 29698 1 Load a dark goblin
+E 0 29671 0 16 A wicked curved dragontooth is loaded wielded of a dark goblin
+M 0 29660 1 29698 1 Load a cuisinart
+E 0 29650 0 5 A cuisinart breastplate is loaded on the body of a cuisinart
+E 0 29653 0 16 A cuisinart longsword is loaded wielded of a cuisinart
+M 0 29654 6 29699 1 Load an ursag
+E 0 29667 0 8 A set of ursag rear claws is loaded on the feet of an ursag
+E 0 29666 0 12 An ursag hide is loaded about the shoulders of an ursag
+M 0 29672 1 29699 1 Load a cuisinart lord
+E 0 29659 0 5 The plate of knighthood is loaded on the body of a cuisinart lord
+E 0 29661 0 16 A large two-handed sword is loaded wielded of a cuisinart lord
+M 0 29611 1 29600 1 Load a fire bat
+M 0 29602 1 29600 8 Load a demonic guard
+M 0 29616 1 29601 1 Load a {rhell{Rhound{x
+M 0 29603 1 29601 8 Load a nightmare
+M 0 29602 1 29602 8 Load a demonic guard
+M 0 29601 1 29602 8 Load a demonic commoner
+M 0 29600 1 29602 8 Load a demonic servant
+M 0 29603 1 29603 8 Load a nightmare
+M 0 29602 1 29604 8 Load a demonic guard
+M 0 29601 1 29604 8 Load a demonic commoner
+M 0 29603 1 29605 8 Load a nightmare
+M 0 29601 1 29606 8 Load a demonic commoner
+M 0 29603 1 29607 8 Load a nightmare
+M 0 29611 1 29608 1 Load a fire bat
+M 0 29601 1 29608 8 Load a demonic commoner
+M 0 29606 1 29609 1 Load Nemesis
+G 0 29610 0 An earthenware mug is given to Nemesis
+G 0 29611 0 A shot of whiskey is given to Nemesis
+G 0 29612 0 A glass of water is given to Nemesis
+M 0 29608 1 29610 1 Load Hasan
+G 0 29619 0 A scroll of identify is given to Hasan
+G 0 29620 0 A scroll of dispel is given to Hasan
+G 0 29621 0 A dirty scroll is given to Hasan
+G 0 29622 0 A scroll of manna is given to Hasan
+G 0 29623 0 A scroll of creation is given to Hasan
+M 0 29609 1 29611 1 Load Ba'el
+G 0 29616 0 Demons blood is given to Ba'el
+G 0 29617 0 A potion of illusion is given to Ba'el
+G 0 29618 0 A potion of defense is given to Ba'el
+M 0 29607 1 29612 1 Load Sakar
+G 0 29613 0 A leg of beef is given to Sakar
+G 0 29614 0 A side of lamb is given to Sakar
+G 0 29615 0 A rack of ribs is given to Sakar
+M 0 29605 1 29613 1 Load Rift
+G 0 29605 0 Demonic platemail is given to Rift
+G 0 29606 0 A demonic wristguard is given to Rift
+G 0 29607 0 Demonic gauntlets is given to Rift
+G 0 29608 0 A set of demonic legwear is given to Rift
+G 0 29609 0 A demonic visor is given to Rift
+M 0 29604 1 29614 1 Load Chaos
+G 0 29600 0 The axe of death is given to Chaos
+G 0 29601 0 The flail of death is given to Chaos
+G 0 29602 0 The sword of death is given to Chaos
+G 0 29603 0 The mace of death is given to Chaos
+G 0 29604 0 The illygrith demonsword is given to Chaos
+M 0 29611 1 29615 1 Load a fire bat
+M 0 29603 1 29615 8 Load a nightmare
+M 0 29616 1 29616 1 Load a {rhell{Rhound{x
+M 0 29601 1 29616 8 Load a demonic commoner
+M 0 29600 1 29618 8 Load a demonic servant
+M 0 29616 1 29619 1 Load a {rhell{Rhound{x
+M 0 29623 1 29620 1 Load Schleim
+M 0 29611 1 29622 1 Load a fire bat
+M 0 29600 1 29625 8 Load a demonic servant
+M 0 29619 1 29626 1 Load Kayan
+M 0 29618 1 29627 1 Load Kahn
+M 0 29602 1 29627 8 Load a demonic guard
+M 0 29617 1 29628 1 Load Thane
+M 0 29616 1 29628 1 Load a {rhell{Rhound{x
+M 0 29611 1 29628 1 Load a fire bat
+M 0 29616 1 29629 1 Load a {rhell{Rhound{x
+M 0 29611 1 29631 1 Load a fire bat
+M 0 29602 1 29631 8 Load a demonic guard
+M 0 29600 1 29631 8 Load a demonic servant
+M 0 29616 1 29635 1 Load a {rhell{Rhound{x
+M 0 29611 1 29635 1 Load a fire bat
+M 0 29610 1 29635 1 Load Hayir
+M 0 29622 1 29636 1 Load a demonic enchanter
+M 0 29621 1 29636 1 Load a demonic priest
+M 0 29620 1 29636 1 Load a demonic knight
+M 0 29600 1 29639 8 Load a demonic servant
+M 0 29600 1 29641 8 Load a demonic servant
+M 0 29616 1 29642 1 Load a {rhell{Rhound{x
+M 0 29611 1 29643 1 Load a fire bat
+M 0 29613 1 29646 1 Load A demon lady
+M 0 29612 1 29648 1 Load A demon lord
+M 0 29602 1 29648 8 Load a demonic guard
+M 0 29600 1 29650 8 Load a demonic servant
+M 0 29614 3 29650 1 Load a bodyguard
+M 0 29602 8 29650 1 Load a demonic guard
+M 0 29615 1 29650 1 Load The Demon Master
+E 0 29624 0 16 {r-<{wthe flayer of skins{r>-{x is loaded wielded of The Demon Master
+E 0 29625 0 1 A ring of {rhellfire{x is loaded on the left finger of The Demon Master
+E 0 29626 0 18 {r<{r<{r<{d a tormented soul{x {r>{r>{r>{x is loaded floating nearby of The Demon Master
+E 0 29627 0 17 A rotting skull is loaded held in the hands of The Demon Master
+M 0 29651 8 29651 1 Load a dark goblin
+E 0 29671 0 16 A wicked curved dragontooth is loaded wielded of a dark goblin
+M 0 29651 8 29652 1 Load a dark goblin
+E 0 29671 0 16 A wicked curved dragontooth is loaded wielded of a dark goblin
+M 0 29654 6 29661 1 Load an ursag
+E 0 29666 0 12 An ursag hide is loaded about the shoulders of an ursag
+E 0 29667 0 8 A set of ursag rear claws is loaded on the feet of an ursag
+M 0 29657 3 29662 1 Load a fire lizard
+E 0 29665 0 16 The claws of a fire lizard is loaded wielded of a fire lizard
+M 0 29653 5 29662 1 Load a cockatrice
+E 0 29669 0 17 A giant feather is loaded held in the hands of a cockatrice
+M 0 29657 3 29663 1 Load a fire lizard
+E 0 29665 0 16 The claws of a fire lizard is loaded wielded of a fire lizard
+M 0 29657 3 29664 1 Load a fire lizard
+E 0 29665 0 16 The claws of a fire lizard is loaded wielded of a fire lizard
+M 0 29669 1 29665 1 Load a giant fire lizard
+E 0 29664 0 16 Scorched talons is loaded wielded of a giant fire lizard
+M 0 29653 5 29666 1 Load a cockatrice
+E 0 29669 0 17 A giant feather is loaded held in the hands of a cockatrice
+M 0 29654 6 29667 1 Load an ursag
+E 0 29667 0 8 A set of ursag rear claws is loaded on the feet of an ursag
+E 0 29666 0 12 An ursag hide is loaded about the shoulders of an ursag
+M 0 29656 3 29667 1 Load a cave lizard
+E 0 29663 0 16 A set of cave lizard claws is loaded wielded of a cave lizard
+M 0 29656 3 29668 1 Load a cave lizard
+E 0 29663 0 16 A set of cave lizard claws is loaded wielded of a cave lizard
+M 0 29651 8 29668 1 Load a dark goblin
+E 0 29671 0 16 A wicked curved dragontooth is loaded wielded of a dark goblin
+M 0 29656 3 29669 1 Load a cave lizard
+E 0 29663 0 16 A set of cave lizard claws is loaded wielded of a cave lizard
+M 0 29653 1 29670 1 Load a cockatrice
+E 0 29669 0 17 A giant feather is loaded held in the hands of a cockatrice
+M 0 29670 1 29670 1 Load a giant cave lizard
+E 0 29662 0 16 A set of bloody claws is loaded wielded of a giant cave lizard
+M 0 29651 8 29671 1 Load a dark goblin
+E 0 29671 0 16 A wicked curved dragontooth is loaded wielded of a dark goblin
+M 0 29650 1 29672 1 Load Kharas
+M 0 29655 1 29673 1 Load a scavenger
+M 0 29653 5 29674 1 Load a cockatrice
+E 0 29669 0 17 A giant feather is loaded held in the hands of a cockatrice
+M 0 29654 6 29675 1 Load an ursag
+E 0 29666 0 12 An ursag hide is loaded about the shoulders of an ursag
+E 0 29667 0 8 A set of ursag rear claws is loaded on the feet of an ursag
+M 0 29652 8 29676 1 Load an apophis
+E 0 29670 0 6 A three-horned head is loaded over the head of an apophis
+M 0 29651 8 29678 1 Load a dark goblin
+E 0 29671 0 16 A wicked curved dragontooth is loaded wielded of a dark goblin
+M 0 29654 6 29679 1 Load an ursag
+E 0 29667 0 8 A set of ursag rear claws is loaded on the feet of an ursag
+E 0 29666 0 12 An ursag hide is loaded about the shoulders of an ursag
+M 0 29652 8 29679 1 Load an apophis
+E 0 29670 0 6 A three-horned head is loaded over the head of an apophis
+M 0 29666 1 29681 1 Load an {Gemerald slime{x
+M 0 29653 5 29681 1 Load a cockatrice
+E 0 29669 0 17 A giant feather is loaded held in the hands of a cockatrice
+M 0 29667 1 29682 1 Load an {yamber slime{x
+M 0 29652 8 29682 1 Load an apophis
+E 0 29670 0 6 A three-horned head is loaded over the head of an apophis
+M 0 29654 6 29683 1 Load an ursag
+E 0 29667 0 8 A set of ursag rear claws is loaded on the feet of an ursag
+E 0 29666 0 12 An ursag hide is loaded about the shoulders of an ursag
+M 0 29671 1 29683 1 Load an alien slime
+G 0 29668 0 A scroll of farsight is given to an alien slime
+M 0 29662 1 29684 1 Load a lizardman
+M 0 29665 1 29684 1 Load a slith khazi
+E 0 29660 0 16 A slithzerekai dagger is loaded wielded of a slith khazi
+E 0 29657 0 12 Slithzerekai hide is loaded about the shoulders of a slith khazi
+M 0 29664 1 29685 1 Load a slith shaman
+M 0 29652 8 29685 1 Load an apophis
+E 0 29670 0 6 A three-horned head is loaded over the head of an apophis
+E 0 29656 0 16 A slithzerekai spear is loaded wielded of an apophis
+E 0 29657 0 12 Slithzerekai hide is loaded about the shoulders of an apophis
+M 0 29663 1 29686 1 Load a slith warrior
+M 0 29668 1 29687 1 Load a slith lord
+E 0 29657 0 12 Slithzerekai hide is loaded about the shoulders of a slith lord
+E 0 29656 0 16 A slithzerekai spear is loaded wielded of a slith lord
+E 0 29658 0 5 A scaly breastplate is loaded on the body of a slith lord
+M 0 29652 8 29688 1 Load an apophis
+E 0 29670 0 6 A three-horned head is loaded over the head of an apophis
+M 0 29651 8 29688 1 Load a dark goblin
+E 0 29671 0 16 A wicked curved dragontooth is loaded wielded of a dark goblin
+M 0 29651 8 29690 1 Load a dark goblin
+E 0 29671 0 16 A wicked curved dragontooth is loaded wielded of a dark goblin
+M 0 29652 8 29691 1 Load an apophis
+E 0 29670 0 6 A three-horned head is loaded over the head of an apophis
+M 0 29661 4 29692 1 Load a cave bat
+M 0 29661 4 29693 1 Load a cave bat
+M 0 29661 4 29694 1 Load a cave bat
+M 0 29652 8 29694 1 Load an apophis
+E 0 29670 0 6 A three-horned head is loaded over the head of an apophis
+M 0 29661 4 29695 1 Load a cave bat
+S
+
+
+
+#SHOPS
+29604 0 5 0 0 0 110 90 0 23
+29605 0 9 0 0 0 110 90 0 23
+29606 0 19 0 0 0 110 90 0 23
+29607 0 17 0 0 0 110 90 0 23
+29608 0 2 0 0 0 110 90 0 23
+29609 0 10 0 0 0 110 90 0 23
+0
+
+#$

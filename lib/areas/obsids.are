@@ -1,0 +1,1264 @@
+#AREA
+obsids.are~
+Obsidian South~
+{6 70} Starhunter Obsidian South~
+29700 29799
+
+#MOBILES
+#29701
+adyb lord elder~
+Adyb~
+Adyb, the Lord of the Elders, sits here on his throne.
+~
+Here sits the ancient Adyb, eldest of the Elders in this city.  Truly
+ancient, his wise eyes pierce his surroundings with an incredible depth. 
+Although he is one of the oldest beings in Alanthia, he retains great
+strength and power.  
+~
+unique~
+ABCQ BDFHNT 1000 0
+60 0 50d5+4000 60d9+100 5d10+28 none
+-30 -30 -30 -3
+EIKU 0 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0
+#29702
+Viradus thief souls~
+Viradus the Thief of Souls~
+Viradus, the Thief of Souls, lies here in chains.
+~
+Here sits Viradus, ancient evil and enemy of all races of Alanthia.  This
+creature has no external features, he is rather a shade in the shape of a
+humanoid.  Chained to the wall, with his powers stripped from him, he rots
+in this dungeon forever.  
+~
+unique~
+ABCS BDFHNT 1000 0
+51 0 50d5+3050 25d9+100 5d8+20 none
+-21 -21 -21 3
+EFNU 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium 0
+#29703
+Dradon messenger~
+Dradon~
+Dradon, the Messenger of the Elders, awaits an assignment.
+~
+This is the messenger of the Elders.  He waits here for a message to
+deliver to the outside world, but one rarely comes.  Clad in his worn
+deerskin boots and silver crown, he is the picture of aged wisdom.  
+~
+unique~
+ACS BDFHNPT 1000 0
+56 0 50d5+3050 28d9+100 10d4+23 none
+-25 -25 -25 -1
+BEFJNU 0 0 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0
+#29704
+Lothiras~
+Lothiras~
+Lothiras is dining here.
+~
+Lothiras, younger brother of Adyb, lives now in the Castle of the Elders.
+He has lived out a long life and performed many famous deeds, and lives as
+the rest of the Elders in peace.  
+~
+unique~
+ABCR BDFHNT 1000 0
+59 0 50d5+3550 59d9+100 10d4+24 none
+-28 -28 -28 -9
+FU 0 0 0
+sit stand male 5000
+AHMV ABCDEFGHIJK medium 0
+#29705
+astigorin bard~
+Astigorin~
+Astigorin the bard is here, playing a tune.
+~
+This jovial bard is strumming on a lyre, smiling and humming as he plays.
+A dangerous looking bow leans by his side.  It appears he knows more than
+music.  
+~
+unique~
+ABC BDFHNT 1000 0
+58 0 50d5+3550 29d9+100 5d10+25 none
+-28 -28 -28 1
+EFNU 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium 0
+#29706
+Nomag~
+Nomag~
+Nomag is here, planning something with his maps.
+~
+Nomag, the vicious warrior of old, studies some maps.  Scowling, he
+notices something he doesn't like and begins to write something on a scroll.
+~
+unique~
+ABCF BDFHT -1000 0
+59 0 50d5+3950 29d9+100 8d6+26 none
+-29 -29 -29 1
+EFNU 0 0 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium 0
+#29707
+Galeiria~
+Galeiria~
+Galeiria is relaxing here.
+~
+Adyb's favorite daughter is sitting on a couch eating grapes.  She smiles
+and picks a seed out of her teeth with a well-groomed nail.  
+~
+unique~
+ABC BDFHNT 1000 0
+56 0 50d5+3550 28d9+100 10d4+24 none
+-26 -26 -26 1
+EFNU 0 0 0
+stand stand female 3000
+AHMV ABCDEFGHIJK medium 0
+#29708
+vog smith~
+Vog the Smith~
+Vog the Smith is here, crafting great weapons.
+~
+This towering, powerful Elder is the Smith of this city.  His bulging
+muscles flex with each swing of his hammer, and sparks fly from his latest
+creation.  
+~
+unique~
+ABC BDFHNT 1000 0
+55 0 50d5+3550 27d9+100 10d4+23 none
+-25 -25 -25 2
+EFKNU 0 0 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium 0
+#29709
+oldstyle handmaid golden~
+A Golden Maiden~
+A Handmaid of gold is here, assisting the smith.
+~
+As you gaze upon this creation, you realize that she is made from solid
+gold.  She seems to be very lifelike as she assists the smith in his work.
+~
+unique~
+ABCT BDFHNT 0 0
+26 0 39d5+585 13d9+100 4d10+10 none
+-7 -7 -7 6
+CDEIKLU 0 0 0
+stand stand female 50
+AHMV ABCDEFGHIJK medium 0
+#29710
+soldier~
+A Soldier~
+A soldier is here, assisting Nomag.
+~
+This main is waiting on Nomag.  Although he does not look very strong, he
+is indeed well-trained by the warrior lord.  
+~
+unique~
+ABCF BDFHT 0 0
+35 0 10d10+1300 17d9+100 4d7+11 none
+-11 -11 -11 5
+EFNU 0 0 0
+stand stand male 250
+AHMV ABCDEFGHIJK medium 0
+#29711
+oldstyle musician apprentice~
+an apprentice musician~
+A musician is here, learning from Astigorin.
+~
+This man has mastered his first profession, and is now studying music from the
+master bard Astigorin.
+~
+unique~
+ABC BDFHT 1000 0
+14 0 2d10+190 7d9+100 1d12+3 none
+-1 -1 -1 8
+EFNU 0 0 0
+stand stand male 125
+AHMV ABCDEFGHIJK medium 0
+#29712
+boy serving servant~
+A serving boy~
+A servant is here, feeding Galeiria her grapes.
+~
+This muscular boy was hand-picked to serve Galeiria herself.  
+~
+unique~
+ABC BDFHT 1000 0
+6 0 2d7+71 3d9+100 1d7+1 none
+4 4 4 9
+EFNU 0 0 0
+stand stand male 25
+AHMV ABCDEFGHIJK medium 0
+#29713
+oldstyle hound dog war~
+A hound of war~
+A large hound snarls at you.
+~
+This great beast can barely be called a dog.  It has been bred to cause fear
+on the battle field, and you have no doubt that it does its job well.
+~
+unique~
+ABCF BDFHT -600 0
+35 0 10d10+1300 17d9+100 4d7+11 none
+-11 -11 -11 5
+EFNU 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium 0
+#29714
+Glauch storyteller~
+Glauch the Storyteller~
+Glauch the Storyteller reclines here, taking a break from his travels.
+~
+Resting here in a fine chair is none other than Glauch the Storyteller,
+the famed traveller and collector of tales.  He appears to be visiting the
+royal family of this remote city.  
+~
+unique~
+ABC BDFHNT 1000 0
+60 0 50d5+3550 30d9+100 8d6+28 none
+-30 -30 -30 0
+EFNU 0 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium 0
+#29715
+Gann grocer greengrocer~
+Gann the Green Grocer~
+Gann the Green Grocer stands here.
+~
+This jovial man has devoted his life to selling fruit and other foods to the
+inhabitants of this city.  Although he may seem like a wimp, it would be wise
+not to underestimate him.  He smiles warmly at you and shows you his selection
+of delicious looking foods.
+~
+unique~
+ABC BDFHNT 1000 0
+200 0 50d10+4500 25d9+100 5d8+19 none
+-20 -20 -20 3
+EFNU 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium 0
+#29716
+alchemist~
+the Alchemist~
+The ancient, wizened Alchemist stands here.
+~
+Skilled in all manner of magic, as well as the ancient art of alchemy, he
+stands ready to supply the occasional customer with all manner of arcane
+supplies.  
+~
+unique~
+ABC BDFHNT 1000 0
+50 0 50d10+4500 25d9+100 5d8+19 none
+-20 -20 -20 3
+EFNU 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium 0
+#29717
+sayhar~
+Sayhar the Weapons Master~
+Sayhar te Weapons Master is practicing with his bow and axe.
+~
+Sayhar is very big and tough, from years of serving in Adyb's army
+centuries ago.
+~
+unique~
+ABC BDFHNT 1000 0
+50 0 50d10+4500 25d9+100 5d8+19 none
+-20 -20 -20 3
+EFNU 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium 0
+#29718
+Gyb armorer~
+Gyb the Armorer~
+Gyb the Armorer stands here selling fine protective pieces.
+~
+Gyb the armorer is a large, tough man from years of handling heavy armor
+and weapons in combat.  Now he keeps shop here and sells armor.  
+~
+unique~
+ABC BDFHNT 1000 0
+34 0 10d10+1200 17d9+100 4d7+10 none
+-11 -11 -11 5
+EFNU 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium 0
+#29719
+Ocorin runaki hero~
+Ocorin~
+The legendary Runaki hero Ocorin is here, resting in his retirement.
+~
+Resting here in a soft chair is the legendary hero Ocorin, last of the
+great race of the Runaki.  Now retired, he spends his days here in the city
+of the Elders, doing things he likes in his old age.  
+~
+unique~
+ABC BDFHNT 1000 0
+60 0 50d5+3050 30d9+100 8d6+28 none
+-30 -30 -30 0
+EFHNR 0 0 0
+stand stand male 5000
+AGV ACDEFHJK medium 0
+#29720
+chimera~
+a chimera~
+A chimera prowls the cell.
+~
+This bizarre creature has three heads - one of a goat, one of a lion, and
+one of a dragon.  It growls as you enter the cell, and strains against its
+chain.  
+~
+unique~
+ABCF BDFHT -1000 0
+34 0 10d10+1200 17d9+100 4d7+10 none
+-11 -11 -11 5
+EFNU 0 0 0
+stand stand male 50
+AHMV ABCDEFGHIJK medium 0
+#29721
+Afisa wife~
+Afisa~
+Afisa, wife of Adyb, stands here.
+~
+Afisa, the wife of Adyb the Eldest, is here.  She has stood by his side
+over the eons of their lives, supporting him on his quest through the ages. 
+Now she lives with him in this castle, isolated from the world they once
+ruled.  
+~
+unique~
+ABCQ BDFHNT 1000 0
+59 0 50d10+9000 59d9+100 6d8+26 none
+-29 -29 -29 -3
+EIKU 0 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK medium 0
+#29722
+tame roc~
+a roc~
+A tame roc is here, trailing a leash.
+~
+A jewelled collar rests around the neck of this giant bird.  A fine
+leather leash trails behind it, as it walks about freely.  
+~
+unique~
+AC BDFHNT 0 0
+25 0 5d10+550 12d9+100 2d10+7 none
+-7 -7 -7 6
+EFNU 0 0 0
+stand stand none 250
+AHMV ABCDEFGHIJK medium 0
+#29723
+oldstyle citizen resident~
+A citizen~
+A citizen of this town is strolling about here.
+~
+He looks happy and carefree.  He smiles and tips his hat to you.
+~
+unique~
+ACS BDFHNT 1000 0
+6 0 2d6+60 3d9+100 1d6+1 none
+5 5 5 9
+BEFJNU 0 0 0
+stand stand male 3
+AHMV ABCDEFGHIJK medium 0
+#29724
+oldstyle pegasus horse~
+a pegasus~
+A large horse with wings is here.
+~
+This horse is snow white with large wings.  Although it doesn't look very
+threatening, it seems as though it would be dangerous if provoked.
+~
+unique~
+AC BDFHNT 0 0
+14 0 2d10+190 7d9+100 1d12+3 none
+-1 -1 -1 8
+EFNU 0 0 0
+stand stand none 40
+AHMV ABCDEFGHIJK medium 0
+#29725
+cook~
+A Cook~
+A cook is here, hard at work.
+~
+This sweaty man obviously spends a lot of time in the kitchen.  His
+cook's outfit is streaked with flour and grease.  
+~
+unique~
+ABC BDFHNT 1000 0
+8 0 2d7+96 4d9+100 1d7+2 none
+3 3 3 9
+EFNU 0 0 0
+stand stand male 5
+AHMV ABCDEFGHIJK medium 0
+#29726
+oldstyle jailer~
+The Jailer~
+The jailer is here, watching for intruders.
+~
+He looks as though he has spent a lot of time underground, guarding the
+prisoners.
+~
+unique~
+ABCR BDFHNT 0 0
+22 0 4d10+360 22d9+100 2d7+5 none
+-5 -5 -5 3
+FU 0 0 0
+stand stand male 50
+AHMV ABCDEFGHIJK medium 0
+#29727
+chef~
+the Chef~
+The Chef stands here cooking delicasies and directing the kitchen workers.
+~
+This man, dressed in an immaculate white chef's uniform, bustles about
+whipping up complex courses.  Every once in awhile he pauses to shout at one
+of the cooks, or direct another.  
+~
+unique~
+ABST BDFHNT 1000 0
+45 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0
+C 0 0 0
+stand stand none 800
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#29701
+Mountain~
+You are climbing a large mountain which towers over Ofcol.  The path
+continues up the mountain, but part of it is gone.  There is no way to
+continue by land.  
+~
+0 4 5
+D2
+~
+~
+0 0 -1
+D4
+~
+~
+0 -1 29702
+S
+#29702
+Mountain~
+You are making your way up the mountain.  The rigorous climb has left you
+tired, and you are ready to take a break.  
+~
+0 0 9
+D4
+~
+~
+0 -1 29703
+D5
+~
+~
+0 -1 29701
+S
+#29703
+Mountain~
+You have finally reached the top of the mountain.  The air here is so
+thin that you must gasp for breath.  To the north, you see what seems to be
+the entrance to a city.  
+~
+0 0 9
+D0
+~
+~
+0 -1 29704
+D5
+~
+~
+0 -1 29702
+S
+#29704
+Entrance~
+This appears to be the entrance to a large city perched on the top of
+this mountain.  Large buildings soar into the very clouds, a sign of much
+wealth in this community.  
+~
+0 0 1
+D0
+~
+~
+0 -1 29705
+D2
+~
+~
+0 -1 29703
+S
+#29705
+Adyb Street~
+This large, well-cobbled street runs north, away from the city entrance. 
+To the west lies a small store, and smells of baking bread and treats
+emanates from it.  Private homes line the street, covered on the street side
+by tall stone walls with wrought-iron gates for security.  
+~
+0 0 1
+D0
+The street continues.
+~
+~
+0 -1 29706
+D2
+~
+~
+0 -1 29704
+D3
+~
+~
+0 -1 29724
+S
+#29706
+Adyb Street~
+You are walking down what appears to be the main street of this city. 
+You see large residences to the east and west, while the street continues to
+the north and south.  
+~
+0 0 1
+D0
+~
+~
+0 -1 29707
+D1
+~
+~
+0 -1 29725
+D2
+The street continues.
+~
+~
+0 -1 29705
+D3
+~
+~
+0 -1 29726
+S
+#29707
+Adyb Street~
+This wide, cobbled street runs north and south.  It appears to be the
+main thoroughfare of this city.  A store entrance lies west.  
+~
+0 0 1
+D0
+~
+~
+0 -1 29708
+D2
+~
+~
+0 -1 29706
+D3
+~
+~
+0 -1 29727
+S
+#29708
+Adyb Street~
+You are on the main thoroughfare of this city.  To the north is an
+imposing castle, and to the east a smaller road branches off.  
+~
+0 0 1
+D0
+~
+~
+0 -1 29709
+D1
+~
+~
+0 -1 29728
+D2
+~
+~
+0 -1 29707
+S
+#29709
+Castle Entryway~
+This spacious, marble-lined room is the entryway of a large castle.  It
+is very beautiful, with large paintings and a thick, spongy carpet.  Jovial
+laughter echoes from the north, while smaller corridors branch off to the
+east and west.  
+~
+0 8 1
+D0
+~
+~
+0 -1 29710
+D1
+~
+~
+0 -1 29715
+D2
+~
+~
+0 -1 29708
+D3
+~
+~
+0 -1 29711
+S
+#29710
+Throne Room~
+Vaulted ceilings rise high above the polished grey marble floor of this
+huge room.  Paintings of the city below the castle hang on the walls, and a
+line of portraits depict the ancestors of the royal family.  A huge throne,
+covered in gold leaf and silk, rests on a low dais in the center of the
+room.  
+~
+0 8 1
+E
+throne~
+This huge golden throne looks as if it has been here for ages.  As you study it
+carefully, you notice that it is not firmly attached to the floor ... perhaps
+you could slide it?
+~
+D0
+~
+~
+0 -1 29723
+D2
+~
+~
+0 -1 29709
+D5
+~
+throne trapdoor~
+1 0 29718
+S
+#29711
+Western Wing~
+This is the western wing of the castle.  A thick rug runs down the
+center, muffling any footsteps.  The entrance hall lies to the east, while
+this hallway continues west.  
+~
+0 8 1
+D1
+~
+~
+0 -1 29709
+D3
+~
+~
+0 -1 29712
+S
+#29712
+Western Wing~
+This hall runs through the western wing of the castle, leading east and
+north.  Plush carpeting covers the floor.  Paintings and statues decorate
+the walls between doorways leading to private rooms to the west and south.  
+~
+0 8 1
+D0
+~
+~
+0 -1 29713
+D1
+~
+~
+0 -1 29711
+D2
+~
+~
+0 -1 29730
+D3
+~
+~
+0 -1 29729
+S
+#29713
+Western Wing~
+This is the western wing of the castle.  The hallway continues south, and
+the sound of pots and pans rattling can be heard to the north.  
+~
+0 8 1
+D0
+~
+~
+0 -1 29714
+D2
+~
+~
+0 -1 29712
+S
+#29714
+Kitchen~
+This is the kitchen of this catle.  It is a flurry of activity, as
+servants bustle about preparing food for the royal family and their guests. 
+Hot air rushes from the ovens whenever they are opened, heating the room to
+an uncomfortable level.  
+~
+0 8 1
+D2
+~
+~
+0 -1 29713
+S
+#29715
+Eastern Wing~
+This is the eastern wing of the castle.  A thick rug runs down the
+center, muffling any footsteps.  The entrance hall lies to the west, while
+this hallway continues east.  
+~
+0 8 1
+D1
+~
+~
+0 -1 29716
+D3
+~
+~
+0 -1 29709
+S
+#29716
+Eastern Wing~
+This hall runs through the eastern wing of the castle, leading west and
+north.  Plush carpeting covers the floor, and valuable paintings and
+statuary decorate the walls.  Doorways lead to private rooms to the east and
+south.  
+~
+0 8 1
+D0
+~
+~
+0 -1 29717
+D1
+~
+~
+0 -1 29731
+D2
+~
+~
+0 -1 29732
+D3
+~
+~
+0 -1 29715
+S
+#29717
+Eastern Wing~
+This is a hallway in the eastern wing of the castle.  Animals can be
+heard to the north, while the hall leads south.  
+~
+0 12 1
+D0
+~
+~
+0 -1 29733
+D2
+~
+~
+0 -1 29716
+S
+#29718
+Dungeon~
+This is Adyb's dungeon.  Locked away here are creatures so terrible and
+powerful that even mighty Adyb fears them enough to imprison them.  
+~
+0 9 1
+D0
+~
+~
+0 -1 29719
+D4
+~
+~
+1 0 29710
+S
+#29719
+Dungeon~
+This is the center of Adyb's dungeon, prison to creatures most foul and
+vile.  There are heavy cell doors to the north, east, and west.  Gutteral
+noises can be heard from the east and west cells, but from the north, cold
+silence.  
+~
+0 9 1
+D0
+~
+~
+2 29727 29720
+D1
+~
+~
+2 29727 29722
+D2
+~
+~
+0 -1 29718
+D3
+~
+~
+2 29727 29721
+S
+#29720
+Cell~
+You are in a small, cramped, dirty cell.  It is a horrid place.  
+~
+0 9 1
+D2
+~
+~
+2 29727 29719
+S
+#29721
+Cell~
+You are in a small, cramped, dirty cell.  It is a horrid place.  
+~
+0 9 1
+D1
+~
+~
+2 29727 29719
+S
+#29722
+Cell~
+You are in a small, cramped, dirty cell.  It is a horrid place.  
+~
+0 9 1
+D3
+~
+~
+2 29727 29719
+S
+#29723
+Stairway~
+A large stairway leads up from here, to the second floor of the castle. 
+To the south is the throne room of Adyb.  
+~
+0 8 1
+D2
+~
+~
+0 -1 29710
+D4
+~
+~
+0 -1 29739
+S
+#29724
+Grocery~
+This small store supplies the residents of this town with fresh food. 
+The air is full of the smells of ripe fruit and other fresh produce.  
+~
+0 8 1
+D1
+~
+~
+0 -1 29705
+S
+#29725
+Residence~
+This large house is strongly built and well-decorated.  Spears and armor
+hang on the walls and various stands, and marble busts of long-dead people
+stare blankly into the room.  There are several tapestries on the walls,
+some depicting war and others depicting beauty and peace.  
+~
+0 8 1
+D3
+~
+~
+0 -1 29706
+S
+#29726
+Residence~
+This is the residence of one of the wealthier inhabitants of this town. 
+Sheet music rests on any available surface, and several instruments of
+varying complexity lean here and there about the room.  
+~
+0 8 1
+D1
+~
+~
+0 -1 29706
+S
+#29727
+Mystic Shop~
+This store smells strongly of incense and various magical substances. 
+The shelves behind the counter hold myriad small objects to aid a magic
+user, and barrels around you appear to be filled with basic bulk supplies.  
+~
+0 8 1
+D1
+~
+~
+0 -1 29707
+S
+#29728
+Nomag Street~
+This smaller road branches off from the main street west of here.  To the
+east, several shops can be seen on either side of the road.  
+~
+0 8 1
+D1
+~
+~
+0 -1 29734
+D3
+~
+~
+0 -1 29708
+S
+#29729
+Guest Quarters~
+These rooms are private quarters, reserved for important visitors to the
+palace.  The contents of the room are luxurious, if a bit anonymous.  
+~
+0 8 1
+D1
+~
+~
+0 -1 29712
+S
+#29730
+Storage Room~
+You are in a storage room of the castle.  There isn't much here, just a
+few boxes filled with old junk.  
+~
+0 8 1
+D0
+~
+~
+0 -1 29712
+S
+#29731
+Guest Quarters~
+These rooms are private quarters, reserved for important visitors to the
+palace.  The contents of the room are luxurious, if a bit anonymous.  
+~
+0 8 1
+D3
+~
+~
+0 -1 29716
+S
+#29732
+Storage Room~
+You are in a storage room of the castle.  There isn't much here, just a
+lot of dust.  
+~
+0 8 1
+D0
+~
+~
+0 -1 29716
+S
+#29733
+Stable~
+This stable is filled with stalls for a variety of creatures, some
+magical and some not.  Leather tackle and saddlery hang on pegs and hooks by
+each stall, and there are bales of hay and less readily identifiable
+substances stacked in the rear.  
+~
+0 8 1
+D2
+~
+~
+0 -1 29717
+S
+#29734
+Nomag Street~
+This is the east end of Nomag Street.  There is a noisy smithy to the
+north, and an armoury to the south.  A weapons shop can be seen to the east.
+~
+0 8 1
+D0
+~
+~
+0 -1 29737
+D1
+~
+~
+0 -1 29736
+D2
+~
+~
+0 -1 29735
+D3
+~
+~
+0 -1 29728
+S
+#29735
+Armoury~
+This small store is nearly empty.  There is not much here, but a few
+choice pieces are displayed in cases behind the counter.  
+~
+0 8 1
+D0
+~
+~
+0 -1 29734
+S
+#29736
+Weapon Shop~
+A modest selection of weapons hangs and leans behind the counter of this
+small store.  What the weapons lack in quantity they make up for in quality,
+each the creation of Vog the Smith.  
+~
+0 8 1
+D3
+~
+~
+0 -1 29734
+S
+#29737
+Smithy~
+The noise of metal against hot metal fills this room with a deafening
+cacophony.  All the occupants are hard at work, crafting high quality
+weapons and armor.  The west wall is clear of equipment, and appears to be
+made of a different material than the rest.  
+~
+0 8 1
+D2
+~
+~
+0 -1 29734
+D3
+You see a concealed door!
+~
+door concealed~
+1 -1 29738
+S
+#29738
+The Planning Room~
+A huge table covered in maps dominates this spacious room.  The walls are
+hung with charts and maps, depicting the regions of Alanthia and the
+activities of the various inhabitants.  
+~
+0 9 1
+D1
+~
+~
+0 -1 29737
+S
+#29739
+Second Floor~
+This is the second floor of the Castle of the Elders.  Bright light
+streams in from tall windows decorated with bright silk curtains.  The
+carpet is very thick and spongy, insulating the floor below from the noise
+of peoples' passage here.  
+~
+0 8 1
+D0
+~
+~
+0 -1 29740
+D1
+~
+~
+0 -1 29743
+D2
+~
+~
+0 -1 29741
+D3
+~
+~
+0 -1 29742
+D5
+~
+~
+0 -1 29723
+S
+#29740
+Northern Hall~
+You are in the northern hallway.  There is a private room to the north,
+and the stairs leading down are to the south.  
+~
+0 8 1
+D0
+~
+~
+0 -1 29747
+D2
+~
+~
+0 -1 29739
+S
+#29741
+Southern Hall~
+This hallway leads south to a brightly lit room, and north to the stairs
+leading to the first floor.  
+~
+0 8 1
+D0
+~
+~
+0 -1 29739
+D2
+~
+~
+0 -1 29744
+S
+#29742
+Western Hall~
+You are in the western hallway.  There is a private room to the west, and
+the stairs leading down are to the east.  
+~
+0 8 1
+D1
+~
+~
+0 -1 29739
+D3
+~
+~
+0 -1 29745
+S
+#29743
+Eastern Hall~
+This is the eastern hallway on the second floor.  There is a private room
+to the east, and stairs leading down are to the west.  
+~
+0 8 1
+D1
+~
+~
+0 -1 29746
+D3
+~
+~
+0 -1 29739
+S
+#29744
+High Balcony~
+This room is filled with bright sunlight streaming in from the south,
+which is an open balcony overlooking the city and the land below the
+mountain the city is built upon.  
+~
+0 8 1
+D0
+~
+~
+0 -1 29741
+S
+#29745
+Bed Room~
+This bedroom, the home of Afisa and the Elder Lord Adyb, is luxuriously
+furnished and sports a huge portrait of the Elder couple.  Adyb's legendary
+armor rests in the corner on a golden stand.  
+~
+0 8 1
+D1
+~
+~
+0 -1 29742
+S
+#29746
+Bed Room~
+This is the bed room of one of the castle residents.  Decorated with
+tapestries, paintings, and a few sculptures, it is well-lived-in and
+personalized.  
+~
+0 8 1
+D3
+~
+~
+0 -1 29743
+S
+#29747
+Bed Room~
+This simple bedroom is only a small room, undecorated, with a plain bed
+in the corner.  It doesn't appear to be very lived-in.  
+~
+0 8 1
+D2
+~
+~
+0 -1 29740
+S
+#0
+
+
+
+#SPECIALS
+M 29701 spec_cast_cleric
+M 29703 spec_thief
+M 29704 spec_cast_mage
+M 29705 spec_cast_adept
+M 29707 spec_cast_adept
+M 29709 spec_guard
+M 29719 spec_cast_mage
+M 29720 spec_breath_fire
+M 29721 spec_cast_cleric
+M 29722 spec_poison
+M 29723 spec_thief
+M 29726 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 29710 5 1
+D 0 29718 4 1
+D 0 29719 0 2
+D 0 29719 1 2
+D 0 29719 3 2
+D 0 29720 2 2
+D 0 29721 1 2
+D 0 29722 3 2
+D 0 29737 3 1
+M 0 29723 10 29704 2
+M 0 29723 10 29705 2
+M 0 29723 10 29706 2
+M 0 29723 10 29707 2
+M 0 29723 10 29708 2
+M 0 29701 1 29710 1
+M 0 29725 4 29714 4
+M 0 29725 4 29714 4
+M 0 29727 1 29714 1
+M 0 29726 1 29718 1
+M 0 29702 1 29720 1
+M 0 29720 2 29721 1
+M 0 29720 2 29722 1
+M 0 29715 1 29724 1
+M 0 29707 1 29725 1
+M 0 29712 4 29725 4
+M 0 29712 4 29725 4
+M 0 29705 1 29726 1
+M 0 29711 4 29726 4
+M 0 29711 4 29726 4
+M 0 29716 1 29727 1
+M 0 29723 10 29728 2
+M 0 29714 1 29729 1
+M 0 29719 1 29731 1
+M 0 29722 3 29733 3
+M 0 29722 3 29733 3
+M 0 29724 3 29733 3
+M 0 29724 3 29733 3
+M 0 29723 10 29734 2
+M 0 29718 1 29735 1
+M 0 29717 1 29736 1
+M 0 29708 1 29737 1
+M 0 29709 4 29737 4
+M 0 29709 4 29737 4
+M 0 29706 1 29738 1
+M 0 29710 4 29738 4
+M 0 29710 4 29738 4
+M 0 29721 1 29745 1
+M 0 29704 1 29746 1
+M 0 29703 1 29747 1
+S
+
+
+
+#SHOPS
+29715 1 8 13 15 19 100 50 0 23
+29716 0 0 0 0 0 100 50 0 23
+29717 5 0 0 0 0 100 50 0 23
+29718 0 9 0 0 0 100 50 0 23
+0
+
+
+
+#$
