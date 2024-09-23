@@ -34,7 +34,7 @@ AHMV ABCDEFGHIJK medium unknown
 #29602
 A Demonic Guard~
 a demonic guard~
-A demon stands here, guarding Harhaken.
+A demon stands here, guarding Obsidian.
 ~
 ~
 unique~
@@ -268,7 +268,7 @@ AHMV ABCDEFGHIJK medium unknown
 #29620
 demonic knight~
 a demonic knight~
-A knight stands here, clad in the demonic platemail of Harhaken.
+A knight stands here, clad in the demonic platemail of Obsidian.
 ~
 ~
 unique~
@@ -590,8 +590,6 @@ ABT HV -1000 0
 CEFHIK BH L I
 stand stand none 7250
 AGXc ACDEFHKQV medium unknown
-M FIGHT 29614 15~
-M FIGHT 29613 15~
 #29670
 giant lizard~
 a giant cave lizard~
@@ -1403,26 +1401,9 @@ D2
 ~
 0 0 29698
 S
-#29600
-The road leading to Harhaken~
-You are standing on the paved road leading to Harhaken.  All around you
-is nothing, nothing but a bleak wasteland.  To the north lies the wasteland,
-as if you just appeared here.  The road continues to the south.  Far to the
-south, a large city can be seen, or at least what is left of it.  
-~
-0 0 0
-D2
-~
-~
-0 0 29601
-D4
-~
-~
-0 0 410
-S
 #29601
-The road leading to Harhaken~
-You are standing on the paved road leading to Harhaken.  All around you is
+The road leading to Obsidian~
+You are standing on the paved road leading to Obsidian.  All around you is
 nothing, nothing but a bleak wasteland.  To the north and south lies the
 paved road on which you can travel.  Far to the south lies a city, at least
 what is left of it.  
@@ -1431,15 +1412,15 @@ what is left of it.
 D0
 ~
 ~
-0 0 29600
+0 0 -1
 D2
 ~
 ~
 0 0 29602
 S
 #29602
-The road leading to Harhaken~
-You are standing on the paved road leading to Harhaken.  All around you
+The road leading to Obsidian~
+You are standing on the paved road leading to Obsidian.  All around you
 is nothing, nothing but a bleak wasteland.  To the north and south lies the
 paved road on which you can travel.  Far to the south lies a city, at least
 what is left of it.  
@@ -1455,11 +1436,11 @@ D2
 0 0 29603
 S
 #29603
-The gates of Harhaken~
-{DYou are standing before the gates of Harhaken, a once large city.  Now,
+The gates of Obsidian~
+{DYou are standing before the gates of Obsidian, a once large city.  Now,
 the city is in ruins, and demons inhabit it.  If you choose to, you may
 follow the road north, to where you came.  Or, if you dare, you may try to
-enter the evil city of Harhaken to the south.  
+enter the evil city of Obsidian to the south.  
 ~
 0 0 0
 D0
@@ -1473,7 +1454,7 @@ D2
 S
 #29604
 Main Street~
-{DYou are standing on the Main Street in Harhaken.  All around you, demons
+{DYou are standing on the Main Street in Obsidian.  All around you, demons
 walk around, glaring at you, hatred showing in their glowing eyes.  To the
 east lies another street, leading to the Bazaar.  To the south, Main Street
 continues.  
@@ -1528,7 +1509,7 @@ D3
 S
 #29607
 A side street~
-{D You are standing on a side street in Harhaken.  Though less travelled,
+{D You are standing on a side street in Obsidian.  Though less travelled,
 demons can still be seen walking upon it, ones coming from the east often
 holding new items.  The side street continues to the east and west, and a
 market can be seen to the east.  To the west lies the Main Street.  
@@ -1545,7 +1526,7 @@ D3
 S
 #29608
 A side street~
-{D You are standing near the Bazaar of Harhaken. To the west lies the street that branches off onto Main Street. To the east lies the bazaar, where you can buy new things for yourself and others.
+{D You are standing near the Bazaar of Obsidian. To the west lies the street that branches off onto Main Street. To the east lies the bazaar, where you can buy new things for yourself and others.
 ~
 0 0 0
 D1
@@ -1558,8 +1539,8 @@ D3
 0 0 29607
 S
 #29609
-Harhaken Bazaar~
-{D You are standing in the Harhaken Bazaar. Here, you can buy drinks. To the north and south lie seperate stores. The smell of components can be smelled to the north, and the sounds of a smithy can be heard to the south.
+Obsidian Bazaar~
+{D You are standing in the Obsidian Bazaar. Here, you can buy drinks. To the north and south lie seperate stores. The smell of components can be smelled to the north, and the sounds of a smithy can be heard to the south.
 ~
 0 0 0
 D0
@@ -1576,8 +1557,8 @@ D3
 1 0 29608
 S
 #29610
-Harhaken Bazaar~
-{D You are standing in the Harhaken Bazaar.  Here, you can buy various
+Obsidian Bazaar~
+{D You are standing in the Obsidian Bazaar.  Here, you can buy various
 scrolls.  To the east and south are various stores.  To the east, various
 papers can be seen, and sounds of laughter can be heard to the south.  
 ~
@@ -1592,8 +1573,8 @@ D2
 0 0 29609
 S
 #29611
-Harhaken Bazaar~
-{D You are standing in the Harhaken Bazaar.  Here, you can buy various
+Obsidian Bazaar~
+{D You are standing in the Obsidian Bazaar.  Here, you can buy various
 potions.  To the west and south are various stores.  To the west, various
 components can be smelled, and foods can be seen to the south.  
 ~
@@ -1608,8 +1589,8 @@ D3
 0 0 29610
 S
 #29612
-Harhaken Bazaar~
-{D You are standing in the Harhaken Bazaar. Here, you can buy various foods. To the north and south lie seperate stores. To the south, sounds of a smithy can be heard, while to the north, scrolls can be seen.
+Obsidian Bazaar~
+{D You are standing in the Obsidian Bazaar. Here, you can buy various foods. To the north and south lie seperate stores. To the south, sounds of a smithy can be heard, while to the north, scrolls can be seen.
 ~
 0 0 0
 D0
@@ -1622,8 +1603,8 @@ D2
 0 0 29613
 S
 #29613
-Harhaken Bazaar~
-{D You are standing in the Harhaken Bazaar. Here, you can buy armour. To the north and west lie seperate stores. The smell of food can be smelled to the north, and the sounds of a smithy can be heard to the west.
+Obsidian Bazaar~
+{D You are standing in the Obsidian Bazaar. Here, you can buy armour. To the north and west lie seperate stores. The smell of food can be smelled to the north, and the sounds of a smithy can be heard to the west.
 ~
 0 0 0
 D0
@@ -1636,8 +1617,8 @@ D3
 0 0 29614
 S
 #29614
-Harhaken Bazaar~
-{D You are standing in the Harhaken Bazaar. Here, you can buy weapons. To the north and east lie seperate stores. The smell of drinks can be smelled to the north, and the sounds of a smithy can be heard to the east.
+Obsidian Bazaar~
+{D You are standing in the Obsidian Bazaar. Here, you can buy weapons. To the north and east lie seperate stores. The smell of drinks can be smelled to the north, and the sounds of a smithy can be heard to the east.
 ~
 0 0 0
 D0
@@ -1651,7 +1632,7 @@ D1
 S
 #29615
 Main Street~
-{D You are standing on the Main Street in Harhaken.  All around you,
+{D You are standing on the Main Street in Obsidian.  All around you,
 demons walk the streets, glaring at you, hatred showing in their glowing red
 eyes.  To the west, another street branches off, leading to places unknown. 
 Main Street continues to the south.  
@@ -1738,7 +1719,7 @@ D3
 S
 #29621
 Main Street~
-{D You are standing on the Main Street of Harhaken. All around you, demons walk the street, glaring at you, hatred showing in their glowing red eyes. Main Street continues to the north and south.
+{D You are standing on the Main Street of Obsidian. All around you, demons walk the street, glaring at you, hatred showing in their glowing red eyes. Main Street continues to the north and south.
 ~
 0 0 0
 D0
@@ -1752,7 +1733,7 @@ D2
 S
 #29622
 Main Street~
-{D You are standing on the Main Street of Harhaken. All around you, demons walk the street, glaring at you, hatred showing in their glowing red eyes. Main Street continues to the north and south. Another street branches off to the east.
+{D You are standing on the Main Street of Obsidian. All around you, demons walk the street, glaring at you, hatred showing in their glowing red eyes. Main Street continues to the north and south. Another street branches off to the east.
 ~
 0 0 0
 D0
@@ -1868,7 +1849,7 @@ D0
 S
 #29629
 Main Street~
-{D You are standing on the Main Street of Harhaken.  All around you,
+{D You are standing on the Main Street of Obsidian.  All around you,
 demons roam the streets, glaring at you, hatred showing in their glowing red
 eyes.  Esper Street branches off to the west, leading to parts unknown.  To
 the south lies a large building.  Main Street continues to the north.  
@@ -1961,8 +1942,8 @@ D2
 0 0 29635
 S
 #29635
-Harhaken Slave Dealer~
-{D You are standing in the Harhaken Slave Shop.  Demons are seated along
+Obsidian Slave Dealer~
+{D You are standing in the Obsidian Slave Shop.  Demons are seated along
 the far wall, waiting.  Sounds of growling and cursing can be heard all
 around you.  Esper Street lies to the north, as does your only exit.  
 ~
