@@ -1,0 +1,1628 @@
+#AREA
+hclock.are~
+The Haunted Clock Tower~
+{60 99} Aegis The Haunted Clock Tower~
+25200 25299
+
+#MOBILES
+#25200
+ghost clock worker~
+a ghost of a clock worker~
+A moaning ghost of a clock worker hovers here above you.
+~
+This is a transparent being that does not like your presence!
+~
+unique~
+ABCFGT BDJPTVZ -200 0
+73 40 1d1+2000 10d10+10 5d13+25 none
+-20 -20 -20 -20
+CO AB B C
+stand stand none 2000
+AHMV ABCDEFGHIJK medium none
+#25201
+black crow~
+a black crow~
+A Black Crow swoops down at you from the ceiling!
+~
+~
+bird~
+ABCFGRT DJPTVZ -200 0
+73 25 1d1+2000 10d10+10 5d13+25 none
+-20 -20 -20 -20
+CFHO AB 0 C
+stand stand none 3000
+AGHMVW ABCDEFGHIJKP medium none
+#25202
+clock mouse~
+a clock mouse~
+A clock mouse scurries along by your feet.
+~
+~
+unique~
+ABCFGRT DJPVZc -200 0
+73 25 1d1+2000 10d10+10 5d13+25 none
+-20 -20 -20 -20
+CO AB C CDF
+stand stand none 3000
+AHMV ABCDEFGHIJK medium none
+#25203
+vampire bat~
+a vampire bat~
+A vampire bat flys in and chomps at your neck.
+~
+~
+bat~
+ABCFGRT DJPTVZ -200 0
+73 25 1d1+2000 10d10+10 5d13+25 none
+-20 -20 -20 -20
+CFHO AB 0 CS
+stand stand none 3000
+AGHMV ABCDEFGHIJKP medium none
+#25204
+brown recluse~
+a brown recluse~
+A brown recluse is clinging to the wall here.
+~
+~
+modron~
+ABCFGRT DJPVZ -200 0
+73 25 1d1+2000 10d10+10 5d13+25 none
+-20 -20 -20 -20
+COQR ABMNPQ HIK C
+stand stand none 3000
+AHMV ABCDEFGHIJK medium none
+#25205
+stone gargoyle~
+a stone gargoyle~
+A Stone Gargoyle is perched here on the corner of the wall.
+~
+~
+wyvern~
+ABCFGS DFJPTVZ -200 0
+82 25 1d1+3000 10d10+10 5d13+25 none
+-20 -20 -20 -20
+CFHO ABL 0 S
+stand stand none 4000
+ABGHMVZ ABCDEFGHIJKQVX medium none
+#25206
+clock protector~
+a protector of the clock~
+A Protector of the Clock is standing here guarding the tower.
+~
+~
+unique~
+ABCFGT DJPTVZ -200 0
+82 25 1d1+3000 10d10+10 5d13+25 none
+-20 -20 -20 -20
+CO AB 0 C
+stand stand none 4000
+AHMV ABCDEFGHIJK medium none
+#25207
+clock necromancer~
+a necromancer of the clock~
+A Necromancer of the Clock stands here in a long flowing robe.
+~
+~
+unique~
+ABCFGR DJPVZc -200 0
+82 25 1d1+3000 10d10+10 5d13+25 none
+-20 -20 -20 -20
+CO AB C DF
+stand stand none 4000
+AHMV ABCDEFGHIJK medium none
+#25208
+raven~
+a raven~
+A raven swoops down at you from the sky!
+~
+~
+bat~
+ABCFG DJPTVZ -200 0
+82 25 1d1+2500 10d10+10 5d13+25 none
+-20 -20 -20 -20
+CFHO AB 0 CS
+stand stand none 3500
+AGHMV ABCDEFGHIJKP medium none
+#25209
+rat~
+a rat~
+A large Rat is here.
+~
+~
+unique~
+ABCFG DJPTVZ -200 0
+82 25 1d1+2500 10d10+10 5d13+25 none
+-20 -20 -20 -20
+CO AB 0 C
+stand stand none 3500
+AHMV ABCDEFGHIJK medium none
+#25210
+second hand~
+the second hand~
+The second hand is here stuck on the face of the old clock.
+~
+~
+unique~
+ABCFG DHJPVZc -300 0
+82 30 1d1+4000 10d10+10 5d13+30 none
+-20 -20 -20 -20
+CO AB C DF
+stand stand none 4000
+AHMV ABCDEFGHIJK medium none
+#25211
+minute hand~
+the minute hand~
+The minute hand is here stuck on the face of the old clock.
+~
+~
+unique~
+ABCFG DHJPTVZ -300 0
+82 30 1d1+4000 10d10+10 5d13+30 none
+-20 -20 -20 -20
+CO AB 0 C
+stand stand none 4000
+AHMV ABCDEFGHIJK medium none
+#25212
+hour hand~
+the hour hand~
+The hour hand is here stuck on the face of the old clock.
+~
+~
+unique~
+ABCFG DHJPVZc -300 0
+82 30 1d1+4000 10d10+10 5d13+30 none
+-20 -20 -20 -20
+CO AB C DF
+stand stand none 4000
+AHMV ABCDEFGHIJK medium none
+#25213
+tick tock keeper clock~
+Ticktock the Keeper of the Clock~
+Ticktock the Keeper of the Clock is here crouching in the corner!
+~
+~
+unique~
+ABCG BDHJPQTVZ -300 0
+84 30 1d1+5000 10d10+10 5d13+35 none
+-20 -20 -20 -20
+CO AB 0 C
+stand stand none 4000
+AHMV ABCDEFGHIJK medium none
+#25214
+guardian time~
+The Guardian Of Time~
+The Guardian Of Time watches you every move.
+~
+~
+unique~
+ABCFG DHJPTVZ -300 0
+82 30 1d1+4000 10d10+10 5d13+30 none
+-20 -20 -20 -20
+CO AB 0 C
+stand stand none 4000
+AHMV ABCDEFGHIJK medium none
+#25215
+father time~
+Father Time~
+Father Time sits in the middle of the room!
+~
+~
+unique~
+ABCGR DFHVZc -500 0
+85 50 1d1+5000 10d10+10 5d18+10 none
+-20 -20 -20 -20
+ADF AB C F
+sit stand male 6000
+AHMV ABCDEFGHIJK medium none
+#0
+
+
+
+#OBJECTS
+#25200
+clock wrench~
+a clock wrench~
+A clock wrench of some sort is lying here on the floor.~
+none~
+weapon ABHM AN
+exotic 6 14 pound C
+60 1 3000 P
+A
+19 15
+A
+18 15
+A
+13 100
+A
+12 100
+#25201
+key clock tower~
+the key to the clock tower~
+A small clock key lies here.~
+none~
+key B AO
+0 0 0 0 0
+0 1 2 P
+#25202
+wrist watch~
+a small wrist watch~
+A small watch of some sort lies ticking on the floor.~
+cloth~
+armor B AM
+BCE BCE BCE BCE 0
+60 1 1000 P
+A
+12 80
+A
+13 80
+A
+18 8
+A
+19 8
+#25203
+hour glass pendant~
+an Hourglass Pendant~
+A pendant in the shape of an hourglass lies here in the dirt.~
+steel~
+armor B AC
+BCE BCE BCE BCE 0
+60 1 1000 P
+A
+12 50
+A
+13 50
+A
+18 9
+A
+19 9
+#25204
+noon ring~
+a Noon Ring~
+A bright little ring has been dropped on the ground here.~
+steel~
+armor B AB
+BCE BCE BCE BCE 0
+60 1 1000 P
+A
+18 5
+A
+19 5
+A
+12 50
+A
+13 50
+#25205
+boots forever~
+the Boots Of Forever~
+A pair of brand new boots are here on the floor.~
+steel~
+armor AB AG
+BCE BCE BCE BCE 0
+60 1 1000 P
+A
+18 8
+A
+19 8
+A
+13 100
+A
+12 100
+#25206
+midnite mace~
+the Midnite Mace~
+A small, wicked looking mace lies here, its color black as midnight.~
+steel~
+weapon B AN
+mace 6 13 pound C
+65 1 1000 P
+A
+18 10
+A
+19 10
+A
+12 100
+A
+13 100
+#25207
+sword infinity~
+the Sword of Infinity~
+A sword with an infinity emblem on it hovers here in mid air!~
+steel~
+weapon B AN
+sword 6 13 slash C
+60 1 1000 P
+A
+18 10
+A
+19 10
+A
+12 100
+A
+13 100
+#25208
+thin watch chain~
+a thin watch chain~
+A thin watch chain is here on the floor.~
+steel~
+armor B AL
+BCE BCE BCE BCE 0
+60 1 1000 P
+A
+12 100
+A
+13 100
+A
+18 8
+A
+19 8
+#25209
+hand clock~
+the hour hand of a clock~
+The hour hand of a clock lies here.~
+none~
+weapon HM AN
+exotic 8 10 pound C
+60 1 0 P
+A
+19 8
+A
+18 8
+#0
+
+
+
+#ROOMS
+#25200
+Entrance To The Haunted Clock Tower~
+You stand before a HUGE clock tower.  It is very dark inside and looks as
+though it might be haunted.  You hear the clock dong as you enter the tower
+doors.  
+~
+0 4 0
+D0
+~
+~
+0 0 25201
+D2
+~
+~
+0 0 -1
+S
+#25201
+A Huge Atrium In The Base Of The Tower~
+The atrium of the clock tower is very large and is not really well lit at
+all.  As you look up you can see a series of bridges that disappear into the
+darkness.  This tower must be very, very tall.  
+~
+0 4 0
+D0
+~
+~
+0 0 25202
+D2
+~
+~
+0 0 25200
+S
+#25202
+A Huge Atrium In The Base Of The Tower~
+As you continure into the atrium you notice that a dark and narrow
+hallway extands to your east.  You shiver at the thought of travelling into
+this structure.  
+~
+0 0 0
+D1
+~
+~
+0 0 25204
+D2
+~
+~
+0 0 25201
+S
+#25203
+~
+~
+0 0 0
+D3
+~
+~
+0 0 25202
+S
+#25204
+A Long Dark Hallway~
+The hallway extends into the deep into the darkness.  The only light is
+provided by the one you brought.  You forge ahead carefully.  
+~
+0 1 0
+D1
+~
+~
+0 0 25205
+D3
+~
+~
+0 0 25202
+S
+#25205
+A Long Dark Hallway~
+The hallway extends into the deep into the darkness.  The only light is
+provided by the one you brought.  You forge ahead carefully.  
+~
+0 1 0
+D1
+~
+~
+0 0 25206
+D3
+~
+~
+0 0 25204
+S
+#25206
+At The Bottom Of A Large Spiral Staircase~
+The hallway has finally ended and you realize that you have reached an
+immense spiral staircase leading up into the tower.  The stairs are wooden
+and old.  Your first step brings a crackling sound from the step!  
+~
+0 1 0
+D3
+~
+~
+0 0 25205
+D4
+~
+~
+0 0 25207
+S
+#25207
+Atop The First Spiral Of Stairs~
+The stairs have ended and really were not as long as you had once
+anticipated.  You do, however, realize that you must cross an old rop bridge
+that extends high above the atrium to you west.  
+~
+0 1 0
+D3
+~
+~
+0 0 25208
+D5
+~
+~
+0 0 25206
+S
+#25208
+A Small Bridge Over The Atrium~
+As you step on the rope bridge it bends and sways with your weight.  It
+extends into the darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 25207
+D3
+~
+~
+0 0 25209
+S
+#25209
+A Small Bridge Over The Atrium~
+As you step on the rope bridge it bends and sways with your weight.  It
+extends into the darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 25208
+D3
+~
+~
+0 0 25210
+S
+#25210
+A Small Bridge Over The Atrium~
+As you step on the rope bridge it bends and sways with your weight.  It
+extends into the darkness.  
+~
+0 1 0
+D1
+~
+~
+0 0 25209
+D3
+~
+~
+0 0 25211
+S
+#25211
+A Small Bridge Over The Atrium~
+You have finally reached the end of the first bridge.  Looking up you can
+barely make out another bridge crossing back over to the other side.  This
+might have been a bad idea...  
+~
+0 1 0
+D0
+~
+~
+0 0 25212
+D1
+~
+~
+0 0 25210
+S
+#25212
+Another Spiral Stairway~
+There is another set of spiral stairs leading up into the tower.  These
+look a little bit weaker than the first stairs did which is not a good
+thing.  
+~
+0 1 0
+D2
+~
+~
+0 0 25211
+D4
+~
+~
+0 0 25213
+S
+#25213
+Atop The Second Spiral Of Stairs~
+The top of these stairs reveals a small stone ledge leading south to the
+next bridge.  This give you a very good view of the middle part of the
+tower.  Screams and moans echo in your ears.  
+~
+0 1 0
+D2
+~
+~
+0 0 25214
+D5
+~
+~
+0 0 25212
+S
+#25214
+A Bridge High Above The Atrium~
+This bridge seems to have been crafted by a better builder.  The boards
+seem a little more sturdy beneath your feet.  
+~
+0 1 0
+D0
+~
+~
+0 0 25213
+D1
+~
+~
+0 0 25215
+S
+#25215
+A Bridge High Above The Atrium~
+This bridge seems to have been crafted by a better builder.  The boards
+seem a little more sturdy beneath your feet.  
+~
+0 1 0
+D1
+~
+~
+0 0 25216
+D3
+~
+~
+0 0 25214
+S
+#25216
+A Bridge High Above The Atrium~
+This bridge seems to have been crafted by a better builder.  The boards
+seem a little more sturdy beneath your feet.  
+~
+0 1 0
+D1
+~
+~
+0 0 25217
+D3
+~
+~
+0 0 25215
+S
+#25217
+A Bridge High Above The Atrium~
+This bridge seems to have been crafted by a better builder.  The boards
+seem a little more sturdy beneath your feet.  
+~
+0 1 0
+D1
+~
+~
+0 0 25218
+D3
+~
+~
+0 0 25216
+S
+#25218
+A Bridge High Above The Atrium~
+At he end of this bridge you notice a small stone stepway spiraling up to
+yet another level.  The eerie clock dongs again on the hour.  
+~
+0 1 0
+D0
+~
+~
+0 0 25219
+D3
+~
+~
+0 0 25217
+S
+#25219
+More Spiral Stairs!~
+The small stone steps are wet and slimy.  It is very hard to keep your
+footing while battling so many fierce entities.  They are not very long
+though and you can easily see the next level above you using your light.  
+~
+0 1 0
+D2
+~
+~
+0 0 25218
+D4
+~
+~
+0 0 25220
+S
+#25220
+Atop The Third Spiral Of Stairs~
+Climbing this clock tower is starting to become a chore.  Another ledge
+leads to the south and to a small rope bridge across the top of the tower. 
+If you were to fall, you would surely die.  
+~
+0 1 0
+D2
+~
+~
+0 0 25221
+D5
+~
+~
+0 0 25219
+S
+#25221
+A Small Weak Footbridge~
+You have to balance on this rope to traverse the atrium.  It sways with
+your every step and you are attacked almost constantly!  
+~
+0 1 0
+D0
+~
+~
+0 0 25220
+D3
+~
+~
+0 0 25222
+S
+#25222
+A Small Weak Footbridge~
+You have to balance on this rope to traverse the atrium.  It sways with
+your every step and you are attacked almost constantly!  
+~
+0 1 0
+D1
+~
+~
+0 0 25221
+D3
+~
+~
+0 0 25223
+S
+#25223
+A Small Weak Footbridge~
+You have to balance on this rope to traverse the atrium.  It sways with
+your every step and you are attacked almost constantly!  
+~
+0 1 0
+D1
+~
+~
+0 0 25222
+D3
+~
+~
+0 0 25224
+S
+#25224
+A Small Weak Footbridge~
+You have to balance on this rope to traverse the atrium.  It sways with
+your every step and you are attacked almost constantly!  
+~
+0 1 0
+D1
+~
+~
+0 0 25223
+D3
+~
+~
+0 0 25225
+S
+#25225
+A Small Weak Footbridge~
+As you hop off the rope you notice a small door with some encryptions on
+it to the north.  There is a gentle breeze comming from it.  
+~
+0 1 0
+D0
+~
+~
+0 0 25226
+D1
+~
+~
+0 0 25224
+S
+#25226
+A Small Winding Hallway~
+You have entered a small dark hallway that seems to wind to the outside
+of the structure.  The breeze gets gusty at times up here and makes pushing
+on a little harder.  
+~
+0 1 0
+D1
+~
+~
+0 0 25227
+D2
+~
+~
+0 0 25225
+S
+#25227
+A Small Winding Hallway~
+You have entered a small dark hallway that seems to wind to the outside
+of the structure.  The breeze gets gusty at times up here and makes pushing
+on a little harder.  
+~
+0 1 0
+D2
+~
+~
+0 0 25228
+D3
+~
+~
+0 0 25226
+S
+#25228
+An Outside Balcony Of The Clock Tower~
+You have reached an outside balcony high upon the outside wall of the
+clock tower.  As you look up, the face of the clock almost seems to look
+down on you.  Though you have heard the clock ringing, it does not move! 
+There is a ladder on the far eastern wall.  
+~
+0 1 0
+D0
+~
+~
+0 0 25227
+D1
+~
+~
+0 0 25229
+S
+#25229
+An Outside Balcony Of The Clock Tower~
+You have reached an outside balcony high upon the outside wall of the
+clock tower.  As you look up, the face of the clock almost seems to look
+down on you.  Though you have heard the clock ringing, it does not move! 
+There is a ladder on the far eastern wall.  
+~
+0 1 0
+D1
+~
+~
+0 0 25230
+D3
+~
+~
+0 0 25228
+S
+#25230
+An Outside Balcony Of The Clock Tower~
+You have reached an outside balcony high upon the outside wall of the
+clock tower.  As you look up, the face of the clock almost seems to look
+down on you.  Though you have heard the clock ringing, it does not move! 
+There is a ladder on the far eastern wall.  
+~
+0 1 0
+D1
+~
+~
+0 0 25231
+D3
+~
+~
+0 0 25229
+S
+#25231
+An Outside Balcony Of The Clock Tower~
+You have reached an outside balcony high upon the outside wall of the
+clock tower.  As you look up, the face of the clock almost seems to look
+down on you.  Though you have heard the clock ringing, it does not move! 
+There is a ladder on the far eastern wall.  
+~
+0 1 0
+D1
+~
+~
+0 0 25232
+D3
+~
+~
+0 0 25230
+S
+#25232
+An Outside Balcony Of The Clock Tower~
+You have reached an outside balcony high upon the outside wall of the
+clock tower.  As you look up, the face of the clock almost seems to look
+down on you.  Though you have heard the clock ringing, it does not move! 
+There is a ladder to the north.  
+~
+0 1 0
+D0
+~
+~
+0 0 25233
+D3
+~
+~
+0 0 25231
+S
+#25233
+At The Base Of A Weak Rope Ladder~
+There is a weak rope ladder that clutches to the wall leading to the top
+of the tower here.  It does not look very sturdy at all.  
+~
+0 1 0
+D2
+~
+~
+0 0 25232
+D4
+~
+~
+0 0 25234
+S
+#25234
+On A Weak Rope Ladder~
+There is a weak rope ladder that clutches to the wall leading to the top
+of the tower here.  It does not look very sturdy at all.  
+~
+0 1 0
+D4
+~
+~
+0 0 25235
+D5
+~
+~
+0 0 25233
+S
+#25235
+On A Weak Rope Ladder~
+There is a weak rope ladder that clutches to the wall leading to the top
+of the tower here.  It does not look very sturdy at all.  
+~
+0 5 0
+D4
+~
+~
+0 0 25239
+D5
+~
+~
+0 0 25234
+S
+#25236
+The Center Of The Clock Tower~
+You stand in the center of the top of the clock tower.  A MASSIVE flaming
+statue of a gargoyle sits here with an imposing presence.  It seems to be
+holding something.  
+~
+0 0 0
+D0
+~
+~
+0 0 25244
+D1
+~
+~
+0 0 25249
+D2
+~
+~
+0 0 25253
+D3
+~
+~
+0 0 25248
+S
+#25237
+The Northwest Corner Of The Clock Tower~
+You are in the northwest corner of the top of the clock tower.  A statue
+HUGE gargoyle is posted on the ledge.  It almost looks alive!  
+~
+0 1 0
+D1
+~
+~
+0 0 25238
+D2
+~
+~
+0 0 25242
+S
+#25238
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D1
+~
+~
+0 0 25239
+D2
+~
+~
+0 0 25243
+D3
+~
+~
+0 0 25237
+S
+#25239
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D1
+~
+~
+0 0 25240
+D2
+~
+~
+0 0 25244
+D3
+~
+~
+0 0 25238
+D5
+~
+~
+0 0 25235
+S
+#25240
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D1
+~
+~
+0 0 25241
+D2
+~
+~
+0 0 25245
+D3
+~
+~
+0 0 25239
+S
+#25241
+The Northeast Corner Of The Clock Tower~
+You are in the northeast corner of the top of the clock tower.  A statue
+HUGE gargoyle is posted on the ledge.  It almost looks alive!  
+~
+0 1 0
+D2
+~
+~
+0 0 25246
+D3
+~
+~
+0 0 25240
+S
+#25242
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D0
+~
+~
+0 0 25237
+D1
+~
+~
+0 0 25243
+D2
+~
+~
+0 0 25247
+S
+#25243
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D0
+~
+~
+0 0 25238
+D1
+~
+~
+0 0 25244
+D2
+~
+~
+0 0 25248
+D3
+~
+~
+0 0 25242
+S
+#25244
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D0
+~
+~
+0 0 25239
+D1
+~
+~
+0 0 25245
+D2
+~
+~
+0 0 25236
+D3
+~
+~
+0 0 25243
+S
+#25245
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D0
+~
+~
+0 0 25240
+D1
+~
+~
+0 0 25246
+D2
+~
+~
+0 0 25249
+D3
+~
+~
+0 0 25244
+S
+#25246
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D0
+~
+~
+0 0 25241
+D2
+~
+~
+0 0 25250
+D3
+~
+~
+0 0 25245
+S
+#25247
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D0
+~
+~
+0 0 25242
+D1
+~
+~
+0 0 25248
+D2
+~
+~
+0 0 25251
+S
+#25248
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D0
+~
+~
+0 0 25243
+D1
+~
+~
+0 0 25236
+D2
+~
+~
+0 0 25252
+D3
+~
+~
+0 0 25247
+S
+#25249
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D0
+~
+~
+0 0 25245
+D1
+~
+~
+0 0 25250
+D2
+~
+~
+0 0 25254
+D3
+~
+~
+0 0 25236
+S
+#25250
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D0
+~
+~
+0 0 25246
+D2
+~
+~
+0 0 25255
+D3
+~
+~
+0 0 25249
+S
+#25251
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D0
+~
+~
+0 0 25247
+D1
+~
+~
+0 0 25252
+D2
+~
+~
+0 0 25256
+S
+#25252
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D0
+~
+~
+0 0 25248
+D1
+~
+~
+0 0 25253
+D2
+~
+~
+0 0 25257
+D3
+~
+~
+0 0 25251
+S
+#25253
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D0
+~
+~
+0 0 25236
+D1
+~
+~
+0 0 25254
+D2
+~
+~
+0 0 25258
+D3
+~
+~
+0 0 25252
+S
+#25254
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D0
+~
+~
+0 0 25249
+D1
+~
+~
+0 0 25255
+D2
+~
+~
+0 0 25259
+D3
+~
+~
+0 0 25253
+S
+#25255
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D0
+~
+~
+0 0 25250
+D2
+~
+~
+0 0 25260
+D3
+~
+~
+0 0 25254
+S
+#25256
+The Southwest Corner Of The Clock Tower~
+You are in the southwest corner of the top of the clock tower.  A statue
+HUGE gargoyle is posted on the ledge.  It almost looks alive!  
+~
+0 1 0
+D0
+~
+~
+0 0 25251
+D1
+~
+~
+0 0 25257
+S
+#25257
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D0
+~
+~
+0 0 25252
+D1
+~
+~
+0 0 25258
+D2
+~
+~
+0 0 25261
+D3
+~
+~
+0 0 25256
+S
+#25258
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D0
+~
+~
+0 0 25253
+D1
+~
+~
+0 0 25259
+D3
+~
+~
+0 0 25257
+S
+#25259
+The Top Of The Clock Tower~
+You are standing atop the great haunted clock tower.  Beasts, ghouls, and
+ghosts of many types are all over the top of this immense structure.  You
+have a fight on your hands every direction you go!  
+~
+0 1 0
+D0
+~
+~
+0 0 25254
+D1
+~
+~
+0 0 25260
+D3
+~
+~
+0 0 25258
+S
+#25260
+The Southeast Corner Of The Clock Tower~
+You are in the southeast corner of the top of the clock tower.  A statue
+HUGE gargoyle is posted on the ledge.  It almost looks alive!  
+~
+0 1 0
+D0
+~
+~
+0 0 25255
+D3
+~
+~
+0 0 25259
+S
+#25261
+Above The Face Of The Clock Tower!~
+There is a small ladder leading down to the face of the tower here.  Do
+you dare to go down and explore any further?  
+~
+0 5 0
+D0
+~
+~
+0 0 25257
+D5
+~
+~
+0 0 25262
+S
+#25262
+The Face Of The Clock Tower!~
+You stand on a small scaffold next to the face of the tower clock.  The
+hands are stuck at midnite.  There is a small door leading behind the face
+here.  
+~
+0 1 0
+D0
+~
+~
+2 25201 25263
+D4
+~
+~
+0 0 25261
+S
+#25263
+The Gears Of The Old Clock~
+You have entered the gear room of the old clock.  The gears seem to be
+stuck for some reason.  There is an old feeble creature croutching in the
+corner!  
+~
+0 1 0
+D0
+~
+~
+2 25201 25264
+D2
+~
+~
+2 0 25262
+S
+#25264
+The House Of Father Time~
+The room is bare except for a table and some chairs in the center of the
+room.  Father Time sits in the middle of the room.  He is the true keeper of
+the tower.  
+~
+0 1 0
+D2
+~
+~
+2 0 25263
+S
+#25265
+~
+~
+0 4 0
+S
+#25266
+~
+~
+0 4 0
+S
+#25299
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 25262 0 2
+D 0 25263 0 2
+D 0 25263 2 2
+D 0 25264 2 2
+M 0 25201 15 25202 1
+M 0 25200 15 25202 1
+M 0 25203 15 25204 1
+M 0 25202 15 25204 1
+M 0 25204 15 25205 1
+M 0 25200 15 25206 1
+M 0 25201 15 25207 1
+M 0 25202 15 25208 1
+M 0 25203 15 25209 1
+M 0 25204 15 25210 1
+M 0 25201 15 25211 1
+M 0 25200 15 25211 1
+M 0 25203 15 25212 1
+M 0 25202 15 25212 1
+M 0 25200 15 25213 1
+M 0 25204 15 25213 1
+M 0 25201 15 25214 1
+M 0 25203 15 25215 1
+M 0 25202 15 25215 1
+M 0 25204 15 25216 1
+M 0 25200 15 25217 1
+M 0 25201 15 25218 1
+M 0 25203 1 25219 0
+M 0 25204 15 25220 1
+M 0 25200 15 25221 1
+M 0 25201 15 25222 1
+M 0 25203 15 25223 1
+M 0 25204 15 25224 1
+M 0 25200 15 25225 1
+M 0 25204 1 25227 0
+M 0 25200 1 25227 0
+M 0 25200 15 25228 1
+M 0 25202 15 25229 1
+M 0 25204 15 25230 1
+M 0 25200 15 25232 1
+M 0 25201 15 25233 1
+M 0 25203 15 25234 1
+M 0 25214 10 25236 1
+E 0 25207 10 16
+E 0 25201 10 17
+M 0 25205 15 25237 1
+E 0 25203 10 3
+M 0 25206 10 25238 1
+M 0 25207 10 25239 1
+M 0 25208 10 25240 1
+M 0 25205 15 25241 1
+E 0 25204 10 2
+M 0 25209 10 25242 1
+M 0 25208 10 25243 1
+M 0 25207 10 25244 1
+M 0 25206 10 25245 1
+M 0 25209 10 25246 1
+M 0 25206 10 25247 1
+M 0 25207 10 25248 1
+M 0 25208 10 25249 1
+M 0 25209 10 25250 1
+M 0 25206 10 25251 1
+M 0 25209 10 25252 1
+M 0 25208 10 25253 1
+M 0 25207 10 25254 1
+M 0 25206 10 25255 1
+M 0 25205 15 25256 1
+E 0 25202 10 15
+M 0 25207 10 25257 1
+M 0 25208 10 25258 1
+M 0 25209 10 25259 1
+M 0 25205 15 25260 1
+E 0 25208 10 13
+M 0 25210 10 25262 1
+M 0 25211 10 25262 1
+M 0 25212 10 25262 1
+M 0 25213 10 25263 1
+E 0 25200 10 16
+M 0 25215 10 25264 1
+E 0 25205 10 8
+E 0 25206 10 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

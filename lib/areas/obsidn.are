@@ -1526,7 +1526,9 @@ D3
 S
 #29608
 A side street~
-{D You are standing near the Bazaar of Obsidian. To the west lies the street that branches off onto Main Street. To the east lies the bazaar, where you can buy new things for yourself and others.
+{D You are standing near the Bazaar of Obsidian. To the west lies the 
+street that branches off onto Main Street. To the east lies the bazaar, 
+where you can buy new things for yourself and others.
 ~
 0 0 0
 D1
@@ -1540,7 +1542,9 @@ D3
 S
 #29609
 Obsidian Bazaar~
-{D You are standing in the Obsidian Bazaar. Here, you can buy drinks. To the north and south lie seperate stores. The smell of components can be smelled to the north, and the sounds of a smithy can be heard to the south.
+{D You are standing in the Obsidian Bazaar. Here, you can buy drinks. 
+To the north and south lie seperate stores. The smell of components can 
+be smelled to the north, and the sounds of a smithy can be heard to the south.
 ~
 0 0 0
 D0
@@ -1590,7 +1594,9 @@ D3
 S
 #29612
 Obsidian Bazaar~
-{D You are standing in the Obsidian Bazaar. Here, you can buy various foods. To the north and south lie seperate stores. To the south, sounds of a smithy can be heard, while to the north, scrolls can be seen.
+{D You are standing in the Obsidian Bazaar. Here, you can buy various 
+foods. To the north and south lie seperate stores. To the south, sounds 
+of a smithy can be heard, while to the north, scrolls can be seen.
 ~
 0 0 0
 D0
@@ -1604,7 +1610,9 @@ D2
 S
 #29613
 Obsidian Bazaar~
-{D You are standing in the Obsidian Bazaar. Here, you can buy armour. To the north and west lie seperate stores. The smell of food can be smelled to the north, and the sounds of a smithy can be heard to the west.
+{D You are standing in the Obsidian Bazaar. Here, you can buy armour. 
+To the north and west lie seperate stores. The smell of food wafts in 
+from the north, and the sounds of a smithy can be heard to the west.
 ~
 0 0 0
 D0
@@ -1618,7 +1626,9 @@ D3
 S
 #29614
 Obsidian Bazaar~
-{D You are standing in the Obsidian Bazaar. Here, you can buy weapons. To the north and east lie seperate stores. The smell of drinks can be smelled to the north, and the sounds of a smithy can be heard to the east.
+{D You are standing in the Obsidian Bazaar. Here, you can buy weapons. 
+To the north and east lie seperate stores. The smell of drinks is coming 
+from the north, and the sounds of a smithy can be heard to the east.
 ~
 0 0 0
 D0
@@ -1653,7 +1663,9 @@ D3
 S
 #29616
 A side street~
-{D You are standing on a side street. Directly to the east lies the Main Street. Though this road is less travelled, demons still walk upon it. The street continues to the west.
+{D You are standing on a side street. Directly to the east lies the Main 
+Street. Though this road is less travelled, demons still walk upon it. 
+The street continues to the west.
 ~
 0 0 0
 D1
@@ -1667,7 +1679,9 @@ D3
 S
 #29617
 A side street~
-{D You are standing on a side street. Nearby to the east lies the Main Street. Though this road is less travelled, demons still walk upon it. The street continues to the east and west.
+{D You are standing on a side street. Nearby to the east lies the Main 
+Street. Though this road is less travelled, demons still walk upon it. 
+The street continues to the east and west.
 ~
 0 0 0
 D1
@@ -1681,7 +1695,9 @@ D3
 S
 #29618
 A side street~
-{D You are standing on a side street. Far to the east lies the Main Street. Though this road is less travelled, demons still walk upon it. The street continues to the east and north.
+{D You are standing on a side street. Far to the east lies the Main Street. 
+Though this road is less travelled, demons still walk upon it. The street 
+continues to the east and north.
 ~
 0 0 0
 D0
@@ -1695,7 +1711,9 @@ D1
 S
 #29619
 A side street~
-{D You are standing on a side street. Far to the east lies the Main Street. Though this road is less travelled, demons still walk upon it. The street continues to the east and south.
+{D You are standing on a side street. Far to the east lies the Main Street. 
+Though this road is less travelled, demons still walk upon it. The street 
+continues to the east and south.
 ~
 0 0 0
 D1
@@ -1709,7 +1727,9 @@ D2
 S
 #29620
 The Portal to Harkanian Woods~
-{D You are standing on a side street. In the center of the room lies a portal. Far to the east lies the Main Street. Though this road is less travelled, demons still walk upon it. The street continues to the west.
+{D You are standing on a side street. In the center of the room lies a portal. 
+Far to the east lies the Main Street. Though this road is less travelled, 
+demons still walk upon it. The street continues to the west.
 ~
 0 0 0
 D3
@@ -1719,7 +1739,9 @@ D3
 S
 #29621
 Main Street~
-{D You are standing on the Main Street of Obsidian. All around you, demons walk the street, glaring at you, hatred showing in their glowing red eyes. Main Street continues to the north and south.
+{D You are standing on the Main Street of Obsidian. All around you, demons 
+walk the street, glaring at you, hatred showing in their glowing red eyes. 
+Main Street continues to the north and south.
 ~
 0 0 0
 D0
@@ -1733,7 +1755,10 @@ D2
 S
 #29622
 Main Street~
-{D You are standing on the Main Street of Obsidian. All around you, demons walk the street, glaring at you, hatred showing in their glowing red eyes. Main Street continues to the north and south. Another street branches off to the east.
+{D You are standing on the Main Street of Obsidian. All around you, demons 
+walk the street, glaring at you, hatred showing in their glowing red eyes. 
+Main Street continues to the north and south. Another street branches off 
+to the east.
 ~
 0 0 0
 D0
@@ -1870,7 +1895,9 @@ D3
 S
 #29630
 Esper Street~
-{D You are standing on Esper Street. This road seems heavily traveled, and several demons can be seen walking upon it. Directly to the east lies Main Street, and Esper Street continues to the west.
+{D You are standing on Esper Street. This road seems heavily traveled, 
+and several demons can be seen walking upon it. Directly to the east 
+lies Main Street, and Esper Street continues to the west.
 ~
 0 0 0
 D1
@@ -1884,7 +1911,9 @@ D3
 S
 #29631
 Esper Street~
-{D You are standing on Esper Street. This road seems heavily traveled, and several demons can be seen walking upon it. Nearby to the east lies Main Street, and Esper Street continues to the west.
+{D You are standing on Esper Street. This road seems heavily traveled, 
+and several demons can be seen walking upon it. Nearby to the east 
+lies Main Street, and Esper Street continues to the west.
 ~
 0 0 0
 D1
@@ -1898,7 +1927,9 @@ D3
 S
 #29632
 Esper Street~
-{D You are standing on Esper Street. This road seems heavily traveled, and several demons can be seen walking upon it. Far to the east lies Main Street, and Esper Street continues to the north and west.
+{D You are standing on Esper Street. This road seems heavily traveled, 
+and several demons can be seen walking upon it. Far to the east lies 
+Main Street, and Esper Street continues to the north and west.
 ~
 0 0 0
 D0
@@ -1912,7 +1943,9 @@ D1
 S
 #29633
 Esper Street~
-{D You are standing on Esper Street. This road seems heavily traveled, and several demons can be seen walking upon it. Far to the east lies Main Street, and Esper Street continues to the south and west.
+{D You are standing on Esper Street. This road seems heavily traveled, 
+and several demons can be seen walking upon it. Far to the east lies 
+Main Street, and Esper Street continues to the south and west.
 ~
 0 0 0
 D2
