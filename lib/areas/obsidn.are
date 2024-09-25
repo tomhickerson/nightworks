@@ -1726,8 +1726,8 @@ D2
 0 0 29618
 S
 #29620
-The Portal to Harkanian Woods~
-{D You are standing on a side street. In the center of the room lies a portal. 
+The Portal to Harkanian Tunnels~
+{D You are standing on a side street. In the center of the room lies a grate leading down. 
 Far to the east lies the Main Street. Though this road is less travelled, 
 demons still walk upon it. The street continues to the west.
 ~
@@ -1736,6 +1736,10 @@ D3
 ~
 ~
 0 0 29619
+D5
+~
+grate~
+1 -1 29651
 S
 #29621
 Main Street~
@@ -2255,9 +2259,9 @@ D1
 S
 #29651
 A dusty tunnel~
-You are standing in a large valley.  The ground is quite disty, and you
-can see a few tracks.  To the south lies a large stone wall, and what looks
-like a tunnel.  All around you is silence.  Not a sound can be heard, except
+You are standing in a large tunnel under the city.  The ground is quite disty, and you
+can see a few tracks.  To the south lies a tunnel opening, and above you is 
+an exit to the city.  All around you is silence.  Not a sound can be heard, except
 your breathing.  
 ~
 0 4 0
@@ -2265,12 +2269,16 @@ D2
 ~
 ~
 0 0 29652
+D4
+~
+grate~
+1 -1 29620
 S
 #29652
 A dusty tunnel~
-You are standing in a large valley.  The ground is quite disty, and you
+You are standing in a tunnel network under the city itself.  The ground is quite disty, and you
 can see a few tracks.  To the south lies a large stone wall, and what looks
-like a tunnel.  All around you is silence.  Not a sound can be heard, except
+like the continuing passage.  All around you is silence.  Not a sound can be heard, except
 your breathing.  
 ~
 0 0 0
@@ -2307,7 +2315,7 @@ D3
 S
 #29654
 A Maze of tunnels~
-Tunnels lead in every direction. Can you find your way out?
+Tunnels lead in every direction. Can you discover your way out?
 ~
 0 8204 0
 D0
@@ -2329,7 +2337,7 @@ D3
 S
 #29655
 A Maze of tunnels~
-Tunnels lead in every direction. Can you find your way out?
+Tunnels lead in every direction. Can you ascertain your way out?
 ~
 0 8204 0
 D0
@@ -2351,7 +2359,7 @@ D3
 S
 #29656
 A Maze of tunnels~
-Tunnels lead in every direction. Can you find your way out?
+Tunnels lead in every direction. Can you figure your way out?
 ~
 0 8204 0
 D0
@@ -2373,7 +2381,7 @@ D3
 S
 #29657
 A Maze of tunnels~
-Tunnels lead in every direction. Can you find your way out?
+Tunnels lead in every direction. Can you determine your way out?
 ~
 0 8204 0
 D0
@@ -2395,7 +2403,7 @@ D3
 S
 #29658
 A Maze of tunnels~
-Tunnels lead in every direction. Can you find your way out?
+Tunnels lead in every direction. Can you scry your way out?
 ~
 0 8204 0
 D0
@@ -2417,7 +2425,7 @@ D3
 S
 #29659
 A Maze of tunnels~
-Tunnels lead in every direction. Can you find your way out?
+Tunnels lead in every direction. Can you examine your way out?
 ~
 0 8204 0
 D0
@@ -2439,7 +2447,7 @@ D3
 S
 #29660
 A Maze of tunnels~
-Tunnels lead in every direction. Can you find your way out?
+Tunnels lead in every direction. Can you wander your way out?
 ~
 0 8204 0
 D0
@@ -2463,8 +2471,8 @@ S
 A dusty tunnel~
 You are standing in a very large, dusty tunnel.  There are several types
 of tracks in the sand, but that is the only visible sign of life.  To the
-east, a tunnel branches off, and the air seems to get warmer as you go east.
-The main tunnel continues to the south.  
+east, a tunnel branches off, and the air seems to get warmer as you go 
+that way.  The main tunnel continues to the south.  
 ~
 0 8 0
 D0
@@ -2686,7 +2694,7 @@ A dusty tunnel~
 You are standing in a very large, very wide tunnel.  There are several
 types of tracks on the ground, many of which are clawed feet.  Other than
 the tracks, there are no visible signs of life.  The tunnel continues to the
-south and east 
+south and east. 
 ~
 0 8 0
 D1
