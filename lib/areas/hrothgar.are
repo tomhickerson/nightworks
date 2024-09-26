@@ -2102,6 +2102,9 @@ D2
 S
 #27376
 On the Black Stream~
+The watery ground here deepens and gives way to a black stream, which 
+courses with a strong current.  Bubbles and gurgles swirl here through 
+the eddies and flows of this cursed stream, which pull at you.
 ~
 0 ANX 6
 D0
@@ -4228,6 +4231,9 @@ D3
 S
 #27463
 On the Black Stream~
+The watery ground here deepens and gives way to a black stream, which 
+courses with a strong current.  Bubbles and gurgles swirl here through 
+the eddies and flows of this cursed stream, which pull at you.
 ~
 0 ANX 6
 D0
@@ -4245,6 +4251,9 @@ D3
 S
 #27464
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, thick and greasy.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -4266,6 +4275,9 @@ D3
 S
 #27465
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, thick and slimy.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -4287,6 +4299,9 @@ D3
 S
 #27466
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, thick and bubbly.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -4308,6 +4323,9 @@ D3
 S
 #27467
 On the Black Stream~
+The watery ground here deepens and gives way to a dark stream, which 
+courses with a strong current.  Bubbles and gurgles swirl here through 
+the eddies and flows of this cursed stream, which pull at you.
 ~
 0 ANX 6
 D0
@@ -4329,6 +4347,9 @@ D3
 S
 #27468
 On the Black Stream~
+The watery ground here deepens and gives way to a fetid stream, which 
+courses with a strong current.  Bubbles and gurgles swirl here through 
+the eddies and flows of this cursed stream, which pull at you.
 ~
 0 ANX 6
 D0
@@ -4350,6 +4371,9 @@ D3
 S
 #27469
 On the Black Stream~
+The watery ground here deepens and gives way to a stinking stream, which 
+courses with a strong current.  Bubbles and gurgles swirl here through 
+the eddies and flows of this cursed stream, which pull at you.
 ~
 0 ANX 6
 D0
@@ -4371,6 +4395,9 @@ D3
 S
 #27470
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, thick and fetid.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -4392,6 +4419,9 @@ D3
 S
 #27471
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, thick and smelly.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -4413,6 +4443,9 @@ D3
 S
 #27472
 On the Black Stream~
+The watery ground here deepens and gives way to a black stream, which 
+courses along with a strong current.  Bubbles and gurgles swirl here through 
+the eddies and flows of this cursed stream, which pull at you.
 ~
 0 ANX 6
 D0
@@ -4434,6 +4467,10 @@ D3
 S
 #27473
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, thick and greasy.
+The ground, if you can call it that, is green and black, and 
+gurgles and smacks at you as you step through it, sinking in 
+places up to your calves.
 ~
 0 ANX 6
 D0
@@ -4679,6 +4716,10 @@ D3
 S
 #27484
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, thick and greasy.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
+Only a few blades of grass spring up here in the fetid waste.
 ~
 0 ANX 6
 D0
@@ -4801,6 +4842,9 @@ D3
 S
 #27489
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, thick and fetid.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -4822,6 +4866,9 @@ D3
 S
 #27490
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, thick and slimy.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -4843,6 +4890,10 @@ D3
 S
 #27491
 {gStanding Atop the Embankment{x~
+You have found some solid ground in this wilderness, and 
+are able to scramble on top of it and survey the misty 
+surroundings.  Dead leaves and twigs line the ground here,
+and mosses and slimes still squelch underfoot.
 ~
 0 ANX 2
 D0
@@ -4864,6 +4915,9 @@ D3
 S
 #27492
 {bA Small Reservoir{x~
+Here you find a small pool of clear water, covered over 
+by large, black trees, their roots drinking deep into the 
+bottomless spring.
 ~
 0 ANX 6
 D3
@@ -4873,6 +4927,9 @@ D3
 S
 #27493
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, thick and grimy.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -4894,6 +4951,9 @@ D3
 S
 #27494
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, thick and gross.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -4915,6 +4975,9 @@ D3
 S
 #27495
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, thick and greasy.
+The ground is green and black, and gurgles and bubbles at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -4936,6 +4999,9 @@ D3
 S
 #27496
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, thick and wet.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -4957,6 +5023,10 @@ D3
 S
 #27497
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, and a smell 
+rises from it which is foul indeed.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D1
@@ -4995,6 +5065,9 @@ D3
 S
 #27499
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, thick and foul.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -5016,6 +5089,9 @@ D3
 S
 #27500
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, thick and tarry.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -5037,6 +5113,9 @@ D3
 S
 #27501
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, sticky and greasy.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -5058,6 +5137,9 @@ D3
 S
 #27502
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, foul and greasy.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -5079,6 +5161,9 @@ D3
 S
 #27503
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, smelly and greasy.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -5100,6 +5185,9 @@ D3
 S
 #27504
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, oozy and greasy.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -5121,6 +5209,9 @@ D3
 S
 #27505
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, thick and slimy.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -5142,6 +5233,9 @@ D3
 S
 #27506
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, thick as pudding.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -5163,6 +5257,9 @@ D3
 S
 #27507
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, oily and greasy.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -5209,6 +5306,9 @@ D3
 S
 #27509
 On The Black Stream~
+The watery ground here deepens and gives way to a black stream, which 
+courses along with the current.  Bubbles and gurgles swirl here through 
+the eddies and flows of this cursed stream, which pull at you.
 ~
 0 ANX 6
 D0
@@ -5230,6 +5330,9 @@ D3
 S
 #27510
 {gThe Poisoned Waste{x~
+You are making your way through muck and mud, thick and oily.
+The ground is green and black, and gurgles and smacks at you
+as you step through it, sinking in places up to your calves.
 ~
 0 ANX 6
 D0
@@ -5251,6 +5354,10 @@ D3
 S
 #27511
 {BFloating Above a Sinkhole{x~
+Here the swamp waters deepen even further, and your feet 
+lose their footing here and there in the brackish waters.  
+You can go in all four directions, but you also see a sinkhole 
+beneath you that you could swim into... if you dare...
 ~
 0 ANX 6
 D0
@@ -5531,7 +5638,7 @@ D0
 1 0 27385
 S
 #27529
-~
+Floating in a dark passage~
 ~
 0 ADNXc 6
 D0
@@ -5544,7 +5651,7 @@ D3
 0 0 27517
 S
 #27530
-~
+Floating througn a dark tunnel~
 ~
 0 ADNXc 6
 D2
