@@ -5638,7 +5638,9 @@ D0
 1 0 27385
 S
 #27529
-Floating in a dark passage~
+{BSwimming in a dark passage{x~
+You are swimming through a dark tunnel, trying to hold your breath.
+To the north you can see a bright blue glow.
 ~
 0 ADNXc 6
 D0
@@ -5651,7 +5653,11 @@ D3
 0 0 27517
 S
 #27530
-Floating througn a dark tunnel~
+{BSwimming througn a dark tunnel{x~
+You are floating through an underground cave, lit by blue and 
+green mosses, growing from the walls.  The current pulls you 
+towards the surface here, which looks to be an underground 
+cave.
 ~
 0 ADNXc 6
 D2
@@ -5665,6 +5671,10 @@ D4
 S
 #27531
 {BFloating Before a Gloomy Cave{x~
+You are floating on the surface of an underground lake, which 
+has a shoreline and solid ground to the north.  This area is 
+dark and with a low ceiling, as you can bump your head on 
+a bulbous stalactite here and there. 
 ~
 0 ADNX 6
 D1
@@ -5678,6 +5688,10 @@ D5
 S
 #27532
 Grendel's Hideous Lair~
+You are in a cave on the edge of an underground lake, and it looks like
+the lair of some monster or thing.  Some kind of a nest, made of dry leaves
+and twigs, takes up a corner of the cavern.  The floor here is littered with 
+bones and skulls, all picked clean of flesh.
 ~
 0 ADNTX 5
 D3
