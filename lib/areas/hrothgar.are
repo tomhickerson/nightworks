@@ -291,7 +291,9 @@ portal OR 0
 0 100000 0 P
 E
 ship vessel sunken~
-A large Viking sailing vessel lies capsized on a sandbar, the hull caved in near the prow.  The rotting wood is green with age, this ship has lain here for a very long time.
+A large Viking sailing vessel lies capsized on a sandbar, the hull caved 
+in near the prow.  The rotting wood is green with age, this ship has lain 
+here for a very long time.
 ~
 #27302
 spear shaft broken~
@@ -1445,6 +1447,10 @@ D3
 S
 #27345
 {bA Reed Covered Fen{x~
+You are making your way through a crusty fen, where the mud 
+pools thick in a few areas.  Reeds, grasses and weeds grow 
+in bunches here, forcing you to push them aside as you 
+move about here.
 ~
 0 0 6
 D0
@@ -1559,6 +1565,10 @@ D3
 S
 #27351
 {bA Reed Covered Fen{x~
+You are making your way through a sloppy fen, where the mud 
+pools thick in a few areas.  Reeds, grasses and weeds grow 
+in bunches here, forcing you to push them aside as you 
+move about here.
 ~
 0 0 6
 D0
@@ -1807,6 +1817,10 @@ D3
 S
 #27361
 {bA Reed Covered Fen{x~
+You are making your way through a muddy fen, where the mud 
+pools thick in a few areas.  Reeds, grasses and weeds grow 
+in bunches here, forcing you to push them aside as you 
+move about here.
 ~
 0 0 6
 D0
@@ -1828,6 +1842,10 @@ D3
 S
 #27362
 {bA Reed Covered Fen{x~
+You are making your way through a stinky fen, where the mud 
+pools thick in a few areas.  Reeds, grasses and weeds grow 
+in bunches here, forcing you to push them aside as you 
+move about here.
 ~
 0 0 6
 D0
@@ -1849,6 +1867,10 @@ D3
 S
 #27363
 {bA Reed Covered Fen{x~
+You are making your way through a marshy fen, where the mud 
+pools thick in a few areas.  Reeds, grasses and weeds grow 
+in bunches here, forcing you to push them aside as you 
+move about here.
 ~
 0 0 6
 D0
@@ -1870,6 +1892,10 @@ D3
 S
 #27364
 {bA Reed Covered Fen{x~
+You are making your way through a swampy fen, where the mud 
+pools thick in a few areas.  Reeds, grasses and weeds grow 
+in bunches here, forcing you to push them aside as you 
+move about here.
 ~
 0 0 6
 D0
@@ -1891,6 +1917,10 @@ D3
 S
 #27365
 {bOn the {CCrystal{b Stream{x~
+You are splashing your way along a stream of 
+clear blue waters.  You can see small fish and 
+underwater reeds at the stream's bottom, which 
+is made up of pebbles and clean sand.
 ~
 0 0 6
 D0
@@ -1912,6 +1942,10 @@ D3
 S
 #27366
 {bOn the {CCrystal{b Stream{x~
+You are splashing your way along a stream of 
+clear blue waters.  You can see small fish and 
+underwater reeds at the stream's bottom, which 
+is made up of pebbles and clean sand.
 ~
 0 0 6
 D0
@@ -1933,6 +1967,10 @@ D3
 S
 #27367
 {bOn the {CCrystal{b Stream{x~
+You are splashing your way along a stream of 
+clear blue waters.  You can see small fish and 
+underwater reeds at the stream's bottom, which 
+is made up of pebbles and murky sand.
 ~
 0 0 6
 D0
@@ -1954,6 +1992,10 @@ D3
 S
 #27368
 {bOn the {CCrystal{b Stream{x~
+You are splashing your way along a stream of 
+clear blue waters.  You can see small fish and 
+underwater reeds at the stream's bottom, which 
+is made up of pebbles and clean sand.
 ~
 0 0 6
 D0
@@ -1975,6 +2017,10 @@ D3
 S
 #27369
 {bOn the {CCrystal{b Stream{x~
+You are splashing your way along a stream of 
+clear blue waters.  You can see small fish and 
+underwater reeds at the stream's bottom, which 
+is made up of pebbles and clean sand.
 ~
 0 0 6
 D0
@@ -1996,6 +2042,10 @@ D3
 S
 #27370
 {bOn the {CCrystal{b Stream{x~
+You are splashing your way along a stream of 
+clear blue waters.  You can see small fish and 
+underwater reeds at the stream's bottom, which 
+is made up of pebbles and clean sand.
 ~
 0 0 6
 D0
@@ -2017,6 +2067,10 @@ D3
 S
 #27371
 {bOn the {CCrystal{b Stream{x~
+You are splashing your way along a stream of 
+clear blue waters.  You can see small fish and 
+underwater reeds at the stream's bottom, which 
+is made up of pebbles and clean sand.
 ~
 0 0 6
 D0
@@ -2038,6 +2092,10 @@ D3
 S
 #27372
 {bOn the {CCrystal{b Stream{x~
+You are splashing your way along a stream of 
+clear blue waters.  You can see small fish and 
+underwater reeds at the stream's bottom, which 
+is made up of pebbles and clean sand.
 ~
 0 0 6
 D0
@@ -2059,6 +2117,11 @@ D3
 S
 #27373
 {bOn the {CCrystal{b Stream{x~
+You are splashing your way along a stream of 
+clear blue waters.  You can see small fish and 
+underwater reeds at the stream's bottom, which 
+is made up of pebbles and clean sand.  The stream 
+runs into the entry of a murky cave to the north.
 ~
 0 0 6
 D0
@@ -2080,6 +2143,10 @@ D3
 S
 #27374
 A Murky Cave~
+You are in a small cave, where a small stream runs along
+the bottom out of the cave mouth and into a stream outside.
+The walls are lined with pebbles and rough sand, and you 
+can smell something foul from its north passage.
 ~
 0 AD 0
 D0
@@ -2093,6 +2160,11 @@ D2
 S
 #27375
 The Jabberwocky's Cave~
+The caven here comes to a dead end in a small, dome-like
+chamber.  The floor here is packed earth, made level over
+time by somebody or something.  Small piles of bones and 
+sticks lie here in several places, and some kind of 
+overpowering smell comes from the far end of the cave.
 ~
 0 ADNW 5
 D2
@@ -5690,8 +5762,8 @@ S
 Grendel's Hideous Lair~
 You are in a cave on the edge of an underground lake, and it looks like
 the lair of some monster or thing.  Some kind of a nest, made of dry leaves
-and twigs, takes up a corner of the cavern.  The floor here is littered with 
-bones and skulls, all picked clean of flesh.
+and twigs, takes up a corner of the cavern.  The dry dirt floor here is 
+littered with bones and skulls, all picked clean of flesh.
 ~
 0 ADNTX 5
 D3
