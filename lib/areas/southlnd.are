@@ -774,9 +774,72 @@ are to the north.
 ~
 0 0 2
 D0 
+Heading north to lighter skies.
 ~
 ~
 0 -1 4336
+D2
+Heading south to darker fields.
+~
+~
+0 -1 4338
+S 
+#4338
+Road through the darkened plains~
+You are on a dirt road, running north and south through the wide,
+grassy plains.  You see that the fields are brown with drier grasses,
+brittle to the touch.  Dark skies loom overhead and you can see 
+smoke rising from the south.
+~
+0 0 2
+D0 
+Heading north.
+~
+~
+0 -1 4337
+D2
+Heading south.
+~
+~
+0 -1 4339
+S
+#4339
+Road through a burning field~
+You are on a dirt road, running through fields of grass.  Here and
+there fires have sprung up, burning the dry grass and leaving the
+bare soil underneath.
+~
+0 0 2
+D0
+Heading north.
+~
+~
+0 -1 4338
+D2
+Heading south.
+~
+~
+0 -1 4340
+S 
+#4340
+Road through a dark field~
+You are on a dirt road, heading through a dark field of empty, black 
+soil.  Fires flame on here and there, as if gas from the earth below 
+are rising and being set aflame.  To the south, you can see that the 
+road becomes a paved and smooth road, leading towards a dark city on 
+a mountain's ridge.
+~
+0 0 2
+D0
+Heading north through smoky plains.
+~
+~
+0 -1 4339
+D2
+Heading south through barren fields and a dark city.
+~
+~
+0 -1 29601
 S 
 #0
 
