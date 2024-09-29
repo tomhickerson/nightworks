@@ -1404,15 +1404,15 @@ S
 #29601
 The road leading to Obsidian~
 You are standing on the paved road leading to Obsidian.  All around you is
-nothing, nothing but a bleak wasteland.  To the north and south lies the
-paved road on which you can travel.  Far to the south lies a city, at least
-what is left of it.  
+nothing, nothing but a bleak wasteland.  To the south lies a paved road on 
+which you can travel, and a dirt road heading to the north.  Far to the 
+south lies a city, at least what is left of it.  
 ~
 0 0 0
 D0
 ~
 ~
-0 0 -1
+0 0 4340
 D2
 ~
 ~
@@ -1726,7 +1726,7 @@ D2
 0 0 29618
 S
 #29620
-The Portal to Harkanian Tunnels~
+The Portal to Obsidian Tunnels~
 {D You are standing on a side street. In the center of the room lies a grate leading down. 
 Far to the east lies the Main Street. Though this road is less travelled, 
 demons still walk upon it. The street continues to the west.
@@ -1966,9 +1966,14 @@ Esper Street~
 {D You are standing on Esper Street.  This road seems heavily traveled,
 and several demons can be seen walking upon it.  Far to the east lies Main
 Street, and Esper Street continues to the south and east.  Sounds of
-growling and cursing can be heard to the south.  
+growling and cursing can be heard to the south.  A large, dark tower 
+looms to the north.
 ~
 0 0 0
+D0
+~
+~
+0 -1 25200
 D1
 ~
 ~
@@ -1997,7 +2002,7 @@ S
 S
 #29637
 A Dark Maze~
-{D You are in a dark maze. Find the exit if you can.
+{D You are in a dark maze. Ascertain the exit if you can.
 ~
 0 12 0
 D0
@@ -2019,7 +2024,7 @@ D3
 S
 #29638
 A Dark Maze~
-{D You are in a dark maze. Find the exit if you can.
+{D You are in a dark maze. Determine the exit if you can.
 ~
 0 4 0
 D0
@@ -2041,7 +2046,7 @@ D3
 S
 #29639
 A Dark Maze~
-{D You are in a dark maze. Find the exit if you can.
+{D You are in a dark maze. Discover the exit if you can.
 ~
 0 12 0
 D0
@@ -2063,7 +2068,7 @@ D3
 S
 #29640
 A Dark Maze~
-{D You are in a dark maze. Find the exit if you can.
+{D You are in a dark maze. Figure out the exit if you can.
 ~
 0 12 0
 D0
@@ -2085,7 +2090,7 @@ D3
 S
 #29641
 A Dark Maze~
-{D You are in a dark maze. Find the exit if you can.
+{D You are in a dark maze. Discover the exit if you can.
 ~
 0 4 0
 D0

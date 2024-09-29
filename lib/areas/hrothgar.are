@@ -67,13 +67,13 @@ your soul.
 ~
 death knight~
 ABFLT DEFJOVlmst -1000 0
-85 50 10d36+15000 10d10+3500 10d8+150 wrath
+85 50 10d36+1500 10d10+350 10d8+15 wrath
 -40 -40 -40 -35
 ACDFGN AH 0 I
-stand stand none 23100
+stand stand none 2310
 BD 0 giant unknown
 #27305
-spiritofthedemon~
+spirit demon~
 the demon's spirit~
 ~
 The spirit of a mighty demon...nothing more.
@@ -86,17 +86,17 @@ A 0 -1000 0
 stand stand none 0
 0 0 huge unknown
 #27306
-magicuser~
-a nonused mob~
-A magicusing mob stands here.
+eldritch wraith~
+an eldritch wraith~
+An eldritch wraith floats here, glowing a pale violet color.
 ~
 ~
 human~
 AO T 0 0
-100 -50 100d100+20000 100d100+10000 1d1+1 magic
--100 -100 -100 -100
+90 -50 100d100+200 100d100+1000 1d1+12 wrath
+-10 -10 -10 -10
 0 0 D 0
-stand stand none 0
+stand stand none 4000
 0 0 medium unknown
 #27307
 no name~
@@ -1499,6 +1499,9 @@ D3
 S
 #27347
 The Tall Grass~
+You are at the end of the trail here, at the edge of the cliff face.
+Dusty sand blows up here in your face, stinging your eyes.  You can only
+see one way back the way you came.
 ~
 0 0 0
 D3
@@ -7205,6 +7208,11 @@ O 0 27311 0 27323	* a cavernous hole ({YInside the Hold{x)
 M 0 27304 1 27335 1	* a balor demon (The Chamber of Holding)
 O 0 27303 0 27335	* {mA glyph of warding{x (The Chamber of Holding)
 M 0 27305 1 27335 1	* the demon's spirit (The Chamber of Holding)
+M 0 27303 3 27439 1 * goblin in the beautiful forest 
+M 0 27303 3 27352 1 * goblin in the reed covered fen 
+M 0 27303 3 27378 1 * goblin in a small stand of trees 
+M 0 27302 3 27384 1 * worg in a small stand of trees 
+M 0 27301 1 27313 1 * kraken in the lair of the kraken 
 O 0 27310 0 27340	* a sign (The Cliff's Summit)
 O 0 27304 0 27392	* an {Dironbound{x chest (Between the Rafters)
 P 0 27306 1 27304 1	* an {Dironbound{x chest: a rune-covered spellbook
