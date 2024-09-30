@@ -99,16 +99,18 @@ AO T 0 0
 stand stand none 4000
 0 0 medium unknown
 #27307
-no name~
+jabberwocky~
+The Jabberwocky~
+The Jabberwocky stands here, prepared to maul you.
 ~
-~
+It is big, and alien in appearance.  Probably not here for a cup of tea.
 ~
 human~
 A 0 0 0
-0 0 0d0+0 0d0+0 0d0+0 none
+44 2 4d16+1600 1d6+90 2d12+3 pound
+-1 -1 -11 -1
 0 0 0 0
-0 0 0 0
-stand stand none 0
+stand stand none 900
 0 0 medium unknown
 #27308
 no name~
