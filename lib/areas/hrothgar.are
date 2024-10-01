@@ -113,16 +113,18 @@ A 0 0 0
 stand stand none 900
 0 0 medium unknown
 #27308
-no name~
+fire lizard~
+the fire lizard~
+A large red-skinned fire lizard is here, breathing steam through its nostrils.
 ~
-~
+The Fire Lizard is a red, scaly monstrosity, almost as long as a man is tall.
 ~
 human~
 A 0 0 0
-0 0 0d0+0 0d0+0 0d0+0 none
+33 1 1d20+200 1d12+240 2d5+5 pound
+1 1 1 -1
 0 0 0 0
-0 0 0 0
-stand stand none 0
+stand stand none 800
 0 0 medium unknown
 #27309
 no name~
