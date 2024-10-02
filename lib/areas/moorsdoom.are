@@ -82,7 +82,7 @@ stand stand none 50
 #50005
 rude guardsman~
 The Rude Guardsman~
-A rude-looking guardsman is looking over the crowd, picking on the commonfolk.
+A rude-looking guardsman is hanging about here, looking rather seedy.
 ~
 This rude-looking guardsman looks you up and down, as if asking for a fight.~
 human~
@@ -124,7 +124,7 @@ stand stand none 80
 #50008
 menacing guardsman~
 The Menacing Guardsman~ 
-A menacing guardsman makes his way through here, looking mean.
+A menacing guardsman elbows his way through here, looking mean.
 ~
 This rough fellow has a badge of the guard, but looks like he was recruited
 from bandits or brigands who were just passing through.~
@@ -135,6 +135,21 @@ AO T -500 0
 0 0 D 0
 stand stand none 80
 0 0 medium unknown
+#50009
+timid citizen~
+a timid citizen~
+A timid town citizen is here.
+~
+The timid citizen is waiting here, looking for someone to help them out 
+of this dark and evil place.
+~
+unique~
+AGHU 0 0 0
+1 -3 2d6+6 0d0+0 1d3+0 slap
+9 9 9 9
+0 AB 0 C
+stand stand female 0
+AHMV ABCDEFHJKQU medium unknown
 #50010
 werewolf wolf manwolf shapeshifter~
 A large wolf-like man.~
