@@ -1,0 +1,3028 @@
+#AREA
+selket.are~
+Temple of Selket~
+{50 100} Starhunter Temple of Selket~
+18200 18399
+
+#MOBILES
+#18200
+minotaur cultist~
+a minotaur cultist~
+A minotaur cultist stalks about, looking for someone to mutilate.
+~
+Hot steam billows from this cultist's nostrils as she constantly looks
+for something to fight.  The minotaur towers over most of her peers and the
+massive studded mace that she wields is enough to keep most people fro
+accepting her gruff challenges.  The minotaur is clad in a pitted steel
+breatplate, bracers, and vambraces of similar design.  
+~
+unique~
+AFGT HNOa -750 0
+80 2 4d4+400 4d4+450 4d4+2 pound
+0 0 0 0
+CKNUX AB EHIJ H
+stand stand female 500
+AHMV ABCDEFGHIJKW huge fur
+#18201
+sprite cultist~
+a sprite cultist~
+A tiny sprite darts about, looking for mischief.
+~
+Small and quick, this sprite cultist usually stands watch for the dark
+order, darting about to warn others should anyone approach the temple.  She
+is clad in a light hauberk of chain and wields a quarterstaff often driven
+into the ears of unlucky intruders.  
+~
+unique~
+AG NOPT -600 0
+28 0 4d5+50 5d5+50 3d3+3 slap
+0 0 0 0
+FJKW AB DF 0
+stand stand female 500
+AHMV ABCDEFGHIJKP tiny flesh
+#18202
+dwarf cultist~
+a dwarven cultist~
+A sinister stout dwarf growls to himself.
+~
+A sneer constantly mars this cultist's battle-hardened face.  Upon his
+chin is a short, scruffy beard of thick black hair that hangs tangled and
+knotted.  The dwarf is rarely caught without his armor: a tight helmet of
+bronze and a steel breastplate.  A wicked battle axe is belted alongside the
+cultist's waist.  
+~
+unique~
+AGT NO -700 0
+83 4 4d4+500 4d7+70 6d6+16 smash
+0 0 0 0
+CDEFX AB CLQ F
+stand stand male 0
+AHMV ABCDEFGHIJK small flesh
+#18203
+ogre cultist~
+an ogre cultist~
+A foul smelling ogre stands at attention.
+~
+An enormous black furred beast of monstrous proportions and of obviously
+meager intellect stands an impressive ten feet high.  The ogre's eyes are
+dull gray reflections of mindlessness, his stank, teeth-riddled maw hangs
+open with thin trails of snot-slick slobber that dangle from his lower lip. 
+~
+unique~
+AG NO -1000 0
+85 4 4d10+1000 1d20+220 2d5+25 crush
+0 0 0 0
+CDFR AB EL 0
+stand stand male 2500
+MV ABCDEFGHJKQUV large fur
+#18204
+human cultist~
+a human cultist~
+An emaciated cultist huddles to himself.
+~
+Cloaked in a dark, blood splattered robe that hides most of his features,
+the cultist stalks about, froth dripping from his open mouth.  His fingers
+clutch a knife of serrated steel, his thumb bloody from repeatedly rubbing
+it along the edge of the knife.  The cultist is thin and gaunt, a
+half-starved, half-crazed servant of Selket.  
+~
+unique~
+AG NOd -800 0
+28 0 1d1+1000 1d6+600 2d7+10 stab
+0 0 0 0
+EFHKW AB FL 0
+stand stand male 230
+AHMV ABCDEFGHIJK medium flesh
+#18205
+human female cultist~
+a human cultist~
+A feral cultist looks about with crazed eyes.
+~
+This cultist, like many others within the Temple of Selket, routinely
+removes all traces of hair from her body and prefers to walk about in a
+thick coat of tanned leather with trousers to match.  Stains of blood and
+wine surround this young cultist's mouth, a constant reminder to all that
+she is an eater of the dead.  
+~
+unique~
+AG NO -900 0
+36 0 2d18+200 2d20+220 2d10+3 punch
+0 0 0 0
+EFHJKU AB CL 0
+stand stand female 300
+AHMV ABCDEFGHIJK medium flesh
+#18206
+elf elven highelf cultist~
+an elven cultist~
+A battle-scarred elf scours the area.
+~
+This elf's face is riddled with a thousand small scars; violent claw
+marks of hapless victims and the barely-avoided strikes from those
+adventurers foolish enough to brave the Temple of Selket.  The cultist is
+garbed in a simple set of clothing as well as a pair of sinister black
+bracers that have blocked many serious strikes.  A sheathed scythe hangs
+from the elf's belt.  
+~
+unique~
+AGR NOd -700 0
+90 4 4d10+1000 1d20+220 5d5+5 punch
+0 0 0 0
+EHJKNV AB BGJN Z
+stand stand male 660
+AHMV ABCDEFGHIJK medium flesh
+#18207
+drow cultist~
+a drow cultist~
+A sleek dark drow keeps to the shadows.
+~
+His skin is as dark as obsidian and as flawless as a diamond.  His face
+is fiercely chiseled, truly a drow of considerable handsomeness.  His frost
+colored hair is cut close to his top and kept well trimmed.  The cultist is
+demure and downright polite, a sinister facade to the madness that pulses
+within.  Often sent into the world to gather recruits and harvest
+sacrifices, this drow lives only to serve Selket.  
+~
+unique~
+AG NOQd -950 0
+50 5 3d7+300 3d4+440 4d4+10 punch
+0 0 0 0
+CEFJ ABQ DEL HNS
+stand stand male 440
+AHVZ ACDEFGHJKLOPQUVWXY medium flesh
+#18208
+human cultist~
+a human cultist~
+A portly human cultist ponders his ale cup.
+~
+This cultist's eyes dart quickly from side to side as his tongue licks
+the upper teeth of his open mouth.  The man stands about five feet tall, and
+bears a sizable belly beneath his belt.  A brewer of exotic poisons and rare
+ales, the cultist is rarely without a flask of one sort or another.  
+~
+unique~
+AG NOd -700 0
+29 0 3d6+100 1d20+220 4d4+10 slap
+0 0 0 0
+EJN ABL DF C
+stand stand male 0
+AHMV ABCDEFGHIJK medium flesh
+#18209
+human cultist~
+a human cultist~
+A slovenly man stands here, reeking of decay.
+~
+A burly fat sack of man stands here, his palms slick with sweat as he
+fiddles with a hideously sharp meat cleaver.  A thick layer of greasy black
+hair covers the cultist's body.  It creates a sickening stench that clings
+to his skin.  
+~
+unique~
+AG NOd -700 0
+38 0 5d3+330 4d4+400 5d4+10 punch
+0 0 0 0
+CEO ABL F G
+stand stand male 330
+AHMV ABCDEFGHIJK medium flesh
+#18210
+giant cultist~
+a giant cultist~
+A giant cultist lumbers about the area.
+~
+Standing an incredible twenty feet tall, this giant cultist nearly
+scrapes the ceiling with her shaven head.  Her eyes sit like smoldering
+furnaces under her sloping brow.  Her cheekbones are set high upon her face,
+her lips drawn into a contemplative frown.  What the giant lacks in beauty,
+she excels with ferocity and strength.  
+~
+unique~
+AGT NOd -1000 0
+95 5 1d20+3000 4d5+50 12d11+40 crush
+0 0 0 0
+ACDENOX ABL DIL 0
+stand stand female 0
+AHMV ABCDEFGHIJK huge flesh
+#18211
+sprite cultist~
+a sprite cultist~
+A sneering sprite eagerly awaits another battle.
+~
+Clad in a suit of armor pieced together from scraps once worn by some of
+Alanthia's more foolhardy adventurers, this tiny cultist is always looking
+to ambush the unwary and to offer up another fallen foe to Selket.  The sprite
+bears a sinister smile on his face, his hands alive with the weight of a
+miniature dagger.  
+~
+unique~
+AGT BNOTd -500 0
+30 0 6d12+853 6d12+853 4d6+10 slap
+0 0 0 0
+FHKMU AB F HL
+stand stand male 500
+AHMV ABCDEFGHIJKP tiny flesh
+#18212
+dwarf cultist mountain~
+a dwarven cultist~
+A scowling berserker dwarf shakes with rage.
+~
+Beneath her oily clump of charcoal hair is a face riddled with metal,
+from twelve brass ear studs to several piercings down each cheek.  This
+dwarven cultist is a berserker, one who enters a mindless frenzy when faced
+with battle.  The twin war axes strapped to her back are coated with
+multiple splatterings of gore and blood.  
+~
+unique~
+AGT HNOd -700 0
+30 0 6d12+853 6d12+853 4d5+5 punch
+0 0 0 0
+CDEF AB LQ FJ
+stand stand female 450
+AHMV ABCDEFGHIJK small flesh
+#18213
+dwarf cultist~
+a dwarf cultist~
+A stout dwarf cultist is here, deep in devout prayer.
+~
+This dwarf cultist appears to be deep into praying for his Selket,
+and wears accurate grey robes trimmed with fur.  The symbol of 
+Selket, a black scorpion, is stiched into the chestpiece of 
+his robes. 
+~
+unique~
+AGT 0 0 0
+30 0 6d12+853 6d12+853 2d8+8 slap
+0 0 0 0
+0 0 LQ F
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#18200
+The Stairway Landing~
+A spiralling staircase spins downward from the landing, which is nothing
+more than a large open room.  To the north lies a twisted spectacle of
+masonry gone awry while a haze of darkness masks the bottom of the stairs.  
+~
+0 13 0
+D0
+~
+~
+0 0 18243
+D5
+~
+~
+0 0 18287
+M 50 H 50
+S
+#18201
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18229
+D1
+~
+~
+0 0 18226
+D2
+~
+~
+0 0 18222
+D3
+~
+~
+0 0 18219
+M 50 H 50
+S
+#18202
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18237
+D1
+~
+~
+0 0 18206
+D2
+~
+~
+0 0 18228
+D3
+~
+~
+0 0 18224
+M 50 H 50
+S
+#18203
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18233
+D1
+~
+~
+0 0 18225
+D2
+~
+~
+0 0 18240
+D3
+~
+~
+0 0 18215
+M 50 H 50
+S
+#18204
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 9 0
+D1
+~
+~
+0 0 18214
+D3
+~
+~
+0 0 18227
+M 50 H 50
+S
+#18205
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18230
+D1
+~
+~
+0 0 18224
+D2
+~
+~
+0 0 18223
+D3
+~
+~
+0 0 18211
+M 50 H 50
+S
+#18206
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18211
+D1
+~
+~
+0 0 18209
+D2
+~
+~
+0 0 18216
+D3
+~
+~
+0 0 18202
+M 50 H 50
+S
+#18207
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18236
+D1
+~
+~
+0 0 18210
+D2
+~
+~
+0 0 18214
+D3
+~
+~
+0 0 18222
+M 50 H 50
+S
+#18208
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18225
+D1
+~
+~
+0 0 18237
+D2
+~
+~
+0 0 18233
+D3
+~
+~
+0 0 18228
+M 50 H 50
+S
+#18209
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18227
+D1
+~
+~
+0 0 18211
+D2
+~
+~
+0 0 18215
+D3
+~
+~
+0 0 18206
+M 50 H 50
+S
+#18210
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18221
+D1
+~
+~
+0 0 18213
+D2
+~
+~
+0 0 18221
+D3
+~
+~
+0 0 18207
+M 50 H 50
+S
+#18211
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18218
+D1
+~
+~
+0 0 18205
+D2
+~
+~
+0 0 18206
+D3
+~
+~
+0 0 18209
+M 50 H 50
+S
+#18212
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18241
+D1
+~
+~
+0 0 18238
+D2
+~
+~
+0 0 18217
+D3
+~
+~
+0 0 18234
+M 50 H 50
+S
+#18213
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18222
+D1
+~
+~
+0 0 18222
+D2
+~
+~
+0 0 18237
+D3
+~
+~
+0 0 18210
+M 50 H 50
+S
+#18214
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18207
+D1
+~
+~
+0 0 18233
+D2
+~
+~
+0 0 18225
+D3
+~
+~
+0 0 18204
+M 50 H 50
+S
+#18215
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 9 0
+D0
+~
+~
+0 0 18209
+D1
+~
+~
+0 0 18203
+D2
+~
+~
+0 0 18226
+M 50 H 50
+S
+#18216
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 9 0
+D0
+~
+~
+0 0 18206
+D1
+~
+~
+0 0 18218
+D3
+~
+~
+0 0 18218
+M 50 H 50
+S
+#18217
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18212
+D1
+~
+~
+0 0 18230
+D2
+~
+~
+0 0 18242
+D3
+~
+~
+0 0 18238
+M 50 H 50
+S
+#18218
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18239
+D1
+~
+~
+0 0 18216
+D2
+~
+~
+0 0 18211
+D3
+~
+~
+0 0 18216
+M 50 H 50
+S
+#18219
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 9 0
+D0
+~
+~
+0 0 18235
+D1
+~
+~
+0 0 18201
+D3
+~
+~
+0 0 18225
+D5
+~
+~
+0 0 18327
+M 50 H 50
+S
+#18220
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18223
+D1
+~
+~
+0 0 18234
+D2
+~
+~
+0 0 18227
+D3
+~
+~
+0 0 18232
+M 50 H 50
+S
+#18221
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 9 0
+D0
+~
+~
+0 0 18210
+D1
+~
+~
+0 0 18239
+D2
+~
+~
+0 0 18210
+M 50 H 50
+S
+#18222
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18201
+D1
+~
+~
+0 0 18207
+D2
+~
+~
+0 0 18213
+D3
+~
+~
+0 0 18213
+M 50 H 50
+S
+#18223
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18205
+D1
+~
+~
+0 0 18242
+D2
+~
+~
+0 0 18220
+D3
+~
+~
+0 0 18229
+M 50 H 50
+S
+#18224
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18231
+D1
+~
+~
+0 0 18202
+D2
+~
+~
+0 0 18235
+D3
+~
+~
+0 0 18205
+M 50 H 50
+S
+#18225
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18214
+D1
+~
+~
+0 0 18219
+D2
+~
+~
+0 0 18208
+D3
+~
+~
+0 0 18203
+M 50 H 50
+S
+#18226
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18215
+D1
+~
+~
+0 0 18228
+D2
+~
+~
+0 0 18236
+D3
+~
+~
+0 0 18201
+M 50 H 50
+S
+#18227
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18220
+D1
+~
+~
+0 0 18204
+D2
+~
+~
+0 0 18209
+D3
+~
+~
+0 0 18231
+M 50 H 50
+S
+#18228
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18202
+D1
+~
+~
+0 0 18208
+D2
+~
+~
+0 0 18229
+D3
+~
+~
+0 0 18226
+M 50 H 50
+S
+#18229
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18228
+D1
+~
+~
+0 0 18223
+D2
+~
+~
+0 0 18201
+D3
+~
+~
+0 0 18236
+M 50 H 50
+S
+#18230
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18234
+D1
+~
+~
+0 0 18240
+D2
+~
+~
+0 0 18205
+D3
+~
+~
+0 0 18217
+M 50 H 50
+S
+#18231
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 9 0
+E
+wall~
+A luminous crimson glow comes from a crack in the west wall, entering it could prove either fatal or fortunate, depending on the wisdom of the one entering.
+~
+E
+wall~
+A luminous crimson glow comes from a crack in the west wall, entering it
+could prove either fatal or fortunate, depending on the wisdom of the one
+entering.  
+~
+E
+crack~
+A luminous crimson glow comes from a crack in the west wall, entering it
+could prove either fatal or fortunate.  
+~
+D0
+~
+~
+0 0 18232
+D1
+~
+~
+0 0 18227
+D2
+~
+~
+0 0 18224
+M 50 H 50
+S
+#18232
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18238
+D1
+~
+~
+0 0 18220
+D2
+~
+~
+0 0 18231
+D3
+~
+~
+0 0 18239
+M 50 H 50
+S
+#18233
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18208
+D1
+~
+~
+0 0 18236
+D2
+~
+~
+0 0 18203
+D3
+~
+~
+0 0 18214
+M 50 H 50
+S
+#18234
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 9 0
+D1
+~
+~
+0 0 18212
+D2
+~
+~
+0 0 18230
+D3
+~
+~
+0 0 18220
+M 50 H 50
+S
+#18235
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18224
+D1
+~
+~
+0 0 18241
+D2
+~
+~
+0 0 18219
+D3
+~
+~
+0 0 18242
+M 50 H 50
+S
+#18236
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18226
+D1
+~
+~
+0 0 18229
+D2
+~
+~
+0 0 18207
+D3
+~
+~
+0 0 18233
+M 50 H 50
+S
+#18237
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 9 0
+D0
+~
+~
+0 0 18213
+D2
+~
+~
+0 0 18202
+D3
+~
+~
+0 0 18208
+M 50 H 50
+S
+#18238
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18242
+D1
+~
+~
+0 0 18217
+D2
+~
+~
+0 0 18232
+D3
+~
+~
+0 0 18212
+M 50 H 50
+S
+#18239
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D1
+~
+~
+0 0 18232
+D2
+~
+~
+0 0 18218
+D3
+~
+~
+0 0 18221
+M 50 H 50
+S
+#18240
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 9 0
+D0
+~
+~
+0 0 18203
+D2
+~
+~
+0 0 18241
+D3
+~
+~
+0 0 18230
+M 50 H 50
+S
+#18241
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 9 0
+D0
+~
+~
+0 0 18240
+D2
+~
+~
+0 0 18212
+D3
+~
+~
+0 0 18235
+M 50 H 50
+S
+#18242
+A Room Within the Temple~
+A curtain of disorienting darkness hangs all about, an invisible wall of
+neverending night.  Spirals of murky grey swirl through the air as the
+pervading darkness closes in from all sides.  
+~
+0 8201 0
+D0
+~
+~
+0 0 18217
+D1
+~
+~
+0 0 18235
+D2
+~
+~
+0 0 18238
+D3
+~
+~
+0 0 18223
+M 50 H 50
+S
+#18243
+A Spiral Staircase~
+An obsidian-dark set of stairs stands here, spiralling upward into
+darkness.  A thick sheen of gooey black resin clings to the surface of each
+stair, making the climb extremely treacherous.  
+~
+0 13 0
+D2
+~
+~
+0 0 18200
+D4
+~
+~
+0 0 18291
+M 50 H 50
+S
+#18244
+The Entrance to the Temple of Selket~
+The pitch dark temple looms to the north, dominating the field of vision.
+The black walls seem to erode the light around the building as a chill fog
+belches forth from the open doorway and seeps down the old stone steps.  The
+grand double doors stand open and the stale interior of the ancient building
+is barely visible to the eye.  A faint acidic stench of sulfur swirls about
+and a near-corporeal darkness caresses all who dare trespass, bestowing a
+gentle curse from death itself.  
+~
+0 12 0
+D0
+~
+~
+0 0 18248
+S
+#18245
+Within the Laboratory~
+Within the corner of the lab sit a series of squat barrels, filled with
+various percolating liquids that froth at the surface.  Snarls of smoke rise
+here and there at random as each vat's contents bubble and churn.  
+~
+0 8 0
+D0
+~
+~
+0 0 18245
+D1
+~
+~
+0 0 18246
+D2
+~
+~
+0 0 18245
+M 0 H 0
+S
+#18246
+Within the Laboratory~
+A long table of solid snowy granite rests along the southern wall.  The
+top of the lab table is strewn with an array of vials, beakers and
+containers.  Some of the glass bottles are filled with bubbling liquids that
+look deadly to the tongue.  
+~
+0 8 0
+D0
+~
+~
+0 0 18253
+D1
+~
+~
+0 0 18247
+D3
+~
+~
+0 0 18245
+M 0 H 0
+S
+#18247
+Within the Laboratory~
+Dark ash-covered scorch marks mar the walls and the floor within this
+corner of the lab.  Faint runes along the floor and wall seem to be lines of
+demarcation, separating the obvious testing area from the rest of the lab.  
+~
+0 8 0
+D0
+~
+~
+0 0 18254
+D3
+~
+~
+0 0 18246
+M 0 H 0
+S
+#18248
+The Foyer~
+Blood lies splattered about the room, gathered in large pools and seeping
+in thick chunky rivulets from the pale gray walls.  The air wavers along the
+wall: perhaps the passing of a phantasm or something much darker.  The
+shadows of the dim room seem to snicker and hiss, dancing chaotically all
+about.  
+~
+0 8 0
+D0
+~
+~
+0 0 18255
+D2
+~
+~
+0 0 18244
+S
+#18249
+Within the Animation Chamber~
+Long tables of ivory-topped oak stand in a long row against the southern
+wall.  Upon each table is a desiccated corpse that could crumble at the
+slightest touch.  Slim tendrils of smoke lazily crawl upward from each
+corpse as life spills from the flesh.  
+~
+0 8 0
+D0
+~
+~
+0 0 18256
+D1
+~
+~
+0 0 18250
+M 0 H 0
+S
+#18250
+Within the Animation Chamber~
+One gigantic table large enough to contain a dozen glorious feasts stands
+here.  Upon the oak surface is a myriad menagerie of bones both shattered
+and whole.  Some of the bones have been heaped together to form what appear
+to be appendages that are horrifically malformed.  Some of the shards gleam
+with a sickening green glow.  
+~
+0 8 0
+D0
+~
+~
+0 0 18257
+D1
+~
+~
+0 0 18251
+D3
+~
+~
+0 0 18249
+M 0 H 0
+S
+#18251
+Within the Animation Chamber~
+Putrid stains of some unidentifiable liquid cover the floor, slowly
+eating away at the once pristinely beautiful surface.  An eerie glow arises
+from each stain, painting the walls in their faint green light.  
+~
+0 8 0
+D0
+~
+~
+0 0 18258
+D3
+~
+~
+0 0 18250
+M 0 H 0
+S
+#18252
+Within the Laboratory~
+Off to the west stands a large wooden table supported by two thick legs. 
+The surface of the board is riddled with papers from the smallest of scraps
+to full script-filled sheets.  The writing on the papers is completely
+unintelligible, scribed in a myriad of languages that switch from word to
+word.  
+~
+0 8 0
+D1
+~
+~
+0 0 18253
+M 0 H 0
+S
+#18253
+Within the Laboratory~
+Within the laboratory towers a white marble statue of an enormous man,
+his head bowed and his hands clasped before him.  The man's features are
+strikingly real, from his finely detailed beard down to the small mole that
+squats upon the man's left cheek.  
+~
+0 8 0
+D0
+~
+~
+0 0 18260
+D1
+~
+~
+0 0 18254
+D2
+~
+~
+0 0 18246
+D3
+~
+~
+0 0 18252
+M 0 H 0
+S
+#18254
+Within the Laboratory~
+Large dust-frosted cabinets line both the northern and the eastern walls
+of the laboratory.  The cabinets have gone untouched for so long that their
+once polished brass locks have tarnished and rusted so completely that the
+only way to open them would be to destroy the piece of furniture, possibly
+ruining anything that lie within.  
+~
+0 8 0
+D2
+~
+~
+0 0 18247
+D3
+~
+~
+0 0 18253
+M 0 H 0
+S
+#18255
+A Hallway~
+A vomitous ooze crawls down the walls, down to the urine coated floor to
+cling to the surface.  Stale feces cling to the corners in small heaps.  The
+stench of a thousand mad cultists' sweat assails the noses of those who pass
+within this hall.  
+~
+0 8 0
+D0
+~
+~
+0 0 18262
+D2
+~
+~
+0 0 18248
+S
+#18256
+Within the Animation Chamber~
+Large wooden vats sixty fingers high and thirty wide squats in the corner
+of the laboratory.  Thick slimy mucus percolates within each barrel,
+threatening to spill to the floor at any moment.  The stench that arises
+from the vats is amazing - enough to turn even the strongest of stomachs.  
+~
+0 8 0
+D1
+~
+~
+0 0 18257
+D2
+~
+~
+0 0 18249
+M 0 H 0
+S
+#18257
+Within the Animation Chamber~
+An enormous statue encompasses this entire area.  The statue is a human
+male upon a large podium it's long robed arms thrust up, the hands clasped
+in praise of an unseen god.  Crafted from the purest virgin white marble,
+the statue looks as if could move at a moment's notice.  
+~
+0 8 0
+D0
+~
+~
+0 0 18264
+D1
+~
+~
+0 0 18258
+D2
+~
+~
+0 0 18250
+D3
+~
+~
+0 0 18256
+M 0 H 0
+S
+#18258
+Within the Animation Chamber~
+Large wooden racks rest against the eastern wall.  The design of the
+racks is remarkable, as each was made to hang a body above the ground. 
+Indeed, a few of these racks are encumbered by ichor-dripping corpses.  The
+corpses seem to twitch and sway under the power of what must be a phantom
+breeze in the otherwise still and quiet room.  
+~
+0 8 0
+D2
+~
+~
+0 0 18251
+D3
+~
+~
+0 0 18257
+M 0 H 0
+S
+#18259
+A Hallway~
+Rapid chatterings, shrill shrieks, and piercing screams haunt the air
+here, pounding relentlessly upon the senses of all creatures that pass by. 
+The cacophony is unyielding and neverending.  The din seems to seep in from
+the very walls.  
+~
+0 8 0
+D0
+~
+~
+0 0 18266
+D1
+~
+~
+0 0 18260
+S
+#18260
+Before the Laboratory~
+Here stands an enormous rune-eclipsed archway that leads to a large
+laboratory.  The soured scents of vile concotions drift up through the air,
+an air that is cold and stale.  
+~
+0 12 0
+D2
+~
+~
+0 0 18253
+D3
+~
+~
+0 0 18259
+S
+#18261
+The Armory~
+A single light post stands in the center of the small room, casting off
+an illumination that serves more as a den for shadows to grow within rather
+than a source by which to see the wares within the room.  Three long racks
+of dark pine stand along each wall, housing hundreds of blades from
+ichor-dripping daggers to gore-enriched swords.  A tall barrel of bubbling
+black ooze stands in one far corner, presumably a vat in which some hideous
+poisons are brewed to cover each blade.  
+~
+0 8 0
+D1
+~
+~
+0 0 18262
+S
+#18262
+A Hallway~
+Tall thick poles of knotted pine line the hallway, each topped with a
+grossly bloated disembodied head.  Swarms of disease-ridden insects buzz
+about each head, feasting upon the rotted flesh and depositing their eggs in
+every available orifice.  Maggots nestle inside the brains, squirming out
+ears and nostrils to fall to the floor below.  
+~
+0 8 0
+D0
+~
+~
+0 0 18269
+D1
+~
+~
+0 0 18263
+D2
+~
+~
+0 0 18255
+D3
+~
+~
+0 0 18261
+S
+#18263
+The Trophy Room~
+Much like the hallway outside, this room is filled with severed heads and
+other assorted body parts, each mummified and preserved to stand as trophies
+for the cult.  The Temple of Selket has stood for ages, and this room houses
+its greatest opponents.  Heads of thieves wishing to relieve the temple of
+its golden burdens sit on pine shelves.  Hands of mighty clerics and mages
+are locked away in pearl encrusted glass cabinets.  And the sword arms of
+many a foolish warrior still clutch their prized weapons tight.  
+~
+0 8 0
+D3
+~
+~
+0 0 18262
+S
+#18264
+Before the Animation Chamber~
+This section of the hall is alive with the smell of stale death and
+rotten flesh.  A door looms to the south, constructed of bemagicked oak five
+fingers thick.  Along the top of the archway that cradles the door is an
+ancient glyph afire with a sinister crimson glow.  
+~
+0 12 0
+D1
+~
+~
+0 0 18265
+D2
+~
+~
+0 0 18257
+S
+#18265
+A Turn in the Hallway~
+Frosted upon the floor within the corner is a series of silken webs that
+grasp at anything touching them.  Shriveled husks of decayed insects are
+sprinkled about the webs, the corpses sucked dry of all life.  
+~
+0 8 0
+D0
+~
+~
+0 0 18272
+D3
+~
+~
+0 0 18264
+S
+#18266
+A Hallway~
+The mildew-stench of antiquity spills out from the bedroom to the east
+while the hallway continues to the north and south.  The old carpet here is
+in shreds, having been chewed by a plethora of mindless beasts, some perhaps
+those adventurers foolish enough to have been captured while roaming the
+halls of the temple.  
+~
+0 8 0
+D0
+~
+~
+0 0 18273
+D1
+~
+~
+0 0 18267
+D2
+~
+~
+0 0 18259
+S
+#18267
+A Plain bedroom~
+This simple room contains only the barest of essentials required for life
+within the temple.  A small cot that serves as a bed lies along the western
+wall and a wooden plank serves as a desk whenever the occupant wishes to
+write or read.  
+~
+0 9 0
+D3
+~
+~
+0 0 18266
+S
+#18268
+The Dining Hall~
+A long rectangular table of carefully carved oak dominates the room,
+surrounded by a host of tall black chairs.  Archaic runes have been etched
+into the top of the table that double as blood grooves, emptying from both
+ends of the table.  Similar grooves run through the tiled floor, coming
+together at small buckets set flush with the floor.  
+~
+0 8 0
+D1
+~
+~
+0 0 18269
+S
+#18269
+A Hallway~
+Two impressive doors of stark black oak stand to the left and right.  The
+surface of each door is a carved mosaic of haunted faces twisted into masks
+of pain and agony.  The hollow faces seem completely real, as if at any
+second their screams would fill the hallway and echo through the temple.  
+~
+0 8 0
+D0
+~
+~
+0 0 18276
+D1
+~
+~
+0 0 18270
+D2
+~
+~
+0 0 18262
+D3
+~
+~
+0 0 18268
+S
+#18270
+The Kitchen~
+A large cooking area stands before here, complete with cast iron ovens,
+enormous steel pots, and a solitary massive grill.  All sorts of meats are
+prepared on the kitchen's counters upon which rests a menagerie of
+tenderizers, hooks, and cleavers.  Although the kitchen is pristinely
+cleaned daily, the thick scent of fresh blood and charred flesh hangs heavy
+in the air.  
+~
+0 8 0
+D0
+~
+~
+0 0 18277
+D3
+~
+~
+0 0 18269
+S
+#18271
+A Comfortable Bedroom~
+A short matted layer of carpeting covers the floor here, welcoming bare
+feet and encouraging a pleasant stay.  Upon closer inspection, the carpeting
+is revealed to be the hides of many victims sewn together and dyed a uniform
+brown.  
+~
+0 8 0
+D1
+~
+~
+0 0 18272
+S
+#18272
+A Hallway~
+Gore-splattered disembodied heads stand on stout posts along either side
+of the hallway.  The lifeless eyes seem to watch every move made here, and
+low haunting moans fall from the dry, cracked lips.  
+~
+0 8 0
+D0
+~
+~
+0 0 18279
+D2
+~
+~
+0 0 18265
+D3
+~
+~
+0 0 18271
+S
+#18273
+A Hallway~
+Enormous deep cavities have opened within the surface of this floor,
+making passage through this part of the hallway most difficult.  One
+unfortunate step could lead to doom.  Additionally, what floor remains
+intact is covered by a slick gelatinous slime that shall make passage truly
+perilous.  
+~
+0 8 0
+D0
+~
+~
+0 0 18280
+D1
+~
+~
+0 0 18274
+D2
+~
+~
+0 0 18266
+S
+#18274
+An Ornate Bedroom~
+Darkness seems to have been taken in as a motif within this room, as
+everything here is black, from the walls to the bedsheets.  A large canopied
+bed with black silk drapes rests within a corner, its mattress shrouded
+behind the dark veil.  
+~
+0 9 0
+D3
+~
+~
+0 0 18273
+S
+#18275
+A Store Room~
+Large wooden crates are stacked ceiling high with each corner of this
+small room.  An enormous box-filled rack stands along the southern wall, its
+frame dusted with old webs woven long ago.  
+~
+0 8 0
+D0
+~
+~
+0 0 18282
+S
+#18276
+A Hallway~
+Placed on either side of the hallway are two small stone statues.  The
+one to the west shows a small elven woman on her knees, her hands uplifted
+and her face contorted into a pleading mask.  The statue to the east depicts
+a lovely bright woman who is young in years, standing in a regal dress and
+adorned with gems of many a shape and size.  The sword shoved to the hilt in
+her left eye socket looks to be real.  
+~
+0 8 0
+D0
+~
+~
+0 0 18283
+D2
+~
+~
+0 0 18269
+S
+#18277
+A Store Room~
+This room is filled to capacity with shelves that hold many a rich spice
+and rare herb.  Muddied foot prints of various sizes and shapes freckle the
+floor, as if an entire crew of people routinely paraded through this room.  
+~
+0 12 0
+D0
+~
+~
+0 0 18284
+D2
+~
+~
+0 0 18270
+S
+#18278
+A Disheveled Bedroom~
+Scum and refuse line the floor of this filthy room, and the reeking
+stench attempts to turn even the strongest of stomachs.  A dilapitated desk
+stands next to a dessicated bed, both ruined with stains almost unimaginable
+in origin.  
+~
+0 8 0
+D1
+~
+~
+0 0 18279
+S
+#18279
+A Hallway~
+Here the dark floor is covered with a collection of yanked teeth,
+shattered jawbones, and empty skulls.  The bodily remnants come from a host
+of victims hailing from a variety of races.  
+~
+0 8 0
+D0
+~
+~
+0 0 18286
+D2
+~
+~
+0 0 18272
+D3
+~
+~
+0 0 18278
+S
+#18280
+A Turn in the Hallway~
+The walls of this part of the long hallway are daily painted with a
+mixture of bloated intestines, rotted flesh, and brain matter.  Thick chunks
+of unidentifiable gore have been slapped upon the wall, and sloppy piles of
+it gather along the floor.  
+~
+0 8 0
+D1
+~
+~
+0 0 18281
+D2
+~
+~
+0 0 18273
+S
+#18281
+A Hallway~
+Pallid half-gnawed bones lie partially submerged within piles of feasting
+maggots.  Some of the bones still have strips of raw, bloody flesh clinging
+to them.  The lower faces of the walls are stained red by splattered marrow
+and blood.  
+~
+0 8 0
+D1
+~
+~
+0 0 18282
+D3
+~
+~
+0 0 18280
+S
+#18282
+A Hallway~
+Under the poor lighting of the hallway, the floor seems to shift and
+churn underfoot.  The churning And sickening slurping sounds come from the
+millions of slime oozing maggots that twist and squirm on the floor and over
+the feet of all who tread here.  Tiny mouths open and close, teeth-ridden
+maws blindly searching for ripe flesh to feed upon.  
+~
+0 8 0
+D1
+~
+~
+0 0 18283
+D2
+~
+~
+0 0 18275
+D3
+~
+~
+0 0 18281
+S
+#18283
+An Intersection~
+A large painting adorns the northern wall, depicting the temple of curses
+and death, the Temple of Selket.  The painting is an expression of dark hues
+detailing an ichor-dark sky and a slightly less black building which seems
+to seep into the background.  The painting is very lifelike, the darkened
+storm clouds nearly shifting in a phantom wind.  One could think that a
+person would be able to step through this painting and enter the scene.  
+~
+0 8 0
+D0
+~
+~
+0 0 18287
+D1
+~
+~
+0 0 18284
+D2
+~
+~
+0 0 18276
+D3
+~
+~
+0 0 18282
+S
+#18284
+A Hallway~
+The floor here seems oddly pliant and at times audibly squelches
+underfoot.  Peering closely reveals that small hairs have burst through the
+pink surface of the floor.  Small dark-brown splotches and deep-set wrinkles
+are also peppered along the floor.  
+~
+0 12 0
+D1
+~
+~
+0 0 18285
+D2
+~
+~
+0 0 18277
+D3
+~
+~
+0 0 18283
+S
+#18285
+A Hallway~
+The hair-splayed surface of the floor loudly squishes underfoot.  Tiny,
+pore-like holes open up along the floor, each slowly secreting a clear slick
+fluid.  A thick musky odor has filled this part of the hall, making it quite
+difficult to breathe.  
+~
+0 8 0
+D1
+~
+~
+0 0 18286
+D3
+~
+~
+0 0 18284
+S
+#18286
+A Turn in the Hallway~
+Here the pink-hued surface of the floor is riddled with cuts, abrasions,
+and open wounds.  A watery crimson liquid leaks from some of the more
+massive wounds, staining everything a deep red.  
+~
+0 8 0
+D2
+~
+~
+0 0 18279
+D3
+~
+~
+0 0 18285
+S
+#18287
+A Spiral Staircase~
+To the north looms a staircase of rusty steel that spirals up into the
+waiting maw of darkness.  Each stair seems worn with use and the staircase
+trembles and shakes under any weight.  
+~
+0 8 0
+D2
+~
+~
+0 0 18283
+D4
+~
+~
+0 0 18200
+S
+#18288
+A Storage Room~
+This small, dimly lit room contains nothing more than a shelving unit
+crammed with a plethora of small tools used for the upkeep of the large
+temple.  Some of the implements are variably caked with black ichor or rich
+red blood.  Obviously, maintenance is not the only use for the tools.  
+~
+0 8 0
+D1
+~
+~
+0 0 18289
+S
+#18289
+A Corner in the Hallway~
+A door of rottening wood stands to the west, the surface riddled with
+famished larvae and determined termites.  The walls lurch and shift as
+terrified faces embedded into the surface try desperately to break free.  
+~
+0 8 0
+D0
+~
+~
+0 0 18296
+D1
+~
+~
+0 0 18290
+D3
+~
+~
+0 0 18288
+S
+#18290
+A Hallway~
+Faces erupt from the walls, screaming silently with open mouths and
+pleading eyes.  Teeth gnash and eyes tear as the faces try to pull free,
+trapped within a purgatory of stone and plaster.  A sickening ooze vomits
+from some of the mouths, spilling to the floor and puddling along the walls.
+~
+0 8 0
+D1
+~
+~
+0 0 18291
+D3
+~
+~
+0 0 18289
+S
+#18291
+A Stairway Landing~
+Darkness cloaks the walls of this room, the only light to be seen
+flickers upward from the stairwell below.  A large hallway runs to the east
+and to the west, each side disappearing into darkness.  
+~
+0 9 0
+D1
+~
+~
+0 0 18292
+D3
+~
+~
+0 0 18290
+D5
+~
+~
+0 0 18243
+S
+#18292
+A Hallway~
+Despite a row of torch-filled sconces, both the floor and ceiling are
+covered by a layer of night, a darkness impenetrable.  Cold, visible vapors
+of twirling gas spiral out of the darkness, chilling the air.  A trickling
+sound of splashing water rings all about this section of the hallway, coming
+from an unidentifiable source.  
+~
+0 8 0
+D1
+~
+~
+0 0 18293
+D3
+~
+~
+0 0 18291
+S
+#18293
+A Corner in the Hallway~
+The floor and lower walls of this part of the hallway have been scorched
+black, evidence of a low, rolling fire.  No attempt has been made to repair
+the damage.  Upon the east wall a lifelike silhouette has been sketched: two
+beings locked together, hands upon throats.  
+~
+0 8 0
+D0
+~
+~
+0 0 18300
+D1
+~
+~
+0 0 18294
+D3
+~
+~
+0 0 18292
+S
+#18294
+A Storage Room~
+Piled upon the rotten oak shelves are heaps of spoiled food, most covered
+with piles of maggots and other assorted vermin.  The stench of the shed is
+appalling, a mixture of rotten meat, decayed flesh and stale feces.  
+~
+0 8 0
+D3
+~
+~
+0 0 18293
+S
+#18295
+A Master Bedroom~
+A stunning array of vibrant whites and brilliant blues fill this elegant
+bedroom.  An enormous silk canopied bed rests within the middle of the room,
+a small wooden desk its sole companion in the otherwise empty room.  
+~
+0 8 0
+D1
+~
+~
+0 0 18296
+S
+#18296
+A Hallway~
+A sloppy thick ooze has collected upon the floor, bubbling and belching
+up rancid bursts of gas.  The once white walls have been stained to a muddy
+yellow and large chips of paint have fallen away.  A small rusted
+torch-laden sconce hangs upon the eastern wall, casting a pallid glow upon
+the floor.  
+~
+0 8 0
+D0
+~
+~
+0 0 18302
+D1
+~
+~
+0 0 18297
+D2
+~
+~
+0 0 18289
+D3
+~
+~
+0 0 18295
+S
+#18297
+A Master Bedroom~
+The scent of fresh flowery petals lingers here amidst the renching stench
+of the obsidian altar that rests in the far corner and the decaying smell of
+the corpses piled alongside the object of worship.  A large bed sits along
+the eastern wall, the four posts that ring it drip freshly hewn blood.  
+~
+0 8 0
+D3
+~
+~
+0 0 18296
+S
+#18298
+The Sanctuary of Amon Ratra~
+A gruesome menagerie of tainted furniture lies within this room.  A large
+altar of brimstone trimmed obsidian stands along the southern wall, its top
+stained red with the death of many a creature.  Hanging from wall hooks on
+either side of the sacrificial altar are maniacal implements of dissection
+and destruction, all tinged crimson.  
+~
+0 8 0
+D0
+~
+~
+0 0 18304
+S
+#18299
+A Small Bedroom~
+The walls of this room were once a rich black, but that color has faded
+and has been supplanted with splatters of bright crimson.  A series of hooks
+and chains dangle from the southern wall, below which rests a table covered
+in blood-heavy gore.  
+~
+0 8 0
+D1
+~
+~
+0 0 18300
+S
+#18300
+A Hallway~
+Sifting stench arise from the floor which is littered with the dessicated
+corpses of a multitude of life-gnawing insects.  Here and there amidst the
+shells twitches something yet alive.  Periodic gnashing sounds reverberate
+through the hallway, phantom teeth splitting the bug remains; ghostly molars
+crushing and chewing.  
+~
+0 8 0
+D0
+~
+~
+0 0 18306
+D1
+~
+~
+0 0 18301
+D2
+~
+~
+0 0 18293
+D3
+~
+~
+0 0 18299
+S
+#18301
+A Small Bedroom~
+A series of head-mounted plaques line the entirety of the room, hanging
+just below the ceiling on each wall.  Some of the heads still drip gore,
+their eyes plucked from their sockets and their lips sewn together.  Many
+races have lost their best within the Temple of Selket, but only the heads of
+the strongest are hung within this room.  
+~
+0 8 0
+D3
+~
+~
+0 0 18300
+S
+#18302
+A Corner in the Hallway~
+A foul odor clings to the rotten wood of the walls that are ripe with
+maggots and decay.  The sickening slurps of a multitude of sightless larvae
+spill out from the open wounds within the walls.  
+~
+0 8 0
+D1
+~
+~
+0 0 18303
+D2
+~
+~
+0 0 18296
+S
+#18303
+A Hallway~
+The mutilated corpses of a dozen small woodland animals lie here, some
+riddled with gnawing maggots, all rotten with foul decay.  Many of the
+corpses have bloated and belched their innards out though their diseased
+stomachs.  
+~
+0 8 0
+D0
+~
+~
+0 0 18307
+D1
+~
+~
+0 0 18304
+D3
+~
+~
+0 0 18302
+S
+#18304
+An Intersection in the Hallway~
+Two halls cross paths here, one trailing off the the north, the other
+running both to the east and to the west.  Small torch-filled sconces hang
+at regular intervals on the walls of both halls, though the light seems
+feeble and pale.  
+~
+0 8 0
+D0
+~
+~
+0 0 18308
+D1
+~
+~
+0 0 18305
+D2
+~
+~
+0 0 18298
+D3
+~
+~
+0 0 18303
+S
+#18305
+A Hallway~
+The walls here have been riddled by hundreds of claw marks that have
+ripped the paint apart and have gutted the surface below.  A sinister
+crimson glow pulses beneath each deep gouge, casting a red haze into the
+hall.  
+~
+0 8 0
+D0
+~
+~
+0 0 18309
+D1
+~
+~
+0 0 18306
+D3
+~
+~
+0 0 18304
+S
+#18306
+A Corner in the Hallway~
+Old chips of plaster and paint line the lower walls of this hallway.  A
+thin layer of dust has formed a crust upon the refuse.  A slight chill has
+crept into this section of the hall, sending most of the furry denizens to
+other areas.  
+~
+0 8 0
+D2
+~
+~
+0 0 18300
+D3
+~
+~
+0 0 18305
+S
+#18307
+A Servant's Quarters~
+Thick manacles dangle from the ends of long iron chains that look quite
+impossible to bend or break.  A small stained cot lies just below the set of
+four chains, barely large enough to hold a small man.  The floor seems to
+have been eaten away by small predators who come to this room for a feast of
+flesh.  
+~
+0 8 0
+D2
+~
+~
+0 0 18303
+S
+#18308
+A Hallway~
+Large panels of polished oak that shine under the erratically spaced
+wall-held torches cover the walls of this short stretch of hallway.  Small
+slits along the bottom of each wall puff out invisible belches of
+furnace-spawned heat that warms the air considerably.  
+~
+0 0 0
+D0
+~
+~
+0 0 18313
+D2
+~
+~
+0 0 18304
+S
+#18309
+A Servant's Quarters~
+An appalling stench permeates this disease-filled room.  The reeking odor
+no doubt hails from the score of vermin that slink about in small packs
+along the floor, foraging for food.  The hide of each rodent is ripe with
+some foul plague, as large boils have festered and burst.  
+~
+0 8 0
+D2
+~
+~
+0 0 18305
+S
+#18310
+Upon the Dais~
+Piled upon the floor are small stench-ridden stacks of flayed flesh, the
+skins of a dozen or more sacrifices that attract devouring beasts and
+insistent insects by the score.  A persistent and nagging hum spills forth
+from the north where a large altar of dark stone rests.  
+~
+0 520 8
+D0
+~
+~
+0 0 18317
+D1
+~
+~
+0 0 18311
+D5
+~
+~
+0 0 3054
+S
+#18311
+Within the Sacrarium~
+Deep set blood grooves spiral out from the east, disappearing at the wall
+directly to the west.  The floor here is sticky with some wretched residue,
+probably the half-dried excretions of a sacrifice or two.  
+~
+0 520 0
+D0
+~
+~
+0 0 18318
+D1
+~
+~
+0 0 18312
+D3
+~
+~
+0 0 18310
+S
+#18312
+A Corner of the Sacrarium~
+An open pit oozes dark coils of smoke, its bottom strewn with islands of
+hot coals floating upon a sea of percolating lava.  A vile stench also
+erupts from the enormous pit; the culmination of burnt leather, melted
+metal, and charred flesh.  
+~
+0 520 8
+D0
+~
+~
+0 0 18319
+D3
+~
+~
+0 0 18311
+D5
+~
+~
+0 0 3054
+S
+#18313
+The End of the Hallway~
+The long corridor ends before a large iron door rife with sharp spikes
+that glisten in the faint light spilling from an enormous, skull-tipped
+sconce perched above the door.  The skull appears to have been ripped from
+the head of some human and enchanted so that a soft light continually spills
+from the empty sockets and open maw.  
+~
+0 8 0
+D0
+~
+~
+0 0 18320
+D2
+~
+~
+0 0 18308
+S
+#18314
+A Corner of the Torture Chamber~
+A tall yet narrow rusted iron cage has been built into this corner of the
+torture chamber, the final holding cell for the temple's victims.  The cage
+has been built into the walls, thick iron magically fused with the harvested
+bone.  Desperate claw-marks riddle the interior of the cage as if escape for
+those left inside were a possibility.  
+~
+0 8 0
+D0
+~
+~
+0 0 18321
+D1
+~
+~
+0 0 18315
+D2
+~
+~
+0 0 18331
+S
+#18315
+Within the Torture Chamber~
+A large basalt table rests along the southern wall, a stark contrast of
+black against bone white.  The surface of the table is heaped with
+meaningless trinkets and tatters of clothing that are the remnants of the
+temple's victims.  
+~
+0 8 0
+D0
+~
+~
+0 0 18322
+D1
+~
+~
+0 0 18316
+D3
+~
+~
+0 0 18314
+S
+#18316
+A Corner of the Torture Chamber~
+Etched upon the floor along the walls is a long series of archaic runes
+that glimmer in the light.  Small pots belch clouds of sweet-smelling smoke
+that tends to form a haze about the torches.  
+~
+0 8 0
+D0
+~
+~
+0 0 18323
+D3
+~
+~
+0 0 18315
+S
+#18317
+Before the Sacrificial Altar~
+An intense caterwaul spews forth from the large sacrificial altar of
+chiseled basalt.  Thick grooves run from its surface to the dais and
+continue to the east towards a circle imprinted upon the floor.  The flat
+top of the altar holds a menagerie of torture implements, from vile
+saw-toothed hooks to spike-laden whips.  
+~
+0 520 0
+D0
+~
+~
+0 0 18324
+D2
+~
+~
+0 0 18310
+S
+#18318
+The Heart of the Temple~
+A massive rune-ringed circle has been etched into the floor, the symbols
+of which pulse white, glowing in the darkness.  Blood grooves run from the
+raised dais to the west, circumnavigate the circle, and trail off to the
+walls.  Three large brass braziers are set about the etching, the embers
+within glowing weakly.  
+~
+0 520 8
+D2
+~
+~
+0 0 18311
+S
+#18319
+Within the Sacrarium~
+An expansive unholy area opens up from the doorway, darkness masking the
+walls that stand to the north and south.  Directly to the west sitting upon
+a raised dais is a large metallic object that shines despite the lack of any
+substantial light within the room.  
+~
+0 520 0
+D0
+~
+~
+0 0 18326
+D1
+~
+~
+0 0 18327
+D2
+~
+~
+0 0 18312
+S
+#18320
+An Inner Chamber~
+Two towering archways of sculpted granite stand to the east and south. 
+The west wall depicts lifelike faces twisted into howling masks of agony, a
+warning of the horrors that are in store for those wandering the temple
+uninvited.  The wall is almost perfect with the small exception of a tiny
+crack running at a angle through the stone art, a faint crimson glow seems
+to be coming from the jagged line.  
+~
+0 12 0
+E
+crack~
+It seems almost as tho something lies behind this west wall, if one could
+only enter the small crack.  
+~
+E
+west~
+It seems almost as tho something lies behind this west wall, if one could
+only enter the small crack.  
+~
+E
+west wall~
+It seems almost as tho something lies behind this west wall, if one could
+only enter the small crack...  
+~
+D1
+~
+~
+0 0 18321
+D2
+~
+~
+0 0 18313
+S
+#18321
+Within the Torture Chamber~
+An enormous door of thick granite stands to the west while an expansive
+torch-lit chamber opens to the east.  Small pots line the walls, alive with
+the smoky coils that rise from each.  Faintly glowing runes rune the length
+of each wall along the base.  
+~
+0 8 0
+D0
+~
+~
+0 0 18328
+D1
+~
+~
+0 0 18322
+D2
+~
+~
+0 0 18314
+D3
+~
+~
+0 0 18320
+S
+#18322
+The Center of the Chamber~
+An enormous low-set table of stone-fused bone sits here, the two ends
+fitted with a large rack while its surface is riddled with sharp, twisted
+spikes.  The torture device is surrounded by a series of smaller tables that
+bear a large collection of pain invoking instruments.  The floor and tables
+have been stained red with repeated use.  
+~
+0 8 0
+D0
+~
+~
+0 0 18329
+D1
+~
+~
+0 0 18323
+D2
+~
+~
+0 0 18315
+D3
+~
+~
+0 0 18321
+S
+#18323
+Within the Torture Chamber~
+Two massive vats of steel-braced wood stand against the eastern wall
+under a large torch-filled sconce.  The vats are filled with a thick green
+liquid that churns and bubbles within its confinement.  Bones infrequently
+sift to the surface, stark white under the torch's illumination.  
+~
+0 8 0
+D0
+~
+~
+0 0 18330
+D2
+~
+~
+0 0 18316
+D3
+~
+~
+0 0 18322
+S
+#18324
+Upon the Dais~
+The floor here has been completely overrun by bright markings and
+religious symbols that have been written in hundreds of different languages.
+The floor shimmers with foul mind-numbing magicks.  A steady head-thrumming
+hum spills in from the south where an enormous basalt altar stands.  
+~
+0 520 8
+D1
+~
+~
+0 0 18325
+D2
+~
+~
+0 0 18317
+D5
+~
+~
+0 0 3054
+S
+#18325
+Within the Sacrarium~
+Along the floor of the sacrarium are deep grooves that upon closer
+inspection appear to be caked in a flaky crimson film.  Most undoubtedly the
+blood of a few sacrifices has poured through the area, spilling into large
+twin reservoirs set into the floor along the walls.  
+~
+0 520 0
+D1
+~
+~
+0 0 18326
+D3
+~
+~
+0 0 18324
+S
+#18326
+A Corner of the Sacrarium~
+Along the upper walls of the sacrarium is a long erratic yet artistic
+inlay of silver and ruby.  The encompassing mural stretches far to the east
+and south, depicting horrific rites of mutilation and cannibalism.  Dark
+figures in robes are shown gathering about the altar, knives out and
+prepared to thrust into a bound victim.  
+~
+0 520 8
+D2
+~
+~
+0 0 18319
+D3
+~
+~
+0 0 18325
+D5
+~
+~
+0 0 3054
+S
+#18327
+The Pit of Selket~
+No natural light dares shine within the pit as darkness is lord and
+master in this area, subservient only to the will of Selket.  The walls and
+floor are made of the darkest crystal-fused marble, which is itself the
+deepest shade of basalt.  The final screams and the last gasps of every
+sacrifice live within these walls, constantly alive within the dead room.  
+~
+0 524 0
+D3
+~
+~
+0 0 18319
+S
+#18328
+A Corner in the Torture Chamber~
+Large torch-filled sconces line the walls, flicking their light into the
+room.  The walls of the chamber appear bone white and are rough to the
+touch.  Many sacrifices had to be made and many bones magically fused to
+build this chamber.  
+~
+0 8 0
+D1
+~
+~
+0 0 18329
+D2
+~
+~
+0 0 18321
+S
+#18329
+Within the Torture Chamber~
+Smoky tendrils of invigorating incense rise from small pots lining the
+walls of the room.  The cultists prefer their victims remain quite alert
+through the ordeal.  Directly to the south stands an enormous table of gray
+and white surrounded by smaller tables of the same design.  
+~
+0 8 0
+D1
+~
+~
+0 0 18330
+D2
+~
+~
+0 0 18322
+D3
+~
+~
+0 0 18328
+S
+#18330
+A Corner of the Torture Chamber~
+A large cabinet of marble-framed glass stands here holding a vile
+assortment of wickedly sharp tools.  The doors are bolted shut and a bright
+shield of magic protects the cabinet from any unwanted intrusion.  
+~
+0 8 0
+D2
+~
+~
+0 0 18323
+D3
+~
+~
+0 0 18329
+S
+#18331
+Within the Cage~
+The stench within the cage is overpowering if nothing else.  Piles of
+fly-ridden feces and small urine puddles cover the floor.  Blood scars line
+the walls where the prisoners scraped the bone with but their own hands,
+desperate to escape.  One solitary torch rests within a sconce far above the
+reach of any prisoner; its light never dims.  
+~
+0 8 0
+D0
+~
+~
+0 0 18314
+S
+#18334
+The Heart of the Temple~
+A massive rune-ringed circle has been etched into the floor, the symbols
+of which pulse white, glowing in the darkness.  Blood grooves run from the
+raised dais to the west, circumnavigate the circle, and trail off to the
+walls.  Three large brass braziers are set about the etching, the embers
+within glowing weakly.  
+~
+0 512 8
+D5
+~
+~
+0 0 3054
+S
+#0
+
+
+
+#SPECIALS
+M 18202 spec_breath_gas
+M 18203 spec_ogre_member
+M 18206 spec_cast_adept
+M 18211 spec_janitor
+M 18212 spec_breath_fire
+S
+
+
+
+#RESETS
+M 0 18206 3 18246 1
+M 0 18200 3 18248 1
+M 0 18207 3 18250 3
+M 0 18207 3 18250 3
+M 0 18207 3 18250 3
+M 0 18204 4 18253 4
+M 0 18204 4 18253 4
+M 0 18204 4 18253 4
+M 0 18204 4 18253 4
+M 0 18200 3 18261 1
+M 0 18201 3 18262 1
+M 0 18200 3 18263 1
+M 0 18208 2 18265 2
+M 0 18208 2 18265 2
+M 0 18203 3 18267 1
+M 0 18200 1 18269 1
+M 0 18206 3 18271 1
+M 0 18202 3 18273 1
+M 0 18203 3 18274 1
+M 0 18201 3 18276 1
+M 0 18206 3 18278 1
+M 0 18202 3 18280 1
+M 0 18203 3 18280 1
+M 0 18202 3 18282 1
+M 0 18205 3 18285 3
+M 0 18205 3 18285 3
+M 0 18205 3 18285 3
+M 0 18211 2 18314 2
+M 0 18210 2 18316 2
+M 0 18210 2 18316 2
+M 0 18211 2 18321 2
+M 0 18212 2 18322 2
+M 0 18212 2 18322 2
+M 0 18211 2 18330 2
+M 0 18211 2 18330 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$
