@@ -469,7 +469,8 @@ S
 #29703
 Mountain~
 You have finally reached the top of the mountain.  The air here is so
-thin that you must gasp for breath.  To the north, you see what seems to be
+thin that you must gasp for breath.  To the north,, a stout wall rises 
+before you, and through a modest archway you see what seems to be
 the entrance to a city.  
 ~
 0 0 9
@@ -484,9 +485,11 @@ D5
 S
 #29704
 Entrance~
-This appears to be the entrance to a large city perched on the top of
-this mountain.  Large buildings soar into the very clouds, a sign of much
-wealth in this community.  
+You are standing in a small, unprotected archway, passing through a massive 
+stone wall.  This appears to be the entrance to a large city perched on the top of
+this mountain.  Large towers of black rock jut into the very clouds, 
+looking very imposing.   A cobbled street leads north into the city, 
+while the mountain ledge leading down and out of the city is south.
 ~
 0 0 1
 D0
@@ -499,7 +502,7 @@ D2
 0 -1 29703
 S
 #29705
-Adyb Street~
+Justice Street~
 This large, well-cobbled street runs north, away from the city entrance. 
 To the west lies a small store, and smells of baking bread and treats
 emanates from it.  Private homes line the street, covered on the street side
@@ -521,7 +524,7 @@ D3
 0 -1 29724
 S
 #29706
-Adyb Street~
+Justice Street~
 You are walking down what appears to be the main street of this city. 
 You see large residences to the east and west, while the street continues to
 the north and south.  
@@ -546,15 +549,20 @@ D3
 0 -1 29726
 S
 #29707
-Adyb Street~
+Justice Street~
 This wide, cobbled street runs north and south.  It appears to be the
-main thoroughfare of this city.  A store entrance lies west.  
+main thoroughfare of this city.  A store entrance lies west, while another 
+street forks off to the east.  
 ~
 0 0 1
 D0
 ~
 ~
 0 -1 29708
+D1
+~
+~
+0 -1 29748
 D2
 ~
 ~
@@ -565,7 +573,7 @@ D3
 0 -1 29727
 S
 #29708
-Adyb Street~
+Justice Street~
 You are on the main thoroughfare of this city.  To the north is an
 imposing castle, and to the east a smaller road branches off.  
 ~
@@ -894,7 +902,7 @@ D1
 0 -1 29707
 S
 #29728
-Nomag Street~
+Gold Street~
 This smaller road branches off from the main street west of here.  To the
 east, several shops can be seen on either side of the road.  
 ~
@@ -966,8 +974,8 @@ D2
 0 -1 29717
 S
 #29734
-Nomag Street~
-This is the east end of Nomag Street.  There is a noisy smithy to the
+Gold Street~
+This is the east end of Gold Street.  There is a noisy smithy to the
 north, and an armoury to the south.  A weapons shop can be seen to the east.
 ~
 0 8 1
@@ -1177,6 +1185,22 @@ D2
 ~
 0 -1 29740
 S
+#29748
+Nightwatch Way~
+You are at the southern end of Nightwatch Way, a dark, cobblestoned 
+street which curves along the eastern half of Obsidian.  You can see the 
+intersection with Justice street to the west and the street heads east.
+~
+0 0 1
+D1 
+~
+~
+0 -1 -1
+D3
+~
+~
+0 -1 29707
+S 
 #0
 
 
