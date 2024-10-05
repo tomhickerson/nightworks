@@ -1195,12 +1195,28 @@ intersection with Justice street to the west and the street heads east.
 D1 
 ~
 ~
-0 -1 -1
+0 -1 29749
 D3
 ~
 ~
 0 -1 29707
 S 
+#29749
+Nightwatch Way~
+You are walking along the southern curve of Nightwatch Way, as it turns
+and heads into the northern half of the city.  This street is lined with 
+small, gated houses made of a dark brick.  You can turn north or head west.
+~
+0 0 1
+D0 
+~
+~
+0 -1 -1
+D3 
+~
+~
+0 -1 29748
+S
 #0
 
 
