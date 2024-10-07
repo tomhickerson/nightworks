@@ -1211,12 +1211,28 @@ small, gated houses made of a dark brick.  You can turn north or head west.
 D0 
 ~
 ~
-0 -1 -1
+0 -1 29750
 D3 
 ~
 ~
 0 -1 29748
 S
+#29750
+Nightwatch Way~
+You are making your way along this narrow cobbelstoned street, lined with 
+dark brick buildings that have all their doors and windows shut.  Dark 
+brooding towers rise in the distance to the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 -1
+D2
+~
+~
+0 -1 29749
+S 
 #0
 
 
