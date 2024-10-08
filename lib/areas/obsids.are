@@ -1227,11 +1227,48 @@ brooding towers rise in the distance to the north.
 D0
 ~
 ~
-0 -1 -1
+0 -1 29751
 D2
 ~
 ~
 0 -1 29749
+S 
+#29751
+Nightwatch Way~
+You are on Nightwatch Way, a road that curves along the eastern half of the
+Obsidian City.  The cobbles here are covered with a thin film of moisture and
+a fog hovers near the ground.  The road runs north and south.
+~
+0 0 1
+D0 
+~
+~
+0 -1 29752
+D2
+~
+~
+0 -1 29750
+S 
+#29752
+Nightwatch Way~
+You are on Nightwatch Way, a dark road that curves through the Obsidian City.
+To the north, you see the spires of the Temple of Selket, while the road heads 
+south and curves to the west.  A chilling mist flows along the ground, coming 
+from the temple doors.
+~
+0 0 1
+D0 
+~
+~
+0 -1 18244
+D2
+~
+~
+0 -1 29751
+D3
+~
+~
+0 -1 -1
 S 
 #0
 
