@@ -1268,8 +1268,39 @@ D2
 D3
 ~
 ~
-0 -1 -1
+0 -1 29753
 S 
+#29753
+Nightwatch Way~
+You are making your way along the narrow street of Nightwatch, lined with 
+dark, silent houses.  To the east you can see the spires of a large temple.
+~
+0 0 1
+D1 
+~
+~
+0 -1 29752
+D3
+~
+~
+0 -1 29754
+S
+#29754
+Nightwatch Way~
+You are walking along the narrow cobbles of Nightwatch Way.  Here the 
+street makes a turn to the north leading to the Bazaar, and to the west 
+you can see ominous spires rising in the distance.
+~
+0 0 1
+D0
+~
+~
+0 -1 29608
+D3 
+~
+~
+0 -1 29753
+S
 #0
 
 
