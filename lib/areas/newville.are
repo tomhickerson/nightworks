@@ -2475,6 +2475,36 @@ D5
 An opening into a burrow.
 ~
 ~
+0 -1 2707
+S 
+#2707
+In a soft earth tunnel~
+~
+0 0 2
+D3
+Making your way down the tunnel.
+~
+~
+0 -1 2708
+D4 
+Climbing up to the surface.
+~
+~
+0 -1 2706
+S 
+#2708
+A sloping tunnel~
+~
+0 0 2
+D1
+Winding your way to the east.
+~
+~
+0 -1 2707
+D3
+Winding your way to the west.
+~
+~
 0 -1 -1
 S 
 #0
