@@ -2540,7 +2540,52 @@ D5
 Climbing down through a rocky hole.
 ~
 ~
+0 -1 2711
+S 
+#2711
+A rocky tunnel~
+~
+0 0 2
+D4
+Climbing up to a small chamber.
+~
+~
+0 -1 2710
+D5 
+Climbing down to an excavation room.
+~
+~
+0 -1 2712 
+S 
+#2712
+A side excavation chamber~
+~
+0 0 2
+D0 
+Heading north to the main mine passage.
+~
+~
+0 -1 2713
+D4 
+Climbing up an unused shaft.
+~
+~
+0 -1 2711
+S 
+#2713
+Main Mine Passage Southwest~
+~
+0 0 2
+D1 
+A drilling tunnel leads to the east.
+~
+~
 0 -1 -1
+D2
+A small cave leading south.
+~
+~
+0 -1 2712
 S 
 #0
 
