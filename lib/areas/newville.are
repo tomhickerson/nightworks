@@ -2580,12 +2580,42 @@ D1
 A drilling tunnel leads to the east.
 ~
 ~
-0 -1 -1
+0 -1 2714
 D2
 A small cave leading south.
 ~
 ~
 0 -1 2712
+S 
+#2714
+Main South Tunnel~
+~
+0 0 2
+D0
+The connecting passage leads north.
+~
+~
+0 -1 -1
+D1
+The tunnel heads east.
+~
+~
+0 -1 -1
+D3
+The tunnel heads west.
+~
+~
+0 -1 2713
+S 
+#2715
+Main Mine Passage Southeast~
+~
+0 0 2
+D3
+The tunnel heads west.
+~
+~
+0 -1 2714
 S 
 #0
 
