@@ -1612,7 +1612,7 @@ D5
 Heading down into the mines.
 ~
 ~
-0 -1 -1
+0 -1 2717
 S 
 #2656
 On a jungle path~
@@ -2595,7 +2595,7 @@ D0
 The connecting passage leads north.
 ~
 ~
-0 -1 -1
+0 -1 2716
 D1
 The tunnel heads east.
 ~
@@ -2616,6 +2616,41 @@ The tunnel heads west.
 ~
 ~
 0 -1 2714
+S 
+#2716
+Main South Tunnel~
+~
+0 0 2
+D0
+Connecting to an upwards shaft.
+~
+~
+0 -1 2717
+D2
+Heading south through the tunnel.
+~
+~
+0 -1 2714
+S 
+#2717
+Base of the mineshaft~
+~
+0 0 2
+D0
+Heading to the north tunnel.
+~
+~
+0 -1 -1
+D2
+Heading to the south tunnel.
+~
+~
+0 -1 2716
+D4
+Heading up to the surface.
+~
+~
+0 -1 2655
 S 
 #0
 
