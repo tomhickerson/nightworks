@@ -2652,6 +2652,56 @@ Heading up to the surface.
 ~
 0 -1 2655
 S 
+#2718
+Main North Tunnel~
+~
+0 0 2
+D0
+Heading north to an intersection.
+~
+~
+0 -1 -1
+D2
+Heading south to the base of the mineshaft.
+~
+~
+0 -1 2717
+S
+#2719
+Main North Tunnel~
+~
+0 0 2
+D1
+Heading to the northeast corner of the mines.
+~
+~
+0 -1 -1
+D2
+Heading south through a connecting passage.
+~
+~
+0 -1 2718
+D3
+Heading to the northwest corner of the mines.
+~
+~
+0 -1 2720
+S 
+#2720
+Main Mine Passage Northwest~
+~
+0 0 2
+D1
+Heading east into the mines.
+~
+~
+0 -1 2719
+D5 
+A sinkhole leading into a cave.
+~
+~
+0 -1 -1
+S 
 #0
 
 
