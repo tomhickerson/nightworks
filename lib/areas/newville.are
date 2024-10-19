@@ -1486,7 +1486,8 @@ S
 A small grotto~
 You are in a rounded passage of gray rock, with water 
 splashing about your ankles.  This chamber is perfectly 
-round, and seems to be naturally made.
+round, and seems to be naturally made.  Water pours from 
+a high crack in the wall, over a slick, unclimbable surface.
 ~
 0 0 2
 D3 
@@ -2692,7 +2693,7 @@ Main Mine Passage Northwest~
 You are walking along a massive mine passage in the northwest 
 section of the mine.  Ash-black wooden pillars support the 
 ceiling here, and you see a small sinkhole uncovered by recent
-digging in the area.
+digging leading downward.
 ~
 0 0 2
 D1
@@ -2701,10 +2702,40 @@ Heading east into the mines.
 ~
 0 -1 2719
 D5 
-A sinkhole leading into a cave.
+A sinkhole leading down.
+~
+~
+0 -1 2721
+S 
+#2721
+A narrow cave passage~
+~
+0 0 2
+D3 
+A passage sloping downwards.
 ~
 ~
 0 -1 -1
+D4 
+An entry to the mines.
+~
+~
+0 -1 2720
+S
+#2722
+At the shore of an underground stream~
+~
+0 0 2
+D1 
+A passage moving away from the stream.
+~
+~
+0 -1 2721
+D5 
+A one-way slide into a large grotto.
+~
+~
+0 -1 2649
 S 
 #0
 
