@@ -2601,7 +2601,7 @@ D1
 The tunnel heads east.
 ~
 ~
-0 -1 -1
+0 -1 2715
 D3
 The tunnel heads west.
 ~
@@ -2641,7 +2641,7 @@ D0
 Heading to the north tunnel.
 ~
 ~
-0 -1 -1
+0 -1 2718
 D2
 Heading to the south tunnel.
 ~
@@ -2661,7 +2661,7 @@ D0
 Heading north to an intersection.
 ~
 ~
-0 -1 -1
+0 -1 2719
 D2
 Heading south to the base of the mineshaft.
 ~
@@ -2676,7 +2676,7 @@ D1
 Heading to the northeast corner of the mines.
 ~
 ~
-0 -1 -1
+0 -1 2723
 D2
 Heading south through a connecting passage.
 ~
@@ -2715,7 +2715,7 @@ D3
 A passage sloping downwards.
 ~
 ~
-0 -1 -1
+0 -1 2722
 D4 
 An entry to the mines.
 ~
@@ -2736,6 +2736,16 @@ A one-way slide into a large grotto.
 ~
 ~
 0 -1 2649
+S 
+#2723
+Main Mine Passage Northeast~
+~
+0 0 2
+D3 
+Heading to the north passage.
+~
+~
+0 -1 2719
 S 
 #0
 
