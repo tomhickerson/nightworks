@@ -2431,7 +2431,7 @@ D1
 Heading east deeper into the cemetery.
 ~
 ~
-0 -1 -1
+0 -1 2724
 D2 
 Heading south along the cenetery fence.
 ~
@@ -2746,6 +2746,54 @@ Heading to the north passage.
 ~
 ~
 0 -1 2719
+S 
+#2724
+A cemetery pathway~
+You are heading through the thickets of an overgrown cemetry, between
+large headstones, engraved with strange lettering and dates.  You see 
+a gate to the west and the path continues east.
+~
+0 0 2
+D1 
+Heading east deeper into the cemetery.
+~
+~
+0 -1 -1
+D3
+Heading towards the iron gates.
+~
+~
+0 -1 2704
+S 
+#2725
+Trail along the fence~
+~
+0 0 2
+D0 
+Heading north along the fence line.
+~
+~
+0 -1 2706
+D2
+Heading south along the fence line.
+~
+~
+0 -1 2726
+S 
+#2726
+Trail along the fence~
+~
+0 0 2
+D0 
+Heading north along the fence line.
+~
+~
+0 -1 2725
+D2
+Heading south to the corner of the cenetery.
+~
+~
+0 -1 -1
 S 
 #0
 
