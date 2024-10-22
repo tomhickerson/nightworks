@@ -270,6 +270,46 @@ dagger 4 14 stab 0
 22 44 200 G
 A
 7 1
+#22608
+scimitar~
+a glowing scimitar~
+A glowing scimitar lies at your feet.~
+steel~
+weapon L AN
+sword 3 8 slash 0
+16 60 990 P
+A
+18 2
+A
+19 1
+E
+scimitar~ 
+The scimitar seems well made, and glows with a slight radiance. Inscripted
+up the side are pictures of spiders.~
+#22609
+dark shortsword~
+a dark shortsword~
+A dark shortsword lies here at your feet.~
+steel~
+weapon 0 AN
+sword 4 6 slash 0
+35 86 200 G
+E 
+shortsword~
+This sleek, elegant weapon is perfectly balanced and razor sharp, perfect
+for backstabbing!~
+#22610
+twisted steel great axe~
+a twisted steel great axe~
+A twisted steel great axe has been left here.~
+steel~
+weapon 0 AN
+axe 4 4 cleave 0
+43 86 200 G
+E
+great axe~
+This axe is made of a glowing silvery metal. The wooden handle is made of
+black wood, and there are spider inscriptions up and down its length.~ 
 #0
 
 
