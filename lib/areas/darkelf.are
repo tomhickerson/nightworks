@@ -38,8 +38,8 @@ EFU 0 D N
 stand stand none 0
 AHIMV ABCDEFGHIJK medium 0
 #22602 
-yolchlol~
-The Yolchlol~
+yochlol~
+The Yochlol~
 A horrible yochlol is here.
 ~
 A heinous sight unfolds before you, a creature standing 7 feet tall, 
@@ -292,8 +292,8 @@ a dark shortsword~
 A dark shortsword lies here at your feet.~
 steel~
 weapon 0 AN
-sword 4 6 slash 0
-35 86 200 G
+sword 3 6 slash 0
+15 86 200 G
 E 
 shortsword~
 This sleek, elegant weapon is perfectly balanced and razor sharp, perfect
@@ -305,7 +305,7 @@ A twisted steel great axe has been left here.~
 steel~
 weapon 0 AN
 axe 4 4 cleave 0
-43 86 200 G
+14 86 200 G
 E
 great axe~
 This axe is made of a glowing silvery metal. The wooden handle is made of
@@ -1592,11 +1592,14 @@ O 0 22605 0 22637 * putting the chest in the darkelf traveler's vault
 M 0 22600 2 22609 1 * large spider in the sticky tunnel 
 M 0 22600 2 22610 1 * large spider in the slimy tunnel 
 M 0 22601 2 22603 1 * umber hulk as a wandering monster 
-M 0 22602 1 22637 1 * yolochol set to guard the treasure vault
+M 0 22602 1 22637 1 * yochlol set to guard the treasure vault
 M 0 22603 1 22646 1 * shadow dragon in its lair 
 M 0 22604 2 22622 1 * darkelf guard at the guard post 
+E 1 22608 1 16 * equip the guard with a scimitar 
 M 0 22604 2 22623 1 * darkelf guard at the guard post 
+E 1 22609 1 16 * equip the guard with a shortsword 
 M 0 22605 2 22650 1 * darkelf fighter at the city gates  
+E 1 22610 1 16 * equip the fighter with an axe 
 M 0 22606 2 22660 1 * darkelf warrior at the fighter's guild  
 M 0 22607 1 22613 1 * gargantuam spider in its lair 
 M 0 22608 1 22631 1 * evil lich in its inner sanctum 
@@ -1644,6 +1647,7 @@ S
 
 
 #SPECIALS
+M 22602 spec_breath_any * the yochlol guardian 
 S
 
 
