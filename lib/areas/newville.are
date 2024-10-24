@@ -2758,7 +2758,7 @@ D1
 Heading east deeper into the cemetery.
 ~
 ~
-0 -1 -1
+0 -1 2828
 D3
 Heading towards the iron gates.
 ~
@@ -2793,7 +2793,37 @@ D2
 Heading south to the corner of the cenetery.
 ~
 ~
+0 -1 2727
+S 
+#2727
+At the southwest corner of the cemetery~
+~
+0 0 2
+D0
+Heading north along the fence line.
+~
+~
+0 -1 2726
+D1
+Heading east along the fence line.
+~
+~
 0 -1 -1
+S 
+#2828
+Along the cemetery path~
+~
+0 0 2
+D1
+Heading east into the center of the cemetery.
+~
+~
+0 -1 -1
+D3 
+Heading west along the path.
+~
+~
+0 -1 2724
 S 
 #0
 
