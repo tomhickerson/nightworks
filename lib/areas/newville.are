@@ -2818,13 +2818,38 @@ D1
 Heading east into the center of the cemetery.
 ~
 ~
-0 -1 -1
+0 -1 2829
 D3 
 Heading west along the path.
 ~
 ~
-0 -1 2724
+0 -1 2824
 S 
+#2829
+At a small crossroads~
+~
+0 0 1
+D0 
+Heading up the side of a small hill.
+~
+~
+0 -1 -1
+D1
+Heading east through the headstones.
+~
+~
+0 -1 -1
+D2
+Entering a grey stone mausoleum.
+~
+~
+0 -1 -1
+D3
+Heading west along the path.
+~
+~
+0 -1 2828
+S
 #0
 
 
