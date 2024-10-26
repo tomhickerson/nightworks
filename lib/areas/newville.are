@@ -2830,10 +2830,10 @@ At a small crossroads~
 ~
 0 0 1
 D0 
-Heading up the side of a small hill.
+Heading towards a small hill.
 ~
 ~
-0 -1 -1
+0 -1 2830
 D1
 Heading east through the headstones.
 ~
@@ -2843,13 +2843,38 @@ D2
 Entering a grey stone mausoleum.
 ~
 ~
-0 -1 -1
+0 -1 2831
 D3
 Heading west along the path.
 ~
 ~
 0 -1 2828
 S
+#2830
+At the base of a hill~
+~
+0 0 2
+D2
+Heading to a small crossroads in the graveyard.
+~
+~
+0 -1 2829
+D4
+Heading up the side of a hill.
+~
+~
+0 -1 -1
+S 
+#2831
+Inside a stone mausoleum~
+~
+0 0 2
+D0 
+Exiting the mausoleum.
+~
+~
+0 -1 2829
+S 
 #0
 
 
