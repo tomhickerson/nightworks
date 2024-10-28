@@ -2758,7 +2758,7 @@ D1
 Heading east deeper into the cemetery.
 ~
 ~
-0 -1 2828
+0 -1 2728
 D3
 Heading towards the iron gates.
 ~
@@ -2810,7 +2810,7 @@ Heading east along the fence line.
 ~
 0 -1 -1
 S 
-#2828
+#2728
 Along the cemetery path~
 ~
 0 0 2
@@ -2818,14 +2818,14 @@ D1
 Heading east into the center of the cemetery.
 ~
 ~
-0 -1 2829
+0 -1 2729
 D3 
 Heading west along the path.
 ~
 ~
-0 -1 2824
+0 -1 2724
 S 
-#2829
+#2729
 At a small crossroads~
 ~
 0 0 1
@@ -2833,24 +2833,24 @@ D0
 Heading towards a small hill.
 ~
 ~
-0 -1 2830
+0 -1 2730
 D1
 Heading east through the headstones.
 ~
 ~
-0 -1 2834
+0 -1 2734
 D2
 Entering a grey stone mausoleum.
 ~
 ~
-0 -1 2831
+0 -1 2731
 D3
 Heading west along the path.
 ~
 ~
-0 -1 2828
+0 -1 2728
 S
-#2830
+#2730
 At the base of a hill~
 ~
 0 0 2
@@ -2858,14 +2858,14 @@ D2
 Heading to a small crossroads in the graveyard.
 ~
 ~
-0 -1 2829
+0 -1 2729
 D4
 Heading up the side of a hill.
 ~
 ~
-0 -1 2832
+0 -1 2732
 S 
-#2831
+#2731
 Inside a stone mausoleum~
 ~
 0 0 2
@@ -2873,9 +2873,9 @@ D0
 Exiting the mausoleum.
 ~
 ~
-0 -1 2829
+0 -1 2729
 S 
-#2832
+#2732
 On the crest of a hill in the graveyard~
 ~
 0 0 2
@@ -2883,14 +2883,14 @@ D1
 Walking along the crest of the hill.
 ~
 ~
-0 -1 2833 
+0 -1 2733 
 D5
 Heading down the hill to the graveyard proper.
 ~
 ~
-0 -1 2830
+0 -1 2730
 S 
-#2833
+#2733
 Before a large headstone~
 ~
 0 0 2
@@ -2898,9 +2898,9 @@ D3
 Walking along the crest of the hill.
 ~
 ~
-0 -1 2832
+0 -1 2732
 S 
-#2834
+#2734
 At the far end of the cemetery~
 ~
 0 0 2
@@ -2908,14 +2908,14 @@ D2
 Heading south on a small path among the headstones.
 ~
 ~
-0 -1 2835
+0 -1 2735
 D3 
 Heading west towards a crossroads in the cemetery.
 ~
 ~
-0 -1 2829
+0 -1 2729
 S 
-#2835
+#2735
 On a small path in the graveyard~
 ~
 0 0 2
@@ -2923,19 +2923,19 @@ D0
 Heading north along the path.
 ~
 ~
-0 -1 2834
+0 -1 2734
 D2 
 Heading south along the path.
 ~
 ~
-0 -1 2836
+0 -1 2736
 D3
 Entering a cold stone mausoleum.
 ~
 ~
-0 -1 -1
+0 -1 2737
 S 
-#2836
+#2736
 At the corner of the fence in the graveyard~
 ~
 0 0 2
@@ -2943,9 +2943,54 @@ D0
 Heading north through the headstones.
 ~
 ~
-0 -1 2835
+0 -1 2735
 D3
 Heading west along the fence line.
+~
+~
+0 -1 -1
+S 
+#2737
+A dark cold mausoleum~
+~
+0 0 2
+D1 
+Exiting the mausoleum.
+~
+~
+0 -1 2735
+S
+#2738
+Trail along the fence line~
+~
+0 0 2
+D1 
+Heading east to a corner in the cemetery.
+~
+~
+0 -1 2736
+D3
+Heading west along the fence line.
+~
+~
+0 -1 2739
+S
+#2739
+Trail along the fence line~
+~
+0 0 2
+D0 
+Entering a black stone mausoleum.
+~
+~
+0 -1 -1
+D1 
+Heading east along the trail.
+~
+~
+0 -1 2738
+D3
+Heading west along the trail.
 ~
 ~
 0 -1 -1
