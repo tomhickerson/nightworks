@@ -2983,7 +2983,7 @@ D0
 Entering a black stone mausoleum.
 ~
 ~
-0 -1 -1
+0 -1 2740
 D1 
 Heading east along the trail.
 ~
@@ -2994,6 +2994,16 @@ Heading west along the trail.
 ~
 ~
 0 -1 -1
+S 
+#2740
+The black stone mausoleum~
+~
+0 0 2
+D2
+Exiting the mausoleum.
+~
+~
+0 -1 2739
 S 
 #0
 
