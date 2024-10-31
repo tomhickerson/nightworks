@@ -489,7 +489,7 @@ E
 oak tree~
 Its a very large tree with nice green leaves
 covering it. Its branches are situated so it
-is easy to sit it.~
+is easy to sit on it.~
 #2635
 medical bed~
 a medical bed~
@@ -526,6 +526,35 @@ E
 poker~
 Its made of brass and has two pointy prongs at
 the end of it.~
+#2639
+fire opal~
+a fire opal~
+You see a small black opal here, it looks like a small fire burns within it.~
+opal~
+treasure GU AO
+0 0 0 0 0
+0 10 740 P
+A
+4 1
+A
+5 1
+E
+fire opal~
+You see some kind of flame dancing within the stone, as you turn 
+it in your hand it moves and shimmers.
+~
+#2640
+fire diamond~
+a fire diamond~
+A small diamond is here, brilliant and scintillating.~
+diamond~
+treasure GU AO
+0 0 0 0 0
+0 10 840 P
+A
+4 1
+A
+5 1
 #0
 
 
@@ -3014,6 +3043,16 @@ Heading through a dirt tunnel to the east.
 ~
 ~
 0 -1 2709
+S 
+#2742
+Crypt of the Fire King~
+~
+0 0 2
+D4
+Leaving the crypt.
+~
+~
+0 -1 2741
 S 
 #0
 
