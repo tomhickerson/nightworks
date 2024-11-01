@@ -2738,6 +2738,9 @@ A sinkhole leading down.
 S 
 #2721
 A narrow cave passage~
+You are in a narrow stone passage, which runs under the mines
+and through the rock to a natural cave.  You hear spashing and 
+dripping to the west of you.
 ~
 0 0 2
 D3 
@@ -2753,6 +2756,11 @@ An entry to the mines.
 S
 #2722
 At the shore of an underground stream~
+You are in a round, domed cavern, where a stream running 
+out of the porous walls of the cave collects in a blue 
+pond, which then flows into a larger cavern below you.
+It looks like there is no way back up, if you clamber 
+down the rock to the next cavern.
 ~
 0 0 2
 D1 
@@ -2768,6 +2776,9 @@ A one-way slide into a large grotto.
 S 
 #2723
 Main Mine Passage Northeast~
+You are deep underground in the mine passageway, which ends here
+in a dead end.  The ground is covered in rock dust and wooden 
+flooboards.
 ~
 0 0 2
 D3 
