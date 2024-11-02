@@ -2664,6 +2664,10 @@ Heading south through the tunnel.
 S 
 #2717
 Base of the mineshaft~
+You are in the base of the main shaft of the mines
+leading to the surface.  Passages lead off to the
+north and south, and the light of the surface can 
+be seen above your head.
 ~
 0 0 2
 D0
@@ -2699,6 +2703,11 @@ Heading south to the base of the mineshaft.
 S
 #2719
 Main North Tunnel~
+You are in a large, dark tunnel of the mines.  In the distance 
+somewhere you think you can hear a steady drip, drip, of water
+on stone.  The walls are smooth and carved away, while the 
+floor is of smooth black stone.  Passages here lead east, 
+south and west.
 ~
 0 0 2
 D1
