@@ -2619,6 +2619,8 @@ A small cave leading south.
 S 
 #2714
 Main South Tunnel~
+You are in an intersection in the mine passages,
+tunneling into the earth into different directions.
 ~
 0 0 2
 D0
@@ -2639,6 +2641,11 @@ The tunnel heads west.
 S 
 #2715
 Main Mine Passage Southeast~
+You have come to a dead end in the mines, where the 
+passageway ends in a solid wall of stone.  Dust and dirt 
+covers the ground, and stout wooden pillars line the 
+walls and support the ceiling.  The only way out is
+to the west.
 ~
 0 0 2
 D3
@@ -2649,6 +2656,9 @@ The tunnel heads west.
 S 
 #2716
 Main South Tunnel~
+You are in a mining tunnel running through solid rock.  Marble
+dust and chips cover the floor here, and wooden beams line the walls
+and support the ceiling.  This passage runs north and south.
 ~
 0 0 2
 D0
