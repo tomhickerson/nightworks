@@ -2524,6 +2524,9 @@ Climbing up to the surface.
 S 
 #2708
 A sloping tunnel~
+You are in a crumbling tunnel, made of dirt and 
+rough clay.  You can see roots and veins of odd
+rocks running through the walls and floor here.
 ~
 0 0 2
 D1
@@ -2589,6 +2592,10 @@ Climbing down to an excavation room.
 S 
 #2712
 A side excavation chamber~
+You are in a small chamber next to the mines.  Small 
+boulders lie on the ground here as several unfinished 
+holes pierce the cave walls in different places.  A small
+cavern shaft leads up and a tunnel leads north.
 ~
 0 0 2
 D0 
@@ -2604,6 +2611,9 @@ Climbing up an unused shaft.
 S 
 #2713
 Main Mine Passage Southwest~
+You are in a large end passage for the mines, with chisled
+walls and rough stone floor.  There is a small opening leading
+south, which appears to have been opened by a small cave-in.
 ~
 0 0 2
 D1 
