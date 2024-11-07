@@ -2489,6 +2489,10 @@ South along the fence.
 S 
 #2706 
 Between the fence and a large headstone~
+You are walking along a narrow, overgrown path leading past
+the wrought iron fence of the graveyard.  This part of the 
+path winds behind a large, heavy headstone, where you think
+you see a small opening leading down into the earth. 
 ~
 0 0 2
 D0 
@@ -2509,6 +2513,11 @@ An opening into a burrow.
 S 
 #2707
 In a soft earth tunnel~
+You are in a dark, dank earth tunnel that smells of 
+rot and filth.  Your feet sink into soft mud as you 
+steady yourself on a wall of packed earth.  Above 
+you is the exit to the surface, while the tunnel 
+continues to the west.
 ~
 0 0 2
 D3
