@@ -13,6 +13,9 @@ public enum PlayerAchievement {
     KILL_MORE_RABBITS_FOR_THE_HERMIT(7, "Kill more rabbits for the Hermit in the Plains", false),
     TALK_TO_FOREST_GARGOYLE(8, "Meet the Gargoyle in the Forest", false),
     LITTLE_GIRLS_LOST(9, "Find out what happened to the girls in the Orphanage", false),
+    TALK_TO_MYTHRAS_GARGOYLE(10, "Meet the Gargoyle in Mythras"),
+    TALK_TO_MYTHAIN_GARGOYLE(11, "Meet the Gargoyle in Mythain"),
+    DIE_ONCE(12,"Perish one time in Spellbound"),
     FIND_THE_KERCHIEF(1001, "Find the handkerchief for the noblewoman", false);
 
 
@@ -72,9 +75,6 @@ public enum PlayerAchievement {
     }
 
     public boolean equals(PlayerAchievement pa) {
-        if (this.getId() == pa.getId()) {
-            return true;
-        }
-        return false;
+        return this.getId() == pa.getId();
     }
 }
