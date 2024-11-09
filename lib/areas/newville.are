@@ -2454,6 +2454,11 @@ Down the stairs to the second landing.
 S 
 #2704
 The Village Cemetery Gates~
+You are standing before the cemetary gates, wrought of 
+iron, standing open to allow access to the dead.  To the 
+east you see a path leading among the headstones and 
+mausoleums.  To the south you can see a small path 
+running along the edge of the black iron fence.
 ~
 0 0 2
 D1
@@ -2474,6 +2479,10 @@ Exiting the cemetery.
 S 
 #2705
 The Village Cemetery Fence Line~
+You are walking along a fence line, running along the 
+very edge of the graveyard.  To the north, you see the 
+iron gates open.  To the south, the path runs along the 
+fence and turns through several headstones and crosses.
 ~
 0 0 2
 D0
