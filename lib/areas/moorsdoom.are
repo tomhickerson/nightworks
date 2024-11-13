@@ -3202,6 +3202,8 @@ M 0 50007 3 50025 1 * rough guard
 M 0 50008 3 50026 1 * menacing guard in the center square 
 M 0 50008 3 50027 1 * menacing guard
 M 0 50008 3 50035 1 * menacing guard in the northeast tower 
+M 0 50009 3 50086 1 * timid citizen east guild road 
+M 0 50009 3 50085 1 * timid citizen near the square 
 M 0 50010 1 50101 1 * werewolf, somewhere in the moors  
 S
 
