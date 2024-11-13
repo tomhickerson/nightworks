@@ -975,6 +975,11 @@ Fresh Road and the Shrine to Odin.
 S
 #2619
 Before the Docks~
+You find yourself standing on a stone embankment, with wooden steps
+leading down to the piers of the docks.  Seagulls flit about and 
+you can hear the rush of the waves against the rocks.  A shady wooden
+pier leads to the east, and a large stone archway is to the south.
+A path leads into town to the north.
 ~
 0 0 2
 D0 
@@ -995,6 +1000,10 @@ A statue of a gargoyle, before a large arch.
 S
 #2620
 Before a Shrine to Odin~
+You are on Fresh Road, standing before an open-air shrine
+to Odin.  There is a large statue of him here with a 
+donation pit in the ground at its marble feet.  Several of
+the faithful are here, gathered in prayer.
 ~
 0 0 2
 D1
@@ -1016,6 +1025,7 @@ Entrance to the Village Zoo.
 ~
 0 -1 2697
 D1 
+Before an open-air shrine to Odin.
 ~
 ~
 0 -1 2620
