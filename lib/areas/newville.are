@@ -901,6 +901,8 @@ Entering the Darkened Sage's Library.
 S 
 #2615 
 Eastern Way~
+You are on a packed dirt road, winding your way through the
+village proper.  This road leads north and south.
 ~
 0 0 2
 D0 
@@ -916,6 +918,10 @@ Heading south on Eastern Way.
 S
 #2616
 Eastern Way~
+You are on a hard-packed dirt road winding its 
+way through the village.  A large, domed structure
+is to the west of you, while the road heads north 
+and south. 
 ~
 0 0 2
 D0 
@@ -936,6 +942,9 @@ Entering the Observatory Building.
 S
 #2617
 Eastern Way~
+You are on a dirt road leading through the village.  The
+road heads north and south, and to the west you see the
+Entry to the Village Zoo.
 ~
 0 0 2
 D0
@@ -956,6 +965,10 @@ The Village Zoo.
 S
 #2618
 Eastern Way~
+You are on the dirt road of eastern way, leading north 
+and south through the village.  You smell the salt of the
+sea to the south of you, and a road to the Shrine to Odin leads 
+to the west.
 ~
 0 0 2
 D0 
@@ -1017,6 +1030,9 @@ D3
 S 
 #2621
 On Fresh Road~
+You are on a dirt road, running alongside the 
+southernmost wall of the village.  To the north 
+you can see the entryway to the Village Zoo.
 ~
 0 0 2
 D0
