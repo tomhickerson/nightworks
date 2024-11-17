@@ -1053,6 +1053,12 @@ On to Market Square.
 S
 #2622
 Market Square~
+You are in a crossroads in the village proper; to the 
+north you see a crudely lettered sign for the general 
+store, to the south you hear the noise of the village 
+blacksmith, while Fresh Road runs east and west.
+A stone pedestal with a small plaque stands in the 
+center of the square.
 ~
 0 0 2
 D0
@@ -1075,9 +1081,15 @@ West to Fresh Road.
 ~
 ~
 0 -1 2623
+E
+pedestal plaque~
+The plaque reads: MARKET SQUARE 
+The scrawl underneath it reads: Were You Expecting Something Else??~
 S 
 #2623 
 On Fresh Road~
+You are on a dirt road, running east and west along the southernmost wall 
+of the village.  You see a small sign on a post here.
 ~
 0 0 2
 D1
@@ -1090,6 +1102,14 @@ Towards the Village Gates.
 ~
 ~
 0 -1 2604
+E
+post sign~
+Welcome again!  If you are just arriving, you are about to enter
+the Market Square.  Make sure you have enough money and check 
+what each shopkeeper has available by using the LIST command.
+You can then try to BUY <Something>.  Also, if you have
+something you would like to sell, you can try the command
+SELL <Something>.~
 S 
 #2624 
 The First Post~
