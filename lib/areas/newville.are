@@ -1113,10 +1113,14 @@ SELL <Something>.~
 S 
 #2624 
 The First Post~
+You are in a bar, elevated slightly over the ground on a foundation of
+wooden posts and stilts.  The floorboards creak with your steps, and
+several worn, rough chairs serve as a place to sit and drink.
+You can exit to the west or go to the back of the bar to the east.
 ~
 0 0 2
 D1
-Heading towards the bar.
+Heading towards the back of the bar.
 ~
 ~
 0 -1 2625
@@ -1128,6 +1132,9 @@ Heading towards Western Way.
 S 
 #2625
 The First Post Bar~
+You are in the shady back of the bar, where most of the customers
+are sitting and enjoying a drink, and sometimes a smoke.  The way
+out is to the west.
 ~
 0 0 2
 D3
@@ -1138,7 +1145,7 @@ The main room of the First Post.
 S 
 #2626 
 The Guild Houses and Training Area~
-You are in a entryway passage to the Guild Houses, 
+You are in an entryway passage to the Guild Houses, 
 part of the organization that runs things in the 
 village here.  An exit to the street is west and 
 the pratice area is to the east.
@@ -1159,7 +1166,9 @@ S
 The Guild Houses and Practice Area~
 You find yourself in an airy room with a large, curved 
 ceiling.  Light flows in from the top of the ceiling and 
-illuminates a training area for all townsfolk.~
+illuminates a training area for all townsfolk.
+There is a small sign posted above the exit.
+~
 0 0 2
 D3 
 ~
