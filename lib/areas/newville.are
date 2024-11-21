@@ -2025,6 +2025,10 @@ Entering the Mayor's Office.
 S
 #2672
 Market Square~
+You are walking through a small square in the village,
+where enterprising souls may hawk their wares and 
+participate in commerce.  You see a small shop to the
+east and a ragged tent to the west.
 ~
 0 0 2
 D0
@@ -2050,6 +2054,12 @@ Entering a simple tent where you hear some hissing sounds.
 S 
 #2673
 The Glassblower's Tent~
+Entering this ragged tent you are taken aback by the 
+hissing of hot glass entering an oven, about to be 
+shaped by the master of the shop.  A number of 
+glasses and vases are on a small wooden shelf.
+There is a small {Wsign{x tacked to the main 
+tent pole.
 ~
 0 0 2
 D1
