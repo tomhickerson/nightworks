@@ -2070,6 +2070,11 @@ Exiting the tent to Market Square.
 S 
 #2674 
 The Mapmaker's Shoppe~
+You are in a small wooden store, stacked floor to 
+ceiling with scrolls, charts, maps, parchments,
+and other written notes mapping out parts of the 
+Known World.  A small {Wsign{x hangs over the
+counter.
 ~
 0 0 2
 D3 
@@ -2080,6 +2085,8 @@ Exiting the Shoppe to Market Square.
 S 
 #2675
 Corner of Hardscrabble and Southern Way~
+You are at a hard turn in the road, rounding out the 
+south-eastern corner of the village.
 ~
 0 0 2
 D0 
@@ -2095,6 +2102,9 @@ Heading east on Southern Way.
 S 
 #2676
 On Southern Way~
+You are walking along Southern Way, which runs 
+along the southern wall of the village, ending at
+the docks, visible far to the east of here.
 ~
 0 0 2
 D1 
@@ -2110,6 +2120,9 @@ Heading to the corner of Southern and Hardscrabble.
 S
 #2677
 On Southern Way~
+You are walking along Southern Way, through a quiet 
+part of the village.  In the distance to the east,
+a lighthouse towers over the seas.
 ~
 0 0 2
 D1
@@ -2125,6 +2138,9 @@ Heading west on Southern Way.
 S 
 #2678
 On Southern Way~
+You are on Southern Way, a hard-packed road
+that leads up to a lighthouse to the east and
+runs through the village to the west.
 ~
 0 0 2
 D1 
