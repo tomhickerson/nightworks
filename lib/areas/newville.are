@@ -2175,6 +2175,12 @@ Entering the Mayor's Office.
 S
 #2680
 The Mayor's Office~
+You are in a very nice office, compared to the rest of the
+town.  Pale white wallpaper with an inlaid design covers 
+all of the walls, and curving fixtures adorn the ceiling.
+The floor is heavy wood, polished to a shine, and covered 
+in a small but expensive rug.
+A large desk made of mahogany takes up one half of the room.
 ~
 0 0 2
 D1 
@@ -2185,6 +2191,10 @@ Exit to the Office Foyer.
 S  
 #2681
 The Fife and Fiddle~
+You are in a small watering hole, held together by rough
+boards, copper nails and the occaisional rope.  A set of
+tables and chairs make up part of the room and a bar 
+streches alongside one of the walls.
 ~
 0 0 2
 D3 
@@ -2195,6 +2205,10 @@ Exit to Hardscrabble Road.
 S 
 #2682
 The Village Blacksmithy~
+You are in a low stone-and-wood structure with a large
+firepit in the middle of the room.  This area is hot
+and humid, and you can hear the clank and clunk of 
+metal striking against metal.
 ~
 0 0 2
 D0 
