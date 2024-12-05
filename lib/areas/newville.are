@@ -2219,6 +2219,9 @@ Exit to the Market Square.
 S 
 #2683 
 The General Store~
+You are in a dusty store which smells of sawdust and 
+metal.  There is a small table in the back of the store
+and over it hangs a small {Ysign{x.
 ~
 0 0 2
 D2
@@ -2229,6 +2232,10 @@ Leaving the Store to the Market Square.
 S 
 #2684
 The Potions and Pfilters Shoppe~
+You are in a small shop with glass cases on all sides,
+containing bottles of mixtures, cocktails, potions, 
+drinks, and all types of liquids.  A small {Wsign{x 
+hangs over the counter.
 ~
 0 0 2
 D2 
@@ -2239,6 +2246,10 @@ Leaving the Shoppe to Red Crescent.
 S 
 #2685
 Library of the Dark Sage~
+You are in a vaulted wooden library, full of shady corners
+and cob-webbed bookshelves.  The smell of old vellum and 
+pulled-leather covers permeates the area.  A small nook 
+is open to the west and the library's exit is to the east.
 ~
 0 0 2
 D1
@@ -2254,6 +2265,9 @@ The shelf in the back.
 S
 #2686 
 The shelves of the Library~
+You are in a darker part of the wood-paneled library, lined 
+with high shelves and leather-bound books.  You can only see 
+one exit, to the front part of the Library. 
 ~
 0 0 2
 D1 
