@@ -2318,7 +2318,10 @@ A ladder leading down to the main Observatory chambers.
 S
 #2690
 Village Zoo East Entrance~
-~
+You are in a part of the village which is surrounded by a high
+wall, and a stone archway which leads to the west.  This area
+looks to be mostly abandoned, and old leaves and trash are piled
+on the ground in several places.~
 0 0 2
 D1 
 Exit to Eastern Way.
@@ -2333,6 +2336,9 @@ Zoo Central Square.
 S 
 #2691
 Zoo Central Square~
+You are in the middle of a stone square, which appears to 
+be empty and abandoned.  You can hear growls and snarls
+from the stone stairway leading down to the cages.
 ~
 0 0 2
 D1 
@@ -2466,12 +2472,15 @@ You see the Cage Room.
 0 -1 2692
 E
 sign~
-There is a monster in this room.  Kill him and get out of here fast!
+There is a monster in this cage.  Kill him and get out of here fast!
 Remember to loot and sacrifice the corpse.
 ~
 S
 #2697
 Village Zoo South Entrance~
+You are facing a stone archway leading north, into what 
+appears to be an abandoned zoo.  A large rock wall surrounds
+the area.  The way to the village is to the south.
 ~
 0 0 2
 D0 
@@ -2487,6 +2496,9 @@ Exit leading to Fresh Way.
 S 
 #2698
 Miner's Supply Tent~
+You are in a rough canvas tent, filled with all sorts
+of mining supplies.  Towards the back of the tent you 
+see a small {Wsign{x.
 ~
 0 0 2
 D1 
