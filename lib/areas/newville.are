@@ -2530,6 +2530,10 @@ Exit to Southern Way.
 S 
 #2700
 Base of the Lighthouse stairs~
+You are inside the base of the lighthouse, a small stone and wood
+tower built on the side of the sea.  This floor is very gloomy but
+you can see the magical green flame flicker and glow above you.  A
+wooden set of stairs leads up and the exit is to the west.
 ~
 0 0 2
 D3
@@ -2545,6 +2549,9 @@ Up the stairway to the first landing.
 S 
 #2701
 The Lighthouse, first landing~
+You are on a rickety wood landing between sets of stairs.  Below 
+you is the stone base of the tower and the exit.  Above you is the 
+second landing to the stairs.
 ~
 0 0 2
 D4 
@@ -2560,6 +2567,9 @@ Down the stairway to the base of the stairs.
 S 
 #2702 
 The Lighthouse, second landing~
+You are on the landing of the second floor of the lighthouse.
+Here there is a polished wooden balcony and the narrow sets 
+of stairs leading up and down.
 ~
 0 0 2
 D4
