@@ -2995,6 +2995,9 @@ Heading towards the iron gates.
 S 
 #2725
 Trail along the fence~
+You are walking along a narrow trail that runs along the black iron 
+fence and the mossy headstones of the graveyard.  The ground is hard 
+packed earth, and the trail is only as wide as your footsteps.
 ~
 0 0 2
 D0 
@@ -3010,6 +3013,9 @@ Heading south along the fence line.
 S 
 #2726
 Trail along the fence~
+You are heading along the edge of the cemetery, on a narrow trail
+that runs north and south.  To the south you can make out the corner
+of the cemetery plot.
 ~
 0 0 2
 D0 
@@ -3025,6 +3031,9 @@ Heading south to the corner of the cenetery.
 S 
 #2727
 At the southwest corner of the cemetery~
+You are at the corner of the cemetery plot, marked by a rough 
+iron fence.  In this corner there are jumbled headstones and
+thick weeds; this area has not been cleared in a while.
 ~
 0 0 2
 D0
@@ -3040,6 +3049,10 @@ Heading east along the fence line.
 S 
 #2728
 Along the cemetery path~
+You are on the main path of the graveyard, which heads east into
+the center and west to the gated exit.  The headstones here are
+ancient and covered in mosses and lichens, each spelling out
+their residents in faded letters.
 ~
 0 0 2
 D1
@@ -3055,6 +3068,10 @@ Heading west along the path.
 S 
 #2729
 At a small crossroads~
+You are in the center of the graveyard, where there is an odd stillness,
+as if this place is quiet for the dead.  To the north there is a small 
+hill, while there is a grey stone mausoleum to the south.  The trails
+head east and west.
 ~
 0 0 1
 D0 
