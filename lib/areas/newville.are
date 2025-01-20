@@ -3097,6 +3097,9 @@ Heading west along the path.
 S
 #2730
 At the base of a hill~
+You are at the bottom of a trail leading up a hill.  The hill is treeless, 
+but headstones and hig grass dot its surface here and there.  There is a 
+was south to the center of the graveyard, leading away from the hill.
 ~
 0 0 2
 D2
@@ -3112,6 +3115,9 @@ Heading up the side of a hill.
 S 
 #2731
 Inside a stone mausoleum~
+You are in a dusty gray chamber, inside the stone mausoleum.  Dust 
+covers the floor and you see a simple stone bench before a fresco
+of a grave.
 ~
 0 0 2
 D0 
@@ -3122,6 +3128,9 @@ Exiting the mausoleum.
 S 
 #2732
 On the crest of a hill in the graveyard~
+You are on the ridge of the hill, overlooking the graveyard.  To 
+the south you can see the entire plot, covered in grass and unkempt,
+with the occasional tree or mausoleum here and there.
 ~
 0 0 2
 D1
@@ -3137,6 +3146,9 @@ Heading down the hill to the graveyard proper.
 S 
 #2733
 Before a large headstone~
+You are on the top of the hill, overlooking the graveyard.
+Before you is a large block of black stone, covered in 
+ancient glyphs and symbols.
 ~
 0 0 2
 D3 
@@ -3147,6 +3159,9 @@ Walking along the crest of the hill.
 S 
 #2734
 At the far end of the cemetery~
+You are standing at the back of the graveyard, close to the 
+fence on its easternmost side.  Here you see a small path
+running to the south.
 ~
 0 0 2
 D2
@@ -3162,6 +3177,11 @@ Heading west towards a crossroads in the cemetery.
 S 
 #2735
 On a small path in the graveyard~
+You are on a narrow path running through the thick grass, 
+threading its way between crumbling headsones and grave 
+markers.  Some of them look to be crooked, as if they were
+pushed one way or another.  A mausoleum is to the west, radiating
+a certain coolness.
 ~
 0 0 2
 D0 
@@ -3182,6 +3202,9 @@ Entering a cold stone mausoleum.
 S 
 #2736
 At the corner of the fence in the graveyard~
+You are at the corner of the fence at this cemetary, hemmed
+in by black iron.  You can see paths to the north and west 
+here.
 ~
 0 0 2
 D0
