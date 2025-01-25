@@ -3220,6 +3220,9 @@ Heading west along the fence line.
 S 
 #2737
 A dark cold mausoleum~
+You are in a small chamber, carved out of the rock.  A chill sweeps over
+you as you look at the darkened walls and ceiling, which are covered in 
+ancient symbols and glyphs.
 ~
 0 0 2
 D1 
@@ -3230,6 +3233,9 @@ Exiting the mausoleum.
 S
 #2738
 Trail along the fence line~
+You are on a narrow trail between the high, brown weeds of the 
+graveyard and the wrought iron fence.  This trail runs east and
+west.
 ~
 0 0 2
 D1 
@@ -3245,6 +3251,10 @@ Heading west along the fence line.
 S
 #2739
 Trail along the fence line~
+You are walking along a narrow trail that follows the 
+wrought iron fence to the south, heading east and west.  
+To the north, you can make out a small path leading up 
+to a stone mausoleum.
 ~
 0 0 2
 D0 
@@ -3265,6 +3275,10 @@ Heading west along the trail.
 S 
 #2740
 The black stone mausoleum~
+You are in a mausoleum crafted of black stone, and its
+walls are covered in strange symbols and texts.  The
+floor is made of a smooth black marble, covered in dust and
+dry leaves, blown in from the outside.
 ~
 0 0 2
 D2
@@ -3275,6 +3289,10 @@ Exiting the mausoleum.
 S 
 #2741
 An underground burial chamber~
+You are in a rough-hewn cave, with a dirt floor and 
+stone pillars holding up the low ceiling.  There is 
+a dirt tunnel leading east and a set of stairs leading
+down, to what appears to be a red glowing room.
 ~
 0 0 1
 D1
@@ -3282,9 +3300,18 @@ Heading through a dirt tunnel to the east.
 ~
 ~
 0 -1 2709
+D5
+A set of stairs leading down.
+~
+~
+0 -1 2742
 S 
 #2742
 Crypt of the Fire King~
+You are in a round chamber with a flame burning in the 
+middle of the floor, jumping and dancing to some unheard
+rhythym.  The walls are covered in hieroglyphs and pictures,
+showing some kind of history of the tomb's occupant.
 ~
 0 0 2
 D4
