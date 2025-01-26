@@ -3065,6 +3065,12 @@ Heading west along the path.
 ~
 ~
 0 -1 2724
+E
+letters headstones~
+Looking at the worn stone of the headstones you can barely 
+make out the following:
+HYRE LYES RYBALD SONNE OF SEAWARD
+~
 S 
 #2729
 At a small crossroads~
@@ -3125,12 +3131,18 @@ Exiting the mausoleum.
 ~
 ~
 0 -1 2729
+E
+fresco~
+The carving depicts a weeping woman turning away from a city in 
+the distance, which is being consumed in flame.
+~
 S 
 #2732
 On the crest of a hill in the graveyard~
 You are on the ridge of the hill, overlooking the graveyard.  To 
-the south you can see the entire plot, covered in grass and unkempt,
-with the occasional tree or mausoleum here and there.
+the south you can see the entire plot spread below you, covered 
+in unkempt weeds and grass, with the occasional tree or mausoleum 
+here and there.
 ~
 0 0 2
 D1
@@ -3156,6 +3168,12 @@ Walking along the crest of the hill.
 ~
 ~
 0 -1 2732
+E
+glyphs symbols~
+The symbols here are worn away by time, but you think you 
+can see the name of the headstone's dedication:
+MARVA DAUGHTER OF MALACHI 
+~
 S 
 #2734
 At the far end of the cemetery~
@@ -3230,6 +3248,13 @@ Exiting the mausoleum.
 ~
 ~
 0 -1 2735
+E
+symbols glyphs~
+The texts and writings here are in a very ancient script, but 
+you think you can make out one of the names of the tomb's 
+occupant:
+GORASH SON OF GARVUS
+~
 S
 #2738
 Trail along the fence line~
@@ -3286,6 +3311,12 @@ Exiting the mausoleum.
 ~
 ~
 0 -1 2739
+E
+walls symbols texts~
+The walls here are covered in writings about the ancient 
+gods and kings, and one name in particular stands out:
+DHAVR SON OF DAWN
+~
 S 
 #2741
 An underground burial chamber~
@@ -3319,6 +3350,13 @@ Leaving the crypt.
 ~
 ~
 0 -1 2741
+E
+lore history glyph hieroglyphs pictures~
+The painted walls depict an ancient city, hewn of black rock,
+growing in power and influence, but at the end being split
+apart by thunderbolts from the heavens.
+You might gain more insight by EXAMINing the CITY.
+~
 S 
 #0
 
