@@ -2067,6 +2067,16 @@ Exiting the tent to Market Square.
 ~
 ~
 0 -1 2672
+E
+sign~
+The sign reads:
+
+   Buy   - Buy something from the storekeeper.
+   List  - The storekeeper will tell you what's for sale.
+   Value - The storekeeper will tell you how much he will give to you for
+           that item.
+   Sell  - Sell that item to the storekeeper.
+~
 S 
 #2674 
 The Mapmaker's Shoppe~
@@ -2082,6 +2092,16 @@ Exiting the Shoppe to Market Square.
 ~
 ~
 0 -1 2672
+E
+sign~
+The sign reads:
+
+   Buy   - Buy something from the storekeeper.
+   List  - The storekeeper will tell you what's for sale.
+   Value - The storekeeper will tell you how much he will give to you for
+           that item.
+   Sell  - Sell that item to the storekeeper.
+~
 S 
 #2675
 Corner of Hardscrabble and Southern Way~
@@ -2229,6 +2249,16 @@ Leaving the Store to the Market Square.
 ~
 ~
 0 -1 2622
+E
+sign~
+The sign reads:
+
+   Buy   - Buy something from the storekeeper.
+   List  - The storekeeper will tell you what's for sale.
+   Value - The storekeeper will tell you how much he will give to you for
+           that item.
+   Sell  - Sell that item to the storekeeper.
+~
 S 
 #2684
 The Potions and Pfilters Shoppe~
@@ -2243,6 +2273,16 @@ Leaving the Shoppe to Red Crescent.
 ~
 ~
 0 -1 2612
+E
+sign~
+The sign reads:
+
+   Buy   - Buy something from the storekeeper.
+   List  - The storekeeper will tell you what's for sale.
+   Value - The storekeeper will tell you how much he will give to you for
+           that item.
+   Sell  - Sell that item to the storekeeper.
+~
 S 
 #2685
 Library of the Dark Sage~
@@ -2278,6 +2318,9 @@ The front entrance of the Library.
 S 
 #2687
 The Observatory Foyer~
+You are in a low stone archway, which leads south to a larger
+chamber, and east to the city streets.  A small {Ysign{x hangs 
+here.
 ~
 0 0 2
 D1 
@@ -2290,9 +2333,18 @@ The Observatory Platform.
 ~
 ~
 0 -1 2688
+E
+sign~
+Welcome to the City Observatory!  Here you can view the heavens and 
+see the wonder of the skies!
+~ 
 S 
 #2688
 The Observatory Platform~
+You are in the middle of a round chamber, with a high domed 
+ceiling.  The floor is of inlaid marble and stone, which is 
+in the form of some kind of pattern.  Stairs lead up to an 
+upper deck, which the exit to the foyer is to the north. 
 ~
 0 0 2
 D0
@@ -2308,6 +2360,9 @@ A ladder up the side of the Observatory, leading to an upper deck.
 S
 #2689
 The Observatory Upper Deck~
+You are on the polished marble and wood upper deck of the Observatory.
+Most of the area is taken up by a contraption made of shiny brass and
+copper tubes, which point through the ceiling towards the heavens.
 ~
 0 0 2
 D5 
@@ -2506,6 +2561,16 @@ Exiting the tent to Hardscrabble.
 ~
 ~
 0 -1 2670
+E
+sign~
+The sign reads:
+
+   Buy   - Buy something from the storekeeper.
+   List  - The storekeeper will tell you what's for sale.
+   Value - The storekeeper will tell you how much he will give to you for
+           that item.
+   Sell  - Sell that item to the storekeeper.
+~
 S 
 #2699
 The Lighthouse Entry~
@@ -2585,6 +2650,10 @@ Down the stairs to the first landing.
 S
 #2703
 The Lighthouse Observation Deck~
+You are on an observation deck, made of gilded wood and 
+secured with brass fittings.  From here you command a 
+view of the entire island, and the seas to the south
+and east.
 ~
 0 0 2
 D5
@@ -2701,6 +2770,9 @@ Winding your way to the west.
 S 
 #2709
 A dirt tunnel~
+You are in a dirt tunnel, winding through the earth.
+The low ceiling shows bare roots from the trees and
+the ground is crumbling soil and loose dirt.
 ~
 0 0 2
 D1 
@@ -2721,6 +2793,11 @@ Heading to the west.
 S 
 #2710
 An older mineshaft~
+You are in a stone chamber, shorn up with wooden pillars.
+A number of holes are bored into the rock here, as if the
+miners were taking small pieces of something that used to
+be embedded into the walls.  A dirt tunnel heads north and 
+a sinkhole leads down to another mine.
 ~
 0 0 2
 D0
@@ -2735,7 +2812,10 @@ Climbing down through a rocky hole.
 0 -1 2711
 S 
 #2711
-A rocky tunnel~
+A rocky cave tunnel~
+You are in a small tunnel, a natural cave that also served as 
+a passage between different mining points.  You can either 
+climb up or down here.
 ~
 0 0 2
 D4
