@@ -555,6 +555,19 @@ A
 4 1
 A
 5 1
+#2641
+coin gold~
+a gold coin~
+A large gold coin from a forgotten kingdom is lying here.~
+gold~
+treasure 0 AB
+0 0 0 0 0
+0 5 0 P
+E
+gold coin kingdom~
+This looks to be a gold coin from a time long past, as much of the 
+engravings and text on the coin are worn smooth.
+~ 
 #0
 
 
@@ -1167,13 +1180,22 @@ The Guild Houses and Practice Area~
 You find yourself in an airy room with a large, curved 
 ceiling.  Light flows in from the top of the ceiling and 
 illuminates a training area for all townsfolk.
-There is a small sign posted above the exit.
+There is a small {Ysign{x posted above the exit.
 ~
 0 0 2
 D3 
 ~
 ~
 0 -1 2626
+E
+sign~
+Welcome to the Guild Room.  Here you will learn your skills and spells.
+To find out what skills and spells you can practice and how many practice
+sessions you have, type '{Gpractice{x'.  To practice the specific skill, type
+'practice <skill>', where 'skill' is the skill or spell you wish to practice.
+Practicing increases the amount you know of that skill or spell, up to a
+certain maximum.
+~
 S
 #2628
 Ye Olde Quest Shoppe~
@@ -1188,6 +1210,16 @@ Heading out to Western Way.
 ~
 ~
 0 -1 2607
+E
+sign~
+The sign reads:
+
+   Buy   - Buy something from the storekeeper.
+   List  - The storekeeper will tell you what's for sale.
+   Value - The storekeeper will tell you how much he will give to you for
+           that item.
+   Sell  - Sell that item to the storekeeper.
+~
 S
 #2629
 The Sage's Library~
@@ -1201,6 +1233,16 @@ Heading out to Western Way.
 ~
 ~
 0 -1 2608
+E
+sign~
+The sign reads:
+
+   Buy   - Buy something from the storekeeper.
+   List  - The storekeeper will tell you what's for sale.
+   Value - The storekeeper will tell you how much he will give to you for
+           that item.
+   Sell  - Sell that item to the storekeeper.
+~
 S 
 #2630
 The Village Leatherworker~
@@ -1217,6 +1259,16 @@ Heading out the tent flap to Red Crescent.
 ~
 ~
 0 -1 2610
+E
+sign~
+The sign reads:
+
+   Buy   - Buy something from the storekeeper.
+   List  - The storekeeper will tell you what's for sale.
+   Value - The storekeeper will tell you how much he will give to you for
+           that item.
+   Sell  - Sell that item to the storekeeper.
+~
 S
 #2631
 The Northern Gates~
@@ -1318,7 +1370,7 @@ Through the Jungle Ruins.
 0 -1 2634
 S
 #2636
-The shrine to the Virtues~
+The Shrine to the Virtues~
 You are in a small cave, with a wide opening leading west.
 Carved into the wall of the cave are small alcoves and 
 shrines to the Seven Virtues. 
