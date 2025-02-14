@@ -310,6 +310,18 @@ E
 great axe~
 This axe is made of a glowing silvery metal. The wooden handle is made of
 black wood, and there are spider inscriptions up and down its length.~ 
+#22611
+sleeves mail~
+a pair of mail sleeves~
+A pair of mail sleeves is lying on the ground.~
+iron~
+armor 0 AI
+AB AB AB BC 0
+0 70 420 P
+A
+1 1
+A
+13 5
 #0
 
 
