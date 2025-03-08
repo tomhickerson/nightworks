@@ -3490,6 +3490,60 @@ apart by thunderbolts from the heavens.
 You might gain more insight by EXAMINing the CITY.
 ~
 S 
+#2743
+Entry to the Shrine of Virtues~
+You find yourself in a long hall of white marble, lit by glowing
+torches set in the walls, which give off no heat or smoke.
+Before you is a multicolored passageway, leading through the 
+altars dedicated to the different Virtues.  Your only way 
+out is ahead, past the altars.
+~
+0 0 2
+D1
+Moving in front of a red altar.
+~
+~
+0 -1 -1
+E
+sign~
+You are in the Shrine of the Virtues, a strange place which 
+ignores directions in the usual sense.  You can always leave 
+by walking past all the altars in this Shrine.
+~
+S 
+#2744
+Standing before the Altar of Fortitude~
+You are in a marble hall, with a baleful red light plays over 
+the walls and ceiling here.  You see a small, simple altar 
+next to the wall, carved of oak and bound with steel.  Above 
+the altar is a small icon, embedded into the wall.
+~
+0 0 2
+D1
+Moving in front of an orange altar.
+~
+~
+0 -1 -1
+E
+icon~
+~
+S 
+#2745
+Standing before the Altar of Sacrifice~
+You are in a marble hall, bathed in an orange light.  You see
+an altar against the wall here, with an icon emblazoned in 
+bronze standing above it.
+~
+0 0 2
+D1
+Moving in front of a yallow altar.
+~
+~
+0 -1 -1
+E 
+icon~
+~
+S 
 #0
 
 
