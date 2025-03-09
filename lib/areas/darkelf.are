@@ -458,17 +458,17 @@ is by far the most beautiful sight you have seen so far in this underground
 maze of the underdark. As you examine the room closer, you believe it may
 be used as an area to raise some sort of cattle type creature, you see signs
 of the presence of some type of grazing animal. You can enter the river to
-the west, or exit this cavern to the north.
+the east, or exit this cavern to the north.
 ~
 0 0 0
 D0
 ~
 ~
 0 -1 22605
-D3
+D1
 ~
 ~
-0 -1 -1
+0 -1 22220
 E
 river~
 The river flows fast from one end of the cavern to the other, entering and
