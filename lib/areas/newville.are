@@ -3544,6 +3544,22 @@ E
 icon~
 ~
 S 
+#2746
+Standing before the Altar of Justice~
+You are in a marble hall, lit by flickering yellow lights.  You 
+see an altar against the wall here, and a small bronze icon
+embedded in the wall above it.
+~
+0 0 2
+D1
+Moving in front of a green altar.
+~
+~
+0 -1 -1
+E
+icon~
+~
+S 
 #0
 
 
